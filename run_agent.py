@@ -7,7 +7,9 @@ from news_agent.generator import generate
 with open("config.json", encoding="utf-8") as f:
     config = json.load(f)
 
-deepseek_key = config.get("deepseek_api_key", "").strip()
+deepseek_key = os.environ.get("DEEPSEEK_KEY", "").strip()
+if not deepseek_key:
+    deepseek_key = config.get("deepseek_api_key", "").strip()
 
 print("NewsAgentPT78")
 print("=" * 40)
