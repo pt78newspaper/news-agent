@@ -1,6 +1,5 @@
 import re
 from collections import defaultdict
-from difflib import SequenceMatcher
 
 STOP_WORDS = {
     "the","a","an","and","or","but","in","on","at","to","for",
@@ -18,9 +17,22 @@ STOP_WORDS = {
     "first","last","after","year","years","time","one","two",
 }
 
+POSITIVE = {
+    "deal","agreement","peace","success","growth","boost","support",
+    "aid","help","improve","breakthrough","progress","cooperation",
+    "victory","win","good","strong","stable","recovery","hope",
+    "opportunity","development","investment","partnership"
+}
+
+NEGATIVE = {
+    "war","conflict","crisis","sanctions","death","attack","strike",
+    "kill","destroy","damage","threat","danger","fear","loss",
+    "fail","failure","problem","disaster","emergency","collapse",
+    "violence","weapon","military","blame","accuse","condemn"
+}
+
 def tokenize(text):
-    tokens = re.findall(r"[a-zA-ZЀ-ӿ]{3,}", text.lower())
-    return [t for t in tokens if t not in STOP_WORDS]
+    return [t for t in re.findall(r"[a-zA-Z\u0400-\u04FF]{3,}", text.lower()) if t not in STOP_WORDS]
 
 def extract_keywords(title, summary=""):
     freq = defaultdict(int)
@@ -28,12 +40,15 @@ def extract_keywords(title, summary=""):
         freq[t] += 1
     return [w for w, _ in sorted(freq.items(), key=lambda x: -x[1])[:10]]
 
-def title_similarity(t1, t2):
-    return SequenceMatcher(None,
-        re.sub(r"[^\w\s]","",t1.lower()),
-        re.sub(r"[^\w\s]","",t2.lower())).ratio()
+def detect_sentiment(text):
+    words = tokenize(text)
+    pos = sum(1 for w in words if w in POSITIVE)
+    neg = sum(1 for w in words if w in NEGATIVE)
+    if pos > neg: return "positive"
+    if neg > pos: return "negative"
+    return "neutral"
 
-def cluster_news(articles, threshold=0.30):
+def cluster_news(articles, threshold=0.28):
     clusters = []
     used = set()
     for i, a in enumerate(articles):
@@ -42,9 +57,74 @@ def cluster_news(articles, threshold=0.30):
         used.add(i)
         for j in range(i+1, len(articles)):
             if j in used: continue
-            if title_similarity(a["title"], articles[j]["title"]) >= threshold:
+            kw_i = set(extract_keywords(a["title"], a["summary"]))
+            kw_j = set(extract_keywords(articles[j]["title"], articles[j]["summary"]))
+            overlap = len(kw_i & kw_j)
+            if overlap >= 2:
                 cluster.append(articles[j])
                 used.add(j)
         clusters.append(cluster)
     clusters.sort(key=lambda c: len(c), reverse=True)
     return clusters
+
+def analyze_perspectives(cluster):
+    regions = defaultdict(list)
+    for a in cluster:
+        regions[a["region_label"]].append(a)
+
+    results = []
+    all_sentiments = {}
+    region_keywords = {}
+
+    for rl, arts in regions.items():
+        kw = set()
+        titles = []
+        for a in arts:
+            kw.update(extract_keywords(a["title"], a["summary"])[:5])
+            titles.append(a["title"])
+        combined = " ".join(titles)
+        sentiment = detect_sentiment(combined)
+        all_sentiments[rl] = sentiment
+        region_keywords[rl] = list(kw)[:5]
+        results.append({
+            "region": rl,
+            "articles": arts,
+            "keywords": list(kw)[:5],
+            "sentiment": sentiment,
+            "color": arts[0]["region_color"],
+        })
+
+    present = {r["region"] for r in results}
+    comparison = []
+
+    ru_label = [r for r in present if "Рос" in r or "Rossiya" in r.replace("Rossiya","Россия")]
+    ru_label = ru_label[0] if ru_label else "Россия"
+    west_label = [r for r in present if "Зап" in r or "Zapad" in r.replace("Zapad","Запад")]
+    west_label = west_label[0] if west_label else "Запад"
+
+    if ru_label in all_sentiments and west_label in all_sentiments:
+        rs = all_sentiments[ru_label]
+        ws = all_sentiments[west_label]
+        if rs != ws:
+            comparison.append(f"Россия и Запад освещают в разном ключе: {rs} vs {ws}")
+        else:
+            comparison.append(f"Россия и Запад оценивают ситуацию сходно ({rs}).")
+
+    if ru_label in region_keywords and west_label in region_keywords:
+        ru_kw = set(region_keywords[ru_label])
+        west_kw = set(region_keywords[west_label])
+        only_ru = ru_kw - west_kw
+        only_west = west_kw - ru_kw
+        if only_ru:
+            comparison.append(f"Россия акцентирует: {', '.join(list(only_ru)[:3])}.")
+        if only_west:
+            comparison.append(f"Запад акцентирует: {', '.join(list(only_west)[:3])}.")
+
+    brics = {r for r in present if r in ("Россия", "Китай", "Индия", "Индонезия")}
+    if len(brics) >= 2 and west_label in present:
+        brics_sentiments = [all_sentiments[r] for r in brics if r in all_sentiments]
+        west_sent = all_sentiments.get(west_label, "")
+        if brics_sentiments and west_sent and any(s != west_sent for s in brics_sentiments):
+            comparison.append("Страны БРИКС придерживаются иного взгляда, чем Запад.")
+
+    return results, comparison
