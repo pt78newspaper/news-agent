@@ -18,7 +18,7 @@ jobs:
           python-version: '3.12'
 
       - name: Install deps
-        run: pip install requests feedparser
+        run: pip install requests feedparser python-dateutil
 
       - name: Run agent
         run: python run_agent.py
