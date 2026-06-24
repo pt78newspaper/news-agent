@@ -32,6 +32,14 @@
   .header h1 { font-size: 28px; color: #fff; margin-bottom: 8px; }
   .header .subtitle { color: var(--text-dim); font-size: 14px; }
   .header .update-time { color: var(--accent); font-size: 13px; margin-top: 8px; }
+  .header .ai-badge {
+    display: inline-block;
+    font-size: 10px; font-weight: 600;
+    padding: 2px 8px; border-radius: 4px;
+    background: #4d6bfe; color: #fff;
+    margin-left: 8px; vertical-align: middle;
+    letter-spacing: 0.5px;
+  }
   .container { max-width: 1100px; margin: 0 auto; padding: 20px; }
   .stats-row {
     display: flex; gap: 12px; flex-wrap: wrap;
@@ -83,6 +91,31 @@
     line-height: 1.4;
   }
   .story-body { padding: 16px 20px; }
+  .summary {
+    background: rgba(255,255,255,0.03);
+    border-radius: 8px;
+    padding: 12px 14px;
+    margin-bottom: 12px;
+    font-size: 14px;
+    color: var(--text);
+    line-height: 1.5;
+  }
+  .comparison {
+    margin-bottom: 12px;
+    padding: 12px 14px;
+    background: rgba(124,92,252,0.08);
+    border-radius: 8px;
+    border: 1px solid rgba(124,92,252,0.2);
+  }
+  .compare-title {
+    font-size: 11px; text-transform: uppercase;
+    letter-spacing: 1.5px; color: var(--accent);
+    margin-bottom: 6px;
+  }
+  .compare-item {
+    font-size: 13px; color: var(--text);
+    padding: 4px 0;
+  }
   .perspectives-title {
     font-size: 12px; text-transform: uppercase;
     letter-spacing: 1.5px; color: var(--text-dim);
@@ -122,22 +155,6 @@
     background: rgba(255,255,255,0.06);
     border-radius: 3px; color: var(--text-dim);
   }
-  .comparison {
-    margin-top: 12px;
-    padding: 12px 14px;
-    background: rgba(124,92,252,0.08);
-    border-radius: 8px;
-    border: 1px solid rgba(124,92,252,0.2);
-  }
-  .compare-title {
-    font-size: 11px; text-transform: uppercase;
-    letter-spacing: 1.5px; color: var(--accent);
-    margin-bottom: 6px;
-  }
-  .compare-item {
-    font-size: 13px; color: var(--text);
-    padding: 4px 0;
-  }
   .story-footer {
     padding: 10px 20px;
     border-top: 1px solid var(--border);
@@ -164,7 +181,7 @@
 <div class="header">
   <h1>News Feed PT78</h1>
   <p class="subtitle">Global media monitoring</p>
-  <p class="update-time">Updated: <span id="update-utc">__UPDATE_TIME__</span></p>
+  <p class="update-time">Updated: <span id="update-utc">__UPDATE_TIME__</span>__AI_BADGE__</p>
   <script>
     (function(){
       var el = document.getElementById('update-utc');
