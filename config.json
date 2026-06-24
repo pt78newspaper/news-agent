@@ -3,6 +3,7 @@
   "min_russia_news": 3,
   "fetch_interval_hours": 3,
   "language": "ru",
+  "deepseek_api_key": "",
   "sources": {
     "russia": {"label": "Россия", "color": "#d32f2f", "feeds": [
       "https://tass.com/rss/v2.xml",
