@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>News Feed PT78</title>
+<style>
+  :root {
+    --bg: #0f0f1a;
+    --card: #1a1a2e;
+    --card-hover: #222240;
+    --text: #e0e0e0;
+    --text-dim: #8888aa;
+    --border: #2a2a4a;
+    --accent: #7c5cfc;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+  }
+  .header {
+    padding: 40px 20px 20px;
+    text-align: center;
+    border-bottom: 1px solid var(--border);
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+  }
+  .header h1 { font-size: 28px; color: #fff; margin-bottom: 8px; }
+  .header .subtitle { color: var(--text-dim); font-size: 14px; }
+  .header .update-time { color: var(--accent); font-size: 13px; margin-top: 8px; }
+  .container { max-width: 1100px; margin: 0 auto; padding: 20px; }
+  .stats-row {
+    display: flex; gap: 12px; flex-wrap: wrap;
+    justify-content: center; margin-bottom: 30px;
+  }
+  .stat-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 12px 20px;
+    text-align: center;
+    min-width: 100px;
+  }
+  .stat-card .num { font-size: 24px; font-weight: 700; color: #fff; }
+  .stat-card .lbl { font-size: 11px; color: var(--text-dim); text-transform: uppercase; letter-spacing: 1px; }
+  .story { margin-bottom: 24px; }
+  .story-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+    transition: border-color 0.2s, background 0.2s;
+  }
+  .story-card:hover { border-color: var(--accent); background: var(--card-hover); }
+  .story-header {
+    padding: 16px 20px;
+    border-bottom: 1px solid var(--border);
+    display: flex; align-items: flex-start; gap: 12px;
+  }
+  .story-number {
+    background: var(--accent);
+    color: #fff;
+    width: 28px; height: 28px;
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 13px; font-weight: 700;
+    flex-shrink: 0; margin-top: 2px;
+  }
+  .story-title {
+    font-size: 17px; font-weight: 600;
+    color: #fff;
+    line-height: 1.4;
+  }
+  .story-body { padding: 16px 20px; }
+  .perspectives-title {
+    font-size: 12px; text-transform: uppercase;
+    letter-spacing: 1.5px; color: var(--text-dim);
+    margin-bottom: 10px;
+  }
+  .perspectives { display: flex; flex-direction: column; gap: 8px; }
+  .perspective {
+    padding: 10px 14px;
+    border-radius: 8px;
+    border-left: 3px solid var(--region-color, var(--accent));
+    background: rgba(255,255,255,0.03);
+  }
+  .perspective .region-tag {
+    display: inline-block;
+    font-size: 11px; font-weight: 600;
+    padding: 2px 8px; border-radius: 4px;
+    margin-bottom: 4px;
+    color: #fff;
+    background: var(--region-color, var(--accent));
+  }
+  .perspective .headline {
+    font-size: 13px; color: var(--text);
+    margin-bottom: 4px;
+  }
+  .perspective .meta {
+    font-size: 11px; color: var(--text-dim);
+  }
+  .perspective .meta a {
+    color: var(--accent); text-decoration: none;
+  }
+  .perspective .meta a:hover { text-decoration: underline; }
+  .perspective .keywords {
+    margin-top: 6px; display: flex; gap: 4px; flex-wrap: wrap;
+  }
+  .keyword {
+    font-size: 10px; padding: 1px 6px;
+    background: rgba(255,255,255,0.06);
+    border-radius: 3px; color: var(--text-dim);
+  }
+  .story-footer {
+    padding: 10px 20px;
+    border-top: 1px solid var(--border);
+    font-size: 11px;
+    color: var(--text-dim);
+    display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px;
+  }
+  .tag { color: var(--accent); }
+  .no-news {
+    text-align: center; padding: 60px 20px;
+    color: var(--text-dim);
+  }
+  .no-news h2 { font-size: 22px; margin-bottom: 10px; color: #fff; }
+  @media (max-width: 600px) {
+    .header h1 { font-size: 22px; }
+    .story-header { flex-direction: column; }
+    .story-title { font-size: 15px; }
+  }
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>News Feed PT78</h1>
+  <p class="subtitle">Global media monitoring - Perspective comparison</p>
+  <p class="update-time">Updated: 24 June 2026, 09:58 UTC</p>
+</div>
+<div class="container">
+  <div class="stats-row">
+    <div class="stat-card"><div class="num">10</div><div class="lbl">Stories</div></div>
+    <div class="stat-card"><div class="num">12</div><div class="lbl">Sources</div></div>
+    <div class="stat-card"><div class="num">6</div><div class="lbl">Regions</div></div>
+  </div>
+  <div class="story">
+  <div class="story-card">
+    <div class="story-header">
+      <div class="story-number">1</div>
+      <div class="story-title">Iran says deal to end West Asia war 'declaration of U.S. defeat'</div>
+    </div>
+    <div class="story-body">
+      <div class="perspectives-title">Coverage across regions</div><div class="perspectives"><div class="perspective" style="--region-color: #ff8f00">
+  <span class="region-tag">Индия</span>
+  <div class="meta">
+    <a href="https://www.thehindu.com/news/international/iran-says-deal-to-end-west-asia-war-declaration-of-us-defeat/article71141118.ece" target="_blank" rel="noopener">www.thehindu.com</a>
+  </div>
+  <div class="headline">Iran says deal to end West Asia war 'declaration of U.S. defeat'</div>
+  <div class="keywords"><span class="keyword">result</span> <span class="keyword">iranian</span> <span class="keyword">iran</span> <span class="keyword">deal</span></div>
+</div><div class="perspective" style="--region-color: #1565c0">
+  <span class="region-tag">Запад</span>
+  <div class="meta">
+    <a href="https://www.theguardian.com/politics/live/2026/jun/24/andy-burnham-labour-leadership-starmer-darren-jones-pmqs-latest-news-updates" target="_blank" rel="noopener">www.theguardian.com</a>
+  </div>
+  <div class="headline">Darren Jones says bond markets should be ‘content’ with Burnham’s economic plans – UK politics live</div>
+  <div class="keywords"><span class="keyword">burnham</span> <span class="keyword">darren</span> <span class="keyword">jones</span> <span class="keyword">politics</span></div>
+</div><div class="perspective" style="--region-color: #d32f2f">
+  <span class="region-tag">Россия</span>
+  <div class="meta">
+    <a href="https://tass.com/science/2150795" target="_blank" rel="noopener">tass.com</a>
+  </div>
+  <div class="headline">Cosmonaut Kikina plans to report on spacewalks, ISS events</div>
+  <div class="keywords"><span class="keyword">kikina</span> <span class="keyword">iss</span> <span class="keyword">tass</span> <span class="keyword">cosmonaut</span></div>
+</div><div class="perspective" style="--region-color: #00897b">
+  <span class="region-tag">Индонезия</span>
+  <div class="meta">
+    <a href="https://www.antaranews.com/berita/5620455/bikin-bangga-empat-film-indonesia-diputar-di-festival-film-shanghai" target="_blank" rel="noopener">www.antaranews.com</a>
+  </div>
+  <div class="headline">Bikin bangga, empat film Indonesia diputar di festival film Shanghai</div>
+  <div class="keywords"><span class="keyword">quot</span> <span class="keyword">film</span> <span class="keyword">empat</span> <span class="keyword">indonesia</span></div>
+</div><div class="perspective" style="--region-color: #6a1b9a">
+  <span class="region-tag">Иран</span>
+  <div class="meta">
+    <a href="https://www.tehrantimes.com/news/527590/Iranshahr-Theater-to-host-Antonio-Buero-Vallejo-s-In-the-Burning" target="_blank" rel="noopener">www.tehrantimes.com</a>
+  </div>
+  <div class="headline">Iranshahr Theater to host Antonio Buero Vallejo’s “In the Burning Darkness”</div>
+  <div class="keywords"><span class="keyword">iranshahr</span> <span class="keyword">theater</span> <span class="keyword">host</span> <span class="keyword">antonio</span></div>
+</div><div class="perspective" style="--region-color: #e53935">
+  <span class="region-tag">Китай</span>
+  <div class="meta">
+    <a href="http://www.chinadaily.com.cn/a/201712/12/WS5a2f25bda3108bc8c6721a0b.html" target="_blank" rel="noopener">www.chinadaily.com.cn</a>
+  </div>
+  <div class="headline">Beijing, Moscow drill for potential missile warfare</div>
+  <div class="keywords"><span class="keyword">missile</span> <span class="keyword">drill</span> <span class="keyword">potential</span> <span class="keyword">beijing</span></div>
+</div></div>
+    </div>
+    <div class="story-footer">
+      <span><strong>6</strong> regions cover this</span>
+      <span class="tag">#macron #kasus #disinfectant #open #deputy</span>
+    </div>
+  </div>
+</div><div class="story">
+  <div class="story-card">
+    <div class="story-header">
+      <div class="story-number">2</div>
+      <div class="story-title">ОДКБ пристально следит за военными маневрами стран НАТО</div>
+    </div>
+    <div class="story-body">
+      <div class="perspectives-title">Coverage across regions</div><div class="perspectives"><div class="perspective" style="--region-color: #d32f2f">
+  <span class="region-tag">Россия</span>
+  <div class="meta">
+    <a href="https://tass.ru/mezhdunarodnaya-panorama/27851765" target="_blank" rel="noopener">tass.ru</a>
+  </div>
+  <div class="headline">ОДКБ пристально следит за военными маневрами стран НАТО</div>
+  <div class="keywords"><span class="keyword">одкб</span> <span class="keyword">пристально</span> <span class="keyword">следит</span> <span class="keyword">военными</span></div>
+</div></div>
+    </div>
+    <div class="story-footer">
+      <span><strong>1</strong> regions cover this</span>
+      <span class="tag">#официально #без #заявили #исчезновения #гонки</span>
+    </div>
+  </div>
+</div><div class="story">
+  <div class="story-card">
+    <div class="story-header">
+      <div class="story-number">3</div>
+      <div class="story-title">ГД приняла поправки в Налоговый кодекс для стимулирования производства топлива</div>
+    </div>
+    <div class="story-body">
+      <div class="perspectives-title">Coverage across regions</div><div class="perspectives"><div class="perspective" style="--region-color: #d32f2f">
+  <span class="region-tag">Россия</span>
+  <div class="meta">
+    <a href="https://tass.ru/ekonomika/27851861" target="_blank" rel="noopener">tass.ru</a>
+  </div>
+  <div class="headline">ГД приняла поправки в Налоговый кодекс для стимулирования производства топлива</div>
+  <div class="keywords"><span class="keyword">приняла</span> <span class="keyword">поправки</span> <span class="keyword">налоговый</span> <span class="keyword">кодекс</span></div>
+</div></div>
+    </div>
+    <div class="story-footer">
+      <span><strong>1</strong> regions cover this</span>
+      <span class="tag">#срочно #заявили #экстремистской #должны #уголовным</span>
+    </div>
+  </div>
+</div><div class="story">
+  <div class="story-card">
+    <div class="story-header">
+      <div class="story-number">4</div>
+      <div class="story-title">RI-Inggris perkuat kerja sama konservasi, pembiayaan kawasan lindung</div>
+    </div>
+    <div class="story-body">
+      <div class="perspectives-title">Coverage across regions</div><div class="perspectives"><div class="perspective" style="--region-color: #00897b">
+  <span class="region-tag">Индонезия</span>
+  <div class="meta">
+    <a href="https://www.antaranews.com/berita/5621092/ri-inggris-perkuat-kerja-sama-konservasi-pembiayaan-kawasan-lindung" target="_blank" rel="noopener">www.antaranews.com</a>
+  </div>
+  <div class="headline">RI-Inggris perkuat kerja sama konservasi, pembiayaan kawasan lindung</div>
+  <div class="keywords"><span class="keyword">inggris</span> <span class="keyword">kerja</span> <span class="keyword">sama</span> <span class="keyword">konservasi</span></div>
+</div><div class="perspective" style="--region-color: #ff8f00">
+  <span class="region-tag">Индия</span>
+  <div class="meta">
+    <a href="https://timesofindia.indiatimes.com/world/us/after-being-laid-off-from-a-corporate-job-woman-saved-24000-and-turned-an-abandoned-joann-store-into-a-two-day-craft-festival/articleshow/131956238.cms" target="_blank" rel="noopener">timesofindia.indiatimes.com</a>
+  </div>
+  <div class="headline">After being laid off from a corporate job, woman saved $24,000 and turned an abandoned Joann store into a two-day craft festival</div>
+  <div class="keywords"><span class="keyword">margin</span> <span class="keyword">laid</span> <span class="keyword">off</span> <span class="keyword">corporate</span></div>
+</div><div class="perspective" style="--region-color: #1565c0">
+  <span class="region-tag">Запад</span>
+  <div class="meta">
+    <a href="https://www.theguardian.com/environment/2026/jun/23/searing-uk-heat-leaves-schools-hospitals-and-transport-networks-struggling-to-cope" target="_blank" rel="noopener">www.theguardian.com</a>
+  </div>
+  <div class="headline">Searing UK heat leaves schools, hospitals and transport networks struggling to cope</div>
+  <div class="keywords"><span class="keyword">heat</span> <span class="keyword">searing</span> <span class="keyword">schools</span> <span class="keyword">hospitals</span></div>
+</div></div>
+    </div>
+    <div class="story-footer">
+      <span><strong>3</strong> regions cover this</span>
+      <span class="tag">#wafa #img #high #temporarily #petugas</span>
+    </div>
+  </div>
+</div><div class="story">
+  <div class="story-card">
+    <div class="story-header">
+      <div class="story-number">5</div>
+      <div class="story-title">Watch: IShowSpeed loses it as Cristiano Ronaldo scores his first goal of the 2026 World Cup</div>
+    </div>
+    <div class="story-body">
+      <div class="perspectives-title">Coverage across regions</div><div class="perspectives"><div class="perspective" style="--region-color: #ff8f00">
+  <span class="region-tag">Индия</span>
+  <div class="meta">
+    <a href="https://timesofindia.indiatimes.com/world/us-streamers/watch-ishowspeed-loses-it-as-cristiano-ronaldo-scores-his-first-goal-of-the-2026-world-cup/articleshow/131949341.cms" target="_blank" rel="noopener">timesofindia.indiatimes.com</a>
+  </div>
+  <div class="headline">Watch: IShowSpeed loses it as Cristiano Ronaldo scores his first goal of the 2026 World Cup</div>
+  <div class="keywords"><span class="keyword">ronaldo</span> <span class="keyword">ishowspeed</span> <span class="keyword">cristiano</span> <span class="keyword">goal</span></div>
+</div><div class="perspective" style="--region-color: #1565c0">
+  <span class="region-tag">Запад</span>
+  <div class="meta">
+    <a href="https://www.nytimes.com/2026/06/22/world/europe/dutch-netherlands-apology-indonesia-moluccan.html" target="_blank" rel="noopener">rss.nytimes.com</a>
+  </div>
+  <div class="headline">Dutch Prime Minister Apologizes for Mistreatment of Moluccan Soldiers</div>
+  <div class="keywords"><span class="keyword">dutch</span> <span class="keyword">prime</span> <span class="keyword">minister</span> <span class="keyword">apologizes</span></div>
+</div></div>
+    </div>
+    <div class="story-footer">
+      <span><strong>2</strong> regions cover this</span>
+      <span class="tag">#loses #commercial #cites #moluccan #rob</span>
+    </div>
+  </div>
+</div><div class="story">
+  <div class="story-card">
+    <div class="story-header">
+      <div class="story-number">6</div>
+      <div class="story-title">Trump’s Colombia Prize</div>
+    </div>
+    <div class="story-body">
+      <div class="perspectives-title">Coverage across regions</div><div class="perspectives"><div class="perspective" style="--region-color: #1565c0">
+  <span class="region-tag">Запад</span>
+  <div class="meta">
+    <a href="https://www.nytimes.com/2026/06/23/world/trump-us-colombia-europe-heat-world-cup.html" target="_blank" rel="noopener">rss.nytimes.com</a>
+  </div>
+  <div class="headline">Trump’s Colombia Prize</div>
+  <div class="keywords"><span class="keyword">trump</span> <span class="keyword">colombia</span> <span class="keyword">prize</span> <span class="keyword">abelardo</span></div>
+</div><div class="perspective" style="--region-color: #e53935">
+  <span class="region-tag">Китай</span>
+  <div class="meta">
+    <a href="http://www.chinadaily.com.cn/a/201712/12/WS5a2ebd50a3108bc8c67218fe.html" target="_blank" rel="noopener">www.chinadaily.com.cn</a>
+  </div>
+  <div class="headline">UK and China allow more direct flights</div>
+  <div class="keywords"><span class="keyword">china</span> <span class="keyword">direct</span> <span class="keyword">flights</span> <span class="keyword">allow</span></div>
+</div></div>
+    </div>
+    <div class="story-footer">
+      <span><strong>2</strong> regions cover this</span>
+      <span class="tag">#allow #abelardo #appears #queensland #number</span>
+    </div>
+  </div>
+</div><div class="story">
+  <div class="story-card">
+    <div class="story-header">
+      <div class="story-number">7</div>
+      <div class="story-title">The Extraordinary Embezzlement Case That Rocked Scottish Politics</div>
+    </div>
+    <div class="story-body">
+      <div class="perspectives-title">Coverage across regions</div><div class="perspectives"><div class="perspective" style="--region-color: #1565c0">
+  <span class="region-tag">Запад</span>
+  <div class="meta">
+    <a href="https://www.nytimes.com/2026/06/23/world/europe/scotland-peter-murrell-nicola-sturgeon-scottish-national-party.html" target="_blank" rel="noopener">rss.nytimes.com</a>
+  </div>
+  <div class="headline">The Extraordinary Embezzlement Case That Rocked Scottish Politics</div>
+  <div class="keywords"><span class="keyword">scottish</span> <span class="keyword">extraordinary</span> <span class="keyword">embezzlement</span> <span class="keyword">case</span></div>
+</div></div>
+    </div>
+    <div class="story-footer">
+      <span><strong>1</strong> regions cover this</span>
+      <span class="tag">#murrell #case #former #scottish #politics</span>
+    </div>
+  </div>
+</div><div class="story">
+  <div class="story-card">
+    <div class="story-header">
+      <div class="story-number">8</div>
+      <div class="story-title">15356</div>
+    </div>
+    <div class="story-body">
+      <div class="perspectives-title">Coverage across regions</div><div class="perspectives"><div class="perspective" style="--region-color: #6a1b9a">
+  <span class="region-tag">Иран</span>
+  <div class="meta">
+    <a href="https://www.tehrantimes.com/photo/527604/15356" target="_blank" rel="noopener">www.tehrantimes.com</a>
+  </div>
+  <div class="headline">15356</div>
+  <div class="keywords"></div>
+</div></div>
+    </div>
+    <div class="story-footer">
+      <span><strong>1</strong> regions cover this</span>
+      <span class="tag">#news</span>
+    </div>
+  </div>
+</div><div class="story">
+  <div class="story-card">
+    <div class="story-header">
+      <div class="story-number">9</div>
+      <div class="story-title">Emojis frown on corruption</div>
+    </div>
+    <div class="story-body">
+      <div class="perspectives-title">Coverage across regions</div><div class="perspectives"><div class="perspective" style="--region-color: #e53935">
+  <span class="region-tag">Китай</span>
+  <div class="meta">
+    <a href="http://www.chinadaily.com.cn/a/201712/11/WS5a2e7338a3109f488237c969.html" target="_blank" rel="noopener">www.chinadaily.com.cn</a>
+  </div>
+  <div class="headline">Emojis frown on corruption</div>
+  <div class="keywords"><span class="keyword">emojis</span> <span class="keyword">frown</span> <span class="keyword">corruption</span> <span class="keyword">package</span></div>
+</div></div>
+    </div>
+    <div class="story-footer">
+      <span><strong>1</strong> regions cover this</span>
+      <span class="tag">#frown #eight #point #austerity #corruption</span>
+    </div>
+  </div>
+</div><div class="story">
+  <div class="story-card">
+    <div class="story-header">
+      <div class="story-number">10</div>
+      <div class="story-title">Britain, EU could strike trade deal within a year, says Brexit chief</div>
+    </div>
+    <div class="story-body">
+      <div class="perspectives-title">Coverage across regions</div><div class="perspectives"><div class="perspective" style="--region-color: #e53935">
+  <span class="region-tag">Китай</span>
+  <div class="meta">
+    <a href="http://www.chinadaily.com.cn/a/201712/11/WS5a2df983a310eefe3e9a271a.html" target="_blank" rel="noopener">www.chinadaily.com.cn</a>
+  </div>
+  <div class="headline">Britain, EU could strike trade deal within a year, says Brexit chief</div>
+  <div class="keywords"><span class="keyword">britain</span> <span class="keyword">deal</span> <span class="keyword">brexit</span> <span class="keyword">strike</span></div>
+</div></div>
+    </div>
+    <div class="story-footer">
+      <span><strong>1</strong> regions cover this</span>
+      <span class="tag">#deal #davis #chief #trade #david</span>
+    </div>
+  </div>
+</div>
+  <div style="text-align:center;padding:30px 0;color:var(--text-dim);font-size:12px">
+    Generated by NewsAgentPT78 - Next update in 3 hours
+  </div>
+</div>
+</body>
+</html>
