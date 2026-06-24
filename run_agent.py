@@ -7,13 +7,19 @@ from news_agent.generator import generate
 with open("config.json", encoding="utf-8") as f:
     config = json.load(f)
 
+openrouter_key = os.environ.get("OPENROUTER_KEY", "").strip()
 deepseek_key = os.environ.get("DEEPSEEK_KEY", "").strip()
 if not deepseek_key:
     deepseek_key = config.get("deepseek_api_key", "").strip()
 
+ai_key = openrouter_key or deepseek_key
+ai_provider = "openrouter" if openrouter_key else ("deepseek" if deepseek_key else None)
+
 print("NewsAgentPT78")
 print("=" * 40)
-if deepseek_key and deepseek_key != "PASTE_YOUR_DEEPSEEK_KEY_HERE":
+if ai_provider == "openrouter":
+    print(f"  AI: OpenRouter enabled (key: {openrouter_key[:8]}...)")
+elif ai_provider == "deepseek":
     print(f"  AI: DeepSeek enabled (key: {deepseek_key[:8]}...)")
 else:
     print("  AI: DISABLED (no API key)")
@@ -22,7 +28,7 @@ articles = fetch_all(config)
 
 if not articles:
     print("No news. Generating empty page.")
-    generate([], "output", deepseek_key=deepseek_key)
+    generate([], "output", ai_key=ai_key, ai_provider=ai_provider)
     sys.exit(0)
 
 clusters = cluster_news(articles)
@@ -36,4 +42,4 @@ if remaining > 0:
     selected += other_clusters[:remaining]
 
 print(f"Russia stories: {len(russia_clusters)}, in feed: {len(selected)}")
-generate(selected, "output", deepseek_key=deepseek_key)
+generate(selected, "output", ai_key=ai_key, ai_provider=ai_provider)
