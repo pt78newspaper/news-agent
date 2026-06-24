@@ -1,29 +1,30 @@
-name: Fetch News
+name: Fetch News Agent
+
 on:
   schedule:
     - cron: '0 */3 * * *'
   workflow_dispatch:
-permissions:
-  contents: write
-  pages: write
-  id-token: write
-concurrency:
-  group: pages
-  cancel-in-progress: false
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    env:
+      DEEPSEEK_KEY: ${{ secrets.DEEPSEEK }}
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-          cache: 'pip'
-      - run: pip install -r requirements.txt
-      - run: python run_agent.py
-      - name: Deploy to GitHub Pages
+
+      - name: Install deps
+        run: pip install requests feedparser
+
+      - name: Run agent
+        run: python run_agent.py
+
+      - name: Deploy to Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./output
-          keep_files: false
