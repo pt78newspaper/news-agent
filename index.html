@@ -137,12 +137,31 @@
 <div class="header">
   <h1>News Feed PT78</h1>
   <p class="subtitle">Global media monitoring - Perspective comparison</p>
-  <p class="update-time">Updated: 24 June 2026, 09:58 UTC</p>
+  <p class="update-time">Updated: <span id="update-time">24 June 2026, 10:05 UTC</span> <span class="local-hint">(UTC)</span></p>
+<script>
+(function() {
+  var el = document.getElementById('update-time');
+  if (el) {
+    var utcStr = el.textContent.trim();
+    var d = new Date(utcStr + ' UTC');
+    if (!isNaN(d.getTime())) {
+      var local = d.toLocaleString(undefined, {
+        year: 'numeric', month: 'long', day: 'numeric',
+        hour: '2-digit', minute: '2-digit'
+      });
+      var tz = Intl.DateTimeFormat().resolvedOptions().timeZone;
+      el.textContent = local;
+      var hint = el.nextElementSibling;
+      if (hint) hint.textContent = '(' + tz + ')';
+    }
+  }
+})();
+</script>
 </div>
 <div class="container">
   <div class="stats-row">
     <div class="stat-card"><div class="num">10</div><div class="lbl">Stories</div></div>
-    <div class="stat-card"><div class="num">12</div><div class="lbl">Sources</div></div>
+    <div class="stat-card"><div class="num">11</div><div class="lbl">Sources</div></div>
     <div class="stat-card"><div class="num">6</div><div class="lbl">Regions</div></div>
   </div>
   <div class="story">
@@ -183,10 +202,10 @@
 </div><div class="perspective" style="--region-color: #6a1b9a">
   <span class="region-tag">Иран</span>
   <div class="meta">
-    <a href="https://www.tehrantimes.com/news/527590/Iranshahr-Theater-to-host-Antonio-Buero-Vallejo-s-In-the-Burning" target="_blank" rel="noopener">www.tehrantimes.com</a>
+    <a href="https://www.tehrantimes.com/news/527600/Pezeshkian-to-go-to-Pakistan-on-a-one-day-visit-tomorrow" target="_blank" rel="noopener">www.tehrantimes.com</a>
   </div>
-  <div class="headline">Iranshahr Theater to host Antonio Buero Vallejo’s “In the Burning Darkness”</div>
-  <div class="keywords"><span class="keyword">iranshahr</span> <span class="keyword">theater</span> <span class="keyword">host</span> <span class="keyword">antonio</span></div>
+  <div class="headline">Pezeshkian to go to Pakistan on a one-day visit tomorrow</div>
+  <div class="keywords"><span class="keyword">pezeshkian</span> <span class="keyword">pakistan</span> <span class="keyword">day</span> <span class="keyword">visit</span></div>
 </div><div class="perspective" style="--region-color: #e53935">
   <span class="region-tag">Китай</span>
   <div class="meta">
@@ -198,118 +217,139 @@
     </div>
     <div class="story-footer">
       <span><strong>6</strong> regions cover this</span>
-      <span class="tag">#macron #kasus #disinfectant #open #deputy</span>
+      <span class="tag">#donald #arrests #ebola #severe #beijing</span>
     </div>
   </div>
 </div><div class="story">
   <div class="story-card">
     <div class="story-header">
       <div class="story-number">2</div>
-      <div class="story-title">ОДКБ пристально следит за военными маневрами стран НАТО</div>
+      <div class="story-title">В центре Москвы перекрыли движение</div>
     </div>
     <div class="story-body">
       <div class="perspectives-title">Coverage across regions</div><div class="perspectives"><div class="perspective" style="--region-color: #d32f2f">
   <span class="region-tag">Россия</span>
   <div class="meta">
-    <a href="https://tass.ru/mezhdunarodnaya-panorama/27851765" target="_blank" rel="noopener">tass.ru</a>
+    <a href="https://lenta.ru/news/2026/06/24/v-tsentre-moskvy-perekryli-dvizhenie/" target="_blank" rel="noopener">lenta.ru</a>
   </div>
-  <div class="headline">ОДКБ пристально следит за военными маневрами стран НАТО</div>
-  <div class="keywords"><span class="keyword">одкб</span> <span class="keyword">пристально</span> <span class="keyword">следит</span> <span class="keyword">военными</span></div>
+  <div class="headline">В центре Москвы перекрыли движение</div>
+  <div class="keywords"><span class="keyword">центре</span> <span class="keyword">москвы</span> <span class="keyword">перекрыли</span> <span class="keyword">движение</span></div>
 </div></div>
     </div>
     <div class="story-footer">
       <span><strong>1</strong> regions cover this</span>
-      <span class="tag">#официально #без #заявили #исчезновения #гонки</span>
+      <span class="tag">#мировые #европейской #нарушении #приговор #найден</span>
     </div>
   </div>
 </div><div class="story">
   <div class="story-card">
     <div class="story-header">
       <div class="story-number">3</div>
-      <div class="story-title">ГД приняла поправки в Налоговый кодекс для стимулирования производства топлива</div>
+      <div class="story-title">Press review: Israel-Lebanon talks reveal rift and US reassures Gulf as Iran reshapes ties</div>
     </div>
     <div class="story-body">
       <div class="perspectives-title">Coverage across regions</div><div class="perspectives"><div class="perspective" style="--region-color: #d32f2f">
   <span class="region-tag">Россия</span>
   <div class="meta">
-    <a href="https://tass.ru/ekonomika/27851861" target="_blank" rel="noopener">tass.ru</a>
+    <a href="https://tass.com/pressreview/2150737" target="_blank" rel="noopener">tass.com</a>
   </div>
-  <div class="headline">ГД приняла поправки в Налоговый кодекс для стимулирования производства топлива</div>
-  <div class="keywords"><span class="keyword">приняла</span> <span class="keyword">поправки</span> <span class="keyword">налоговый</span> <span class="keyword">кодекс</span></div>
-</div></div>
-    </div>
-    <div class="story-footer">
-      <span><strong>1</strong> regions cover this</span>
-      <span class="tag">#срочно #заявили #экстремистской #должны #уголовным</span>
-    </div>
+  <div class="headline">Press review: Israel-Lebanon talks reveal rift and US reassures Gulf as Iran reshapes ties</div>
+  <div class="keywords"><span class="keyword">press</span> <span class="keyword">review</span> <span class="keyword">israel</span> <span class="keyword">lebanon</span></div>
+</div><div class="perspective" style="--region-color: #1565c0">
+  <span class="region-tag">Запад</span>
+  <div class="meta">
+    <a href="https://www.nytimes.com/2026/06/24/world/middleeast/middle-east-iran-us-rubio.html" target="_blank" rel="noopener">rss.nytimes.com</a>
   </div>
-</div><div class="story">
-  <div class="story-card">
-    <div class="story-header">
-      <div class="story-number">4</div>
-      <div class="story-title">RI-Inggris perkuat kerja sama konservasi, pembiayaan kawasan lindung</div>
-    </div>
-    <div class="story-body">
-      <div class="perspectives-title">Coverage across regions</div><div class="perspectives"><div class="perspective" style="--region-color: #00897b">
+  <div class="headline">Rubio Seeks to Reassure Persian Gulf Allies on Iran Deal</div>
+  <div class="keywords"><span class="keyword">rubio</span> <span class="keyword">seeks</span> <span class="keyword">reassure</span> <span class="keyword">persian</span></div>
+</div><div class="perspective" style="--region-color: #ff8f00">
+  <span class="region-tag">Индия</span>
+  <div class="meta">
+    <a href="https://timesofindia.indiatimes.com/world/uk/uk-parents-jailed-over-12-year-old-sons-entirely-preventable-death-from-untreated-diabetes/articleshow/131961148.cms" target="_blank" rel="noopener">timesofindia.indiatimes.com</a>
+  </div>
+  <div class="headline">British parents jailed for son's preventable death</div>
+  <div class="keywords"><span class="keyword">margin</span> <span class="keyword">british</span> <span class="keyword">parents</span> <span class="keyword">jailed</span></div>
+</div><div class="perspective" style="--region-color: #00897b">
   <span class="region-tag">Индонезия</span>
   <div class="meta">
     <a href="https://www.antaranews.com/berita/5621092/ri-inggris-perkuat-kerja-sama-konservasi-pembiayaan-kawasan-lindung" target="_blank" rel="noopener">www.antaranews.com</a>
   </div>
   <div class="headline">RI-Inggris perkuat kerja sama konservasi, pembiayaan kawasan lindung</div>
   <div class="keywords"><span class="keyword">inggris</span> <span class="keyword">kerja</span> <span class="keyword">sama</span> <span class="keyword">konservasi</span></div>
-</div><div class="perspective" style="--region-color: #ff8f00">
-  <span class="region-tag">Индия</span>
+</div><div class="perspective" style="--region-color: #6a1b9a">
+  <span class="region-tag">Иран</span>
   <div class="meta">
-    <a href="https://timesofindia.indiatimes.com/world/us/after-being-laid-off-from-a-corporate-job-woman-saved-24000-and-turned-an-abandoned-joann-store-into-a-two-day-craft-festival/articleshow/131956238.cms" target="_blank" rel="noopener">timesofindia.indiatimes.com</a>
+    <a href="https://www.tehrantimes.com/news/527590/Iranshahr-Theater-to-host-Antonio-Buero-Vallejo-s-In-the-Burning" target="_blank" rel="noopener">www.tehrantimes.com</a>
   </div>
-  <div class="headline">After being laid off from a corporate job, woman saved $24,000 and turned an abandoned Joann store into a two-day craft festival</div>
-  <div class="keywords"><span class="keyword">margin</span> <span class="keyword">laid</span> <span class="keyword">off</span> <span class="keyword">corporate</span></div>
-</div><div class="perspective" style="--region-color: #1565c0">
-  <span class="region-tag">Запад</span>
+  <div class="headline">Iranshahr Theater to host Antonio Buero Vallejo’s “In the Burning Darkness”</div>
+  <div class="keywords"><span class="keyword">iranshahr</span> <span class="keyword">theater</span> <span class="keyword">host</span> <span class="keyword">antonio</span></div>
+</div><div class="perspective" style="--region-color: #e53935">
+  <span class="region-tag">Китай</span>
   <div class="meta">
-    <a href="https://www.theguardian.com/environment/2026/jun/23/searing-uk-heat-leaves-schools-hospitals-and-transport-networks-struggling-to-cope" target="_blank" rel="noopener">www.theguardian.com</a>
+    <a href="http://www.chinadaily.com.cn/a/201712/12/WS5a2f0d6ca3108bc8c6721934.html" target="_blank" rel="noopener">www.chinadaily.com.cn</a>
   </div>
-  <div class="headline">Searing UK heat leaves schools, hospitals and transport networks struggling to cope</div>
-  <div class="keywords"><span class="keyword">heat</span> <span class="keyword">searing</span> <span class="keyword">schools</span> <span class="keyword">hospitals</span></div>
+  <div class="headline">Chinese, Russian and Indian ministers meet</div>
+  <div class="keywords"><span class="keyword">ministers</span> <span class="keyword">chinese</span> <span class="keyword">russian</span> <span class="keyword">indian</span></div>
 </div></div>
     </div>
     <div class="story-footer">
-      <span><strong>3</strong> regions cover this</span>
-      <span class="tag">#wafa #img #high #temporarily #petugas</span>
+      <span><strong>6</strong> regions cover this</span>
+      <span class="tag">#thunderstorms #conservative #severe #vallejo #kept</span>
+    </div>
+  </div>
+</div><div class="story">
+  <div class="story-card">
+    <div class="story-header">
+      <div class="story-number">4</div>
+      <div class="story-title">Four Gaza aid flotilla activists released from Libya detention</div>
+    </div>
+    <div class="story-body">
+      <div class="perspectives-title">Coverage across regions</div><div class="perspectives"><div class="perspective" style="--region-color: #1565c0">
+  <span class="region-tag">Запад</span>
+  <div class="meta">
+    <a href="https://www.aljazeera.com/news/2026/6/24/four-gaza-aid-flotilla-activists-released-from-libya-detention?traffic_source=rss" target="_blank" rel="noopener">www.aljazeera.com</a>
+  </div>
+  <div class="headline">Four Gaza aid flotilla activists released from Libya detention</div>
+  <div class="keywords"><span class="keyword">flotilla</span> <span class="keyword">released</span> <span class="keyword">detention</span> <span class="keyword">four</span></div>
+</div><div class="perspective" style="--region-color: #ff8f00">
+  <span class="region-tag">Индия</span>
+  <div class="meta">
+    <a href="https://www.thehindu.com/news/international/un-nuclear-agency-boss-signals-that-inspectors-will-visit-irans-nuclear-sites/article71140651.ece" target="_blank" rel="noopener">www.thehindu.com</a>
+  </div>
+  <div class="headline">U.N. nuclear agency boss signals that inspectors will visit Iran’s nuclear sites</div>
+  <div class="keywords"><span class="keyword">nuclear</span> <span class="keyword">agency</span> <span class="keyword">inspectors</span> <span class="keyword">iran</span></div>
+</div><div class="perspective" style="--region-color: #00897b">
+  <span class="region-tag">Индонезия</span>
+  <div class="meta">
+    <a href="https://www.antaranews.com/berita/5619179/prabowo-tegaskan-konektivitas-jalan-kunci-turunkan-biaya-logistik" target="_blank" rel="noopener">www.antaranews.com</a>
+  </div>
+  <div class="headline">Prabowo tegaskan konektivitas jalan kunci turunkan biaya logistik</div>
+  <div class="keywords"><span class="keyword">prabowo</span> <span class="keyword">konektivitas</span> <span class="keyword">jalan</span> <span class="keyword">img</span></div>
+</div><div class="perspective" style="--region-color: #6a1b9a">
+  <span class="region-tag">Иран</span>
+  <div class="meta">
+    <a href="https://www.tehrantimes.com/news/527596/Hajj-Ramadan-from-Gaza-in-the-midst-of-the-flood-to-martyrdom" target="_blank" rel="noopener">www.tehrantimes.com</a>
+  </div>
+  <div class="headline">Hajj Ramadan, from Gaza in the midst of the flood to martyrdom in Qom</div>
+  <div class="keywords"><span class="keyword">gaza</span> <span class="keyword">aggression</span> <span class="keyword">hajj</span> <span class="keyword">ramadan</span></div>
+</div><div class="perspective" style="--region-color: #e53935">
+  <span class="region-tag">Китай</span>
+  <div class="meta">
+    <a href="http://www.chinadaily.com.cn/a/201712/12/WS5a2f247aa3108bc8c67219f5.html" target="_blank" rel="noopener">www.chinadaily.com.cn</a>
+  </div>
+  <div class="headline">Dangerous stunts get thumbs-down from video platforms</div>
+  <div class="keywords"><span class="keyword">dangerous</span> <span class="keyword">stunts</span> <span class="keyword">video</span> <span class="keyword">platforms</span></div>
+</div></div>
+    </div>
+    <div class="story-footer">
+      <span><strong>5</strong> regions cover this</span>
+      <span class="tag">#konektivitas #boss #bill #earlier #thumbs</span>
     </div>
   </div>
 </div><div class="story">
   <div class="story-card">
     <div class="story-header">
       <div class="story-number">5</div>
-      <div class="story-title">Watch: IShowSpeed loses it as Cristiano Ronaldo scores his first goal of the 2026 World Cup</div>
-    </div>
-    <div class="story-body">
-      <div class="perspectives-title">Coverage across regions</div><div class="perspectives"><div class="perspective" style="--region-color: #ff8f00">
-  <span class="region-tag">Индия</span>
-  <div class="meta">
-    <a href="https://timesofindia.indiatimes.com/world/us-streamers/watch-ishowspeed-loses-it-as-cristiano-ronaldo-scores-his-first-goal-of-the-2026-world-cup/articleshow/131949341.cms" target="_blank" rel="noopener">timesofindia.indiatimes.com</a>
-  </div>
-  <div class="headline">Watch: IShowSpeed loses it as Cristiano Ronaldo scores his first goal of the 2026 World Cup</div>
-  <div class="keywords"><span class="keyword">ronaldo</span> <span class="keyword">ishowspeed</span> <span class="keyword">cristiano</span> <span class="keyword">goal</span></div>
-</div><div class="perspective" style="--region-color: #1565c0">
-  <span class="region-tag">Запад</span>
-  <div class="meta">
-    <a href="https://www.nytimes.com/2026/06/22/world/europe/dutch-netherlands-apology-indonesia-moluccan.html" target="_blank" rel="noopener">rss.nytimes.com</a>
-  </div>
-  <div class="headline">Dutch Prime Minister Apologizes for Mistreatment of Moluccan Soldiers</div>
-  <div class="keywords"><span class="keyword">dutch</span> <span class="keyword">prime</span> <span class="keyword">minister</span> <span class="keyword">apologizes</span></div>
-</div></div>
-    </div>
-    <div class="story-footer">
-      <span><strong>2</strong> regions cover this</span>
-      <span class="tag">#loses #commercial #cites #moluccan #rob</span>
-    </div>
-  </div>
-</div><div class="story">
-  <div class="story-card">
-    <div class="story-header">
-      <div class="story-number">6</div>
       <div class="story-title">Trump’s Colombia Prize</div>
     </div>
     <div class="story-body">
@@ -331,17 +371,52 @@
     </div>
     <div class="story-footer">
       <span><strong>2</strong> regions cover this</span>
-      <span class="tag">#allow #abelardo #appears #queensland #number</span>
+      <span class="tag">#set #flight #tackles #direct #colombia</span>
+    </div>
+  </div>
+</div><div class="story">
+  <div class="story-card">
+    <div class="story-header">
+      <div class="story-number">6</div>
+      <div class="story-title">After being laid off from a corporate job, woman saved $24,000 and turned an abandoned Joann store into a two-day cra...</div>
+    </div>
+    <div class="story-body">
+      <div class="perspectives-title">Coverage across regions</div><div class="perspectives"><div class="perspective" style="--region-color: #ff8f00">
+  <span class="region-tag">Индия</span>
+  <div class="meta">
+    <a href="https://timesofindia.indiatimes.com/world/us/after-being-laid-off-from-a-corporate-job-woman-saved-24000-and-turned-an-abandoned-joann-store-into-a-two-day-craft-festival/articleshow/131956238.cms" target="_blank" rel="noopener">timesofindia.indiatimes.com</a>
+  </div>
+  <div class="headline">After being laid off from a corporate job, woman saved $24,000 and turned an abandoned Joann store into a two-day craft festival</div>
+  <div class="keywords"><span class="keyword">margin</span> <span class="keyword">laid</span> <span class="keyword">off</span> <span class="keyword">corporate</span></div>
+</div><div class="perspective" style="--region-color: #1565c0">
+  <span class="region-tag">Запад</span>
+  <div class="meta">
+    <a href="https://www.theguardian.com/environment/2026/jun/23/searing-uk-heat-leaves-schools-hospitals-and-transport-networks-struggling-to-cope" target="_blank" rel="noopener">www.theguardian.com</a>
+  </div>
+  <div class="headline">Searing UK heat leaves schools, hospitals and transport networks struggling to cope</div>
+  <div class="keywords"><span class="keyword">heat</span> <span class="keyword">searing</span> <span class="keyword">schools</span> <span class="keyword">hospitals</span></div>
+</div></div>
+    </div>
+    <div class="story-footer">
+      <span><strong>2</strong> regions cover this</span>
+      <span class="tag">#heat #overrated #off #woman #afghan</span>
     </div>
   </div>
 </div><div class="story">
   <div class="story-card">
     <div class="story-header">
       <div class="story-number">7</div>
-      <div class="story-title">The Extraordinary Embezzlement Case That Rocked Scottish Politics</div>
+      <div class="story-title">"Charlie's shattered....": Charlie Kirk assassination case takes another twist as Candace Owens points to new SUV ima...</div>
     </div>
     <div class="story-body">
-      <div class="perspectives-title">Coverage across regions</div><div class="perspectives"><div class="perspective" style="--region-color: #1565c0">
+      <div class="perspectives-title">Coverage across regions</div><div class="perspectives"><div class="perspective" style="--region-color: #ff8f00">
+  <span class="region-tag">Индия</span>
+  <div class="meta">
+    <a href="https://timesofindia.indiatimes.com/world/us-streamers/charlies-shattered-charlie-kirk-assassination-case-takes-another-twist-as-candace-owens-points-to-new-suv-image-evidence/articleshow/131952143.cms" target="_blank" rel="noopener">timesofindia.indiatimes.com</a>
+  </div>
+  <div class="headline">"Charlie's shattered....": Charlie Kirk assassination case takes another twist as Candace Owens points to new SUV image evidence</div>
+  <div class="keywords"><span class="keyword">charlie</span> <span class="keyword">owens</span> <span class="keyword">microphone</span> <span class="keyword">kirk</span></div>
+</div><div class="perspective" style="--region-color: #1565c0">
   <span class="region-tag">Запад</span>
   <div class="meta">
     <a href="https://www.nytimes.com/2026/06/23/world/europe/scotland-peter-murrell-nicola-sturgeon-scottish-national-party.html" target="_blank" rel="noopener">rss.nytimes.com</a>
@@ -351,71 +426,78 @@
 </div></div>
     </div>
     <div class="story-footer">
-      <span><strong>1</strong> regions cover this</span>
-      <span class="tag">#murrell #case #former #scottish #politics</span>
+      <span><strong>2</strong> regions cover this</span>
+      <span class="tag">#theory #shards #former #peter #murrell</span>
     </div>
   </div>
 </div><div class="story">
   <div class="story-card">
     <div class="story-header">
       <div class="story-number">8</div>
-      <div class="story-title">15356</div>
+      <div class="story-title">Canadian police warn of possible copycat attacks after deadly shootout in Montreal</div>
     </div>
     <div class="story-body">
-      <div class="perspectives-title">Coverage across regions</div><div class="perspectives"><div class="perspective" style="--region-color: #6a1b9a">
-  <span class="region-tag">Иран</span>
+      <div class="perspectives-title">Coverage across regions</div><div class="perspectives"><div class="perspective" style="--region-color: #1565c0">
+  <span class="region-tag">Запад</span>
   <div class="meta">
-    <a href="https://www.tehrantimes.com/photo/527604/15356" target="_blank" rel="noopener">www.tehrantimes.com</a>
+    <a href="https://www.theguardian.com/world/2026/jun/23/canada-police-warn-copycat-attack-montreal-shooting" target="_blank" rel="noopener">www.theguardian.com</a>
   </div>
-  <div class="headline">15356</div>
-  <div class="keywords"></div>
+  <div class="headline">Canadian police warn of possible copycat attacks after deadly shootout in Montreal</div>
+  <div class="keywords"><span class="keyword">police</span> <span class="keyword">montreal</span> <span class="keyword">copycat</span> <span class="keyword">shooting</span></div>
+</div><div class="perspective" style="--region-color: #e53935">
+  <span class="region-tag">Китай</span>
+  <div class="meta">
+    <a href="http://www.chinadaily.com.cn/a/201712/12/WS5a2ec18ca3108bc8c6721902.html" target="_blank" rel="noopener">www.chinadaily.com.cn</a>
+  </div>
+  <div class="headline">Would-be suicide bomber sets off explosion in NYC</div>
+  <div class="keywords"><span class="keyword">suicide</span> <span class="keyword">bomber</span> <span class="keyword">off</span> <span class="keyword">sets</span></div>
 </div></div>
     </div>
     <div class="story-footer">
-      <span><strong>1</strong> regions cover this</span>
-      <span class="tag">#news</span>
+      <span><strong>2</strong> regions cover this</span>
+      <span class="tag">#set #off #shootout #shooting #suicide</span>
     </div>
   </div>
 </div><div class="story">
   <div class="story-card">
     <div class="story-header">
       <div class="story-number">9</div>
-      <div class="story-title">Emojis frown on corruption</div>
+      <div class="story-title">Congo’s Ebola outbreak has most cases in first month of any African outbreak, WHO says</div>
     </div>
     <div class="story-body">
-      <div class="perspectives-title">Coverage across regions</div><div class="perspectives"><div class="perspective" style="--region-color: #e53935">
-  <span class="region-tag">Китай</span>
+      <div class="perspectives-title">Coverage across regions</div><div class="perspectives"><div class="perspective" style="--region-color: #ff8f00">
+  <span class="region-tag">Индия</span>
   <div class="meta">
-    <a href="http://www.chinadaily.com.cn/a/201712/11/WS5a2e7338a3109f488237c969.html" target="_blank" rel="noopener">www.chinadaily.com.cn</a>
+    <a href="https://www.thehindu.com/sci-tech/health/congos-ebola-outbreak-has-most-cases-in-first-month-of-any-african-outbreak-who-says/article71138029.ece" target="_blank" rel="noopener">www.thehindu.com</a>
   </div>
-  <div class="headline">Emojis frown on corruption</div>
-  <div class="keywords"><span class="keyword">emojis</span> <span class="keyword">frown</span> <span class="keyword">corruption</span> <span class="keyword">package</span></div>
+  <div class="headline">Congo’s Ebola outbreak has most cases in first month of any African outbreak, WHO says</div>
+  <div class="keywords"><span class="keyword">outbreak</span> <span class="keyword">congo</span> <span class="keyword">ebola</span> <span class="keyword">cases</span></div>
 </div></div>
     </div>
     <div class="story-footer">
       <span><strong>1</strong> regions cover this</span>
-      <span class="tag">#frown #eight #point #austerity #corruption</span>
+      <span class="tag">#cases #outbreak #african #democratic #bundibugyo</span>
     </div>
   </div>
 </div><div class="story">
   <div class="story-card">
     <div class="story-header">
       <div class="story-number">10</div>
-      <div class="story-title">Britain, EU could strike trade deal within a year, says Brexit chief</div>
+      <div class="story-title">Kemenhaj bakal evaluasi program tur kota yang bikin jamaah kelelahan</div>
     </div>
     <div class="story-body">
-      <div class="perspectives-title">Coverage across regions</div><div class="perspectives"><div class="perspective" style="--region-color: #e53935">
-  <span class="region-tag">Китай</span>
+      <div class="perspectives-title">Coverage across regions</div><div class="perspectives"><div class="perspective" style="--region-color: #00897b">
+  <span class="region-tag">Индонезия</span>
   <div class="meta">
-    <a href="http://www.chinadaily.com.cn/a/201712/11/WS5a2df983a310eefe3e9a271a.html" target="_blank" rel="noopener">www.chinadaily.com.cn</a>
+    <a href="https://www.antaranews.com/berita/5619447/kemenhaj-bakal-evaluasi-program-tur-kota-yang-bikin-jamaah-kelelahan" target="_blank" rel="noopener">www.antaranews.com</a>
   </div>
-  <div class="headline">Britain, EU could strike trade deal within a year, says Brexit chief</div>
-  <div class="keywords"><span class="keyword">britain</span> <span class="keyword">deal</span> <span class="keyword">brexit</span> <span class="keyword">strike</span></div>
+  <div class="headline">Kemenhaj bakal evaluasi program tur kota yang bikin jamaah kelelahan</div>
+  <div class="keywords"><span class="keyword">kemenhaj</span> <span class="keyword">bakal</span> <span class="keyword">program</span> <span class="keyword">tur</span></div>
 </div></div>
     </div>
     <div class="story-footer">
       <span><strong>1</strong> regions cover this</span>
-      <span class="tag">#deal #davis #chief #trade #david</span>
+      <span class="tag">#program #evaluasi #img #bikin #tur</span>
     </div>
   </div>
 </div>
