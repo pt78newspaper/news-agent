@@ -137,7 +137,26 @@
 <div class="header">
   <h1>News Feed PT78</h1>
   <p class="subtitle">Global media monitoring - Perspective comparison</p>
-  <p class="update-time">Updated: __UPDATE_TIME__</p>
+  <p class="update-time">Updated: <span id="update-time">__UPDATE_TIME__</span> <span class="local-hint">(UTC)</span></p>
+<script>
+(function() {
+  var el = document.getElementById('update-time');
+  if (el) {
+    var utcStr = el.textContent.trim();
+    var d = new Date(utcStr + ' UTC');
+    if (!isNaN(d.getTime())) {
+      var local = d.toLocaleString(undefined, {
+        year: 'numeric', month: 'long', day: 'numeric',
+        hour: '2-digit', minute: '2-digit'
+      });
+      var tz = Intl.DateTimeFormat().resolvedOptions().timeZone;
+      el.textContent = local;
+      var hint = el.nextElementSibling;
+      if (hint) hint.textContent = '(' + tz + ')';
+    }
+  }
+})();
+</script>
 </div>
 <div class="container">
   <div class="stats-row">
