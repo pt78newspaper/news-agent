@@ -32,6 +32,14 @@
   .header h1 { font-size: 28px; color: #fff; margin-bottom: 8px; }
   .header .subtitle { color: var(--text-dim); font-size: 14px; }
   .header .update-time { color: var(--accent); font-size: 13px; margin-top: 8px; }
+  .header .ai-badge {
+    display: inline-block;
+    font-size: 10px; font-weight: 600;
+    padding: 2px 8px; border-radius: 4px;
+    background: #4d6bfe; color: #fff;
+    margin-left: 8px; vertical-align: middle;
+    letter-spacing: 0.5px;
+  }
   .container { max-width: 1100px; margin: 0 auto; padding: 20px; }
   .stats-row {
     display: flex; gap: 12px; flex-wrap: wrap;
@@ -83,6 +91,31 @@
     line-height: 1.4;
   }
   .story-body { padding: 16px 20px; }
+  .summary {
+    background: rgba(255,255,255,0.03);
+    border-radius: 8px;
+    padding: 12px 14px;
+    margin-bottom: 12px;
+    font-size: 14px;
+    color: var(--text);
+    line-height: 1.5;
+  }
+  .comparison {
+    margin-bottom: 12px;
+    padding: 12px 14px;
+    background: rgba(124,92,252,0.08);
+    border-radius: 8px;
+    border: 1px solid rgba(124,92,252,0.2);
+  }
+  .compare-title {
+    font-size: 11px; text-transform: uppercase;
+    letter-spacing: 1.5px; color: var(--accent);
+    margin-bottom: 6px;
+  }
+  .compare-item {
+    font-size: 13px; color: var(--text);
+    padding: 4px 0;
+  }
   .perspectives-title {
     font-size: 12px; text-transform: uppercase;
     letter-spacing: 1.5px; color: var(--text-dim);
@@ -122,22 +155,6 @@
     background: rgba(255,255,255,0.06);
     border-radius: 3px; color: var(--text-dim);
   }
-  .comparison {
-    margin-top: 12px;
-    padding: 12px 14px;
-    background: rgba(124,92,252,0.08);
-    border-radius: 8px;
-    border: 1px solid rgba(124,92,252,0.2);
-  }
-  .compare-title {
-    font-size: 11px; text-transform: uppercase;
-    letter-spacing: 1.5px; color: var(--accent);
-    margin-bottom: 6px;
-  }
-  .compare-item {
-    font-size: 13px; color: var(--text);
-    padding: 4px 0;
-  }
   .story-footer {
     padding: 10px 20px;
     border-top: 1px solid var(--border);
@@ -164,7 +181,7 @@
 <div class="header">
   <h1>News Feed PT78</h1>
   <p class="subtitle">Global media monitoring</p>
-  <p class="update-time">Updated: <span id="update-utc">24 June 2026, 10:13 UTC</span></p>
+  <p class="update-time">Updated: <span id="update-utc">24 June 2026, 12:08 UTC</span></p>
   <script>
     (function(){
       var el = document.getElementById('update-utc');
@@ -191,51 +208,46 @@
     <div class="story-header">
       <div class="story-number">1</div>
       <div class="story-titles">
-        <div class="title-en">Press review: Israel-Lebanon talks reveal rift and US reassures Gulf as Iran reshapes ties</div>
-        <div class="title-ru">Press review: Israel-Lebanon talks reveal rift and US reassures Gulf as Iran reshapes ties</div>
+        <div class="title-en">UN watchdog chief says Iran's nuclear inspections 'going to happen'; Tehran rebuts</div>
+        <div class="title-ru">UN watchdog chief says Iran's nuclear inspections 'going to happen'; Tehran rebuts</div>
       </div>
     </div>
     <div class="story-body">
-      <div class="perspectives-title">Освещение в разных регионах</div><div class="perspectives"><div class="perspective" style="--region-color: #d32f2f">
+      
+      
+      <div class="perspectives-title">Освещение в разных регионах</div><div class="perspectives"><div class="perspective" style="--region-color: #ff8f00">
+  <span class="region-tag">Индия</span>
+  <div class="meta">
+    <a href="https://timesofindia.indiatimes.com/world/middle-east/un-watchdog-chief-says-irans-nuclear-inspections-going-to-happen-tehran-rebuts/articleshow/131967291.cms" target="_blank" rel="noopener">timesofindia.indiatimes.com</a>
+  </div>
+  <div class="headline">UN watchdog chief says Iran's nuclear inspections 'going to happen'; Tehran rebuts</div>
+  <div class="keywords"><span class="keyword">watchdog</span> <span class="keyword">chief</span> <span class="keyword">nuclear</span> <span class="keyword">inspections</span></div>
+</div><div class="perspective" style="--region-color: #d32f2f">
   <span class="region-tag">Россия</span>
   <div class="meta">
-    <a href="https://tass.com/pressreview/2150737" target="_blank" rel="noopener">tass.com</a>
+    <a href="https://tass.com/world/2150931" target="_blank" rel="noopener">tass.com</a>
   </div>
-  <div class="headline">Press review: Israel-Lebanon talks reveal rift and US reassures Gulf as Iran reshapes ties</div>
-  <div class="keywords"><span class="keyword">way</span> <span class="keyword">source</span> <span class="keyword">review</span> <span class="keyword">president</span> <span class="keyword">lebanon</span></div>
+  <div class="headline">Iran to discuss IAEA access to nuclear sites only after US lifts sanctions — diplomat</div>
+  <div class="keywords"><span class="keyword">access</span> <span class="keyword">iran</span> <span class="keyword">discuss</span> <span class="keyword">iaea</span></div>
 </div><div class="perspective" style="--region-color: #1565c0">
   <span class="region-tag">Запад</span>
   <div class="meta">
-    <a href="https://www.nytimes.com/2026/06/24/world/middleeast/middle-east-iran-us-rubio.html" target="_blank" rel="noopener">rss.nytimes.com</a>
+    <a href="https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon" target="_blank" rel="noopener">rss.nytimes.com</a>
   </div>
-  <div class="headline">Rubio Seeks to Reassure Persian Gulf Allies on Iran Deal</div>
-  <div class="keywords"><span class="keyword">holds</span> <span class="keyword">lebanon</span> <span class="keyword">reassure</span> <span class="keyword">persian</span> <span class="keyword">truce</span></div>
-</div><div class="perspective" style="--region-color: #ff8f00">
-  <span class="region-tag">Индия</span>
-  <div class="meta">
-    <a href="https://www.thehindu.com/news/international/rubio-arrives-in-uae-with-aim-to-head-off-gulf-arab-unease-over-tentative-iran-deal/article71139188.ece" target="_blank" rel="noopener">www.thehindu.com</a>
-  </div>
-  <div class="headline">Rubio arrives in UAE with aim to head off Gulf Arab unease over tentative Iran deal</div>
-  <div class="keywords"><span class="keyword">iran</span> <span class="keyword">high</span> <span class="keyword">level</span> <span class="keyword">arrives</span> <span class="keyword">rubio</span></div>
-</div><div class="perspective" style="--region-color: #00897b">
-  <span class="region-tag">Индонезия</span>
-  <div class="meta">
-    <a href="https://www.antaranews.com/berita/5619273/iran-tangkap-17-tentara-bayaran-terkait-as-israel" target="_blank" rel="noopener">www.antaranews.com</a>
-  </div>
-  <div class="headline">Iran tangkap 17 "tentara bayaran" terkait AS-Israel</div>
-  <div class="keywords"><span class="keyword">img</span> <span class="keyword">iran</span> <span class="keyword">bayaran</span> <span class="keyword">tentara</span> <span class="keyword">tangkap</span></div>
+  <div class="headline">U.S. and Iran Offer Conflicting Accounts of Nuclear Discussions</div>
+  <div class="keywords"><span class="keyword">iran</span> <span class="keyword">nuclear</span> <span class="keyword">discussions</span> <span class="keyword">offer</span></div>
 </div><div class="perspective" style="--region-color: #6a1b9a">
   <span class="region-tag">Иран</span>
   <div class="meta">
-    <a href="https://www.tehrantimes.com/news/527602/Qaani-warns-Israel-of-another-forced-withdrawal-from-southern" target="_blank" rel="noopener">www.tehrantimes.com</a>
+    <a href="https://www.tehrantimes.com/news/527601/Iran-proposes-Islamic-Security-Belt" target="_blank" rel="noopener">www.tehrantimes.com</a>
   </div>
-  <div class="headline">Qaani warns Israel of another forced withdrawal from southern Lebanon</div>
-  <div class="keywords"><span class="keyword">advance</span> <span class="keyword">southern</span> <span class="keyword">iran</span> <span class="keyword">lebanon</span> <span class="keyword">israel</span></div>
-</div></div><div class="comparison"><div class="compare-title">Сравнение освещения</div><div class="compare-item">Россия и Запад оценивают ситуацию сходно (neutral).</div><div class="compare-item">Россия акцентирует: way, source, review.</div><div class="compare-item">Запад акцентирует: holds, persian, reassure.</div><div class="compare-item">Страны БРИКС придерживаются иного взгляда, чем Запад.</div></div>
+  <div class="headline">Iran proposes 'Islamic Security Belt'</div>
+  <div class="keywords"><span class="keyword">security</span> <span class="keyword">iran</span> <span class="keyword">islamic</span> <span class="keyword">proposes</span></div>
+</div></div>
     </div>
     <div class="story-footer">
-      <span><strong>5</strong> regions</span>
-      <span class="tag">#holds #israeli #secretary #reassure #withdrawal</span>
+      <span><strong>4</strong> regions</span>
+      <span class="tag">#transit #nuclear #earthquakes #islamic #asia</span>
     </div>
   </div>
 </div><div class="story">
@@ -243,44 +255,53 @@
     <div class="story-header">
       <div class="story-number">2</div>
       <div class="story-titles">
-        <div class="title-en">Iran says deal to end West Asia war 'declaration of U.S. defeat'</div>
-        <div class="title-ru">Iran says deal to end West Asia war 'declaration of U.S. defeat'</div>
+        <div class="title-en">US Senate approves Iran war powers resolution: What that means for Trump</div>
+        <div class="title-ru">US Senate approves Iran war powers resolution: What that means for Trump</div>
       </div>
     </div>
     <div class="story-body">
-      <div class="perspectives-title">Освещение в разных регионах</div><div class="perspectives"><div class="perspective" style="--region-color: #ff8f00">
-  <span class="region-tag">Индия</span>
-  <div class="meta">
-    <a href="https://www.thehindu.com/news/international/iran-says-deal-to-end-west-asia-war-declaration-of-us-defeat/article71141118.ece" target="_blank" rel="noopener">www.thehindu.com</a>
-  </div>
-  <div class="headline">Iran says deal to end West Asia war 'declaration of U.S. defeat'</div>
-  <div class="keywords"><span class="keyword">resolution</span> <span class="keyword">position</span> <span class="keyword">war</span> <span class="keyword">senate</span> <span class="keyword">approves</span></div>
-</div><div class="perspective" style="--region-color: #1565c0">
+      
+      
+      <div class="perspectives-title">Освещение в разных регионах</div><div class="perspectives"><div class="perspective" style="--region-color: #1565c0">
   <span class="region-tag">Запад</span>
   <div class="meta">
-    <a href="https://www.aljazeera.com/news/2026/6/24/iran-war-day-117-nuclear-inspections-dispute-as-us-senate-curbs-war-powers?traffic_source=rss" target="_blank" rel="noopener">www.aljazeera.com</a>
+    <a href="https://www.aljazeera.com/news/2026/6/24/us-senate-approves-iran-war-powers-resolution-what-that-means-for-trump?traffic_source=rss" target="_blank" rel="noopener">www.aljazeera.com</a>
   </div>
-  <div class="headline">Iran war day 117: Nuclear inspections dispute as US Senate curbs war powers</div>
-  <div class="keywords"><span class="keyword">iran</span> <span class="keyword">day</span> <span class="keyword">war</span> <span class="keyword">persistent</span> <span class="keyword">farmers</span></div>
+  <div class="headline">US Senate approves Iran war powers resolution: What that means for Trump</div>
+  <div class="keywords"><span class="keyword">senate</span> <span class="keyword">approves</span> <span class="keyword">iran</span> <span class="keyword">war</span></div>
 </div><div class="perspective" style="--region-color: #d32f2f">
   <span class="region-tag">Россия</span>
   <div class="meta">
-    <a href="https://tass.com/world/2150631" target="_blank" rel="noopener">tass.com</a>
+    <a href="https://tass.com/world/2150913" target="_blank" rel="noopener">tass.com</a>
   </div>
-  <div class="headline">US Senate passes resolution to end war with Iran</div>
-  <div class="keywords"><span class="keyword">resolution</span> <span class="keyword">trump</span> <span class="keyword">iran</span> <span class="keyword">senate</span> <span class="keyword">war</span></div>
+  <div class="headline">Trump believes Iran to be ‘on ropes,’ willing to give in to US in all areas</div>
+  <div class="keywords"><span class="keyword">trump</span> <span class="keyword">believes</span> <span class="keyword">iran</span> <span class="keyword">ropes</span></div>
+</div><div class="perspective" style="--region-color: #ff8f00">
+  <span class="region-tag">Индия</span>
+  <div class="meta">
+    <a href="https://www.thehindu.com/news/international/west-asia-war-iran-usa-israel-conflict-peace-deal-donald-trump-strait-of-hormuz-updates-june-24-2026/article71140307.ece" target="_blank" rel="noopener">www.thehindu.com</a>
+  </div>
+  <div class="headline">West Asia war LIVE: Iran says deal to end West Asia war 'declaration of U.S. defeat'</div>
+  <div class="keywords"><span class="keyword">iran</span> <span class="keyword">west</span> <span class="keyword">asia</span> <span class="keyword">war</span></div>
+</div><div class="perspective" style="--region-color: #00897b">
+  <span class="region-tag">Индонезия</span>
+  <div class="meta">
+    <a href="https://www.antaranews.com/berita/5620733/trump-bersikeras-teheran-akan-izinkan-inspektur-nuklir-iaea-ke-iran" target="_blank" rel="noopener">www.antaranews.com</a>
+  </div>
+  <div class="headline">Trump bersikeras Teheran akan izinkan inspektur nuklir IAEA ke Iran</div>
+  <div class="keywords"><span class="keyword">trump</span> <span class="keyword">bersikeras</span> <span class="keyword">akan</span> <span class="keyword">inspektur</span></div>
 </div><div class="perspective" style="--region-color: #6a1b9a">
   <span class="region-tag">Иран</span>
   <div class="meta">
-    <a href="https://www.tehrantimes.com/news/527581/Iran-emerges-as-critical-transit-link-between-Iraq-Afghanistan" target="_blank" rel="noopener">www.tehrantimes.com</a>
+    <a href="https://www.tehrantimes.com/news/527588/NYT-spills-the-beans-on-Trump-s-failed-Iran-strategy-US-bit" target="_blank" rel="noopener">www.tehrantimes.com</a>
   </div>
-  <div class="headline">Iran emerges as critical transit link between Iraq, Afghanistan, South Asia</div>
-  <div class="keywords"><span class="keyword">emerges</span> <span class="keyword">trump</span> <span class="keyword">iran</span> <span class="keyword">war</span> <span class="keyword">south</span></div>
-</div></div><div class="comparison"><div class="compare-title">Сравнение освещения</div><div class="compare-item">Россия и Запад освещают в разном ключе: neutral vs negative</div><div class="compare-item">Россия акцентирует: resolution, trump, senate.</div><div class="compare-item">Запад акцентирует: day, persistent, farmers.</div><div class="compare-item">Страны БРИКС придерживаются иного взгляда, чем Запад.</div></div>
+  <div class="headline">NYT spills the beans on Trump’s failed Iran strategy: 'US bit off more than it could chew'</div>
+  <div class="keywords"><span class="keyword">failed</span> <span class="keyword">iran</span> <span class="keyword">nyt</span> <span class="keyword">spills</span></div>
+</div></div>
     </div>
     <div class="story-footer">
-      <span><strong>4</strong> regions</span>
-      <span class="tag">#resolution #position #war #senate #approves</span>
+      <span><strong>5</strong> regions</span>
+      <span class="tag">#day #iranian #foreign #asia #position</span>
     </div>
   </div>
 </div><div class="story">
@@ -288,37 +309,46 @@
     <div class="story-header">
       <div class="story-number">3</div>
       <div class="story-titles">
-        <div class="title-en">World Cup 2026: Key takeaways from the second round of group stage matches</div>
-        <div class="title-ru">World Cup 2026: Key takeaways from the second round of group stage matches</div>
+        <div class="title-en">Russia not to stop on front line to start talks on Ukraine — Lavrov</div>
+        <div class="title-ru">Russia not to stop on front line to start talks on Ukraine — Lavrov</div>
       </div>
     </div>
     <div class="story-body">
-      <div class="perspectives-title">Освещение в разных регионах</div><div class="perspectives"><div class="perspective" style="--region-color: #1565c0">
-  <span class="region-tag">Запад</span>
-  <div class="meta">
-    <a href="https://www.aljazeera.com/sports/2026/6/24/world-cup-2026-key-takeaways-second-round-group-matches-messi-ronaldo-mbappe-haaland-salah?traffic_source=rss" target="_blank" rel="noopener">www.aljazeera.com</a>
-  </div>
-  <div class="headline">World Cup 2026: Key takeaways from the second round of group stage matches</div>
-  <div class="keywords"><span class="keyword">munoz</span> <span class="keyword">watch</span> <span class="keyword">teams</span> <span class="keyword">second</span> <span class="keyword">cup</span></div>
-</div><div class="perspective" style="--region-color: #d32f2f">
+      
+      
+      <div class="perspectives-title">Освещение в разных регионах</div><div class="perspectives"><div class="perspective" style="--region-color: #d32f2f">
   <span class="region-tag">Россия</span>
   <div class="meta">
-    <a href="https://tass.com/sports/2150711" target="_blank" rel="noopener">tass.com</a>
+    <a href="https://tass.com/politics/2150935" target="_blank" rel="noopener">tass.com</a>
   </div>
-  <div class="headline">Colombia’s national team defeats DR Congo, advances to World Cup playoffs</div>
-  <div class="keywords"><span class="keyword">face</span> <span class="keyword">england</span> <span class="keyword">defeats</span> <span class="keyword">argentina</span> <span class="keyword">play</span></div>
+  <div class="headline">Russia not to stop on front line to start talks on Ukraine — Lavrov</div>
+  <div class="keywords"><span class="keyword">russia</span> <span class="keyword">stop</span> <span class="keyword">front</span> <span class="keyword">line</span></div>
 </div><div class="perspective" style="--region-color: #ff8f00">
   <span class="region-tag">Индия</span>
   <div class="meta">
-    <a href="https://timesofindia.indiatimes.com/world/us-streamers/xqc-suspended-from-twitch-after-fifa-world-cup-2026-copyright-claim-explained/articleshow/131949703.cms" target="_blank" rel="noopener">timesofindia.indiatimes.com</a>
+    <a href="https://timesofindia.indiatimes.com/world/europe/putin-already-compromised-lavrov-says-russia-wont-bend-again-on-ukraine-cites-talks-with-trump-in-alaska/articleshow/131965981.cms" target="_blank" rel="noopener">timesofindia.indiatimes.com</a>
   </div>
-  <div class="headline">xQc suspended from Twitch after FIFA World Cup 2026 copyright claim explained</div>
-  <div class="keywords"><span class="keyword">twitch</span> <span class="keyword">ishowspeed</span> <span class="keyword">fifa</span> <span class="keyword">cooperation</span> <span class="keyword">cristiano</span></div>
-</div></div><div class="comparison"><div class="compare-title">Сравнение освещения</div><div class="compare-item">Россия и Запад оценивают ситуацию сходно (positive).</div><div class="compare-item">Россия акцентирует: face, england, defeats.</div><div class="compare-item">Запад акцентирует: munoz, second, cup.</div><div class="compare-item">Страны БРИКС придерживаются иного взгляда, чем Запад.</div></div>
+  <div class="headline">Lavrov says Russia won't bend again on Ukraine, cites talks with Trump in Alaska</div>
+  <div class="keywords"><span class="keyword">lavrov</span> <span class="keyword">russia</span> <span class="keyword">bend</span> <span class="keyword">ukraine</span></div>
+</div><div class="perspective" style="--region-color: #1565c0">
+  <span class="region-tag">Запад</span>
+  <div class="meta">
+    <a href="https://www.aljazeera.com/news/2026/6/24/ukraine-attacks-on-russian-occupied-crimea-trigger-power-cuts-in-sevastopol?traffic_source=rss" target="_blank" rel="noopener">www.aljazeera.com</a>
+  </div>
+  <div class="headline">Ukraine attacks on Russian-occupied Crimea trigger power cuts in Sevastopol</div>
+  <div class="keywords"><span class="keyword">power</span> <span class="keyword">ukraine</span> <span class="keyword">attacks</span> <span class="keyword">russian</span></div>
+</div><div class="perspective" style="--region-color: #e53935">
+  <span class="region-tag">Китай</span>
+  <div class="meta">
+    <a href="http://www.chinadaily.com.cn/a/201712/12/WS5a2f0d6ca3108bc8c6721934.html" target="_blank" rel="noopener">www.chinadaily.com.cn</a>
+  </div>
+  <div class="headline">Chinese, Russian and Indian ministers meet</div>
+  <div class="keywords"><span class="keyword">ministers</span> <span class="keyword">chinese</span> <span class="keyword">russian</span> <span class="keyword">indian</span></div>
+</div></div>
     </div>
     <div class="story-footer">
-      <span><strong>3</strong> regions</span>
-      <span class="tag">#munoz #face #twitch #england #cristiano</span>
+      <span><strong>4</strong> regions</span>
+      <span class="tag">#pharmaceutical #federation #chinese #provided #strikes</span>
     </div>
   </div>
 </div><div class="story">
@@ -326,30 +356,32 @@
     <div class="story-header">
       <div class="story-number">4</div>
       <div class="story-titles">
-        <div class="title-en">Europe heatwave live: UK issues rare red heat warning as record-breaking temperatures in France b...</div>
-        <div class="title-ru">Europe heatwave live: UK issues rare red heat warning as record-breaking temperatures in France b...</div>
+        <div class="title-en">Europe heatwave live: 94 million people to experience temperatures above 35C today</div>
+        <div class="title-ru">Europe heatwave live: 94 million people to experience temperatures above 35C today</div>
       </div>
     </div>
     <div class="story-body">
+      
+      
       <div class="perspectives-title">Освещение в разных регионах</div><div class="perspectives"><div class="perspective" style="--region-color: #1565c0">
   <span class="region-tag">Запад</span>
   <div class="meta">
     <a href="https://www.theguardian.com/world/live/2026/jun/24/europe-heatwave-live-news-updates-uk-record-breaking-temperatures-italy-red-alert" target="_blank" rel="noopener">www.theguardian.com</a>
   </div>
-  <div class="headline">Europe heatwave live: UK issues rare red heat warning as record-breaking temperatures in France bring power outages</div>
-  <div class="keywords"><span class="keyword">city</span> <span class="keyword">emirates</span> <span class="keyword">facility</span> <span class="keyword">mamdani</span> <span class="keyword">amid</span></div>
+  <div class="headline">Europe heatwave live: 94 million people to experience temperatures above 35C today</div>
+  <div class="keywords"><span class="keyword">europe</span> <span class="keyword">heatwave</span> <span class="keyword">live</span> <span class="keyword">temperatures</span></div>
 </div><div class="perspective" style="--region-color: #ff8f00">
   <span class="region-tag">Индия</span>
   <div class="meta">
     <a href="https://www.thehindu.com/news/international/france-heatwaves-first-major-outage-leaves-68000-homes-without-power/article71140820.ece" target="_blank" rel="noopener">www.thehindu.com</a>
   </div>
   <div class="headline">France heatwave's first major outage leaves 68,000 homes without power</div>
-  <div class="keywords"><span class="keyword">omega</span> <span class="keyword">shut</span> <span class="keyword">forty</span> <span class="keyword">drown</span> <span class="keyword">people</span></div>
+  <div class="keywords"><span class="keyword">outage</span> <span class="keyword">france</span> <span class="keyword">heatwave</span> <span class="keyword">major</span></div>
 </div></div>
     </div>
     <div class="story-footer">
       <span><strong>2</strong> regions</span>
-      <span class="tag">#omega #emirates #facility #mamdani #democratic</span>
+      <span class="tag">#day #facility #forty #minister #nottingham</span>
     </div>
   </div>
 </div><div class="story">
@@ -357,23 +389,25 @@
     <div class="story-header">
       <div class="story-number">5</div>
       <div class="story-titles">
-        <div class="title-en">RI-Inggris perkuat kerja sama konservasi, pembiayaan kawasan lindung</div>
-        <div class="title-ru">RI-Inggris perkuat kerja sama konservasi, pembiayaan kawasan lindung</div>
+        <div class="title-en">Dubes: Rusia siap untuk kesepakatan damai dengan Ukraina</div>
+        <div class="title-ru">Dubes: Rusia siap untuk kesepakatan damai dengan Ukraina</div>
       </div>
     </div>
     <div class="story-body">
+      
+      
       <div class="perspectives-title">Освещение в разных регионах</div><div class="perspectives"><div class="perspective" style="--region-color: #00897b">
   <span class="region-tag">Индонезия</span>
   <div class="meta">
-    <a href="https://www.antaranews.com/berita/5621092/ri-inggris-perkuat-kerja-sama-konservasi-pembiayaan-kawasan-lindung" target="_blank" rel="noopener">www.antaranews.com</a>
+    <a href="https://www.antaranews.com/berita/5621379/dubes-rusia-siap-untuk-kesepakatan-damai-dengan-ukraina" target="_blank" rel="noopener">www.antaranews.com</a>
   </div>
-  <div class="headline">RI-Inggris perkuat kerja sama konservasi, pembiayaan kawasan lindung</div>
-  <div class="keywords"><span class="keyword">dan</span> <span class="keyword">kasus</span> <span class="keyword">yang</span> <span class="keyword">lebih</span> <span class="keyword">cristiano</span></div>
+  <div class="headline">Dubes: Rusia siap untuk kesepakatan damai dengan Ukraina</div>
+  <div class="keywords"><span class="keyword">rusia</span> <span class="keyword">untuk</span> <span class="keyword">siap</span> <span class="keyword">kesepakatan</span></div>
 </div></div>
     </div>
     <div class="story-footer">
       <span><strong>1</strong> regions</span>
-      <span class="tag">#dan #yang #cristiano #konektivitas #daerah</span>
+      <span class="tag">#penyekapan #dan #produksi #yang #mbg</span>
     </div>
   </div>
 </div><div class="story">
@@ -381,37 +415,32 @@
     <div class="story-header">
       <div class="story-number">6</div>
       <div class="story-titles">
-        <div class="title-en">Mamdani-backed candidates sweep New York City Democratic primaries</div>
-        <div class="title-ru">Mamdani-backed candidates sweep New York City Democratic primaries</div>
+        <div class="title-en">Keir Starmer sixth U.K. PM to resign after Brexit</div>
+        <div class="title-ru">Keir Starmer sixth U.K. PM to resign after Brexit</div>
       </div>
     </div>
     <div class="story-body">
-      <div class="perspectives-title">Освещение в разных регионах</div><div class="perspectives"><div class="perspective" style="--region-color: #1565c0">
-  <span class="region-tag">Запад</span>
-  <div class="meta">
-    <a href="https://www.aljazeera.com/news/2026/6/24/mamdani-backed-candidates-sweep-new-york-city-democratic-primaries?traffic_source=rss" target="_blank" rel="noopener">www.aljazeera.com</a>
-  </div>
-  <div class="headline">Mamdani-backed candidates sweep New York City Democratic primaries</div>
-  <div class="keywords"><span class="keyword">montreal</span> <span class="keyword">city</span> <span class="keyword">york</span> <span class="keyword">mayor</span> <span class="keyword">police</span></div>
-</div><div class="perspective" style="--region-color: #ff8f00">
+      
+      
+      <div class="perspectives-title">Освещение в разных регионах</div><div class="perspectives"><div class="perspective" style="--region-color: #ff8f00">
   <span class="region-tag">Индия</span>
   <div class="meta">
-    <a href="https://www.thehindu.com/news/international/zohran-mamdani-backed-candidates-excel-in-congressional-primaries/article71140526.ece" target="_blank" rel="noopener">www.thehindu.com</a>
+    <a href="https://www.thehindu.com/news/international/uk-pm-resigns-keir-starmer-leaders-who-have-resigned-full-list-england-united-kingdom/article71132482.ece" target="_blank" rel="noopener">www.thehindu.com</a>
   </div>
-  <div class="headline">Zohran Mamdani-backed candidates excel in congressional primaries</div>
-  <div class="keywords"><span class="keyword">city</span> <span class="keyword">ban</span> <span class="keyword">horse</span> <span class="keyword">backed</span> <span class="keyword">mamdani</span></div>
-</div><div class="perspective" style="--region-color: #e53935">
-  <span class="region-tag">Китай</span>
+  <div class="headline">Keir Starmer sixth U.K. PM to resign after Brexit</div>
+  <div class="keywords"><span class="keyword">keir</span> <span class="keyword">starmer</span> <span class="keyword">sixth</span> <span class="keyword">resign</span></div>
+</div><div class="perspective" style="--region-color: #1565c0">
+  <span class="region-tag">Запад</span>
   <div class="meta">
-    <a href="http://www.chinadaily.com.cn/a/201712/11/WS5a2e884fa3103f77d55ac367.html" target="_blank" rel="noopener">www.chinadaily.com.cn</a>
+    <a href="https://www.nytimes.com/2026/06/23/world/australia/australia-albanese-prime-minister-popularity.html" target="_blank" rel="noopener">rss.nytimes.com</a>
   </div>
-  <div class="headline">Four injured in New York City blast, suspect nabbed</div>
-  <div class="keywords"><span class="keyword">city</span> <span class="keyword">mexico</span> <span class="keyword">york</span> <span class="keyword">mayor</span> <span class="keyword">declines</span></div>
+  <div class="headline">Is the Australian Prime Minister’s Pragmatism Enough in Uncertain Times?</div>
+  <div class="keywords"><span class="keyword">australian</span> <span class="keyword">prime</span> <span class="keyword">minister</span> <span class="keyword">pragmatism</span></div>
 </div></div>
     </div>
     <div class="story-footer">
-      <span><strong>3</strong> regions</span>
-      <span class="tag">#city #ban #mexico #york #mayor</span>
+      <span><strong>2</strong> regions</span>
+      <span class="tag">#australian #inheritance #minister #bribery #terrible</span>
     </div>
   </div>
 </div><div class="story">
@@ -419,23 +448,32 @@
     <div class="story-header">
       <div class="story-number">7</div>
       <div class="story-titles">
-        <div class="title-en">Downing streak: On the Starmer resignation, British politics</div>
-        <div class="title-ru">Downing streak: On the Starmer resignation, British politics</div>
+        <div class="title-en">Mamdani-backed candidates defeat pro-Israel lawmakers in primaries</div>
+        <div class="title-ru">Mamdani-backed candidates defeat pro-Israel lawmakers in primaries</div>
       </div>
     </div>
     <div class="story-body">
-      <div class="perspectives-title">Освещение в разных регионах</div><div class="perspectives"><div class="perspective" style="--region-color: #ff8f00">
+      
+      
+      <div class="perspectives-title">Освещение в разных регионах</div><div class="perspectives"><div class="perspective" style="--region-color: #1565c0">
+  <span class="region-tag">Запад</span>
+  <div class="meta">
+    <a href="https://www.aljazeera.com/video/newsfeed/2026/6/24/mamdani-backed-candidates-defeat-pro-israel-lawmakers-in-primaries?traffic_source=rss" target="_blank" rel="noopener">www.aljazeera.com</a>
+  </div>
+  <div class="headline">Mamdani-backed candidates defeat pro-Israel lawmakers in primaries</div>
+  <div class="keywords"><span class="keyword">backed</span> <span class="keyword">mamdani</span> <span class="keyword">candidates</span> <span class="keyword">pro</span></div>
+</div><div class="perspective" style="--region-color: #ff8f00">
   <span class="region-tag">Индия</span>
   <div class="meta">
-    <a href="https://www.thehindu.com/opinion/editorial/downing-streak-on-the-starmer-resignation-british-politics/article71138005.ece" target="_blank" rel="noopener">www.thehindu.com</a>
+    <a href="https://www.thehindu.com/news/international/zohran-mamdani-backed-candidates-excel-in-congressional-primaries/article71140526.ece" target="_blank" rel="noopener">www.thehindu.com</a>
   </div>
-  <div class="headline">Downing streak: On the Starmer resignation, British politics</div>
-  <div class="keywords"><span class="keyword">political</span> <span class="keyword">watch</span> <span class="keyword">analysis</span> <span class="keyword">keir</span> <span class="keyword">resignation</span></div>
+  <div class="headline">Zohran Mamdani-backed candidates excel in congressional primaries</div>
+  <div class="keywords"><span class="keyword">zohran</span> <span class="keyword">mamdani</span> <span class="keyword">candidates</span> <span class="keyword">backed</span></div>
 </div></div>
     </div>
     <div class="story-footer">
-      <span><strong>1</strong> regions</span>
-      <span class="tag">#starmer #prime #orderly #watch #analysis</span>
+      <span><strong>2</strong> regions</span>
+      <span class="tag">#york #holds #israel #mamdani #strong</span>
     </div>
   </div>
 </div><div class="story">
@@ -443,30 +481,39 @@
     <div class="story-header">
       <div class="story-number">8</div>
       <div class="story-titles">
-        <div class="title-en">Why is Sri Lanka’s dengue outbreak straining its public health sector? | Explained</div>
-        <div class="title-ru">Why is Sri Lanka’s dengue outbreak straining its public health sector? | Explained</div>
+        <div class="title-en">France Identifies First Case of Ebola</div>
+        <div class="title-ru">France Identifies First Case of Ebola</div>
       </div>
     </div>
     <div class="story-body">
-      <div class="perspectives-title">Освещение в разных регионах</div><div class="perspectives"><div class="perspective" style="--region-color: #ff8f00">
-  <span class="region-tag">Индия</span>
-  <div class="meta">
-    <a href="https://www.thehindu.com/news/international/why-is-sri-lankas-dengue-outbreak-straining-its-public-health-sector-explained/article71140447.ece" target="_blank" rel="noopener">www.thehindu.com</a>
-  </div>
-  <div class="headline">Why is Sri Lanka’s dengue outbreak straining its public health sector? | Explained</div>
-  <div class="keywords"><span class="keyword">lanka</span> <span class="keyword">ebola</span> <span class="keyword">dengue</span> <span class="keyword">month</span> <span class="keyword">sri</span></div>
-</div><div class="perspective" style="--region-color: #1565c0">
+      
+      
+      <div class="perspectives-title">Освещение в разных регионах</div><div class="perspectives"><div class="perspective" style="--region-color: #1565c0">
   <span class="region-tag">Запад</span>
   <div class="meta">
-    <a href="https://www.theguardian.com/world/2026/jun/16/sri-lanka-alarming-rise-cybercrime-scam-networks-south-east-asia-cambodia-myanmar-china" target="_blank" rel="noopener">www.theguardian.com</a>
+    <a href="https://www.nytimes.com/2026/06/24/world/europe/ebola-france.html" target="_blank" rel="noopener">rss.nytimes.com</a>
   </div>
-  <div class="headline">Sri Lanka sees ‘alarming’ rise in cybercrime as scam networks relocate from south-east Asia</div>
-  <div class="keywords"><span class="keyword">networks</span> <span class="keyword">lanka</span> <span class="keyword">scam</span> <span class="keyword">sri</span> <span class="keyword">alarming</span></div>
+  <div class="headline">France Identifies First Case of Ebola</div>
+  <div class="keywords"><span class="keyword">who</span> <span class="keyword">france</span> <span class="keyword">identifies</span> <span class="keyword">case</span></div>
+</div><div class="perspective" style="--region-color: #ff8f00">
+  <span class="region-tag">Индия</span>
+  <div class="meta">
+    <a href="https://www.thehindu.com/sci-tech/health/france-confirms-ebola-virus-in-patient-who-worked-in-congo/article71141564.ece" target="_blank" rel="noopener">www.thehindu.com</a>
+  </div>
+  <div class="headline">France confirms Ebola virus in patient who worked in Congo</div>
+  <div class="keywords"><span class="keyword">france</span> <span class="keyword">virus</span> <span class="keyword">who</span> <span class="keyword">congo</span></div>
+</div><div class="perspective" style="--region-color: #00897b">
+  <span class="region-tag">Индонезия</span>
+  <div class="meta">
+    <a href="https://www.antaranews.com/berita/5619849/who-wabah-ebola-di-kongo-lampaui-1000-kasus-dalam-sebulan" target="_blank" rel="noopener">www.antaranews.com</a>
+  </div>
+  <div class="headline">WHO: Wabah Ebola di Kongo lampaui 1.000 kasus dalam sebulan</div>
+  <div class="keywords"><span class="keyword">ebola</span> <span class="keyword">kongo</span> <span class="keyword">wabah</span> <span class="keyword">kasus</span></div>
 </div></div>
     </div>
     <div class="story-footer">
-      <span><strong>2</strong> regions</span>
-      <span class="tag">#lanka #ebola #dengue #scam #sri</span>
+      <span><strong>3</strong> regions</span>
+      <span class="tag">#confirms #identifies #virus #end #ebola</span>
     </div>
   </div>
 </div><div class="story">
@@ -474,23 +521,25 @@
     <div class="story-header">
       <div class="story-number">9</div>
       <div class="story-titles">
-        <div class="title-en">Top 50 highest-earning creators of 2026: Collective earnings surpass $1 billion for the first time</div>
-        <div class="title-ru">Top 50 highest-earning creators of 2026: Collective earnings surpass $1 billion for the first time</div>
+        <div class="title-en">Memorial Day a time to 'remember', 'inspire'</div>
+        <div class="title-ru">Memorial Day a time to 'remember', 'inspire'</div>
       </div>
     </div>
     <div class="story-body">
-      <div class="perspectives-title">Освещение в разных регионах</div><div class="perspectives"><div class="perspective" style="--region-color: #ff8f00">
-  <span class="region-tag">Индия</span>
+      
+      
+      <div class="perspectives-title">Освещение в разных регионах</div><div class="perspectives"><div class="perspective" style="--region-color: #e53935">
+  <span class="region-tag">Китай</span>
   <div class="meta">
-    <a href="https://timesofindia.indiatimes.com/world/rest-of-world/top-50-highest-earning-creators-of-2026-collective-earnings-surpass-1-billion-for-the-first-time/articleshow/131961285.cms" target="_blank" rel="noopener">timesofindia.indiatimes.com</a>
+    <a href="http://www.chinadaily.com.cn/a/201712/12/WS5a2f252ca3108bc8c6721a01.html" target="_blank" rel="noopener">www.chinadaily.com.cn</a>
   </div>
-  <div class="headline">Top 50 highest-earning creators of 2026: Collective earnings surpass $1 billion for the first time</div>
-  <div class="keywords"><span class="keyword">delivery</span> <span class="keyword">earning</span> <span class="keyword">parents</span> <span class="keyword">bank</span> <span class="keyword">top</span></div>
+  <div class="headline">Memorial Day a time to 'remember', 'inspire'</div>
+  <div class="keywords"><span class="keyword">memorial</span> <span class="keyword">day</span> <span class="keyword">remember</span> <span class="keyword">inspire</span></div>
 </div></div>
     </div>
     <div class="story-footer">
       <span><strong>1</strong> regions</span>
-      <span class="tag">#parents #india #top #margin #old</span>
+      <span class="tag">#memorial #day #remember #oldest #remembered</span>
     </div>
   </div>
 </div><div class="story">
@@ -503,32 +552,34 @@
       </div>
     </div>
     <div class="story-body">
+      
+      
       <div class="perspectives-title">Освещение в разных регионах</div><div class="perspectives"><div class="perspective" style="--region-color: #1565c0">
   <span class="region-tag">Запад</span>
   <div class="meta">
     <a href="https://www.nytimes.com/2026/06/24/world/asia/japan-china-detained-smuggling-rare-earths.html" target="_blank" rel="noopener">rss.nytimes.com</a>
   </div>
   <div class="headline">China Detained 2 Japanese on Suspicion of Smuggling</div>
-  <div class="keywords"><span class="keyword">smuggling</span> <span class="keyword">world</span> <span class="keyword">top</span> <span class="keyword">japanese</span> <span class="keyword">suspicion</span></div>
+  <div class="keywords"><span class="keyword">detained</span> <span class="keyword">japanese</span> <span class="keyword">china</span> <span class="keyword">suspicion</span></div>
 </div><div class="perspective" style="--region-color: #ff8f00">
   <span class="region-tag">Индия</span>
   <div class="meta">
     <a href="https://www.thehindu.com/news/international/wang-yi-calls-for-india-china-to-accelerate-resumption-of-stalled-dialogue-mechanisms/article71135953.ece" target="_blank" rel="noopener">www.thehindu.com</a>
   </div>
   <div class="headline">Wang Yi calls for India, China to accelerate resumption of stalled dialogue mechanisms</div>
-  <div class="keywords"><span class="keyword">wang</span> <span class="keyword">india</span> <span class="keyword">calls</span> <span class="keyword">china</span> <span class="keyword">chinese</span></div>
+  <div class="keywords"><span class="keyword">china</span> <span class="keyword">wang</span> <span class="keyword">india</span> <span class="keyword">chinese</span></div>
 </div><div class="perspective" style="--region-color: #e53935">
   <span class="region-tag">Китай</span>
   <div class="meta">
     <a href="http://www.chinadaily.com.cn/a/201712/11/WS5a2e8352a3103f77d55ac363.html" target="_blank" rel="noopener">www.chinadaily.com.cn</a>
   </div>
   <div class="headline">China to hold annual memorial for Nanjing Massacre victims</div>
-  <div class="keywords"><span class="keyword">annual</span> <span class="keyword">memorial</span> <span class="keyword">nanjing</span> <span class="keyword">hold</span> <span class="keyword">china</span></div>
+  <div class="keywords"><span class="keyword">nanjing</span> <span class="keyword">china</span> <span class="keyword">hold</span> <span class="keyword">annual</span></div>
 </div></div>
     </div>
     <div class="story-footer">
       <span><strong>3</strong> regions</span>
-      <span class="tag">#wang #nanjing #india #top #hold</span>
+      <span class="tag">#japanese #china #wang #nanjing #india</span>
     </div>
   </div>
 </div>
