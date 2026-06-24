@@ -1,28 +1,40 @@
 import requests, json, re
 
+OPENROUTER_API = "https://openrouter.ai/api/v1/chat/completions"
 DEEPSEEK_API = "https://api.deepseek.com/v1/chat/completions"
-MODEL = "deepseek-chat"
+MODEL = "openrouter/free"
+SYS_PROMPT = "Ты новостной аналитик. Отвечай только на русском, кратко, по делу."
 
-def call_deepseek(prompt, api_key):
-    resp = requests.post(DEEPSEEK_API, headers={
+
+def call_ai(prompt, api_key, provider="openrouter"):
+    api_url = OPENROUTER_API if provider == "openrouter" else DEEPSEEK_API
+    headers = {
         "Authorization": f"Bearer {api_key}",
-        "Content-Type": "application/json"
-    }, json={
-        "model": MODEL,
+        "Content-Type": "application/json",
+    }
+    if provider == "openrouter":
+        headers["HTTP-Referer"] = "https://pt78newspaper.github.io/news-agent/"
+        headers["X-Title"] = "NewsAgentPT78"
+
+    model = MODEL if provider == "openrouter" else "deepseek-chat"
+    body = {
+        "model": model,
         "messages": [
-            {"role": "system", "content": "Ты новостной аналитик. Отвечай только на русском, кратко, по делу."},
+            {"role": "system", "content": SYS_PROMPT},
             {"role": "user", "content": prompt}
         ],
         "temperature": 0.3,
-        "max_tokens": 600
-    }, timeout=30)
+        "max_tokens": 600,
+    }
+
+    resp = requests.post(api_url, headers=headers, json=body, timeout=60)
     if resp.status_code != 200:
-        print(f"  [AI ERROR] {resp.status_code}: {resp.text[:100]}")
+        print(f"  [AI ERROR {provider}] {resp.status_code}: {resp.text[:150]}")
         return None
     return resp.json()["choices"][0]["message"]["content"]
 
 
-def summarize_cluster(cluster, api_key):
+def summarize_cluster(cluster, api_key, provider="openrouter"):
     articles_by_region = {}
     for a in cluster:
         region = a["region_label"]
@@ -55,7 +67,7 @@ def summarize_cluster(cluster, api_key):
         "COMPARISON: ..."
     )
 
-    result = call_deepseek(prompt, api_key)
+    result = call_ai(prompt, api_key, provider)
     if not result:
         return None
 
