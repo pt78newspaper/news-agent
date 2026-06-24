@@ -52,12 +52,13 @@ COMPARISON_HTML = """<div class="comparison"><div class="compare-title">Срав
 def is_russian(text):
     return bool(re.search(r'[\u0400-\u04FF]', text))
 
-def generate(clusters, output_dir="output", deepseek_key=None):
+def generate(clusters, output_dir="output", ai_key=None, ai_provider=None):
     global AI
-    if deepseek_key:
+    if ai_key:
         from .ai_summarizer import summarize_cluster
-        AI = lambda c: summarize_cluster(c, deepseek_key)
-        print(f"  AI: DeepSeek enabled")
+        provider = ai_provider or "openrouter"
+        AI = lambda c: summarize_cluster(c, ai_key, provider)
+        print(f"  AI: {provider} enabled")
 
     stories = ""
     sources = set()
@@ -154,7 +155,7 @@ def generate(clusters, output_dir="output", deepseek_key=None):
 
     html = load_template()
     utc_now = datetime.now(timezone.utc).strftime("%d %B %Y, %H:%M UTC")
-    ai_tag = "DeepSeek" if deepseek_key else "none"
+    ai_tag = ai_provider.title() if ai_key else "none"
     html = html.replace("__UPDATE_TIME__", utc_now)
     html = html.replace("__TOTAL_STORIES__", str(min(len(clusters), 10)))
     html = html.replace("__TOTAL_SOURCES__", str(len(sources)))
@@ -162,7 +163,7 @@ def generate(clusters, output_dir="output", deepseek_key=None):
     html = html.replace("__STORIES__", stories)
     html = html.replace("__AI_MODEL__", ai_tag)
     html = html.replace("__AI_BADGE__",
-        f'<span class="ai-badge">AI: {ai_tag}</span>' if deepseek_key else "")
+        f'<span class="ai-badge">AI: {ai_tag}</span>' if ai_key else "")
 
     os.makedirs(output_dir, exist_ok=True)
     out = os.path.join(output_dir, "index.html")
