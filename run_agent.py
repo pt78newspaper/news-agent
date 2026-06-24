@@ -7,8 +7,8 @@ from news_agent.generator import generate
 with open("config.json", encoding="utf-8") as f:
     config = json.load(f)
 
-print("NewsAgentPT78 - Personal news agent")
-print("=" * 50)
+print("NewsAgentPT78")
+print("=" * 40)
 articles = fetch_all(config)
 
 if not articles:
