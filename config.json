@@ -4,54 +4,30 @@
   "fetch_interval_hours": 3,
   "language": "ru",
   "sources": {
-    "russia": {
-      "label": "Россия",
-      "color": "#d32f2f",
-      "feeds": [
-        "https://tass.com/rss/v2.xml",
-        "https://russian.rt.com/rss/news",
-        "https://tass.ru/rss/v2.xml",
-        "https://lenta.ru/rss/news"
-      ]
-    },
-    "west": {
-      "label": "Запад",
-      "color": "#1565c0",
-      "feeds": [
-        "https://www.theguardian.com/world/rss",
-        "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-        "https://www.aljazeera.com/xml/rss/all.xml"
-      ]
-    },
-    "china": {
-      "label": "Китай",
-      "color": "#e53935",
-      "feeds": [
-        "https://www.chinadaily.com.cn/rss/world_rss.xml",
-        "https://www.chinadaily.com.cn/rss/china_rss.xml"
-      ]
-    },
-    "india": {
-      "label": "Индия",
-      "color": "#ff8f00",
-      "feeds": [
-        "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-        "https://www.thehindu.com/news/international/feeder/default.rss"
-      ]
-    },
-    "iran": {
-      "label": "Иран",
-      "color": "#6a1b9a",
-      "feeds": [
-        "https://www.tehrantimes.com/rss"
-      ]
-    },
-    "indonesia": {
-      "label": "Индонезия",
-      "color": "#00897b",
-      "feeds": [
-        "https://www.antaranews.com/rss/top-news"
-      ]
-    }
+    "russia": {"label": "Россия", "color": "#d32f2f", "feeds": [
+      "https://tass.com/rss/v2.xml",
+      "https://russian.rt.com/rss/news",
+      "https://tass.ru/rss/v2.xml",
+      "https://lenta.ru/rss/news"
+    ]},
+    "west": {"label": "Запад", "color": "#1565c0", "feeds": [
+      "https://www.theguardian.com/world/rss",
+      "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "https://www.aljazeera.com/xml/rss/all.xml"
+    ]},
+    "china": {"label": "Китай", "color": "#e53935", "feeds": [
+      "https://www.chinadaily.com.cn/rss/world_rss.xml",
+      "https://www.chinadaily.com.cn/rss/china_rss.xml"
+    ]},
+    "india": {"label": "Индия", "color": "#ff8f00", "feeds": [
+      "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "https://www.thehindu.com/news/international/feeder/default.rss"
+    ]},
+    "iran": {"label": "Иран", "color": "#6a1b9a", "feeds": [
+      "https://www.tehrantimes.com/rss"
+    ]},
+    "indonesia": {"label": "Индонезия", "color": "#00897b", "feeds": [
+      "https://www.antaranews.com/rss/top-news"
+    ]}
   }
 }
