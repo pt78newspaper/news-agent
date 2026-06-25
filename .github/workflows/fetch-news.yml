@@ -9,7 +9,8 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     env:
-      DEEPSEEK_KEY: ${{ secrets.DEEPSEEK }}
+      #DEEPSEEK_KEY: ${{ secrets.DEEPSEEK }}
+      OPENROUTER_KEY: ${{ secrets.OPENROUTER }}
     steps:
       - uses: actions/checkout@v4
 
