@@ -1,33 +1,78 @@
 {
   "max_news_per_day": 10,
-  "min_russia_news": 3,
-  "fetch_interval_hours": 3,
   "language": "ru",
   "sources": {
     "russia": {"label": "Россия", "color": "#d32f2f", "feeds": [
       "https://tass.com/rss/v2.xml",
-      "https://russian.rt.com/rss/news",
       "https://tass.ru/rss/v2.xml",
-      "https://lenta.ru/rss/news"
+      "https://lenta.ru/rss/news",
+      "https://www.kommersant.ru/RSS/news.xml",
+      "https://www.vedomosti.ru/rss/rubric/politics"
     ]},
-    "west": {"label": "Запад", "color": "#1565c0", "feeds": [
-      "https://www.theguardian.com/world/rss",
+    "usa": {"label": "США", "color": "#1565c0", "feeds": [
       "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "https://www.aljazeera.com/xml/rss/all.xml"
+      "https://feeds.npr.org/1001/rss.xml"
+    ]},
+    "ukraine": {"label": "Украина", "color": "#ffd54f", "feeds": [
+      "https://www.ukrinform.ua/rss/block-lastnews",
+      "https://www.pravda.com.ua/rss/"
     ]},
     "china": {"label": "Китай", "color": "#e53935", "feeds": [
       "https://www.chinadaily.com.cn/rss/world_rss.xml",
-      "https://www.chinadaily.com.cn/rss/china_rss.xml"
+      "https://www.chinadaily.com.cn/rss/china_rss.xml",
+      "http://www.xinhuanet.com/english/rss/main.xml"
     ]},
     "india": {"label": "Индия", "color": "#ff8f00", "feeds": [
       "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "https://www.thehindu.com/news/international/feeder/default.rss"
+      "https://www.thehindu.com/feeder/default.rss",
+      "https://indianexpress.com/feed/"
     ]},
     "iran": {"label": "Иран", "color": "#6a1b9a", "feeds": [
-      "https://www.tehrantimes.com/rss"
+      "https://www.tehrantimes.com/rss",
+      "https://en.irna.ir/rss"
     ]},
     "indonesia": {"label": "Индонезия", "color": "#00897b", "feeds": [
-      "https://www.antaranews.com/rss/top-news"
+      "https://www.antaranews.com/rss/terkini.xml",
+      "https://www.thejakartapost.com/rss"
+    ]},
+    "mongolia": {"label": "Монголия", "color": "#0097a7", "feeds": [
+      "https://montsame.mn/rss/en"
+    ]},
+    "uk": {"label": "Англия", "color": "#1e88e5", "feeds": [
+      "https://www.theguardian.com/world/rss",
+      "https://feeds.bbci.co.uk/news/rss.xml"
+    ]},
+    "france": {"label": "Франция", "color": "#3949ab", "feeds": [
+      "https://www.lemonde.fr/rss/une.xml",
+      "https://www.france24.com/fr/rss"
+    ]},
+    "germany": {"label": "Германия", "color": "#fdd835", "feeds": [
+      "https://www.tagesschau.de/xml/rss2",
+      "https://rss.dw.com/xml/rss-en-all"
+    ]},
+    "canada": {"label": "Канада", "color": "#43a047", "feeds": [
+      "https://www.cbc.ca/webfeed/rss/rss-topstories"
+    ]},
+    "belarus": {"label": "Белоруссия", "color": "#7cb342", "feeds": [
+      "https://www.belta.by/rss/all.xml"
+    ]},
+    "mexico": {"label": "Мексика", "color": "#e65100", "feeds": [
+      "https://www.eluniversal.com.mx/rss/home.xml"
+    ]},
+    "brazil": {"label": "Бразилия", "color": "#2e7d32", "feeds": [
+      "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"
+    ]},
+    "argentina": {"label": "Аргентина", "color": "#74b9ff", "feeds": [
+      "https://www.clarin.com/rss/lo-ultimo/"
+    ]},
+    "hungary": {"label": "Венгрия", "color": "#e53935", "feeds": [
+      "https://hvg.hu/rss"
+    ]},
+    "slovakia": {"label": "Словакия", "color": "#0d47a1", "feeds": [
+      "https://dennikn.sk/feed/"
+    ]},
+    "north_korea": {"label": "Северная Корея", "color": "#b71c1c", "feeds": [
+      "http://kcna.kp/kcna.user.home.retrieveHomeInfoList.kcmsf"
     ]}
   }
 }
