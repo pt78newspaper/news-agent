@@ -1,1 +1,205 @@
-[]
+[
+  {
+    "title_ru": "США нанесли удары по Ирану в ответ на атаку судна в Ормузском проливе",
+    "title_en": "US Strikes Iran in Retaliation for Vessel Attack in Strait of Hormuz",
+    "date": "2026-06-26",
+    "summary": "Военные США подтвердили нанесение ударов по иранским целям после атаки беспилотника на грузовое судно в Ормузском проливе. Президент Трамп обвинил Тегеран в нарушении режима прекращения огня и назвал атаку «глупой», при этом отказавшись уточнять, будут ли дальнейшие ответные меры.",
+    "perspective": "Вашингтон позиционирует удар как вынужденную меру самообороны и защиту свободы судоходства; Тегеран отрицает наличие прямой линии связи с США по инциденту и ранее отвергал обвинения в нарушении перемирия; международные организации (IMO) приостановили планы по эвакуации судов из-за эскалации.",
+    "perspective_type": "from_source",
+    "sources": [
+      "The New York Times",
+      "The Guardian",
+      "Al Jazeera",
+      "TASS"
+    ],
+    "links": [
+      "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
+      "https://www.theguardian.com/world/2026/jun/26/us-says-it-struck-iran-targets-after-attack-on-cargo-ship-on-the-strait-of-hormuz",
+      "https://www.aljazeera.com/news/2026/6/26/trump-blames-iran-for-foolish-strike-on-cargo-ship-in-strait-of-hormuz?traffic_source=rss",
+      "https://tass.com/world/2152231"
+    ],
+    "is_development": true,
+    "first_reported": "2026-06-26",
+    "id": "5f7fcf20209d"
+  },
+  {
+    "title_ru": "Подписано рамочное соглашение между Израилем и Ливаном при посредничестве США",
+    "title_en": "Israel and Lebanon Sign Framework Deal Mediated by US",
+    "date": "2026-06-26",
+    "summary": "В Вашингтоне подписано трехстороннее рамочное соглашение по урегулированию между Израилем и Ливаном после пятого раунда переговоров. Президент Ливана приветствовал договоренности, однако движение «Хезболла» заявило о неподдержке сделки и потребовало безусловного ухода Израиля.",
+    "perspective": "США и официальные лица Ливана рассматривают соглашение как шаг к стабилизации; «Хезболла» категорически отвергает условия сделки, настаивая на полном выводе израильских сил; Иран также выпустил предупреждения относительно военного присутствия Израиля в Ливане.",
+    "perspective_type": "from_source",
+    "sources": [
+      "Al Jazeera",
+      "TASS",
+      "Times of India",
+      "The Hindu"
+    ],
+    "links": [
+      "https://www.aljazeera.com/news/2026/6/26/us-announces-framework-agreement-between-israel-and-lebanon?traffic_source=rss",
+      "https://tass.com/world/2152223",
+      "https://timesofindia.indiatimes.com/world/middle-east/us-israel-lebanon-sign-trilateral-framework-deal-after-fifth-round-of-talks/articleshow/132024106.cms",
+      "https://www.thehindu.com/news/international/hezbollah-chief-says-israel-must-unconditionally-leave-lebanon/article71150390.ece"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-26",
+    "id": "1cc5ab90585e"
+  },
+  {
+    "title_ru": "Число жертв землетрясения в Венесуэле превысило 900 человек, США направляют помощь",
+    "title_en": "Venezuela Earthquake Death Toll Exceeds 900 as US Sends Aid",
+    "date": "2026-06-26",
+    "summary": "После мощных двойных землетрясений в Венесуэле число погибших достигло 920 человек, более 50 тысяч числятся пропавшими без вести. США и другие страны направляют спасательные команды, что становится проверкой недавно налаженных отношений между Каракасом и Вашингтоном.",
+    "perspective": "Международное сообщество мобилизует гуманитарную помощь; СМИ отмечают, что катастрофа тестирует новый альянс Венесуэлы с США; местные власти объявили чрезвычайное положение, но инфраструктура здравоохранения остается в кризисном состоянии.",
+    "perspective_type": "from_source",
+    "sources": [
+      "The New York Times",
+      "The Guardian",
+      "TASS",
+      "The Hindu"
+    ],
+    "links": [
+      "https://www.nytimes.com/2026/06/26/us/politics/trump-venezuela-earthquake-aid.html",
+      "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
+      "https://tass.com/emergencies/2152203",
+      "https://www.thehindu.com/news/international/venezuela-earthquakes-terremoto-caracas-magnitude-7-damages-death-toll-live-updates-june-26-2026/article71149145.ece"
+    ],
+    "is_development": true,
+    "first_reported": "2026-06-26",
+    "id": "37fdee041fc8"
+  },
+  {
+    "title_ru": "Путин и Лукашенко провели переговоры тет-а-тет на Валдае длительностью более 4 часов",
+    "title_en": "Putin and Lukashenko Hold Over 4-Hour One-on-One Talks in Valdai",
+    "date": "2026-06-26",
+    "summary": "Президенты России и Беларуси обсудили вопросы региональной безопасности в ходе встречи на Валдае. Переговоры в формате тет-а-тет продолжались более четырех с половиной часов, что свидетельствует о высокой интенсивности диалога.",
+    "perspective": "Кремль акцентирует внимание на обеспечении военной безопасности Союзного государства всеми силами; западные наблюдатели могут расценивать длительность встречи как признак координации действий на фоне конфликта в Украине.",
+    "perspective_type": "assumed",
+    "sources": [
+      "TASS",
+      "RT"
+    ],
+    "links": [
+      "https://tass.com/world/2152211",
+      "https://russian.rt.com/world/news/1649379-putin-i-lukashenko-prodolzhayut-peregovory-tet-a-tet-na-valdae"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-26",
+    "id": "7848aa32057c"
+  },
+  {
+    "title_ru": "Россия и Украина обменялись пленными по формуле «160 на 160»",
+    "title_en": "Russia and Ukraine Exchange Prisoners on '160 for 160' Basis",
+    "date": "2026-06-26",
+    "summary": "Состоялся крупный обмен военнопленными между Россией и Украиной: каждая сторона вернула по 160 человек. Параллельно продолжаются взаимные удары, включая атаки БПЛА на юге России и удары по объектам в Украине.",
+    "perspective": "Обмен демонстрирует сохранение каналов коммуникации несмотря на боевые действия; Минобороны РФ заявляет о массированных перехватах украинских дронов; украинская сторона сообщает о повреждении инфраструктуры.",
+    "perspective_type": "assumed",
+    "sources": [
+      "TASS",
+      "The Hindu"
+    ],
+    "links": [
+      "https://tass.com/defense/2152013",
+      "https://www.thehindu.com/news/international/russia-says-shot-down-660-ukrainian-drones-overnight-defence-ministry/article71149625.ece"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-26",
+    "id": "eb6abd5e9554"
+  },
+  {
+    "title_ru": "Верховный суд США расширил полномочия Трампа в сфере иммиграции, отменив защиту для гаитян и сирийцев",
+    "title_en": "US Supreme Court Expands Trump’s Immigration Power, Ending TPS Protections",
+    "date": "2026-06-26",
+    "summary": "Верховный суд США вынес решение, ограничивающее статус временной защиты (TPS) для иммигрантов из Гаити и Сирии. Правозащитники предупреждают о широких последствиях вердикта, который усиливает исполнительную власть президента в вопросах депортации.",
+    "perspective": "Администрация Трампа получает юридическое основание для ужесточения миграционной политики; правозащитные организации и демократы опасаются массовой депортации в нестабильные регионы.",
+    "perspective_type": "from_source",
+    "sources": [
+      "The New York Times",
+      "Al Jazeera",
+      "The Hindu"
+    ],
+    "links": [
+      "https://www.nytimes.com/2026/06/25/us/politics/supreme-court-temporary-protected-status.html",
+      "https://www.aljazeera.com/news/2026/6/26/advocates-warn-of-wide-ranging-implications-of-us-supreme-court-tps-ruling?traffic_source=rss",
+      "https://www.thehindu.com/news/international/us-supreme-courts-ruling-to-end-protections-for-haitian-syrian-immigrants-could-have-broader-impact/article71149683.ece"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-26",
+    "id": "2c9cce29cf79"
+  },
+  {
+    "title_ru": "Китай активизирует дипломатию с «средними державами» и укрепляет связи с Бангладеш",
+    "title_en": "China Intensifies Diplomacy with Middle Powers and Strengthens Ties with Bangladesh",
+    "date": "2026-06-26",
+    "summary": "Председатель КНР Си Цзиньпин принял более десятка мировых лидеров в этом году, пока «средние державы» ищут альтернативы США. Одновременно Пекин обсуждает с Даккой проекты по управлению рекой Тиста и сокращению торгового дефицита, подчеркивая, что эти связи не направлены против третьих стран.",
+    "perspective": "Пекин позиционирует свою внешнюю политику как открытую и неконфронтационную; Индия может воспринимать усиление китайского влияния в Бангладеш как стратегический вызов; западные СМИ отмечают тренд на диверсификацию внешних связей странами Глобального Юга.",
+    "perspective_type": "assumed",
+    "sources": [
+      "The Guardian",
+      "The Hindu"
+    ],
+    "links": [
+      "https://www.theguardian.com/world/2026/jun/26/xi-jinping-china-host-of-world-leaders-middle-powers",
+      "https://www.thehindu.com/news/international/beijings-ties-with-bangladesh-does-not-target-any-third-party-says-chinese-foreign-ministry/article71151716.ece",
+      "https://www.thehindu.com/news/international/bangladesh-china-agree-to-strengthen-cooperation-on-teesta-river-management-report/article71145876.ece"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-26",
+    "id": "1c16b7319f76"
+  },
+  {
+    "title_ru": "Европу охватила рекордная жара, политические дебаты смещаются в сторону адаптации",
+    "title_en": "Record Heatwave Grips Europe, Shifting Political Debate to Adaptation",
+    "date": "2026-06-26",
+    "summary": "Экстремальная жара в Европе привела к гибели детей во Франции и установлению новых температурных рекордов. Политическая дискуссия частично смещается с климатических действий на меры адаптации, такие как установка кондиционеров, что вызывает критику со стороны экологических активистов.",
+    "perspective": "Некоторые политики призывают к срочным мерам по охлаждению городов как вопросу выживания; экологи и левые силы критикуют отказ от долгосрочной климатической повестки в пользу краткосрочных технических решений.",
+    "perspective_type": "from_source",
+    "sources": [
+      "The New York Times",
+      "The Guardian"
+    ],
+    "links": [
+      "https://www.nytimes.com/2026/06/26/world/europe/europe-heat-climate-change-politics.html",
+      "https://www.theguardian.com/environment/2026/jun/26/europe-heatwave-shift-east-child-deaths-france-cities-heat-stress"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-26",
+    "id": "52287d1e058d"
+  },
+  {
+    "title_ru": "Зеленский объявил о начале 40-дневной операции против России",
+    "title_en": "Zelensky Announces Start of 40-Day Operation Against Russia",
+    "date": "2026-06-26",
+    "summary": "Президент Украины Владимир Зеленский объявил о старте специальной операции сроком на 40 дней, поручив СБУ выполнение трех конкретных задач. Российские военные эксперты уже оценили готовность РФ к противодействию этим планам.",
+    "perspective": "Киев представляет операцию как необходимый этап давления на противника; российские источники характеризуют заявление как информационную кампанию и выражают уверенность в способности нейтрализовать угрозы.",
+    "perspective_type": "from_source",
+    "sources": [
+      "Lenta.ru",
+      "RT"
+    ],
+    "links": [
+      "https://lenta.ru/news/2026/06/26/sbu-porucheno-tri-zadachi-zelenskiy-ob-yavil-o-40-dnevnoy-operatsii-protiv-rossii-chto-o-ney-izvestno/",
+      "https://lenta.ru/news/2026/06/26/polkovnik-otsenil-gotovnost-rossii-k-ob-yavlennoy-zelenskim-40-dnevnoy-operatsii/"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-26",
+    "id": "c356a23c95f8"
+  },
+  {
+    "title_ru": "Губернатор Ньюсом призвал к национальному налогу на миллиардеров в США",
+    "title_en": "Governor Newsom Calls for National Billionaires' Tax in US",
+    "date": "2026-06-26",
+    "summary": "Губернатор Калифорнии Гэвин Ньюсом выступил с инициативой введения федерального налога на миллиардеров, несмотря на то, что одновременно борется против аналогичной меры на уровне своего штата. Это заявление сделано на фоне внутренних политических маневров перед выборами.",
+    "perspective": "Демократы используют тему налогообложения сверхбогатых как часть предвыборной риторики; республиканцы и бизнес-сообщество традиционно выступают против таких мер, указывая на риски для экономики.",
+    "perspective_type": "assumed",
+    "sources": [
+      "The Guardian"
+    ],
+    "links": [
+      "https://www.theguardian.com/us-news/2026/jun/26/gavin-newsom-national-billionaires-tax"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-26",
+    "id": "33b36ebc4926"
+  }
+]
