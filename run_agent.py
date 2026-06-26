@@ -94,9 +94,10 @@ def generate_html(events, config, usage=None):
 
     # System info
     sources = config.get("sources", {})
-    countries_list = ", ".join(s["label"] for s in sources.values())
+    active_sources = {k: v for k, v in sources.items() if v.get("feeds")}
+    countries_list = ", ".join(s["label"] for s in active_sources.values())
     sources_html = ""
-    for key, s in sources.items():
+    for key, s in active_sources.items():
         sources_html += f'<div class="country"><span class="country-name">{s["label"]}</span>'
         for feed in s.get("feeds", []):
             short = feed.replace("https://", "").replace("http://", "").split("/")[0]
@@ -165,7 +166,7 @@ def main():
     usage = None
     events = None
     if api_key:
-        events, usage = summarize_news(clusters[:30], api_key, history)
+        events, usage = summarize_news(clusters[:15], api_key, history)
         if usage:
             stats = load_json(STATS_FILE, {"total_tokens": 0, "total_cost": 0})
             stats["total_tokens"] += usage.get("tokens", 0)
