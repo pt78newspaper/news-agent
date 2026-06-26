@@ -4,20 +4,26 @@ from news_agent.fetcher import fetch_all
 from news_agent.analyzer import cluster_news
 from news_agent.ai_summarizer import summarize_news, get_system_prompt
 
+STATS_FILE = "output/stats.json"
 HISTORY_FILE = "output/history.json"
 
 
-def load_history():
+def load_json(path, default):
     try:
-        with open(HISTORY_FILE, encoding="utf-8") as f:
+        with open(path, encoding="utf-8") as f:
             return json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
-        return []
+        return default
+
+
+def save_json(path, data):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
 
 
 def save_history(events):
-    os.makedirs("output", exist_ok=True)
-    old = load_history()
+    old = load_json(HISTORY_FILE, [])
     seen = {hash_event(e) for e in old}
     for e in events:
         h = hash_event(e)
@@ -31,8 +37,7 @@ def save_history(events):
                 if hash_event(oe) == h:
                     oe["last_reported"] = e.get("date", "")
                     break
-    with open(HISTORY_FILE, "w", encoding="utf-8") as f:
-        json.dump(old[-100:], f, ensure_ascii=False, indent=2)
+    save_json(HISTORY_FILE, old[-100:])
 
 
 def hash_event(e):
@@ -40,7 +45,7 @@ def hash_event(e):
     return hashlib.md5(raw.encode("utf-8")).hexdigest()[:12]
 
 
-def generate_html(events, config):
+def generate_html(events, config, usage=None):
     tpl_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "news_agent", "template.html")
     with open(tpl_path, encoding="utf-8") as f:
         html = f.read()
@@ -98,9 +103,21 @@ def generate_html(events, config):
             sources_html += f'<span class="feed">{short}</span>'
         sources_html += "</div>"
 
+    # Usage info
+    if usage:
+        usage_text = (
+            f"Запуск: {usage.get('tokens', 0)} токенов, "
+            f"стоимость {usage.get('cost', 0)} ед. "
+            f"| Всего за всё время: {usage.get('total_tokens', 0)} токенов, "
+            f"{usage.get('total_cost', 0)} ед."
+        )
+    else:
+        usage_text = ""
+
     from datetime import datetime, timezone
     utc_now = datetime.now(timezone.utc).strftime("%d %B %Y, %H:%M UTC")
     html = html.replace("__UPDATE_TIME__", utc_now)
+    html = html.replace("__USAGE_INFO__", usage_text)
     html = html.replace("__TOTAL_STORIES__", str(len(events)))
     html = html.replace("__TOTAL_SOURCES__", str(sum(len(e.get("sources", [])) for e in events)))
     html = html.replace("__REGIONS_COVERED__", str(len(set(s for e in events for s in e.get("sources", [])))))
@@ -129,7 +146,7 @@ def main():
     print("NewsAgentPT78")
     print("=" * 40)
     if api_key:
-        print(f"  AI: GPTunnel (qwen3.7-max) enabled")
+        print("  AI: GPTunnel (qwen3.7-max) enabled")
     else:
         print("  AI: DISABLED (no API key)")
 
@@ -142,20 +159,27 @@ def main():
     clusters = cluster_news(articles)
     print(f"Total clusters: {len(clusters)}")
 
-    history = load_history()
+    history = load_json(HISTORY_FILE, [])
     print(f"History: {len(history)} past events")
 
+    usage = None
+    events = None
     if api_key:
-        events = summarize_news(clusters[:30], api_key, history)
-    else:
-        events = None
+        events, usage = summarize_news(clusters[:30], api_key, history)
+        if usage:
+            stats = load_json(STATS_FILE, {"total_tokens": 0, "total_cost": 0})
+            stats["total_tokens"] += usage.get("tokens", 0)
+            stats["total_cost"] += usage.get("cost", 0)
+            usage["total_tokens"] = round(stats["total_tokens"], 2)
+            usage["total_cost"] = round(stats["total_cost"], 4)
+            save_json(STATS_FILE, stats)
 
     if not events:
         print("AI failed or disabled, generating empty page.")
         events = []
 
     save_history(events)
-    generate_html(events, config)
+    generate_html(events, config, usage)
 
 
 if __name__ == "__main__":
