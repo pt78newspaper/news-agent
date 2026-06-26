@@ -1,95 +1,137 @@
-import requests, json, re
+import requests, json
 
-OPENROUTER_API = "https://openrouter.ai/api/v1/chat/completions"
-DEEPSEEK_API = "https://api.deepseek.com/v1/chat/completions"
-MODEL = "openrouter/free"
-SYS_PROMPT = "Ты новостной аналитик. Отвечай только на русском, кратко, по делу."
+GPTUNNEL_API = "https://gptunnel.ru/v1/chat/completions"
+MODEL = "qwen3.7-max"
+SYS_PROMPT = (
+    "Ты — опытный политолог, беспристрастный, не имеющий собственных политических предпочтений."
+)
 
 
-def call_ai(prompt, api_key, provider="openrouter"):
-    api_url = OPENROUTER_API if provider == "openrouter" else DEEPSEEK_API
-    headers = {
+def summarize_news(clusters, api_key, history=None):
+    news_block = ""
+    for idx, cluster in enumerate(clusters, 1):
+        news_block += f"\n=== Событие {idx} ===\n"
+        for a in cluster:
+            kw = a.get("keywords", [])
+            kw_str = f" [ключевые слова: {', '.join(kw[:4])}]" if kw else ""
+            news_block += (
+                f"[{a['region_label']}] {a['title']}{kw_str}\n"
+                f"  Источник: {a['source_name']} — {a['link']}\n"
+                f"  Дата: {a.get('published', 'неизвестно')}\n"
+            )
+
+    history_block = ""
+    if history:
+        history_block = "\n\n=== Ранее опубликованные события ===\n"
+        for ev in history[-20:]:
+            history_block += (
+                f"- {ev.get('title_ru', '')} ({ev.get('date', '')})\n"
+                f"  Первый раз: {ev.get('first_reported', '')}\n"
+            )
+
+    prompt = (
+        "Вот текущая подборка новостей из RSS-лент российских и мировых СМИ:\n"
+        f"{news_block}\n"
+        "Инструкция:\n"
+        "1. Выбери до 15 важнейших мировых политических событий и тенденций за последние 7 дней.\n"
+        "2. Для каждого события используй ТОЛЬКО факты из предоставленных новостей. "
+        "Не придумывай события и не используй свои знания вне этого списка.\n"
+        "3. Сверься со списком ранее опубликованных событий (если есть). "
+        "Если событие уже было в прошлом выпуске и нет новых важных подробностей — пропусти его. "
+        "Если есть существенное развитие — включи, укажи это.\n"
+        "4. Если событий больше 10 — выбери 10 самых важных. Если меньше 10 — оставь сколько есть.\n"
+        "5. Для каждого события обязательно укажи ссылки на источники (только из списка выше).\n"
+        "6. В поле perspective напиши, как событие может оцениваться разными политическими силами "
+        "(только если это следует из новостей; если неясно — укажи 'неясно').\n"
+        "7. Поле perspective_type: 'from_source' если оценка из источника, "
+        "'assumed' если ты её предполагаешь, 'unclear' если неясно.\n"
+        f"{history_block}"
+    )
+
+    resp = requests.post(GPTUNNEL_API, headers={
         "Authorization": f"Bearer {api_key}",
-        "Content-Type": "application/json",
-    }
-    if provider == "openrouter":
-        headers["HTTP-Referer"] = "https://pt78newspaper.github.io/news-agent/"
-        headers["X-Title"] = "NewsAgentPT78"
-
-    model = MODEL if provider == "openrouter" else "deepseek-chat"
-    body = {
-        "model": model,
+        "Content-Type": "application/json"
+    }, json={
+        "model": MODEL,
         "messages": [
             {"role": "system", "content": SYS_PROMPT},
             {"role": "user", "content": prompt}
         ],
+        "tools": [{
+            "type": "function",
+            "function": {
+                "name": "report_news",
+                "description": "Сообщить важнейшие политические события",
+                "parameters": {
+                    "type": "object",
+                    "properties": {
+                        "events": {
+                            "type": "array",
+                            "items": {
+                                "type": "object",
+                                "properties": {
+                                    "title_ru": {
+                                        "type": "string",
+                                        "description": "Заголовок на русском"
+                                    },
+                                    "title_en": {
+                                        "type": "string",
+                                        "description": "Заголовок на английском"
+                                    },
+                                    "date": {
+                                        "type": "string",
+                                        "description": "Дата события"
+                                    },
+                                    "summary": {
+                                        "type": "string",
+                                        "description": "Суть на русском, 2-3 предложения"
+                                    },
+                                    "perspective": {
+                                        "type": "string",
+                                        "description": "Как оценивается разными политическими силами"
+                                    },
+                                    "perspective_type": {
+                                        "type": "string",
+                                        "enum": ["from_source", "assumed", "unclear"]
+                                    },
+                                    "sources": {
+                                        "type": "array",
+                                        "items": {"type": "string"},
+                                        "description": "Названия источников"
+                                    },
+                                    "links": {
+                                        "type": "array",
+                                        "items": {"type": "string"},
+                                        "description": "Ссылки на источники"
+                                    },
+                                    "is_development": {
+                                        "type": "boolean",
+                                        "description": "True если это развитие ранее освещённого события"
+                                    }
+                                },
+                                "required": ["title_ru", "title_en", "date", "summary",
+                                             "perspective", "perspective_type", "sources", "links"]
+                            }
+                        }
+                    },
+                    "required": ["events"]
+                }
+            }
+        }],
+        "tool_choice": {"type": "function", "function": {"name": "report_news"}},
         "temperature": 0.3,
-        "max_tokens": 600,
-    }
+        "max_tokens": 4000
+    }, timeout=120)
 
-    resp = requests.post(api_url, headers=headers, json=body, timeout=60)
     if resp.status_code != 200:
-        print(f"  [AI ERROR {provider}] {resp.status_code}: {resp.text[:150]}")
-        return None
-    return resp.json()["choices"][0]["message"]["content"]
-
-
-def summarize_cluster(cluster, api_key, provider="openrouter"):
-    articles_by_region = {}
-    for a in cluster:
-        region = a["region_label"]
-        if region not in articles_by_region:
-            articles_by_region[region] = []
-        articles_by_region[region].append({
-            "title": a["title"],
-            "source": a["source_name"]
-        })
-
-    news_block = ""
-    for region, articles in articles_by_region.items():
-        news_block += f"\n{region}:\n"
-        for art in articles:
-            news_block += f"  - {art['title']} ({art['source']})\n"
-
-    prompt = (
-        "Вот заголовки новостей из разных стран на одну тему:\n"
-        f"{news_block}\n"
-        "Сделай три вещи:\n"
-        "1. [EN] — Напиши английский заголовок (если его нет, переведи с русского)\n"
-        "2. [RU] — Напиши русский заголовок (если его нет, переведи с английского)\n"
-        "3. [SUMMARY] — Суть новости на русском, 2-3 предложения\n"
-        "4. [COMPARISON] — Одно-два предложения: как отличаются взгляды в России, на Западе, "
-        "в странах БРИКС. Совпадают или расходятся оценки?\n\n"
-        "Формат ответа:\n"
-        "EN: ...\n"
-        "RU: ...\n"
-        "SUMMARY: ...\n"
-        "COMPARISON: ..."
-    )
-
-    result = call_ai(prompt, api_key, provider)
-    if not result:
+        print(f"  [AI ERROR] {resp.status_code}: {resp.text[:200]}")
         return None
 
-    parsed = {
-        "title_en": None,
-        "title_ru": None,
-        "summary": None,
-        "comparison": None
-    }
-
-    en_match = re.search(r"EN:\s*(.*?)(?:\n|$)", result)
-    ru_match = re.search(r"RU:\s*(.*?)(?:\n|$)", result)
-    summary_match = re.search(r"SUMMARY:\s*(.*?)(?:\nCOMPARISON:|$)", result, re.DOTALL)
-    comparison_match = re.search(r"COMPARISON:\s*(.*)", result, re.DOTALL)
-
-    if en_match:
-        parsed["title_en"] = en_match.group(1).strip()
-    if ru_match:
-        parsed["title_ru"] = ru_match.group(1).strip()
-    if summary_match:
-        parsed["summary"] = summary_match.group(1).strip()
-    if comparison_match:
-        parsed["comparison"] = comparison_match.group(1).strip()
-
-    return parsed
+    msg = resp.json()["choices"][0]["message"]
+    if msg.get("tool_calls"):
+        for tc in msg["tool_calls"]:
+            if tc["function"]["name"] == "report_news":
+                data = json.loads(tc["function"]["arguments"])
+                print(f"  AI: {len(data.get('events', []))} событий")
+                return data.get("events", [])
+    return None
