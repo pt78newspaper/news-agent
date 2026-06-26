@@ -168,6 +168,30 @@
     color: var(--text-dim);
   }
   .no-news h2 { font-size: 22px; margin-bottom: 10px; color: #fff; }
+  .sys-btn {
+    display: inline-block; margin: 20px 0; padding: 6px 16px;
+    background: transparent; color: var(--text-dim); border: 1px solid var(--border);
+    border-radius: 6px; cursor: pointer; font-size: 12px;
+    transition: all 0.2s;
+  }
+  .sys-btn:hover { color: var(--accent); border-color: var(--accent); }
+  .sys-info {
+    display: none; text-align: left; max-width: 800px; margin: 10px auto;
+    background: var(--card); border: 1px solid var(--border); border-radius: 8px;
+    padding: 20px; font-size: 13px; line-height: 1.6;
+  }
+  .sys-info.show { display: block; }
+  .sys-info h3 { color: var(--accent); font-size: 14px; margin: 16px 0 8px; }
+  .sys-info h3:first-child { margin-top: 0; }
+  .sys-info pre {
+    background: rgba(0,0,0,0.3); border-radius: 4px; padding: 10px;
+    font-size: 11px; white-space: pre-wrap; color: var(--text-dim);
+    max-height: 300px; overflow-y: auto;
+  }
+  .sys-info .source-list { columns: 2; column-gap: 20px; }
+  .sys-info .source-list .country { break-inside: avoid; margin-bottom: 8px; }
+  .sys-info .source-list .country-name { color: var(--en); font-weight: 600; }
+  .sys-info .source-list .feed { display: block; font-size: 11px; color: var(--text-dim); margin-left: 12px; }
   @media (max-width: 600px) {
     .header h1 { font-size: 22px; }
     .story-header { flex-direction: column; }
@@ -181,7 +205,7 @@
 <div class="header">
   <h1>News Feed PT78</h1>
   <p class="subtitle">Global media monitoring</p>
-  <p class="update-time">Updated: <span id="update-utc">26 June 2026, 21:16 UTC</span><span class="ai-badge">AI: Qwen 3.7 Max</span></p>
+  <p class="update-time">Updated: <span id="update-utc">26 June 2026, 21:32 UTC</span><span class="ai-badge">AI: Qwen 3.7 Max</span></p>
   <script>
     (function(){
       var el = document.getElementById('update-utc');
@@ -200,8 +224,8 @@
 <div class="container">
   <div class="stats-row">
     <div class="stat-card"><div class="num">10</div><div class="lbl">Stories</div></div>
-    <div class="stat-card"><div class="num">26</div><div class="lbl">Sources</div></div>
-    <div class="stat-card"><div class="num">8</div><div class="lbl">Regions</div></div>
+    <div class="stat-card"><div class="num">34</div><div class="lbl">Sources</div></div>
+    <div class="stat-card"><div class="num">12</div><div class="lbl">Regions</div></div>
   </div>
   
 <div class="story">
@@ -209,20 +233,20 @@
     <div class="story-header">
       <div class="story-number">1</div>
       <div class="story-titles">
-        <div class="title-en">US Strikes Iran in Retaliation for Vessel Attack in Strait of Hormuz</div>
+        <div class="title-en">US strikes Iran in retaliation for cargo ship attack in Strait of Hormuz</div>
         <div class="title-ru">США нанесли удары по Ирану в ответ на атаку судна в Ормузском проливе</div>
       </div>
     </div>
     <div class="story-body">
-      <div class="summary">Военные США подтвердили нанесение ударов по иранским целям после атаки беспилотника на грузовое судно в Ормузском проливе. Президент Трамп обвинил Тегеран в нарушении режима прекращения огня и назвал атаку «глупой», при этом отказавшись уточнять, будут ли дальнейшие ответные меры.</div>
+      <div class="summary">Военные США нанесли удары по целям, связанным с Ираном, в районе Ормузского пролива. Причиной стала атака дронов на грузовое судно, которую Вашингтон расценил как нарушение режима прекращения огня со стороны Тегерана.</div>
       <div class="comparison">
         <div class="compare-title">Оценки (из источника)</div>
-        <div class="compare-item">Вашингтон позиционирует удар как вынужденную меру самообороны и защиту свободы судоходства; Тегеран отрицает наличие прямой линии связи с США по инциденту и ранее отвергал обвинения в нарушении перемирия; международные организации (IMO) приостановили планы по эвакуации судов из-за эскалации.</div>
+        <div class="compare-item">Администрация Трампа характеризует действия Ирана как «глупое нарушение» перемирия и обосновывает удары необходимостью защиты свободы судоходства. Иран отрицает наличие прямой линии связи с США по вопросу пролива и отвергает обвинения, продолжая заявлять о своей региональной доктрине безопасности.</div>
       </div>
       <div class="story-footer">
         <span class="tag">2026-06-26</span>
-        <span>Источники: The New York Times, The Guardian, Al Jazeera, TASS</span>
-        <span><a href="https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html" target="_blank" rel="noopener">www.nytimes.com</a> | <a href="https://www.theguardian.com/world/2026/jun/26/us-says-it-struck-iran-targets-after-attack-on-cargo-ship-on-the-strait-of-hormuz" target="_blank" rel="noopener">www.theguardian.com</a> | <a href="https://www.aljazeera.com/news/2026/6/26/trump-blames-iran-for-foolish-strike-on-cargo-ship-in-strait-of-hormuz?traffic_source=rss" target="_blank" rel="noopener">www.aljazeera.com</a></span>
+        <span>Источники: The Guardian, The New York Times, BBC, DW, TASS</span>
+        <span><a href="https://www.theguardian.com/world/2026/jun/26/us-says-it-struck-iran-targets-after-attack-on-cargo-ship-on-the-strait-of-hormuz" target="_blank" rel="noopener">www.theguardian.com</a> | <a href="https://rss.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html" target="_blank" rel="noopener">rss.nytimes.com</a> | <a href="https://feeds.bbci.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">feeds.bbci.co.uk</a></span>
       </div>
     </div>
   </div>
@@ -232,20 +256,20 @@
     <div class="story-header">
       <div class="story-number">2</div>
       <div class="story-titles">
-        <div class="title-en">Israel and Lebanon Sign Framework Deal Mediated by US</div>
-        <div class="title-ru">Подписано рамочное соглашение между Израилем и Ливаном при посредничестве США</div>
+        <div class="title-en">Venezuela earthquake death toll reaches 920 as US sends aid</div>
+        <div class="title-ru">Число жертв землетрясения в Венесуэле достигло 920 человек, США направляют помощь</div>
       </div>
     </div>
     <div class="story-body">
-      <div class="summary">В Вашингтоне подписано трехстороннее рамочное соглашение по урегулированию между Израилем и Ливаном после пятого раунда переговоров. Президент Ливана приветствовал договоренности, однако движение «Хезболла» заявило о неподдержке сделки и потребовало безусловного ухода Израиля.</div>
+      <div class="summary">Число погибших в результате разрушительных землетрясений в Венесуэле возросло до 920 человек, более 50 тысяч числятся пропавшими без вести. США выделили $150 млн помощи, направили регулярные войска для спасательных операций и частично сняли санкции для облегчения гуманитарной поддержки.</div>
       <div class="comparison">
         <div class="compare-title">Оценки (из источника)</div>
-        <div class="compare-item">США и официальные лица Ливана рассматривают соглашение как шаг к стабилизации; «Хезболла» категорически отвергает условия сделки, настаивая на полном выводе израильских сил; Иран также выпустил предупреждения относительно военного присутствия Израиля в Ливане.</div>
+        <div class="compare-item">Власти Венесуэлы (Делси Родригес) поблагодарили Дональда Трампа за солидарность и помощь. В западных СМИ отмечается, что катастрофа станет проверкой нового альянса между Каракасом и Вашингтоном. Российские источники акцентируют внимание на масштабах трагедии и готовности различных стран, включая РФ и Иран, оказать содействие.</div>
       </div>
       <div class="story-footer">
         <span class="tag">2026-06-26</span>
-        <span>Источники: Al Jazeera, TASS, Times of India, The Hindu</span>
-        <span><a href="https://www.aljazeera.com/news/2026/6/26/us-announces-framework-agreement-between-israel-and-lebanon?traffic_source=rss" target="_blank" rel="noopener">www.aljazeera.com</a> | <a href="https://tass.com/world/2152223" target="_blank" rel="noopener">tass.com</a> | <a href="https://timesofindia.indiatimes.com/world/middle-east/us-israel-lebanon-sign-trilateral-framework-deal-after-fifth-round-of-talks/articleshow/132024106.cms" target="_blank" rel="noopener">timesofindia.indiatimes.com</a></span>
+        <span>Источники: The New York Times, The Guardian, Коммерсантъ, Ведомости, TASS</span>
+        <span><a href="https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake" target="_blank" rel="noopener">www.nytimes.com</a> | <a href="https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll" target="_blank" rel="noopener">www.theguardian.com</a> | <a href="https://www.kommersant.ru/doc/8778193" target="_blank" rel="noopener">www.kommersant.ru</a></span>
       </div>
     </div>
   </div>
@@ -255,20 +279,20 @@
     <div class="story-header">
       <div class="story-number">3</div>
       <div class="story-titles">
-        <div class="title-en">Venezuela Earthquake Death Toll Exceeds 900 as US Sends Aid</div>
-        <div class="title-ru">Число жертв землетрясения в Венесуэле превысило 900 человек, США направляют помощь</div>
+        <div class="title-en">Massive drone attack on Russia: Air defense reports hundreds downed</div>
+        <div class="title-ru">Массированная атака БПЛА на Россию: ПВО сообщила о сотнях сбитых дронов</div>
       </div>
     </div>
     <div class="story-body">
-      <div class="summary">После мощных двойных землетрясений в Венесуэле число погибших достигло 920 человек, более 50 тысяч числятся пропавшими без вести. США и другие страны направляют спасательные команды, что становится проверкой недавно налаженных отношений между Каракасом и Вашингтоном.</div>
+      <div class="summary">Российские силы ПВО отразили одну из самых массированных атак беспилотников за время конфликта. Только за ночь над регионами России было сбито 660 БПЛА, из них около 50 — на подлете к Москве. Угрозы атак объявлялись в Крыму, Сочи, Рязанской области и других регионах.</div>
       <div class="comparison">
         <div class="compare-title">Оценки (из источника)</div>
-        <div class="compare-item">Международное сообщество мобилизует гуманитарную помощь; СМИ отмечают, что катастрофа тестирует новый альянс Венесуэлы с США; местные власти объявили чрезвычайное положение, но инфраструктура здравоохранения остается в кризисном состоянии.</div>
+        <div class="compare-item">Российское Минобороны и официальные лица (Собянин) сообщают об успешном отражении атаки и перехвате целей. Западные эксперты (DW) ставят вопрос о том, не обнажают ли такие массированные налеты бреши в российской системе ПВО, несмотря на заявленное количество сбитых аппаратов.</div>
       </div>
       <div class="story-footer">
         <span class="tag">2026-06-26</span>
-        <span>Источники: The New York Times, The Guardian, TASS, The Hindu</span>
-        <span><a href="https://www.nytimes.com/2026/06/26/us/politics/trump-venezuela-earthquake-aid.html" target="_blank" rel="noopener">www.nytimes.com</a> | <a href="https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll" target="_blank" rel="noopener">www.theguardian.com</a> | <a href="https://tass.com/emergencies/2152203" target="_blank" rel="noopener">tass.com</a></span>
+        <span>Источники: Коммерсантъ, Ведомости, Indian Express, DW</span>
+        <span><a href="https://www.kommersant.ru/doc/8778167" target="_blank" rel="noopener">www.kommersant.ru</a> | <a href="https://www.vedomosti.ru/politics/news/2026/06/26/1209009-sili-pvo" target="_blank" rel="noopener">www.vedomosti.ru</a> | <a href="https://indianexpress.com/article/world/russia-reports-the-biggest-ukrainian-drone-attacks-on-its-soil-10758548/" target="_blank" rel="noopener">indianexpress.com</a></span>
       </div>
     </div>
   </div>
@@ -278,20 +302,20 @@
     <div class="story-header">
       <div class="story-number">4</div>
       <div class="story-titles">
-        <div class="title-en">Putin and Lukashenko Hold Over 4-Hour One-on-One Talks in Valdai</div>
-        <div class="title-ru">Путин и Лукашенко провели переговоры тет-а-тет на Валдае длительностью более 4 часов</div>
+        <div class="title-en">EU extends economic sanctions against Russia until July 2027</div>
+        <div class="title-ru">ЕС продлил экономические санкции против России до июля 2027 года</div>
       </div>
     </div>
     <div class="story-body">
-      <div class="summary">Президенты России и Беларуси обсудили вопросы региональной безопасности в ходе встречи на Валдае. Переговоры в формате тет-а-тет продолжались более четырех с половиной часов, что свидетельствует о высокой интенсивности диалога.</div>
+      <div class="summary">Совет Европейского союза официально продлил действие экономических санкций в отношении России еще на один год — до конца июля 2027 года. Одновременно в ЕС обсуждается возможный отказ от приема военнообязанных украинцев.</div>
       <div class="comparison">
         <div class="compare-title">Оценки (предположительно)</div>
-        <div class="compare-item">Кремль акцентирует внимание на обеспечении военной безопасности Союзного государства всеми силами; западные наблюдатели могут расценивать длительность встречи как признак координации действий на фоне конфликта в Украине.</div>
+        <div class="compare-item">Европейские структуры продолжают курс на санкционное давление. Российские источники отмечают, что в ЕС сделали «неожиданное признание» относительно эффективности или последствий санкций, однако конкретные детали этой оценки в заголовках не раскрываются.</div>
       </div>
       <div class="story-footer">
         <span class="tag">2026-06-26</span>
-        <span>Источники: TASS, RT</span>
-        <span><a href="https://tass.com/world/2152211" target="_blank" rel="noopener">tass.com</a> | <a href="https://russian.rt.com/world/news/1649379-putin-i-lukashenko-prodolzhayut-peregovory-tet-a-tet-na-valdae" target="_blank" rel="noopener">russian.rt.com</a></span>
+        <span>Источники: Ведомости, Коммерсантъ, Lenta.ru</span>
+        <span><a href="https://www.vedomosti.ru/politics/news/2026/06/26/1208987-sovet-es-sanktsii" target="_blank" rel="noopener">www.vedomosti.ru</a> | <a href="https://www.kommersant.ru/doc/8765286" target="_blank" rel="noopener">www.kommersant.ru</a> | <a href="https://lenta.ru/news/2026/06/26/v-es-sdelali-neozhidannoe-priznanie-o-sanktsiyah-protiv-rossii/" target="_blank" rel="noopener">lenta.ru</a></span>
       </div>
     </div>
   </div>
@@ -301,20 +325,20 @@
     <div class="story-header">
       <div class="story-number">5</div>
       <div class="story-titles">
-        <div class="title-en">Russia and Ukraine Exchange Prisoners on '160 for 160' Basis</div>
-        <div class="title-ru">Россия и Украина обменялись пленными по формуле «160 на 160»</div>
+        <div class="title-en">Zelensky announces start of 40-day operation against Russia</div>
+        <div class="title-ru">Зеленский объявил о начале 40-дневной операции против России</div>
       </div>
     </div>
     <div class="story-body">
-      <div class="summary">Состоялся крупный обмен военнопленными между Россией и Украиной: каждая сторона вернула по 160 человек. Параллельно продолжаются взаимные удары, включая атаки БПЛА на юге России и удары по объектам в Украине.</div>
+      <div class="summary">Президент Украины Владимир Зеленский объявил о старте специальной 40-дневной операции, в рамках которой СБУ поручено выполнение трех конкретных задач. Детали операции не раскрываются, но российские военные эксперты уже оценили готовность РФ к этому шагу.</div>
       <div class="comparison">
-        <div class="compare-title">Оценки (предположительно)</div>
-        <div class="compare-item">Обмен демонстрирует сохранение каналов коммуникации несмотря на боевые действия; Минобороны РФ заявляет о массированных перехватах украинских дронов; украинская сторона сообщает о повреждении инфраструктуры.</div>
+        <div class="compare-title">Оценки (из источника)</div>
+        <div class="compare-item">Украинская сторона позиционирует это как активную фазу противодействия. Российские источники и эксперты воспринимают заявление скептически, оценивая его через призму готовности российской обороны и называя планы Киева раскрытыми.</div>
       </div>
       <div class="story-footer">
         <span class="tag">2026-06-26</span>
-        <span>Источники: TASS, The Hindu</span>
-        <span><a href="https://tass.com/defense/2152013" target="_blank" rel="noopener">tass.com</a> | <a href="https://www.thehindu.com/news/international/russia-says-shot-down-660-ukrainian-drones-overnight-defence-ministry/article71149625.ece" target="_blank" rel="noopener">www.thehindu.com</a></span>
+        <span>Источники: Lenta.ru</span>
+        <span><a href="https://lenta.ru/news/2026/06/26/sbu-porucheno-tri-zadachi-zelenskiy-ob-yavil-o-40-dnevnoy-operatsii-protiv-rossii-chto-o-ney-izvestno/" target="_blank" rel="noopener">lenta.ru</a> | <a href="https://lenta.ru/news/2026/06/26/polkovnik-otsenil-gotovnost-rossii-k-ob-yavlennoy-zelenskim-40-dnevnoy-operatsii/" target="_blank" rel="noopener">lenta.ru</a></span>
       </div>
     </div>
   </div>
@@ -324,20 +348,20 @@
     <div class="story-header">
       <div class="story-number">6</div>
       <div class="story-titles">
-        <div class="title-en">US Supreme Court Expands Trump’s Immigration Power, Ending TPS Protections</div>
-        <div class="title-ru">Верховный суд США расширил полномочия Трампа в сфере иммиграции, отменив защиту для гаитян и сирийцев</div>
+        <div class="title-en">Trump threatens EU with 100% tariffs over digital services tax</div>
+        <div class="title-ru">Трамп пригрозил ЕС пошлинами в 100% из-за налога на цифровые услуги</div>
       </div>
     </div>
     <div class="story-body">
-      <div class="summary">Верховный суд США вынес решение, ограничивающее статус временной защиты (TPS) для иммигрантов из Гаити и Сирии. Правозащитники предупреждают о широких последствиях вердикта, который усиливает исполнительную власть президента в вопросах депортации.</div>
+      <div class="summary">Президент США Дональд Трамп заявил о готовности ввести стопроцентные пошлины против европейских стран в случае введения ими налога на цифровые услуги американских компаний. Это заявление прозвучало на фоне одновременного военного обострения отношений с Ираном.</div>
       <div class="comparison">
-        <div class="compare-title">Оценки (из источника)</div>
-        <div class="compare-item">Администрация Трампа получает юридическое основание для ужесточения миграционной политики; правозащитные организации и демократы опасаются массовой депортации в нестабильные регионы.</div>
+        <div class="compare-title">Оценки (предположительно)</div>
+        <div class="compare-item">Действия Трампа демонстрируют жесткий протекционистский подход и готовность к торговым войнам даже с союзниками. Европейская сторона пока не дала развернутого ответа в представленных материалах, но угроза воспринимается как серьезный вызов трансатлантической торговле.</div>
       </div>
       <div class="story-footer">
         <span class="tag">2026-06-26</span>
-        <span>Источники: The New York Times, Al Jazeera, The Hindu</span>
-        <span><a href="https://www.nytimes.com/2026/06/25/us/politics/supreme-court-temporary-protected-status.html" target="_blank" rel="noopener">www.nytimes.com</a> | <a href="https://www.aljazeera.com/news/2026/6/26/advocates-warn-of-wide-ranging-implications-of-us-supreme-court-tps-ruling?traffic_source=rss" target="_blank" rel="noopener">www.aljazeera.com</a> | <a href="https://www.thehindu.com/news/international/us-supreme-courts-ruling-to-end-protections-for-haitian-syrian-immigrants-could-have-broader-impact/article71149683.ece" target="_blank" rel="noopener">www.thehindu.com</a></span>
+        <span>Источники: Коммерсантъ, БелТА, Украинская правда</span>
+        <span><a href="https://www.kommersant.ru/doc/8778176" target="_blank" rel="noopener">www.kommersant.ru</a> | <a href="https://belta.by/world/view/tramp-prigrozil-evrope-poshlinami-v-100-pri-vvedenii-naloga-na-tsifrovye-uslugi-kompanij-ssha-788447-2026/" target="_blank" rel="noopener">belta.by</a> | <a href="https://www.pravda.com.ua/news/2026/06/26/8041290/" target="_blank" rel="noopener">www.pravda.com.ua</a></span>
       </div>
     </div>
   </div>
@@ -347,20 +371,20 @@
     <div class="story-header">
       <div class="story-number">7</div>
       <div class="story-titles">
-        <div class="title-en">China Intensifies Diplomacy with Middle Powers and Strengthens Ties with Bangladesh</div>
-        <div class="title-ru">Китай активизирует дипломатию с «средними державами» и укрепляет связи с Бангладеш</div>
+        <div class="title-en">Ex-Trump adviser John Bolton pleads guilty in classified documents case</div>
+        <div class="title-ru">Экс-советник Трампа Джон Болтон признал вину по делу о секретных документах</div>
       </div>
     </div>
     <div class="story-body">
-      <div class="summary">Председатель КНР Си Цзиньпин принял более десятка мировых лидеров в этом году, пока «средние державы» ищут альтернативы США. Одновременно Пекин обсуждает с Даккой проекты по управлению рекой Тиста и сокращению торгового дефицита, подчеркивая, что эти связи не направлены против третьих стран.</div>
+      <div class="summary">Бывший советник по национальной безопасности США Джон Болтон признал себя виновным в ненадлежащем обращении с секретными документами. Дело против давнего оппонента Трампа развивалось параллельно с принятием Верховным судом решений, расширяющих полномочия президента в миграционной сфере.</div>
       <div class="comparison">
         <div class="compare-title">Оценки (предположительно)</div>
-        <div class="compare-item">Пекин позиционирует свою внешнюю политику как открытую и неконфронтационную; Индия может воспринимать усиление китайского влияния в Бангладеш как стратегический вызов; западные СМИ отмечают тренд на диверсификацию внешних связей странами Глобального Юга.</div>
+        <div class="compare-item">Для сторонников Трампа это может выглядеть как подтверждение правоты президента в отношении «вашингтонского болота». Критики могут рассматривать дело в контексте политического давления на оппонентов, особенно на фоне одновременных юридических побед администрации в суде.</div>
       </div>
       <div class="story-footer">
         <span class="tag">2026-06-26</span>
-        <span>Источники: The Guardian, The Hindu</span>
-        <span><a href="https://www.theguardian.com/world/2026/jun/26/xi-jinping-china-host-of-world-leaders-middle-powers" target="_blank" rel="noopener">www.theguardian.com</a> | <a href="https://www.thehindu.com/news/international/beijings-ties-with-bangladesh-does-not-target-any-third-party-says-chinese-foreign-ministry/article71151716.ece" target="_blank" rel="noopener">www.thehindu.com</a> | <a href="https://www.thehindu.com/news/international/bangladesh-china-agree-to-strengthen-cooperation-on-teesta-river-management-report/article71145876.ece" target="_blank" rel="noopener">www.thehindu.com</a></span>
+        <span>Источники: BBC, NPR, DW, Коммерсантъ</span>
+        <span><a href="https://feeds.bbci.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">feeds.bbci.co.uk</a> | <a href="https://feeds.npr.org/2026/06/26/nx-s1-5871292/john-bolton-national-security-classified-documents" target="_blank" rel="noopener">feeds.npr.org</a> | <a href="https://rss.dw.com/en/trump-foe-john-bolton-pleads-guilty-in-classified-docs-case/a-77728826?maca=en-rss-en-all-1573-xml-mrss" target="_blank" rel="noopener">rss.dw.com</a></span>
       </div>
     </div>
   </div>
@@ -370,20 +394,20 @@
     <div class="story-header">
       <div class="story-number">8</div>
       <div class="story-titles">
-        <div class="title-en">Record Heatwave Grips Europe, Shifting Political Debate to Adaptation</div>
-        <div class="title-ru">Европу охватила рекордная жара, политические дебаты смещаются в сторону адаптации</div>
+        <div class="title-en">Deadly heatwave breaks records across Europe</div>
+        <div class="title-ru">Аномальная жара в Европе бьет рекорды и приводит к жертвам</div>
       </div>
     </div>
     <div class="story-body">
-      <div class="summary">Экстремальная жара в Европе привела к гибели детей во Франции и установлению новых температурных рекордов. Политическая дискуссия частично смещается с климатических действий на меры адаптации, такие как установка кондиционеров, что вызывает критику со стороны экологических активистов.</div>
+      <div class="summary">Европу охватила экстремальная жара: в Германии побиты температурные рекорды, во Франции погибли дети, оставленные в машинах, в Великобритании температура превысила отметку 1976 года. Власти Парижа запретили продажу алкоголя и спортивные мероприятия, в Польше предупреждают о лесных пожарах.</div>
       <div class="comparison">
         <div class="compare-title">Оценки (из источника)</div>
-        <div class="compare-item">Некоторые политики призывают к срочным мерам по охлаждению городов как вопросу выживания; экологи и левые силы критикуют отказ от долгосрочной климатической повестки в пользу краткосрочных технических решений.</div>
+        <div class="compare-item">Климатологи и экологические активисты указывают на связь волны жары с климатическим кризисом и критикуют политиков за фокус на адаптации (кондиционеры) вместо снижения выбросов. Некоторые консервативные политики склонны рассматривать явление как временную аномалию, сосредотачиваясь на мерах социальной защиты.</div>
       </div>
       <div class="story-footer">
         <span class="tag">2026-06-26</span>
-        <span>Источники: The New York Times, The Guardian</span>
-        <span><a href="https://www.nytimes.com/2026/06/26/world/europe/europe-heat-climate-change-politics.html" target="_blank" rel="noopener">www.nytimes.com</a> | <a href="https://www.theguardian.com/environment/2026/jun/26/europe-heatwave-shift-east-child-deaths-france-cities-heat-stress" target="_blank" rel="noopener">www.theguardian.com</a></span>
+        <span>Источники: BBC, The Guardian, The New York Times, DW</span>
+        <span><a href="https://feeds.bbci.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">feeds.bbci.co.uk</a> | <a href="https://www.theguardian.com/environment/2026/jun/26/europe-heatwave-shift-east-child-deaths-france-cities-heat-stress" target="_blank" rel="noopener">www.theguardian.com</a> | <a href="https://rss.nytimes.com/2026/06/26/world/europe/europe-heat-climate-change-politics.html" target="_blank" rel="noopener">rss.nytimes.com</a></span>
       </div>
     </div>
   </div>
@@ -393,20 +417,20 @@
     <div class="story-header">
       <div class="story-number">9</div>
       <div class="story-titles">
-        <div class="title-en">Zelensky Announces Start of 40-Day Operation Against Russia</div>
-        <div class="title-ru">Зеленский объявил о начале 40-дневной операции против России</div>
+        <div class="title-en">Putin and Lukashenko hold talks at Valdai</div>
+        <div class="title-ru">Путин и Лукашенко провели встречу на Валдае</div>
       </div>
     </div>
     <div class="story-body">
-      <div class="summary">Президент Украины Владимир Зеленский объявил о старте специальной операции сроком на 40 дней, поручив СБУ выполнение трех конкретных задач. Российские военные эксперты уже оценили готовность РФ к противодействию этим планам.</div>
+      <div class="summary">Президенты России и Беларуси встретились на Валдае для обсуждения двусторонних отношений и вопросов безопасности. Встреча прошла на фоне сообщений об угрозах со стороны Зеленского в адрес Беларуси и усиления военной активности в регионе.</div>
       <div class="comparison">
         <div class="compare-title">Оценки (из источника)</div>
-        <div class="compare-item">Киев представляет операцию как необходимый этап давления на противника; российские источники характеризуют заявление как информационную кампанию и выражают уверенность в способности нейтрализовать угрозы.</div>
+        <div class="compare-item">Официальные источники обеих стран подчеркивают стратегическое партнерство и координацию. Украинская сторона ранее озвучивала угрозы в адрес Минска, на что Лукашенко дал жесткий ответ, что делает текущую встречу демонстрацией единства перед лицом внешних вызовов.</div>
       </div>
       <div class="story-footer">
         <span class="tag">2026-06-26</span>
-        <span>Источники: Lenta.ru, RT</span>
-        <span><a href="https://lenta.ru/news/2026/06/26/sbu-porucheno-tri-zadachi-zelenskiy-ob-yavil-o-40-dnevnoy-operatsii-protiv-rossii-chto-o-ney-izvestno/" target="_blank" rel="noopener">lenta.ru</a> | <a href="https://lenta.ru/news/2026/06/26/polkovnik-otsenil-gotovnost-rossii-k-ob-yavlennoy-zelenskim-40-dnevnoy-operatsii/" target="_blank" rel="noopener">lenta.ru</a></span>
+        <span>Источники: Коммерсантъ, Ведомости</span>
+        <span><a href="https://www.kommersant.ru/doc/8778164" target="_blank" rel="noopener">www.kommersant.ru</a> | <a href="https://www.vedomosti.ru/politics/articles/2026/06/25/1208889-iz-otveta-lukashenko" target="_blank" rel="noopener">www.vedomosti.ru</a></span>
       </div>
     </div>
   </div>
@@ -416,25 +440,49 @@
     <div class="story-header">
       <div class="story-number">10</div>
       <div class="story-titles">
-        <div class="title-en">Governor Newsom Calls for National Billionaires' Tax in US</div>
-        <div class="title-ru">Губернатор Ньюсом призвал к национальному налогу на миллиардеров в США</div>
+        <div class="title-en">US Supreme Court expands Trump’s power over immigration</div>
+        <div class="title-ru">Верховный суд США расширил полномочия Трампа в миграционной политике</div>
       </div>
     </div>
     <div class="story-body">
-      <div class="summary">Губернатор Калифорнии Гэвин Ньюсом выступил с инициативой введения федерального налога на миллиардеров, несмотря на то, что одновременно борется против аналогичной меры на уровне своего штата. Это заявление сделано на фоне внутренних политических маневров перед выборами.</div>
+      <div class="summary">Верховный суд США вынес решения по делам, касающимся статуса временной защиты (TPS) и границы с Мексикой, которые существенно расширяют исполнительные полномочия президента Трампа в сфере иммиграции. Это создает правовую базу для возможных депортаций граждан Гаити и Сирии.</div>
       <div class="comparison">
-        <div class="compare-title">Оценки (предположительно)</div>
-        <div class="compare-item">Демократы используют тему налогообложения сверхбогатых как часть предвыборной риторики; республиканцы и бизнес-сообщество традиционно выступают против таких мер, указывая на риски для экономики.</div>
+        <div class="compare-title">Оценки (из источника)</div>
+        <div class="compare-item">Администрация Трампа приветствует решение как восстановление законности и контроля границ. Правозащитные организации и демократы выражают обеспокоенность судьбой мигрантов и считают, что суд санкционировал чрезмерное расширение президентской власти.</div>
       </div>
       <div class="story-footer">
         <span class="tag">2026-06-26</span>
-        <span>Источники: The Guardian</span>
-        <span><a href="https://www.theguardian.com/us-news/2026/jun/26/gavin-newsom-national-billionaires-tax" target="_blank" rel="noopener">www.theguardian.com</a></span>
+        <span>Источники: The New York Times, Indian Express, Коммерсантъ</span>
+        <span><a href="https://rss.nytimes.com/2026/06/25/us/politics/supreme-court-temporary-protected-status.html" target="_blank" rel="noopener">rss.nytimes.com</a> | <a href="https://indianexpress.com/article/world/us-supreme-court-trump-immigration-asylum-tps-haitians-syrians-10758171/" target="_blank" rel="noopener">indianexpress.com</a> | <a href="https://www.kommersant.ru/doc/8765281" target="_blank" rel="noopener">www.kommersant.ru</a></span>
       </div>
     </div>
   </div>
 </div>
-  <div style="text-align:center;padding:30px 0;color:var(--text-dim);font-size:12px">
+  <div style="text-align:center;padding:10px 0;">
+    <button class="sys-btn" onclick="var el=document.getElementById('sys-info');el.classList.toggle('show');this.textContent=el.classList.contains('show')?'Скрыть информацию о системе':'О системе (промт, страны, СМИ)'">О системе (промт, страны, СМИ)</button>
+  </div>
+  <div id="sys-info" class="sys-info">
+    <h3>Системный промт для AI</h3>
+    <pre>Системная роль: Ты — опытный политолог, беспристрастный, не имеющий собственных политических предпочтений.
+
+Промт пользователя:
+Вот текущая подборка новостей из RSS-лент российских и мировых СМИ:
+<новости из RSS>
+Инструкция:
+1. Выбери до 15 важнейших мировых политических событий и тенденций за последние 7 дней.
+2. Для каждого события используй ТОЛЬКО факты из предоставленных новостей. Не придумывай события и не используй свои знания вне этого списка.
+3. Сверься со списком ранее опубликованных событий (если есть). Если событие уже было в прошлом выпуске и нет новых важных подробностей — пропусти его. Если есть существенное развитие — включи, укажи это.
+4. Если событий больше 10 — выбери 10 самых важных. Если меньше 10 — оставь сколько есть.
+5. Для каждого события обязательно укажи ссылки на источники (только из списка выше).
+6. В поле perspective напиши, как событие может оцениваться разными политическими силами (только если это следует из новостей; если неясно — укажи 'неясно').
+7. Поле perspective_type: 'from_source' если оценка из источника, 'assumed' если ты её предполагаешь, 'unclear' если неясно.
+<история предыдущих выпусков></pre>
+    <h3>Мониторимые страны</h3>
+    <p>Россия, США, Украина, Китай, Индия, Иран, Индонезия, Монголия, Англия, Франция, Германия, Канада, Белоруссия, Мексика, Бразилия, Аргентина, Венгрия, Словакия, Северная Корея</p>
+    <h3>Мониторимые источники</h3>
+    <div class="source-list"><div class="country"><span class="country-name">Россия</span><span class="feed">tass.com</span><span class="feed">tass.ru</span><span class="feed">lenta.ru</span><span class="feed">www.kommersant.ru</span><span class="feed">www.vedomosti.ru</span></div><div class="country"><span class="country-name">США</span><span class="feed">rss.nytimes.com</span><span class="feed">feeds.npr.org</span></div><div class="country"><span class="country-name">Украина</span><span class="feed">www.ukrinform.ua</span><span class="feed">www.pravda.com.ua</span></div><div class="country"><span class="country-name">Китай</span><span class="feed">www.chinadaily.com.cn</span><span class="feed">www.chinadaily.com.cn</span><span class="feed">www.xinhuanet.com</span></div><div class="country"><span class="country-name">Индия</span><span class="feed">timesofindia.indiatimes.com</span><span class="feed">www.thehindu.com</span><span class="feed">indianexpress.com</span></div><div class="country"><span class="country-name">Иран</span><span class="feed">www.tehrantimes.com</span><span class="feed">en.irna.ir</span></div><div class="country"><span class="country-name">Индонезия</span><span class="feed">www.antaranews.com</span><span class="feed">www.thejakartapost.com</span></div><div class="country"><span class="country-name">Монголия</span><span class="feed">montsame.mn</span></div><div class="country"><span class="country-name">Англия</span><span class="feed">www.theguardian.com</span><span class="feed">feeds.bbci.co.uk</span></div><div class="country"><span class="country-name">Франция</span><span class="feed">www.lemonde.fr</span><span class="feed">www.france24.com</span></div><div class="country"><span class="country-name">Германия</span><span class="feed">www.tagesschau.de</span><span class="feed">rss.dw.com</span></div><div class="country"><span class="country-name">Канада</span><span class="feed">www.cbc.ca</span></div><div class="country"><span class="country-name">Белоруссия</span><span class="feed">www.belta.by</span></div><div class="country"><span class="country-name">Мексика</span><span class="feed">www.eluniversal.com.mx</span></div><div class="country"><span class="country-name">Бразилия</span><span class="feed">agenciabrasil.ebc.com.br</span></div><div class="country"><span class="country-name">Аргентина</span><span class="feed">www.clarin.com</span></div><div class="country"><span class="country-name">Венгрия</span><span class="feed">hvg.hu</span></div><div class="country"><span class="country-name">Словакия</span><span class="feed">dennikn.sk</span></div><div class="country"><span class="country-name">Северная Корея</span><span class="feed">kcna.kp</span></div></div>
+  </div>
+  <div style="text-align:center;padding:20px 0;color:var(--text-dim);font-size:12px">
     Generated by NewsAgentPT78
   </div>
 </div>

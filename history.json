@@ -1,205 +1,211 @@
 [
   {
     "title_ru": "США нанесли удары по Ирану в ответ на атаку судна в Ормузском проливе",
-    "title_en": "US Strikes Iran in Retaliation for Vessel Attack in Strait of Hormuz",
+    "title_en": "US strikes Iran in retaliation for cargo ship attack in Strait of Hormuz",
     "date": "2026-06-26",
-    "summary": "Военные США подтвердили нанесение ударов по иранским целям после атаки беспилотника на грузовое судно в Ормузском проливе. Президент Трамп обвинил Тегеран в нарушении режима прекращения огня и назвал атаку «глупой», при этом отказавшись уточнять, будут ли дальнейшие ответные меры.",
-    "perspective": "Вашингтон позиционирует удар как вынужденную меру самообороны и защиту свободы судоходства; Тегеран отрицает наличие прямой линии связи с США по инциденту и ранее отвергал обвинения в нарушении перемирия; международные организации (IMO) приостановили планы по эвакуации судов из-за эскалации.",
+    "summary": "Военные США нанесли удары по целям, связанным с Ираном, в районе Ормузского пролива. Причиной стала атака дронов на грузовое судно, которую Вашингтон расценил как нарушение режима прекращения огня со стороны Тегерана.",
+    "perspective": "Администрация Трампа характеризует действия Ирана как «глупое нарушение» перемирия и обосновывает удары необходимостью защиты свободы судоходства. Иран отрицает наличие прямой линии связи с США по вопросу пролива и отвергает обвинения, продолжая заявлять о своей региональной доктрине безопасности.",
     "perspective_type": "from_source",
     "sources": [
-      "The New York Times",
       "The Guardian",
-      "Al Jazeera",
+      "The New York Times",
+      "BBC",
+      "DW",
       "TASS"
     ],
     "links": [
-      "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
       "https://www.theguardian.com/world/2026/jun/26/us-says-it-struck-iran-targets-after-attack-on-cargo-ship-on-the-strait-of-hormuz",
-      "https://www.aljazeera.com/news/2026/6/26/trump-blames-iran-for-foolish-strike-on-cargo-ship-in-strait-of-hormuz?traffic_source=rss",
-      "https://tass.com/world/2152231"
+      "https://rss.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
+      "https://feeds.bbci.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "https://rss.dw.com/en/iran-war-us-military-hits-iran-over-cargo-vessel-attack/live-77729995?maca=en-rss-en-all-1573-xml-mrss",
+      "https://tass.ru/mezhdunarodnaya-panorama/27862363"
     ],
-    "is_development": true,
     "first_reported": "2026-06-26",
-    "id": "5f7fcf20209d"
+    "id": "b8ea3dc26ab0"
   },
   {
-    "title_ru": "Подписано рамочное соглашение между Израилем и Ливаном при посредничестве США",
-    "title_en": "Israel and Lebanon Sign Framework Deal Mediated by US",
+    "title_ru": "Число жертв землетрясения в Венесуэле достигло 920 человек, США направляют помощь",
+    "title_en": "Venezuela earthquake death toll reaches 920 as US sends aid",
     "date": "2026-06-26",
-    "summary": "В Вашингтоне подписано трехстороннее рамочное соглашение по урегулированию между Израилем и Ливаном после пятого раунда переговоров. Президент Ливана приветствовал договоренности, однако движение «Хезболла» заявило о неподдержке сделки и потребовало безусловного ухода Израиля.",
-    "perspective": "США и официальные лица Ливана рассматривают соглашение как шаг к стабилизации; «Хезболла» категорически отвергает условия сделки, настаивая на полном выводе израильских сил; Иран также выпустил предупреждения относительно военного присутствия Израиля в Ливане.",
-    "perspective_type": "from_source",
-    "sources": [
-      "Al Jazeera",
-      "TASS",
-      "Times of India",
-      "The Hindu"
-    ],
-    "links": [
-      "https://www.aljazeera.com/news/2026/6/26/us-announces-framework-agreement-between-israel-and-lebanon?traffic_source=rss",
-      "https://tass.com/world/2152223",
-      "https://timesofindia.indiatimes.com/world/middle-east/us-israel-lebanon-sign-trilateral-framework-deal-after-fifth-round-of-talks/articleshow/132024106.cms",
-      "https://www.thehindu.com/news/international/hezbollah-chief-says-israel-must-unconditionally-leave-lebanon/article71150390.ece"
-    ],
-    "is_development": false,
-    "first_reported": "2026-06-26",
-    "id": "1cc5ab90585e"
-  },
-  {
-    "title_ru": "Число жертв землетрясения в Венесуэле превысило 900 человек, США направляют помощь",
-    "title_en": "Venezuela Earthquake Death Toll Exceeds 900 as US Sends Aid",
-    "date": "2026-06-26",
-    "summary": "После мощных двойных землетрясений в Венесуэле число погибших достигло 920 человек, более 50 тысяч числятся пропавшими без вести. США и другие страны направляют спасательные команды, что становится проверкой недавно налаженных отношений между Каракасом и Вашингтоном.",
-    "perspective": "Международное сообщество мобилизует гуманитарную помощь; СМИ отмечают, что катастрофа тестирует новый альянс Венесуэлы с США; местные власти объявили чрезвычайное положение, но инфраструктура здравоохранения остается в кризисном состоянии.",
+    "summary": "Число погибших в результате разрушительных землетрясений в Венесуэле возросло до 920 человек, более 50 тысяч числятся пропавшими без вести. США выделили $150 млн помощи, направили регулярные войска для спасательных операций и частично сняли санкции для облегчения гуманитарной поддержки.",
+    "perspective": "Власти Венесуэлы (Делси Родригес) поблагодарили Дональда Трампа за солидарность и помощь. В западных СМИ отмечается, что катастрофа станет проверкой нового альянса между Каракасом и Вашингтоном. Российские источники акцентируют внимание на масштабах трагедии и готовности различных стран, включая РФ и Иран, оказать содействие.",
     "perspective_type": "from_source",
     "sources": [
       "The New York Times",
       "The Guardian",
-      "TASS",
-      "The Hindu"
+      "Коммерсантъ",
+      "Ведомости",
+      "TASS"
     ],
     "links": [
-      "https://www.nytimes.com/2026/06/26/us/politics/trump-venezuela-earthquake-aid.html",
+      "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake",
       "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
-      "https://tass.com/emergencies/2152203",
-      "https://www.thehindu.com/news/international/venezuela-earthquakes-terremoto-caracas-magnitude-7-damages-death-toll-live-updates-june-26-2026/article71149145.ece"
+      "https://www.kommersant.ru/doc/8778193",
+      "https://www.vedomosti.ru/politics/news/2026/06/26/1209085-ssha-sanktsii-venesueli",
+      "https://tass.com/emergencies/2152203"
     ],
-    "is_development": true,
     "first_reported": "2026-06-26",
-    "id": "37fdee041fc8"
+    "id": "117e4e52f09a"
   },
   {
-    "title_ru": "Путин и Лукашенко провели переговоры тет-а-тет на Валдае длительностью более 4 часов",
-    "title_en": "Putin and Lukashenko Hold Over 4-Hour One-on-One Talks in Valdai",
+    "title_ru": "Массированная атака БПЛА на Россию: ПВО сообщила о сотнях сбитых дронов",
+    "title_en": "Massive drone attack on Russia: Air defense reports hundreds downed",
     "date": "2026-06-26",
-    "summary": "Президенты России и Беларуси обсудили вопросы региональной безопасности в ходе встречи на Валдае. Переговоры в формате тет-а-тет продолжались более четырех с половиной часов, что свидетельствует о высокой интенсивности диалога.",
-    "perspective": "Кремль акцентирует внимание на обеспечении военной безопасности Союзного государства всеми силами; западные наблюдатели могут расценивать длительность встречи как признак координации действий на фоне конфликта в Украине.",
-    "perspective_type": "assumed",
-    "sources": [
-      "TASS",
-      "RT"
-    ],
-    "links": [
-      "https://tass.com/world/2152211",
-      "https://russian.rt.com/world/news/1649379-putin-i-lukashenko-prodolzhayut-peregovory-tet-a-tet-na-valdae"
-    ],
-    "is_development": false,
-    "first_reported": "2026-06-26",
-    "id": "7848aa32057c"
-  },
-  {
-    "title_ru": "Россия и Украина обменялись пленными по формуле «160 на 160»",
-    "title_en": "Russia and Ukraine Exchange Prisoners on '160 for 160' Basis",
-    "date": "2026-06-26",
-    "summary": "Состоялся крупный обмен военнопленными между Россией и Украиной: каждая сторона вернула по 160 человек. Параллельно продолжаются взаимные удары, включая атаки БПЛА на юге России и удары по объектам в Украине.",
-    "perspective": "Обмен демонстрирует сохранение каналов коммуникации несмотря на боевые действия; Минобороны РФ заявляет о массированных перехватах украинских дронов; украинская сторона сообщает о повреждении инфраструктуры.",
-    "perspective_type": "assumed",
-    "sources": [
-      "TASS",
-      "The Hindu"
-    ],
-    "links": [
-      "https://tass.com/defense/2152013",
-      "https://www.thehindu.com/news/international/russia-says-shot-down-660-ukrainian-drones-overnight-defence-ministry/article71149625.ece"
-    ],
-    "is_development": false,
-    "first_reported": "2026-06-26",
-    "id": "eb6abd5e9554"
-  },
-  {
-    "title_ru": "Верховный суд США расширил полномочия Трампа в сфере иммиграции, отменив защиту для гаитян и сирийцев",
-    "title_en": "US Supreme Court Expands Trump’s Immigration Power, Ending TPS Protections",
-    "date": "2026-06-26",
-    "summary": "Верховный суд США вынес решение, ограничивающее статус временной защиты (TPS) для иммигрантов из Гаити и Сирии. Правозащитники предупреждают о широких последствиях вердикта, который усиливает исполнительную власть президента в вопросах депортации.",
-    "perspective": "Администрация Трампа получает юридическое основание для ужесточения миграционной политики; правозащитные организации и демократы опасаются массовой депортации в нестабильные регионы.",
+    "summary": "Российские силы ПВО отразили одну из самых массированных атак беспилотников за время конфликта. Только за ночь над регионами России было сбито 660 БПЛА, из них около 50 — на подлете к Москве. Угрозы атак объявлялись в Крыму, Сочи, Рязанской области и других регионах.",
+    "perspective": "Российское Минобороны и официальные лица (Собянин) сообщают об успешном отражении атаки и перехвате целей. Западные эксперты (DW) ставят вопрос о том, не обнажают ли такие массированные налеты бреши в российской системе ПВО, несмотря на заявленное количество сбитых аппаратов.",
     "perspective_type": "from_source",
     "sources": [
-      "The New York Times",
-      "Al Jazeera",
-      "The Hindu"
+      "Коммерсантъ",
+      "Ведомости",
+      "Indian Express",
+      "DW"
     ],
     "links": [
-      "https://www.nytimes.com/2026/06/25/us/politics/supreme-court-temporary-protected-status.html",
-      "https://www.aljazeera.com/news/2026/6/26/advocates-warn-of-wide-ranging-implications-of-us-supreme-court-tps-ruling?traffic_source=rss",
-      "https://www.thehindu.com/news/international/us-supreme-courts-ruling-to-end-protections-for-haitian-syrian-immigrants-could-have-broader-impact/article71149683.ece"
+      "https://www.kommersant.ru/doc/8778167",
+      "https://www.vedomosti.ru/politics/news/2026/06/26/1209009-sili-pvo",
+      "https://indianexpress.com/article/world/russia-reports-the-biggest-ukrainian-drone-attacks-on-its-soil-10758548/",
+      "https://rss.dw.com/en/are-ukraine-drones-really-exposing-gaps-in-russia-s-defense/a-77639467?maca=en-rss-en-all-1573-xml-mrss"
     ],
-    "is_development": false,
     "first_reported": "2026-06-26",
-    "id": "2c9cce29cf79"
+    "id": "d5fecfcd7e0e"
   },
   {
-    "title_ru": "Китай активизирует дипломатию с «средними державами» и укрепляет связи с Бангладеш",
-    "title_en": "China Intensifies Diplomacy with Middle Powers and Strengthens Ties with Bangladesh",
+    "title_ru": "ЕС продлил экономические санкции против России до июля 2027 года",
+    "title_en": "EU extends economic sanctions against Russia until July 2027",
     "date": "2026-06-26",
-    "summary": "Председатель КНР Си Цзиньпин принял более десятка мировых лидеров в этом году, пока «средние державы» ищут альтернативы США. Одновременно Пекин обсуждает с Даккой проекты по управлению рекой Тиста и сокращению торгового дефицита, подчеркивая, что эти связи не направлены против третьих стран.",
-    "perspective": "Пекин позиционирует свою внешнюю политику как открытую и неконфронтационную; Индия может воспринимать усиление китайского влияния в Бангладеш как стратегический вызов; западные СМИ отмечают тренд на диверсификацию внешних связей странами Глобального Юга.",
+    "summary": "Совет Европейского союза официально продлил действие экономических санкций в отношении России еще на один год — до конца июля 2027 года. Одновременно в ЕС обсуждается возможный отказ от приема военнообязанных украинцев.",
+    "perspective": "Европейские структуры продолжают курс на санкционное давление. Российские источники отмечают, что в ЕС сделали «неожиданное признание» относительно эффективности или последствий санкций, однако конкретные детали этой оценки в заголовках не раскрываются.",
     "perspective_type": "assumed",
     "sources": [
-      "The Guardian",
-      "The Hindu"
+      "Ведомости",
+      "Коммерсантъ",
+      "Lenta.ru"
     ],
     "links": [
-      "https://www.theguardian.com/world/2026/jun/26/xi-jinping-china-host-of-world-leaders-middle-powers",
-      "https://www.thehindu.com/news/international/beijings-ties-with-bangladesh-does-not-target-any-third-party-says-chinese-foreign-ministry/article71151716.ece",
-      "https://www.thehindu.com/news/international/bangladesh-china-agree-to-strengthen-cooperation-on-teesta-river-management-report/article71145876.ece"
+      "https://www.vedomosti.ru/politics/news/2026/06/26/1208987-sovet-es-sanktsii",
+      "https://www.kommersant.ru/doc/8765286",
+      "https://lenta.ru/news/2026/06/26/v-es-sdelali-neozhidannoe-priznanie-o-sanktsiyah-protiv-rossii/"
     ],
-    "is_development": false,
     "first_reported": "2026-06-26",
-    "id": "1c16b7319f76"
-  },
-  {
-    "title_ru": "Европу охватила рекордная жара, политические дебаты смещаются в сторону адаптации",
-    "title_en": "Record Heatwave Grips Europe, Shifting Political Debate to Adaptation",
-    "date": "2026-06-26",
-    "summary": "Экстремальная жара в Европе привела к гибели детей во Франции и установлению новых температурных рекордов. Политическая дискуссия частично смещается с климатических действий на меры адаптации, такие как установка кондиционеров, что вызывает критику со стороны экологических активистов.",
-    "perspective": "Некоторые политики призывают к срочным мерам по охлаждению городов как вопросу выживания; экологи и левые силы критикуют отказ от долгосрочной климатической повестки в пользу краткосрочных технических решений.",
-    "perspective_type": "from_source",
-    "sources": [
-      "The New York Times",
-      "The Guardian"
-    ],
-    "links": [
-      "https://www.nytimes.com/2026/06/26/world/europe/europe-heat-climate-change-politics.html",
-      "https://www.theguardian.com/environment/2026/jun/26/europe-heatwave-shift-east-child-deaths-france-cities-heat-stress"
-    ],
-    "is_development": false,
-    "first_reported": "2026-06-26",
-    "id": "52287d1e058d"
+    "id": "71ba8abdc285"
   },
   {
     "title_ru": "Зеленский объявил о начале 40-дневной операции против России",
-    "title_en": "Zelensky Announces Start of 40-Day Operation Against Russia",
+    "title_en": "Zelensky announces start of 40-day operation against Russia",
     "date": "2026-06-26",
-    "summary": "Президент Украины Владимир Зеленский объявил о старте специальной операции сроком на 40 дней, поручив СБУ выполнение трех конкретных задач. Российские военные эксперты уже оценили готовность РФ к противодействию этим планам.",
-    "perspective": "Киев представляет операцию как необходимый этап давления на противника; российские источники характеризуют заявление как информационную кампанию и выражают уверенность в способности нейтрализовать угрозы.",
+    "summary": "Президент Украины Владимир Зеленский объявил о старте специальной 40-дневной операции, в рамках которой СБУ поручено выполнение трех конкретных задач. Детали операции не раскрываются, но российские военные эксперты уже оценили готовность РФ к этому шагу.",
+    "perspective": "Украинская сторона позиционирует это как активную фазу противодействия. Российские источники и эксперты воспринимают заявление скептически, оценивая его через призму готовности российской обороны и называя планы Киева раскрытыми.",
     "perspective_type": "from_source",
     "sources": [
-      "Lenta.ru",
-      "RT"
+      "Lenta.ru"
     ],
     "links": [
       "https://lenta.ru/news/2026/06/26/sbu-porucheno-tri-zadachi-zelenskiy-ob-yavil-o-40-dnevnoy-operatsii-protiv-rossii-chto-o-ney-izvestno/",
       "https://lenta.ru/news/2026/06/26/polkovnik-otsenil-gotovnost-rossii-k-ob-yavlennoy-zelenskim-40-dnevnoy-operatsii/"
     ],
-    "is_development": false,
     "first_reported": "2026-06-26",
     "id": "c356a23c95f8"
   },
   {
-    "title_ru": "Губернатор Ньюсом призвал к национальному налогу на миллиардеров в США",
-    "title_en": "Governor Newsom Calls for National Billionaires' Tax in US",
+    "title_ru": "Трамп пригрозил ЕС пошлинами в 100% из-за налога на цифровые услуги",
+    "title_en": "Trump threatens EU with 100% tariffs over digital services tax",
     "date": "2026-06-26",
-    "summary": "Губернатор Калифорнии Гэвин Ньюсом выступил с инициативой введения федерального налога на миллиардеров, несмотря на то, что одновременно борется против аналогичной меры на уровне своего штата. Это заявление сделано на фоне внутренних политических маневров перед выборами.",
-    "perspective": "Демократы используют тему налогообложения сверхбогатых как часть предвыборной риторики; республиканцы и бизнес-сообщество традиционно выступают против таких мер, указывая на риски для экономики.",
+    "summary": "Президент США Дональд Трамп заявил о готовности ввести стопроцентные пошлины против европейских стран в случае введения ими налога на цифровые услуги американских компаний. Это заявление прозвучало на фоне одновременного военного обострения отношений с Ираном.",
+    "perspective": "Действия Трампа демонстрируют жесткий протекционистский подход и готовность к торговым войнам даже с союзниками. Европейская сторона пока не дала развернутого ответа в представленных материалах, но угроза воспринимается как серьезный вызов трансатлантической торговле.",
     "perspective_type": "assumed",
     "sources": [
-      "The Guardian"
+      "Коммерсантъ",
+      "БелТА",
+      "Украинская правда"
     ],
     "links": [
-      "https://www.theguardian.com/us-news/2026/jun/26/gavin-newsom-national-billionaires-tax"
+      "https://www.kommersant.ru/doc/8778176",
+      "https://belta.by/world/view/tramp-prigrozil-evrope-poshlinami-v-100-pri-vvedenii-naloga-na-tsifrovye-uslugi-kompanij-ssha-788447-2026/",
+      "https://www.pravda.com.ua/news/2026/06/26/8041290/"
     ],
-    "is_development": false,
     "first_reported": "2026-06-26",
-    "id": "33b36ebc4926"
+    "id": "f847e3009e08"
+  },
+  {
+    "title_ru": "Экс-советник Трампа Джон Болтон признал вину по делу о секретных документах",
+    "title_en": "Ex-Trump adviser John Bolton pleads guilty in classified documents case",
+    "date": "2026-06-26",
+    "summary": "Бывший советник по национальной безопасности США Джон Болтон признал себя виновным в ненадлежащем обращении с секретными документами. Дело против давнего оппонента Трампа развивалось параллельно с принятием Верховным судом решений, расширяющих полномочия президента в миграционной сфере.",
+    "perspective": "Для сторонников Трампа это может выглядеть как подтверждение правоты президента в отношении «вашингтонского болота». Критики могут рассматривать дело в контексте политического давления на оппонентов, особенно на фоне одновременных юридических побед администрации в суде.",
+    "perspective_type": "assumed",
+    "sources": [
+      "BBC",
+      "NPR",
+      "DW",
+      "Коммерсантъ"
+    ],
+    "links": [
+      "https://feeds.bbci.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
+      "https://feeds.npr.org/2026/06/26/nx-s1-5871292/john-bolton-national-security-classified-documents",
+      "https://rss.dw.com/en/trump-foe-john-bolton-pleads-guilty-in-classified-docs-case/a-77728826?maca=en-rss-en-all-1573-xml-mrss",
+      "https://www.kommersant.ru/doc/8778132"
+    ],
+    "first_reported": "2026-06-26",
+    "id": "70f699c9733a"
+  },
+  {
+    "title_ru": "Аномальная жара в Европе бьет рекорды и приводит к жертвам",
+    "title_en": "Deadly heatwave breaks records across Europe",
+    "date": "2026-06-26",
+    "summary": "Европу охватила экстремальная жара: в Германии побиты температурные рекорды, во Франции погибли дети, оставленные в машинах, в Великобритании температура превысила отметку 1976 года. Власти Парижа запретили продажу алкоголя и спортивные мероприятия, в Польше предупреждают о лесных пожарах.",
+    "perspective": "Климатологи и экологические активисты указывают на связь волны жары с климатическим кризисом и критикуют политиков за фокус на адаптации (кондиционеры) вместо снижения выбросов. Некоторые консервативные политики склонны рассматривать явление как временную аномалию, сосредотачиваясь на мерах социальной защиты.",
+    "perspective_type": "from_source",
+    "sources": [
+      "BBC",
+      "The Guardian",
+      "The New York Times",
+      "DW"
+    ],
+    "links": [
+      "https://feeds.bbci.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/environment/2026/jun/26/europe-heatwave-shift-east-child-deaths-france-cities-heat-stress",
+      "https://rss.nytimes.com/2026/06/26/world/europe/europe-heat-climate-change-politics.html",
+      "https://rss.dw.com/en/european-heat-wave-is-not-normal-summer-weather/a-77693716?maca=en-rss-en-all-1573-xml-mrss"
+    ],
+    "first_reported": "2026-06-26",
+    "id": "b4603fe6858d"
+  },
+  {
+    "title_ru": "Путин и Лукашенко провели встречу на Валдае",
+    "title_en": "Putin and Lukashenko hold talks at Valdai",
+    "date": "2026-06-26",
+    "summary": "Президенты России и Беларуси встретились на Валдае для обсуждения двусторонних отношений и вопросов безопасности. Встреча прошла на фоне сообщений об угрозах со стороны Зеленского в адрес Беларуси и усиления военной активности в регионе.",
+    "perspective": "Официальные источники обеих стран подчеркивают стратегическое партнерство и координацию. Украинская сторона ранее озвучивала угрозы в адрес Минска, на что Лукашенко дал жесткий ответ, что делает текущую встречу демонстрацией единства перед лицом внешних вызовов.",
+    "perspective_type": "from_source",
+    "sources": [
+      "Коммерсантъ",
+      "Ведомости"
+    ],
+    "links": [
+      "https://www.kommersant.ru/doc/8778164",
+      "https://www.vedomosti.ru/politics/articles/2026/06/25/1208889-iz-otveta-lukashenko"
+    ],
+    "first_reported": "2026-06-26",
+    "id": "8c21cd2429c0"
+  },
+  {
+    "title_ru": "Верховный суд США расширил полномочия Трампа в миграционной политике",
+    "title_en": "US Supreme Court expands Trump’s power over immigration",
+    "date": "2026-06-26",
+    "summary": "Верховный суд США вынес решения по делам, касающимся статуса временной защиты (TPS) и границы с Мексикой, которые существенно расширяют исполнительные полномочия президента Трампа в сфере иммиграции. Это создает правовую базу для возможных депортаций граждан Гаити и Сирии.",
+    "perspective": "Администрация Трампа приветствует решение как восстановление законности и контроля границ. Правозащитные организации и демократы выражают обеспокоенность судьбой мигрантов и считают, что суд санкционировал чрезмерное расширение президентской власти.",
+    "perspective_type": "from_source",
+    "sources": [
+      "The New York Times",
+      "Indian Express",
+      "Коммерсантъ"
+    ],
+    "links": [
+      "https://rss.nytimes.com/2026/06/25/us/politics/supreme-court-temporary-protected-status.html",
+      "https://indianexpress.com/article/world/us-supreme-court-trump-immigration-asylum-tps-haitians-syrians-10758171/",
+      "https://www.kommersant.ru/doc/8765281"
+    ],
+    "first_reported": "2026-06-26",
+    "id": "2bba4b105bcb"
   }
 ]
