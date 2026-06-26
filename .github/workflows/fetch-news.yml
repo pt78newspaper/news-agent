@@ -12,8 +12,7 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     env:
-      OPENROUTER_KEY: ${{ secrets.OPENROUTER }}
-      #DEEPSEEK_KEY: ${{ secrets.DEEPSEEK }}
+      GPTUNNEL_KEY: ${{ secrets.GPTUNNEL }}
     steps:
       - uses: actions/checkout@v4
 
