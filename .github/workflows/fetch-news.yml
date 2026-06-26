@@ -23,6 +23,13 @@ jobs:
       - name: Install deps
         run: pip install requests feedparser python-dateutil
 
+      - name: Download previous history
+        run: |
+          git fetch --depth=1 origin gh-pages
+          if git show-ref --verify refs/remotes/origin/gh-pages 2>/dev/null; then
+            git checkout gh-pages -- output/history.json 2>/dev/null || echo "no history yet"
+          fi
+
       - name: Run agent
         run: python run_agent.py
 
@@ -31,3 +38,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./output
+          keep_files: true
