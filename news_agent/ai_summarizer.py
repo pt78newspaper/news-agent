@@ -128,7 +128,7 @@ def summarize_news(clusters, api_key, history=None):
                 }
             }
         }],
-        "tool_choice": {"type": "function", "function": {"name": "report_news"}},
+        "tool_choice": "auto",
         "temperature": 0.3,
         "max_tokens": 4000
     }, timeout=120)
