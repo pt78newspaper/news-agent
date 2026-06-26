@@ -1,4 +1,4 @@
-import sys, os, json, hashlib
+import sys, os, json, hashlib, requests
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from news_agent.fetcher import fetch_all
 from news_agent.analyzer import cluster_news
@@ -45,7 +45,7 @@ def hash_event(e):
     return hashlib.md5(raw.encode("utf-8")).hexdigest()[:12]
 
 
-def generate_html(events, config, usage=None):
+def generate_html(events, config, usage=None, api_key=None):
     tpl_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "news_agent", "template.html")
     with open(tpl_path, encoding="utf-8") as f:
         html = f.read()
@@ -104,13 +104,26 @@ def generate_html(events, config, usage=None):
             sources_html += f'<span class="feed">{short}</span>'
         sources_html += "</div>"
 
+    # Balance info
+    balance_text = ""
+    if api_key:
+        try:
+            br = requests.get("https://gptunnel.ru/v1/balance?useWalletBalance=true",
+                headers={"Authorization": f"Bearer {api_key}"}, timeout=10)
+            if br.status_code == 200:
+                bal = br.json().get("balance", 0)
+                balance_text = f" | Баланс: {bal:.2f} руб."
+        except:
+            pass
+
     # Usage info
     if usage:
         usage_text = (
             f"Запуск: {usage.get('tokens', 0)} токенов, "
-            f"стоимость {usage.get('cost', 0)} ед. "
-            f"| Всего за всё время: {usage.get('total_tokens', 0)} токенов, "
-            f"{usage.get('total_cost', 0)} ед."
+            f"стоимость {usage.get('cost', 0):.4f} руб."
+            f"{balance_text}"
+            f" | Всего за всё время: {usage.get('total_tokens', 0)} токенов, "
+            f"{usage.get('total_cost', 0):.4f} руб."
         )
     else:
         usage_text = ""
@@ -180,7 +193,7 @@ def main():
         events = []
 
     save_history(events)
-    generate_html(events, config, usage)
+    generate_html(events, config, usage, api_key)
 
 
 if __name__ == "__main__":
