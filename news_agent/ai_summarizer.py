@@ -135,13 +135,19 @@ def summarize_news(clusters, api_key, history=None):
 
     if resp.status_code != 200:
         print(f"  [AI ERROR] {resp.status_code}: {resp.text[:200]}")
-        return None
+        return None, None
 
-    msg = resp.json()["choices"][0]["message"]
+    data = resp.json()
+    usage = data.get("usage", {})
+    total_cost = usage.get("total_cost", 0)
+    total_tokens = usage.get("total_tokens", 0)
+    print(f"  AI: {usage.get('total_tokens', 0)} tokens, cost {total_cost}")
+
+    msg = data["choices"][0]["message"]
     if msg.get("tool_calls"):
         for tc in msg["tool_calls"]:
             if tc["function"]["name"] == "report_news":
-                data = json.loads(tc["function"]["arguments"])
-                print(f"  AI: {len(data.get('events', []))} событий")
-                return data.get("events", [])
-    return None
+                events = json.loads(tc["function"]["arguments"]).get("events", [])
+                print(f"  AI: {len(events)} событий")
+                return events, {"tokens": total_tokens, "cost": total_cost}
+    return None, None
