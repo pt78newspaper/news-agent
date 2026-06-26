@@ -2,7 +2,7 @@ import sys, os, json, hashlib
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from news_agent.fetcher import fetch_all
 from news_agent.analyzer import cluster_news
-from news_agent.ai_summarizer import summarize_news
+from news_agent.ai_summarizer import summarize_news, get_system_prompt
 
 HISTORY_FILE = "output/history.json"
 
@@ -40,7 +40,7 @@ def hash_event(e):
     return hashlib.md5(raw.encode("utf-8")).hexdigest()[:12]
 
 
-def generate_html(events):
+def generate_html(events, config):
     tpl_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "news_agent", "template.html")
     with open(tpl_path, encoding="utf-8") as f:
         html = f.read()
@@ -87,6 +87,17 @@ def generate_html(events):
     if not stories_html:
         stories_html = '<div class="no-news"><h2>Новостей нет</h2><p>Попробуйте позже</p></div>'
 
+    # System info
+    sources = config.get("sources", {})
+    countries_list = ", ".join(s["label"] for s in sources.values())
+    sources_html = ""
+    for key, s in sources.items():
+        sources_html += f'<div class="country"><span class="country-name">{s["label"]}</span>'
+        for feed in s.get("feeds", []):
+            short = feed.replace("https://", "").replace("http://", "").split("/")[0]
+            sources_html += f'<span class="feed">{short}</span>'
+        sources_html += "</div>"
+
     from datetime import datetime, timezone
     utc_now = datetime.now(timezone.utc).strftime("%d %B %Y, %H:%M UTC")
     html = html.replace("__UPDATE_TIME__", utc_now)
@@ -96,6 +107,9 @@ def generate_html(events):
     html = html.replace("__STORIES__", stories_html)
     html = html.replace("__AI_MODEL__", "Qwen 3.7 Max")
     html = html.replace("__AI_BADGE__", '<span class="ai-badge">AI: Qwen 3.7 Max</span>')
+    html = html.replace("__SYSTEM_PROMPT__", get_system_prompt())
+    html = html.replace("__COUNTRIES_LIST__", countries_list)
+    html = html.replace("__SOURCES_HTML__", sources_html)
 
     os.makedirs("output", exist_ok=True)
     out = os.path.join("output", "index.html")
@@ -122,7 +136,7 @@ def main():
     articles = fetch_all(config)
     if not articles:
         print("No news.")
-        generate_html([])
+        generate_html([], config)
         return
 
     clusters = cluster_news(articles)
@@ -141,7 +155,7 @@ def main():
         events = []
 
     save_history(events)
-    generate_html(events)
+    generate_html(events, config)
 
 
 if __name__ == "__main__":
