@@ -130,7 +130,7 @@ def summarize_news(clusters, api_key, history=None):
         }],
         "tool_choice": "auto",
         "temperature": 0.3,
-        "max_tokens": 2000
+        "max_tokens": 4096
     }, timeout=120)
 
     if resp.status_code != 200:
