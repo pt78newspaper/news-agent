@@ -1,154 +1,141 @@
 [
   {
-    "title_ru": "Военная эскалация между США и Ираном: взаимные удары и срыв прекращения огня",
-    "title_en": "US-Iran Military Escalation: Mutual Strikes and Ceasefire Collapse",
-    "date": "2026-06-26 – 2026-06-27",
-    "summary": "КСИР Ирана нанёс удары по военным позициям США в ответ на «американскую агрессию». Одновременно США объявили об ударах по целям в Иране в ответ на атаку на судно в Ормузском проливе. Вице-президент США пообещал отвечать «насилием на насилие». Иран призывает ООН привлечь США и Израиль к ответственности за удар по школе в Минабе. Стороны обвиняют друг друга в нарушении режима прекращения огня.",
-    "perspective": "США обвиняют Иран в нарушении прекращения огня и атаке на судно; Иран обвиняет США в агрессии и ударе по школе в Минабе. Обе стороны представляют себя как обороняющуюся сторону.",
+    "title_ru": "Землетрясения в Венесуэле: число жертв превысило 920, более 50 000 пропавших без вести",
+    "title_en": "Venezuela Earthquakes: Death Toll Tops 920, Over 50,000 Missing",
+    "date": "2026-06-27",
+    "summary_en": "Twin earthquakes struck Venezuela, killing over 920 people with more than 50,000 reported missing according to the UN. International rescue teams have arrived, and the US has pledged generous relief aid. The disaster tests Venezuela's newly strengthened alliance with the United States under the Trump administration.",
+    "summary": "Двойное землетрясение в Венесуэле унесло жизни более 920 человек, более 50 000 числятся пропавшими без вести по данным ООН. В страну прибыли международные спасательные команды, США пообещали значительную помощь. Катастрофа испытывает на прочность недавно укрепившийся альянс Венесуэлы и США.",
+    "perspective": "Для администрации Трампа — возможность продемонстрировать действенность нового альянса с Венесуэлой через гуманитарную помощь. Для правительства Мадуро — тест на способность справиться с катастрофой при ослабленной системе здравоохранения. NYT отмечает, что землетрясения проверят «новообретённый альянс с США».",
     "perspective_type": "from_source",
     "sources": [
-      "IRNA",
-      "France24",
-      "Times of India",
-      "Tehran Times",
-      "Lenta.ru",
-      "Kommersant"
-    ],
-    "links": [
-      "https://en.irna.ir/news/86193537/IRGC-Navy-strikes-US-military-positions-after-American-aggression",
-      "https://www.france24.com/fr/moyen-orient/20260626-en-direct-moyen-orient-iran-etats-unis-frappes-attaques-navire-detroit-dormuz",
-      "https://timesofindia.indiatimes.com/world/middle-east/us-says-iran-iran-says-us-who-really-broke-ceasefire-this-time/articleshow/132028110.cms",
-      "https://www.tehrantimes.com/news/527646/Iran-urges-UN-to-hold-US-Israel-accountable-for-deadly-strike",
-      "https://lenta.ru/news/2026/06/27/vitse-prezident-ssha-poobeschal-otvechat-iranu-nasiliem-na-nasilie/",
-      "https://www.kommersant.ru/doc/8764372"
-    ],
-    "first_reported": "2026-06-26 – 2026-06-27",
-    "id": "399663c2ced4"
-  },
-  {
-    "title_ru": "Разрушительное землетрясение в Венесуэле: 589 погибших, международные спасатели прибывают",
-    "title_en": "Devastating Venezuela Earthquake: 589 Dead, International Rescue Teams Arrive",
-    "date": "2026-06-26 – 2026-06-27",
-    "summary": "Двойное землетрясение в Венесуэле унесло жизни 589 человек. Страна пережила более 300 афтершоков. В страну прибывают международные поисково-спасательные группы, включая команду из Великобритании. Выжившие описывают землетрясение как «жестокое и быстрое». Подтверждена гибель бразильской модели. Президент Ирана Пезешкиан и Дональд Трамп выразили соболезнования и предложили помощь.",
-    "perspective": "Гуманитарная катастрофа вызывает международную солидарность. Политический аспект: США предлагают помощь Венесуэле, несмотря на напряжённые двусторонние отношения. Иран выражает солидарность с идеологически близким режимом.",
-    "perspective_type": "from_source",
-    "sources": [
+      "The New York Times",
       "The Guardian",
-      "BBC",
-      "Antara News",
-      "Agência Brasil",
-      "Le Monde",
-      "IRNA",
-      "Vedomosti"
+      "NPR",
+      "TASS",
+      "Indian Express",
+      "The Hindu",
+      "CBC"
     ],
     "links": [
+      "https://www.nytimes.com/2026/06/26/us/politics/trump-venezuela-earthquake-aid.html",
+      "https://www.nytimes.com/2026/06/26/world/americas/venezuela-earthquake-rescue-teams-countries.html",
+      "https://www.nytimes.com/2026/06/25/world/americas/earthquakes-us-alliance-venezuela-trump.html",
+      "https://www.npr.org/2026/06/26/nx-s1-5870652/venezuela-earthquake-usaid-u-s-aid",
+      "https://tass.com/emergencies/2152179",
       "https://www.theguardian.com/world/2026/jun/26/hunt-survivors-brutal-venezuela-earthquake",
-      "https://www.bbc.co.uk/news/articles/cr7xlr2ndxno",
-      "https://www.antaranews.com/berita/5625381/venezuela-diguncang-300-gempa-susulan",
-      "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/familia-confirma-morte-de-modelo-do-df-em-terremoto-na-venezuela",
-      "https://www.lemonde.fr/international/article/2026/06/27/apres-le-double-seisme-au-venezuela-les-habitants-appellent-a-l-aide-pour-sortir-les-survivants-des-ruines_6716226_3210.html",
-      "https://en.irna.ir/news/86192879/President-Pezeshkian-offers-condolences-to-Venezuela-over-deadly",
-      "https://www.vedomosti.ru/politics/news/2026/06/25/1208662-tramp-o-gotovnosti-pomoch"
+      "https://indianexpress.com/article/world/venezuela-earthquake-death-toll-rescue-trapped-10759533/"
     ],
-    "first_reported": "2026-06-26 – 2026-06-27",
-    "id": "9192a777ce12"
+    "first_reported": "2026-06-27",
+    "id": "c3eb7c9f79cc"
   },
   {
-    "title_ru": "Массированные атаки украинских БПЛА на регионы России: 660 дронов сбито за ночь",
-    "title_en": "Massive Ukrainian Drone Attacks on Russian Regions: 660 UAVs Shot Down Overnight",
-    "date": "2026-06-25 – 2026-06-27",
-    "summary": "За одну ночь силы ПВО сбили 660 украинских беспилотников над регионами России. Около 50 БПЛА сбито на подлёте к Москве, 157 — над Тульской областью. Белгородская область атакована 76 раз за сутки. Ранее в те же дни сбивали 269 и 245 дронов соответственно. ВСУ объявили о 40-дневной операции; российская сторона предрекает скорый обвал фронта ВСУ и открытие «ворот на Славянск».",
-    "perspective": "Российские источники представляют это как отражение агрессии и эффективную работу ПВО. Украинская сторона, вероятно, рассматривает это как демонстрацию способности наносить удары вглубь территории противника.",
-    "perspective_type": "assumed",
-    "sources": [
-      "Vedomosti",
-      "Kommersant",
-      "Lenta.ru",
-      "TASS"
-    ],
-    "links": [
-      "https://www.vedomosti.ru/politics/news/2026/06/26/1209009-sili-pvo",
-      "https://www.kommersant.ru/doc/8765395",
-      "https://www.kommersant.ru/doc/8765375",
-      "https://lenta.ru/news/2026/06/27/vsu-atakovali-rossiyskiy-region-76-raz-za-sutki/",
-      "https://tass.ru/proisshestviya/27862883",
-      "https://lenta.ru/news/2026/06/27/v-rossii-otvetili-na-ob-yavlenie-zelenskim-40-dnevnoy-operatsii/"
-    ],
-    "first_reported": "2026-06-25 – 2026-06-27",
-    "id": "085cc329af02"
-  },
-  {
-    "title_ru": "Ливан и Израиль подписали рамочное соглашение при посредничестве США; начинается вывод израильских войск",
-    "title_en": "Lebanon-Israel Framework Agreement Signed Under US Auspices; Israeli Withdrawal Begins",
-    "date": "2026-06-26 – 2026-06-27",
-    "summary": "Ливан и Израиль подписали рамочное соглашение при спонсорстве США; начался вывод израильских войск. Однако Израиль вновь нанёс удары по южному Ливану, нарушив режим прекращения огня. Глава «Хезболлы» назвал Меморандум о взаимопонимании в Исламабаде поражением для США и Израиля. Иран выступил с новыми предупреждениями в связи с израильской военной активностью в регионе.",
-    "perspective": "США представляют сделку как дипломатический успех. «Хезболла» и Иран оценивают событие как поражение Израиля и США. Израиль, предположительно, видит в соглашении обеспечение безопасности.",
+    "title_ru": "Обострение между США и Ираном: нарушения перемирия, удар по судну в Ормузском проливе",
+    "title_en": "US-Iran Tensions Escalate: Ceasefire Violations, Ship Strike in Strait of Hormuz",
+    "date": "2026-06-27",
+    "summary_en": "The US released strike footage after an Iranian drone reportedly hit the MV Ever Lovely in the Strait of Hormuz amid a fragile ceasefire. Vice President Vance vowed to respond with 'violence for violence.' Iran rejected the US-PGCC joint declaration and accused the US of striking a school in Minab. Trump claimed the US is in a 'strong position' in negotiations with Iran while thanking Putin and Xi Jinping for inaction regarding Iran.",
+    "summary": "США опубликовали видео удара после того, как иранский беспилотник поразил судно MV Ever Lovely в Ормузском проливе в условиях хрупкого перемирия. Вице-президент Вэнс пообещал отвечать «насилием на насилие». Иран отверг совместную декларацию США и PGCC, обвинив США в ударе по школе в Минабе. Трамп заявил, что США находятся в «сильной позиции» на переговорах с Ираном, и поблагодарил Путина и Си Цзиньпина за бездействие в отношении Ирана.",
+    "perspective": "Администрация Трампа демонстрирует жёсткую позицию в отношении Ирана, но одновременно благодарит Россию и Китай за невмешательство. Иран отрицает нарушения и возлагает вину на США. Tehran Times передаёт позицию Ирана о «войне Америки против Ирана» и «молчании мира».",
     "perspective_type": "from_source",
     "sources": [
-      "Antara News",
-      "IRNA",
-      "Tehran Times"
+      "Indian Express",
+      "Lenta.ru",
+      "Kommersant",
+      "Tehran Times",
+      "The New York Times"
+    ],
+    "links": [
+      "https://indianexpress.com/article/world/us-strikes-iran-mv-ever-lovely-strait-hormuz-ceasefire-june-2026-10759767/",
+      "https://lenta.ru/news/2026/06/27/vitse-prezident-ssha-poobeschal-otvechat-iranu-nasiliem-na-nasilie/",
+      "https://www.kommersant.ru/doc/8765345",
+      "https://www.kommersant.ru/doc/8764372",
+      "https://www.kommersant.ru/doc/8764349",
+      "https://www.tehrantimes.com/news/527637/The-blood-of-Minab-America-s-war-on-Iran-and-the-world-s-silence",
+      "https://www.tehrantimes.com/news/527641/Iran-rejects-US-PGCC-declaration-defends-regional-security-doctrine"
+    ],
+    "first_reported": "2026-06-27",
+    "id": "e4e6e09dd613"
+  },
+  {
+    "title_ru": "Массированные атаки БПЛА на российские регионы: почти 50 дронов сбито на подлёте к Москве",
+    "title_en": "Mass Drone Attacks on Russian Regions: Nearly 50 UAVs Downed Near Moscow",
+    "date": "2026-06-27",
+    "summary_en": "Multiple Russian regions — including Moscow, Tula, Lipetsk, Voronezh, Oryol, Bryansk, and Sochi — have been targeted by waves of drone attacks over the past week. Moscow Mayor Sobyanin reported nearly 50 UAVs shot down on approach to the capital in a single night. At least two people were killed in Bryansk region, and one injured in Tula region. An industrial facility in Tula was also hit.",
+    "summary": "За последнюю неделю массированным атакам беспилотников подверглись Московская, Тульская, Липецкая, Воронежская, Орловская, Брянская области, а также Сочи и Анапа. Мэр Москвы Собянин сообщил о почти 50 сбитых БПЛА на подлёте к столице за одну ночь. В Брянской области двое погибших, в Тульской — один пострадавший, атаковано промышленное предприятие.",
+    "perspective": "Российские официальные источники представляют атаки как террористические действия Украины. Оценки с украинской и западной сторон в предоставленных новостях отсутствуют.",
+    "perspective_type": "unclear",
+    "sources": [
+      "TASS",
+      "Kommersant",
+      "Vedomosti",
+      "Lenta.ru"
+    ],
+    "links": [
+      "https://tass.ru/proisshestviya/27863081",
+      "https://tass.ru/proisshestviya/27863063",
+      "https://tass.ru/armiya-i-opk/27862831",
+      "https://www.kommersant.ru/doc/8778510",
+      "https://www.vedomosti.ru/politics/news/2026/06/26/1209010-50-sbitih-bpla",
+      "https://www.kommersant.ru/doc/8764555",
+      "https://www.vedomosti.ru/politics/news/2026/06/26/1209002-bpla-atakovali"
+    ],
+    "first_reported": "2026-06-27",
+    "id": "612fbcfb9374"
+  },
+  {
+    "title_ru": "Начало реализации соглашения Ливан-Израиль: вывод израильских войск",
+    "title_en": "Lebanon-Israel Deal Implementation Begins: Israeli Troop Withdrawal Underway",
+    "date": "2026-06-27",
+    "summary_en": "The Lebanon-Israel agreement has entered implementation phase with the beginning of Israeli troop withdrawal. Meanwhile, Iran issued fresh warnings over Israeli military activity and presence in Lebanon, and the Iranian Armed Forces warned about Israeli aircraft movements in the region. Hezbollah's chief hailed the Islamabad MoU as a defeat for the US and Israel.",
+    "summary": "Соглашение между Ливаном и Израилем вступило в фазу реализации: начался вывод израильских войск. Тем временем Иран выступил с новыми предупреждениями о военной активности Израиля в Ливане, а Вооружённые силы Ирана предостерегли о передвижениях израильской авиации в регионе. Лидер «Хезболлы» назвал меморандум в Исламабаде поражением для США и Израиля.",
+    "perspective": "Иран и «Хезболла» рассматривают сделку через призму своей поддержки Ливана. Иранские источники заявляют: «Иран никогда не покинет Ливан». С израильской стороны оценка в предоставленных новостях не представлена.",
+    "perspective_type": "from_source",
+    "sources": [
+      "Antara News (Индонезия)",
+      "Tehran Times",
+      "IRNA"
     ],
     "links": [
       "https://www.antaranews.com/berita/5625367/kesepakatan-lebanon-israel-dimulai-dengan-penarikan-pasukan-israel",
-      "https://www.antaranews.com/berita/5625264/lebanon-israel-teken-kesepakatan-kerangka-kerja-yang-disponsori-as",
-      "https://en.irna.ir/news/86193140/Hezbollah-chief-hails-Islamabad-MoU-as-defeat-for-US-Israeli",
       "https://www.tehrantimes.com/news/527644/Iran-issues-fresh-warnings-over-Israeli-military-activity-and",
-      "https://en.irna.ir/news/86192708/Israel-strikes-southern-Lebanon-again-breaching-ceasefire"
-    ],
-    "first_reported": "2026-06-26 – 2026-06-27",
-    "id": "2700c9922b14"
-  },
-  {
-    "title_ru": "Буркина-Фасо разрывает дипломатические отношения с Францией после резолюции Европарламента",
-    "title_en": "Burkina Faso Cuts Diplomatic Ties with France After EP Resolution Criticizing Junta",
-    "date": "2026-06-27",
-    "summary": "Буркина-Фасо объявила о разрыве дипломатических отношений с Францией. Решение принято после того, как Европейский парламент принял резолюцию с критикой в адрес военной хунты, находящейся у власти в стране.",
-    "perspective": "Хунта Буркина-Фасо представляет разрыв как суверенный ответ на неоколониальное вмешательство. Франция и ЕС рассматривают это как тревожный сигнал дальнейшего отдаления страны от западных партнёров.",
-    "perspective_type": "from_source",
-    "sources": [
-      "Antara News",
-      "Le Monde"
-    ],
-    "links": [
-      "https://www.antaranews.com/berita/5625351/burkina-faso-putuskan-hubungan-diplomatik-dengan-prancis",
-      "https://www.lemonde.fr/afrique/article/2026/06/27/le-burkina-faso-rompt-avec-la-france-apres-l-adoption-d-une-resolution-critique-contre-la-junte-au-parlement-europeen_6715923_3212.html"
+      "https://en.irna.ir/news/86193052/Iran-s-Armed-Forces-issue-warning-over-Israeli-aircraft-movements",
+      "https://en.irna.ir/news/86193140/Hezbollah-chief-hails-Islamabad-MoU-as-defeat-for-US-Israeli",
+      "https://www.tehrantimes.com/news/527639/Iran-will-never-abandon-Lebanon"
     ],
     "first_reported": "2026-06-27",
-    "id": "17cf7f26fefc"
+    "id": "f8a65c685031"
   },
   {
-    "title_ru": "Дональд Трамп представляет юбилейный паспорт США со своим портретом и угрожает ЕС 100%-ными пошлинами",
-    "title_en": "Trump Unveils 250th Anniversary US Passport with His Portrait, Threatens EU with 100% Tariffs",
-    "date": "2026-06-26 – 2026-06-27",
-    "summary": "К 250-летию США Дональд Трамп представил дизайн юбилейного паспорта с собственным портретом. Одновременно он пригрозил Европейскому союзу 100%-ными пошлинами в ответ на введение налога на цифровые услуги, назвал США «страной третьего мира» и заявил, что коммунизм является главной угрозой для США за всю их историю. Также выразил надежду на суровый приговор своему экс-советнику Джону Болтону.",
-    "perspective": "Критики усматривают в дизайне паспорта проявление культа личности и авторитарных тенденций. Сторонники Трампа воспринимают это как патриотический жест. Le Monde характеризует стиль Трампа как создание «образов, достойных глянцевых журналов», а не реальную помощь гражданам.",
+    "title_ru": "Трамп представил дизайн юбилейного паспорта США со своим портретом к 250-летию",
+    "title_en": "Trump Unveils 250th Anniversary US Passport Design Featuring His Own Portrait",
+    "date": "2026-06-27",
+    "summary_en": "President Trump unveiled the design of a commemorative US passport for the nation's 250th anniversary (Semiquincentennial), featuring his own portrait. The move drew significant international media attention. In related developments, Trump threatened the EU with 100% tariffs over digital services taxes, called the US a 'third world country,' and labeled communism the main threat to America over its 250-year history.",
+    "summary": "Президент Трамп представил дизайн юбилейного паспорта США к 250-летию страны со своим собственным портретом. Этот шаг привлёк широкое внимание международных СМИ. Параллельно Трамп пригрозил ЕС 100%-ными пошлинами за налог на цифровые услуги, назвал США «страной третьего мира» и объявил коммунизм главной угрозой для США за 250 лет.",
+    "perspective": "Украинские СМИ («Укринформ», «Украинская правда») и российские («Ведомости», «Коммерсантъ», Lenta.ru) освещают событие с оттенком критики или иронии. Российские источники также акцентируют агрессивную риторику Трампа в адрес ЕС.",
     "perspective_type": "from_source",
     "sources": [
+      "Ukrinform",
+      "Ukrainska Pravda",
       "Vedomosti",
       "Kommersant",
-      "Lenta.ru",
-      "Ukrinform",
-      "Le Monde",
-      "Ukrainska Pravda"
+      "Lenta.ru"
     ],
     "links": [
+      "https://www.ukrinform.ua/rubric-world/4138185-tramp-pokazav-dizajn-uvilejnogo-pasporta-ssa-zi-svoim-zobrazennam.html",
+      "https://www.pravda.com.ua/news/2026/06/27/8041319/",
       "https://www.vedomosti.ru/politics/news/2026/06/27/1209312-tramp-predstavil-dizain",
-      "https://www.kommersant.ru/doc/8778202",
       "https://www.kommersant.ru/doc/8778176",
-      "https://lenta.ru/news/2026/06/26/tramp-nazval-ssha-stranoy-tretiego-mira/",
-      "https://www.lemonde.fr/idees/article/2026/06/27/avec-trump-l-etat-n-est-pas-la-pour-aider-les-citoyens-mais-pour-creer-des-images-dignes-des-magazines-people_6716156_3232.html",
-      "https://www.ukrinform.ua/rubric-world/4138185-tramp-pokazav-dizajn-uvilejnogo-pasporta-ssa-zi-svoim-zobrazennam.html"
+      "https://www.kommersant.ru/doc/8778202"
     ],
-    "first_reported": "2026-06-26 – 2026-06-27",
-    "id": "cfde84a5f80f"
+    "first_reported": "2026-06-27",
+    "id": "acfc1c2767fc"
   },
   {
-    "title_ru": "Умер Сергей Иванов — бывший глава администрации президента, некогда считавшийся возможным преемником Путина",
-    "title_en": "Sergei Ivanov, Once Seen as Putin's Potential Successor, Dies at 73",
+    "title_ru": "Смерть Сергея Иванова — бывшего возможного преемника Путина",
+    "title_en": "Death of Sergei Ivanov, Once Seen as Putin's Potential Successor, at 73",
     "date": "2026-06-27",
-    "summary": "Сергей Иванов, бывший министр обороны и глава администрации президента России, скончался в возрасте 73 лет. В прошлом он рассматривался как один из возможных преемников Владимира Путина. Президент России выразил соболезнования его близким.",
-    "perspective": "Смерть знаковой фигуры из ближнего круга Путина. Политические последствия минимальны, так как Иванов давно отошёл от активной политической деятельности.",
+    "summary_en": "Sergei Ivanov, a former Russian defense minister and Kremlin chief of staff once widely considered a potential successor to Vladimir Putin, died at the age of 73. Putin expressed condolences to Ivanov's family. Ivanov was a key figure in Russia's security establishment for decades.",
+    "summary": "Сергей Иванов, бывший министр обороны и глава администрации Кремля, которого в своё время считали возможным преемником Владимира Путина, скончался в возрасте 73 лет. Путин выразил соболезнования близким Иванова. Иванов на протяжении десятилетий был ключевой фигурой в российском силовом истеблишменте.",
+    "perspective": "Индийские СМИ (Times of India) акцентируют статус Иванова как возможного преемника Путина. Российские источники (Коммерсантъ) сообщают о соболезнованиях президента. Событие носит некрологический характер.",
     "perspective_type": "from_source",
     "sources": [
       "Times of India",
@@ -159,58 +146,23 @@
       "https://www.kommersant.ru/doc/8777940"
     ],
     "first_reported": "2026-06-27",
-    "id": "61955a505f92"
+    "id": "0540df4ac4cf"
   },
   {
-    "title_ru": "Канада рассматривает возможность возобновления работы посольств в Иране",
-    "title_en": "Canada Weighs Reopening Embassies in Iran, PM Carney Says",
-    "date": "2026-06-26",
-    "summary": "Премьер-министр Канады Марк Карни заявил, что страна рассматривает возможность возобновления работы своих посольств в Иране. Это потенциально знаменует значительный дипломатический сдвиг после многолетнего разрыва отношений.",
-    "perspective": "Потенциальное потепление канадско-иранских отношений. Может быть частью более широкой нормализации иранской дипломатии или ситуативным шагом на фоне обострения с США.",
-    "perspective_type": "from_source",
+    "title_ru": "Буркина-Фасо разрывает дипломатические отношения с Францией",
+    "title_en": "Burkina Faso Cuts Diplomatic Ties with France",
+    "date": "2026-06-27",
+    "summary_en": "Burkina Faso has severed diplomatic relations with France, continuing the trend of former French colonies in West Africa distancing themselves from Paris. The move follows similar actions by other Sahel states in recent years and reflects ongoing geopolitical realignment in the region.",
+    "summary": "Буркина-Фасо разорвала дипломатические отношения с Францией, продолжая тенденцию дистанцирования бывших французских колоний в Западной Африке от Парижа. Этот шаг следует за аналогичными действиями других государств Сахеля и отражает продолжающуюся геополитическую перестройку в регионе.",
+    "perspective": "Событие продолжает тренд ослабления французского влияния в Сахеле. Оценки со стороны Франции или Буркина-Фасо в предоставленных новостях отсутствуют.",
+    "perspective_type": "unclear",
     "sources": [
-      "Tehran Times"
+      "Antara News (Индонезия)"
     ],
     "links": [
-      "https://www.tehrantimes.com/news/527643/Canada-weighs-reopening-embassies-in-Iran-Carney-says"
+      "https://www.antaranews.com/berita/5625351/burkina-faso-putuskan-hubungan-diplomatik-dengan-prancis"
     ],
-    "first_reported": "2026-06-26",
-    "id": "dc734dcf0552"
-  },
-  {
-    "title_ru": "Иран отвергает совместное заявление США и Совета сотрудничества арабских государств Персидского залива",
-    "title_en": "Iran Rejects US-PGCC Joint Statement as 'Interventionist, Irresponsible, Provocative'",
-    "date": "2026-06-26 – 2026-06-27",
-    "summary": "Иран решительно отверг совместное заявление США и Совета сотрудничества арабских государств Персидского залива (PGCC), назвав его «интервенционистским, безответственным и провокационным» и «искажением истины». Иран также предупредил, что безопасность Ормузского пролива зависит от учёта его озабоченностей. Одновременно Иран провёл телефонные переговоры с главами МИД Египта, Пакистана, Великобритании, Румынии, Узбекистана, Омана и ОАЭ.",
-    "perspective": "Иран демонстрирует жёсткую дипломатическую позицию против коалиции США и стран Залива, одновременно активизируя двустороннюю дипломатию с широким кругом стран. США и PGCC, предположительно, рассматривают Иран как дестабилизирующую силу в регионе.",
-    "perspective_type": "from_source",
-    "sources": [
-      "IRNA",
-      "Tehran Times"
-    ],
-    "links": [
-      "https://en.irna.ir/news/86193312/Iran-slams-joint-US-PGCC-statement-as-distortion-of-truth",
-      "https://en.irna.ir/news/86193070/Iran-slams-US-PGCC-statement-as-interventionist-irresponsible",
-      "https://en.irna.ir/news/86193241/Iran-warns-Strait-of-Hormuz-safety-hinges-on-addressing-its",
-      "https://www.tehrantimes.com/news/527641/Iran-rejects-US-PGCC-declaration-defends-regional-security-doctrine"
-    ],
-    "first_reported": "2026-06-26 – 2026-06-27",
-    "id": "34d5e931665a"
-  },
-  {
-    "title_ru": "Южная Корея разрабатывает отечественный аналог иранского дрона Shahed-136",
-    "title_en": "South Korea to Develop Domestic Version of Iran's Shahed-136 Drone",
-    "date": "2026-06-26",
-    "summary": "Южная Корея объявила о планах разработать собственную версию иранского беспилотника Shahed-136. Это решение подчёркивает растущее внимание к технологиям БПЛА и признание эффективности иранских дронов-камикадзе.",
-    "perspective": "Решение может рассматриваться как признание эффективности иранских военных технологий. Для Ирана это косвенное подтверждение успешности его оборонной промышленности. Для союзников США в Азии — сигнал диверсификации военных технологий.",
-    "perspective_type": "from_source",
-    "sources": [
-      "Tehran Times"
-    ],
-    "links": [
-      "https://www.tehrantimes.com/news/527642/South-Korea-to-develop-domestic-version-of-Iran-s-Shahed-136"
-    ],
-    "first_reported": "2026-06-26",
-    "id": "855825b7d2ef"
+    "first_reported": "2026-06-27",
+    "id": "64c537125e4c"
   }
 ]
