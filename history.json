@@ -374,5 +374,166 @@
     "is_development": true,
     "first_reported": "2026-06-27",
     "id": "ec0d0c2035ac"
+  },
+  {
+    "title_ru": "Иран наносит удар по Бахрейну, Пакистан выступает посредником: конфликт США и Ирана разрастается",
+    "title_en": "Iran Strikes Bahrain, Pakistan Mediates: US-Iran Conflict Escalates Beyond Hormuz",
+    "date": "2026-06-27",
+    "summary_en": "Following US retaliatory strikes on Iranian military sites, Iran launched drone attacks on Bahrain — a key US ally hosting the Fifth Fleet. The conflict, triggered by an Iranian drone attack on a cargo vessel in the Strait of Hormuz, has expanded geographically. Pakistan's Prime Minister Shehbaz Sharif claimed a peacemaker role, mediating a new Iran-US deal.",
+    "summary": "После ответных ударов США по иранским военным объектам Иран атаковал беспилотниками Бахрейн — ключевого союзника США, где базируется Пятый флот. Конфликт, спровоцированный атакой иранского дрона на грузовое судно в Ормузском проливе, расширился географически. Премьер-министр Пакистана Шахбаз Шариф заявил о роли посредника в заключении новой ирано-американской сделки.",
+    "perspective": "США и союзники (Бахрейн) оценивают действия Ирана как агрессивное нарушение режима прекращения огня и угрозу судоходству. Иран настаивает, что отвечает на американские удары, и обвиняет США в срыве перемирия. Пакистан представляет сделку как дипломатический прорыв, укрепляющий его региональный статус.",
+    "perspective_type": "from_source",
+    "sources": [
+      "BBC News",
+      "The Hindu",
+      "Indian Express",
+      "The Guardian",
+      "NYT",
+      "NPR",
+      "CBC",
+      "TASS",
+      "Ведомости",
+      "Lenta.ru",
+      "DW"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/ckg590wqxwpo",
+      "https://www.thehindu.com/news/international/iran-says-it-hits-us-linked-targets-as-bahrain-reports-drone-attack/article71154002.ece",
+      "https://indianexpress.com/article/world/iran-strikes-us-linked-targets-retaliation-american-airstrikes-10760084/",
+      "https://www.theguardian.com/world/2026/jun/26/us-says-it-struck-iran-targets-after-attack-on-cargo-ship-on-the-strait-of-hormuz",
+      "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
+      "https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran",
+      "https://www.cbc.ca/news/world/trump-blames-iran-drone-strike-9.7250777",
+      "https://tass.com/world/2152243",
+      "https://www.vedomosti.ru/politics/news/2026/06/27/1209307-ssha-nanesli-udar",
+      "https://lenta.ru/news/2026/06/27/vitse-prezident-ssha-poobeschal-otvechat-iranu-nasiliem-na-nasilie/",
+      "https://www.dw.com/en/iran-war-us-military-hits-iran-over-cargo-vessel-attack/live-77729995"
+    ],
+    "is_development": true,
+    "first_reported": "2026-06-27",
+    "id": "28830b0a8980"
+  },
+  {
+    "title_ru": "Гибель Али Лариджани — ключевого политического тяжеловеса Ирана",
+    "title_en": "Ali Larijani, Senior Iranian Political Figure, Killed — Judiciary Chief Calls It 'Major Loss'",
+    "date": "2026-06-27",
+    "summary_en": "Ali Larijani, former Speaker of Iran's Parliament, ex-nuclear negotiator, and senior advisor to Supreme Leader Khamenei, has been declared a martyr. Iran's Judiciary Chief described his death as a 'major loss for Iran.' Circumstances remain unclear, but the announcement comes amid the US-Iran military escalation.",
+    "summary": "Али Лариджани, бывший спикер парламента Ирана, экс-ядерный переговорщик и старший советник верховного лидера Хаменеи, объявлен мучеником. Глава судебной власти Ирана назвал его гибель «крупной потерей для Ирана». Обстоятельства остаются неясными, но объявление последовало на фоне военной эскалации между США и Ираном.",
+    "perspective": "Иранские официальные источники (IRNA, Tehran Times) подают гибель как мученичество, подчёркивая тяжесть утраты. Международные наблюдатели связывают событие с продолжающимся конфликтом, хотя прямая причинно-следственная связь в новостях не указана.",
+    "perspective_type": "from_source",
+    "sources": [
+      "IRNA",
+      "Tehran Times"
+    ],
+    "links": [
+      "https://en.irna.ir/news/86193897/Ali-Larijani-s-martyrdom-major-loss-for-Iran-Judiciary-chief",
+      "https://www.tehrantimes.com/news/527656/Iran-captain-Taremi-hits-out-at-FIFA"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-27",
+    "id": "74d048c961dc"
+  },
+  {
+    "title_ru": "Массированные удары ВСУ по российским регионам: Волгоград, Ростовская и Белгородская области",
+    "title_en": "Ukraine Launches Mass Attacks on Russian Regions: Volgograd, Rostov, Belgorod Hit",
+    "date": "2026-06-27",
+    "summary_en": "Ukrainian forces struck multiple Russian regions in a significant escalation: 10 people were injured in a missile attack on Volgograd (a city of over 1 million), one worker was killed at an enterprise. A drone struck the 'Sambek Heights' museum complex near Taganrog, injuring 11. In Belgorod region, a drone attack on an enterprise killed one person. Dozens of UAVs were intercepted overnight across Tula, Voronezh, Ivanovo, Vladimir, Oryol, and Lipetsk regions.",
+    "summary": "ВСУ нанесли удары по нескольким российским регионам в рамках значительной эскалации: 10 человек пострадали при ракетной атаке на Волгоград, один рабочий погиб на предприятии. Беспилотник ударил по музейному комплексу «Самбекские высоты» под Таганрогом — 11 пострадавших. В Белгородской области при атаке дронов на предприятие погиб человек. Десятки БПЛА перехвачены за ночь над Тульской, Воронежской, Ивановской, Владимирской, Орловской и Липецкой областями.",
+    "perspective": "Российские источники квалифицируют атаки как неизбирательные удары по гражданской инфраструктуре, включая культурные объекты (музей). Украинская сторона не комментирует непосредственно в представленных новостях. Атака на Волгоград — город-миллионник — может рассматриваться как существенная эскалация конфликта.",
+    "perspective_type": "from_source",
+    "sources": [
+      "ТАСС",
+      "Коммерсантъ",
+      "Ведомости",
+      "Lenta.ru"
+    ],
+    "links": [
+      "https://www.kommersant.ru/doc/8778621",
+      "https://tass.ru/proisshestviya/27863437",
+      "https://tass.ru/proisshestviya/27863361",
+      "https://www.vedomosti.ru/politics/news/2026/06/27/1209328-volgograde-pri-atake",
+      "https://lenta.ru/news/2026/06/27/desyat-chelovek-postradali-posle-ataki-vsu-na-krupnyy-rossiyskiy-gorod/",
+      "https://tass.ru/proisshestviya/27863319",
+      "https://www.vedomosti.ru/politics/news/2026/06/27/1209355-odin-chelovek-pogib"
+    ],
+    "is_development": true,
+    "first_reported": "2026-06-27",
+    "id": "6c17178f9aed"
+  },
+  {
+    "title_ru": "Белоруссия созывает Совбез ООН после атаки ВСУ на автобус под Брянском",
+    "title_en": "Belarus Convenes UN Security Council After Ukrainian Attack on Bus Near Bryansk",
+    "date": "2026-06-26",
+    "summary_en": "Belarus has called for an emergency UN Security Council session following a Ukrainian attack on a bus in the Bryansk region. The move signals Minsk's active diplomatic escalation in response to what it frames as attacks on civilian targets in allied Russian territory.",
+    "summary": "Белоруссия инициировала экстренное заседание Совета Безопасности ООН после атаки ВСУ на автобус в Брянской области. Шаг сигнализирует об активной дипломатической эскалации со стороны Минска в ответ на удары по гражданским объектам на территории союзной России.",
+    "perspective": "Минск представляет атаку как неизбирательный удар по гражданским лицам, требующий международной реакции. Западные страны в представленных новостях не комментируют инициативу. Данный шаг укрепляет образ Белоруссии как активного союзника России в конфликте.",
+    "perspective_type": "from_source",
+    "sources": [
+      "Коммерсантъ"
+    ],
+    "links": [
+      "https://www.kommersant.ru/doc/8778127"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-26",
+    "id": "a97c61da66b2"
+  },
+  {
+    "title_ru": "Иран и ОАЭ возобновляют торговые обмены на фоне регионального кризиса",
+    "title_en": "Iran and UAE Resume Trade Exchanges Amid Regional Crisis",
+    "date": "2026-06-27",
+    "summary_en": "Iran and the United Arab Emirates have officially resumed trade exchanges, according to Iranian officials. The announcement came as Iran's foreign minister also discussed regional developments with his UAE counterpart. The resumption of commercial ties contrasts sharply with the simultaneous military escalation between Iran and US-aligned Bahrain.",
+    "summary": "Иран и ОАЭ официально возобновили торговые обмены, сообщили иранские официальные лица. Одновременно главы МИД двух стран обсудили региональные события. Возобновление коммерческих связей резко контрастирует с параллельной военной эскалацией между Ираном и союзным США Бахрейном.",
+    "perspective": "Для Ирана это демонстрация сохраняющихся экономических связей с арабскими соседями, несмотря на конфликт с США. ОАЭ балансируют между союзническими обязательствами перед Вашингтоном и прагматичным экономическим взаимодействием с Тегераном.",
+    "perspective_type": "from_source",
+    "sources": [
+      "IRNA",
+      "Tehran Times"
+    ],
+    "links": [
+      "https://en.irna.ir/news/86193870/Official-Iran-UAE-resume-trade-exchanges",
+      "https://en.irna.ir/news/86193551/Iran-UAE-discuss-latest-regional-developments"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-27",
+    "id": "7c7901a8f17d"
+  },
+  {
+    "title_ru": "Канада рассматривает возобновление работы посольств в Иране",
+    "title_en": "Canada Weighs Reopening Embassies in Iran, PM Carney Says",
+    "date": "2026-06-26",
+    "summary_en": "Canadian Prime Minister Mark Carney announced that Ottawa is considering reopening its embassies in Iran. Canada severed diplomatic relations with Iran in 2012. The shift would mark a significant diplomatic recalibration amid the volatile US-Iran dynamic and broader Middle East realignment.",
+    "summary": "Премьер-министр Канады Марк Карни заявил, что Оттава рассматривает возможность возобновления работы посольств в Иране. Канада разорвала дипотношения с Ираном в 2012 году. Потенциальный шаг означает серьёзную дипломатическую перекалибровку на фоне волатильной динамики между США и Ираном.",
+    "perspective": "Для Канады это сигнал готовности к самостоятельной дипломатии на Ближнем Востоке, не полностью синхронизированной с жёсткой линией США. Иран представляет это как признак ослабления международной изоляции. США — в зависимости от администрации — могут рассматривать шаг с тревогой как подрыв единого фронта.",
+    "perspective_type": "assumed",
+    "sources": [
+      "Tehran Times"
+    ],
+    "links": [
+      "https://www.tehrantimes.com/news/527643/Canada-weighs-reopening-embassies-in-Iran-Carney-says"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-26",
+    "id": "68236db79f9c"
+  },
+  {
+    "title_ru": "Путин подписывает пакет законов: кратные пошлины для мигрантов, запрет вейпов, штрафы за иностранную авторизацию",
+    "title_en": "Putin Signs Legislative Package: Higher Migrant Duties, Vape Bans, Fines for Foreign Service Authorization",
+    "date": "2026-06-27",
+    "summary_en": "Russian President Vladimir Putin signed a series of laws: a manifold increase in duties for labor migrants, granting regions the right to ban vape sales, and introducing fines for authorization through foreign online services. The package signals a tightening of migration policy, public health regulation, and digital sovereignty controls.",
+    "summary": "Президент России Владимир Путин подписал пакет законов: кратное повышение пошлин для трудовых мигрантов, право регионов запрещать продажу вейпов и введение штрафов за авторизацию через зарубежные интернет-сервисы. Пакет сигнализирует об ужесточении миграционной политики, регулировании общественного здоровья и усилении контроля за цифровым суверенитетом.",
+    "perspective": "Сторонники рассматривают законы как защиту внутреннего рынка труда, здоровья граждан и цифрового суверенитета. Критики могут видеть в них дальнейшее ограничение свобод и ужесточение изоляционистского курса. Повышение миграционных пошлин может быть воспринято в странах-донорах рабочей силы как ограничительная мера.",
+    "perspective_type": "assumed",
+    "sources": [
+      "Коммерсантъ"
+    ],
+    "links": [
+      "https://www.kommersant.ru/doc/8778504",
+      "https://www.kommersant.ru/doc/8778031",
+      "https://www.kommersant.ru/doc/8778101"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-27",
+    "id": "d0181a8fb8f9"
   }
 ]
