@@ -1,222 +1,212 @@
 [
   {
-    "title_ru": "США нанесли удары по Ирану в ответ на атаку судна в Ормузском проливе",
-    "title_en": "US strikes Iran in retaliation for vessel attack in Strait of Hormuz",
-    "date": "2026-06-26",
-    "summary": "Военные США нанесли удары по целям в Иране после атаки беспилотников на грузовое судно в Ормузском проливе. Президент Трамп обвинил Тегеран в нарушении режима прекращения огня и назвал атаку «глупым нарушением», при этом ранее он благодарил Россию и Китай за невмешательство в ситуацию с Ираном.",
-    "perspective": "Власти США позиционируют удар как вынужденную меру самообороны и ответ на нарушение договоренностей; Иран отрицает наличие прямой линии связи с США по вопросу пролива и предупреждает, что безопасность судоходства зависит от учета его интересов; внутриполитические оппоненты Трампа (например, Такер Карлсон) критикуют риторику президента как хвастовство.",
+    "title_ru": "США, Израиль и Ливан подписали рамочное соглашение по урегулированию конфликта",
+    "title_en": "US, Israel and Lebanon sign framework agreement to settle conflict",
+    "date": "2026-06-27",
+    "summary": "В Вашингтоне подписано трехстороннее рамочное соглашение между США, Израилем и Ливаном. Премьер-министр Израиля Нетаньяху назвал договор «ударом по Ирану» и заявил, что израильские войска не будут выведены из региона. В то же время движение «Хезболла» отвергло условия соглашения, предупредив о риске гражданской войны в случае попыток разоружения.",
+    "perspective": "Израиль и США рассматривают соглашение как стратегическую победу и ослабление влияния Ирана; «Хезболла» и ее сторонники воспринимают документ как угрозу суверенитету Ливана и предпосылку к внутреннему конфликту.",
     "perspective_type": "from_source",
     "sources": [
-      "The New York Times",
-      "BBC News",
-      "The Guardian",
+      "BBC",
       "TASS",
-      "IRNA",
-      "Indian Express"
+      "The Hindu",
+      "Times of India"
     ],
     "links": [
-      "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
-      "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/jun/26/us-says-it-struck-iran-targets-after-attack-on-cargo-ship-on-the-strait-of-hormuz",
-      "https://tass.com/world/2152243",
-      "https://en.irna.ir/news/86193241/Iran-warns-Strait-of-Hormuz-safety-hinges-on-addressing-its",
-      "https://indianexpress.com/article/world/tucker-carlson-donald-trump-feud-iran-war-jack-neel-podcast-maga-10759204/"
+      "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+      "https://tass.com/world/2152263",
+      "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-washington-tehran-ceasefire-strait-of-hormuz-israel-lebanon-peace-deal-live-updates-june-27-2026/article71153161.ece",
+      "https://timesofindia.indiatimes.com/world/middle-east/what-is-the-us-israel-lebanon-deal-hezbollah-warns-of-civil-war-over-disarmament-of-non-state-armed-groups/articleshow/132027257.cms"
     ],
-    "is_development": true,
-    "first_reported": "2026-06-26",
-    "id": "5f7fcf20209d"
+    "first_reported": "2026-06-27",
+    "id": "e8f3a8c09e35"
   },
   {
-    "title_ru": "Число жертв землетрясения в Венесуэле превысило 900 человек, США направляют помощь",
-    "title_en": "Venezuela earthquake death toll surpasses 900 as US pledges aid",
-    "date": "2026-06-26",
-    "summary": "Число погибших в результате разрушительных землетрясений в Венесуэле достигло 920 человек. США выделили $150 млн на ликвидацию последствий и направили регулярные войска для помощи, что было отмечено благодарностью со стороны венесуэльских властей; спасательные операции продолжаются при участии международных команд.",
-    "perspective": "США демонстрируют готовность к гуманитарному сотрудничеству даже с политическими оппонентами в регионе; власти Венесуэлы принимают помощь и выражают благодарность Вашингтону за солидарность; международное сообщество (Великобритания, Иран, Папа Римский) также оказывает поддержку, подчеркивая гуманитарный характер катастрофы.",
+    "title_ru": "Обострение конфликта США и Ирана: удары по Ирану и обвинения в нарушении перемирия",
+    "title_en": "US-Iran tensions escalate: US strikes Iran amid ceasefire violation accusations",
+    "date": "2026-06-27",
+    "summary": "США нанесли военный удар по Ирану после атаки на грузовое судно в Ормузском проливе. Президент Трамп обвинил Тегеран в нарушении перемирия, вице-президент Вэнс заявил, что «насилие встретит насилием». Иран отрицает нарушения, называет совместное заявление США и ССАГПЗ «искажением истины» и предупреждает, что безопасность пролива зависит от учета его интересов.",
+    "perspective": "Администрация США оправдывает удары как ответ на агрессию и нарушение договоренностей; Иран характеризует действия США как провокацию и подчеркивает свою правоту в вопросе безопасности судоходства.",
     "perspective_type": "from_source",
     "sources": [
-      "Kommersant",
+      "DW",
       "Vedomosti",
-      "BBC News",
-      "NPR",
-      "The Hindu"
-    ],
-    "links": [
-      "https://www.kommersant.ru/doc/8778193",
-      "https://www.vedomosti.ru/politics/news/2026/06/26/1208988-ssha-venesuele-150-mln",
-      "https://www.bbc.co.uk/news/articles/cr7xlr2ndxno?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/06/26/nx-s1-5870652/venezuela-earthquake-usaid-u-s-aid",
-      "https://www.thehindu.com/opinion/editorial/tragic-evening-on-the-earthquake-in-venezuela/article71150773.ece"
-    ],
-    "is_development": true,
-    "first_reported": "2026-06-26",
-    "id": "6b93dcafc79c"
-  },
-  {
-    "title_ru": "Трамп пригрозил ЕС пошлинами в 100% из-за налога на цифровые услуги",
-    "title_en": "Trump threatens 100% tariffs on EU over digital services tax",
-    "date": "2026-06-26",
-    "summary": "Президент США Дональд Трамп заявил о возможности введения 100-процентных пошлин против европейских стран в случае введения ими налога на цифровые услуги американских компаний. Это заявление прозвучало на фоне эскалации напряженности в торговых отношениях между Вашингтоном и Брюсселем.",
-    "perspective": "Администрация Трампа рассматривает цифровые налоги как дискриминационную меру против бизнеса США и использует тарифные угрозы как инструмент давления; европейские страны стремятся регулировать деятельность технологических гигантов через налоговые механизмы, что воспринимается Вашингтоном как враждебный акт.",
-    "perspective_type": "assumed",
-    "sources": [
-      "BBC News",
       "Kommersant",
-      "Le Monde",
-      "Belta"
+      "IRNA",
+      "Lenta"
     ],
     "links": [
-      "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
-      "https://www.kommersant.ru/doc/8778176",
-      "https://www.lemonde.fr/international/article/2026/06/26/donald-trump-menace-de-droits-de-douane-de-100-les-pays-qui-mettraient-en-place-une-taxation-des-services-numeriques_6715908_3210.html",
-      "https://belta.by/world/view/tramp-prigrozil-evrope-poshlinami-v-100-pri-vvedenii-naloga-na-tsifrovye-uslugi-kompanij-ssha-788447-2026/"
+      "https://rss.dw.com/en/iran-war-us-military-hits-iran-over-cargo-vessel-attack/live-77729995?maca=en-rss-en-all-1573-xml-mrss",
+      "https://www.vedomosti.ru/politics/news/2026/06/27/1209307-ssha-nanesli-udar",
+      "https://www.kommersant.ru/doc/8778137",
+      "https://en.irna.ir/news/86193312/Iran-slams-joint-US-PGCC-statement-as-distortion-of-truth",
+      "https://lenta.ru/news/2026/06/27/vitse-prezident-ssha-poobeschal-otvechat-iranu-nasiliem-na-nasilie/"
     ],
-    "is_development": false,
-    "first_reported": "2026-06-26",
-    "id": "239562dec5da"
+    "first_reported": "2026-06-27",
+    "id": "16e6743004aa"
   },
   {
-    "title_ru": "Путин и Лукашенко провели длительные переговоры на Валдае",
-    "title_en": "Putin and Lukashenko hold extended talks at Valdai",
-    "date": "2026-06-26",
-    "summary": "Президенты России и Беларуси Владимир Путин и Александр Лукашенко провели встречу на Валдае, которая продлилась более 4,5 часов. Параллельно Лукашенко подписал указ об упрощении импорта военной продукции из России, что свидетельствует о дальнейшем углублении военно-технической интеграции.",
-    "perspective": "Москва и Минск демонстрируют приверженность союзническим обязательствам и углублению интеграционных процессов, несмотря на внешнее давление; западные наблюдатели могут расценивать это как подтверждение участия Беларуси в поддержке российских военных усилий.",
-    "perspective_type": "assumed",
+    "title_ru": "Массированные атаки БПЛА на регионы России и Москву",
+    "title_en": "Massive drone attacks on Russian regions and Moscow",
+    "date": "2026-06-27",
+    "summary": "За последние сутки силы ПВО РФ перехватили сотни украинских беспилотников над территорией страны. Только на подлете к Москве за два дня было сбито более 60 БПЛА, всего по регионам — 175 за ночь. Зафиксированы жертвы среди гражданского населения в Брянской области и пострадавшие в Волгограде.",
+    "perspective": "Российские источники сообщают об успешной работе ПВО и террористическом характере атак со стороны Украины; украинская сторона (в данном наборе новостей) не комментирует конкретные цели, но факт атак подтверждается российскими официальными лицами.",
+    "perspective_type": "from_source",
     "sources": [
+      "Kommersant",
       "TASS",
+      "Vedomosti",
+      "Lenta"
+    ],
+    "links": [
+      "https://www.kommersant.ru/doc/8778528",
+      "https://tass.ru/armiya-i-opk/27862915",
+      "https://www.vedomosti.ru/politics/news/2026/06/27/1209335-sili-pvo-za-noch",
+      "https://lenta.ru/news/2026/06/27/esche-chetyre-bespilotnika-vsu-sbili-na-podlete-k-moskve/"
+    ],
+    "first_reported": "2026-06-27",
+    "id": "597ed82785d2"
+  },
+  {
+    "title_ru": "Разрушительные землетрясения в Венесуэле: более 900 погибших и международная помощь",
+    "title_en": "Devastating earthquakes in Venezuela: over 900 dead and international aid",
+    "date": "2026-06-27",
+    "summary": "Серия мощных землетрясений в Венесуэле привела к гибели более 920 человек, свыше 50 тысяч числятся пропавшими без вести. США выделили $150 млн помощи и направили спасателей, что стало проверкой новых отношений между странами. Индия также отправила медицинскую помощь трансконтинентальными рейсами.",
+    "perspective": "Международное сообщество и США демонстрируют гуманитарную солидарность, используя катастрофу для укрепления связей с Каракасом; власти Венесуэлы благодарят за помощь, признавая масштаб трагедии.",
+    "perspective_type": "from_source",
+    "sources": [
+      "NYT",
+      "BBC",
+      "TASS",
+      "Indian Express",
       "Kommersant"
     ],
     "links": [
-      "https://tass.ru/mezhdunarodnaya-panorama/27862295",
-      "https://www.kommersant.ru/doc/8778164",
-      "https://www.kommersant.ru/doc/8778026"
+      "https://rss.nytimes.com/2026/06/26/us/politics/trump-venezuela-earthquake-aid.html",
+      "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+      "https://tass.com/emergencies/2152265",
+      "https://indianexpress.com/article/india/venezuela-reels-after-deadly-quakes-india-sends-transcontinental-flights-with-medical-aid-10759491/",
+      "https://www.kommersant.ru/doc/8765309"
     ],
-    "is_development": false,
-    "first_reported": "2026-06-26",
-    "id": "546c9b38dbe1"
+    "first_reported": "2026-06-27",
+    "id": "e077a4682b7a"
   },
   {
-    "title_ru": "Массированная атака БПЛА на Россию: ПВО сбила сотни дронов",
-    "title_en": "Massive drone assault on Russia: Air defense downs hundreds of UAVs",
-    "date": "2026-06-26",
-    "summary": "Российские силы ПВО сообщили о рекордном количестве сбитых украинских беспилотников: только за одну ночь было уничтожено 660 БПЛА, еще десятки были перехвачены днем на подлете к Москве. Атака затронула множество регионов и стала одной из самых масштабных за время конфликта.",
-    "perspective": "Российская сторона акцентирует внимание на эффективности работы ПВО и массированном характере атак; украинская сторона и западные эксперты могут указывать на то, что такие атаки выявляют уязвимости в российской системе обороны и создают нагрузку на тыловую инфраструктуру.",
-    "perspective_type": "from_source",
-    "sources": [
-      "Kommersant",
-      "Vedomosti",
-      "Indian Express",
-      "DW"
-    ],
-    "links": [
-      "https://www.kommersant.ru/doc/8765405",
-      "https://www.vedomosti.ru/politics/news/2026/06/26/1209009-sili-pvo",
-      "https://indianexpress.com/article/world/russia-reports-the-biggest-ukrainian-drone-attacks-on-its-soil-10758548/",
-      "https://www.dw.com/en/are-ukraine-drones-really-exposing-gaps-in-russia-s-defense/a-77639467?maca=en-rss-en-all-1573-xml-mrss"
-    ],
-    "is_development": true,
-    "first_reported": "2026-06-26",
-    "id": "37f8996afc6b"
-  },
-  {
-    "title_ru": "Дипломатический конфликт России с Молдавией и Румынией",
-    "title_en": "Russia's diplomatic row with Moldova and Romania escalates",
-    "date": "2026-06-26",
-    "summary": "МИД России вызвал посла Молдавии после задержания дипкурьеров в Кишиневе и рекомендовал россиянам воздержаться от поездок в страну. Одновременно Россия закрыла консульство Румынии в Санкт-Петербурге в ответ на аналогичные действия Бухареста, что привело к вызову румынского посла.",
-    "perspective": "Москва характеризует действия Кишинева и Бухареста как недружественные и нарушающие дипломатические нормы; Молдавия и Румыния, вероятно, рассматривают свои шаги как меры безопасности или симметричные ответы на предыдущие действия РФ.",
+    "title_ru": "Путин подписал пакет законов: повышение пошлин для мигрантов и штрафы за зарубежные сервисы",
+    "title_en": "Putin signs laws: increased fees for migrants and fines for foreign services",
+    "date": "2026-06-27",
+    "summary": "Президент РФ Владимир Путин подписал закон о кратном повышении пошлин для мигрантов, а также закон о штрафах за авторизацию через зарубежные цифровые сервисы. Одновременно введен запрет на депортацию иностранцев, служивших в российской армии. Также глава государства провел встречу с Александром Лукашенко на Валдае.",
+    "perspective": "Власти РФ позиционируют меры как укрепление суверенитета и регулирование миграции; критики могут рассматривать это как ужесточение внутренней политики и изоляцию цифрового пространства.",
     "perspective_type": "assumed",
     "sources": [
       "Kommersant",
-      "Lenta.ru",
       "Vedomosti"
     ],
     "links": [
-      "https://www.kommersant.ru/doc/8777772",
-      "https://lenta.ru/news/2026/06/26/v-mid-vypustili-zayavlenie-na-fone-vyzova-posla-moldavii/",
-      "https://www.kommersant.ru/doc/8764998",
-      "https://www.vedomosti.ru/politics/news/2026/06/25/1208690-posol-ruminii-vizvan"
+      "https://www.kommersant.ru/doc/8778504",
+      "https://www.kommersant.ru/doc/8778101",
+      "https://www.kommersant.ru/doc/8778095",
+      "https://www.kommersant.ru/doc/8778164"
     ],
-    "is_development": false,
-    "first_reported": "2026-06-26",
-    "id": "ade9caa31891"
+    "first_reported": "2026-06-27",
+    "id": "d2207c24fe6c"
   },
   {
-    "title_ru": "Европу накрыла смертельная жара, бьющая температурные рекорды",
-    "title_en": "Deadly heatwave smashes temperature records across Europe",
-    "date": "2026-06-26",
-    "summary": "Аномальная жара в Европе привела к человеческим жертвам во Франции и Германии, побитию исторических температурных рекордов и ограничению общественных мероприятий. В Париже запрещена продажа алкоголя и спортивные события, в Великобритании температура превысила рекорд 1976 года.",
-    "perspective": "Экологи и левые политические силы связывают событие с климатическим кризисом и неравенством, отмечая, что бедные слои населения страдают сильнее всего; власти вынуждены принимать экстренные меры адаптации, признавая системный характер проблемы.",
-    "perspective_type": "from_source",
+    "title_ru": "Трамп представил дизайн паспорта США со своим портретом и пригрозил ЕС пошлинами",
+    "title_en": "Trump unveils passport design with his portrait and threatens EU with tariffs",
+    "date": "2026-06-27",
+    "summary": "Дональд Трамп продемонстрировал дизайн юбилейного паспорта США к 250-летию страны со своим изображением. Параллельно он пригрозил Евросоюзу 100%-ными пошлинами в ответ на налог на цифровые услуги и назвал коммунизм главной угрозой для США за 250 лет.",
+    "perspective": "Сторонники Трампа видят в этом патриотизм и защиту экономических интересов США; оппоненты и европейские партнеры могут воспринимать это как персонализацию власти и эскалацию торговых войн.",
+    "perspective_type": "assumed",
     "sources": [
-      "BBC News",
-      "The Guardian",
-      "The New York Times"
+      "Ukrinform",
+      "Vedomosti",
+      "Kommersant",
+      "Lenta"
     ],
     "links": [
-      "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/environment/2026/jun/26/europe-heatwave-shift-east-child-deaths-france-cities-heat-stress",
-      "https://www.nytimes.com/2026/06/26/world/europe/france-heat-alcohol-paris-ban.html"
+      "https://www.ukrinform.ua/rubric-world/4138185-tramp-pokazav-dizajn-uvilejnogo-pasporta-ssa-zi-svoim-zobrazennam.html",
+      "https://www.vedomosti.ru/politics/news/2026/06/27/1209312-tramp-predstavil-dizain",
+      "https://www.kommersant.ru/doc/8778176",
+      "https://lenta.ru/news/2026/06/26/tramp-nazval-ssha-stranoy-tretiego-mira/"
     ],
-    "is_development": false,
-    "first_reported": "2026-06-26",
-    "id": "57f20f086aa4"
+    "first_reported": "2026-06-27",
+    "id": "ca06e2748382"
   },
   {
-    "title_ru": "Кремль заявил о кризисе мировой системы из-за навязывания правил Западом",
-    "title_en": "Kremlin claims global system in crisis due to West imposing rules",
-    "date": "2026-06-26",
-    "summary": "Помощник президента РФ заявил, что попытки Запада создавать и навязывать правила всему миру свидетельствуют о системном кризисе. Параллельно МИД РФ сообщил, что концепция европейской безопасности «рассыпалась», и анонсировал пересмотр отношений с ЕС после достижения целей СВО.",
-    "perspective": "Российское руководство последовательно продвигает нарратив о крахе западноцентричного миропорядка и необходимости формирования новой архитектуры безопасности; западные страны, напротив, настаивают на сохранении правил международного права и институтов, созданных после Второй мировой войны.",
-    "perspective_type": "from_source",
-    "sources": [
-      "TASS"
-    ],
-    "links": [
-      "https://tass.com/politics/2152081",
-      "https://tass.ru/politika/27862439",
-      "https://tass.ru/politika/27862423"
-    ],
-    "is_development": false,
-    "first_reported": "2026-06-26",
-    "id": "50997dc4bec3"
-  },
-  {
-    "title_ru": "Иран отвергает совместное заявление США и ССАГПЗ, называя его вмешательством",
-    "title_en": "Iran rejects joint US-GCC statement as interventionist",
-    "date": "2026-06-26",
-    "summary": "Тегеран резко осудил совместное заявление США и Совета сотрудничества арабских государств Персидского залива, назвав его «искажением истины» и «безответственным вмешательством». Иран продолжает защищать свою доктрину региональной безопасности и укреплять связи с соседями, включая Армению и Узбекистан.",
-    "perspective": "Иран воспринимает любые многосторонние форматы с участием США в регионе как угрозу своему суверенитету и влиянию; США и страны Залива видят в таких заявлениях инструмент сдерживания иранской активности и стабилизации региональной безопасности.",
+    "title_ru": "Иран активизирует дипломатию и экономические связи на фоне конфликта",
+    "title_en": "Iran boosts diplomacy and economic ties amid conflict",
+    "date": "2026-06-27",
+    "summary": "Несмотря на военное противостояние с США, Иран проводит активную дипломатическую работу: обсуждается сотрудничество в энергетике с ЮАР и Индией, достигнуто предварительное соглашение с Китаем по железнодорожной таможне. Тегеран также подчеркивает важность взаимодействия в рамках БРИКС для обеспечения энергобезопасности.",
+    "perspective": "Иран стремится показать эффективность своей внешней политики и способность находить партнеров вопреки давлению Запада; западные наблюдатели отмечают зависимость этих процессов от исхода военного конфликта.",
     "perspective_type": "from_source",
     "sources": [
       "Tehran Times",
       "IRNA"
     ],
     "links": [
-      "https://www.tehrantimes.com/news/527641/Iran-rejects-US-PGCC-declaration-defends-regional-security-doctrine",
-      "https://en.irna.ir/news/86193312/Iran-slams-joint-US-PGCC-statement-as-distortion-of-truth",
-      "https://en.irna.ir/news/86193070/Iran-slams-US-PGCC-statement-as-interventionist-irresponsible"
+      "https://www.tehrantimes.com/news/527652/Iran-South-Africa-emphasize-development-of-cooperation-in-energy",
+      "https://www.tehrantimes.com/news/527650/Iran-China-reach-preliminary-agreement-to-sign-railway-customs",
+      "https://www.tehrantimes.com/news/527632/Iran-India-emphasize-expansion-of-oil-trade-cooperation",
+      "https://www.tehrantimes.com/news/527629/Oil-minister-stresses-BRICS-cooperation-to-achieve-energy-security"
     ],
-    "is_development": false,
-    "first_reported": "2026-06-26",
-    "id": "77ec821f0308"
+    "first_reported": "2026-06-27",
+    "id": "4fe7b7760496"
   },
   {
-    "title_ru": "Путин подписал закон о запрете депортации иностранцев, служивших в армии РФ",
-    "title_en": "Putin signs law banning deportation of foreigners who served in Russian army",
-    "date": "2026-06-26",
-    "summary": "Владимир Путин подписал закон, запрещающий депортацию из России иностранцев, проходивших службу в российской армии. Также был подписан закон о штрафах за авторизацию через зарубежные сервисы и увеличении штатной численности МЧС до 307 тысяч человек.",
-    "perspective": "Власти РФ стимулируют интеграцию иностранных граждан через военную службу и усиливают цифровой суверенитет; правозащитники и оппозиция могут критиковать эти меры как создание привилегированного класса мигрантов и ужесточение контроля над информационным пространством.",
-    "perspective_type": "assumed",
+    "title_ru": "Рекордная жара в Европе: политические дебаты о климате и адаптации",
+    "title_en": "Record heatwave in Europe: political debates on climate and adaptation",
+    "date": "2026-06-27",
+    "summary": "Европа переживает сильнейшую жару, побившую температурные рекорды в Германии и Великобритании. Во Франции отменены публичные мероприятия, есть жертвы среди детей. Политическая дискуссия разделилась: одни призывают к климатическим действиям, другие фокусируются на установке кондиционеров как мере адаптации.",
+    "perspective": "Экологи и левые партии указывают на необходимость борьбы с изменением климата; консервативные политики и часть общественности акцентируют внимание на практической адаптации инфраструктуры.",
+    "perspective_type": "from_source",
     "sources": [
-      "Kommersant",
-      "Lenta.ru"
+      "BBC",
+      "The Guardian",
+      "NYT",
+      "DW"
     ],
     "links": [
-      "https://www.kommersant.ru/doc/8778095",
-      "https://lenta.ru/news/2026/06/26/putin-zapretil-deportirovat-iz-rossii-odnu-kategoriyu-inostrantsev/",
-      "https://www.kommersant.ru/doc/8778101"
+      "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/environment/live/2026/jun/26/europe-heatwave-extreme-heat-red-alert-weather-uk-england-france-climate-crisis-latest-news-updates",
+      "https://rss.nytimes.com/2026/06/26/world/europe/europe-heat-climate-change-politics.html",
+      "https://rss.dw.com/en/european-heat-wave-is-not-normal-summer-weather/a-77693716?maca=en-rss-en-all-1573-xml-mrss"
     ],
-    "is_development": false,
+    "first_reported": "2026-06-27",
+    "id": "c759f9d2424e"
+  },
+  {
+    "title_ru": "Беларусь обратится в Совбез ООН из-за заявлений Киева против Минска",
+    "title_en": "Belarus to draw UNSC’s attention to Kiev’s aggressive statements against Minsk",
+    "date": "2026-06-26",
+    "summary": "Беларусь намерена привлечь внимание Совета Безопасности ООН к агрессивным заявлениям Киева в адрес Минска. Это происходит на фоне продолжающегося конфликта в регионе и усиления интеграции Беларуси и России, включая упрощение импорта военной продукции.",
+    "perspective": "Минск позиционирует свои действия как защиту национальной безопасности в международной инстанции; Киев и западные страны, вероятно, рассматривают это как информационную поддержку Россией военных действий.",
+    "perspective_type": "assumed",
+    "sources": [
+      "TASS",
+      "Kommersant"
+    ],
+    "links": [
+      "https://tass.com/world/2152161",
+      "https://www.kommersant.ru/doc/8778026"
+    ],
     "first_reported": "2026-06-26",
-    "id": "61b5463d5d44"
+    "id": "8ba671e42461"
+  },
+  {
+    "title_ru": "Страны БРИКС договорились укреплять сотрудничество в сфере энергобезопасности",
+    "title_en": "BRICS countries agree to strengthen cooperation on energy security",
+    "date": "2026-06-26",
+    "summary": "Страны БРИКС достигли соглашения об усилении кооперации в вопросах энергетической безопасности. Это решение принято на фоне глобальной нестабильности и конфликтов, затрагивающих энергетические рынки, включая ситуацию вокруг Ирана и Ормузского пролива.",
+    "perspective": "Участники БРИКС видят в этом шаг к созданию альтернативной системы глобальной энергобезопасности; западные аналитики могут оценивать это как попытку консолидации антизападного блока.",
+    "perspective_type": "assumed",
+    "sources": [
+      "TASS"
+    ],
+    "links": [
+      "https://tass.com/world/2152193"
+    ],
+    "first_reported": "2026-06-26",
+    "id": "df5e6d5582b3"
   }
 ]
