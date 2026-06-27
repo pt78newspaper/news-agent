@@ -136,8 +136,9 @@ def generate_html(events, config, usage=None, api_key=None):
     html = html.replace("__TOTAL_SOURCES__", str(sum(len(e.get("sources", [])) for e in events)))
     html = html.replace("__REGIONS_COVERED__", str(len(set(s for e in events for s in e.get("sources", [])))))
     html = html.replace("__STORIES__", stories_html)
-    html = html.replace("__AI_MODEL__", "Qwen 3.7 Max")
-    html = html.replace("__AI_BADGE__", '<span class="ai-badge">AI: Qwen 3.7 Max</span>')
+    from news_agent.ai_summarizer import MODEL as AI_MODEL_NAME
+    html = html.replace("__AI_MODEL__", AI_MODEL_NAME)
+    html = html.replace("__AI_BADGE__", f'<span class="ai-badge">AI: {AI_MODEL_NAME}</span>')
     html = html.replace("__SYSTEM_PROMPT__", get_system_prompt())
     html = html.replace("__COUNTRIES_LIST__", countries_list)
     html = html.replace("__SOURCES_HTML__", sources_html)
@@ -179,7 +180,7 @@ def main():
     usage = None
     events = None
     if api_key:
-        events, usage = summarize_news(clusters[:15], api_key, history)
+        events, usage = summarize_news(clusters[:7], api_key, history)
         if usage:
             stats = load_json(STATS_FILE, {"total_tokens": 0, "total_cost": 0})
             stats["total_tokens"] += usage.get("tokens", 0)
