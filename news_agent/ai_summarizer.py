@@ -17,21 +17,19 @@ USER_PROMPT_TEMPLATE = (
     "Если событие уже было в прошлом выпуске и нет новых важных подробностей — пропусти его. "
     "Если есть существенное развитие — включи, укажи это.\n"
     "4. Если событий больше 7 — выбери 7 самых важных. Если меньше 7 — оставь сколько есть.\n"
-    "5. Для каждого события обязательно укажи ссылки на источники (только из списка выше).\n"
-    "6. В поле perspective напиши, как событие может оцениваться разными политическими силами "
+    "5. Для каждого события напиши краткую суть (2-3 предложения) на английском (поле summary_en) и на русском (поле summary).\n"
+    "6. Для каждого события обязательно укажи ссылки на источники (только из списка выше).\n"
+    "7. В поле perspective напиши, как событие может оцениваться разными политическими силами "
     "(только если это следует из новостей; если неясно — укажи 'неясно').\n"
-    "7. Поле perspective_type: 'from_source' если оценка из источника, "
+    "8. Поле perspective_type: 'from_source' если оценка из источника, "
     "'assumed' если ты её предполагаешь, 'unclear' если неясно.\n"
     "{history_block}"
 )
 
 
 def get_system_prompt():
-    return (
-        "Системная роль: " + SYS_PROMPT + "\n\n"
-        "Промт пользователя:\n" + USER_PROMPT_TEMPLATE.replace("{news_block}", "<новости из RSS>")
-            .replace("{history_block}", "<история предыдущих выпусков>")
-    )
+    prompt = USER_PROMPT_TEMPLATE.replace("{news_block}", "<новости из RSS>").replace("{history_block}", "<история предыдущих выпусков>")
+    return "Системная роль: " + SYS_PROMPT + "\n\nПромт пользователя:\n" + prompt
 
 
 def summarize_news(clusters, api_key, history=None):
@@ -92,6 +90,10 @@ def summarize_news(clusters, api_key, history=None):
                                         "type": "string",
                                         "description": "Дата события"
                                     },
+                                    "summary_en": {
+                                        "type": "string",
+                                        "description": "Summary in English, 2-3 sentences"
+                                    },
                                     "summary": {
                                         "type": "string",
                                         "description": "Суть на русском, 2-3 предложения"
@@ -119,7 +121,7 @@ def summarize_news(clusters, api_key, history=None):
                                         "description": "True если это развитие ранее освещённого события"
                                     }
                                 },
-                                "required": ["title_ru", "title_en", "date", "summary",
+                                "required": ["title_ru", "title_en", "date", "summary_en", "summary",
                                              "perspective", "perspective_type", "sources", "links"]
                             }
                         }
