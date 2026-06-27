@@ -161,7 +161,8 @@ def main():
     print("NewsAgentPT78")
     print("=" * 40)
     if api_key:
-        print("  AI: GPTunnel (qwen3.7-max) enabled")
+        from news_agent.ai_summarizer import MODEL
+        print(f"  AI: GPTunnel ({MODEL}) enabled")
     else:
         print("  AI: DISABLED (no API key)")
 
