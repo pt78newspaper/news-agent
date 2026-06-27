@@ -133,7 +133,7 @@ def summarize_news(clusters, api_key, history=None):
         "tool_choice": "auto",
         "temperature": 0.3,
         "max_tokens": 16384
-    }, timeout=120)
+    }, timeout=300)
 
     if resp.status_code != 200:
         print(f"  [AI ERROR] {resp.status_code}: {resp.text[:200]}")
