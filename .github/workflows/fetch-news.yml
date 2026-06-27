@@ -27,7 +27,12 @@ jobs:
         run: |
           git fetch --depth=1 origin gh-pages
           if git show-ref --verify refs/remotes/origin/gh-pages 2>/dev/null; then
-            git checkout gh-pages -- output/history.json 2>/dev/null || echo "no history yet"
+            git checkout gh-pages -- history.json 2>/dev/null
+            mkdir -p output
+            mv history.json output/ 2>/dev/null
+            echo "history loaded"
+          else
+            echo "no gh-pages branch yet"
           fi
 
       - name: Run agent
