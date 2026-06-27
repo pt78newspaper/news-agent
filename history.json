@@ -184,5 +184,195 @@
     "is_development": false,
     "first_reported": "2026-06-27",
     "id": "dcfe66809176"
+  },
+  {
+    "title_ru": "Военная эскалация между США и Ираном: взаимные удары после атаки на судно в Ормузском проливе",
+    "title_en": "US-Iran Military Escalation: Mutual Strikes After Attack on Vessel in Strait of Hormuz",
+    "date": "2026-06-27",
+    "summary_en": "The US launched strikes on Iranian military targets in retaliation for a drone attack on the cargo vessel MV Ever Lovely in the Strait of Hormuz. President Trump accused Iran of a 'foolish violation' of the ceasefire. Iran's Revolutionary Guards responded with retaliatory strikes on US-linked targets, and the US released footage of its strikes.",
+    "summary": "США нанесли удары по иранским военным объектам в ответ на атаку беспилотника на грузовое судно MV Ever Lovely в Ормузском проливе. Президент Трамп обвинил Иран в «безрассудном нарушении» перемирия. Корпус стражей исламской революции Ирана нанёс ответные удары по объектам, связанным с США. Американская сторона опубликовала видеозапись своих ударов.",
+    "perspective": "США рассматривают свои действия как ответ на нарушение перемирия Ираном. Иран, в свою очередь, обвиняет США в «вопиющем нарушении» мирного соглашения и настаивает на своём праве на самооборону. Ситуация знаменует крах трёхмесячного режима прекращения огня. NYT характеризует три месяца войны как «навсегда изменившие Залив».",
+    "perspective_type": "from_source",
+    "sources": [
+      "BBC",
+      "The Guardian",
+      "NPR",
+      "The New York Times",
+      "DW",
+      "The Hindu",
+      "Indian Express",
+      "TASS",
+      "Times of India",
+      "CBC"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/ckg590wqxwpo",
+      "https://www.theguardian.com/world/2026/jun/26/us-says-it-struck-iran-targets-after-attack-on-cargo-ship-on-the-strait-of-hormuz",
+      "https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran",
+      "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
+      "https://www.dw.com/en/iran-war-us-military-hits-iran-over-cargo-vessel-attack/live-77729995",
+      "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-washington-tehran-ceasefire-strait-of-hormuz-israel-lebanon-peace-deal-live-updates-june-27-2026/article71153161.ece",
+      "https://indianexpress.com/article/world/iran-strikes-us-linked-targets-retaliation-american-airstrikes-10760084/",
+      "https://tass.com/world/2152243",
+      "https://timesofindia.indiatimes.com/world/us/watch-us-releases-footage-of-retaliatory-strikes-on-iran-military-sites/articleshow/132028230.cms",
+      "https://www.cbc.ca/news/world/trump-blames-iran-drone-strike-9.7250777?cmp=rss"
+    ],
+    "is_development": true,
+    "first_reported": "2026-06-27",
+    "id": "91fbf5835504"
+  },
+  {
+    "title_ru": "Землетрясения в Венесуэле: число погибших приближается к 1000, более 50 000 пропавших без вести",
+    "title_en": "Venezuela Earthquakes: Death Toll Nears 1,000, Over 50,000 Missing",
+    "date": "2026-06-27",
+    "summary_en": "The death toll from twin earthquakes in Venezuela has risen to approximately 920–1,000, with over 50,000 people reported missing according to the UN. A new 4.9-magnitude aftershock struck two days after the initial quakes. International rescue teams have arrived, and the US has pledged generous relief aid. Venezuelan President Rodriguez thanked the US for its assistance.",
+    "summary": "Число погибших в результате двойного землетрясения в Венесуэле достигло 920–1000 человек, более 50 000 числятся пропавшими без вести, по данным ООН. Новый подземный толчок магнитудой 4,9 произошёл через два дня после первых землетрясений. В страну прибыли международные спасательные команды. Президент Венесуэлы Родригес поблагодарил США за помощь. Выжившие ночуют в машинах и под деревьями.",
+    "perspective": "NYT отмечает, что землетрясения испытывают на прочность недавно наладившиеся отношения США и Венесуэлы. Гуманитарная катастрофа усугубляется тем, что система здравоохранения Венесуэлы находилась в кризисе ещё до землетрясений. Международное сообщество мобилизует помощь; Иран выразил соболезнования.",
+    "perspective_type": "from_source",
+    "sources": [
+      "The New York Times",
+      "The Hindu",
+      "The Guardian",
+      "NPR",
+      "TASS",
+      "Indian Express",
+      "Times of India",
+      "DW"
+    ],
+    "links": [
+      "https://www.nytimes.com/2026/06/26/us/politics/trump-venezuela-earthquake-aid.html",
+      "https://www.nytimes.com/2026/06/26/world/americas/venezuela-earthquake-rescue-teams-countries.html",
+      "https://www.thehindu.com/news/international/venezuela-earthquake-survivors-sleep-in-cars-and-under-trees-as-they-question-where-theyll-live-after-the-earthquakes/article71152080.ece",
+      "https://www.theguardian.com/world/2026/jun/26/hunt-survivors-brutal-venezuela-earthquake",
+      "https://www.npr.org/2026/06/26/nx-s1-5870652/venezuela-earthquake-usaid-u-s-aid",
+      "https://tass.com/emergencies/2152203",
+      "https://indianexpress.com/article/world/venezuela-earthquake-death-toll-rescue-trapped-10759533/",
+      "https://timesofindia.indiatimes.com/world/rest-of-world/death-dust-and-desperation-venezuelas-twin-earthquakes-leave-nearly-1000-dead-trail-of-despair-watch/articleshow/132027578.cms"
+    ],
+    "is_development": true,
+    "first_reported": "2026-06-27",
+    "id": "b62c361a1cdd"
+  },
+  {
+    "title_ru": "Массированные атаки украинских БПЛА на российские регионы: 175 сбито за ночь",
+    "title_en": "Massive Ukrainian Drone Attacks on Russian Regions: 175 Shot Down Overnight",
+    "date": "2026-06-27",
+    "summary_en": "Russian air defense systems shot down 175 Ukrainian drones over various regions in one night, including 108 over Kursk region and 51 near Moscow. Additionally, 34 drones were destroyed over Kherson region and 15 over the DPR by the 'Donbass Dome' system. Civilian casualties were reported: one woman killed in Gorlovka, a teenager injured in the DPR. Drone strikes also caused a fire destroying 15 hectares of wheat fields in Kherson region.",
+    "summary": "Российские силы ПВО за ночь сбили 175 украинских БПЛА над регионами России, в том числе 108 над Курской областью и 51 на подлёте к Москве. За сутки над Херсонской областью уничтожено 34 беспилотника, системой «Купол Донбасса» — 15 над ДНР. Сообщается о жертвах: женщина погибла при ударе по Горловке, подросток пострадал в ДНР. В Херсонской области от удара БПЛА выгорело 15 га пшеницы.",
+    "perspective": "Российские источники акцентируют эффективность ПВО и фиксируют гражданские жертвы как результат украинских атак. Украинская сторона в представленных новостях не цитируется. Нарастающая интенсивность атак БПЛА указывает на продолжение войны на истощение с акцентом на удары вглубь территории.",
+    "perspective_type": "from_source",
+    "sources": [
+      "TASS",
+      "Kommersant",
+      "Lenta.ru",
+      "Vedomosti"
+    ],
+    "links": [
+      "https://tass.ru/proisshestviya/27863159",
+      "https://tass.ru/proisshestviya/27862967",
+      "https://tass.ru/proisshestviya/27862915",
+      "https://www.kommersant.ru/doc/8778528",
+      "https://www.kommersant.ru/doc/8778167",
+      "https://www.kommersant.ru/doc/8778538",
+      "https://www.vedomosti.ru/politics/news/2026/06/27/1209335-sili-pvo-za-noch",
+      "https://lenta.ru/news/2026/06/27/nazvano-chislo-sbityh-za-noch-nad-rossiyskimi-regionami-bespilotnikov-vsu/"
+    ],
+    "is_development": true,
+    "first_reported": "2026-06-27",
+    "id": "6862c693edbe"
+  },
+  {
+    "title_ru": "Дипломатическая активность Ирана: отпор декларации США-ССАГПЗ и предупреждение по Ормузскому проливу",
+    "title_en": "Iran's Diplomatic Offensive: Rejects US-PGCC Declaration, Warns on Strait of Hormuz",
+    "date": "2026-06-27",
+    "summary_en": "Iran rejected the joint US-PGCC (Persian Gulf Cooperation Council) declaration as 'interventionist, irresponsible, and provocative.' Iran's Foreign Ministry warned that the safety of the Strait of Hormuz depends on addressing Iran's concerns. Meanwhile, Canada is considering reopening embassies in Iran, and Iranian Foreign Minister held talks with the UK on implementing the Islamabad MoU. Iran also discussed expanding oil and trade cooperation with India, and engaged diplomatically with UAE, Uzbekistan, Armenia, and Romania.",
+    "summary": "Иран отверг совместную декларацию США и Совета сотрудничества арабских государств Персидского залива, назвав её «интервенционистской, безответственной и провокационной». МИД Ирана предупредил, что безопасность Ормузского пролива зависит от учёта иранских озабоченностей. Параллельно Канада рассматривает возможность возобновления работы посольств в Иране, а главы МИД Ирана и Великобритании обсудили реализацию Исламабадского меморандума. Иран также провёл переговоры с Индией о расширении нефтяного и торгового сотрудничества, а также с ОАЭ, Узбекистаном, Арменией и Румынией.",
+    "perspective": "Иран демонстрирует одновременно жёсткую риторику в адрес США и их союзников и дипломатическую открытость с другими странами. Канадское рассмотрение открытия посольств и диалог с Великобританией могут свидетельствовать о попытках западных стран сохранить каналы связи на фоне военной эскалации. Италия, в свою очередь, отвергла заявление генсека НАТО о помощи США против Ирана.",
+    "perspective_type": "from_source",
+    "sources": [
+      "Tehran Times",
+      "IRNA",
+      "Times of India"
+    ],
+    "links": [
+      "https://www.tehrantimes.com/news/527641/Iran-rejects-US-PGCC-declaration-defends-regional-security-doctrine",
+      "https://en.irna.ir/news/86193241/Iran-warns-Strait-of-Hormuz-safety-hinges-on-addressing-its",
+      "https://en.irna.ir/news/86193360/Iran-UK-top-diplomats-discuss-implementation-of-Islamabad-MoU",
+      "https://en.irna.ir/news/86193070/Iran-slams-US-PGCC-statement-as-interventionist-irresponsible",
+      "https://en.irna.ir/news/86192872/Italian-foreign-minister-rejects-NATO-chief-s-claim-on-assisting",
+      "https://www.tehrantimes.com/news/527643/Canada-weighs-reopening-embassies-in-Iran-Carney-says",
+      "https://www.tehrantimes.com/news/527632/Iran-India-emphasize-expansion-of-oil-trade-cooperation"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-27",
+    "id": "1db317ae4d95"
+  },
+  {
+    "title_ru": "Смерть Сергея Иванова: Путин выразил соболезнования",
+    "title_en": "Death of Sergei Ivanov: Putin Expresses Condolences",
+    "date": "2026-06-27",
+    "summary_en": "Sergei Ivanov, former head of Putin's presidential administration and once seen as a potential successor, has died at 73. President Putin expressed condolences to Ivanov's family. Ivanov was a key figure in Russia's political elite, having served as Defense Minister and Chief of the Presidential Administration.",
+    "summary": "Сергей Иванов, бывший глава администрации президента Путина и некогда рассматривавшийся как потенциальный преемник, скончался в возрасте 73 лет. Владимир Путин выразил соболезнования близким Иванова. Иванов был одной из ключевых фигур российской политической элиты, занимал посты министра обороны и руководителя администрации президента.",
+    "perspective": "Смерть Иванова знаменует уход одного из «тяжеловесов» путинской эпохи. Times of India отмечает его прежний статус потенциального преемника Путина, что подчёркивает его историческую роль в транзите власти, который в итоге пошёл по иному сценарию.",
+    "perspective_type": "from_source",
+    "sources": [
+      "Times of India",
+      "Kommersant"
+    ],
+    "links": [
+      "https://timesofindia.indiatimes.com/world/rest-of-world/sergei-ivanov-once-seen-as-putins-potential-successor-dies-at-73/articleshow/132028305.cms",
+      "https://www.kommersant.ru/doc/8777940"
+    ],
+    "is_development": true,
+    "first_reported": "2026-06-27",
+    "id": "f4477396f286"
+  },
+  {
+    "title_ru": "Путин встретился с Лукашенко на Валдае",
+    "title_en": "Putin Meets Lukashenko at Valdai",
+    "date": "2026-06-26",
+    "summary_en": "Russian President Vladimir Putin held a meeting with Belarusian leader Alexander Lukashenko at the Valdai residence. The meeting took place amid ongoing military tensions with Ukraine and the wider geopolitical confrontation with the West. No details of the discussions were disclosed in the available reports.",
+    "summary": "Президент России Владимир Путин провёл встречу с Александром Лукашенко на Валдае. Встреча прошла на фоне продолжающейся военной напряжённости и массированных атак БПЛА на российские регионы. Подробности переговоров в доступных сообщениях не раскрываются.",
+    "perspective": "Встреча может оцениваться как подтверждение неизменной оси Москва-Минск в условиях конфликта. Западные наблюдатели, вероятно, расценят её как дальнейшую консолидацию союзнических отношений. Российские источники подают встречу как рутинное союзническое взаимодействие.",
+    "perspective_type": "assumed",
+    "sources": [
+      "Kommersant"
+    ],
+    "links": [
+      "https://www.kommersant.ru/doc/8778164"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-26",
+    "id": "2452b81c4317"
+  },
+  {
+    "title_ru": "«Прайд-матч» Иран–Египет на ЧМ-2026: ничья 1:1, драма VAR и культурное столкновение",
+    "title_en": "Iran-Egypt 'Pride Match' at World Cup 2026: 1-1 Draw, VAR Drama, and Cultural Clash",
+    "date": "2026-06-27",
+    "summary_en": "The FIFA World Cup match between Iran and Egypt, designated as a 'Pride Match' in Seattle, ended in a 1-1 draw with late VAR controversy denying Iran a stoppage-time winner. Both countries, where homosexuality is criminalized, played amid rainbow flags and banners. Egypt advanced past the group stage for the first time in its history; Iran kept its knockout hopes alive. Iran's coach rued missed chances, while Iran's Taremi criticized logistical issues and suggested the team was not welcome in the US.",
+    "summary": "Матч ЧМ-2026 между Ираном и Египтом, объявленный «Прайд-матчем» в Сиэтле, завершился вничью 1:1 с драматичным решением VAR, отменившим победный гол Ирана на последних минутах. Обе страны, где гомосексуальность криминализирована, играли на фоне радужных флагов. Египет впервые в истории вышел в плей-офф; Иран сохранил шансы. Тренер Ирана сожалел об упущенных моментах, а иранский футболист Тареми раскритиковал логистику и намекнул, что команду не рады видеть в США.",
+    "perspective": "Западные СМИ (DW, The Hindu) акцентируют противоречие между символикой прайда и законами Ирана и Египта. Иранские источники (Tehran Times, IRNA) фокусируются на спортивных аспектах и жалуются на логистические трудности в США. The Guardian освещает страстный стиль арабских комментаторов как культурный феномен.",
+    "perspective_type": "from_source",
+    "sources": [
+      "DW",
+      "The Hindu",
+      "Indian Express",
+      "Times of India",
+      "IRNA",
+      "Tehran Times",
+      "The Guardian"
+    ],
+    "links": [
+      "https://www.dw.com/en/world-cup-pride-match-sparks-objections-in-egypt-and-iran/a-77721148",
+      "https://www.thehindu.com/sport/football/fifa-world-cup-2026-egypt-survives-with-1-1-draw-against-iran-advances-past-group-stage-for-the-first-time/article71153551.ece",
+      "https://indianexpress.com/article/sports/football/iran-egypt-fifa-world-cup-late-var-drama-1-1-draw-round-of-32-fate-10759827/",
+      "https://www.thehindu.com/sport/football/in-seattle-lgbtq-and-world-cup-are-feted-except-by-iran-egypt/article71153726.ece",
+      "https://www.thehindu.com/sport/football/fifa-world-cup-2026-irans-taremi-criticises-logistical-issues-suggests-side-not-welcome-in-us/article71153770.ece",
+      "https://www.tehrantimes.com/news/527648/Iran-held-by-Egypt-but-remain-hopeful-for-knockout-stage",
+      "https://en.irna.ir/news/86193642/Iran-hold-Egypt-to-draw-keep-World-Cup-hopes-alive"
+    ],
+    "is_development": true,
+    "first_reported": "2026-06-27",
+    "id": "ec0d0c2035ac"
   }
 ]
