@@ -63,6 +63,14 @@ def generate_html(events, config, usage=None, api_key=None):
             "unclear": "неясно"
         }.get(ev.get("perspective_type", ""), "")
 
+        summ_en = ev.get("summary_en", "")
+        summ_ru = ev.get("summary", "")
+        if summ_en:
+            summ_en_html = f'<div class="summ-en"><span class="summ-label">English</span>{summ_en}</div>'
+        else:
+            summ_en_html = ""
+        summ_ru_html = f'<div class="summ-ru">{summ_ru}</div>' if summ_ru else ""
+
         story = f"""
 <div class="story">
   <div class="story-card">
@@ -74,7 +82,7 @@ def generate_html(events, config, usage=None, api_key=None):
       </div>
     </div>
     <div class="story-body">
-      <div class="summary">{ev.get("summary", "")}</div>
+      <div class="summary">{summ_en_html}{summ_ru_html}</div>
       <div class="comparison">
         <div class="compare-title">Оценки {'(' + perspective_label + ')' if perspective_label else ''}</div>
         <div class="compare-item">{ev.get("perspective", "не указано")}</div>
@@ -142,6 +150,37 @@ def generate_html(events, config, usage=None, api_key=None):
     html = html.replace("__SYSTEM_PROMPT__", get_system_prompt())
     html = html.replace("__COUNTRIES_LIST__", countries_list)
     html = html.replace("__SOURCES_HTML__", sources_html)
+
+    # Archive from history
+    archive_html = ""
+    history = load_json(HISTORY_FILE, [])
+    current_ids = {hash_event(e) for e in events}
+    past_events = [e for e in history if hash_event(e) not in current_ids]
+    if past_events:
+        by_date = {}
+        for e in past_events:
+            d = (e.get("date") or e.get("first_reported", ""))[:10]
+            by_date.setdefault(d, []).append(e)
+        archive_html = '<div class="archive-section"><div class="archive-title">Архив</div>'
+        for date_key in sorted(by_date.keys(), reverse=True):
+            day_events = by_date[date_key]
+            archive_html += f'<div class="archive-day"><div class="archive-day-header" onclick="this.classList.toggle(\'open\');this.nextElementSibling.classList.toggle(\'open\')"><span>{date_key} ({len(day_events)})</span><span class="arrow">▶</span></div><div class="archive-day-body">'
+            for pe in day_events:
+                summ_en = pe.get("summary_en", "")
+                summ_ru = pe.get("summary", "")
+                if summ_en:
+                    summ_en_html = f'<div class="summ-en"><span class="summ-label">English</span>{summ_en}</div>'
+                else:
+                    summ_en_html = ""
+                summ_ru_html = f'<div class="summ-ru">{summ_ru}</div>' if summ_ru else ""
+                links = " | ".join(
+                    f'<a href="{l}" target="_blank" rel="noopener">{l.split("/")[2] if "//" in l else l}</a>'
+                    for l in pe.get("links", [])[:3]
+                )
+                archive_html += f'<div class="story"><div class="story-card"><div class="story-header"><div class="story-titles"><div class="title-en">{pe.get("title_en", "")}</div><div class="title-ru">{pe.get("title_ru", "")}</div></div></div><div class="story-body"><div class="summary">{summ_en_html}{summ_ru_html}</div></div><div class="story-footer"><span class="tag">{pe.get("date", "")}</span><span>{links}</span></div></div></div>'
+            archive_html += '</div></div>'
+        archive_html += '</div>'
+    html = html.replace("__ARCHIVE__", archive_html)
 
     os.makedirs("output", exist_ok=True)
     out = os.path.join("output", "index.html")
