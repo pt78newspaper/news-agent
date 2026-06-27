@@ -6,15 +6,15 @@
 <title>News Feed PT78</title>
 <style>
   :root {
-    --bg: #0f0f1a;
-    --card: #1a1a2e;
-    --card-hover: #222240;
-    --text: #e0e0e0;
-    --text-dim: #8888aa;
-    --border: #2a2a4a;
-    --accent: #7c5cfc;
-    --en: #4fc3f7;
-    --ru: #ff8a65;
+    --bg: #f7f7fa;
+    --card: #ffffff;
+    --card-hover: #f0f0f5;
+    --text: #222;
+    --text-dim: #777;
+    --border: #ddd;
+    --accent: #6c4cf5;
+    --en: #1565c0;
+    --ru: #d84315;
   }
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body {
@@ -27,16 +27,16 @@
     padding: 40px 20px 20px;
     text-align: center;
     border-bottom: 1px solid var(--border);
-    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    background: linear-gradient(135deg, #ede7f6 0%, #e3f2fd 100%);
   }
-  .header h1 { font-size: 28px; color: #fff; margin-bottom: 8px; }
+  .header h1 { font-size: 28px; color: #333; margin-bottom: 8px; }
   .header .subtitle { color: var(--text-dim); font-size: 14px; }
   .header .update-time { color: var(--accent); font-size: 13px; margin-top: 8px; }
   .header .ai-badge {
     display: inline-block;
     font-size: 10px; font-weight: 600;
     padding: 2px 8px; border-radius: 4px;
-    background: #4d6bfe; color: #fff;
+    background: var(--accent); color: #fff;
     margin-left: 8px; vertical-align: middle;
     letter-spacing: 0.5px;
   }
@@ -53,7 +53,7 @@
     text-align: center;
     min-width: 100px;
   }
-  .stat-card .num { font-size: 24px; font-weight: 700; color: #fff; }
+  .stat-card .num { font-size: 24px; font-weight: 700; color: var(--text); }
   .stat-card .lbl { font-size: 11px; color: var(--text-dim); text-transform: uppercase; letter-spacing: 1px; }
   .story { margin-bottom: 24px; }
   .story-card {
@@ -92,7 +92,7 @@
   }
   .story-body { padding: 16px 20px; }
   .summary {
-    background: rgba(255,255,255,0.03);
+    background: rgba(0,0,0,0.02);
     border-radius: 8px;
     padding: 12px 14px;
     margin-bottom: 12px;
@@ -100,12 +100,27 @@
     color: var(--text);
     line-height: 1.5;
   }
+  .summary .summ-en {
+    margin-bottom: 10px;
+    color: #1565c0;
+  }
+  .summary .summ-ru {
+    color: #d84315;
+    border-top: 1px solid #eee;
+    padding-top: 10px;
+  }
+  .summary .summ-label {
+    font-size: 10px; font-weight: 600;
+    text-transform: uppercase; letter-spacing: 1px;
+    display: block; margin-bottom: 4px;
+    color: var(--text-dim);
+  }
   .comparison {
     margin-bottom: 12px;
     padding: 12px 14px;
-    background: rgba(124,92,252,0.08);
+    background: rgba(108,76,245,0.06);
     border-radius: 8px;
-    border: 1px solid rgba(124,92,252,0.2);
+    border: 1px solid rgba(108,76,245,0.15);
   }
   .compare-title {
     font-size: 11px; text-transform: uppercase;
@@ -115,45 +130,6 @@
   .compare-item {
     font-size: 13px; color: var(--text);
     padding: 4px 0;
-  }
-  .perspectives-title {
-    font-size: 12px; text-transform: uppercase;
-    letter-spacing: 1.5px; color: var(--text-dim);
-    margin-bottom: 10px;
-  }
-  .perspectives { display: flex; flex-direction: column; gap: 8px; }
-  .perspective {
-    padding: 10px 14px;
-    border-radius: 8px;
-    border-left: 3px solid var(--region-color, var(--accent));
-    background: rgba(255,255,255,0.03);
-  }
-  .perspective .region-tag {
-    display: inline-block;
-    font-size: 11px; font-weight: 600;
-    padding: 2px 8px; border-radius: 4px;
-    margin-bottom: 4px;
-    color: #fff;
-    background: var(--region-color, var(--accent));
-  }
-  .perspective .headline {
-    font-size: 13px; color: var(--text);
-    margin-bottom: 4px;
-  }
-  .perspective .meta {
-    font-size: 11px; color: var(--text-dim);
-  }
-  .perspective .meta a {
-    color: var(--accent); text-decoration: none;
-  }
-  .perspective .meta a:hover { text-decoration: underline; }
-  .perspective .keywords {
-    margin-top: 6px; display: flex; gap: 4px; flex-wrap: wrap;
-  }
-  .keyword {
-    font-size: 10px; padding: 1px 6px;
-    background: rgba(255,255,255,0.06);
-    border-radius: 3px; color: var(--text-dim);
   }
   .story-footer {
     padding: 10px 20px;
@@ -167,7 +143,38 @@
     text-align: center; padding: 60px 20px;
     color: var(--text-dim);
   }
-  .no-news h2 { font-size: 22px; margin-bottom: 10px; color: #fff; }
+  .no-news h2 { font-size: 22px; margin-bottom: 10px; color: #333; }
+  .archive-section { margin-top: 40px; }
+  .archive-title {
+    font-size: 18px; font-weight: 700; color: var(--text);
+    text-align: center; margin-bottom: 20px;
+    padding-bottom: 10px; border-bottom: 2px solid var(--border);
+  }
+  .archive-day {
+    margin-bottom: 16px;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  .archive-day-header {
+    padding: 12px 16px;
+    background: var(--card);
+    cursor: pointer;
+    display: flex; justify-content: space-between; align-items: center;
+    font-weight: 600; font-size: 14px;
+    user-select: none;
+  }
+  .archive-day-header:hover { background: var(--card-hover); }
+  .archive-day-header .arrow {
+    transition: transform 0.2s;
+    font-size: 12px; color: var(--text-dim);
+  }
+  .archive-day-header.open .arrow { transform: rotate(90deg); }
+  .archive-day-body {
+    display: none;
+    border-top: 1px solid var(--border);
+  }
+  .archive-day-body.open { display: block; }
   .sys-btn {
     display: inline-block; margin: 20px 0; padding: 6px 16px;
     background: transparent; color: var(--text-dim); border: 1px solid var(--border);
@@ -184,7 +191,7 @@
   .sys-info h3 { color: var(--accent); font-size: 14px; margin: 16px 0 8px; }
   .sys-info h3:first-child { margin-top: 0; }
   .sys-info pre {
-    background: rgba(0,0,0,0.3); border-radius: 4px; padding: 10px;
+    background: rgba(0,0,0,0.03); border-radius: 4px; padding: 10px;
     font-size: 11px; white-space: pre-wrap; color: var(--text-dim);
     max-height: 300px; overflow-y: auto;
   }
@@ -240,6 +247,7 @@
     <h3>Мониторимые источники</h3>
     <div class="source-list">__SOURCES_HTML__</div>
   </div>
+  __ARCHIVE__
   <div style="text-align:center;padding:20px 0;color:var(--text-dim);font-size:12px">
     Generated by NewsAgentPT78
   </div>
