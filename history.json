@@ -535,5 +535,156 @@
     "is_development": false,
     "first_reported": "2026-06-27",
     "id": "d0181a8fb8f9"
+  },
+  {
+    "title_ru": "Резкая эскалация между США и Ираном: взаимные удары, Трамп грозит «уничтожить» Иран",
+    "title_en": "US-Iran Military Escalation: Trump Threatens Annihilation, Mutual Strikes Continue",
+    "date": "2026-06-28",
+    "summary_en": "The US launched new strikes on military sites in southern Iran, prompting IRGC retaliatory missile and drone strikes on US bases in Kuwait and Bahrain. President Trump threatened to 'annihilate' Iran and 'militarily complete the job,' while Iran's Foreign Ministry accused Washington of showing no regard for its commitments under the bilateral memorandum of understanding. Both sides accuse each other of violating the ceasefire, and CENTCOM confirmed the latest round of US strikes.",
+    "summary": "США нанесли новые удары по военным объектам на юге Ирана, в ответ КСИР осуществил ракетно-дронную атаку по объектам США в Кувейте и Бахрейне. Президент Трамп пригрозил «уничтожить» Иран и «завершить работу военным путём», а МИД Ирана заявил, что удары США демонстрируют пренебрежение Вашингтона взятыми на себя обязательствами по меморандуму. Обе стороны обвиняют друг друга в нарушении режима прекращения огня.",
+    "perspective": "США (Трамп, Вэнс): Иран нарушил перемирие, США «держат все карты» и готовы завершить конфликт военным путём. Иран: США целенаправленно нарушают меморандум о взаимопонимании; только Иран отвечает за возобновление судоходства в Ормузском проливе. Бахрейн осудил иранскую атаку как «вопиющую угрозу».",
+    "perspective_type": "from_source",
+    "sources": [
+      "The Guardian",
+      "BBC News",
+      "The New York Times",
+      "TASS",
+      "Kommersant",
+      "IRNA",
+      "Tehran Times",
+      "Indian Express",
+      "Lenta.ru",
+      "Vedomosti"
+    ],
+    "links": [
+      "https://www.theguardian.com/world/live/2026/jun/28/iran-strait-of-hormuz-donald-trump-vance-peace-talks-bahrain-kuwait-strikes-latest-news-updates",
+      "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o",
+      "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
+      "https://tass.com/world/2152539",
+      "https://tass.com/world/2152505",
+      "https://tass.com/world/2152491",
+      "https://tass.com/world/2152477",
+      "https://www.kommersant.ru/doc/8778810",
+      "https://www.kommersant.ru/doc/8778779",
+      "https://www.kommersant.ru/doc/8778732",
+      "https://www.kommersant.ru/doc/8778728",
+      "https://en.irna.ir/news/86195023",
+      "https://en.irna.ir/news/86194685",
+      "https://en.irna.ir/news/86194524",
+      "https://www.tehrantimes.com/news/527683",
+      "https://indianexpress.com/article/world/face-hell-vs-will-complete-job-iran-trump-trade-threats-as-war-looms-in-gulf-10761152/",
+      "https://lenta.ru/news/2026/06/28/ssha-poteryali-sotni-millionov-dollarov-iz-za-udarov-irana-po-baze-v-persidskom-zalive/",
+      "https://www.theguardian.com/world/2026/jun/27/bahrain-iran-drone-attack-overnight-us-strikes-strait-hormuz",
+      "https://www.theguardian.com/us-news/2026/jun/27/jd-vance-bill-maher-iran-war"
+    ],
+    "is_development": true,
+    "first_reported": "2026-06-28",
+    "id": "0d5707db3432"
+  },
+  {
+    "title_ru": "Число жертв землетрясений в Венесуэле превысило 1400 человек",
+    "title_en": "Venezuela Earthquake Death Toll Surpasses 1,400; International Aid Mobilized",
+    "date": "2026-06-28",
+    "summary_en": "The death toll from a series of devastating earthquakes in Venezuela has risen to more than 1,400 people, making it one of the deadliest seismic disasters in the region's recent history. The US has dispatched rescuers and humanitarian aid, Brazil initiated search and rescue operations, and Iran offered condolences and assistance. Survivors describe the quakes as 'brutal and fast.'",
+    "summary": "Число жертв разрушительных землетрясений в Венесуэле превысило 1400 человек — это одна из самых смертоносных сейсмических катастроф в регионе за последние годы. США направили спасателей и гуманитарную помощь, Бразилия начала поисково-спасательную операцию, Иран выразил соболезнования и предложил помощь. Выжившие описывают землетрясения как «молниеносные и беспощадные».",
+    "perspective": "Гуманитарная катастрофа рассматривается международным сообществом вне политических разногласий: США, Иран и Бразилия — страны с кардинально разными позициями по другим вопросам — объединили усилия. Для Венесуэлы это удар по и без того ослабленной инфраструктуре.",
+    "perspective_type": "assumed",
+    "sources": [
+      "The Guardian",
+      "Agência Brasil",
+      "IRNA",
+      "Kommersant",
+      "Vedomosti",
+      "Lenta.ru"
+    ],
+    "links": [
+      "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez",
+      "https://www.theguardian.com/world/2026/jun/26/hunt-survivors-brutal-venezuela-earthquake",
+      "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/mortes-apos-terremotos-na-venezuela-sobem-para-1430",
+      "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/brasil-inicia-operacoes-de-busca-e-resgate-apos-terremoto-na-venezuela",
+      "https://en.irna.ir/news/86194290",
+      "https://www.kommersant.ru/doc/8778193",
+      "https://www.kommersant.ru/doc/8777975",
+      "https://www.vedomosti.ru/politics/news/2026/06/26/1209292-chislo-pogibshih-previsilo-900",
+      "https://www.vedomosti.ru/society/news/2026/06/25/1208678-ssha-napravyat-pomosch"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-28",
+    "id": "fc714ff8d193"
+  },
+  {
+    "title_ru": "Продолжающиеся удары ВСУ по российским регионам: новые жертвы в Белгородской, Волгоградской областях и Краснодарском крае",
+    "title_en": "Continued Ukrainian Strikes on Russian Regions: New Casualties in Belgorod, Volgograd, and Krasnodar",
+    "date": "2026-06-28",
+    "summary_en": "A series of Ukrainian drone and missile attacks on Russian border regions resulted in new civilian casualties. One person was killed in a drone attack in Belgorod region, another died from falling debris in Krasnodar region, and a rocket strike on Volgograd killed one and injured ten. These attacks follow a pattern of intensified cross-border strikes this week.",
+    "summary": "Серия украинских атак БПЛА и ракетных ударов по российским регионам привела к новым жертвам: один человек погиб при атаке дрона в Белгородской области, один — от падения обломков в Краснодарском крае, ещё один погиб и десять пострадали при ракетной атаке на Волгоград. Атаки продолжают тенденцию intensified приграничных ударов на этой неделе.",
+    "perspective": "Российская сторона: целенаправленные удары ВСУ по гражданскому населению и инфраструктуре. Украинская сторона: позиция в данном наборе источников не представлена.",
+    "perspective_type": "assumed",
+    "sources": [
+      "Kommersant",
+      "Vedomosti",
+      "Lenta.ru"
+    ],
+    "links": [
+      "https://www.kommersant.ru/doc/8778765",
+      "https://www.kommersant.ru/doc/8778741",
+      "https://www.kommersant.ru/doc/8778613",
+      "https://www.kommersant.ru/doc/8778517",
+      "https://www.vedomosti.ru/politics/news/2026/06/27/1209328-volgograde-pri-atake"
+    ],
+    "is_development": true,
+    "first_reported": "2026-06-28",
+    "id": "a7ce85b050f5"
+  },
+  {
+    "title_ru": "Глава МИД Ирана Аракчи прибыл в Багдад: Иран называет расширение связей с Ираком внешнеполитическим приоритетом",
+    "title_en": "Iran's FM Araghchi Visits Baghdad; Tehran Calls Iraq Ties a Top Foreign Policy Priority",
+    "date": "2026-06-28",
+    "summary_en": "Iranian Foreign Minister Abbas Araghchi arrived in Baghdad for an official visit, with Tehran stating that expanding ties with Iraq remains a top foreign policy priority. The visit is part of a broader regional diplomatic push by Araghchi, who has held a series of high-level calls with regional counterparts amid the escalating US-Iran crisis. Iran is also participating in the 9th China-Eurasia Expo, signaling continued economic diplomacy.",
+    "summary": "Министр иностранных дел Ирана Аббас Аракчи прибыл в Багдад с официальным визитом; Тегеран заявил, что расширение связей с Ираком остаётся главным внешнеполитическим приоритетом. Визит проходит в рамках активизации региональной дипломатии на фоне эскалации американо-иранского кризиса. Иран также участвует в 9-й китайско-евразийской выставке, демонстрируя продолжение экономической дипломатии.",
+    "perspective": "Иран: Ирак — ключевой партнёр, отношения стратегические. Ирак (премьер-министр): подтвердил приверженность добрососедским отношениям с Ираном. США: не комментируют напрямую, но контекст визита — попытка Ирана укрепить региональные позиции вопреки американскому давлению.",
+    "perspective_type": "from_source",
+    "sources": [
+      "IRNA",
+      "Tehran Times",
+      "TASS"
+    ],
+    "links": [
+      "https://en.irna.ir/news/86194696",
+      "https://en.irna.ir/news/86194876",
+      "https://en.irna.ir/news/86194517",
+      "https://en.irna.ir/news/86194840",
+      "https://www.tehrantimes.com/news/527682",
+      "https://www.tehrantimes.com/news/527677",
+      "https://tass.com/world/2152405"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-28",
+    "id": "3e88bdc1c560"
+  },
+  {
+    "title_ru": "«Хезболла» отвергает рамочное соглашение Ливана с Израилем; Нетаньяху требует разоружения",
+    "title_en": "Hezbollah Rejects Lebanon-Israel Framework Agreement; Netanyahu Demands Full Disarmament",
+    "date": "2026-06-28",
+    "summary_en": "Hezbollah's chief rejected the 'framework agreement' between Lebanon and Israel as a surrender of Lebanese sovereignty, while Lebanese Speaker Nabih Berri separately warned of potential 'sedition' following the deal. Israeli PM Netanyahu declared that Israel will not withdraw from Lebanon until Hezbollah is fully disarmed, setting the stage for continued tension despite the ceasefire in Dahiya.",
+    "summary": "Лидер «Хезболлы» отверг рамочное соглашение между Ливаном и Израилем, назвав его капитуляцией ливанского суверенитета. Спикер парламента Ливана Набих Берри предупредил об угрозе «смуты» после заключения сделки. Тем временем премьер-министр Израиля Нетаньяху заявил, что Израиль не выведет войска, пока «Хезболла» не будет полностью разоружена, что ставит под вопрос устойчивость прекращения огня.",
+    "perspective": "«Хезболла»: соглашение — предательство суверенитета. Израиль (Нетаньяху): без разоружения «Хезболлы» вывода войск не будет. Ливан (Берри): соглашение может спровоцировать внутренний раскол. США: в данных источниках прямая позиция не отражена.",
+    "perspective_type": "from_source",
+    "sources": [
+      "IRNA",
+      "Tehran Times",
+      "Indian Express",
+      "The New York Times"
+    ],
+    "links": [
+      "https://en.irna.ir/news/86194218",
+      "https://en.irna.ir/news/86194135",
+      "https://www.tehrantimes.com/news/527674",
+      "https://indianexpress.com/article/world/netanyahu-israel-lebanon-agreement-security-zone-yellow-line-idf-10760826/",
+      "https://www.nytimes.com/2026/06/28/world/middleeast/beirut-dahiya-israel-lebanon-cease-fire.html"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-28",
+    "id": "38039b4b734a"
   }
 ]
