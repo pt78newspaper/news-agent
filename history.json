@@ -686,5 +686,211 @@
     "is_development": false,
     "first_reported": "2026-06-28",
     "id": "38039b4b734a"
+  },
+  {
+    "title_ru": "США и Иран: прекращение огня, спор вокруг переговоров в Дохе и кризис в Ормузском проливе",
+    "title_en": "US-Iran: Ceasefire Agreed, Doha Talks Disputed, and Hormuz Strait Crisis",
+    "date": "2026-06-29",
+    "summary_en": "The US and Iran agreed to halt mutual strikes after a weekend of crossfire over the Strait of Hormuz, but conflicting claims emerged: Trump announced peace talks in Doha for Tuesday, while Iran denied any talks are scheduled. Meanwhile, navigation recovery in the strait is expected to take months due to mines, and Iran's President Pezeshkian announced that $6 billion in frozen Iranian assets in Qatar will be released.",
+    "summary": "США и Иран договорились прекратить взаимные удары после эскалации в Ормузском проливе, однако возникла путаница вокруг переговоров: Трамп заявил о встрече в Дохе во вторник, Иран опроверг наличие договорённостей. Восстановление судоходства в проливе займёт месяцы из-за мин, а президент Ирана Пезешкиан объявил о разблокировке $6 млрд иранских активов в Катаре.",
+    "perspective": "Администрация Трампа представляет прекращение огня как результат жёсткой позиции; Иран настаивает на своём контроле над проливом и отрицает scheduled переговоры, сохраняя рычаги давления. Европейские союзники обеспокоены нестабильностью. NYT отмечает, что размытые формулировки американо-иранского меморандума «возвращаются, чтобы преследовать мирные усилия».",
+    "perspective_type": "from_source",
+    "sources": [
+      "The Guardian",
+      "TASS",
+      "DW",
+      "NYT",
+      "IRNA",
+      "NPR",
+      "Tehran Times",
+      "Indian Express",
+      "France 24"
+    ],
+    "links": [
+      "https://www.theguardian.com/world/2026/jun/29/trump-iran-peace-talks-doha",
+      "https://tass.com/world/2152763",
+      "https://www.dw.com/en/us-iran-agree-to-halt-strikes-but-broader-talks-still-to-begin/live-77746775",
+      "https://www.nytimes.com/2026/06/28/world/europe/iran-us-strait-of-hormuz-peace-talks.html",
+      "https://en.irna.ir/news/86196089/Iran-says-no-technical-talks-with-US-planned-in-Doha-this-week",
+      "https://www.npr.org/2026/06/29/nx-s1-5874618/us-iran-talks",
+      "https://tass.com/world/2152845",
+      "https://tass.com/world/2152791",
+      "https://www.nytimes.com/2026/06/27/world/middleeast/us-iran-deal-vague-language.html",
+      "https://www.tehrantimes.com/news/527715/Iran-to-respond-more-forcefully-to-MoU-violations-after-2nd-night",
+      "https://indianexpress.com/article/world/donald-trump-iran-doha-meeting-kushner-witkoff-tehran-denial-10763164/",
+      "https://tass.com/world/2153045",
+      "https://www.theguardian.com/world/2026/jun/28/escalating-us-iran-strikes-threaten-interim-peace-agreement",
+      "https://www.france24.com/fr/moyen-orient/20260629-en-direct-parlement-libanais-enterre-accord-cadre-hezbollah-d%C3%A9fendre-patrie-moyen-orient-detroit-ormuz-israel-iran"
+    ],
+    "is_development": true,
+    "first_reported": "2026-06-29",
+    "id": "30b700f64245"
+  },
+  {
+    "title_ru": "Верховный суд США: расширение президентских полномочий Трампа, защита заочного голосования и отказ в апелляции по делу Кэрролл",
+    "title_en": "US Supreme Court: Expanded Presidential Firing Powers, Mail-in Ballot Protections Upheld, Carroll Appeal Rejected",
+    "date": "2026-06-29",
+    "summary_en": "The US Supreme Court issued several landmark rulings: it cemented Trump's power to fire officials at agencies long considered independent — a ruling liberal justices called 'destabilizing' — yet blocked his attempt to fire Federal Reserve Governor Lisa Cook. The Court also upheld grace periods for mail-in ballots arriving after Election Day, restricted geofence warrants on constitutional privacy grounds, and declined to hear Trump's appeal of the $5 million E. Jean Carroll sexual abuse verdict.",
+    "summary": "Верховный суд США вынес серию знаковых решений: закрепил право Трамва увольнять глав независимых агентств — либеральные судьи назвали это «дестабилизирующим», — но заблокировал увольнение главы ФРС Лизы Кук. Суд также подтвердил право штатов засчитывать присланные по почте бюллетени после дня выборов, ограничил использование ордеров на геозоны и отказал Трампу в апелляции по делу о домогательствах Кэрролл ($5 млн).",
+    "perspective": "Консерваторы приветствуют расширение президентского контроля над регуляторами; либеральные судьи прямо осудили решение как «дестабилизирующее». Решение о заочных бюллетенях — удар по республиканцам, оспаривавшим эту практику. Отказ по делу Кэрролл — личное поражение Трампа. Смешанные исходы показывают, что суд не всегда предсказуем.",
+    "perspective_type": "from_source",
+    "sources": [
+      "The Guardian",
+      "NPR",
+      "BBC",
+      "CBC",
+      "Indian Express",
+      "Times of India"
+    ],
+    "links": [
+      "https://www.theguardian.com/us-news/live/2026/jun/29/supreme-court-donald-trump-administration-us-politics-latest-news-updates",
+      "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-mail-in-ballots-election-ruling",
+      "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-trump-e-jean-carroll",
+      "https://www.npr.org/2026/06/29/nx-s1-5816232/supreme-court-ftc-independent-agencies-humphreys-executor",
+      "https://www.npr.org/2026/06/29/nx-s1-5557955/supreme-court-fed-lisa-cook",
+      "https://www.npr.org/2026/06/29/nx-s1-5815312/supreme-court-mail-ballot-grace-period-ruling",
+      "https://www.npr.org/2026/06/29/nx-s1-5844697/supreme-court-restricts-use-of-geofence-warrants",
+      "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno",
+      "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o",
+      "https://www.cbc.ca/news/world/us-scotus-rulings-cook-fed-slaughter-ftc-9.7252310",
+      "https://www.cbc.ca/news/world/supreme-court-trump-e-jean-carroll-appeal-9.7252431",
+      "https://indianexpress.com/article/world/us-supreme-court-expands-trump-presidential-power-federal-reserve-lisa-cook-10763377/",
+      "https://indianexpress.com/article/world/us-supreme-court-rejects-donald-trump-appeal-e-jean-carroll-sexual-abuse-verdict-10763389/",
+      "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-29",
+    "id": "a109312c8148"
+  },
+  {
+    "title_ru": "Землетрясение в Венесуэле: число жертв приближается к 1500, спасены отец с сыном, гуманитарный кризис",
+    "title_en": "Venezuela Earthquake: Death Toll Nears 1,500, Father and Son Rescued Alive, Humanitarian Crisis Deepens",
+    "date": "2026-06-29",
+    "summary_en": "The death toll from the Venezuela earthquakes has reached nearly 1,500, with some 50,000 still missing. Rescue teams pulled a father and his son alive from the rubble after four days, and 33 people were rescued on Saturday alone. The UN reports nearly 1.8 million people need humanitarian aid, while over 770 buildings have been damaged or destroyed. President Delcy Rodriguez faces accusations of politicizing earthquake relief.",
+    "summary": "Число погибших при землетрясениях в Венесуэле достигло почти 1500 человек, около 50 000 числятся пропавшими. Спасатели извлекли живыми отца с сыном спустя четверо суток, в субботу спасены 33 человека. ООН сообщает, что 1,8 млн человек нуждаются в гумпомощи, более 770 зданий разрушены или повреждены. Президента Делси Родригес обвиняют в политизации помощи пострадавшим.",
+    "perspective": "Оппозиция и часть пострадавших критикуют власти за неэффективность и политизацию распределения помощи. Правительство настаивает на мобилизации всех ресурсов. Международное сообщество сосредоточено на гуманитарном реагировании. NYT документирует как солидарность общин, так и гнев на официальный ответ.",
+    "perspective_type": "from_source",
+    "sources": [
+      "The Guardian",
+      "TASS",
+      "BBC",
+      "NYT",
+      "Indian Express",
+      "Kommersant"
+    ],
+    "links": [
+      "https://www.theguardian.com/world/2026/jun/29/venezuela-earthquake-death-toll-father-son-alive",
+      "https://www.theguardian.com/world/2026/jun/29/families-of-football-stars-hector-bello-lucas-trejo-killed-venezuela-earthquakes",
+      "https://tass.com/society/2153105",
+      "https://tass.com/world/2153073",
+      "https://tass.com/emergencies/2153005",
+      "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o",
+      "https://www.bbc.co.uk/news/videos/cj4glezz1jvo",
+      "https://www.bbc.co.uk/news/videos/c5yz392v508o",
+      "https://www.nytimes.com/2026/06/28/world/americas/deep-under-the-rubble-rescuers-find-an-11-year-old-boy-alive.html",
+      "https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html",
+      "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake/search-teams-rescued-33-people-from-the-rubble-on-saturday",
+      "https://indianexpress.com/article/world/venezuela-earthquake-death-toll-missing-10762521/",
+      "https://www.kommersant.ru/doc/8779036"
+    ],
+    "is_development": true,
+    "first_reported": "2026-06-29",
+    "id": "27adb2d50b97"
+  },
+  {
+    "title_ru": "Массированные удары украинских БПЛА по России: 415 дронов за сутки, атаки на Москву",
+    "title_en": "Massive Ukrainian Drone Attacks on Russia: 415 Drones in 24 Hours, Moscow Targeted",
+    "date": "2026-06-29",
+    "summary_en": "Russian air defense forces report shooting down 415 Ukrainian drones over the past 24 hours and 209 overnight alone, with two drones intercepted near Moscow. Over the past week, daily interceptions have ranged from 68 to over 500 drones, alongside cruise missile attacks on Volgograd and other regions. Civilian casualties continue in Belgorod, Bryansk, Volgograd, and Krasnodar regions.",
+    "summary": "Российские силы ПВО отчитались о сбитии 415 украинских беспилотников за сутки и 209 за ночь; два дрона сбиты вблизи Москвы. За неделю ежедневные перехваты колебались от 68 до более 500 дронов; зафиксированы также удары крылатыми ракетами по Волгограду. Продолжаются жертвы среди гражданского населения в Белгородской, Брянской, Волгоградской областях и Краснодарском крае.",
+    "perspective": "Российские власти представляют действия ПВО как эффективную защиту; интенсивность и география атак расширяется, включая попытки ударов по Москве. Украинская сторона рассматривает это как элемент кампании по нанесению ущерба военной инфраструктуре РФ. Международные наблюдатели отмечают эскалацию дальности и интенсивности ударов.",
+    "perspective_type": "assumed",
+    "sources": [
+      "Vedomosti",
+      "Kommersant"
+    ],
+    "links": [
+      "https://www.vedomosti.ru/politics/news/2026/06/29/1209697-sili-pvo",
+      "https://www.vedomosti.ru/politics/news/2026/06/29/1209623-rossiiskie-sili",
+      "https://www.kommersant.ru/doc/8779296",
+      "https://www.vedomosti.ru/politics/news/2026/06/29/1209545-sili-pvo",
+      "https://www.kommersant.ru/doc/8779086",
+      "https://www.vedomosti.ru/politics/news/2026/06/28/1209493-sbili-72-bpla",
+      "https://www.vedomosti.ru/politics/news/2026/06/27/1209371-krilatie-raketi-500-dronov",
+      "https://www.kommersant.ru/doc/8778985",
+      "https://www.vedomosti.ru/politics/news/2026/06/27/1209355-odin-chelovek-pogib",
+      "https://www.kommersant.ru/doc/8778741"
+    ],
+    "is_development": true,
+    "first_reported": "2026-06-29",
+    "id": "c5625060ffd1"
+  },
+  {
+    "title_ru": "Иран: разблокировка $6 млрд активов в Катаре и дипломатическая активность на фоне подготовки похорон «павшего лидера»",
+    "title_en": "Iran: $6 Billion Frozen Assets Released in Qatar Amid Diplomatic Flurry and Funeral Preparations for 'Martyred Leader'",
+    "date": "2026-06-29",
+    "summary_en": "Iranian President Pezeshkian announced that $6 billion in frozen Iranian assets held in Qatar will be released — a significant financial breakthrough amid the wider US-Iran standoff. Simultaneously, Iran is preparing for the funeral of a 'martyred Leader,' with foreign dignitaries expected to arrive starting Friday; Mashhad is mobilizing all provincial and national resources. Tehran also announced a target to raise Iran-Afghanistan trade to $10 billion over three years.",
+    "summary": "Президент Ирана Пезешкиан объявил о разблокировке $6 млрд иранских активов в Катаре — значимый финансовый прорыв на фоне американо-иранского противостояния. Одновременно Иран готовится к похоронам «павшего лидера»: иностранные делегации начнут прибывать в пятницу, Мешхед мобилизует все ресурсы. Тегеран также объявил о цели довести товарооборот с Афганистаном до $10 млрд за три года.",
+    "perspective": "Разблокировка активов — экономическая победа Тегерана, укрепляющая переговорные позиции. Похороны «павшего лидера» — внутриполитическая мобилизация; церемонии номинируются на статус национального наследия. Расширение торговли с Афганистаном демонстрирует региональные амбиции Ирана в обход западных санкций.",
+    "perspective_type": "assumed",
+    "sources": [
+      "IRNA",
+      "TASS",
+      "Tehran Times"
+    ],
+    "links": [
+      "https://en.irna.ir/news/86195913/6-billion-of-Iran-s-frozen-assets-to-be-released-says-President",
+      "https://tass.com/world/2152845",
+      "https://en.irna.ir/news/86195423/Foreign-dignitaries-to-begin-arriving-in-Iran-on-Friday-for-martyred",
+      "https://en.irna.ir/news/86195120/Mashhad-mayor-All-provincial-national-resources-mobilized-for",
+      "https://www.tehrantimes.com/news/527739/Martyred-leader-s-funeral-ceremonies-to-be-nominated-for-national",
+      "https://www.tehrantimes.com/news/527733/Iran-Afghanistan-trade-targeted-to-reach-10b-over-next-3-years"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-29",
+    "id": "b743ec08cc58"
+  },
+  {
+    "title_ru": "ЕС вводит таможенный сбор €3 на малые посылки для сдерживания китайского импорта",
+    "title_en": "EU Introduces €3 Customs Charge on Small Parcels to Curb Cheap Chinese Imports",
+    "date": "2026-06-29",
+    "summary_en": "The European Union introduced a €3 customs charge on small parcels, aimed primarily at curbing the influx of cheap Chinese e-commerce imports. The measure targets platforms like Temu and Shein, which have exploited loopholes allowing duty-free entry of low-value packages, and reflects growing EU assertiveness in trade policy toward China.",
+    "summary": "Евросоюз ввёл таможенный сбор в размере €3 на малые посылки с целью ограничить поток дешёвого китайского импорта через платформы электронной коммерции (Temu, Shein). Мера закрывает лазейку с беспошлинным ввозом малоценных отправлений и отражает ужесточение торговой политики ЕС в отношении Китая.",
+    "perspective": "Еврокомиссия представляет меру как защиту европейских производителей и добросовестной конкуренции. Китай, вероятно, расценит это как протекционизм. Для США — потенциальная модель аналогичных ограничений. Потребители в ЕС столкнутся с ростом цен на дешёвые товары.",
+    "perspective_type": "assumed",
+    "sources": [
+      "The Guardian"
+    ],
+    "links": [
+      "https://www.theguardian.com/world/2026/jun/29/eu-introduces-customs-charge-on-small-parcels-to-curb-cheap-chinese-imports"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-29",
+    "id": "ec2fd4d697de"
+  },
+  {
+    "title_ru": "Иран наращивает дипломатическую активность: взаимодействие с Ираком, Ливаном и ШОС",
+    "title_en": "Iran Ramps Up Diplomacy: Engagement with Iraq, Lebanon, and SCO",
+    "date": "2026-06-29",
+    "summary_en": "Iran's Foreign Minister Araghchi discussed regional security with Iraq's national security advisor; Parliament Speaker Ghalibaf stated that ending Israel's war on Lebanon is a key part of the Islamabad MoU and that Iran is 'seriously pursuing' this goal. Simultaneously, Iran put forward proposals to expand women's cooperation within the SCO, and Ambassador to Mexico hailed the national football team's World Cup resilience despite 'inhumane pressure.'",
+    "summary": "Глава МИД Ирана Аракчи обсудил региональную безопасность с советником по нацбезопасности Ирака; спикер Галибаф заявил, что прекращение войны Израиля в Ливане — ключевая часть меморандума в Исламабаде, и Иран «серьёзно добивается» этого. Одновременно Иран выдвинул предложения по расширению женского сотрудничества в ШОС, а посол в Мексике отметил стойкость футбольной сборной вопреки «бесчеловечному давлению».",
+    "perspective": "Иран демонстрирует многовекторную дипломатию: региональную (Ирак, Ливан), евразийскую (ШОС) и публичную (спорт). Антиизраильская риторика остаётся неизменной. Заявления о «бесчеловечном давлении» на сборную — элемент нарратива жертвы в международных отношениях.",
+    "perspective_type": "from_source",
+    "sources": [
+      "IRNA",
+      "Tehran Times"
+    ],
+    "links": [
+      "https://en.irna.ir/news/86195370/Araghchi-discusses-regional-security-with-Iraq-s-national-security",
+      "https://en.irna.ir/news/86195304/Ghalibaf-End-of-war-in-Lebanon-key-part-of-Islamabad-MoU",
+      "https://www.tehrantimes.com/news/527716/Qalibaf-Iran-seriously-pursuing-an-end-to-Israel-s-war-on-Lebanon",
+      "https://www.tehrantimes.com/news/527737/Iran-puts-forward-proposals-to-expand-SCO-women-s-co-op",
+      "https://en.irna.ir/news/86196209/Iran-s-ambassador-to-Mexico-hails-national-football-team",
+      "https://en.irna.ir/news/86195435/Baqaei-lauds-national-football-team-s-World-Cup-resilience-despite",
+      "https://en.irna.ir/news/86195255/Velayati-says-Hezbollah-is-true-protector-of-Lebanon-s-sovereignty"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-29",
+    "id": "b039373b5275"
   }
 ]
