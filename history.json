@@ -892,5 +892,165 @@
     "is_development": false,
     "first_reported": "2026-06-29",
     "id": "b039373b5275"
+  },
+  {
+    "title_ru": "Кризис вокруг Ормузского пролива: Трамп заявляет о мирных переговорах, Иран отрицает, создан совместный комитет с Оманом",
+    "title_en": "Hormuz Strait Crisis: Trump Claims Peace Talks, Iran Denies, Joint Committee with Oman Formed",
+    "date": "2026-06-30",
+    "summary_en": "Donald Trump claimed Iran agreed to peace talks in Doha, but Iran's Foreign Ministry denied any negotiations are planned. Iran and Oman held the first meeting of a joint Hormuz committee, while Tehran insists only Iran may demine the Strait of Hormuz. President Pezeshkian stated Iran will honor commitments only if the US abides by the MoU; a US lawmaker criticized the memorandum as slanted toward Tehran. Escalating US-Iran strikes continue to threaten the interim peace agreement, with Trump previously threatening to 'annihilate' Iran.",
+    "summary": "Дональд Трамп заявил, что Иран согласился на мирные переговоры в Дохе, однако МИД Ирана опроверг планирование каких-либо переговоров. Иран и Оман провели первое заседание совместного комитета по Ормузу, при этом Тегеран настаивает, что разминирование пролива — исключительно его прерогатива. Президент Пезешкиан заявил, что Иран выполнит обязательства, только если США будут соблюдать Меморандум; американский конгрессмен раскритиковал MoU как выгодный Тегерану. Обмен ударами между США и Ираном ставит под угрозу временное мирное соглашение.",
+    "perspective": "США (Трамп): Иран согласился на переговоры; американский конгрессмен: MoU смещён в пользу Тегерана. Иран: никаких переговоров не планируется, США должны сначала соблюдать MoU; разминирование Ормуза — только силами Ирана. The Guardian: формулировки MoU слишком широки, что ведёт к разночтениям и новым столкновениям.",
+    "perspective_type": "from_source",
+    "sources": [
+      "The Guardian",
+      "IRNA",
+      "Tehran Times",
+      "TASS"
+    ],
+    "links": [
+      "https://www.theguardian.com/world/2026/jun/29/trump-iran-peace-talks-doha",
+      "https://www.theguardian.com/world/2026/jun/28/escalating-us-iran-strikes-threaten-interim-peace-agreement",
+      "https://www.theguardian.com/world/2026/jun/28/fresh-hostilities-gulf-us-iran-memorandum-interpretations-lebanon-ceasefire-strait-of-hormuz",
+      "https://www.theguardian.com/world/live/2026/jun/28/iran-strait-of-hormuz-donald-trump-vance-peace-talks-bahrain-kuwait-strikes-latest-news-updates",
+      "https://en.irna.ir/news/86196483/Baqaei-Iran-will-not-attend-negotiations-with-US-in-coming-days",
+      "https://en.irna.ir/news/86196618/Iran-to-honor-commitments-if-US-abides-by-MoU-President-Pezeshkian",
+      "https://en.irna.ir/news/86196408/Gharibabadi-Demining-Hormuz-Strait-only-to-be-done-by-Iran",
+      "https://en.irna.ir/news/86195778/Iran-Oman-convene-first-meeting-of-joint-Hormuz-committee",
+      "https://www.tehrantimes.com/news/527752/Tehran-demands-US-adherence-to-MoU-before-any-technical-discussions",
+      "https://www.tehrantimes.com/news/527753/Iran-and-Oman-hold-first-Hormuz-committee-talks-as-sovereignty",
+      "https://tass.com/world/2153503"
+    ],
+    "is_development": true,
+    "first_reported": "2026-06-30",
+    "id": "279c63e4d2fe"
+  },
+  {
+    "title_ru": "Рекордный налёт украинских БПЛА: 419 дронов сбито за ночь, 50 — вблизи Москвы, ударные Hornet над трассой «Новороссия»",
+    "title_en": "Record Ukrainian Drone Attack: 419 UAVs Downed Overnight, 50 Near Moscow, Hornet Strike Drones Over 'Novorossiya' Highway",
+    "date": "2026-06-30",
+    "summary_en": "Russian air defense forces shot down 419 Ukrainian drones over Russian regions in a single night — the largest one-day total recorded. At least 50 drones were intercepted near Moscow alone. Ukrainian Hornet strike drones were also destroyed over the 'Novorossiya' highway. The day before, 96 UAVs were downed during daytime, and 209 the previous night, indicating a sustained escalation in the scale and frequency of drone attacks on Russian territory.",
+    "summary": "Российские силы ПВО за одну ночь сбили 419 украинских беспилотников над регионами России — рекордный суточный показатель. Только вблизи Москвы перехвачено не менее 50 БПЛА. Над трассой «Новороссия» уничтожены ударные беспилотники Hornet. Днём ранее были сбиты 96 дронов, а предыдущей ночью — 209, что свидетельствует о последовательной эскалации масштабов и частоты атак беспилотников на территорию России.",
+    "perspective": "Российские источники (Минобороны, «Коммерсантъ», «Ведомости»): ПВО успешно отражает массированные атаки. Характер освещения — констатация роста интенсивности ударов. Оценки с украинской стороны в представленных источниках отсутствуют.",
+    "perspective_type": "assumed",
+    "sources": [
+      "Коммерсантъ",
+      "Ведомости",
+      "Lenta.ru"
+    ],
+    "links": [
+      "https://www.kommersant.ru/doc/8779937",
+      "https://www.kommersant.ru/doc/8779908",
+      "https://www.kommersant.ru/doc/8780159",
+      "https://www.vedomosti.ru/politics/news/2026/06/30/1209870-sili-pvo-za-noch",
+      "https://lenta.ru/news/2026/06/30/udarnye-ukrainskie-bpla-unichtozhili-nad-trassoy-novorossiya/"
+    ],
+    "is_development": true,
+    "first_reported": "2026-06-30",
+    "id": "2c28694a268e"
+  },
+  {
+    "title_ru": "Иран готовится к «историческим» похоронам «павшего лидера»: иностранные делегации прибудут в пятницу, $6 млрд активов разблокированы",
+    "title_en": "Iran Prepares for 'Historic' Funeral of 'Martyred Leader': Foreign Dignitaries Arriving Friday, $6 Billion in Assets Released",
+    "date": "2026-06-30",
+    "summary_en": "Iranian Vice President announced that foreign dignitaries will begin arriving on Friday for the funeral of the 'martyred Leader,' described as a historic ceremony. President Pezeshkian confirmed the release of $6 billion in frozen Iranian assets. Meanwhile, Iran's Foreign Minister held talks with his French counterpart on regional developments, and Tehran continues intensive diplomacy with Iraq, emphasizing 'deep religious and human bonds.'",
+    "summary": "Вице-президент Ирана сообщил, что иностранные высокопоставленные лица начнут прибывать в пятницу на похороны «павшего лидера» — церемонию называют исторической. Президент Пезешкиан подтвердил разблокировку $6 млрд замороженных иранских активов. На этом фоне глава МИД Ирана провёл телефонные переговоры с французским коллегой о региональном развитии, а Тегеран продолжает интенсивную дипломатию с Ираком, подчёркивая глубокие религиозные и человеческие связи.",
+    "perspective": "Иранские источники (IRNA, Tehran Times): событие подаётся как демонстрация национального единства и международного признания; разблокировка активов — как дипломатический успех. Одновременно — сигнал Западу о сохранении регионального влияния Ирана.",
+    "perspective_type": "from_source",
+    "sources": [
+      "IRNA",
+      "Tehran Times"
+    ],
+    "links": [
+      "https://en.irna.ir/news/86196709/Iran-well-prepared-for-historic-funeral-ceremonies-of-martyred",
+      "https://en.irna.ir/news/86195423/Foreign-dignitaries-to-begin-arriving-in-Iran-on-Friday-for-martyred",
+      "https://en.irna.ir/news/86195913/6-billion-of-Iran-s-frozen-assets-to-be-released-says-President",
+      "https://en.irna.ir/news/86196620/Iran-France-foreign-ministers-discuss-regional-developments",
+      "https://en.irna.ir/news/86196331/FM-Araghchi-Iran-Iraq-solidarity-reflects-deep-religious-human"
+    ],
+    "is_development": true,
+    "first_reported": "2026-06-30",
+    "id": "35bd6c6baa3b"
+  },
+  {
+    "title_ru": "Хинштейн доложил Путину о ситуации в Курской области: инвестиции, СЭЗ, энергоблок АЭС-2 и возвращение жителей из плена",
+    "title_en": "Khinshtein Reports to Putin on Kursk Region: Investments, Special Economic Zone, Nuclear Power Unit, and Return of Captive Residents",
+    "date": "2026-06-30",
+    "summary_en": "Kursk Region Governor Alexander Khinshtein delivered a comprehensive report to President Putin covering the region's development despite the difficult border situation. Key points: total investment in the Kursk Special Economic Zone will exceed 245 billion rubles; the launch of Kursk NPP-2 power unit will create capacity reserves; 6.7 billion rubles allocated for agriculture in 2025. Previously, five Kursk residents were returned from Ukrainian captivity, and State Duma deputy Lantratova reported all residents had been brought back from Ukraine.",
+    "summary": "Губернатор Курской области Александр Хинштейн представил Владимиру Путину развёрнутый доклад о развитии региона, несмотря на сложную приграничную ситуацию. Общий объём инвестиций в СЭЗ превысит 245 млрд рублей, запуск энергоблока Курской АЭС-2 создаст резерв мощности, на АПК направлено 6,7 млрд рублей. Ранее из украинского плена вернулись пять жителей области, а депутат Лантратова сообщила о возвращении всех курян с Украины. Путин отметил рост инвестактивности, а Песков назвал заботы жителей Курской области приоритетом президента.",
+    "perspective": "Российские источники: доклад представлен в позитивном ключе — восстановление и развитие региона, несмотря на приграничные трудности. Подчёркивается личное внимание Путина к Курской области. Альтернативные оценки в представленных источниках отсутствуют.",
+    "perspective_type": "from_source",
+    "sources": [
+      "ТАСС",
+      "Ведомости",
+      "Коммерсантъ",
+      "Lenta.ru"
+    ],
+    "links": [
+      "https://www.vedomosti.ru/politics/news/2026/06/30/1210013-hinshtein-dolozhil-putinu",
+      "https://tass.ru/ekonomika/27871937",
+      "https://tass.ru/ekonomika/27871941",
+      "https://tass.ru/politika/27871919",
+      "https://www.kommersant.ru/doc/8780310",
+      "https://www.kommersant.ru/doc/8779521",
+      "https://www.vedomosti.ru/politics/news/2026/06/27/1209356-rossiyu-iz-ukrainskogo"
+    ],
+    "is_development": true,
+    "first_reported": "2026-06-30",
+    "id": "37a58cf0705c"
+  },
+  {
+    "title_ru": "Немецкий Axel Springer завершил покупку The Telegraph за £575 млн",
+    "title_en": "German Axel Springer Completes £575m Takeover of The Telegraph",
+    "date": "2026-06-30",
+    "summary_en": "German media group Axel Springer has completed its £575 million acquisition of the British newspaper The Telegraph. The deal marks a significant shift in the UK media landscape, transferring one of the country's most influential conservative broadsheets to foreign ownership. The takeover had previously faced regulatory scrutiny in the UK.",
+    "summary": "Немецкий медиахолдинг Axel Springer завершил сделку по приобретению британской газеты The Telegraph за £575 млн. Это знаковое событие для медиаландшафта Великобритании: одна из влиятельнейших консервативных газет переходит под иностранный контроль. Ранее сделка проходила проверку британских регуляторов.",
+    "perspective": "The Guardian сообщает о сделке как о свершившемся факте. Оценки различных политических сил не приводятся, однако переход национального консервативного издания под контроль иностранной группы — потенциально чувствительная тема для британского политического истеблишмента.",
+    "perspective_type": "assumed",
+    "sources": [
+      "The Guardian"
+    ],
+    "links": [
+      "https://www.theguardian.com/media/2026/jun/30/telegraph-takeover-germany-axel-springer"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-30",
+    "id": "1e75525dbbf0"
+  },
+  {
+    "title_ru": "Минобороны России сообщило о взятии Богодаровки в Днепропетровской области",
+    "title_en": "Russian Defense Ministry Reports Capture of Bogodarovka in Dnepropetrovsk Region",
+    "date": "2026-06-29",
+    "summary_en": "The Russian Defense Ministry announced the capture of Bogodarovka in Ukraine's Dnepropetrovsk region. This represents a further advance of Russian forces in the area. The announcement came amid the ongoing escalation of drone warfare, with 96 UAVs downed over Russian territory during the same day.",
+    "summary": "Министерство обороны России сообщило о взятии населённого пункта Богодаровка в Днепропетровской области Украины. Это очередное продвижение российских сил на данном участке. Сообщение поступило на фоне продолжающейся эскалации беспилотной войны — в тот же день над Россией было сбито 96 БПЛА.",
+    "perspective": "Российские источники подают событие как военный успех. Украинская сторона не комментирует в представленных источниках. Взятие Богодаровки — часть продолжающегося наступления российских войск.",
+    "perspective_type": "assumed",
+    "sources": [
+      "Коммерсантъ"
+    ],
+    "links": [
+      "https://www.kommersant.ru/doc/8779317"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-29",
+    "id": "8c797d6e3d09"
+  },
+  {
+    "title_ru": "В Индонезии бывший министр Надием Макарим приговорён к 10 годам тюрьмы",
+    "title_en": "Former Indonesian Minister Nadiem Makarim Sentenced to 10 Years in Prison",
+    "date": "2026-06-30",
+    "summary_en": "A panel of judges in Indonesia sentenced former Minister Nadiem Makarim to 10 years in prison. Makarim, previously a high-profile tech entrepreneur and founder of Gojek, served in the Indonesian cabinet. The conviction is part of a broader anti-corruption drive, with Indonesia's KPK also confirming its 14th sting operation of 2026 in Kuansing, Riau.",
+    "summary": "Коллегия судей в Индонезии приговорила бывшего министра Надиема Макарима к 10 годам тюремного заключения. Макарим — известный технологический предприниматель, основатель Gojek — занимал пост в правительстве Индонезии. Приговор вынесен на фоне масштабной антикоррупционной кампании: KPK подтвердила проведение 14-й операции с поличным в 2026 году.",
+    "perspective": "Индонезийские государственные СМИ (Antara) сообщают о приговоре без политических оценок. Приговор в отношении бывшего министра — значимое антикоррупционное событие, которое может иметь политический резонанс в Индонезии.",
+    "perspective_type": "assumed",
+    "sources": [
+      "Antara"
+    ],
+    "links": [
+      "https://www.antaranews.com/video/5629127/majelis-hakim-vonis-nadiem-makarim-10-tahun-penjara",
+      "https://www.antaranews.com/berita/5629167/kpk-konfirmasi-lakukan-ott-ke-14-sepanjang-2026-di-kuansing-riau"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-30",
+    "id": "7a55a5a695aa"
   }
 ]
