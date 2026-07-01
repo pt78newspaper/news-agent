@@ -1052,5 +1052,162 @@
     "is_development": false,
     "first_reported": "2026-06-30",
     "id": "7a55a5a695aa"
+  },
+  {
+    "title_ru": "США и Иран начали непрямые переговоры в Дохе после обмена ударами",
+    "title_en": "US and Iran Begin Indirect Talks in Doha After Trading Attacks",
+    "date": "2026-07-01",
+    "summary_en": "US and Iranian delegations have begun indirect talks in Doha, Qatar, following a sharp escalation that included mutual strikes and Trump's threat to 'annihilate' Iran over the Strait of Hormuz. The talks, mediated by Qatar, involve Trump envoys Witkoff and Kushner; the US views the diplomatic track positively, though the outcome remains uncertain.",
+    "summary": "Американская и иранская делегации начали непрямые переговоры в Дохе (Катар) после резкой эскалации: взаимных ударов и угроз Трампа «уничтожить» Иран из-за ситуации в Ормузском проливе. Переговоры идут при посредничестве Катара, с американской стороны участвуют спецпосланники Уиткофф и Кушнер; США оценивают дипломатический трек положительно.",
+    "perspective": "Администрация США оценивает переговоры позитивно (Bloomberg); Трамп ранее заявлял, что Иран «согласился» на мирные переговоры. Иранские источники (IRNA) подчёркивают «конструктивные» переговоры главы МИД в Ираке по двусторонним и региональным вопросам. Ястребиные круги могут счесть переговоры уступкой, умеренные — необходимой деэскалацией.",
+    "perspective_type": "from_source",
+    "sources": [
+      "The New York Times",
+      "The Guardian",
+      "The Hindu",
+      "TASS",
+      "DW",
+      "IRNA"
+    ],
+    "links": [
+      "https://www.nytimes.com/2026/07/01/world/middleeast/us-iran-diplomacy-qatar.html",
+      "https://www.theguardian.com/world/2026/jun/29/trump-iran-peace-talks-doha",
+      "https://www.thehindu.com/news/international/us-iran-deal-strikes-live-updates-july-1-2026-trump-israel-west-asia-war/article71168436.ece",
+      "https://tass.com/world/2153933",
+      "https://tass.com/world/2153825",
+      "https://www.dw.com/en/middle-east-updates-iran-us-to-attend-talks-in-qatar/live-77780323?maca=en-rss-en-all-1573-xml-mrss",
+      "https://en.irna.ir/news/86197605/Iran-FM-Iraq-visit-included-constructive-talks-on-bilateral"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-01",
+    "id": "ca09c16599bd"
+  },
+  {
+    "title_ru": "Трамп заработал более $1 млрд на криптовалютах за первый год после возвращения в Белый дом",
+    "title_en": "Trump Earned Over $1 Billion from Crypto in First Year Back in Office",
+    "date": "2026-07-01",
+    "summary_en": "A federal financial disclosure reveals that Donald Trump earned between $1 billion and $2 billion from cryptocurrency ventures in 2025, his first year back as president. The White House has rejected conflict-of-interest concerns, while critics and media describe the revelations as 'alarm bells' over the sitting president's personal financial stake in an industry he regulates.",
+    "summary": "Федеральная финансовая отчётность показала, что Дональд Трамп заработал от $1 млрд до $2 млрд на криптовалютных проектах в 2025 году — первый год после возвращения в должность. Белый дом отвергает обвинения в конфликте интересов; критики и СМИ характеризуют ситуацию как «тревожный сигнал»: президент лично обогащается на индустрии, которую регулирует.",
+    "perspective": "Белый дом отвергает опасения о конфликте интересов. The Guardian называет сумму «тревожным сигналом» (alarm bells), BBC и CBC подчёркивают масштаб заработка. E. Jean Carroll требует от Трампа выплатить $5 млн по ранее присуждённому иску — это усиливает нарратив о неподсудности и вседозволенности.",
+    "perspective_type": "from_source",
+    "sources": [
+      "The Guardian",
+      "BBC",
+      "CBC",
+      "DW",
+      "The New York Times"
+    ],
+    "links": [
+      "https://www.theguardian.com/us-news/live/2026/jul/01/donald-trump-cryptocurrencies-supreme-court-birthright-citizenship-save-america-act-latest-news-updates",
+      "https://www.theguardian.com/us-news/2026/jul/01/first-thing-trump-crypto-billion",
+      "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+      "https://www.cbc.ca/news/world/trump-crypto-earnings-2025-9.7255105?cmp=rss",
+      "https://www.dw.com/en/us-trump-earned-over-1-4-billion-in-2025-led-by-crypto-ventures/a-77778642?maca=en-rss-en-all-1573-xml-mrss",
+      "https://www.theguardian.com/us-news/2026/jul/01/e-jean-carroll-donald-trump-pay"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-01",
+    "id": "ddac84365fb3"
+  },
+  {
+    "title_ru": "Путин: Украина заплатит территориями за вторжение в Курскую область, переговоры возможны в Минске",
+    "title_en": "Putin: Ukraine Will Pay with Territories for Kursk Incursion, Talks Possible in Minsk",
+    "date": "2026-06-29",
+    "summary_en": "In a series of statements, Vladimir Putin said Ukraine would 'pay with territories' for its incursion into Kursk region, suggested that peace negotiations could be held in Minsk, and expressed doubt that Donald Trump has changed his position on Ukraine. Putin also stated that no agreements were reached at the Anchorage talks and that Ukraine's statements do not cause panic in Lukashenko.",
+    "summary": "Владимир Путин сделал ряд заявлений: Украина «заплатит территориями» за вторжение в Курскую область; мирные переговоры можно провести в Минске; он не уверен, изменил ли Трамп позицию по Украине; в Анкоридже не было никаких договорённостей; заявления Украины не вызывают паники у Лукашенко.",
+    "perspective": "С российской стороны — демонстрация жёсткой позиции и открытости к переговорам на своих условиях. Украинская сторона, вероятно, воспримет заявления как ультиматум и отказ от компромисса. На Западе сигнал о Минске как площадке может трактоваться как попытка легитимизации роли Белоруссии.",
+    "perspective_type": "assumed",
+    "sources": [
+      "Коммерсантъ",
+      "Ведомости"
+    ],
+    "links": [
+      "https://www.kommersant.ru/doc/8779161",
+      "https://www.kommersant.ru/doc/8779041",
+      "https://www.kommersant.ru/doc/8779033",
+      "https://www.kommersant.ru/doc/8779009",
+      "https://www.kommersant.ru/doc/8779016",
+      "https://www.vedomosti.ru/politics/articles/2026/06/28/1209523-glavnoe-iz-otvetov-putina"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-29",
+    "id": "c7cb88208a41"
+  },
+  {
+    "title_ru": "Продолжение массированных налётов украинских БПЛА: 179 дронов за ночь, 9 сбито на подлёте к Москве",
+    "title_en": "Mass Ukrainian Drone Strikes Continue: 179 Drones Overnight, 9 Shot Down Near Moscow",
+    "date": "2026-07-01",
+    "summary_en": "Russian air defenses shot down 179 Ukrainian drones overnight on July 1, including 9 intercepted on approach to Moscow (6 initially, then 3 more). This follows the record 419 drones shot down the previous night (June 30). Debris from a downed drone fell on an unfinished building in the Penza region.",
+    "summary": "Российские силы ПВО сбили 179 украинских БПЛА за ночь на 1 июля, из них 9 — на подлёте к Москве (6, затем ещё 3). Это продолжение рекордного налёта 30 июня, когда было сбито 419 дронов. Обломки одного БПЛА упали на недостроенное здание в Пензенской области.",
+    "perspective": "Минобороны России акцентирует эффективность ПВО. Для украинской стороны — демонстрация способности наносить удары вглубь территории России, включая московский регион. Интенсивность атак указывает на эскалацию войны дронов.",
+    "perspective_type": "assumed",
+    "sources": [
+      "Коммерсантъ",
+      "Ведомости"
+    ],
+    "links": [
+      "https://www.kommersant.ru/doc/8780812",
+      "https://www.kommersant.ru/doc/8780905",
+      "https://www.vedomosti.ru/politics/news/2026/07/01/1210261-na-podlete",
+      "https://www.kommersant.ru/doc/8780744",
+      "https://www.kommersant.ru/doc/8779937"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-01",
+    "id": "fec1c1fcd33a"
+  },
+  {
+    "title_ru": "Армия России взяла под контроль населённый пункт в Запорожской области",
+    "title_en": "Russian Army Takes Control of Settlement in Zaporozhye Region",
+    "date": "2026-07-01",
+    "summary_en": "The Russian military has taken control of a settlement in Ukraine's Zaporozhye region, according to Russian sources. This follows the earlier capture of Bogodarovka in the Dnipropetrovsk region on June 29.",
+    "summary": "Российские военные взяли под контроль населённый пункт в Запорожской области, сообщают российские источники. Это произошло вслед за взятием Богодаровки в Днепропетровской области 29 июня.",
+    "perspective": "Минобороны России подаёт это как успешное продвижение. Украинская сторона информацию не подтверждает в рамках данной подборки. Независимого подтверждения из представленных источников нет.",
+    "perspective_type": "unclear",
+    "sources": [
+      "Lenta.ru"
+    ],
+    "links": [
+      "https://lenta.ru/news/2026/07/01/armiya-rossii-vzyala-pod-kontrol-naselennyy-punkt-v-zaporozhskoy-oblasti/"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-01",
+    "id": "8210b977ae86"
+  },
+  {
+    "title_ru": "Ирландия принимает председательство в Совете ЕС",
+    "title_en": "Ireland Takes Over Rotating EU Council Presidency",
+    "date": "2026-07-01",
+    "summary_en": "Ireland is set to assume the rotating presidency of the Council of the European Union, with an opening ceremony in Dublin. The presidency, which rotates every six months, gives Ireland agenda-setting powers over EU policy and legislation for the second half of 2026.",
+    "summary": "Ирландия принимает полугодовое председательство в Совете ЕС — церемония открытия проходит в Дублине. Это даёт Дублину право формировать повестку и продвигать законодательные приоритеты Евросоюза на вторую половину 2026 года.",
+    "perspective": "Для Ирландии — возможность продвинуть национальные приоритеты на общеевропейском уровне. Для стран ЕС — стандартная ротация; внимание будет приковано к тому, как Дублин справится с текущими вызовами союза, включая отношения с США и Китаем.",
+    "perspective_type": "assumed",
+    "sources": [
+      "The Guardian"
+    ],
+    "links": [
+      "https://www.theguardian.com/world/live/2026/jul/01/ireland-set-to-take-presidency-of-eu-in-dublin-opening-ceremony-europe-live"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-01",
+    "id": "fbee3a10fffc"
+  },
+  {
+    "title_ru": "Новые правила ЕС грозят закрыть доступ британским автопроизводителям на европейский рынок",
+    "title_en": "New EU Rules Threaten to Shut Out UK Car Manufacturers",
+    "date": "2026-07-01",
+    "summary_en": "New European Union regulations are threatening to block UK car manufacturers from the European market, in what The Guardian describes as 'the most spectacular own goal in history.' The rules highlight ongoing post-Brexit trade frictions between the UK and the EU.",
+    "summary": "Новые правила Европейского союза угрожают закрыть британским автопроизводителям доступ на европейский рынок. The Guardian называет ситуацию «самым зрелищным автоголом в истории», подчёркивая сохраняющиеся постбрекситовские торговые трения между Великобританией и ЕС.",
+    "perspective": "Британские производители и эксперты оценивают ситуацию крайне негативно, называя её «автоголом». В ЕС, вероятно, рассматривают новые правила как логичное применение регуляторных стандартов. Лейбористское правительство сталкивается с давлением промышленности.",
+    "perspective_type": "from_source",
+    "sources": [
+      "The Guardian"
+    ],
+    "links": [
+      "https://www.theguardian.com/business/2026/jul/01/eu-rules-threaten-to-shut-out-uk-car-manufacturers-motor-industry"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-01",
+    "id": "9cfaf4bf7a88"
   }
 ]
