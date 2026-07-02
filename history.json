@@ -1209,5 +1209,181 @@
     "is_development": false,
     "first_reported": "2026-07-01",
     "id": "9cfaf4bf7a88"
+  },
+  {
+    "title_ru": "Массированный российский удар по Киеву: не менее 18 погибших",
+    "title_en": "Russia Launches Massive Strike on Kyiv, Killing at Least 18",
+    "date": "2026-07-02",
+    "summary_en": "Russia carried out what is described as the 'most massive' drone and missile attack on Kyiv, killing at least 18 people and injuring scores. A nine-storey apartment building partially collapsed, trapping residents. Russia's military chief reported to Putin that this was a retaliatory massive strike.",
+    "summary": "Россия нанесла массированный удар беспилотниками и ракетами по Киеву — по оценкам BBC, «самый массированный» за время конфликта. Погибли не менее 18 человек, десятки ранены; девятиэтажный жилой дом частично обрушился. Начальник российского Генштаба доложил Путину о результатах массированного ответного удара.",
+    "perspective": "Западные источники (BBC, Guardian, NYT, DW) акцентируют жертвы среди гражданских и называют атаку «самой массированной». Российские источники (ТАСС) подают удар как «ответный» и подчёркивают военную логику.",
+    "perspective_type": "from_source",
+    "sources": [
+      "BBC",
+      "The Guardian",
+      "The New York Times",
+      "DW",
+      "TASS",
+      "CBC",
+      "NPR",
+      "Times of India",
+      "The Hindu"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c4gyv05gk4do",
+      "https://www.theguardian.com/world/2026/jul/02/russia-attacks-kyiv-missiles-drones-ukraine",
+      "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack/ukraine-kyiv-russia-attack",
+      "https://www.dw.com/en/russia-launches-attacks-on-kyiv-killing-at-least-18-and-injuring-scores/a-77794194",
+      "https://tass.com/politics/2154381",
+      "https://tass.com/defense/2154227",
+      "https://tass.com/politics/2154327",
+      "https://www.cbc.ca/news/world/missile-drone-attack-kyiv-russia-war-9.7255625",
+      "https://www.npr.org/2026/07/02/g-s1-131681/russian-attack-ukraine",
+      "https://timesofindia.indiatimes.com/world/europe/watch-9-storey-kyiv-apartment-building-partially-collapses-after-russian-attack-residents-trapped/articleshow/132127343.cms"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-02",
+    "id": "63e64fd8f57d"
+  },
+  {
+    "title_ru": "Рекордная интенсивность налётов украинских БПЛА на Россию: до 419 дронов за ночь",
+    "title_en": "Ukrainian Drone Campaign Against Russia Reaches Unprecedented Intensity: Up to 419 UAVs in One Night",
+    "date": "2026-07-02",
+    "summary_en": "Ukrainian drone attacks on Russian territory have sharply intensified: 419 UAVs were downed overnight on June 30, 327 on July 2. A drone attack on Nizhny Novgorod region killed one person and injured four. On July 1, at least 11 drones were intercepted near Moscow in a single night. The Russian Foreign Ministry described Kyiv's 40-day operation as evidence of its 'terrorist nature.'",
+    "summary": "Атаки украинских БПЛА на территорию России резко интенсифицировались: за одну ночь 30 июня силы ПВО сбили 419 дронов, 2 июля — 327. В Нижегородской области один человек погиб, четверо ранены. На подлёте к Москве регулярно сбивают десятки БПЛА. МИД РФ охарактеризовал 40-дневную операцию Киева как свидетельство его «террористической природы».",
+    "perspective": "Российские источники («Коммерсантъ», «Ведомости», ТАСС) фиксируют нарастание угрозы, но подчёркивают эффективность ПВО. Для западных читателей масштаб кампании БПЛА сигнализирует о способности Украины наносить удары вглубь России.",
+    "perspective_type": "from_source",
+    "sources": [
+      "Коммерсантъ",
+      "Ведомости",
+      "ТАСС",
+      "Lenta.ru"
+    ],
+    "links": [
+      "https://www.kommersant.ru/doc/8779937",
+      "https://www.kommersant.ru/doc/8780008",
+      "https://www.kommersant.ru/doc/8781467",
+      "https://www.vedomosti.ru/politics/news/2026/07/02/1210512-10-bespilotnikov",
+      "https://tass.com/politics/2154357",
+      "https://tass.com/politics/2154135",
+      "https://tass.ru/proisshestviya/27878991"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-02",
+    "id": "e3f9c1635a33"
+  },
+  {
+    "title_ru": "Убит верховный лидер Ирана: траур, обещания возмездия и предупреждения врагам",
+    "title_en": "Iran's Supreme Leader Assassinated: Mourning, Vows of Retaliation, and Warnings to Enemies",
+    "date": "2026-07-02",
+    "summary_en": "Iran is preparing a farewell ceremony for its assassinated Supreme Leader at Tehran's Grand Mosalla. President Pezeshkian declared the martyred Leader's legacy marks a 'new chapter.' Top military commander warned enemies against 'miscalculations,' and the security chief vowed justice. Iran also reiterated its missile and drone capabilities are 'non-negotiable' and warned Israel of 'immediate and powerful' retaliation.",
+    "summary": "Иран готовит церемонию прощания с убитым верховным лидером в Тегеранской Grand Mosalla. Президент Пезешкиан заявил, что наследие «мученика» открывает «новую главу». Главный военный командующий предупредил врагов от «просчётов», глава службы безопасности пообещал возмездие. Тегеран подтвердил, что ракетный и дроновый потенциал «не подлежит обсуждению», и предупредил Израиль о «немедленном и мощном» ответе.",
+    "perspective": "Иранские государственные агентства (IRNA, Tehran Times) подают убийство как мученичество, подчёркивают национальное единство и транслируют угрозы Израилю и США. Западные оценки события в представленной выборке отсутствуют.",
+    "perspective_type": "from_source",
+    "sources": [
+      "IRNA",
+      "Tehran Times"
+    ],
+    "links": [
+      "https://en.irna.ir/news/86198945/President-Pezeshkian-says-martyred-Leader-s-legacy-marks-new",
+      "https://en.irna.ir/news/86198892/Iran-s-top-commander-warns-enemies-against-miscalculations",
+      "https://en.irna.ir/news/86198114/Those-responsible-for-Leader-s-martyrdom-will-face-justice-Security",
+      "https://www.tehrantimes.com/news/527822/Iran-vows-justice-for-Leader-s-assassination",
+      "https://www.tehrantimes.com/news/527823/Iran-s-missile-and-drone-capabilities-remain-non-negotiable",
+      "https://www.tehrantimes.com/news/527825/Tehran-warns-Israel-of-immediate-and-powerful-retaliation-as",
+      "https://en.irna.ir/news/86197853/Tehran-Grand-Mosalla-prepares-for-farewell-ceremony-for-martyred"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-02",
+    "id": "3535b8712cc5"
+  },
+  {
+    "title_ru": "США и Иран в Дохе: переговоры о замороженных активах на фоне взаимного недоверия",
+    "title_en": "US-Iran Talks in Doha: Frozen Assets on Agenda Amid Mutual Distrust",
+    "date": "2026-07-02",
+    "summary_en": "Iran's negotiator Gharibabadi stated that Doha talks focused on US violations of the existing Memorandum of Understanding and the issue of frozen assets, contradicting US claims about the agenda. Iran's parliamentary speaker Qalibaf denied IAEA access to bombed sites. Tensions persist over the Strait of Hormuz, with Iran declaring it will not back down from its rights there. This follows late-June crossfire and Trump's threat to 'annihilate' Iran.",
+    "summary": "Иранский переговорщик Гарибабади заявил, что переговоры в Дохе касаются нарушений США существующего Меморандума и замороженных активов, — это противоречит американской версии повестки. Спикер парламента Галибаф опроверг доступ МАГАТЭ к разбомблённым объектам. Сохраняется напряжённость вокруг Ормузского пролива — Иран заявляет, что не отступит. Этому предшествовали взаимные удары в конце июня и угроза Трампа «уничтожить» Иран.",
+    "perspective": "Иранские источники настаивают, что переговоры — о нарушениях США, а не о ядерных уступках. Западные источники (The Guardian) фиксируют, что эскалация ударов ставит под угрозу промежуточное мирное соглашение.",
+    "perspective_type": "from_source",
+    "sources": [
+      "IRNA",
+      "Tehran Times",
+      "The Guardian"
+    ],
+    "links": [
+      "https://en.irna.ir/news/86198582/Gharibabadi-Doha-talks-focused-on-US-violations-of-MoU-by-US",
+      "https://www.tehrantimes.com/news/527826/In-Doha-Iran-tends-to-frozen-funds-as-US-claims-talks-that-are",
+      "https://en.irna.ir/news/86198715/Ghalibaf-Claims-of-IAEA-access-to-bombed-sites-are-false",
+      "https://en.irna.ir/news/86198728/Gharibabadi-Hormuz-defined-under-Iran-s-command-not-Washington-s",
+      "https://www.theguardian.com/world/2026/jun/29/trump-iran-peace-talks-doha",
+      "https://www.theguardian.com/world/2026/jun/28/escalating-us-iran-strikes-threaten-interim-peace-agreement",
+      "https://www.theguardian.com/world/live/2026/jun/28/iran-strait-of-hormuz-donald-trump-vance-peace-talks-bahrain-kuwait-strikes-latest-news-updates"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-02",
+    "id": "175401f2795b"
+  },
+  {
+    "title_ru": "Трамп использовал 250-летие США для продвижения собственной повестки — доклад Конгресса",
+    "title_en": "Trump Hijacked US 250th Anniversary for Political Agenda, Congressional Report Says",
+    "date": "2026-07-02",
+    "summary_en": "A congressional report accuses Donald Trump of hijacking the US Semiquincentennial (250th anniversary) to serve his 'political ideology and pet projects.' In response, Democratic figure Zohran Mamdani planned a 'major address' ahead of Trump's speech at Mount Rushmore. The anniversary has become a political battleground.",
+    "summary": "Доклад Конгресса США обвинил Дональда Трампа в том, что он использовал празднование 250-летия США для обслуживания собственной «политической идеологии и любимых проектов». Демократ Зоран Мамдани запланировал «программное обращение» в ответ на речь Трампа у горы Рашмор. Юбилей превратился в поле политического противостояния.",
+    "perspective": "The Guardian освещает событие через призму критики Трампа со стороны Конгресса и демократов. Прямой реакции республиканцев в выборке нет.",
+    "perspective_type": "from_source",
+    "sources": [
+      "The Guardian"
+    ],
+    "links": [
+      "https://www.theguardian.com/us-news/2026/jul/02/trump-hijacked-250-anniversary",
+      "https://www.theguardian.com/us-news/live/2026/jul/02/donald-trump-us-politics-250-anniversary-republicans-democrats-latest-news-updates",
+      "https://www.theguardian.com/us-news/live/2026/jul/01/donald-trump-cryptocurrencies-supreme-court-birthright-citizenship-save-america-act-latest-news-updates"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-02",
+    "id": "3e54ceb92cfd"
+  },
+  {
+    "title_ru": "Германия вылетает с ЧМ-2026: политический резонанс и реакция канцлера",
+    "title_en": "Germany Exits 2026 World Cup: Political Resonance and Chancellor's Backfiring Message",
+    "date": "2026-07-01",
+    "summary_en": "Germany was eliminated from the 2026 World Cup after a penalty shootout loss to Paraguay. The Chancellor's message of consolation 'backfired,' according to DW. NYT reported that the World Cup loss dominated German news, 'displacing even a mass shooting.' Commentators link the sporting failure to broader national malaise, echoing analyses of Italy's parallel failure.",
+    "summary": "Германия выбыла с ЧМ-2026 после поражения от Парагвая по пенальти. Сообщение канцлера с соболезнованиями «имело обратный эффект» (DW). NYT отмечает, что вылет с турнира затмил в немецких новостях даже массовую стрельбу. Журналисты проводят параллели с непопаданием Италии на ЧМ, усматривая в спортивных провалах симптомы национального недомогания.",
+    "perspective": "DW и NYT связывают спортивный результат с политическим фоном: неудачная реакция канцлера, вытеснение других новостей, аналогии с Италией. Немецкие СМИ (DW) акцентируют разочарование и поиск причин.",
+    "perspective_type": "from_source",
+    "sources": [
+      "DW",
+      "The New York Times"
+    ],
+    "links": [
+      "https://www.dw.com/en/chancellor-s-message-to-germany-s-world-cup-exit-backfires/a-77790831",
+      "https://www.dw.com/en/germany-out-of-2026-world-cup-what-went-wrong/a-77764683",
+      "https://www.dw.com/en/germany-out-of-world-cup-after-loss-on-penalties-to-paraguay/a-77760529",
+      "https://www.nytimes.com/2026/06/30/world/europe/germany-shooting-stade-world-cup.html",
+      "https://www.nytimes.com/2026/06/30/world/europe/italy-soccer-world-cup-national-malaise.html"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-01",
+    "id": "98365ecef248"
+  },
+  {
+    "title_ru": "Вспышка Эболы в Конго: 438 погибших, число случаев растёт",
+    "title_en": "Ebola Outbreak in Congo: 438 Dead as Cases Continue to Rise",
+    "date": "2026-07-02",
+    "summary_en": "An Ebola outbreak in Congo has killed 438 people, with case numbers continuing to grow, according to Indonesian news agency Antara. The Guardian separately reported on the importance of understanding Ebola's wildlife origins to prevent future outbreaks. The outbreak is receiving international attention amid concerns about containment.",
+    "summary": "Вспышка вируса Эбола в Конго унесла жизни 438 человек, число заболевших продолжает расти, сообщает индонезийское агентство Antara. The Guardian подчёркивает важность изучения природных резервуаров вируса для предотвращения будущих вспышек. Ситуация привлекает международное внимание на фоне опасений по поводу сдерживания эпидемии.",
+    "perspective": "Новость подаётся как фактологическая; обеспокоенность гуманитарными последствиями и риском распространения. The Guardian делает акцент на научно-превентивном аспекте.",
+    "perspective_type": "from_source",
+    "sources": [
+      "Antara News",
+      "The Guardian"
+    ],
+    "links": [
+      "https://www.antaranews.com/berita/5632657/wabah-ebola-di-kongo-tewaskan-438-orang-kasus-terus-bertambah",
+      "https://www.theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-02",
+    "id": "8b50a5b80b72"
   }
 ]
