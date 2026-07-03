@@ -1385,5 +1385,182 @@
     "is_development": false,
     "first_reported": "2026-07-02",
     "id": "8b50a5b80b72"
+  },
+  {
+    "title_ru": "Похороны аятоллы Хаменеи в Тегеране: делегации из 100 стран, Медведев и премьер Пакистана прибыли на церемонию",
+    "title_en": "Ayatollah Khamenei's Funeral in Tehran: Delegations from 100 Countries, Medvedev and Pakistan's PM Attend",
+    "date": "2026-07-03",
+    "summary_en": "Iran began funeral ceremonies for assassinated Supreme Leader Ali Khamenei in Tehran on July 3, launching a six-day mourning process expected to draw millions. Russia's Medvedev, Pakistan's prime minister, Tajikistan's president, and officials from 100 countries are attending. Iranian officials frame the funeral as a show of power, with Speaker Ghalibaf calling for 'true revenge' by ending US and Israeli 'oppression.' Mojtaba Khamenei, the new Supreme Leader, will reportedly skip his father's funeral due to security concerns.",
+    "summary": "3 июля в Тегеране начались шестидневные похоронные церемонии убитого верховного лидера Ирана Али Хаменеи. На прощание прибыли делегации из 100 стран, включая зампреда Совбеза РФ Медведева, премьер-министра Пакистана и президента Таджикистана. Иранские власти характеризуют похороны как демонстрацию силы: спикер парламента Галибаф призвал к «подлинному возмездию» — прекращению угнетения мусульман со стороны США и Израиля. Новый верховный лидер Моджтаба Хаменеи, по сообщениям, пропустит похороны отца из соображений безопасности.",
+    "category": "politics",
+    "perspective": "Иранские власти: демонстрация национального единства, легитимности режима и широкой международной поддержки; мобилизация антизападных настроений. Западные аналитики (DW, Guardian): похороны используются как «шоу силы» для консолидации власти новым руководством на фоне эскалации с США. Региональные игроки: участие высокопоставленных лиц указывает на сохранение союзнических связей Ирана.",
+    "perspective_type": "from_source",
+    "sources": [
+      "The Guardian",
+      "DW",
+      "IRNA",
+      "TASS",
+      "Tehran Times",
+      "Times of India",
+      "Indian Express"
+    ],
+    "links": [
+      "https://www.theguardian.com/world/2026/jul/03/ali-khamenei-six-day-funeral-millions-iran",
+      "https://www.dw.com/en/iran-turns-khamenei-funeral-into-show-of-power/a-77805433?maca=en-rss-en-all-1573-xml-mrss",
+      "https://en.irna.ir/news/86199400/Iran-begins-funeral-ceremonies-for-martyred-Leader-in-Tehran",
+      "https://en.irna.ir/news/86199075/Officials-from-100-countries-to-attend-Ayatollah-Khamenei-s-funeral",
+      "https://tass.com/world/2154691",
+      "https://en.irna.ir/news/86199101/Russia-s-Medvedev-to-attend-Ayatollah-Khamenei-s-funeral",
+      "https://timesofindia.indiatimes.com/world/middle-east/irans-supreme-leader-mojtaba-khamenei-to-skip-father-ali-khameneis-funeral-over-security-fears-report/articleshow/132150160.cms"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-03",
+    "id": "d0d97da8f39c"
+  },
+  {
+    "title_ru": "Крупнейшая атака года на Киев: 496 дронов и 74 ракеты, не менее 27 погибших",
+    "title_en": "Largest Attack on Kyiv This Year: 496 Drones and 74 Missiles, at Least 27 Dead",
+    "date": "2026-07-03",
+    "summary_en": "Russia launched its deadliest strike on Ukraine this year on July 2, firing 496 drones and 74 missiles at Kyiv and other targets, killing at least 27 people. The attack, described by Kyiv as its 'worst,' prompted a day of mourning. Despite the massive bombardment, the NYT reports that Russia's wider military campaign has largely stalled. The strikes reminded Europe of its own vulnerabilities, with Ukraine also continuing to hit Russian oil and weapons facilities.",
+    "summary": "2 июля Россия нанесла самый смертоносный удар по Украине в 2026 году: 496 дронов и 74 ракеты обрушились на Киев и другие цели, погибли не менее 27 человек. В Киеве объявлен день траура. При этом, по оценке NYT, более широкая военная кампания России в основном застопорилась. Удар стал напоминанием Европе о её уязвимости. Украина, со своей стороны, продолжает наносить удары по российским нефтяным и оружейным объектам.",
+    "category": "politics",
+    "perspective": "Украина и Запад (Indian Express, Guardian, NYT, DW): неизбирательный удар по гражданской инфраструктуре, военное преступление, демонстрация уязвимости Европы перед российским арсеналом. Россия (TASS, Kommersant): ответ на украинские атаки, продолжение СВО; акцент на stalled campaign («застопорившаяся кампания») в NYT может восприниматься как свидетельство ограниченности российского наступления.",
+    "perspective_type": "from_source",
+    "sources": [
+      "Indian Express",
+      "DW",
+      "NYT",
+      "Times of India",
+      "CBC",
+      "Tagesschau",
+      "TASS"
+    ],
+    "links": [
+      "https://indianexpress.com/article/world/russia-drone-missile-attack-ukraine-kyiv-death-toll-rise-10769158/",
+      "https://www.dw.com/en/ukraine-russia-strikes-kill-4-day-of-mourning-in-kyiv/a-77813693?maca=en-rss-en-all-1573-xml-mrss",
+      "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack",
+      "https://timesofindia.indiatimes.com/world/europe/496-drones-74-missiles-russia-launches-deadliest-strike-on-ukraine-this-year-at-least-27-dead/articleshow/132150696.cms",
+      "https://www.cbc.ca/news/world/missile-drone-attack-kyiv-russia-war-9.7255625?cmp=rss",
+      "https://www.nytimes.com/2026/07/02/world/europe/russia-ukraine-military-battlefield.html"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-03",
+    "id": "2f23ecaf5503"
+  },
+  {
+    "title_ru": "Новая волна атак БПЛА на Москву: 155 дронов сбито за ночь, восемь за утро 3 июля",
+    "title_en": "New Wave of Drone Attacks on Moscow: 155 Shot Down Overnight, Eight More by Morning of July 3",
+    "date": "2026-07-03",
+    "summary_en": "Russian air defense forces shot down 155 Ukrainian drones over Russia overnight on July 2-3, with eight more intercepted on approach to Moscow by mid-morning of July 3. This follows a record 327 drones downed the previous night (July 1-2) and 419 on June 29-30. Ukrainian drone attacks continue to target Moscow and multiple Russian regions, with infrastructure damage reported in Nizhny Novgorod, Penza, and other areas. Civilian casualties have been reported in Belgorod, LNR, and elsewhere.",
+    "summary": "В ночь на 3 июля силы ПВО РФ сбили 155 украинских беспилотников над Россией; утром 3 июля — ещё восемь на подлёте к Москве. Это продолжение рекордной серии: 327 БПЛА сбито в ночь на 2 июля, 419 — на 30 июня. Атаки затронули Москву, Нижегородскую, Пензенскую, Белгородскую, Брянскую области и другие регионы. Есть жертвы среди гражданского населения: погибшая в Белгороде при ракетной атаке, раненые в Пензе, погибший взрывотехник Росгвардии под Курском.",
+    "category": "politics",
+    "perspective": "Российские власти (Kommersant, Vedomosti, TASS, Lenta): беспрецедентная по интенсивности террористическая кампания Украины против гражданской инфраструктуры; ПВО справляется, но растёт число жертв. Украина и западные аналитики: демонстрация способности наносить удары вглубь РФ, ответ на массированные бомбардировки Киева; стратегия «войны на истощение».",
+    "perspective_type": "from_source",
+    "sources": [
+      "Kommersant",
+      "Vedomosti",
+      "Lenta.ru",
+      "TASS"
+    ],
+    "links": [
+      "https://www.kommersant.ru/doc/8782319",
+      "https://www.kommersant.ru/doc/8782480",
+      "https://www.vedomosti.ru/politics/news/2026/07/03/1210915-sbili-bespilotnik",
+      "https://lenta.ru/news/2026/07/03/ukraina-popytalas-atakovat-moskvu/",
+      "https://tass.ru/proisshestviya/27881655",
+      "https://www.kommersant.ru/doc/8781543",
+      "https://www.kommersant.ru/doc/8781552"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-03",
+    "id": "f9e5cdcc5dfb"
+  },
+  {
+    "title_ru": "Премьер-министр Молдовы Мунтяну подал в отставку",
+    "title_en": "Moldovan Prime Minister Munteanu Resigns",
+    "date": "2026-07-03",
+    "summary_en": "Moldovan Prime Minister Munteanu announced his resignation on July 3. The reason for the resignation was not immediately disclosed in available reports. The announcement was confirmed by multiple Russian news agencies including TASS, Kommersant, and Belta. Moldova, a country navigating between pro-European and pro-Russian political forces, now faces a period of governmental uncertainty.",
+    "summary": "Премьер-министр Молдовы Мунтяну 3 июля заявил об отставке. Причины немедленно не раскрыты. Сообщение подтверждено российскими агентствами ТАСС, «Коммерсантъ» и белорусским БелТА. Молдова, балансирующая между проевропейскими и пророссийскими политическими силами, вступает в период правительственной неопределённости.",
+    "category": "politics",
+    "perspective": "Проевропейские силы: возможный кризис реформистского правительства, риск дестабилизации на фоне давления РФ. Пророссийские силы: свидетельство провала прозападного курса, экономических трудностей. Россия: нейтральный интерес — Молдова остаётся в сфере геополитического соперничества.",
+    "perspective_type": "unclear",
+    "sources": [
+      "Belta",
+      "Kommersant",
+      "TASS"
+    ],
+    "links": [
+      "https://belta.by/world/view/premjer-ministr-moldovy-zajavil-ob-otstavke-789538-2026/",
+      "https://www.kommersant.ru/doc/8782423",
+      "https://tass.ru/mezhdunarodnaya-panorama/27881469"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-03",
+    "id": "616b223ae8b1"
+  },
+  {
+    "title_ru": "Трамп заявляет о согласии Ирана на переговоры в Дохе; Тегеран опровергает",
+    "title_en": "Trump Claims Iran Agreed to Doha Peace Talks; Tehran Denies",
+    "date": "2026-07-03",
+    "summary_en": "President Trump claimed on June 29 that Iran has agreed to hold peace talks in Doha following recent clashes. However, Iranian sources from July 1-2 indicate that Tehran's presence in Doha is focused on frozen funds, not negotiations, describing US claims of talks as false. Meanwhile, Iran's firepower has reportedly shattered regional states' trust in the US security umbrella, and Tehran continues to warn of 'immediate and powerful' retaliation against any Israeli threats. Bulgaria confirmed its readiness to veto the 21st EU sanctions package against Russia.",
+    "summary": "Президент Трамп 29 июня заявил, что Иран согласился на мирные переговоры в Дохе. Однако иранские источники 1-2 июля опровергают это: Тегеран занимается в Дохе замороженными активами, а не переговорами. На этом фоне Иран заявляет, что его военная мощь подорвала доверие региональных государств к американскому «зонтику безопасности», и предупреждает Израиль о «немедленном и мощном» ответе на угрозы. Болгария подтвердила готовность ветировать 21-й пакет санкций ЕС против РФ.",
+    "category": "politics",
+    "perspective": "США (администрация Трампа): дипломатический прорыв, снижение напряжённости в Персидском заливе. Иран (Tehran Times, IRNA): США выдают желаемое за действительное; Тегеран не ведёт переговоры, а решает финансовые вопросы; параллельно демонстрирует военную независимость. Региональные игроки: рост недоверия к американским гарантиям безопасности на Ближнем Востоке.",
+    "perspective_type": "from_source",
+    "sources": [
+      "The Guardian",
+      "Tehran Times",
+      "IRNA",
+      "DW",
+      "TASS"
+    ],
+    "links": [
+      "https://www.theguardian.com/world/2026/jun/29/trump-iran-peace-talks-doha",
+      "https://www.tehrantimes.com/news/527826/In-Doha-Iran-tends-to-frozen-funds-as-US-claims-talks-that-are",
+      "https://en.irna.ir/news/86199031/Iran-s-firepower-shatters-regional-states-trust-in-US-security",
+      "https://www.tehrantimes.com/news/527825/Tehran-warns-Israel-of-immediate-and-powerful-retaliation-as",
+      "https://tass.ru/mezhdunarodnaya-panorama/27881613"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-03",
+    "id": "9f4138e1c641"
+  },
+  {
+    "title_ru": "Япония и Индия договорились сотрудничать в сфере чипов и искусственного интеллекта",
+    "title_en": "Japan and India Agree to Cooperate on Chips and AI",
+    "date": "2026-07-03",
+    "summary_en": "Japan and India have reached an agreement to cooperate in the fields of semiconductor chips and artificial intelligence, according to a report in Kommersant. This development underscores the growing strategic technology partnership between Asia's second and third-largest economies amid global competition for AI and chip supply chain dominance.",
+    "summary": "Япония и Индия договорились о сотрудничестве в сфере полупроводниковых чипов и искусственного интеллекта, сообщает «Коммерсантъ». Соглашение отражает углубление стратегического технологического партнёрства между второй и третьей экономиками Азии на фоне глобальной конкуренции за доминирование в цепочках поставок чипов и ИИ.",
+    "category": "ai",
+    "perspective": "",
+    "perspective_type": "",
+    "sources": [
+      "Kommersant"
+    ],
+    "links": [
+      "https://www.kommersant.ru/doc/8782324"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-03",
+    "id": "6b5de1a92be1"
+  },
+  {
+    "title_ru": "Космический аппарат BepiColombo завершает 8-летнее путешествие к Меркурию",
+    "title_en": "BepiColombo Spacecraft Completes 8-Year Journey to Mercury, Arriving in 2026",
+    "date": "2026-07-03",
+    "summary_en": "The BepiColombo spacecraft, a joint European-Japanese mission, is finally arriving at Mercury in 2026 after an eight-year journey through the inner solar system. The mission aims to study Mercury's composition, magnetic field, and geological history, providing unprecedented insights into the planet closest to the Sun.",
+    "summary": "Космический аппарат BepiColombo — совместная миссия европейского и японского космических агентств — завершает восьмилетнее путешествие к Меркурию. В 2026 году зонд начнёт изучение состава, магнитного поля и геологической истории ближайшей к Солнцу планеты, предоставляя беспрецедентные данные о Меркурии.",
+    "category": "tech",
+    "perspective": "",
+    "perspective_type": "",
+    "sources": [
+      "Times of India"
+    ],
+    "links": [
+      "https://timesofindia.indiatimes.com/science/bepicolombo-the-spacecraft-that-spent-8-years-travelling-to-mercury-is-finally-arriving-in-2026/articleshow/132154072.cms"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-03",
+    "id": "e42baebe6014"
   }
 ]
