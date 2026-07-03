@@ -1562,5 +1562,154 @@
     "is_development": false,
     "first_reported": "2026-07-03",
     "id": "e42baebe6014"
+  },
+  {
+    "title_ru": "Взрыв в Монако: обвинения в причастности украинской разведки",
+    "title_en": "Monaco Explosion: Ukrainian Intelligence Accused of Involvement",
+    "date": "2026-07-03",
+    "summary_en": "A Ukrainian woman has been named as a suspect in the Monaco bombing that injured three people on June 30. Indonesian and Russian media report emerging allegations of Ukrainian intelligence involvement in the explosion. Meanwhile, Zelensky is urging Western partners to fulfill promises on missile supplies.",
+    "summary": "Гражданка Украины названа подозреваемой в организации взрыва в Монако, в результате которого пострадали три человека. В СМИ выдвигаются обвинения о причастности украинской разведки к инциденту. На этом фоне Зеленский призывает западных партнёров выполнить обещания по поставкам ракет.",
+    "category": "politics",
+    "perspective": "Украина и её союзники, вероятно, отвергнут обвинения как часть дезинформационной кампании. Россия может использовать инцидент для дискредитации Украины на международной арене. Независимые наблюдатели ожидают тщательного расследования и проверки фактов.",
+    "perspective_type": "assumed",
+    "sources": [
+      "Antara News (Индонезия)",
+      "Ведомости"
+    ],
+    "links": [
+      "https://www.antaranews.com/berita/5633841/tuduhan-keterlibatan-intel-ukraina-dalam-ledakan-di-monako-mengemuka",
+      "https://www.antaranews.com/berita/5633745/wanita-ukraina-tersangka-pengeboman-di-monako",
+      "https://www.vedomosti.ru/politics/news/2026/06/30/1209847-tri-cheloveka-postradali",
+      "https://www.antaranews.com/berita/5633743/zelensky-desak-mitra-barat-penuhi-janji-pasokan-rudal"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-03",
+    "id": "9393ff1c2343"
+  },
+  {
+    "title_ru": "Землетрясение в Венесуэле: 2295 погибших, Мадуро отвергает критику",
+    "title_en": "Venezuela Earthquake: 2,295 Dead, Maduro Rejects Criticism of Response",
+    "date": "2026-07-03",
+    "summary_en": "The death toll from the Venezuela earthquake has reached 2,295. President Maduro is rejecting criticism of his government's disaster response. The scale of the tragedy makes it one of the deadliest seismic events in the region's recent history.",
+    "summary": "Число жертв землетрясения в Венесуэле достигло 2295 человек. Президент Мадуро отвергает критику в адрес реакции правительства на катастрофу. Масштаб трагедии делает это землетрясение одним из самых смертоносных сейсмических событий в регионе за последнее время.",
+    "category": "politics",
+    "perspective": "Оппозиция критикует Мадуро за неэффективность спасательных работ и недостаток прозрачности распределения помощи. Правительство настаивает на адекватности принимаемых мер. Международное сообщество предлагает гуманитарную помощь, однако политическая напряжённость может осложнить координацию.",
+    "perspective_type": "assumed",
+    "sources": [
+      "DW",
+      "Коммерсантъ"
+    ],
+    "links": [
+      "https://www.dw.com/en/venezuela-leader-rejects-criticism-for-earthquake-response/a-77812839?maca=en-rss-en-all-1573-xml-mrss",
+      "https://www.kommersant.ru/doc/8781457"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-03",
+    "id": "a62a8c9de843"
+  },
+  {
+    "title_ru": "Иран угрожает Израилю «немедленным и мощным» ответом; Hormuz остаётся под контролем Тегерана",
+    "title_en": "Iran Threatens Israel with 'Immediate and Powerful' Retaliation; Hormuz Under Tehran's Control",
+    "date": "2026-07-03",
+    "summary_en": "Tehran has warned Israel of 'immediate and powerful' retaliation amid escalating US-Iran strikes that threaten the interim peace agreement. Iran's Parliament Speaker Qalibaf declared that the Hormuz Strait is under Iran's command, not Washington's. Fresh hostilities in the Gulf suggest the US-Iran memorandum was too broadly worded, and Iran denies that talks are happening in Doha.",
+    "summary": "Тегеран предупредил Израиль о «немедленном и мощном» ответе на фоне эскалации обмена ударами между США и Ираном, что ставит под угрозу временное мирное соглашение. Спикер парламента Ирана Галибаф заявил, что Ормузский пролив находится под командованием Ирана, а не Вашингтона. Иран опровергает проведение переговоров в Дохе, утверждая, что занимается лишь разблокировкой замороженных средств.",
+    "category": "politics",
+    "perspective": "Иран и его союзники подают это как демонстрацию силы и сопротивления давлению США и Израиля. США и Израиль рассматривают риторику Тегерана как провокацию и угрозу судоходству. Европейские страны призывают к деэскалации. Арабские государства Персидского залива обеспокоены угрозой стабильности Hormuz.",
+    "perspective_type": "assumed",
+    "sources": [
+      "Tehran Times",
+      "The Guardian",
+      "IRNA"
+    ],
+    "links": [
+      "https://www.tehrantimes.com/news/527825/Tehran-warns-Israel-of-immediate-and-powerful-retaliation-as",
+      "https://www.tehrantimes.com/news/527827/Qalibaf-says-Iran-won-t-give-up-Hormuz-Strait",
+      "https://www.theguardian.com/world/2026/jun/28/escalating-us-iran-strikes-threaten-interim-peace-agreement",
+      "https://www.theguardian.com/world/2026/jun/28/fresh-hostilities-gulf-us-iran-memorandum-interpretations-lebanon-ceasefire-strait-of-hormuz",
+      "https://www.tehrantimes.com/news/527826/In-Doha-Iran-tends-to-frozen-funds-as-US-claims-talks-that-are",
+      "https://en.irna.ir/news/86198728/Gharibabadi-Hormuz-defined-under-Iran-s-command-not-Washington-s"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-03",
+    "id": "547624021dde"
+  },
+  {
+    "title_ru": "Топливный кризис в России: украинские удары по заводам и топливным хабам",
+    "title_en": "Russia's Fuel Crisis: Ukrainian Strikes Hit Weapons Plant and Moscow Fuel Hub",
+    "date": "2026-07-02",
+    "summary_en": "Ukrainian strikes have hit a Russian weapons plant and a fuel hub in Moscow, contributing to a growing fuel crisis in Russia. DW reports that Putin is under increasing pressure as the domestic fuel situation deteriorates. The strikes represent a significant expansion of Ukraine's capacity to target critical infrastructure deep inside Russian territory.",
+    "summary": "Украинские удары поразили российский оружейный завод и топливный хаб в Москве, усугубляя топливный кризис в стране. По оценкам DW, Путин находится под растущим давлением по мере ухудшения ситуации с топливом внутри России. Удары демонстрируют расширение способности Украины поражать критическую инфраструктуру в глубине российской территории.",
+    "category": "politics",
+    "perspective": "Украина и её союзники рассматривают это как эффективное ослабление военной и экономической инфраструктуры РФ. Российские власти, вероятно, преуменьшают масштаб проблемы или обвиняют Украину в «терроризме» против гражданской инфраструктуры. Экономические эксперты отмечают растущую уязвимость российской энергетической системы.",
+    "perspective_type": "assumed",
+    "sources": [
+      "DW",
+      "The New York Times"
+    ],
+    "links": [
+      "https://www.dw.com/en/russia-s-fuel-crisis-is-putin-under-pressure/a-77783803?maca=en-rss-en-all-1573-xml-mrss",
+      "https://www.dw.com/en/ukraine-strikes-russian-weapons-plant-moscow-fuel-hub/a-77735059?maca=en-rss-en-all-1573-xml-mrss",
+      "https://www.nytimes.com/2026/07/02/world/europe/russia-putin-ukraine-war-pressure.html"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-02",
+    "id": "27c7a3d88492"
+  },
+  {
+    "title_ru": "Первый случай птичьего гриппа H5N1 зафиксирован в Новом Южном Уэльсе, Австралия",
+    "title_en": "First Suspected H5N1 Bird Flu Case Detected in NSW as Virus Reaches Australia's East Coast",
+    "date": "2026-07-03",
+    "summary_en": "New South Wales has recorded its first suspected case of the deadly H5 bird flu, marking the virus's arrival on Australia's east coast. Health authorities are on high alert as the highly pathogenic avian influenza strain continues its global spread, raising concerns for both public health and Australia's poultry industry.",
+    "summary": "В Новом Южном Уэльсе зафиксирован первый предполагаемый случай смертельного птичьего гриппа H5, что означает достижение вирусом восточного побережья Австралии. Органы здравоохранения приведены в состояние повышенной готовности, поскольку высокопатогенный штамм продолжает глобальное распространение, вызывая обеспокоенность как в сфере общественного здоровья, так и в птицеводческой отрасли.",
+    "category": "politics",
+    "perspective": "Органы здравоохранения призывают к спокойствию при одновременном усилении мер биобезопасности. Сельскохозяйственный сектор обеспокоен потенциальным ущербом для птицеводства. Экологические организации связывают распространение вируса с изменением климата и разрушением среды обитания диких птиц.",
+    "perspective_type": "assumed",
+    "sources": [
+      "The Guardian"
+    ],
+    "links": [
+      "https://www.theguardian.com/world/2026/jul/03/bird-flu-australia-first-suspected-case-nsw-deadly-h5n1-virus"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-03",
+    "id": "a581dd467e8c"
+  },
+  {
+    "title_ru": "AI-фейки вокруг ЧМ-2026 распространяют политические нарративы — фактчек DW",
+    "title_en": "AI Fakes Around the World Cup Spread Political Narratives — DW Fact Check",
+    "date": "2026-06-22",
+    "summary_en": "DW fact-checkers have identified AI-generated fakes circulating around the 2026 FIFA World Cup that are being used to spread political narratives. The manipulated content exploits the global attention on the tournament to amplify disinformation across social media platforms.",
+    "summary": "Фактчекеры DW выявили сгенерированные ИИ фальшивки, циркулирующие вокруг ЧМ-2026 по футболу и используемые для распространения политических нарративов. Манипулированный контент использует глобальное внимание к турниру для усиления дезинформации в социальных сетях.",
+    "category": "ai",
+    "perspective": "",
+    "perspective_type": "",
+    "sources": [
+      "DW"
+    ],
+    "links": [
+      "https://www.dw.com/en/fact-check-ai-fakes-around-the-world-cup-spread-political-narratives/a-77659085?maca=en-rss-en-all-1573-xml-mrss"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-22",
+    "id": "b23d4e716a84"
+  },
+  {
+    "title_ru": "Вакцина против респираторно-синцитиального вируса снижает госпитализации среди пожилых на 75%",
+    "title_en": "RSV Vaccine Reduces Hospitalizations in Elderly by 75%, Brazilian Study Shows",
+    "date": "2026-07-02",
+    "summary_en": "A vaccine against respiratory syncytial virus (RSV) has been shown to reduce hospitalizations among elderly patients by 75%, according to Brazilian health authorities. The results mark a significant breakthrough in protecting vulnerable populations from a virus that causes severe respiratory illness in older adults.",
+    "summary": "Вакцина против респираторно-синцитиального вируса (RSV) показала снижение госпитализаций среди пожилых пациентов на 75%, сообщают органы здравоохранения Бразилии. Результаты знаменуют значительный прорыв в защите уязвимых групп населения от вируса, вызывающего тяжёлые респираторные заболевания у пожилых людей.",
+    "category": "tech",
+    "perspective": "",
+    "perspective_type": "",
+    "sources": [
+      "Agência Brasil"
+    ],
+    "links": [
+      "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/vacina-contra-vsr-em-idosos-reduz-internacoes-em-75"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-02",
+    "id": "1dee951373c6"
   }
 ]
