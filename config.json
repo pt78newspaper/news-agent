@@ -9,9 +9,15 @@
       "https://www.kommersant.ru/RSS/news.xml",
       "https://www.vedomosti.ru/rss/rubric/politics"
     ]},
+    "russia_tech": {"label": "Наука/Россия", "color": "#00acc1", "category": "tech", "feeds": [
+      "https://nplus1.ru/rss"
+    ]},
     "usa": {"label": "США", "color": "#1565c0", "feeds": [
       "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "https://feeds.npr.org/1001/rss.xml"
+    ]},
+    "usa_tech": {"label": "Технологии/США", "color": "#00acc1", "category": "tech", "feeds": [
+      "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
     ]},
     "ukraine": {"label": "Украина", "color": "#ffd54f", "feeds": [
       "https://www.ukrinform.ua/rss/block-lastnews",
@@ -21,6 +27,9 @@
       "https://www.chinadaily.com.cn/rss/world_rss.xml",
       "https://www.chinadaily.com.cn/rss/china_rss.xml"
     ]},
+    "china_tech": {"label": "Технологии/Китай", "color": "#00acc1", "category": "tech", "feeds": [
+      "https://www.chinadaily.com.cn/rss/bizchina_rss.xml"
+    ]},
     "india": {"label": "Индия", "color": "#ff8f00", "feeds": [
       "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "https://www.thehindu.com/feeder/default.rss",
@@ -29,6 +38,9 @@
     "iran": {"label": "Иран", "color": "#6a1b9a", "feeds": [
       "https://www.tehrantimes.com/rss",
       "https://en.irna.ir/rss"
+    ]},
+    "iran_tech": {"label": "Наука/Иран", "color": "#00acc1", "category": "tech", "feeds": [
+      "https://www.tehrantimes.com/rss"
     ]},
     "indonesia": {"label": "Индонезия", "color": "#00897b", "feeds": [
       "https://www.antaranews.com/rss/terkini.xml"
