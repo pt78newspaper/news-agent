@@ -3,26 +3,25 @@ import requests, json
 GPTUNNEL_API = "https://gptunnel.ru/v1/chat/completions"
 MODEL = "deepseek-v4-pro"
 SYS_PROMPT = (
-    "Ты — опытный политолог, беспристрастный, не имеющий собственных политических предпочтений."
+    "Ты — опытный аналитик, освещающий политику, технологии и науку. Беспристрастен."
 )
 
 USER_PROMPT_TEMPLATE = (
-    "Вот текущая подборка новостей из RSS-лент российских и мировых СМИ:\n"
+    "Вот текущая подборка новостей из RSS-лент:\n"
     "{news_block}\n"
     "Инструкция:\n"
-    "1. Выбери до 10 важнейших мировых политических событий и тенденций за последние 7 дней.\n"
+    "1. Выбери 5 важнейших мировых политических событий, 1 новость об искусственном интеллекте и 1 новость из мира технологий/науки/промышленности.\n"
     "2. Для каждого события используй ТОЛЬКО факты из предоставленных новостей. "
     "Не придумывай события и не используй свои знания вне этого списка.\n"
     "3. Сверься со списком ранее опубликованных событий (если есть). "
     "Если событие уже было в прошлом выпуске и нет новых важных подробностей — пропусти его. "
     "Если есть существенное развитие — включи, укажи это.\n"
-    "4. Если событий больше 7 — выбери 7 самых важных. Если меньше 7 — оставь сколько есть.\n"
+    "4. Если нужного количества событий нет в новостях — оставь сколько есть.\n"
     "5. Для каждого события напиши краткую суть (2-3 предложения) на английском (поле summary_en) и на русском (поле summary).\n"
     "6. Для каждого события обязательно укажи ссылки на источники (только из списка выше).\n"
-    "7. В поле perspective напиши, как событие может оцениваться разными политическими силами "
-    "(только если это следует из новостей; если неясно — укажи 'неясно').\n"
-    "8. Поле perspective_type: 'from_source' если оценка из источника, "
-    "'assumed' если ты её предполагаешь, 'unclear' если неясно.\n"
+    "7. В поле category укажи 'politics' для политических событий, 'ai' для новостей об ИИ, 'tech' для технологий/науки.\n"
+    "8. Для политических событий (category='politics') в поле perspective напиши, как событие может оцениваться разными политическими силами; для tech/ai новостей оставь пустым.\n"
+    "9. Поле perspective_type: 'from_source', 'assumed', 'unclear' или пустая строка.\n"
     "{history_block}"
 )
 
@@ -39,8 +38,9 @@ def summarize_news(clusters, api_key, history=None):
         for a in cluster:
             kw = a.get("keywords", [])
             kw_str = f" [ключевые слова: {', '.join(kw[:4])}]" if kw else ""
+            cat = a.get("category", "politics")
             news_block += (
-                f"[{a['region_label']}] {a['title']}{kw_str}\n"
+                f"[{a['region_label']}] ({cat}) {a['title']}{kw_str}\n"
                 f"  Источник: {a['source_name']} — {a['link']}\n"
                 f"  Дата: {a.get('published', 'неизвестно')}\n"
             )
@@ -69,7 +69,7 @@ def summarize_news(clusters, api_key, history=None):
             "type": "function",
             "function": {
                 "name": "report_news",
-                "description": "Сообщить важнейшие политические события",
+                "description": "Сообщить важнейшие события (политика, ИИ, технологии)",
                 "parameters": {
                     "type": "object",
                     "properties": {
@@ -98,13 +98,18 @@ def summarize_news(clusters, api_key, history=None):
                                         "type": "string",
                                         "description": "Суть на русском, 2-3 предложения"
                                     },
+                                    "category": {
+                                        "type": "string",
+                                        "enum": ["politics", "ai", "tech"],
+                                        "description": "Категория: politics, ai, tech"
+                                    },
                                     "perspective": {
                                         "type": "string",
-                                        "description": "Как оценивается разными политическими силами"
+                                        "description": "Для politics: как оценивается разными политическими силами. Для ai/tech: оставь пустым."
                                     },
                                     "perspective_type": {
                                         "type": "string",
-                                        "enum": ["from_source", "assumed", "unclear"]
+                                        "enum": ["from_source", "assumed", "unclear", ""]
                                     },
                                     "sources": {
                                         "type": "array",
@@ -122,7 +127,7 @@ def summarize_news(clusters, api_key, history=None):
                                     }
                                 },
                                 "required": ["title_ru", "title_en", "date", "summary_en", "summary",
-                                             "perspective", "perspective_type", "sources", "links"]
+                                             "category", "sources", "links"]
                             }
                         }
                     },
