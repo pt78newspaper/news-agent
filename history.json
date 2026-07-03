@@ -1711,5 +1711,154 @@
     "is_development": false,
     "first_reported": "2026-07-02",
     "id": "1dee951373c6"
+  },
+  {
+    "title_ru": "В Тегеране начались похороны «мученически погибшего» верховного лидера Ирана Али Хаменеи",
+    "title_en": "Funeral of Iran's 'Martyred' Supreme Leader Ali Khamenei Begins in Tehran",
+    "date": "2026-07-03",
+    "summary_en": "Iran has begun six-day funeral ceremonies in Tehran for Supreme Leader Ali Khamenei, described by state media as 'martyred.' Officials from 100 countries are expected to attend, including Russian Security Council Deputy Chairman Dmitry Medvedev, the Iraqi president, the Tajik president, and Pakistan's prime minister. His son and newly appointed Supreme Leader Mojtaba Khamenei will reportedly skip the funeral over security fears. Iranian officials, including Speaker Ghalibaf, have called the funeral a show of power and vowed 'true revenge' against the US and Israel.",
+    "summary": "В Тегеране началась шестидневная церемония похорон верховного лидера Ирана Али Хаменеи, которого государственные СМИ называют «мученически погибшим». Ожидается прибытие официальных лиц из 100 стран, включая зампреда Совбеза РФ Дмитрия Медведева, президентов Ирака и Таджикистана, премьер-министра Пакистана. Его сын и новый верховный лидер Моджтаба Хаменеи, по сообщениям, пропустит похороны из соображений безопасности. Спикер Галибаф назвал похороны демонстрацией силы и пообещал «истинную месть» США и Израилю.",
+    "category": "politics",
+    "perspective": "Иранские власти: Хаменеи — мученик, убитый врагами ислама; похороны — демонстрация единства и силы. Западные правительства: обеспокоены дестабилизацией региона, вероятной эскалацией и антиамериканской/антиизраильской риторикой. Региональные союзники Ирана: скорбь и солидарность. Израиль и Саудовская Аравия: вероятно, ожидают ужесточения иранской политики при новом лидере.",
+    "perspective_type": "assumed",
+    "sources": [
+      "IRNA",
+      "The Guardian",
+      "DW",
+      "Times of India",
+      "TASS"
+    ],
+    "links": [
+      "https://en.irna.ir/news/86199400/Iran-begins-funeral-ceremonies-for-martyred-Leader-in-Tehran",
+      "https://en.irna.ir/news/86199075/Officials-from-100-countries-to-attend-Ayatollah-Khamenei-s-funeral",
+      "https://en.irna.ir/news/86199101/Russia-s-Medvedev-to-attend-Ayatollah-Khamenei-s-funeral",
+      "https://www.theguardian.com/world/2026/jul/03/ali-khamenei-six-day-funeral-millions-iran",
+      "https://www.dw.com/en/iran-turns-khamenei-funeral-into-show-of-power/a-77805433",
+      "https://timesofindia.indiatimes.com/world/middle-east/irans-supreme-leader-mojtaba-khamenei-to-skip-father-ali-khameneis-funeral-over-security-fears-report/articleshow/132150160.cms",
+      "https://en.irna.ir/news/86199448/True-revenge-for-martyred-Iran-Leader-is-ending-US-Israeli-oppression"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-03",
+    "id": "a0fe5c11f03d"
+  },
+  {
+    "title_ru": "Россия нанесла самый смертоносный удар по Украине в 2026 году; массированные атаки БПЛА на российские регионы",
+    "title_en": "Russia Launches Deadliest 2026 Strike on Ukraine; Massive Drone Barrages Hit Russian Regions",
+    "date": "2026-07-03",
+    "summary_en": "Russia launched its deadliest attack on Ukraine this year using 496 drones and 74 missiles, killing at least 27 people; Kyiv declared a day of mourning. Simultaneously, Russian air defenses reported shooting down 155 drones over Russian territory overnight, with Moscow repeatedly targeted. The escalation follows Ukrainian strikes on a Russian weapons plant and Moscow fuel hub, signaling a sharp intensification of hostilities on both sides.",
+    "summary": "Россия нанесла самый смертоносный удар по Украине в этом году: 496 беспилотников и 74 ракеты, не менее 27 погибших; в Киеве объявлен день траура. Одновременно российские ПВО отчитались о 155 сбитых за ночь беспилотниках над территорией РФ, Москва неоднократно подвергалась атакам. Эскалация последовала за ударами Украины по российскому оружейному заводу и топливному хабу под Москвой, что свидетельствует о резкой интенсификации боевых действий с обеих сторон.",
+    "category": "politics",
+    "perspective": "Российская сторона: удары — возмездие за атаки Украины на российскую территорию; ПВО успешно защищает страну. Украинская и западная сторона: Россия наносит неизбирательные удары по гражданской инфраструктуре; необходима дополнительная военная помощь Киеву. Китай и Глобальный Юг: вероятные призывы к сдержанности и деэскалации.",
+    "perspective_type": "assumed",
+    "sources": [
+      "Times of India",
+      "DW",
+      "The New York Times",
+      "Kommersant",
+      "Vedomosti"
+    ],
+    "links": [
+      "https://timesofindia.indiatimes.com/world/europe/496-drones-74-missiles-russia-launches-deadliest-strike-on-ukraine-this-year-at-least-27-dead/articleshow/132150696.cms",
+      "https://www.dw.com/en/ukraine-russia-strikes-kill-4-day-of-mourning-in-kyiv/a-77813693",
+      "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack",
+      "https://www.nytimes.com/2026/07/02/world/europe/russia-putin-ukraine-war-pressure.html",
+      "https://www.kommersant.ru/doc/8782319",
+      "https://www.kommersant.ru/doc/8782480",
+      "https://www.vedomosti.ru/politics/news/2026/07/03/1210862-chetire-bpla"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-03",
+    "id": "0ff437618d6c"
+  },
+  {
+    "title_ru": "Число жертв землетрясения в Венесуэле достигло 2595; Мадуро отвергает критику",
+    "title_en": "Venezuela Earthquake Death Toll Reaches 2,595; Maduro Rejects Criticism of Response",
+    "date": "2026-07-03",
+    "summary_en": "The death toll from the devastating earthquake in Venezuela has risen to 2,595, according to Russian media reports. President Nicolás Maduro has rejected domestic and international criticism of the government's earthquake response. The disaster continues to unfold as one of the deadliest in Venezuela's modern history.",
+    "summary": "Число погибших при разрушительном землетрясении в Венесуэле достигло 2595 человек, по данным российских СМИ. Президент Николас Мадуро отверг критику — как внутреннюю, так и международную — в адрес правительства за недостаточные меры реагирования. Катастрофа продолжает оставаться одной из самых смертоносных в современной истории Венесуэлы.",
+    "category": "politics",
+    "perspective": "Правительство Венесуэлы: утверждает, что масштаб катастрофы беспрецедентен и критика несправедлива. Оппозиция и международные наблюдатели: указывают на неготовность властей, неэффективность спасательных операций и недостаток прозрачности. Россия и Китай: вероятно, воздерживаются от критики стратегического союзника.",
+    "perspective_type": "assumed",
+    "sources": [
+      "DW",
+      "Kommersant",
+      "Vedomosti"
+    ],
+    "links": [
+      "https://www.dw.com/en/venezuela-leader-rejects-criticism-for-earthquake-response/a-77812839",
+      "https://www.kommersant.ru/doc/8782296",
+      "https://www.vedomosti.ru/politics/news/2026/07/01/1210480-zhertv-zemletryasenii-2200"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-03",
+    "id": "8f083f266606"
+  },
+  {
+    "title_ru": "Трамп заявляет о достижении целей США на переговорах с Ираном; Тегеран отрицает факт переговоров",
+    "title_en": "Trump Claims US Attained Goals in Iran Talks; Tehran Denies Negotiations Are Happening",
+    "date": "2026-07-03",
+    "summary_en": "President Trump stated that the US 'attained practically all its goals' during negotiations with Iran, according to TASS. However, Tehran Times reports that Iran was in Doha tending to frozen funds and denies that any talks with the US are taking place. The contradictory claims come amid escalating US-Iran strikes that threaten an interim peace agreement.",
+    "summary": "Президент Трамп заявил, что США «достигли практически всех целей» в ходе переговоров с Ираном, сообщает ТАСС. Однако Tehran Times передаёт, что Иран находился в Дохе для решения вопросов с замороженными активами и отрицает проведение каких-либо переговоров с США. Противоречивые заявления звучат на фоне обостряющихся взаимных ударов, ставящих под угрозу временное мирное соглашение.",
+    "category": "politics",
+    "perspective": "Администрация Трампа: переговоры успешны, США добились уступок от Ирана. Иранские власти: никаких переговоров нет; США распространяют дезинформацию. Европейские союзники: обеспокоены эскалацией и нестабильностью временного соглашения. Израиль: скептичен в отношении любых договорённостей с Ираном.",
+    "perspective_type": "from_source",
+    "sources": [
+      "TASS",
+      "Tehran Times",
+      "The Guardian"
+    ],
+    "links": [
+      "https://tass.com/world/2154783",
+      "https://www.tehrantimes.com/news/527826/In-Doha-Iran-tends-to-frozen-funds-as-US-claims-talks-that-are",
+      "https://www.theguardian.com/world/2026/jun/29/trump-iran-peace-talks-doha",
+      "https://www.theguardian.com/world/2026/jun/28/escalating-us-iran-strikes-threaten-interim-peace-agreement"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-03",
+    "id": "c32a3e9cb308"
+  },
+  {
+    "title_ru": "Автобус упал в овраг в Пакистане: 40 погибших",
+    "title_en": "Bus Plunges into Ravine in Pakistan, Killing 40",
+    "date": "2026-07-03",
+    "summary_en": "A passenger bus fell into a ravine in southwestern Pakistan, resulting in 40 fatalities, according to Russian and Belarusian media reports citing local sources. The cause of the crash remains under investigation. Road accidents with high casualties are a recurring problem in Pakistan due to poor infrastructure and lax safety enforcement.",
+    "summary": "Пассажирский автобус упал в овраг на юго-западе Пакистана; погибли 40 человек, сообщают российские и белорусские СМИ со ссылкой на местные источники. Причина катастрофы устанавливается. Крупные ДТП с многочисленными жертвами остаются хронической проблемой Пакистана из-за плохого состояния дорог и слабого контроля за безопасностью.",
+    "category": "politics",
+    "perspective": "Правительство Пакистана: вероятны заявления о расследовании и мерах по улучшению безопасности. Оппозиция: использует трагедию для критики властей за неспособность обеспечить базовую инфраструктурную безопасность. Международное сообщество: соболезнования.",
+    "perspective_type": "assumed",
+    "sources": [
+      "Kommersant",
+      "TASS",
+      "Vedomosti",
+      "Belta"
+    ],
+    "links": [
+      "https://www.kommersant.ru/doc/8782450",
+      "https://tass.ru/proisshestviya/27881455",
+      "https://www.vedomosti.ru/politics/news/2026/07/03/1210879-avtobus-upal",
+      "https://belta.by/world/view/16-chelovek-pogibli-v-rezultate-dtp-s-avtobusom-v-juar-789516-2026/"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-03",
+    "id": "bf02fe48ba80"
+  },
+  {
+    "title_ru": "Истоки Эболы в дикой природе: ключ к предотвращению следующей вспышки",
+    "title_en": "Understanding Ebola's Wildlife Origins Is Crucial to Preventing Next Big Outbreak",
+    "date": "2026-07-02",
+    "summary_en": "Scientists emphasize that understanding Ebola's wildlife origins is essential to preventing the next major outbreak. Research into animal reservoirs and transmission pathways could enable early-warning systems and preemptive public health measures.",
+    "summary": "Учёные подчёркивают, что понимание природных истоков вируса Эбола — в частности, животных-резервуаров и путей передачи — критически важно для предотвращения следующей крупной вспышки. Исследования могут обеспечить системы раннего предупреждения и упреждающие меры общественного здравоохранения.",
+    "category": "tech",
+    "perspective": "",
+    "perspective_type": "",
+    "sources": [
+      "The Guardian"
+    ],
+    "links": [
+      "https://www.theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-02",
+    "id": "107d86e7840b"
   }
 ]
