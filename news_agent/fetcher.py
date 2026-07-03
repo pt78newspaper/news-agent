@@ -51,6 +51,7 @@ def fetch_all(config):
                     e["region"] = rkey
                     e["region_label"] = rcfg["label"]
                     e["region_color"] = rcfg.get("color", "#333")
+                    e["category"] = rcfg.get("category", "politics")
                     all_news.append(e)
                     seen.add(e["id"])
     all_news.sort(key=lambda x: x["published"], reverse=True)
