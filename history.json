@@ -1860,5 +1860,177 @@
     "is_development": false,
     "first_reported": "2026-07-02",
     "id": "107d86e7840b"
+  },
+  {
+    "title_ru": "В Тегеране проходят похороны верховного лидера Ирана: прибывают мировые лидеры",
+    "title_en": "World Leaders Arrive in Tehran for Funeral of Iran's Martyred Supreme Leader Khamenei",
+    "date": "2026-07-03",
+    "summary_en": "Funeral ceremonies for Iran's Supreme Leader Ali Khamenei have begun in Tehran. Presidents of Iraq and Tajikistan, Pakistan's Interior Minister, and other foreign dignitaries have arrived to pay tribute. President Pezeshkian called the death a 'martyrdom' and urged all Iranians to attend, while Speaker Ghalibaf declared that 'true revenge' means ending US and Israeli oppression of Muslims.",
+    "summary": "В Тегеране начались похоронные церемонии верховного лидера Ирана Али Хаменеи, названного «мученически погибшим». В столицу прибыли президенты Ирака и Таджикистана, глава МВД Пакистана и другие иностранные делегации. Президент Пезешкиан призвал всех иранцев посетить похороны, а спикер Галибаф заявил, что «истинная месть» — в прекращении угнетения мусульман со стороны США и Израиля.",
+    "category": "politics",
+    "perspective": "Иранские власти: мученичество лидера, призыв к единству исламского мира против США и Израиля. Западные страны: обеспокоенность эскалацией антиамериканской и антиизраильской риторики. Региональные союзники Ирана: солидарность и поддержка. Израиль: вероятно, воспринимает как угрозу безопасности.",
+    "perspective_type": "assumed",
+    "sources": [
+      "IRNA",
+      "Tehran Times"
+    ],
+    "links": [
+      "https://en.irna.ir/news/86199400/Iran-begins-funeral-ceremonies-for-martyred-Leader-in-Tehran",
+      "https://en.irna.ir/news/86199528/Iraqi-president-arrives-in-Tehran-to-attend-funeral-of-Iran-s",
+      "https://en.irna.ir/news/86199516/Tajik-president-arrives-in-Tehran-to-attend-tribute-ceremony",
+      "https://en.irna.ir/news/86199468/Pakistani-Interior-Minister-arrives-in-Tehran-to-attend-funeral",
+      "https://en.irna.ir/news/86199448/True-revenge-for-martyred-Iran-Leader-is-ending-US-Israeli-oppression"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-03",
+    "id": "4acfb46b38d4"
+  },
+  {
+    "title_ru": "Интерпол назвал подозреваемую во взрыве в Монако: гражданка Украины, нападение на олигарха",
+    "title_en": "Interpol Names Ukrainian Woman as Main Suspect in Monaco Bomb Attack on Oligarch",
+    "date": "2026-07-03",
+    "summary_en": "Interpol has identified a Ukrainian woman as the prime suspect in a parcel bombing in Monaco that wounded Ukrainian-born oligarch Vadym Yermolaiev. The suspect allegedly disguised herself as a man. The bomb was reportedly activated when Yermolaiev's companion passed by. Le Figaro and DW report the woman may reside in Germany.",
+    "summary": "Интерпол назвал гражданку Украины главной подозреваемой в отправке заминированной посылки в Монако, в результате которой пострадал украинский олигарх Вадим Ермолаев. По данным расследования, женщина маскировалась под мужчину, а бомба сработала, когда мимо прошёл спутник Ермолаева. Предположительно, подозреваемая проживает в Германии.",
+    "category": "politics",
+    "perspective": "Украина: инцидент может осложнить отношения с европейскими партнёрами, если подтвердится причастность гражданки Украины. Россия: вероятно, использует для нарратива об украинских спецоперациях на территории ЕС. Западные страны: обеспокоенность проведением трансграничных атак на своей территории.",
+    "perspective_type": "assumed",
+    "sources": [
+      "The Guardian",
+      "BBC",
+      "DW",
+      "CBC",
+      "TASS",
+      "Le Figaro"
+    ],
+    "links": [
+      "https://www.theguardian.com/world/2026/jul/03/suspect-identified-in-monaco-parcel-bombing-that-wounded-sanctioned-ukrainian-born-oligarch",
+      "https://www.bbc.co.uk/news/articles/c4gy603z2qlo",
+      "https://www.dw.com/en/monaco-ids-suspect-in-bomb-attack-on-ukrainian-oligarch/a-77814163",
+      "https://www.cbc.ca/news/world/interpol-monaco-bombing-russia-ukraine-oligarch-9.7257104",
+      "https://tass.com/emergencies/2154773",
+      "https://tass.com/world/2154731"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-03",
+    "id": "b5967bc98b19"
+  },
+  {
+    "title_ru": "Иран наращивает антиамериканскую риторику: Пезешкиан обещает преследовать «преступления США и Израиля»",
+    "title_en": "Iran Escalates Anti-US Rhetoric: Pezeshkian Vows to Pursue 'US-Israeli Crimes'",
+    "date": "2026-07-03",
+    "summary_en": "President Pezeshkian vowed to 'vigorously pursue US-Israeli crimes against Iran,' while Speaker Ghalibaf declared that the US and Israel 'failed to achieve their objectives' in the anti-Iran war. Iran's acting defense minister called for Islamic unity to prevent Israeli escalation. Tehran also warned Israel of 'immediate and powerful' retaliation, stating its missile and drone capabilities remain 'non-negotiable.' This comes amid conflicting claims from Trump that the US achieved its goals in talks with Iran, which Tehran denies are taking place.",
+    "summary": "Президент Ирана Пезешкиан пообещал «энергично преследовать преступления США и Израиля против Ирана», а спикер Галибаф заявил о провале целей США и Израиля в «антииранской войне». Исполняющий обязанности министра обороны призвал к исламскому единству для сдерживания Израиля, а Тегеран предупредил о «немедленном и мощном» возмездии. Это происходит на фоне заявлений Трампа о достижении целей США на переговорах — которые Тегеран отрицает.",
+    "category": "politics",
+    "perspective": "Иран: консолидация вокруг образа жертвы агрессии, мобилизация региональных союзников. США (администрация Трампа): дипломатическая победа. Израиль: экзистенциальная угроза, требующая упреждающих мер. Международное сообщество: тревога из-за риска полномасштабного конфликта в Персидском заливе.",
+    "perspective_type": "from_source",
+    "sources": [
+      "IRNA",
+      "Tehran Times",
+      "TASS",
+      "The Guardian"
+    ],
+    "links": [
+      "https://en.irna.ir/news/86199700/US-Israeli-crimes-against-Iran-to-be-pursued-vigorously-President",
+      "https://en.irna.ir/news/86199685/US-Israel-failed-to-achieve-objectives-in-anti-Iran-war-Speaker",
+      "https://en.irna.ir/news/86199479/Acting-Iranian-defense-minister-urges-Islamic-unity-to-prevent",
+      "https://www.tehrantimes.com/news/527825/Tehran-warns-Israel-of-immediate-and-powerful-retaliation-as",
+      "https://www.tehrantimes.com/news/527823/Iran-s-missile-and-drone-capabilities-remain-non-negotiable",
+      "https://tass.com/world/2154783",
+      "https://www.theguardian.com/world/2026/jun/29/trump-iran-peace-talks-doha"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-03",
+    "id": "5cd20249ea37"
+  },
+  {
+    "title_ru": "Массированные атаки БПЛА продолжаются: удар по рынку в Токмаке — 5 погибших, 16 дронов сбиты под Москвой",
+    "title_en": "Mass Drone Strikes Continue: Tokmak Market Attack Kills 5, 16 Drones Downed Near Moscow",
+    "date": "2026-07-03",
+    "summary_en": "A Ukrainian drone struck a city market in Tokmak, Zaporizhzhia region, killing five people. Russia's Foreign Ministry called it a 'grave war crime.' In Belgorod region, two people were injured in a drone detonation at an industrial facility. Sixteen drones were intercepted near Moscow in a single day. Over the previous night, 327 drones were downed across Russian regions. Crimea experienced partial blackouts after drone strikes, and the Donetsk-Mariupol highway bridge collapsed after an attack.",
+    "summary": "Украинский дрон ударил по городскому рынку в Токмаке Запорожской области — пять человек погибли. МИД России назвал это «тяжким военным преступлением». В Белгородской области два человека пострадали при детонации БПЛА на предприятии. За сутки 16 дронов сбиты на подлёте к Москве, за предыдущую ночь — 327 над регионами РФ. Крым частично обесточен после ударов, мост на трассе Донецк—Мариуполь обрушен.",
+    "category": "politics",
+    "perspective": "Россия: акты терроризма против гражданского населения, требующие военного ответа. Украина и западные союзники: легитимные удары по военной инфраструктуре; гибель гражданских — сопутствующий ущерб. Международное гуманитарное право: удары по рынкам и гражданским объектам могут квалифицироваться как военные преступления.",
+    "perspective_type": "from_source",
+    "sources": [
+      "Kommersant",
+      "TASS",
+      "Vedomosti",
+      "Lenta.ru"
+    ],
+    "links": [
+      "https://www.kommersant.ru/doc/8795786",
+      "https://www.kommersant.ru/doc/8795855",
+      "https://tass.ru/proisshestviya/27882831",
+      "https://tass.ru/politika/27882579",
+      "https://www.vedomosti.ru/politics/news/2026/07/02/1210535-sili-pvo-za-noch",
+      "https://www.kommersant.ru/doc/8781304",
+      "https://www.kommersant.ru/doc/8781023"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-03",
+    "id": "6123efd4f1c2"
+  },
+  {
+    "title_ru": "Путин обсудил с главой ВТБ снижение ключевой ставки на фоне топливного кризиса",
+    "title_en": "Putin Discusses Key Rate Cuts with VTB Chief Amid Ongoing Fuel Crisis",
+    "date": "2026-07-03",
+    "summary_en": "President Putin held a meeting with VTB CEO, who supported a reduction in the key interest rate. Putin noted positive dynamics in VTB's performance. Meanwhile, Central Bank head Nabiullina stated she sees 'room for lowering the key rate,' though the regulator previously forecast a longer period of high rates. The head of Russia's industrialists union urged against rate hikes due to the fuel crisis. Putin also backed the Kaliningrad governor's request for additional fuel supplies.",
+    "summary": "Президент Путин встретился с главой ВТБ, который поддержал снижение ключевой ставки. Путин отметил положительную динамику работы банка. Глава ЦБ Набиуллина заявила, что видит «пространство для снижения» ставки — хотя ранее регулятор прогнозировал более долгий период высоких ставок. Глава РСПП призвал не повышать ставку из-за топливного кризиса. Путин также поддержал просьбу калининградского губернатора о дополнительных поставках топлива.",
+    "category": "politics",
+    "perspective": "Правительство РФ: сигналы о стабилизации экономики и готовности смягчать денежно-кредитную политику. Бизнес: снижение ставки критически необходимо для выживания. ЦБ: осторожный оптимизм при сохранении инфляционных рисков. Оппозиция: структурные проблемы экономики не решаются.",
+    "perspective_type": "from_source",
+    "sources": [
+      "Kommersant",
+      "TASS",
+      "Lenta.ru"
+    ],
+    "links": [
+      "https://www.kommersant.ru/doc/8795875",
+      "https://tass.ru/ekonomika/27882619",
+      "https://www.kommersant.ru/doc/8782251",
+      "https://www.kommersant.ru/doc/8782372",
+      "https://www.kommersant.ru/doc/8782145"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-03",
+    "id": "7d60e325dcbd"
+  },
+  {
+    "title_ru": "Starling Bank сокращает 130 сотрудников и увеличивает инвестиции в ИИ для снижения издержек",
+    "title_en": "Starling Bank to Cut 130 Jobs and Boost AI Investment to Reduce Costs",
+    "date": "2026-07-03",
+    "summary_en": "UK digital bank Starling Bank announced plans to cut 130 jobs while simultaneously increasing investment in artificial intelligence. The move is aimed at reducing operational costs through AI-driven automation. The decision reflects a growing trend among financial institutions to replace human roles with AI systems for efficiency gains.",
+    "summary": "Британский цифровой банк Starling Bank объявил о сокращении 130 рабочих мест с одновременным увеличением инвестиций в искусственный интеллект. Решение направлено на снижение операционных издержек за счёт автоматизации на базе ИИ. Это отражает растущий тренд в финансовом секторе по замене человеческого труда ИИ-системами.",
+    "category": "ai",
+    "perspective": "",
+    "perspective_type": "",
+    "sources": [
+      "The Guardian"
+    ],
+    "links": [
+      "https://www.theguardian.com/business/2026/jul/03/starling-bank-cuts-130-jobs-boosts-ai-investment"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-03",
+    "id": "76e7c0af2585"
+  },
+  {
+    "title_ru": "Космический аппарат BepiColombo завершает 8-летнее путешествие к Меркурию",
+    "title_en": "BepiColombo Spacecraft Completes 8-Year Journey, Arriving at Mercury in 2026",
+    "date": "2026-07-03",
+    "summary_en": "The BepiColombo spacecraft, a joint European-Japanese mission, is finally arriving at Mercury in 2026 after an eight-year journey through the inner solar system. The mission aims to study Mercury's composition, magnetic field, and geological history — providing unprecedented insights into the solar system's innermost and least-explored planet.",
+    "summary": "Космический аппарат BepiColombo — совместная миссия Европейского и Японского космических агентств — завершает 8-летнее путешествие и прибывает к Меркурию в 2026 году. Цель миссии — изучение состава, магнитного поля и геологической истории Меркурия, самой близкой к Солнцу и наименее изученной планеты Солнечной системы.",
+    "category": "tech",
+    "perspective": "",
+    "perspective_type": "",
+    "sources": [
+      "Times of India"
+    ],
+    "links": [
+      "https://timesofindia.indiatimes.com/science/bepicolombo-the-spacecraft-that-spent-8-years-travelling-to-mercury-is-finally-arriving-in-2026/articleshow/132154072.cms"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-03",
+    "id": "0d16be09f9eb"
   }
 ]
