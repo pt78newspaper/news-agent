@@ -139,6 +139,14 @@
     display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px;
   }
   .tag { color: var(--accent); }
+  .cat-badge {
+    display: inline-block; font-size: 9px; font-weight: 700;
+    padding: 1px 7px; border-radius: 3px; letter-spacing: 0.5px;
+    vertical-align: middle; margin-left: 6px;
+  }
+  .cat-politics { background: #e3f2fd; color: #1565c0; }
+  .cat-ai { background: #fce4ec; color: #c62828; }
+  .cat-tech { background: #e8f5e9; color: #2e7d32; }
   .no-news {
     text-align: center; padding: 60px 20px;
     color: var(--text-dim);
@@ -233,7 +241,7 @@
   <div class="stats-row">
     <div class="stat-card"><div class="num">__TOTAL_STORIES__</div><div class="lbl">Stories</div></div>
     <div class="stat-card"><div class="num">__TOTAL_SOURCES__</div><div class="lbl">Sources</div></div>
-    <div class="stat-card"><div class="num">__REGIONS_COVERED__</div><div class="lbl">Regions</div></div>
+    <div class="stat-card"><div class="num">__REGIONS_COVERED__</div><div class="lbl">Categories</div></div>
   </div>
   __STORIES__
   <div style="text-align:center;padding:10px 0;">
