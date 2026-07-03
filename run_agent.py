@@ -13,7 +13,16 @@ def load_json(path, default):
         with open(path, encoding="utf-8") as f:
             return json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
-        return default
+        pass
+    # Also try without output/ prefix (gh-pages stores at root)
+    alt = path.replace("output/", "", 1)
+    if alt != path:
+        try:
+            with open(alt, encoding="utf-8") as f:
+                return json.load(f)
+        except (FileNotFoundError, json.JSONDecodeError):
+            pass
+    return default
 
 
 def save_json(path, data):
@@ -50,18 +59,28 @@ def generate_html(events, config, usage=None, api_key=None):
     with open(tpl_path, encoding="utf-8") as f:
         html = f.read()
 
+    cat_counts = {"politics": 0, "ai": 0, "tech": 0}
     stories_html = ""
     for idx, ev in enumerate(events, 1):
+        cat = ev.get("category", "politics")
+        cat_counts[cat] = cat_counts.get(cat, 0) + 1
+
         sources_str = ", ".join(ev.get("sources", []))
         links_html = " | ".join(
             f'<a href="{l}" target="_blank" rel="noopener">{l.split("/")[2] if "//" in l else l}</a>'
             for l in ev.get("links", [])[:3]
         )
+
+        cat_label = {"politics": "Политика", "ai": "AI", "tech": "Техно/Наука"}.get(cat, "")
+        cat_badge = f'<span class="cat-badge cat-{cat}">{cat_label}</span>' if cat_label else ""
+
+        perspective = ev.get("perspective", "").strip()
+        perspective_type = ev.get("perspective_type", "").strip()
         perspective_label = {
             "from_source": "из источника",
             "assumed": "предположительно",
             "unclear": "неясно"
-        }.get(ev.get("perspective_type", ""), "")
+        }.get(perspective_type, "")
 
         summ_en = ev.get("summary_en", "")
         summ_ru = ev.get("summary", "")
@@ -71,22 +90,24 @@ def generate_html(events, config, usage=None, api_key=None):
             summ_en_html = ""
         summ_ru_html = f'<div class="summ-ru">{summ_ru}</div>' if summ_ru else ""
 
+        if perspective:
+            comparison_html = f'<div class="comparison"><div class="compare-title">Оценки {'(' + perspective_label + ')' if perspective_label else ''}</div><div class="compare-item">{perspective}</div></div>'
+        else:
+            comparison_html = ""
+
         story = f"""
 <div class="story">
   <div class="story-card">
     <div class="story-header">
       <div class="story-number">{idx}</div>
       <div class="story-titles">
-        <div class="title-en">{ev.get("title_en", "")}</div>
+        <div class="title-en">{ev.get("title_en", "")} {cat_badge}</div>
         <div class="title-ru">{ev.get("title_ru", "")}</div>
       </div>
     </div>
     <div class="story-body">
       <div class="summary">{summ_en_html}{summ_ru_html}</div>
-      <div class="comparison">
-        <div class="compare-title">Оценки {'(' + perspective_label + ')' if perspective_label else ''}</div>
-        <div class="compare-item">{ev.get("perspective", "не указано")}</div>
-      </div>
+      {comparison_html}
       <div class="story-footer">
         <span class="tag">{ev.get("date", "")}</span>
         <span>Источники: {sources_str}</span>
@@ -142,7 +163,8 @@ def generate_html(events, config, usage=None, api_key=None):
     html = html.replace("__USAGE_INFO__", usage_text)
     html = html.replace("__TOTAL_STORIES__", str(len(events)))
     html = html.replace("__TOTAL_SOURCES__", str(sum(len(e.get("sources", [])) for e in events)))
-    html = html.replace("__REGIONS_COVERED__", str(len(set(s for e in events for s in e.get("sources", [])))))
+    cat_display = " | ".join(f'{l}: {cat_counts.get(k,0)}' for k,l in [("politics","Политика"),("ai","AI"),("tech","Техно")] if cat_counts.get(k,0))
+    html = html.replace("__REGIONS_COVERED__", cat_display)
     html = html.replace("__STORIES__", stories_html)
     from news_agent.ai_summarizer import MODEL as AI_MODEL_NAME
     html = html.replace("__AI_MODEL__", AI_MODEL_NAME)
@@ -220,7 +242,7 @@ def main():
     usage = None
     events = None
     if api_key:
-        events, usage = summarize_news(clusters[:7], api_key, history)
+        events, usage = summarize_news(clusters[:10], api_key, history)
         if usage:
             stats = load_json(STATS_FILE, {"total_tokens": 0, "total_cost": 0})
             stats["total_tokens"] += usage.get("tokens", 0)
