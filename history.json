@@ -2186,5 +2186,125 @@
     "is_development": false,
     "first_reported": "2026-07-05",
     "id": "37a2f7ffcaad"
+  },
+  {
+    "title_ru": "Похороны Хаменеи: сын-преемник Моджтаба отсутствует, толпа скандирует «Месть», Иран ужесточает контроль над Ормузским проливом",
+    "title_en": "Khamenei Funeral: Successor Son Mojtaba Absent, Crowds Chant 'Revenge', Iran Tightens Control over Strait of Hormuz",
+    "date": "2026-07-05",
+    "summary_en": "Millions gathered in Tehran for the funeral of Iran's slain Supreme Leader Ali Khamenei, with mourners chanting 'Death to America' and 'Revenge.' Notably, his son and newly appointed successor Mojtaba Khamenei was absent from the ceremony, fueling speculation about internal dynamics. Simultaneously, Iran reportedly seeks to tighten control over the Strait of Hormuz, while the US allegedly pressured dozens of countries to boycott the funeral. Calls for the killing of Donald Trump were also reported among mourners.",
+    "summary": "Миллионы собрались в Тегеране на похороны убитого верховного лидера Ирана Али Хаменеи; толпа скандировала «Смерть Америке» и «Месть». Примечательно, что его сын и новоназначенный преемник Моджтаба Хаменеи отсутствовал на церемонии, что вызвало волну спекуляций. Одновременно Иран, по сообщениям, стремится ужесточить контроль над Ормузским проливом, а США якобы оказывали давление на десятки стран с целью бойкота похорон. Среди скорбящих звучали призывы к убийству Дональда Трампа.",
+    "category": "politics",
+    "perspective": "Иранские власти: демонстрация национального единства и легитимности «оси сопротивления». Запад/Израиль: тревожный сигнал эскалации — призывы к мести и убийству Трампа. Региональные союзники Ирана: подтверждение курса на конфронтацию.",
+    "perspective_type": "assumed",
+    "sources": [
+      "The Guardian",
+      "The New York Times",
+      "BBC",
+      "Indian Express",
+      "CBC",
+      "Tehran Times"
+    ],
+    "links": [
+      "https://www.theguardian.com/world/2026/jul/05/iran-ali-khamenei-funeral-supreme-leader-mojtaba-absent",
+      "https://www.theguardian.com/world/2026/jul/05/iran-control-strait-of-hormuz-ali-khamenei-funeral",
+      "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-supreme-leader.html",
+      "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-khamenei-tehran.html",
+      "https://www.bbc.co.uk/news/articles/cevllyj9vv3o",
+      "https://indianexpress.com/article/world/mojtaba-khamenei-absent-ayatollah-ali-khamenei-funeral-tehran-trump-10772439/",
+      "https://www.cbc.ca/news/world/khamenei-funeral-no-sighting-mojtaba-successor-9.7259060",
+      "https://www.tehrantimes.com/news/527887/US-pressured-dozens-of-countries-to-boycott-Tehran-funeral-Iranian"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-05",
+    "id": "1cb60f5e4c5a"
+  },
+  {
+    "title_ru": "Трамп планирует переговоры с Зеленским в Турции, а затем звонок Путину",
+    "title_en": "Trump Plans Talks with Zelensky in Turkey, Then Call with Putin",
+    "date": "2026-07-05",
+    "summary_en": "President Trump is set to hold negotiations with Ukraine's Zelensky next week, followed by a planned phone call with Vladimir Putin, according to Reuters. This diplomatic push follows a 90-minute phone call between Putin and Trump on US Independence Day and signals an intensified mediation effort in the ongoing conflict.",
+    "summary": "Президент Трамп на следующей неделе проведёт переговоры с Владимиром Зеленским, а затем, по данным Reuters, планирует телефонный разговор с Владимиром Путиным. Это происходит после 90-минутного разговора Путина и Трампа в День независимости США и указывает на активизацию посреднических усилий Вашингтона в украинском конфликте.",
+    "category": "politics",
+    "perspective": "Администрация Трампа: позиционирует себя как миротворец. Россия: возможность дипломатического решения на выгодных условиях. Украина: потенциальное давление к уступкам. Европейские союзники: могут опасаться сделки за их спиной.",
+    "perspective_type": "assumed",
+    "sources": [
+      "Kommersant",
+      "TASS",
+      "Lenta.ru"
+    ],
+    "links": [
+      "https://www.kommersant.ru/doc/8796916",
+      "https://tass.ru/mezhdunarodnaya-panorama/27887853",
+      "https://lenta.ru/news/2026/07/05/stalo-izvestno-o-planah-trampa-svyazatsya-s-putinym-posle-vstrechi-s-zelenskim/"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-05",
+    "id": "75fa3c6a0db9"
+  },
+  {
+    "title_ru": "Минобороны РФ: 116 украинских БПЛА сбиты за 12 часов над 10 регионами; угроза атаки объявлена в 12+ регионах",
+    "title_en": "Russian Defense Ministry: 116 Ukrainian Drones Downed in 12 Hours Over 10 Regions; Drone Threat Declared in 12+ Regions",
+    "date": "2026-07-05",
+    "summary_en": "Russian air defenses intercepted 116 Ukrainian drones over 10 regions within 12 hours, the Defense Ministry reported, including five near Moscow. Simultaneously, drone attack warnings were declared across more than a dozen regions — from Rostov and Voronezh to Lipetsk, Tula, Novgorod, Anapa, and Tuapse — in what appears to be a coordinated, large-scale UAV offensive on Russian territory.",
+    "summary": "Минобороны РФ отчиталось о перехвате 116 украинских БПЛА над 10 регионами за 12 часов, включая пять дронов на подлёте к Москве. Одновременно угроза атаки беспилотников была объявлена более чем в десятке регионов — от Ростовской, Воронежской, Липецкой и Тульской областей до Новгородской, Анапы, Туапсе и Адыгеи. Это указывает на скоординированную масштабную воздушную кампанию против территории РФ.",
+    "category": "politics",
+    "perspective": "Российские власти: демонстрируют эффективность ПВО, но признают масштаб угрозы. Украина: демонстрация способности наносить удары вглубь РФ. Международное сообщество: обеспокоенность эскалацией и потенциальными рисками для гражданской инфраструктуры.",
+    "perspective_type": "assumed",
+    "sources": [
+      "Vedomosti",
+      "Kommersant",
+      "TASS",
+      "Lenta.ru"
+    ],
+    "links": [
+      "https://www.vedomosti.ru/politics/news/2026/07/05/1211354-pvo-unichtozhila-116-bespilotnikov",
+      "https://www.kommersant.ru/doc/8796917",
+      "https://tass.ru/armiya-i-opk/27887749",
+      "https://tass.ru/proisshestviya/27887861",
+      "https://tass.ru/proisshestviya/27887857",
+      "https://tass.ru/proisshestviya/27887811",
+      "https://tass.ru/proisshestviya/27887635"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-05",
+    "id": "f001339e63d2"
+  },
+  {
+    "title_ru": "Рекордная жара в США: не менее 25 погибших, аномальная температура охватила значительную часть страны",
+    "title_en": "Record Heatwave in the US: At Least 25 Dead as Extreme Temperatures Scorch Swaths of the Country",
+    "date": "2026-07-05",
+    "summary_en": "At least 25 people have died in the United States as a record-breaking heatwave scorches large parts of the country, according to The Guardian. The extreme temperatures are straining infrastructure and prompting safety concerns across multiple states.",
+    "summary": "Не менее 25 человек погибли в США в результате рекордной жары, охватившей значительную часть страны, сообщает The Guardian. Экстремальные температуры создают нагрузку на инфраструктуру и вызывают серьёзные опасения за безопасность населения в нескольких штатах.",
+    "category": "politics",
+    "perspective": "Демократы: подтверждение необходимости срочных климатических мер. Республиканцы: могут акцентировать проблемы инфраструктурной готовности. Местные власти: экстренное реагирование и оценка ущерба.",
+    "perspective_type": "from_source",
+    "sources": [
+      "The Guardian"
+    ],
+    "links": [
+      "https://www.theguardian.com/us-news/2026/jul/05/heatwave-deaths-weather"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-05",
+    "id": "e2701e31de4f"
+  },
+  {
+    "title_ru": "Иран стремится ужесточить контроль над Ормузским проливом на фоне похорон Хаменеи",
+    "title_en": "Iran Seeks to Tighten Control over Strait of Hormuz Amid Khamenei Funeral",
+    "date": "2026-07-05",
+    "summary_en": "Iran is seeking to tighten its control over the strategically vital Strait of Hormuz alongside the funeral ceremonies for former Supreme Leader Ali Khamenei, The Guardian reports. The strait is a critical chokepoint for global oil shipments, and any escalation raises significant concerns for energy markets and international shipping.",
+    "summary": "По сообщению The Guardian, Иран стремится ужесточить контроль над стратегически важным Ормузским проливом одновременно с проведением похоронных церемоний бывшего верховного лидера Али Хаменеи. Пролив — критическая точка для мировых поставок нефти, и любая эскалация вызывает серьёзную обеспокоенность на энергетических рынках и в сфере международного судоходства.",
+    "category": "politics",
+    "perspective": "Иран: демонстрация стратегических возможностей в момент национального траура. Западные державы: угроза свободе судоходства и энергетической безопасности. Нефтяные рынки: риск роста цен на фоне геополитической нестабильности.",
+    "perspective_type": "from_source",
+    "sources": [
+      "The Guardian"
+    ],
+    "links": [
+      "https://www.theguardian.com/world/2026/jul/05/iran-control-strait-of-hormuz-ali-khamenei-funeral"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-05",
+    "id": "cfe6afe57fcb"
   }
 ]
