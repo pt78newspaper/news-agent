@@ -1,125 +1,5 @@
 [
   {
-    "title_ru": "Срыв перемирия между США и Ираном: взаимные обвинения и военные удары",
-    "title_en": "US-Iran Ceasefire Collapses: Mutual Accusations and Military Strikes",
-    "date": "2026-06-27",
-    "summary_en": "The fragile ceasefire between the US and Iran has broken down. Trump accused Iran of violating the truce in the Strait of Hormuz after an Iranian drone struck the ship MV Ever Lovely; the US retaliated with strikes on Iranian territory. Iran condemned the US actions as a 'blatant violation' of the peace agreement, and both sides have established a direct communication channel to manage the crisis.",
-    "summary": "Хрупкое перемирие между США и Ираном сорвалось. Трамп обвинил Иран в нарушении прекращения огня в Ормузском проливе после того, как иранский дрон поразил судно MV Ever Lovely; США нанесли ответные удары по территории Ирана. Иран осудил действия США как «вопиющее нарушение» мирного соглашения; стороны создали прямой канал связи для урегулирования кризиса.",
-    "perspective": "США рассматривают свои действия как вынужденный ответ на иранскую агрессию; Иран настаивает, что США первыми нарушили договорённости. Россия и Китай, по заявлению Трампа, сохраняют нейтралитет.",
-    "perspective_type": "from_source",
-    "sources": [
-      "Kommersant",
-      "Lenta.ru",
-      "Vedomosti",
-      "Indian Express",
-      "Tehran Times",
-      "Times of India"
-    ],
-    "links": [
-      "https://www.kommersant.ru/doc/8778564",
-      "https://www.kommersant.ru/doc/8778230",
-      "https://www.kommersant.ru/doc/8778229",
-      "https://www.kommersant.ru/doc/8778137",
-      "https://lenta.ru/news/2026/06/27/iran-otvetil-na-udar-ssha/",
-      "https://lenta.ru/news/2026/06/26/tramp-obvinil-iran-v-narushenii-prekrascheniya-ognya/",
-      "https://www.vedomosti.ru/politics/news/2026/06/26/1209257-iran-ssha-kanal-svyazi",
-      "https://indianexpress.com/article/world/us-strikes-iran-mv-ever-lovely-strait-hormuz-ceasefire-june-2026-10759767/",
-      "https://www.tehrantimes.com/news/527637/The-blood-of-Minab-America-s-war-on-Iran-and-the-world-s-silence",
-      "https://timesofindia.indiatimes.com/world/middle-east/us-says-iran-iran-says-us-who-really-broke-ceasefire-this-time/articleshow/132028110.cms"
-    ],
-    "is_development": false,
-    "first_reported": "2026-06-27",
-    "id": "7f2c008d5e68"
-  },
-  {
-    "title_ru": "Землетрясения в Венесуэле: почти 1000 погибших, международная помощь и проверка американо-венесуэльских отношений",
-    "title_en": "Venezuela Earthquakes: Nearly 1,000 Dead, International Aid Tests US-Venezuela Ties",
-    "date": "2026-06-27",
-    "summary_en": "Twin earthquakes in Venezuela have killed nearly 1,000 people, with over 50,000 reported missing according to the UN. A new 4.9-magnitude aftershock has compounded the crisis. The US has pledged generous relief, and Venezuelan Executive Vice President Rodriguez thanked the US for its assistance — a notable development in the recently improving bilateral relationship.",
-    "summary": "Двойное землетрясение в Венесуэле унесло жизни почти 1000 человек, более 50 000 числятся пропавшими без вести по данным ООН. Новый афтершок магнитудой 4,9 усугубил кризис. США пообещали щедрую помощь, а исполнительный вице-президент Венесуэлы Родригес поблагодарил США за содействие — примечательный жест на фоне недавно наладившихся двусторонних отношений.",
-    "perspective": "Для администрации Трампа — возможность укрепить новый альянс с Каракасом через гуманитарную помощь; для Венесуэлы — тест на способность справиться с катастрофой при ослабленной системе здравоохранения. Международное сообщество оказывает поддержку, направляя спасательные команды.",
-    "perspective_type": "from_source",
-    "sources": [
-      "The Hindu",
-      "NYT",
-      "Times of India",
-      "Indian Express",
-      "TASS",
-      "The Guardian",
-      "NPR",
-      "CBC",
-      "DW"
-    ],
-    "links": [
-      "https://www.thehindu.com/news/international/venezuela-earthquake-survivors-sleep-in-cars-and-under-trees-as-they-question-where-theyll-live-after-the-earthquakes/article71152080.ece",
-      "https://www.nytimes.com/2026/06/26/us/politics/trump-venezuela-earthquake-aid.html",
-      "https://www.nytimes.com/2026/06/26/world/americas/venezuela-earthquake-rescue-teams-countries.html",
-      "https://timesofindia.indiatimes.com/world/rest-of-world/death-dust-and-desperation-venezuelas-twin-earthquakes-leave-nearly-1000-dead-trail-of-despair-watch/articleshow/132027578.cms",
-      "https://indianexpress.com/article/world/venezuela-new-earthquake-twin-quakes-kill-over-900-people-10759647/",
-      "https://tass.com/emergencies/2152265",
-      "https://tass.com/emergencies/2152203",
-      "https://tass.com/emergencies/2152179",
-      "https://www.theguardian.com/world/2026/jun/26/hunt-survivors-brutal-venezuela-earthquake",
-      "https://www.npr.org/2026/06/26/nx-s1-5870652/venezuela-earthquake-usaid-u-s-aid",
-      "https://www.cbc.ca/news/world/venezuela-earthquake-death-toll-rises-people-trapped-9.7249673"
-    ],
-    "is_development": false,
-    "first_reported": "2026-06-27",
-    "id": "40f15b7c1885"
-  },
-  {
-    "title_ru": "Массированные атаки БПЛА на российские регионы: угрозы в Липецкой, Тульской, Воронежской областях и под Москвой",
-    "title_en": "Mass Drone Attacks on Russian Regions: Threats in Lipetsk, Tula, Voronezh, and Near Moscow",
-    "date": "2026-06-27",
-    "summary_en": "Multiple Russian regions have declared drone attack alerts, with Lipetsk, Sochi, Voronezh, Tula, and Oryol oblasts all affected. Nearly 50 drones were shot down approaching Moscow on June 26, with seven more downed on June 27. An industrial enterprise in Tula was hit, one person was injured, and two fatalities were reported in Bryansk region from a previous attack.",
-    "summary": "В ряде российских регионов — Липецкой, Тульской, Воронежской, Орловской областях, а также в Сочи и Анапе — объявлялась угроза атаки БПЛА. За 26–27 июня под Москвой сбито более 50 беспилотников. В Тульской области атаковано промышленное предприятие, один человек пострадал; в Брянской области два человека погибли ранее.",
-    "perspective": "Российские власти представляют атаки как террористическую угрозу со стороны Украины; украинская сторона обычно не комментирует подобные инциденты. Ситуация демонстрирует расширение географии ударов вглубь российской территории.",
-    "perspective_type": "assumed",
-    "sources": [
-      "TASS (RU)",
-      "Kommersant",
-      "Vedomosti",
-      "Lenta.ru"
-    ],
-    "links": [
-      "https://tass.ru/proisshestviya/27863081",
-      "https://tass.ru/proisshestviya/27863063",
-      "https://tass.ru/proisshestviya/27862909",
-      "https://tass.ru/proisshestviya/27862945",
-      "https://tass.ru/armiya-i-opk/27862831",
-      "https://www.kommersant.ru/doc/8778510",
-      "https://www.kommersant.ru/doc/8765376",
-      "https://www.kommersant.ru/doc/8765344",
-      "https://www.kommersant.ru/doc/8764555",
-      "https://www.vedomosti.ru/politics/news/2026/06/26/1209010-50-sbitih-bpla",
-      "https://www.vedomosti.ru/politics/news/2026/06/26/1209002-bpla-atakovali",
-      "https://lenta.ru/news/2026/06/27/rossiyskiy-gubernator-rasskazal-o-posledstviyah-nochnoy-ataki-dronov/"
-    ],
-    "is_development": false,
-    "first_reported": "2026-06-27",
-    "id": "f0e0449cf68c"
-  },
-  {
-    "title_ru": "Начало реализации соглашения Ливана и Израиля: вывод израильских войск",
-    "title_en": "Lebanon-Israel Agreement Begins with Israeli Troop Withdrawal",
-    "date": "2026-06-27",
-    "summary_en": "The Lebanon-Israel agreement has entered its implementation phase, beginning with the withdrawal of Israeli forces. The deal marks a significant diplomatic breakthrough in a long-standing regional conflict. Iran has issued fresh warnings over Israeli military activity and presence in Lebanon, signaling continued regional tensions despite the agreement.",
-    "summary": "Соглашение между Ливаном и Израилем вступило в фазу реализации — начат вывод израильских войск. Это значительный дипломатический прорыв в затяжном региональном конфликте. Иран выступил с новыми предупреждениями в отношении израильского военного присутствия в Ливане, что указывает на сохраняющуюся напряжённость.",
-    "perspective": "Для Ливана — возможность восстановления суверенитета; для Израиля — выполнение договорённостей при сохранении озабоченности безопасностью. Иран рассматривает соглашение через призму своего влияния в регионе и поддержки ливанских союзников.",
-    "perspective_type": "assumed",
-    "sources": [
-      "Antara News",
-      "Tehran Times"
-    ],
-    "links": [
-      "https://www.antaranews.com/berita/5625367/kesepakatan-lebanon-israel-dimulai-dengan-penarikan-pasukan-israel",
-      "https://www.tehrantimes.com/news/527644/Iran-issues-fresh-warnings-over-Israeli-military-activity-and"
-    ],
-    "is_development": false,
-    "first_reported": "2026-06-27",
-    "id": "4c8e17e04084"
-  },
-  {
     "title_ru": "Буркина-Фасо разрывает дипломатические отношения с Францией",
     "title_en": "Burkina Faso Cuts Diplomatic Relations with France",
     "date": "2026-06-27",
@@ -2451,5 +2331,193 @@
     "is_development": true,
     "first_reported": "2026-07-06",
     "id": "0d6afc0bd756"
+  },
+  {
+    "title_ru": "Трамп объявил перемирие с Ираном «оконченным»; США и Иран наносят взаимные удары",
+    "title_en": "Trump Declares Iran Ceasefire 'Over'; US and Iran Trade Strikes",
+    "date": "2026-07-08",
+    "summary_en": "At the NATO summit in Ankara, President Trump declared the ceasefire memorandum with Iran 'over' after fresh US strikes on 80+ Iranian military targets, including air defenses and missile depots. Iran's IRGC retaliated by striking 85 US military facilities in Bahrain and Kuwait and downing an MQ-9 drone. Oil prices jumped nearly 2% as shipping security in the Strait of Hormuz was raised to 'severe.' China urged both sides to abide by the memorandum.",
+    "summary": "На саммите НАТО в Анкаре Трамп заявил, что меморандум о прекращении огня с Ираном «окончен» на фоне новых ударов США по 80+ иранским военным объектам. КСИР Ирана нанёс ответные удары по 85 американским военным объектам в Бахрейне и Кувейте, сбил дрон MQ-9. Цены на нефть подскочили почти на 2%, уровень безопасности в Ормузском проливе повышен до «критического». Китай призвал стороны соблюдать меморандум.",
+    "category": "politics",
+    "perspective": "Администрация Трампа: перемирие было нарушено Ираном, удары абсолютно необходимы (поддержано генсеком НАТО). Демократы/европейские союзники: обеспокоены эскалацией и дестабилизацией региона. Иран: обвиняет США в вероломстве, обещает «решительный ответ». Китай и Россия: призывают к сдержанности. Рынки: паника из-за угрозы поставкам нефти через Ормузский пролив.",
+    "perspective_type": "assumed",
+    "sources": [
+      "NPR",
+      "NYT",
+      "The Guardian",
+      "DW",
+      "TASS",
+      "Indian Express",
+      "The Hindu",
+      "IRNA",
+      "CBC"
+    ],
+    "links": [
+      "https://www.npr.org/2026/07/08/nx-s1-5883929/trump-nato-iran-strikes-press-conference",
+      "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
+      "https://www.theguardian.com/world/2026/jul/08/iran-us-war-ceasefire-peace-agreement-strikes-strait-of-hormuz",
+      "https://www.dw.com/en/iran-war-trump-says-ceasefire-over-after-fresh-strikes/live-77869350",
+      "https://tass.com/world/2157315",
+      "https://tass.com/world/2157303",
+      "https://indianexpress.com/article/world/trump-iran-ceasefire-over-us-strikes-10777107/",
+      "https://en.irna.ir/news/86203775/IRGC-says-retaliatory-strikes-hit-85-US-military-targets-MQ-9",
+      "https://www.cbc.ca/news/world/iran-targets-bahrain-kuwait-9.7262342"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-08",
+    "id": "5ceb223132f6"
+  },
+  {
+    "title_ru": "Саммит НАТО в Анкаре: Трамп атакует союзников, требует Гренландию и грозит Испании торговой войной",
+    "title_en": "NATO Summit in Ankara: Trump Blasts Allies, Demands Greenland, Threatens Spain with Trade Halt",
+    "date": "2026-07-08",
+    "summary_en": "President Trump used the NATO summit in Ankara to lash out at European allies, reviving his demand for US control of Greenland. Denmark vowed to defend 'every inch' of NATO territory. Trump also ordered the Treasury to halt all trade with Spain, expressing 'anger' at NATO. Meanwhile, Turkey's Erdogan announced increased defense spending to 5% of GDP by 2030 and said he shares Trump's position on Ukraine. Zelensky renewed demands for defense systems ahead of a meeting with Trump.",
+    "summary": "На саммите НАТО в Анкаре Трамп обрушился с критикой на европейских союзников, возродив требование о контроле США над Гренландией. Дания пообещала защищать «каждый дюйм» территории НАТО. Трамп приказал Минфину США полностью остановить торговлю с Испанией, выразив «гнев» в адрес альянса. Эрдоган заявил об увеличении оборонных расходов до 5% ВВП к 2030 году и поддержал позицию Трампа по Украине. Зеленский вновь потребовал системы ПВО перед встречей с Трампом.",
+    "category": "politics",
+    "perspective": "Администрация Трампа/MAGA: отстаивание американских интересов, давление на союзников по расходам на оборону. Европейские лидеры (Дания, Испания): возмущены вмешательством и угрозами. Турция/Эрдоган: укрепление роли посредника, сближение с Трампом. Украина: добивается гарантий безопасности на фоне неопределённости. Россия: вероятно, приветствует разногласия внутри НАТО.",
+    "perspective_type": "assumed",
+    "sources": [
+      "NYT",
+      "The Guardian",
+      "DW",
+      "Tagesschau",
+      "TASS",
+      "Kommersant",
+      "CBC",
+      "The Hindu",
+      "Vedomosti",
+      "Lenta.ru"
+    ],
+    "links": [
+      "https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine",
+      "https://www.theguardian.com/world/live/2026/jul/08/trump-nato-summit-greenland-us-turkey-rutte-marine-le-pen-europe-latest-news-updates",
+      "https://www.dw.com/en/attacks-on-kyiv-ahead-of-nato-summit-what-is-putin-s-goal/a-77867330",
+      "https://www.tagesschau.de/ausland/europa/nato-gipfel-trump-groenland-100.html",
+      "https://www.nytimes.com/2026/07/08/world/europe/us-denmark-greenland-nato-frederiksen.html",
+      "https://www.kommersant.ru/doc/8798823",
+      "https://www.cbc.ca/news/world/trump-greenland-nato-denmark-9.7261603",
+      "https://www.thehindu.com/news/international/nato-summit-in-turkiye-trump-lashes-out-at-allies/article71197466.ece",
+      "https://www.vedomosti.ru/politics/articles/2026/07/08/1212033-strani-nato-umerili",
+      "https://tass.ru/ekonomika/27897867"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-08",
+    "id": "b2a52ed9dada"
+  },
+  {
+    "title_ru": "МОК снял дисквалификацию с Олимпийского комитета России, открыв путь к Играм-2028",
+    "title_en": "IOC Lifts Russia's Olympic Suspension, Clearing Path to 2028 Games",
+    "date": "2026-07-07",
+    "summary_en": "The International Olympic Committee provisionally lifted the suspension of the Russian Olympic Committee, setting the stage for Russia's return to the global sports arena ahead of the 2028 Olympics. Russia's sports minister welcomed the decision. However, the International Biathlon Union (IBU) immediately voiced opposition to Russia's return to international competition. The move follows years of Russian sports isolation.",
+    "summary": "Международный олимпийский комитет временно снял дисквалификацию с Олимпийского комитета России, открывая путь к возвращению страны на международную спортивную арену перед Играми-2028. Глава Минспорта РФ приветствовал решение. Однако Международный союз биатлонистов (IBU) незамедлительно выступил против возвращения России. Решение принято после нескольких лет спортивной изоляции России.",
+    "category": "politics",
+    "perspective": "Россия: дипломатическая победа, восстановление спортивного суверенитета. Украина и страны Балтии: вероятное возмущение, призывы к сохранению изоляции. IBU/отдельные федерации: сопротивление возвращению. МОК: приверженность принципу универсальности Олимпийского движения. Западные правительства: разногласия — одни за спорт вне политики, другие против.",
+    "perspective_type": "assumed",
+    "sources": [
+      "NYT",
+      "DW",
+      "TASS"
+    ],
+    "links": [
+      "https://www.nytimes.com/2026/07/07/world/europe/russia-olympic-suspension-lifted.html",
+      "https://www.dw.com/en/ioc-paves-way-for-russia-s-return-to-olympics/a-77868069",
+      "https://tass.com/sports/2157103",
+      "https://tass.com/sports/2157151",
+      "https://tass.com/sports/2157081"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-07",
+    "id": "0ffc7da0f9aa"
+  },
+  {
+    "title_ru": "Россия нанесла удар по Киеву накануне саммита НАТО: не менее 26 погибших",
+    "title_en": "Russian Strikes Kill at Least 26 in Kyiv Region on Eve of NATO Summit",
+    "date": "2026-07-08",
+    "summary_en": "Russian strikes on the Kyiv region killed at least 26 people on the eve of the NATO summit in Ankara. The attacks were widely interpreted as a message from Putin to the alliance. Analysts suggest Russia is intensifying pressure on Ukraine as NATO leaders gather, while Ukraine's Zelensky renewed calls for more defense systems ahead of his meeting with Trump at the summit.",
+    "summary": "Российские удары по Киевской области унесли жизни как минимум 26 человек накануне саммита НАТО в Анкаре. Атаки широко интерпретируются как сигнал Путина альянсу. Аналитики DW отмечают, что время ударов выбрано для максимального давления накануне встречи лидеров НАТО. Зеленский вновь потребовал системы ПВО перед встречей с Трампом на саммите.",
+    "category": "politics",
+    "perspective": "Россия: демонстрация военной силы, давление на НАТО, военная необходимость. Украина: военное преступление, требует усиления ПВО. НАТО/США: подтверждение необходимости поддержки Украины; Трамп — возможна двойственная реакция. Европа: осуждение, призывы к эскалации ответа. Китай/Глобальный Юг: вероятные призывы к деэскалации.",
+    "perspective_type": "assumed",
+    "sources": [
+      "The Hindu",
+      "DW",
+      "NYT",
+      "TASS"
+    ],
+    "links": [
+      "https://www.thehindu.com/news/international/russian-strikes-kill-several-in-kyiv-region-on-eve-of-nato-summit/article71192066.ece",
+      "https://www.dw.com/en/attacks-on-kyiv-ahead-of-nato-summit-what-is-putin-s-goal/a-77867330",
+      "https://www.nytimes.com/2026/07/08/world/europe/ukraine-nato-zelensky-trump.html",
+      "https://tass.com/defense/2157209"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-08",
+    "id": "53091a663573"
+  },
+  {
+    "title_ru": "Массированные атаки украинских БПЛА на Россию: 415 дронов сбито за ночь над 22 регионами",
+    "title_en": "Massive Ukrainian Drone Assault: 415 UAVs Intercepted Over 22 Russian Regions in One Night",
+    "date": "2026-07-08",
+    "summary_en": "Russian air defense forces intercepted 415 Ukrainian drones overnight across 22 regions, including Moscow, Tatarstan, Saratov, Voronezh, and the Taganrog Bay. Infrastructure facilities, industrial enterprises, and two tankers were damaged. One civilian was killed in Saratov region, two injured in Tatarstan. This continues a pattern of escalating drone warfare, with 519 drones intercepted just days earlier on July 6.",
+    "summary": "Российские силы ПВО за ночь перехватили 415 украинских беспилотников над 22 регионами, включая Москву, Татарстан, Саратовскую и Воронежскую области, Таганрогский залив. Повреждены инфраструктурные и промышленные объекты, два танкера. Один человек погиб в Саратовской области, двое пострадали в Татарстане. Это продолжение эскалации беспилотной войны: 6 июля было перехвачено 519 дронов.",
+    "category": "politics",
+    "perspective": "Россия: террористические атаки на гражданскую инфраструктуру, демонстрация эффективности ПВО. Украина: законные удары по военной и энергетической инфраструктуре противника. Запад: разногласия — одни поддерживают право Украины на самооборону, другие обеспокоены эскалацией и ударами вглубь территории РФ.",
+    "perspective_type": "assumed",
+    "sources": [
+      "Vedomosti",
+      "Kommersant",
+      "TASS"
+    ],
+    "links": [
+      "https://www.vedomosti.ru/politics/news/2026/07/08/1212007-rossiiskie-pvo",
+      "https://www.kommersant.ru/doc/8798737",
+      "https://www.kommersant.ru/doc/8798585",
+      "https://www.kommersant.ru/doc/8798563",
+      "https://www.kommersant.ru/doc/8798672",
+      "https://www.kommersant.ru/doc/8798688",
+      "https://tass.ru/proisshestviya/27897753",
+      "https://www.vedomosti.ru/politics/news/2026/07/06/1211388-sili-pvo-sbili-519-ukrainskih"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-08",
+    "id": "ea4bb3b8805d"
+  },
+  {
+    "title_ru": "Австралийский доклад: женщины и выпускники вузов — в зоне наибольшего риска потери работы из-за ИИ",
+    "title_en": "Australian Report: Women and University Graduates Most at Risk of AI-Driven Job Loss",
+    "date": "2026-07-08",
+    "summary_en": "A new Australian report finds that women and university graduates are among the groups most vulnerable to job displacement by artificial intelligence. The findings challenge the common assumption that AI primarily threatens blue-collar and low-skilled jobs, suggesting that cognitive and administrative roles — often held by women and degree-holders — are increasingly exposed to automation.",
+    "summary": "Новый австралийский доклад показал, что женщины и выпускники университетов находятся в группе наибольшего риска потери работы из-за внедрения искусственного интеллекта. Выводы опровергают распространённое мнение, что ИИ угрожает прежде всего низкоквалифицированным работникам: когнитивные и административные роли, часто занимаемые женщинами и обладателями дипломов, всё более подвержены автоматизации.",
+    "category": "ai",
+    "perspective": "",
+    "perspective_type": "",
+    "sources": [
+      "The Guardian"
+    ],
+    "links": [
+      "https://www.theguardian.com/australia-news/2026/jul/08/women-and-university-graduates-most-at-risk-ai-job-loss-australia-report"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-08",
+    "id": "faa03a05d256"
+  },
+  {
+    "title_ru": "Учёные обнаружили скрытую атмосферу у объекта за Плутоном — «2002 XV93»",
+    "title_en": "Scientists Discover Hidden Atmosphere Around Distant World Beyond Pluto: '2002 XV93'",
+    "date": "2026-07-08",
+    "summary_en": "Scientists have detected a hidden atmosphere around a small trans-Neptunian object called '2002 XV93,' located beyond Pluto. The discovery adds a new member to the short list of distant Solar System bodies known to possess atmospheres and may offer insights into the early formation and evolution of the outer Solar System.",
+    "summary": "Учёные обнаружили скрытую атмосферу у малого транснептунового объекта «2002 XV93» за орбитой Плутона. Открытие пополняет короткий список удалённых тел Солнечной системы, обладающих атмосферой, и может пролить свет на ранние этапы формирования и эволюции внешней части Солнечной системы.",
+    "category": "tech",
+    "perspective": "",
+    "perspective_type": "",
+    "sources": [
+      "Times of India"
+    ],
+    "links": [
+      "https://timesofindia.indiatimes.com/science/scientists-find-a-hidden-atmosphere-around-a-small-world-beyond-pluto-called-2002-xv93/articleshow/132259288.cms"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-08",
+    "id": "d634fce689ed"
   }
 ]
