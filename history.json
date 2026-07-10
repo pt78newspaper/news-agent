@@ -1,193 +1,5 @@
 [
   {
-    "title_ru": "Буркина-Фасо разрывает дипломатические отношения с Францией",
-    "title_en": "Burkina Faso Cuts Diplomatic Relations with France",
-    "date": "2026-06-27",
-    "summary_en": "Burkina Faso has severed diplomatic ties with France, continuing the trend of former French colonies in West Africa distancing themselves from Paris. The move follows similar actions by other Sahel states and reflects deepening geopolitical realignment in the region.",
-    "summary": "Буркина-Фасо разорвала дипломатические отношения с Францией, продолжив тенденцию дистанцирования бывших французских колоний в Западной Африке от Парижа. Этот шаг последовал за аналогичными действиями других государств Сахеля и отражает углубляющуюся геополитическую перестройку региона.",
-    "perspective": "Для Франции — ещё одна потеря влияния в традиционной зоне интересов; для Буркина-Фасо — продолжение курса на суверенизацию внешней политики, возможно, с переориентацией на других партнёров, включая Россию.",
-    "perspective_type": "assumed",
-    "sources": [
-      "Antara News"
-    ],
-    "links": [
-      "https://www.antaranews.com/berita/5625351/burkina-faso-putuskan-hubungan-diplomatik-dengan-prancis"
-    ],
-    "is_development": false,
-    "first_reported": "2026-06-27",
-    "id": "ff9d21cedb68"
-  },
-  {
-    "title_ru": "Смерть Сергея Иванова — экс-главы администрации Путина и бывшего кандидата в преемники",
-    "title_en": "Death of Sergei Ivanov, Former Putin Chief of Staff and Once Seen as Potential Successor",
-    "date": "2026-06-27",
-    "summary_en": "Sergei Ivanov, once considered a potential successor to Vladimir Putin and former head of the presidential administration, has died at the age of 73. Putin expressed condolences to Ivanov's family. Ivanov was a key figure in the Russian security establishment, having served as Defense Minister and head of the Security Council.",
-    "summary": "Сергей Иванов, некогда рассматривавшийся как потенциальный преемник Владимира Путина и бывший глава администрации президента, скончался в возрасте 73 лет. Путин выразил соболезнования близким. Иванов был ключевой фигурой российского силового истеблишмента: занимал посты министра обороны и секретаря Совета безопасности.",
-    "perspective": "Уход из жизни представителя старшего поколения российского руководства; символическая веха для политической элиты. При жизни Иванов олицетворял баланс между силовым и гражданским крылом окружения Путина.",
-    "perspective_type": "assumed",
-    "sources": [
-      "Times of India",
-      "Kommersant"
-    ],
-    "links": [
-      "https://timesofindia.indiatimes.com/world/rest-of-world/sergei-ivanov-once-seen-as-putins-potential-successor-dies-at-73/articleshow/132028305.cms",
-      "https://www.kommersant.ru/doc/8777940"
-    ],
-    "is_development": false,
-    "first_reported": "2026-06-27",
-    "id": "ca7811c9c070"
-  },
-  {
-    "title_ru": "Иран и Египет на «Прайд-матче» ЧМ-2026 в Сиэтле: столкновение культур на фоне футбола",
-    "title_en": "Iran and Egypt in World Cup 'Pride Match' in Seattle: Cultural Clash at the Tournament",
-    "date": "2026-06-27",
-    "summary_en": "The Iran-Egypt World Cup match in Seattle was designated as FIFA's 'Pride Match,' with rainbow flags and banners displayed — despite both countries criminalizing homosexuality. The match, which ended 1-1 and sent Egypt through to the knockouts, highlighted the cultural tensions surrounding the US-hosted tournament. Iran's Taremi had earlier criticized logistical issues, suggesting the team was not welcome in the US.",
-    "summary": "Матч Иран–Египет на ЧМ-2026 в Сиэтле был объявлен «Прайд-матчем» ФИФА с демонстрацией радужных флагов — притом что в обеих странах гомосексуальность криминализирована. Игра завершилась 1:1, что позволило Египту впервые выйти в плей-офф. Ранее иранский футболист Тареми раскритиковал логистические проблемы, предположив, что команде не рады в США.",
-    "perspective": "Для западной аудитории — демонстрация инклюзивности; для Ирана и Египта — провокация и вмешательство в их культурные нормы. Ситуация подсвечивает более широкую напряжённость между США и Ираном, отражающуюся даже в спорте.",
-    "perspective_type": "from_source",
-    "sources": [
-      "The Hindu",
-      "Times of India",
-      "DW",
-      "Tehran Times",
-      "Indian Express",
-      "The Guardian"
-    ],
-    "links": [
-      "https://www.thehindu.com/sport/football/in-seattle-lgbtq-and-world-cup-are-feted-except-by-iran-egypt/article71153726.ece",
-      "https://timesofindia.indiatimes.com/world/us/watch-iran-and-egypt-where-homosexuality-is-criminalised-play-fifa-pride-match-among-rainbow-flags-and-banners/articleshow/132030244.cms",
-      "https://www.dw.com/en/world-cup-pride-match-sparks-objections-in-egypt-and-iran/a-77721148",
-      "https://www.tehrantimes.com/news/527648/Iran-held-by-Egypt-but-remain-hopeful-for-knockout-stage",
-      "https://indianexpress.com/article/sports/football/iran-egypt-fifa-world-cup-late-var-drama-1-1-draw-round-of-32-fate-10759827/",
-      "https://www.thehindu.com/sport/football/fifa-world-cup-2026-irans-taremi-criticises-logistical-issues-suggests-side-not-welcome-in-us/article71153770.ece"
-    ],
-    "is_development": false,
-    "first_reported": "2026-06-27",
-    "id": "dcfe66809176"
-  },
-  {
-    "title_ru": "Военная эскалация между США и Ираном: взаимные удары после атаки на судно в Ормузском проливе",
-    "title_en": "US-Iran Military Escalation: Mutual Strikes After Attack on Vessel in Strait of Hormuz",
-    "date": "2026-06-27",
-    "summary_en": "The US launched strikes on Iranian military targets in retaliation for a drone attack on the cargo vessel MV Ever Lovely in the Strait of Hormuz. President Trump accused Iran of a 'foolish violation' of the ceasefire. Iran's Revolutionary Guards responded with retaliatory strikes on US-linked targets, and the US released footage of its strikes.",
-    "summary": "США нанесли удары по иранским военным объектам в ответ на атаку беспилотника на грузовое судно MV Ever Lovely в Ормузском проливе. Президент Трамп обвинил Иран в «безрассудном нарушении» перемирия. Корпус стражей исламской революции Ирана нанёс ответные удары по объектам, связанным с США. Американская сторона опубликовала видеозапись своих ударов.",
-    "perspective": "США рассматривают свои действия как ответ на нарушение перемирия Ираном. Иран, в свою очередь, обвиняет США в «вопиющем нарушении» мирного соглашения и настаивает на своём праве на самооборону. Ситуация знаменует крах трёхмесячного режима прекращения огня. NYT характеризует три месяца войны как «навсегда изменившие Залив».",
-    "perspective_type": "from_source",
-    "sources": [
-      "BBC",
-      "The Guardian",
-      "NPR",
-      "The New York Times",
-      "DW",
-      "The Hindu",
-      "Indian Express",
-      "TASS",
-      "Times of India",
-      "CBC"
-    ],
-    "links": [
-      "https://www.bbc.co.uk/news/articles/ckg590wqxwpo",
-      "https://www.theguardian.com/world/2026/jun/26/us-says-it-struck-iran-targets-after-attack-on-cargo-ship-on-the-strait-of-hormuz",
-      "https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran",
-      "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
-      "https://www.dw.com/en/iran-war-us-military-hits-iran-over-cargo-vessel-attack/live-77729995",
-      "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-washington-tehran-ceasefire-strait-of-hormuz-israel-lebanon-peace-deal-live-updates-june-27-2026/article71153161.ece",
-      "https://indianexpress.com/article/world/iran-strikes-us-linked-targets-retaliation-american-airstrikes-10760084/",
-      "https://tass.com/world/2152243",
-      "https://timesofindia.indiatimes.com/world/us/watch-us-releases-footage-of-retaliatory-strikes-on-iran-military-sites/articleshow/132028230.cms",
-      "https://www.cbc.ca/news/world/trump-blames-iran-drone-strike-9.7250777?cmp=rss"
-    ],
-    "is_development": true,
-    "first_reported": "2026-06-27",
-    "id": "91fbf5835504"
-  },
-  {
-    "title_ru": "Землетрясения в Венесуэле: число погибших приближается к 1000, более 50 000 пропавших без вести",
-    "title_en": "Venezuela Earthquakes: Death Toll Nears 1,000, Over 50,000 Missing",
-    "date": "2026-06-27",
-    "summary_en": "The death toll from twin earthquakes in Venezuela has risen to approximately 920–1,000, with over 50,000 people reported missing according to the UN. A new 4.9-magnitude aftershock struck two days after the initial quakes. International rescue teams have arrived, and the US has pledged generous relief aid. Venezuelan President Rodriguez thanked the US for its assistance.",
-    "summary": "Число погибших в результате двойного землетрясения в Венесуэле достигло 920–1000 человек, более 50 000 числятся пропавшими без вести, по данным ООН. Новый подземный толчок магнитудой 4,9 произошёл через два дня после первых землетрясений. В страну прибыли международные спасательные команды. Президент Венесуэлы Родригес поблагодарил США за помощь. Выжившие ночуют в машинах и под деревьями.",
-    "perspective": "NYT отмечает, что землетрясения испытывают на прочность недавно наладившиеся отношения США и Венесуэлы. Гуманитарная катастрофа усугубляется тем, что система здравоохранения Венесуэлы находилась в кризисе ещё до землетрясений. Международное сообщество мобилизует помощь; Иран выразил соболезнования.",
-    "perspective_type": "from_source",
-    "sources": [
-      "The New York Times",
-      "The Hindu",
-      "The Guardian",
-      "NPR",
-      "TASS",
-      "Indian Express",
-      "Times of India",
-      "DW"
-    ],
-    "links": [
-      "https://www.nytimes.com/2026/06/26/us/politics/trump-venezuela-earthquake-aid.html",
-      "https://www.nytimes.com/2026/06/26/world/americas/venezuela-earthquake-rescue-teams-countries.html",
-      "https://www.thehindu.com/news/international/venezuela-earthquake-survivors-sleep-in-cars-and-under-trees-as-they-question-where-theyll-live-after-the-earthquakes/article71152080.ece",
-      "https://www.theguardian.com/world/2026/jun/26/hunt-survivors-brutal-venezuela-earthquake",
-      "https://www.npr.org/2026/06/26/nx-s1-5870652/venezuela-earthquake-usaid-u-s-aid",
-      "https://tass.com/emergencies/2152203",
-      "https://indianexpress.com/article/world/venezuela-earthquake-death-toll-rescue-trapped-10759533/",
-      "https://timesofindia.indiatimes.com/world/rest-of-world/death-dust-and-desperation-venezuelas-twin-earthquakes-leave-nearly-1000-dead-trail-of-despair-watch/articleshow/132027578.cms"
-    ],
-    "is_development": true,
-    "first_reported": "2026-06-27",
-    "id": "b62c361a1cdd"
-  },
-  {
-    "title_ru": "Массированные атаки украинских БПЛА на российские регионы: 175 сбито за ночь",
-    "title_en": "Massive Ukrainian Drone Attacks on Russian Regions: 175 Shot Down Overnight",
-    "date": "2026-06-27",
-    "summary_en": "Russian air defense systems shot down 175 Ukrainian drones over various regions in one night, including 108 over Kursk region and 51 near Moscow. Additionally, 34 drones were destroyed over Kherson region and 15 over the DPR by the 'Donbass Dome' system. Civilian casualties were reported: one woman killed in Gorlovka, a teenager injured in the DPR. Drone strikes also caused a fire destroying 15 hectares of wheat fields in Kherson region.",
-    "summary": "Российские силы ПВО за ночь сбили 175 украинских БПЛА над регионами России, в том числе 108 над Курской областью и 51 на подлёте к Москве. За сутки над Херсонской областью уничтожено 34 беспилотника, системой «Купол Донбасса» — 15 над ДНР. Сообщается о жертвах: женщина погибла при ударе по Горловке, подросток пострадал в ДНР. В Херсонской области от удара БПЛА выгорело 15 га пшеницы.",
-    "perspective": "Российские источники акцентируют эффективность ПВО и фиксируют гражданские жертвы как результат украинских атак. Украинская сторона в представленных новостях не цитируется. Нарастающая интенсивность атак БПЛА указывает на продолжение войны на истощение с акцентом на удары вглубь территории.",
-    "perspective_type": "from_source",
-    "sources": [
-      "TASS",
-      "Kommersant",
-      "Lenta.ru",
-      "Vedomosti"
-    ],
-    "links": [
-      "https://tass.ru/proisshestviya/27863159",
-      "https://tass.ru/proisshestviya/27862967",
-      "https://tass.ru/proisshestviya/27862915",
-      "https://www.kommersant.ru/doc/8778528",
-      "https://www.kommersant.ru/doc/8778167",
-      "https://www.kommersant.ru/doc/8778538",
-      "https://www.vedomosti.ru/politics/news/2026/06/27/1209335-sili-pvo-za-noch",
-      "https://lenta.ru/news/2026/06/27/nazvano-chislo-sbityh-za-noch-nad-rossiyskimi-regionami-bespilotnikov-vsu/"
-    ],
-    "is_development": true,
-    "first_reported": "2026-06-27",
-    "id": "6862c693edbe"
-  },
-  {
-    "title_ru": "Дипломатическая активность Ирана: отпор декларации США-ССАГПЗ и предупреждение по Ормузскому проливу",
-    "title_en": "Iran's Diplomatic Offensive: Rejects US-PGCC Declaration, Warns on Strait of Hormuz",
-    "date": "2026-06-27",
-    "summary_en": "Iran rejected the joint US-PGCC (Persian Gulf Cooperation Council) declaration as 'interventionist, irresponsible, and provocative.' Iran's Foreign Ministry warned that the safety of the Strait of Hormuz depends on addressing Iran's concerns. Meanwhile, Canada is considering reopening embassies in Iran, and Iranian Foreign Minister held talks with the UK on implementing the Islamabad MoU. Iran also discussed expanding oil and trade cooperation with India, and engaged diplomatically with UAE, Uzbekistan, Armenia, and Romania.",
-    "summary": "Иран отверг совместную декларацию США и Совета сотрудничества арабских государств Персидского залива, назвав её «интервенционистской, безответственной и провокационной». МИД Ирана предупредил, что безопасность Ормузского пролива зависит от учёта иранских озабоченностей. Параллельно Канада рассматривает возможность возобновления работы посольств в Иране, а главы МИД Ирана и Великобритании обсудили реализацию Исламабадского меморандума. Иран также провёл переговоры с Индией о расширении нефтяного и торгового сотрудничества, а также с ОАЭ, Узбекистаном, Арменией и Румынией.",
-    "perspective": "Иран демонстрирует одновременно жёсткую риторику в адрес США и их союзников и дипломатическую открытость с другими странами. Канадское рассмотрение открытия посольств и диалог с Великобританией могут свидетельствовать о попытках западных стран сохранить каналы связи на фоне военной эскалации. Италия, в свою очередь, отвергла заявление генсека НАТО о помощи США против Ирана.",
-    "perspective_type": "from_source",
-    "sources": [
-      "Tehran Times",
-      "IRNA",
-      "Times of India"
-    ],
-    "links": [
-      "https://www.tehrantimes.com/news/527641/Iran-rejects-US-PGCC-declaration-defends-regional-security-doctrine",
-      "https://en.irna.ir/news/86193241/Iran-warns-Strait-of-Hormuz-safety-hinges-on-addressing-its",
-      "https://en.irna.ir/news/86193360/Iran-UK-top-diplomats-discuss-implementation-of-Islamabad-MoU",
-      "https://en.irna.ir/news/86193070/Iran-slams-US-PGCC-statement-as-interventionist-irresponsible",
-      "https://en.irna.ir/news/86192872/Italian-foreign-minister-rejects-NATO-chief-s-claim-on-assisting",
-      "https://www.tehrantimes.com/news/527643/Canada-weighs-reopening-embassies-in-Iran-Carney-says",
-      "https://www.tehrantimes.com/news/527632/Iran-India-emphasize-expansion-of-oil-trade-cooperation"
-    ],
-    "is_development": false,
-    "first_reported": "2026-06-27",
-    "id": "1db317ae4d95"
-  },
-  {
     "title_ru": "Смерть Сергея Иванова: Путин выразил соболезнования",
     "title_en": "Death of Sergei Ivanov: Putin Expresses Condolences",
     "date": "2026-06-27",
@@ -2519,5 +2331,179 @@
     "is_development": false,
     "first_reported": "2026-07-08",
     "id": "d634fce689ed"
+  },
+  {
+    "title_ru": "Аятолла Хаменеи похоронен в Мешхеде на фоне эскалации войны США и Ирана",
+    "title_en": "Ayatollah Khamenei Buried in Mashhad as US-Iran War Escalates",
+    "date": "2026-07-10",
+    "summary_en": "Ayatollah Ali Khamenei was laid to rest at the Imam Reza shrine in Mashhad, with millions attending the funeral procession across multiple cities. His eldest son led the funeral prayer. Concurrently, the US continues strikes on Iran — hitting southern and eastern regions — while Iran's IRGC claims to have pounded an enemy command center. Gulf Arab countries report being hit by new Iranian attacks, and the IEA warns the escalation could threaten the 2027 oil market surplus.",
+    "summary": "Аятолла Али Хаменеи был похоронен в мавзолее Имама Резы в Мешхеде; миллионы людей приняли участие в траурных процессиях. Старший сын Хаменеи возглавил заупокойную молитву. Тем временем США продолжают наносить удары по южным и восточным районам Ирана, а КСИР заявляет об ответных ракетных ударах по командному центру противника. Арабские страны Персидского залива сообщают о новых иранских атаках, а МЭА предупреждает, что эскалация угрожает профициту нефтяного рынка в 2027 году.",
+    "category": "politics",
+    "perspective": "Иранские власти и союзники: Хаменеи — мученик, убитый США и Израилем; США совершают военные преступления; необходим ответ. Администрация Трампа: удары оправданы иранской угрозой. Европейские союзники: тревога из-за эскалации, призывы к дипломатии. Россия/Китай: осуждение ударов США. Страны Залива: страх оказаться под перекрёстным огнём.",
+    "perspective_type": "from_source",
+    "sources": [
+      "IRNA",
+      "Tehran Times",
+      "The New York Times",
+      "DW",
+      "The Hindu",
+      "Indian Express",
+      "The Guardian",
+      "France24"
+    ],
+    "links": [
+      "https://en.irna.ir/news/86205269/Martyred-Leader-laid-to-rest-at-Imam-Reza-shrine-in-Mashhad",
+      "https://www.tehrantimes.com/news/527997/Millions-flood-Mashhad-as-Iran-s-martyred-Leader-is-laid-to-rest",
+      "https://www.nytimes.com/2026/07/09/world/middleeast/us-iran-war-strikes.html",
+      "https://www.dw.com/en/iran-war-former-supreme-leader-buried-amid-new-escalation/live-77899274",
+      "https://www.thehindu.com/news/international/us-iran-war-live-updates-ali-khamenei-funeral-ceremony-burial-military-strikes-donald-trump-mojtaba-khamenei-ceasefire-deal/article71205094.ece",
+      "https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump/war-weary-gulf-arab-countries-hit-by-new-iranian-attacks",
+      "https://en.irna.ir/news/86205026/Iranian-missiles-pound-enemy-command-and-control-center-in-West",
+      "https://en.irna.ir/news/86204827/Foreign-Ministry-US-attacks-on-southern-and-eastern-Iran-constitute"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-10",
+    "id": "d876a98b2042"
+  },
+  {
+    "title_ru": "Глава Росатома: ЗАЭС пережила более 400 атак дронов с середины марта",
+    "title_en": "Rosatom Chief: Zaporizhzhia NPP Suffered 400+ Drone Attacks Since Mid-March",
+    "date": "2026-07-10",
+    "summary_en": "Rosatom CEO Alexey Likhachev reported that the Zaporizhzhia Nuclear Power Plant has endured more than 400 drone attacks since mid-March 2026, with a sharp escalation since late April. The plant has switched to autonomous power supply 21 times due to attacks, and diesel reserves would last 11 days. Likhachev stated that IAEA reports do not fully reflect the objective situation at the plant and asked the agency for assistance in highlighting the escalating conflict around the facility. The Kremlin confirmed it is in constant contact with the IAEA.",
+    "summary": "Глава Росатома Алексей Лихачёв сообщил, что Запорожская АЭС пережила более 400 атак беспилотников с середины марта 2026 года, с резкой эскалацией с конца апреля. Станция 21 раз переходила на автономное энергоснабжение из-за атак, запасов дизельного топлива хватит на 11 суток. Лихачёв заявил, что доклады МАГАТЭ не полностью отражают объективное положение дел, и попросил агентство содействия в освещении эскалации. Кремль подтвердил постоянный контакт с МАГАТЭ.",
+    "category": "politics",
+    "perspective": "Россия: ВСУ целенаправленно атакуют ядерный объект, угрожая глобальной безопасности; МАГАТЭ недостаточно объективно. Украина: Россия использует станцию как военный объект. Международное сообщество: глубокая озабоченность риском ядерной катастрофы.",
+    "perspective_type": "from_source",
+    "sources": [
+      "TASS",
+      "Vedomosti"
+    ],
+    "links": [
+      "https://tass.ru/politika/27906021",
+      "https://tass.ru/ekonomika/27906059",
+      "https://tass.ru/politika/27906019",
+      "https://tass.ru/ekonomika/27906043",
+      "https://www.vedomosti.ru/politics/news/2026/07/10/1212760-rossiya-postoyannom-kontakte",
+      "https://tass.ru/ekonomika/27905995"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-10",
+    "id": "2adc4f29e9c3"
+  },
+  {
+    "title_ru": "Массированные атаки БПЛА на Россию: режим ЧС в Таганроге, удары по Москве и нефтеобъектам",
+    "title_en": "Massive Drone Attacks Across Russia: Taganrog Under Emergency, Moscow Targeted, Oil Facilities Hit",
+    "date": "2026-07-10",
+    "summary_en": "A state of emergency was declared in Taganrog following a drone strike. Near Moscow, multiple drones were shot down — up to 10 in a single night. Oil facilities were hit in the Rostov region (Azov), Stavropol region, and Tver region, with fires reported at storage tanks. In Leningrad region, 14 drones were intercepted. An unexploded ordnance was found in Omsk's industrial zone. Overall, Russian air defenses claim to have shot down nearly 5,000 drones in one week.",
+    "summary": "В Таганроге введён режим ЧС после атаки БПЛА. Вблизи Москвы сбито до 10 беспилотников за ночь. Нефтехранилища в ростовском Азове, Ставропольском крае и Тверской области загорелись после ударов. В Ленинградской области сбиты 14 БПЛА. В промзоне Омска найден неразорвавшийся снаряд. По заявлениям Минобороны, за неделю силы ПВО сбили почти 5 тыс. дронов.",
+    "category": "politics",
+    "perspective": "Российские власти: террористические атаки ВСУ на гражданскую инфраструктуру. Украина: удары по военным и стратегическим объектам в рамках самообороны. Запад: раскол между поддержкой права Украины на самооборону и обеспокоенностью эскалацией.",
+    "perspective_type": "from_source",
+    "sources": [
+      "Kommersant",
+      "Lenta.ru",
+      "Vedomosti"
+    ],
+    "links": [
+      "https://www.kommersant.ru/doc/8812641",
+      "https://www.kommersant.ru/doc/8800163",
+      "https://www.kommersant.ru/doc/8800151",
+      "https://www.kommersant.ru/doc/8800118",
+      "https://lenta.ru/news/2026/07/10/v-rossiyskom-gorode-vveli-rezhim-chs-posle-ataki-vsu/",
+      "https://www.vedomosti.ru/politics/news/2026/07/10/1212707-v-taganroge-chs",
+      "https://www.kommersant.ru/doc/8800178"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-10",
+    "id": "12c558c474c2"
+  },
+  {
+    "title_ru": "Аномальная жара во Франции: 24 департамента в красной тревоге, 7 800 гектаров сгорело за 10 дней",
+    "title_en": "France Heatwave: 24 Departments on Red Alert, 7,800 Hectares Burned in 10 Days",
+    "date": "2026-07-10",
+    "summary_en": "France is experiencing an extreme heatwave with 24 departments, including Île-de-France, placed under red alert. The intense heat is expected to persist and spread further on Saturday. Wildfires have ravaged 7,800 hectares in just ten days, with residents returning to find their homes destroyed. The situation has sparked debates about decarbonization efforts and the impact of deindustrialization on France's climate goals.",
+    "summary": "Франция переживает аномальную жару: 24 департамента, включая Иль-де-Франс, находятся в режиме красной тревоги. Сильная жара сохранится и распространится в субботу. За десять дней пожарами уничтожено 7 800 гектаров; жители возвращаются к разрушенным домам. Ситуация вызвала общественные дебаты о декарбонизации и влиянии деиндустриализации на климатические цели.",
+    "category": "politics",
+    "perspective": "Правительство Франции: экстренное реагирование, мобилизация пожарных служб. Климатические активисты: evidence ускоряющегося климатического кризиса, требование срочных мер. Скептики: естественная погодная вариативность. Экономисты: дебаты о связи деиндустриализации и выбросов CO₂.",
+    "perspective_type": "from_source",
+    "sources": [
+      "Le Monde",
+      "France24"
+    ],
+    "links": [
+      "https://www.lemonde.fr/planete/live/2026/07/10/en-direct-canicule-les-tres-fortes-chaleurs-persistent-et-s-etendront-encore-samedi-avec-24-departements-en-vigilance-rouge_6720911_3244.html",
+      "https://www.france24.com/fr/vid%C3%A9o/20260710-en-france-7-800-hectares-br%C3%BBl%C3%A9s-en-dix-jours-seulement",
+      "https://www.france24.com/fr/vid%C3%A9o/20260710-en-france-les-sinistr%C3%A9s-des-incendies-d%C3%A9couvrent-leur-maison-ravag%C3%A9e-par-les-flammes",
+      "https://www.lemonde.fr/idees/article/2026/07/10/la-desindustrialisation-met-a-mal-une-partie-des-efforts-de-decarbonation-de-la-france_6722393_3232.html"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-10",
+    "id": "4181320cd3c8"
+  },
+  {
+    "title_ru": "ЧМ-2026: Франция выходит в полуфинал, обыграв Марокко 2:0",
+    "title_en": "World Cup 2026: France Reaches Semifinals After 2-0 Win Over Morocco",
+    "date": "2026-07-10",
+    "summary_en": "France became the first team to reach the 2026 FIFA World Cup semifinals after defeating Morocco 2-0, with goals from Mbappé and Dembélé. Mbappé drew level with Messi in the Golden Boot race despite missing a penalty. Celebrations in Paris turned tragic as a teenage girl died while celebrating the victory in northern France. The match was played against the backdrop of ongoing debates about violence at the tournament.",
+    "summary": "Франция стала первым полуфиналистом ЧМ-2026, обыграв Марокко со счётом 2:0 благодаря голам Мбаппе и Дембеле. Мбаппе сравнялся с Месси в гонке за Золотую бутсу, несмотря на незабитый пенальти. Празднования в Париже омрачены трагедией: девочка-подросток погибла во время празднования победы на севере Франции. Матч прошёл на фоне дискуссий о насилии на турнире.",
+    "category": "politics",
+    "perspective": "Франция: национальный подъём, Мбаппе — национальный герой; трагедия с подростком вызвала общественный резонанс. Марокко: гордость за выход в четвертьфинал, разочарование от поражения. Международное сообщество: признание силы французской команды; тревога по поводу насилия на чемпионате.",
+    "perspective_type": "from_source",
+    "sources": [
+      "France24",
+      "Le Monde",
+      "BBC",
+      "Indian Express",
+      "Agência Brasil"
+    ],
+    "links": [
+      "https://www.france24.com/fr/%C3%A9missions/le-club-du-mondial/20260710-mondial-2026-l-%C3%A9quipe-de-france-intraitable-avec-le-maroc-mbapp%C3%A9-en-patron",
+      "https://www.lemonde.fr/sport/article/2026/07/10/france-maroc-les-bleus-qualifies-pour-le-dernier-carre-de-la-coupe-du-monde-grace-a-leur-attaque-de-feu_6722350_3242.html",
+      "https://www.lemonde.fr/societe/article/2026/07/10/france-maroc-une-adolescente-est-morte-en-celebrant-la-victoire-des-bleus-dans-le-nord_6722409_3224.html",
+      "https://www.bbc.co.uk/sport/football/articles/c4gy74978myo",
+      "https://indianexpress.com/article/sports/football/fifa-world-cup-france-2-0-morocco-reach-semifinal-kylian-mbappe-lionel-messi-golden-boot-race-10779739/",
+      "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/franca-e-primeira-semifinalista-da-copa-apos-2-a-0-sobre-marrocos"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-10",
+    "id": "c243ce21cf95"
+  },
+  {
+    "title_ru": "DW Fact check: ИИ-фейки вокруг ЧМ-2026 распространяют политические нарративы",
+    "title_en": "DW Fact Check: AI-Generated Fakes Around World Cup Spread Political Narratives",
+    "date": "2026-06-22",
+    "summary_en": "DW investigation reveals that AI-generated fakes — deepfake images and videos — are being circulated around the 2026 FIFA World Cup to spread political narratives. The phenomenon highlights the growing challenge of AI-manipulated content in major global events, where emotionally charged sporting moments are exploited for disinformation purposes.",
+    "summary": "Расследование Deutsche Welle выявило, что вокруг ЧМ-2026 распространяются сгенерированные ИИ фейки — дипфейк-изображения и видео — для продвижения политических нарративов. Это подчёркивает растущую проблему манипулируемого ИИ контента на крупных мировых событиях, где эмоционально заряженные спортивные моменты используются в целях дезинформации.",
+    "category": "ai",
+    "perspective": "",
+    "perspective_type": "",
+    "sources": [
+      "DW"
+    ],
+    "links": [
+      "https://www.dw.com/en/fact-check-ai-fakes-around-the-world-cup-spread-political-narratives/a-77659085"
+    ],
+    "is_development": false,
+    "first_reported": "2026-06-22",
+    "id": "794ec387db7a"
+  },
+  {
+    "title_ru": "Учёные: Эль-Ниньо 2026 года может сравниться с катастрофическим событием 1870-х, убившим миллионы",
+    "title_en": "Scientists Warn: 2026 El Niño Could Rival Deadly 1870s Event That Killed Millions",
+    "date": "2026-07-10",
+    "summary_en": "Scientists are warning that the upcoming 2026 El Niño event could rival one of history's deadliest — the 1870s El Niño that killed millions through droughts and famines. The warning comes as global climate patterns show disturbing similarities to the 19th-century event, raising concerns about food security and extreme weather across multiple continents.",
+    "summary": "Учёные предупреждают, что Эль-Ниньо 2026 года может сравниться по силе с одним из самых смертоносных в истории — событием 1870-х годов, которое через засухи и голод убило миллионы. Предупреждение появилось на фоне того, что глобальные климатические паттерны проявляют тревожное сходство с событиями XIX века, вызывая обеспокоенность по поводу продовольственной безопасности и экстремальной погоды.",
+    "category": "tech",
+    "perspective": "",
+    "perspective_type": "",
+    "sources": [
+      "Times of India"
+    ],
+    "links": [
+      "https://timesofindia.indiatimes.com/science/in-the-1870s-one-of-historys-deadliest-el-nio-events-killed-millions-scientists-warn-the-upcoming-2026-event-could-rival-it/articleshow/132309279.cms"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-10",
+    "id": "1bc22b88a435"
   }
 ]
