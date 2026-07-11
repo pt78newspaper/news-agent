@@ -13,6 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GPTUNNEL_KEY: ${{ secrets.GPTUNNEL }}
+      ADMIN_TOKEN: ${{ secrets.ADMIN_TOKEN }}
     steps:
       - uses: actions/checkout@v4
 
