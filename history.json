@@ -1,131 +1,5 @@
 [
   {
-    "title_ru": "Смерть Сергея Иванова: Путин выразил соболезнования",
-    "title_en": "Death of Sergei Ivanov: Putin Expresses Condolences",
-    "date": "2026-06-27",
-    "summary_en": "Sergei Ivanov, former head of Putin's presidential administration and once seen as a potential successor, has died at 73. President Putin expressed condolences to Ivanov's family. Ivanov was a key figure in Russia's political elite, having served as Defense Minister and Chief of the Presidential Administration.",
-    "summary": "Сергей Иванов, бывший глава администрации президента Путина и некогда рассматривавшийся как потенциальный преемник, скончался в возрасте 73 лет. Владимир Путин выразил соболезнования близким Иванова. Иванов был одной из ключевых фигур российской политической элиты, занимал посты министра обороны и руководителя администрации президента.",
-    "perspective": "Смерть Иванова знаменует уход одного из «тяжеловесов» путинской эпохи. Times of India отмечает его прежний статус потенциального преемника Путина, что подчёркивает его историческую роль в транзите власти, который в итоге пошёл по иному сценарию.",
-    "perspective_type": "from_source",
-    "sources": [
-      "Times of India",
-      "Kommersant"
-    ],
-    "links": [
-      "https://timesofindia.indiatimes.com/world/rest-of-world/sergei-ivanov-once-seen-as-putins-potential-successor-dies-at-73/articleshow/132028305.cms",
-      "https://www.kommersant.ru/doc/8777940"
-    ],
-    "is_development": true,
-    "first_reported": "2026-06-27",
-    "id": "f4477396f286"
-  },
-  {
-    "title_ru": "Путин встретился с Лукашенко на Валдае",
-    "title_en": "Putin Meets Lukashenko at Valdai",
-    "date": "2026-06-26",
-    "summary_en": "Russian President Vladimir Putin held a meeting with Belarusian leader Alexander Lukashenko at the Valdai residence. The meeting took place amid ongoing military tensions with Ukraine and the wider geopolitical confrontation with the West. No details of the discussions were disclosed in the available reports.",
-    "summary": "Президент России Владимир Путин провёл встречу с Александром Лукашенко на Валдае. Встреча прошла на фоне продолжающейся военной напряжённости и массированных атак БПЛА на российские регионы. Подробности переговоров в доступных сообщениях не раскрываются.",
-    "perspective": "Встреча может оцениваться как подтверждение неизменной оси Москва-Минск в условиях конфликта. Западные наблюдатели, вероятно, расценят её как дальнейшую консолидацию союзнических отношений. Российские источники подают встречу как рутинное союзническое взаимодействие.",
-    "perspective_type": "assumed",
-    "sources": [
-      "Kommersant"
-    ],
-    "links": [
-      "https://www.kommersant.ru/doc/8778164"
-    ],
-    "is_development": false,
-    "first_reported": "2026-06-26",
-    "id": "2452b81c4317"
-  },
-  {
-    "title_ru": "«Прайд-матч» Иран–Египет на ЧМ-2026: ничья 1:1, драма VAR и культурное столкновение",
-    "title_en": "Iran-Egypt 'Pride Match' at World Cup 2026: 1-1 Draw, VAR Drama, and Cultural Clash",
-    "date": "2026-06-27",
-    "summary_en": "The FIFA World Cup match between Iran and Egypt, designated as a 'Pride Match' in Seattle, ended in a 1-1 draw with late VAR controversy denying Iran a stoppage-time winner. Both countries, where homosexuality is criminalized, played amid rainbow flags and banners. Egypt advanced past the group stage for the first time in its history; Iran kept its knockout hopes alive. Iran's coach rued missed chances, while Iran's Taremi criticized logistical issues and suggested the team was not welcome in the US.",
-    "summary": "Матч ЧМ-2026 между Ираном и Египтом, объявленный «Прайд-матчем» в Сиэтле, завершился вничью 1:1 с драматичным решением VAR, отменившим победный гол Ирана на последних минутах. Обе страны, где гомосексуальность криминализирована, играли на фоне радужных флагов. Египет впервые в истории вышел в плей-офф; Иран сохранил шансы. Тренер Ирана сожалел об упущенных моментах, а иранский футболист Тареми раскритиковал логистику и намекнул, что команду не рады видеть в США.",
-    "perspective": "Западные СМИ (DW, The Hindu) акцентируют противоречие между символикой прайда и законами Ирана и Египта. Иранские источники (Tehran Times, IRNA) фокусируются на спортивных аспектах и жалуются на логистические трудности в США. The Guardian освещает страстный стиль арабских комментаторов как культурный феномен.",
-    "perspective_type": "from_source",
-    "sources": [
-      "DW",
-      "The Hindu",
-      "Indian Express",
-      "Times of India",
-      "IRNA",
-      "Tehran Times",
-      "The Guardian"
-    ],
-    "links": [
-      "https://www.dw.com/en/world-cup-pride-match-sparks-objections-in-egypt-and-iran/a-77721148",
-      "https://www.thehindu.com/sport/football/fifa-world-cup-2026-egypt-survives-with-1-1-draw-against-iran-advances-past-group-stage-for-the-first-time/article71153551.ece",
-      "https://indianexpress.com/article/sports/football/iran-egypt-fifa-world-cup-late-var-drama-1-1-draw-round-of-32-fate-10759827/",
-      "https://www.thehindu.com/sport/football/in-seattle-lgbtq-and-world-cup-are-feted-except-by-iran-egypt/article71153726.ece",
-      "https://www.thehindu.com/sport/football/fifa-world-cup-2026-irans-taremi-criticises-logistical-issues-suggests-side-not-welcome-in-us/article71153770.ece",
-      "https://www.tehrantimes.com/news/527648/Iran-held-by-Egypt-but-remain-hopeful-for-knockout-stage",
-      "https://en.irna.ir/news/86193642/Iran-hold-Egypt-to-draw-keep-World-Cup-hopes-alive"
-    ],
-    "is_development": true,
-    "first_reported": "2026-06-27",
-    "id": "ec0d0c2035ac"
-  },
-  {
-    "title_ru": "Иран наносит удар по Бахрейну, Пакистан выступает посредником: конфликт США и Ирана разрастается",
-    "title_en": "Iran Strikes Bahrain, Pakistan Mediates: US-Iran Conflict Escalates Beyond Hormuz",
-    "date": "2026-06-27",
-    "summary_en": "Following US retaliatory strikes on Iranian military sites, Iran launched drone attacks on Bahrain — a key US ally hosting the Fifth Fleet. The conflict, triggered by an Iranian drone attack on a cargo vessel in the Strait of Hormuz, has expanded geographically. Pakistan's Prime Minister Shehbaz Sharif claimed a peacemaker role, mediating a new Iran-US deal.",
-    "summary": "После ответных ударов США по иранским военным объектам Иран атаковал беспилотниками Бахрейн — ключевого союзника США, где базируется Пятый флот. Конфликт, спровоцированный атакой иранского дрона на грузовое судно в Ормузском проливе, расширился географически. Премьер-министр Пакистана Шахбаз Шариф заявил о роли посредника в заключении новой ирано-американской сделки.",
-    "perspective": "США и союзники (Бахрейн) оценивают действия Ирана как агрессивное нарушение режима прекращения огня и угрозу судоходству. Иран настаивает, что отвечает на американские удары, и обвиняет США в срыве перемирия. Пакистан представляет сделку как дипломатический прорыв, укрепляющий его региональный статус.",
-    "perspective_type": "from_source",
-    "sources": [
-      "BBC News",
-      "The Hindu",
-      "Indian Express",
-      "The Guardian",
-      "NYT",
-      "NPR",
-      "CBC",
-      "TASS",
-      "Ведомости",
-      "Lenta.ru",
-      "DW"
-    ],
-    "links": [
-      "https://www.bbc.co.uk/news/articles/ckg590wqxwpo",
-      "https://www.thehindu.com/news/international/iran-says-it-hits-us-linked-targets-as-bahrain-reports-drone-attack/article71154002.ece",
-      "https://indianexpress.com/article/world/iran-strikes-us-linked-targets-retaliation-american-airstrikes-10760084/",
-      "https://www.theguardian.com/world/2026/jun/26/us-says-it-struck-iran-targets-after-attack-on-cargo-ship-on-the-strait-of-hormuz",
-      "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
-      "https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran",
-      "https://www.cbc.ca/news/world/trump-blames-iran-drone-strike-9.7250777",
-      "https://tass.com/world/2152243",
-      "https://www.vedomosti.ru/politics/news/2026/06/27/1209307-ssha-nanesli-udar",
-      "https://lenta.ru/news/2026/06/27/vitse-prezident-ssha-poobeschal-otvechat-iranu-nasiliem-na-nasilie/",
-      "https://www.dw.com/en/iran-war-us-military-hits-iran-over-cargo-vessel-attack/live-77729995"
-    ],
-    "is_development": true,
-    "first_reported": "2026-06-27",
-    "id": "28830b0a8980"
-  },
-  {
-    "title_ru": "Гибель Али Лариджани — ключевого политического тяжеловеса Ирана",
-    "title_en": "Ali Larijani, Senior Iranian Political Figure, Killed — Judiciary Chief Calls It 'Major Loss'",
-    "date": "2026-06-27",
-    "summary_en": "Ali Larijani, former Speaker of Iran's Parliament, ex-nuclear negotiator, and senior advisor to Supreme Leader Khamenei, has been declared a martyr. Iran's Judiciary Chief described his death as a 'major loss for Iran.' Circumstances remain unclear, but the announcement comes amid the US-Iran military escalation.",
-    "summary": "Али Лариджани, бывший спикер парламента Ирана, экс-ядерный переговорщик и старший советник верховного лидера Хаменеи, объявлен мучеником. Глава судебной власти Ирана назвал его гибель «крупной потерей для Ирана». Обстоятельства остаются неясными, но объявление последовало на фоне военной эскалации между США и Ираном.",
-    "perspective": "Иранские официальные источники (IRNA, Tehran Times) подают гибель как мученичество, подчёркивая тяжесть утраты. Международные наблюдатели связывают событие с продолжающимся конфликтом, хотя прямая причинно-следственная связь в новостях не указана.",
-    "perspective_type": "from_source",
-    "sources": [
-      "IRNA",
-      "Tehran Times"
-    ],
-    "links": [
-      "https://en.irna.ir/news/86193897/Ali-Larijani-s-martyrdom-major-loss-for-Iran-Judiciary-chief",
-      "https://www.tehrantimes.com/news/527656/Iran-captain-Taremi-hits-out-at-FIFA"
-    ],
-    "is_development": false,
-    "first_reported": "2026-06-27",
-    "id": "74d048c961dc"
-  },
-  {
     "title_ru": "Массированные удары ВСУ по российским регионам: Волгоград, Ростовская и Белгородская области",
     "title_en": "Ukraine Launches Mass Attacks on Russian Regions: Volgograd, Rostov, Belgorod Hit",
     "date": "2026-06-27",
@@ -2505,5 +2379,140 @@
     "is_development": false,
     "first_reported": "2026-07-10",
     "id": "1bc22b88a435"
+  },
+  {
+    "title_ru": "Трамп угрожает «уничтожить» Иран и даёт ультиматум по Ормузскому проливу",
+    "title_en": "Trump Threatens to 'Decimate and Completely Destroy' Iran, Sets Saturday Deadline on Hormuz",
+    "date": "2026-07-11",
+    "summary_en": "President Trump threatened to 'decimate and completely destroy' Iran after Ayatollah Khamenei's funeral featured open calls for his killing. The US gave Iran a Saturday deadline to pledge to halt attacks in the Strait of Hormuz. Simultaneously, Trump confirmed the US agreed to Iran's request to return to negotiations, with technical talks reportedly set for July 12 in Pakistan.",
+    "summary": "Президент Трамп пригрозил «уничтожить» Иран после того, как на похоронах аятоллы Хаменеи прозвучали открытые призывы к его убийству. США выдвинули Ирану ультиматум до субботы — гарантировать прекращение атак в Ормузском проливе. Одновременно Трамп подтвердил согласие США на просьбу Ирана возобновить переговоры; технические консультации предположительно начнутся 12 июля в Пакистане.",
+    "category": "politics",
+    "perspective": "Администрация США: демонстрация силы, защита американских интересов и свободы судоходства. Иран: отвергает обвинения в заговоре, настаивает на соблюдении меморандума о взаимопонимании, обвиняет США в нарушениях. Международное сообщество: тревога из-за риска полномасштабной войны и сбоев в поставках нефти. Антивоенные круги: Трамп безрассудно толкает регион к катастрофе.",
+    "perspective_type": "assumed",
+    "sources": [
+      "NPR",
+      "Indian Express",
+      "France24",
+      "Le Monde",
+      "The New York Times",
+      "TASS",
+      "Times of India"
+    ],
+    "links": [
+      "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran",
+      "https://indianexpress.com/article/world/us-iran-ceasefire-collapse-strait-of-hormuz-trump-ultimatum-oil-prices-10781572/",
+      "https://www.france24.com/fr/moyen-orient/20260711-en-direct-trump-menace-de-decimer-et-detruire-completement-iran-si-tente-assassinat",
+      "https://www.lemonde.fr/international/article/2026/07/11/donald-trump-affirme-que-l-iran-veut-l-assassiner-teheran-maintient-avoir-tenu-parole-sur-l-accord-de-cessez-le-feu_6722666_3210.html",
+      "https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html",
+      "https://tass.com/world/2158837",
+      "https://timesofindia.indiatimes.com/world/us/reports-israeli-intel-warn-us-of-irans-plot-to-assassinate-trump/articleshow/132323107.cms"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-11",
+    "id": "9555ee03dc4a"
+  },
+  {
+    "title_ru": "Аятолла Хаменеи похоронен в Мешхеде: миллионы простились с верховным лидером",
+    "title_en": "Ayatollah Khamenei Laid to Rest in Mashhad as Millions Bid Farewell",
+    "date": "2026-07-11",
+    "summary_en": "Ayatollah Ali Khamenei was buried at the Imam Reza shrine in Mashhad on July 10, with over 40 million Iranians estimated to have participated in funeral processions. His eldest son led the funeral prayer. The ceremony featured vows of revenge against his assassins, and symbolic funeral processions were held abroad, including in Tunisia. Over 5,000 foreign guests from 30 countries attended.",
+    "summary": "Аятолла Али Хаменеи был похоронен в мавзолее Имама Резы в Мешхеде 10 июля. По оценкам, более 40 миллионов иранцев приняли участие в траурных процессиях. Старший сын Хаменеи провёл заупокойную молитву. Церемония сопровождалась клятвами мести убийцам; символические траурные шествия прошли за рубежом, включая Тунис. Более 5000 иностранных гостей из 30 стран присутствовали на похоронах.",
+    "category": "politics",
+    "perspective": "Иранские власти: мученичество Хаменеи сплотило нацию, укрепило дух сопротивления. Западные правительства: обнажилась уязвимость режима, вакуум верховной власти. Региональные союзники Ирана: солидарность перед лицом американской агрессии. Аналитики: funeral стал демонстрацией как силы режима, так и неопределённости преемственности.",
+    "perspective_type": "assumed",
+    "sources": [
+      "IRNA",
+      "Tehran Times",
+      "The New York Times",
+      "The Guardian",
+      "Ведомости"
+    ],
+    "links": [
+      "https://en.irna.ir/news/86205269/Martyred-Leader-laid-to-rest-at-Imam-Reza-shrine-in-Mashhad",
+      "https://www.tehrantimes.com/news/528019/With-fists-raised-and-vows-of-vengeance-millions-entomb-their",
+      "https://www.nytimes.com/2026/07/09/world/middleeast/khamenei-funeral-iran.html",
+      "https://www.theguardian.com/world/2026/jul/09/iran-trade-strikes-ceasefire-extended-donald-trump",
+      "https://www.vedomosti.ru/politics/news/2026/07/10/1212670-irane-svishe"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-11",
+    "id": "6ae46ded0c84"
+  },
+  {
+    "title_ru": "ЧМ-2026: Испания выходит в полуфинал, Англия и Норвегия сразятся в четвертьфинале",
+    "title_en": "World Cup 2026: Spain Reaches Semifinals, England Faces Norway in Miami Quarterfinal",
+    "date": "2026-07-11",
+    "summary_en": "Spain defeated Belgium 2-1 with a goal by Merino to advance to the semifinals, where they will face France. In the other quarterfinal, England takes on Norway in Miami heat; Erling Haaland mania is sweeping the tournament as Norway reaches its first-ever quarterfinal. The England match is expected to generate a £500 million sales boost for the UK economy.",
+    "summary": "Испания обыграла Бельгию 2:1 благодаря голу Мерино и вышла в полуфинал, где встретится с Францией. В другом четвертьфинале Англия играет с Норвегией в жару Майами; норвежский форвард Эрлинг Холанн стал главной звездой турнира. Четвертьфинал Англии, по оценкам, принесёт британской экономике £500 млн дополнительных продаж.",
+    "category": "politics",
+    "perspective": "Британские болельщики и бизнес: экономический подъём и национальная гордость. Норвежские болельщики: исторический шанс для маленькой страны. Футбольное сообщество: турнир демонстрирует рост новых футбольных держав. Критики: коммерциализация спорта и политические отвлечения на фоне глобальных кризисов.",
+    "perspective_type": "assumed",
+    "sources": [
+      "NPR",
+      "The Guardian",
+      "BBC",
+      "The New York Times",
+      "CBC",
+      "TASS"
+    ],
+    "links": [
+      "https://www.npr.org/2026/07/11/nx-s1-5890030/spain-will-face-france-world-cup-semifinal",
+      "https://www.theguardian.com/business/2026/jul/11/world-cup-quarter-finals-expected-to-generate-half-billion-pound-sales-rise-for-uk-economy",
+      "https://www.bbc.co.uk/sport/football/articles/cx2jzl3zxpzo",
+      "https://www.nytimes.com/2026/07/11/world/europe/england-norway-world-cup.html",
+      "https://www.cbc.ca/news/world/erling-haaland-fifa-world-cup-9.7266170",
+      "https://tass.com/sports/2158921"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-11",
+    "id": "bd34d03548d0"
+  },
+  {
+    "title_ru": "Война дронов: пожары на нефтебазах в России потушены, ВСУ атакуют гражданские автобусы",
+    "title_en": "Drone War: Oil Depot Fires in Russia Extinguished; Ukraine Strikes Civilian Buses",
+    "date": "2026-07-11",
+    "summary_en": "Fires at oil storage facilities in Rostov region, Tver, and the port of Taganrog — caused by Ukrainian drone strikes — were extinguished after burning for up to two days. Meanwhile, civilian passenger buses were struck by Ukrainian forces in Zaporizhzhia region, with Russian officials accusing Ukraine of deliberately targeting civilian transport. The Russian government allocated 4.3 billion rubles to support Crimea's tourism industry affected by the attacks.",
+    "summary": "Пожары на нефтехранилищах в Ростовской области, Твери и порту Таганрога, вызванные атаками украинских БПЛА, потушены спустя двое суток. Тем временем ВСУ нанесли удар по пассажирским автобусам в Запорожской области; российские официальные лица обвиняют Украину в целенаправленной охоте на гражданский транспорт. Правительство РФ выделило 4,3 млрд рублей на поддержку туристической отрасли Крыма.",
+    "category": "politics",
+    "perspective": "Российские власти: Украина ведёт террористическую войну против гражданского населения и инфраструктуры. Украина: удары наносятся по законным военным целям — объектам, снабжающим российскую армию. Западные союзники Украины: поддержка права Украины на самооборону, включая удары по тыловым объектам. Международные гуманитарные организации: обеспокоенность жертвами среди мирного населения.",
+    "perspective_type": "assumed",
+    "sources": [
+      "TASS",
+      "Коммерсантъ",
+      "Lenta.ru",
+      "Ведомости"
+    ],
+    "links": [
+      "https://tass.ru/obschestvo/27908101",
+      "https://www.kommersant.ru/doc/8813327",
+      "https://www.kommersant.ru/doc/8813320",
+      "https://lenta.ru/news/2026/07/11/zaporozhskiy-gubernator-soobschil-ob-atake-vsu-na-grazhdanskie-avtobusy/",
+      "https://www.kommersant.ru/doc/8813331",
+      "https://www.kommersant.ru/doc/8813329"
+    ],
+    "is_development": true,
+    "first_reported": "2026-07-11",
+    "id": "7019195587dd"
+  },
+  {
+    "title_ru": "Суд оставил в силе приговор Марин Ле Пен, но её популярность не пострадала",
+    "title_en": "French Court Upholds Marine Le Pen Conviction, but Her Popularity Remains Unscathed",
+    "date": "2026-07-11",
+    "summary_en": "A French court upheld Marine Le Pen's criminal conviction, yet the ruling has failed to dent her popularity among supporters. The Guardian reports that Le Pen's base views the conviction as political persecution, with one supporter stating 'politicians have always been schemers.' The case has become a rallying point for the French far-right ahead of upcoming elections.",
+    "summary": "Французский суд оставил в силе обвинительный приговор Марин Ле Пен, однако это не пошатнуло её популярность. Сторонники Ле Пен воспринимают приговор как политическое преследование. Дело становится консолидирующим фактором для французских ультраправых в преддверии будущих выборов.",
+    "category": "politics",
+    "perspective": "Сторонники Ле Пен: политическое преследование, «глубинное государство» пытается устранить оппозицию. Центристы Макрона: торжество верховенства закона. Ультраправые: нарратив мученичества лишь укрепляет движение. Левые: осуждение коррупции приветствуется, но системные проблемы сохраняются.",
+    "perspective_type": "assumed",
+    "sources": [
+      "The Guardian",
+      "France24"
+    ],
+    "links": [
+      "https://www.theguardian.com/world/2026/jul/11/upheld-conviction-le-pen-popularity-france",
+      "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260710-reprise-des-hostilit%C3%A9s-iran-usa-sommet-de-l-otan-marine-le-pen-condamn%C3%A9e"
+    ],
+    "is_development": false,
+    "first_reported": "2026-07-11",
+    "id": "7f7b584f4cb3"
   }
 ]
