@@ -1,219 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Продолжающиеся удары ВСУ по российским регионам: новые жертвы в Белгородской, Волгоградской областях и Краснодарском крае",
-      "title_en": "Continued Ukrainian Strikes on Russian Regions: New Casualties in Belgorod, Volgograd, and Krasnodar",
-      "date": "2026-06-28",
-      "summary_en": "A series of Ukrainian drone and missile attacks on Russian border regions resulted in new civilian casualties. One person was killed in a drone attack in Belgorod region, another died from falling debris in Krasnodar region, and a rocket strike on Volgograd killed one and injured ten. These attacks follow a pattern of intensified cross-border strikes this week.",
-      "summary": "Серия украинских атак БПЛА и ракетных ударов по российским регионам привела к новым жертвам: один человек погиб при атаке дрона в Белгородской области, один — от падения обломков в Краснодарском крае, ещё один погиб и десять пострадали при ракетной атаке на Волгоград. Атаки продолжают тенденцию intensified приграничных ударов на этой неделе.",
-      "perspective": "Российская сторона: целенаправленные удары ВСУ по гражданскому населению и инфраструктуре. Украинская сторона: позиция в данном наборе источников не представлена.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Kommersant",
-        "Vedomosti",
-        "Lenta.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8778765",
-        "https://www.kommersant.ru/doc/8778741",
-        "https://www.kommersant.ru/doc/8778613",
-        "https://www.kommersant.ru/doc/8778517",
-        "https://www.vedomosti.ru/politics/news/2026/06/27/1209328-volgograde-pri-atake"
-      ],
-      "is_development": true,
-      "first_reported": "2026-06-28",
-      "id": "a7ce85b050f5"
-    },
-    {
-      "title_ru": "Глава МИД Ирана Аракчи прибыл в Багдад: Иран называет расширение связей с Ираком внешнеполитическим приоритетом",
-      "title_en": "Iran's FM Araghchi Visits Baghdad; Tehran Calls Iraq Ties a Top Foreign Policy Priority",
-      "date": "2026-06-28",
-      "summary_en": "Iranian Foreign Minister Abbas Araghchi arrived in Baghdad for an official visit, with Tehran stating that expanding ties with Iraq remains a top foreign policy priority. The visit is part of a broader regional diplomatic push by Araghchi, who has held a series of high-level calls with regional counterparts amid the escalating US-Iran crisis. Iran is also participating in the 9th China-Eurasia Expo, signaling continued economic diplomacy.",
-      "summary": "Министр иностранных дел Ирана Аббас Аракчи прибыл в Багдад с официальным визитом; Тегеран заявил, что расширение связей с Ираком остаётся главным внешнеполитическим приоритетом. Визит проходит в рамках активизации региональной дипломатии на фоне эскалации американо-иранского кризиса. Иран также участвует в 9-й китайско-евразийской выставке, демонстрируя продолжение экономической дипломатии.",
-      "perspective": "Иран: Ирак — ключевой партнёр, отношения стратегические. Ирак (премьер-министр): подтвердил приверженность добрососедским отношениям с Ираном. США: не комментируют напрямую, но контекст визита — попытка Ирана укрепить региональные позиции вопреки американскому давлению.",
-      "perspective_type": "from_source",
-      "sources": [
-        "IRNA",
-        "Tehran Times",
-        "TASS"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86194696",
-        "https://en.irna.ir/news/86194876",
-        "https://en.irna.ir/news/86194517",
-        "https://en.irna.ir/news/86194840",
-        "https://www.tehrantimes.com/news/527682",
-        "https://www.tehrantimes.com/news/527677",
-        "https://tass.com/world/2152405"
-      ],
-      "is_development": false,
-      "first_reported": "2026-06-28",
-      "id": "3e88bdc1c560"
-    },
-    {
-      "title_ru": "«Хезболла» отвергает рамочное соглашение Ливана с Израилем; Нетаньяху требует разоружения",
-      "title_en": "Hezbollah Rejects Lebanon-Israel Framework Agreement; Netanyahu Demands Full Disarmament",
-      "date": "2026-06-28",
-      "summary_en": "Hezbollah's chief rejected the 'framework agreement' between Lebanon and Israel as a surrender of Lebanese sovereignty, while Lebanese Speaker Nabih Berri separately warned of potential 'sedition' following the deal. Israeli PM Netanyahu declared that Israel will not withdraw from Lebanon until Hezbollah is fully disarmed, setting the stage for continued tension despite the ceasefire in Dahiya.",
-      "summary": "Лидер «Хезболлы» отверг рамочное соглашение между Ливаном и Израилем, назвав его капитуляцией ливанского суверенитета. Спикер парламента Ливана Набих Берри предупредил об угрозе «смуты» после заключения сделки. Тем временем премьер-министр Израиля Нетаньяху заявил, что Израиль не выведет войска, пока «Хезболла» не будет полностью разоружена, что ставит под вопрос устойчивость прекращения огня.",
-      "perspective": "«Хезболла»: соглашение — предательство суверенитета. Израиль (Нетаньяху): без разоружения «Хезболлы» вывода войск не будет. Ливан (Берри): соглашение может спровоцировать внутренний раскол. США: в данных источниках прямая позиция не отражена.",
-      "perspective_type": "from_source",
-      "sources": [
-        "IRNA",
-        "Tehran Times",
-        "Indian Express",
-        "The New York Times"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86194218",
-        "https://en.irna.ir/news/86194135",
-        "https://www.tehrantimes.com/news/527674",
-        "https://indianexpress.com/article/world/netanyahu-israel-lebanon-agreement-security-zone-yellow-line-idf-10760826/",
-        "https://www.nytimes.com/2026/06/28/world/middleeast/beirut-dahiya-israel-lebanon-cease-fire.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-06-28",
-      "id": "38039b4b734a"
-    },
-    {
-      "title_ru": "США и Иран: прекращение огня, спор вокруг переговоров в Дохе и кризис в Ормузском проливе",
-      "title_en": "US-Iran: Ceasefire Agreed, Doha Talks Disputed, and Hormuz Strait Crisis",
-      "date": "2026-06-29",
-      "summary_en": "The US and Iran agreed to halt mutual strikes after a weekend of crossfire over the Strait of Hormuz, but conflicting claims emerged: Trump announced peace talks in Doha for Tuesday, while Iran denied any talks are scheduled. Meanwhile, navigation recovery in the strait is expected to take months due to mines, and Iran's President Pezeshkian announced that $6 billion in frozen Iranian assets in Qatar will be released.",
-      "summary": "США и Иран договорились прекратить взаимные удары после эскалации в Ормузском проливе, однако возникла путаница вокруг переговоров: Трамп заявил о встрече в Дохе во вторник, Иран опроверг наличие договорённостей. Восстановление судоходства в проливе займёт месяцы из-за мин, а президент Ирана Пезешкиан объявил о разблокировке $6 млрд иранских активов в Катаре.",
-      "perspective": "Администрация Трампа представляет прекращение огня как результат жёсткой позиции; Иран настаивает на своём контроле над проливом и отрицает scheduled переговоры, сохраняя рычаги давления. Европейские союзники обеспокоены нестабильностью. NYT отмечает, что размытые формулировки американо-иранского меморандума «возвращаются, чтобы преследовать мирные усилия».",
-      "perspective_type": "from_source",
-      "sources": [
-        "The Guardian",
-        "TASS",
-        "DW",
-        "NYT",
-        "IRNA",
-        "NPR",
-        "Tehran Times",
-        "Indian Express",
-        "France 24"
-      ],
-      "links": [
-        "https://www.theguardian.com/world/2026/jun/29/trump-iran-peace-talks-doha",
-        "https://tass.com/world/2152763",
-        "https://www.dw.com/en/us-iran-agree-to-halt-strikes-but-broader-talks-still-to-begin/live-77746775",
-        "https://www.nytimes.com/2026/06/28/world/europe/iran-us-strait-of-hormuz-peace-talks.html",
-        "https://en.irna.ir/news/86196089/Iran-says-no-technical-talks-with-US-planned-in-Doha-this-week",
-        "https://www.npr.org/2026/06/29/nx-s1-5874618/us-iran-talks",
-        "https://tass.com/world/2152845",
-        "https://tass.com/world/2152791",
-        "https://www.nytimes.com/2026/06/27/world/middleeast/us-iran-deal-vague-language.html",
-        "https://www.tehrantimes.com/news/527715/Iran-to-respond-more-forcefully-to-MoU-violations-after-2nd-night",
-        "https://indianexpress.com/article/world/donald-trump-iran-doha-meeting-kushner-witkoff-tehran-denial-10763164/",
-        "https://tass.com/world/2153045",
-        "https://www.theguardian.com/world/2026/jun/28/escalating-us-iran-strikes-threaten-interim-peace-agreement",
-        "https://www.france24.com/fr/moyen-orient/20260629-en-direct-parlement-libanais-enterre-accord-cadre-hezbollah-d%C3%A9fendre-patrie-moyen-orient-detroit-ormuz-israel-iran"
-      ],
-      "is_development": true,
-      "first_reported": "2026-06-29",
-      "id": "30b700f64245"
-    },
-    {
-      "title_ru": "Верховный суд США: расширение президентских полномочий Трампа, защита заочного голосования и отказ в апелляции по делу Кэрролл",
-      "title_en": "US Supreme Court: Expanded Presidential Firing Powers, Mail-in Ballot Protections Upheld, Carroll Appeal Rejected",
-      "date": "2026-06-29",
-      "summary_en": "The US Supreme Court issued several landmark rulings: it cemented Trump's power to fire officials at agencies long considered independent — a ruling liberal justices called 'destabilizing' — yet blocked his attempt to fire Federal Reserve Governor Lisa Cook. The Court also upheld grace periods for mail-in ballots arriving after Election Day, restricted geofence warrants on constitutional privacy grounds, and declined to hear Trump's appeal of the $5 million E. Jean Carroll sexual abuse verdict.",
-      "summary": "Верховный суд США вынес серию знаковых решений: закрепил право Трамва увольнять глав независимых агентств — либеральные судьи назвали это «дестабилизирующим», — но заблокировал увольнение главы ФРС Лизы Кук. Суд также подтвердил право штатов засчитывать присланные по почте бюллетени после дня выборов, ограничил использование ордеров на геозоны и отказал Трампу в апелляции по делу о домогательствах Кэрролл ($5 млн).",
-      "perspective": "Консерваторы приветствуют расширение президентского контроля над регуляторами; либеральные судьи прямо осудили решение как «дестабилизирующее». Решение о заочных бюллетенях — удар по республиканцам, оспаривавшим эту практику. Отказ по делу Кэрролл — личное поражение Трампа. Смешанные исходы показывают, что суд не всегда предсказуем.",
-      "perspective_type": "from_source",
-      "sources": [
-        "The Guardian",
-        "NPR",
-        "BBC",
-        "CBC",
-        "Indian Express",
-        "Times of India"
-      ],
-      "links": [
-        "https://www.theguardian.com/us-news/live/2026/jun/29/supreme-court-donald-trump-administration-us-politics-latest-news-updates",
-        "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-mail-in-ballots-election-ruling",
-        "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-trump-e-jean-carroll",
-        "https://www.npr.org/2026/06/29/nx-s1-5816232/supreme-court-ftc-independent-agencies-humphreys-executor",
-        "https://www.npr.org/2026/06/29/nx-s1-5557955/supreme-court-fed-lisa-cook",
-        "https://www.npr.org/2026/06/29/nx-s1-5815312/supreme-court-mail-ballot-grace-period-ruling",
-        "https://www.npr.org/2026/06/29/nx-s1-5844697/supreme-court-restricts-use-of-geofence-warrants",
-        "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno",
-        "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o",
-        "https://www.cbc.ca/news/world/us-scotus-rulings-cook-fed-slaughter-ftc-9.7252310",
-        "https://www.cbc.ca/news/world/supreme-court-trump-e-jean-carroll-appeal-9.7252431",
-        "https://indianexpress.com/article/world/us-supreme-court-expands-trump-presidential-power-federal-reserve-lisa-cook-10763377/",
-        "https://indianexpress.com/article/world/us-supreme-court-rejects-donald-trump-appeal-e-jean-carroll-sexual-abuse-verdict-10763389/",
-        "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision"
-      ],
-      "is_development": false,
-      "first_reported": "2026-06-29",
-      "id": "a109312c8148"
-    },
-    {
-      "title_ru": "Землетрясение в Венесуэле: число жертв приближается к 1500, спасены отец с сыном, гуманитарный кризис",
-      "title_en": "Venezuela Earthquake: Death Toll Nears 1,500, Father and Son Rescued Alive, Humanitarian Crisis Deepens",
-      "date": "2026-06-29",
-      "summary_en": "The death toll from the Venezuela earthquakes has reached nearly 1,500, with some 50,000 still missing. Rescue teams pulled a father and his son alive from the rubble after four days, and 33 people were rescued on Saturday alone. The UN reports nearly 1.8 million people need humanitarian aid, while over 770 buildings have been damaged or destroyed. President Delcy Rodriguez faces accusations of politicizing earthquake relief.",
-      "summary": "Число погибших при землетрясениях в Венесуэле достигло почти 1500 человек, около 50 000 числятся пропавшими. Спасатели извлекли живыми отца с сыном спустя четверо суток, в субботу спасены 33 человека. ООН сообщает, что 1,8 млн человек нуждаются в гумпомощи, более 770 зданий разрушены или повреждены. Президента Делси Родригес обвиняют в политизации помощи пострадавшим.",
-      "perspective": "Оппозиция и часть пострадавших критикуют власти за неэффективность и политизацию распределения помощи. Правительство настаивает на мобилизации всех ресурсов. Международное сообщество сосредоточено на гуманитарном реагировании. NYT документирует как солидарность общин, так и гнев на официальный ответ.",
-      "perspective_type": "from_source",
-      "sources": [
-        "The Guardian",
-        "TASS",
-        "BBC",
-        "NYT",
-        "Indian Express",
-        "Kommersant"
-      ],
-      "links": [
-        "https://www.theguardian.com/world/2026/jun/29/venezuela-earthquake-death-toll-father-son-alive",
-        "https://www.theguardian.com/world/2026/jun/29/families-of-football-stars-hector-bello-lucas-trejo-killed-venezuela-earthquakes",
-        "https://tass.com/society/2153105",
-        "https://tass.com/world/2153073",
-        "https://tass.com/emergencies/2153005",
-        "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o",
-        "https://www.bbc.co.uk/news/videos/cj4glezz1jvo",
-        "https://www.bbc.co.uk/news/videos/c5yz392v508o",
-        "https://www.nytimes.com/2026/06/28/world/americas/deep-under-the-rubble-rescuers-find-an-11-year-old-boy-alive.html",
-        "https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html",
-        "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake/search-teams-rescued-33-people-from-the-rubble-on-saturday",
-        "https://indianexpress.com/article/world/venezuela-earthquake-death-toll-missing-10762521/",
-        "https://www.kommersant.ru/doc/8779036"
-      ],
-      "is_development": true,
-      "first_reported": "2026-06-29",
-      "id": "27adb2d50b97"
-    },
-    {
-      "title_ru": "Массированные удары украинских БПЛА по России: 415 дронов за сутки, атаки на Москву",
-      "title_en": "Massive Ukrainian Drone Attacks on Russia: 415 Drones in 24 Hours, Moscow Targeted",
-      "date": "2026-06-29",
-      "summary_en": "Russian air defense forces report shooting down 415 Ukrainian drones over the past 24 hours and 209 overnight alone, with two drones intercepted near Moscow. Over the past week, daily interceptions have ranged from 68 to over 500 drones, alongside cruise missile attacks on Volgograd and other regions. Civilian casualties continue in Belgorod, Bryansk, Volgograd, and Krasnodar regions.",
-      "summary": "Российские силы ПВО отчитались о сбитии 415 украинских беспилотников за сутки и 209 за ночь; два дрона сбиты вблизи Москвы. За неделю ежедневные перехваты колебались от 68 до более 500 дронов; зафиксированы также удары крылатыми ракетами по Волгограду. Продолжаются жертвы среди гражданского населения в Белгородской, Брянской, Волгоградской областях и Краснодарском крае.",
-      "perspective": "Российские власти представляют действия ПВО как эффективную защиту; интенсивность и география атак расширяется, включая попытки ударов по Москве. Украинская сторона рассматривает это как элемент кампании по нанесению ущерба военной инфраструктуре РФ. Международные наблюдатели отмечают эскалацию дальности и интенсивности ударов.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Vedomosti",
-        "Kommersant"
-      ],
-      "links": [
-        "https://www.vedomosti.ru/politics/news/2026/06/29/1209697-sili-pvo",
-        "https://www.vedomosti.ru/politics/news/2026/06/29/1209623-rossiiskie-sili",
-        "https://www.kommersant.ru/doc/8779296",
-        "https://www.vedomosti.ru/politics/news/2026/06/29/1209545-sili-pvo",
-        "https://www.kommersant.ru/doc/8779086",
-        "https://www.vedomosti.ru/politics/news/2026/06/28/1209493-sbili-72-bpla",
-        "https://www.vedomosti.ru/politics/news/2026/06/27/1209371-krilatie-raketi-500-dronov",
-        "https://www.kommersant.ru/doc/8778985",
-        "https://www.vedomosti.ru/politics/news/2026/06/27/1209355-odin-chelovek-pogib",
-        "https://www.kommersant.ru/doc/8778741"
-      ],
-      "is_development": true,
-      "first_reported": "2026-06-29",
-      "id": "c5625060ffd1"
-    },
-    {
       "title_ru": "Иран: разблокировка $6 млрд активов в Катаре и дипломатическая активность на фоне подготовки похорон «павшего лидера»",
       "title_en": "Iran: $6 Billion Frozen Assets Released in Qatar Amid Diplomatic Flurry and Funeral Preparations for 'Martyred Leader'",
       "date": "2026-06-29",
@@ -2533,10 +2320,196 @@
       "is_development": false,
       "first_reported": "2026-07-10",
       "id": "6f0848a5a0bd"
+    },
+    {
+      "title_ru": "США и Иран: Трамп заявляет о контроле над Ормузским проливом, новые удары, ответные атаки IRGC",
+      "title_en": "Trump Claims US Will 'Take Over' Strait of Hormuz as US-Iran Strikes Intensify",
+      "date": "2026-07-13",
+      "summary_en": "President Trump stated the US will take control of the Strait of Hormuz and may require compensation for securing it. The US launched fresh strikes on at least 13 Iranian cities, including Qeshm Island, while Iran's IRGC claimed retaliatory attacks on US bases in three countries. Maritime traffic through Hormuz has plummeted, with ships switching off transponders, as Iran maintains the strait is under its sovereign control.",
+      "summary": "Президент Трамп заявил, что США возьмут Ормузский пролив под свой контроль и, возможно, потребуют компенсацию за его обеспечение. США нанесли новую волну ударов как минимум по 13 иранским городам; КСИР Ирана заявил об ответных атаках на базы США в трёх странах. Трафик через пролив резко упал — суда проходят с выключенными транспондерами.",
+      "category": "politics",
+      "perspective": "Администрация Трампа: защита свободы судоходства, сдерживание Ирана. Иран: законная самооборона, суверенный контроль над проливом. Страны Персидского залива: экономический ущерб, призывы к деэскалации. Международное сообщество: тревога из-за перебоев в глобальных поставках нефти.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The Guardian",
+        "The New York Times",
+        "TASS",
+        "DW",
+        "Indian Express",
+        "Antara News",
+        "Kommersant",
+        "Vedomosti"
+      ],
+      "links": [
+        "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
+        "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
+        "https://tass.ru/mezhdunarodnaya-panorama/27912439",
+        "https://www.kommersant.ru/doc/8814177",
+        "https://www.vedomosti.ru/politics/news/2026/07/13/1213271-proliv-pod-kontrol",
+        "https://www.antaranews.com/berita/5647669/irgc-klaim-luncurkan-serangan-balasan-ke-pangkalan-as-di-tiga-negara",
+        "https://www.dw.com/en/renewed-us-iran-war-is-hitting-gulf-countries-hard/a-77876781",
+        "https://indianexpress.com/article/world/us-iran-war-live-updates-strait-of-hormuz-strikes-gulf-attacks-10783607/",
+        "https://www.kommersant.ru/doc/8814057"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-13",
+      "id": "814fd0a856f4"
+    },
+    {
+      "title_ru": "Смерть сенатора Линдси Грэма: борьба за место в Сенате, Украина теряет союзника",
+      "title_en": "Lindsey Graham's Death Triggers Senate Scramble; Ukraine Loses Key Trump Ally",
+      "date": "2026-07-13",
+      "summary_en": "The death of Senator Lindsey Graham (R-SC) at 71 has weakened Republican control of the Senate, with WSJ noting the party's margin is now precarious. South Carolina's governor will appoint a replacement, triggering a scramble as Congress returns. Ukraine and Israel lose a critical advocate in Trump's inner circle; Graham was pivotal in securing aid for both countries. Medical examiner cited likely aorta rupture. Trump ordered US flags lowered to half-staff.",
+      "summary": "Смерть 71-летнего сенатора Линдси Грэма ослабила контроль республиканцев в Сенате — губернатор Южной Каролины назначит замену. Украина теряет ключевого союзника, имевшего прямой доступ к Трампу; Грэм был критически важен для обеспечения военной помощи. Трамп распорядился приспустить флаги. Медэкспертиза назвала вероятной причиной смерти разрыв аорты.",
+      "category": "politics",
+      "perspective": "Республиканцы: потеря ключевого переговорщика, ослабление большинства в Сенате. Демократы: потенциальная возможность усилить позиции, но также дань уважения. Украина и Израиль: утрата важнейшего лоббиста в окружении Трампа. Администрация Трампа: потеря надёжного голоса в Сенате по внешней политике.",
+      "perspective_type": "from_source",
+      "sources": [
+        "The Guardian",
+        "The New York Times",
+        "Indian Express",
+        "Tagesschau",
+        "CBC",
+        "TASS",
+        "Kommersant"
+      ],
+      "links": [
+        "https://www.theguardian.com/us-news/live/2026/jul/13/congress-capitol-lindsey-graham-trump-republicans-democrats-us-politics-latest-news-updates",
+        "https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html",
+        "https://indianexpress.com/article/world/lindsey-graham-death-us-senate-south-carolina-november-election-impact-10783651/",
+        "https://www.tagesschau.de/ausland/amerika/us-senator-graham-tot-100.html",
+        "https://www.cbc.ca/news/world/lindsey-graham-dies-at-71-9.7267259",
+        "https://tass.com/world/2159223",
+        "https://tass.ru/mezhdunarodnaya-panorama/27912251",
+        "https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-israel-ukraine-foreign-policy-legacy"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-13",
+      "id": "e6cc48f73f28"
+    },
+    {
+      "title_ru": "Война дронов: силы ПВО сбили 926 БПЛА за сутки, атака на Подмосковье унесла три жизни",
+      "title_en": "Drone War: Russian Air Defense Downs 926 UAVs in 24 Hours; Moscow Suburbs Hit, 3 Dead",
+      "date": "2026-07-13",
+      "summary_en": "Russian air defense forces shot down 926 Ukrainian drones and 12 aerial bombs over the past 24 hours, including 342 during the night. A drone attack on Moscow's suburbs killed three people and wounded five, with search operations ongoing for a woman under rubble. In Energodar, a fire station and water tender were damaged by Ukrainian strikes. Civilian casualties continue to mount across multiple regions.",
+      "summary": "Российские силы ПВО за сутки сбили 926 украинских беспилотников и 12 авиабомб, из них 342 — в течение ночи. Атака БПЛА на Подмосковье унесла жизни трёх человек, пятеро ранены; под завалами разрушенного дома ищут женщину. В Энергодаре повреждены здание пожарной части МЧС и автоцистерна. Жертвы среди мирного населения продолжают расти.",
+      "category": "politics",
+      "perspective": "Российские власти: отражение террористических атак на гражданскую инфраструктуру. Украинская сторона: продолжение военных операций. Международные наблюдатели: эскалация ударов по тыловым районам, рост числа жертв среди гражданского населения.",
+      "perspective_type": "from_source",
+      "sources": [
+        "Kommersant",
+        "Vedomosti",
+        "TASS",
+        "Lenta.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8814045",
+        "https://www.vedomosti.ru/politics/news/2026/07/13/1213124-rossiiskie-sili-pvo",
+        "https://www.kommersant.ru/doc/8813774",
+        "https://lenta.ru/news/2026/07/13/poyavilis-podrobnosti-o-postradavshih-posle-ataki-vsu-pod-moskvoy/",
+        "https://tass.ru/proisshestviya/27912529",
+        "https://www.vedomosti.ru/politics/news/2026/07/13/1213109-sobyanin-za-noch",
+        "https://www.kommersant.ru/doc/8813753"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-13",
+      "id": "44d6390ae525"
+    },
+    {
+      "title_ru": "Саммит «коалиции желающих» в Париже: Зеленский представляет противоракетную программу",
+      "title_en": "Coalition of the Willing Summit in Paris: Zelenskyy Presents Anti-Ballistic Missile Programme",
+      "date": "2026-07-13",
+      "summary_en": "Ukrainian President Zelenskyy is presenting an anti-ballistic missile programme at a 'coalition of the willing' summit in Paris, attended by Macron, Starmer, and Merz. Macron called on EU countries to ramp up arms production, framing the summit as Europe's 'strategic awakening.' The Kremlin dismissed the coalition as 'warmongers' and addressed what it called 'illusions' about the Sea of Azov.",
+      "summary": "Президент Зеленский представляет программу противоракетной обороны на саммите «коалиции желающих» в Париже с участием Макрона, Стармера и Мерца. Макрон призвал страны ЕС нарастить производство вооружений, назвав встречу «стратегическим пробуждением» Европы. Кремль назвал коалицию «коалицией разжигателей войны» и прокомментировал «иллюзии» по Азовскому морю.",
+      "category": "politics",
+      "perspective": "Страны коалиции: укрепление обороны Украины и европейской безопасности. Россия: коалиция — эскалационный инструмент Запада, вмешательство. Украина: жизненно важная военная поддержка. Страны вне коалиции: усиление блокового противостояния.",
+      "perspective_type": "from_source",
+      "sources": [
+        "The Guardian",
+        "France24",
+        "DW",
+        "TASS",
+        "Le Monde"
+      ],
+      "links": [
+        "https://www.theguardian.com/world/live/2026/jul/13/emmanuel-macron-keir-starmer-friedrich-merz-volodymyr-zelenskyy-coalition-of-the-willing-ukraine-russia-latest-news-updates",
+        "https://www.france24.com/fr/vid%C3%A9o/20260713-la-coalition-des-volontaires-%C3%A0-paris-un-sommet-qui-signe-le-r%C3%A9veil-strat%C3%A9gique-de-l-europe",
+        "https://www.dw.com/en/ukraine-updates-coalition-of-the-willing-meeting-in-paris/live-77927840",
+        "https://tass.com/politics/2159489",
+        "https://tass.com/politics/2159513",
+        "https://tass.ru/mezhdunarodnaya-panorama/27912377"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-13",
+      "id": "05e5a53afd26"
+    },
+    {
+      "title_ru": "Крупный лесной пожар в лесу Фонтенбло под Парижем: власти не исключают поджог",
+      "title_en": "Massive Wildfire Engulfs Fontainebleau Forest Near Paris; Arson Not Ruled Out",
+      "date": "2026-07-13",
+      "summary_en": "Firefighting planes have been scrambled from southern France to tackle a huge wildfire in the historic Fontainebleau forest near Paris. French authorities say they are not ruling out arson as the cause. The blaze threatens one of France's most cherished natural landmarks, located just 60 km from the capital.",
+      "summary": "Пожарная авиация переброшена с юга Франции для борьбы с масштабным лесным пожаром в знаменитом лесу Фонтенбло под Парижем. Власти не исключают версию поджога. Огонь угрожает одному из самых ценных природных памятников Франции всего в 60 км от столицы.",
+      "category": "politics",
+      "perspective": "Французские власти: мобилизация всех ресурсов, расследование причин. Экологи: угроза уникальной экосистеме. Местные жители: тревога за сохранность исторического леса. Туристическая отрасль: ущерб популярному месту отдыха.",
+      "perspective_type": "from_source",
+      "sources": [
+        "The Guardian",
+        "Belta"
+      ],
+      "links": [
+        "https://www.theguardian.com/world/2026/jul/13/france-fires-wildfires-fointaineblue-forest-paris",
+        "https://belta.by/world/view/krupnyj-lesnoj-pozhar-ohvatil-les-fontenblo-pod-parizhem-vlasti-ne-iskljuchajut-podzhog-790998-2026/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-13",
+      "id": "540c5aa97951"
+    },
+    {
+      "title_ru": "Meta удаляет ИИ-функцию из Instagram и получает предписание ЕС изменить «аддиктивный дизайн»",
+      "title_en": "Meta Removes A.I. Feature on Instagram; E.U. Orders Changes to 'Addictive Design'",
+      "date": "2026-07-10",
+      "summary_en": "Meta has removed its Muse AI image generator from Instagram following days of user backlash over privacy and content concerns. Simultaneously, the European Union ordered Meta to alter the 'addictive design' of both Instagram and Facebook, marking a twin regulatory and public-relations setback for the social media giant's AI ambitions.",
+      "summary": "Meta удалила ИИ-генератор изображений Muse из Instagram после шквала критики со стороны пользователей. Одновременно ЕС предписал компании изменить «аддиктивный дизайн» Instagram и Facebook. Двойной удар — регуляторный и репутационный — осложняет амбиции Meta в сфере искусственного интеллекта.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "The New York Times"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
+        "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html",
+        "https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html",
+        "https://www.nytimes.com/2026/07/07/technology/meta-ai-muse-image.html"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-10",
+      "id": "0bba19647c4a"
+    },
+    {
+      "title_ru": "Honda представит мини-электромобиль Super-ONE на автосалоне GIIAS 2026 в Индонезии",
+      "title_en": "Honda to Debut Super-ONE Mini Electric Car at GIIAS 2026 in Indonesia",
+      "date": "2026-07-13",
+      "summary_en": "Honda will unveil the Honda Super-ONE, a mini electric vehicle, at the Gaikindo Indonesia International Auto Show (GIIAS) 2026. The compact EV is designed for urban mobility and represents Honda's push into the Southeast Asian electric vehicle market. The announcement comes as Indonesia also advances its B50 biodiesel program for conventional diesel engines.",
+      "summary": "Honda представит мини-электромобиль Honda Super-ONE на международном автосалоне GIIAS 2026 в Индонезии. Компактный электрокар предназначен для городской мобильности и отражает стремление Honda закрепиться на рынке электромобилей Юго-Восточной Азии. Параллельно Индонезия продвигает программу биодизеля B50 для дизельных двигателей.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Antara News"
+      ],
+      "links": [
+        "https://otomotif.antaranews.com/berita/5647632/honda-bakal-luncurkan-mobil-listrik-mini-super-one-di-giias-2026",
+        "https://otomotif.antaranews.com/berita/5647752/honda-bakal-bawa-honda-super-one-ke-giias-2026",
+        "https://otomotif.antaranews.com/berita/5647687/gaikindo-penerapan-b50-aman-untuk-mesin-diesel-di-indonesia"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-13",
+      "id": "4d931045a6a9"
     }
   ],
   "_stats": {
-    "total_tokens": 35486,
-    "total_cost": 3.7180599999999995
+    "total_tokens": 70675,
+    "total_cost": 7.450317999999999
   }
 }
