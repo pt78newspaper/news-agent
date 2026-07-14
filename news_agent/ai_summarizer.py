@@ -166,6 +166,7 @@ def summarize_news(clusters, api_key, history=None):
     else:
         return None, None
 
+    resp.encoding = "utf-8"
     data = resp.json()
     usage = data.get("usage", {})
     total_cost = usage.get("total_cost", 0)
