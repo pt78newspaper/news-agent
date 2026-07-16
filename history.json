@@ -169,10 +169,202 @@
       "is_development": false,
       "first_reported": "2026-07-10",
       "id": "3516544799f9"
+    },
+    {
+      "title_ru": "Иран и США обмениваются ударами пятый день: КСИР атакует базы США, удары расширяются на север Ирана",
+      "title_en": "Iran and US Exchange Strikes for 5th Straight Day: IRGC Pounds US Bases, Strikes Expand to Northern Iran",
+      "date": "2026-07-16",
+      "summary_en": "The IRGC struck US military positions across the region, including Bahrain, Kuwait, and Jordan, and shot down a US MQ-9 drone over Bandar Abbas. The US expanded strikes into northern Iran, while Iran warned it would target all regional infrastructures. US airstrikes killed 35 people in Iran over the past day, and a hospital in Ahvaz was evacuated. Iran declared it is no longer bound by the prior agreement.",
+      "summary": "КСИР нанёс удары по позициям США в Бахрейне, Кувейте и Иордании, сбил американский беспилотник MQ-9 над Бендер-Аббасом. США расширили удары на север Ирана; Иран предупредил, что будет атаковать всю инфраструктуру США в регионе. За сутки американские авиаудары унесли жизни 35 человек в Иране, эвакуирована больница в Ахвазе. Иран заявил, что больше не считает себя связанным прежним соглашением с США.",
+      "category": "politics",
+      "perspective": "США: вынужденная защита национальных интересов и ответ на иранскую агрессию. Иран: сопротивление американскому империализму, защита суверенитета. Европа и ООН: тревога из-за эскалации и гуманитарных последствий. Россия и Китай: осуждение односторонних действий США, призыв к деэскалации.",
+      "perspective_type": "assumed",
+      "sources": [
+        "BBC",
+        "The New York Times",
+        "The Guardian",
+        "DW",
+        "IRNA",
+        "TASS",
+        "Tehran Times"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo",
+        "https://www.nytimes.com/2026/07/16/world/middleeast/iran-war-us-strikes.html",
+        "https://www.theguardian.com/world/live/2026/jul/16/iran-us-donald-trump-war-strait-hormuz-oil-israel-lebanon-latest-news-updates",
+        "https://www.dw.com/en/iran-threatens-regional-strikes-as-us-intensifies-attacks/live-77976690",
+        "https://en.irna.ir/news/86210737/IRGC-pounds-US-positions-across-region",
+        "https://en.irna.ir/news/86210674/IRGC-shoots-down-US-MQ-9-drone",
+        "https://en.irna.ir/news/86210772/Iran-warns-US-of-targeting-all-infrastructures-in-region",
+        "https://tass.com/world/2160825",
+        "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-16",
+      "id": "d173a77f41af"
+    },
+    {
+      "title_ru": "Зеленский увольняет министра обороны Федорова: протесты в 14 городах, парламент утверждает нового премьера",
+      "title_en": "Zelenskyy Dismisses Defense Minister Fedorov; Protests Erupt in 14 Cities, Parliament Approves New PM",
+      "date": "2026-07-16",
+      "summary_en": "Ukrainian President Zelenskyy dismissed popular Defense Minister Mykhailo Fedorov, a proponent of drone warfare, sparking mass protests across 14 Ukrainian cities. Parliament approved Serhii Koretskyi as the new Prime Minister amid a broader cabinet reshuffle. UK PM Starmer made a farewell visit to Kyiv, pledging 'cast-iron support' for Ukraine.",
+      "summary": "Президент Украины Зеленский отправил в отставку популярного министра обороны Михаила Федорова — сторонника «войны дронов». Это вызвало массовые протесты в 14 городах Украины под лозунгами «Не трогайте Федорова». Парламент утвердил Сергея Корецкого новым премьер-министром. На фоне перестановок уходящий премьер Британии Стармер посетил Киев с прощальным визитом, пообещав «железную поддержку».",
+      "category": "politics",
+      "perspective": "Офис Зеленского: необходимая реорганизация правительства. Протестующие: увольнение эффективного министра в разгар войны недопустимо. Россия (Песков): перестановки не имеют значения для РФ. Западные союзники: обеспокоены стабильностью украинского руководства, но продолжают поддержку.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The New York Times",
+        "BBC",
+        "The Guardian",
+        "The Hindu",
+        "Times of India",
+        "TASS",
+        "DW",
+        "Le Monde"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/07/15/world/europe/ukraine-minister-of-defense-mykhailo-fedorov-zelensky-war-russia.html",
+        "https://www.bbc.co.uk/news/articles/cdx76069n3do",
+        "https://www.theguardian.com/world/live/2026/jul/16/europe-ukraine-russia-zelenskyy-starmer-macron-merz-latest-news-updates",
+        "https://www.thehindu.com/news/international/protests-erupt-across-ukraine-against-removal-of-defence-minister/article71229010.ece",
+        "https://timesofindia.indiatimes.com/world/europe/ukraine-gets-new-pm-parliament-approves-serhii-koretskyi-amid-cabinet-shuffle/articleshow/132435600.cms",
+        "https://tass.com/world/2160965",
+        "https://www.dw.com/en/why-is-zelenskyy-reshuffling-ukraine-s-government/a-77959640",
+        "https://www.lemonde.fr/international/live/2026/07/16/en-direct-guerre-en-ukraine-l-aiea-deplore-la-mort-de-l-ingenieur-en-chef-de-la-centrale-nucleaire-de-zaporijia_6722853_3210.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-16",
+      "id": "c9807fb5e7b0"
+    },
+    {
+      "title_ru": "Аргентина обыграла Англию и вышла в финал ЧМ-2026; скандал с фолклендским баннером",
+      "title_en": "Argentina Stuns England to Reach World Cup 2026 Final; Falklands Banner Sparks FIFA Investigation Call",
+      "date": "2026-07-16",
+      "summary_en": "Argentina defeated England in the World Cup semifinal with a late comeback, securing a spot in the final against Spain. Lionel Messi was named Man of the Match. After the match, Argentine players displayed a banner reading 'Malvinas are Argentinian,' prompting the UK to call for a FIFA investigation. Argentina now faces potential disciplinary action.",
+      "summary": "Аргентина одержала волевую победу над Англией в полуфинале ЧМ-2026 и вышла в финал против Испании. Лионель Месси признан игроком матча. После игры аргентинские игроки развернули баннер «Мальвины — аргентинские», что вызвало требование Великобритании к ФИФА начать расследование. Аргентине грозит дисциплинарное разбирательство.",
+      "category": "politics",
+      "perspective": "Аргентина: Мальвины — историческая территория, футбольный триумф — повод для национальной гордости. Великобритания: политические жесты на спортивных мероприятиях недопустимы, ФИФА должна реагировать. ФИФА: балансирует между дисциплинарными правилами и нежеланием политизировать спорт. Латиноамериканские страны: преимущественно на стороне Аргентины по вопросу Мальвин.",
+      "perspective_type": "assumed",
+      "sources": [
+        "DW",
+        "BBC",
+        "The Guardian",
+        "Indian Express",
+        "TASS",
+        "CBC",
+        "NYT"
+      ],
+      "links": [
+        "https://www.dw.com/en/uk-calls-for-fifa-investigation-over-argentina-banner/a-77980457",
+        "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo",
+        "https://www.theguardian.com/football/2026/jul/15/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner",
+        "https://indianexpress.com/article/sports/football/argentina-break-england-hearts-to-book-fifa-world-cup-final-vs-spain-10788499/",
+        "https://tass.com/sports/2160823",
+        "https://www.cbc.ca/sports/soccer/worldcup/fifa-world-cup-recap-argentina-england-july-15-9.7270655",
+        "https://www.nytimes.com/2026/07/15/world/americas/argentina-england-rivalry-world-cup.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-16",
+      "id": "4e11e3eec2d4"
+    },
+    {
+      "title_ru": "Российские ПВО сбили 802 беспилотника ВСУ за сутки; атаки на Москву и промзону Салавата",
+      "title_en": "Russian Air Defense Shoots Down 802 Ukrainian Drones in 24 Hours; Attacks Target Moscow and Salavat Industrial Zone",
+      "date": "2026-07-16",
+      "summary_en": "Russian air defense forces reported intercepting 802 Ukrainian drones over the past 24 hours, including 375 overnight and 6 on approach to Moscow. A mass drone attack targeted the industrial zone of Salavat in Bashkortostan. The scale of drone attacks represents a significant intensification of the air war.",
+      "summary": "Силы ПВО России заявили о перехвате 802 украинских беспилотников за последние сутки, включая 375 — за ночь и 6 — на подлёте к Москве. Массированная атака БПЛА была совершена на промышленную зону Салавата в Башкирии. Масштаб атак беспилотников свидетельствует о значительной интенсификации воздушной войны.",
+      "category": "politics",
+      "perspective": "Россия: успешное отражение террористических атак украинского режима; демонстрация эффективности ПВО. Украина: нанесение ударов по военной и промышленной инфраструктуре противника. Запад: обеспокоенность эскалацией, но признание права Украины на самооборону.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Ведомости",
+        "Коммерсантъ"
+      ],
+      "links": [
+        "https://www.vedomosti.ru/politics/news/2026/07/16/1214187-sili-pvo-sbili",
+        "https://www.kommersant.ru/doc/8816090",
+        "https://www.vedomosti.ru/politics/news/2026/07/16/1214082-sobyanin-sili-pvo-sbili",
+        "https://www.kommersant.ru/doc/8816041",
+        "https://www.vedomosti.ru/politics/news/2026/07/14/1213418-habirov-sili-pvo",
+        "https://www.kommersant.ru/doc/8814514"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-16",
+      "id": "f8109096d3ee"
+    },
+    {
+      "title_ru": "Кремль: обострение вокруг Ирана опасно для мировой экономики; ситуация в экономике РФ стабильна",
+      "title_en": "Kremlin: Iran Escalation Dangerous for Global Economy; Russia's Economic Situation Stable",
+      "date": "2026-07-16",
+      "summary_en": "Kremlin spokesperson Dmitry Peskov stated that the escalation around Iran poses a danger to the global economy. He described Russia's economic situation as stable and not critical, asserting that President Putin and the cabinet know what measures to take. Peskov also dismissed the significance of Ukraine's cabinet reshuffle, rejected the characterization of Russia as China's 'junior partner,' and noted that Iran has not yet requested a phone call with Putin.",
+      "summary": "Пресс-секретарь Кремля Дмитрий Песков заявил, что обострение вокруг Ирана опасно для мировой экономики. Он охарактеризовал экономическую ситуацию в России как стабильную и некритическую, отметив, что Путин и кабмин знают, что делать. Песков также назвал перестановки в правительстве Украины не имеющими значения для РФ, отверг характеристику России как «младшего партнёра Китая» и сообщил, что Иран пока не запрашивал разговора с Путиным.",
+      "category": "politics",
+      "perspective": "Кремль: Россия сохраняет экономическую устойчивость вопреки санкциям; конфликт США и Ирана угрожает всем. Запад: российская экономика испытывает структурные трудности, заявления Кремля — пропаганда. Иран: ожидает более активной поддержки от России. Китай: не комментирует характеристику «младшего партнёра».",
+      "perspective_type": "assumed",
+      "sources": [
+        "ТАСС",
+        "Коммерсантъ",
+        "Ведомости"
+      ],
+      "links": [
+        "https://tass.ru/politika/27922615",
+        "https://tass.ru/politika/27922617",
+        "https://www.kommersant.ru/doc/8816338",
+        "https://www.kommersant.ru/doc/8814927",
+        "https://tass.ru/politika/27922633",
+        "https://www.vedomosti.ru/politics/news/2026/07/16/1214199-premer-ministra-ukraini"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-16",
+      "id": "5d2c8836d19a"
+    },
+    {
+      "title_ru": "Стармер совершает прощальный визит в Киев: «железная поддержка» Украине",
+      "title_en": "Starmer Makes Farewell Visit to Kyiv, Pledges 'Cast-Iron Support' for Ukraine",
+      "date": "2026-07-16",
+      "summary_en": "Outgoing UK Prime Minister Keir Starmer visited Kyiv on his final trip as PM, pledging 'cast-iron support' for Ukraine. The visit coincided with Zelenskyy's controversial dismissal of Defense Minister Fedorov and mass protests. The EU also announced 300 million euros in grants to finance Ukraine's defense.",
+      "summary": "Уходящий премьер-министр Великобритании Кир Стармер посетил Киев с последним визитом в должности, пообещав «железную поддержку» Украине. Визит совпал со скандальной отставкой министра обороны Федорова и массовыми протестами. ЕС также объявил о выделении 300 млн евро грантов на оборону Украины.",
+      "category": "politics",
+      "perspective": "Великобритания: демонстрация неизменной поддержки Украины вне зависимости от смены правительства. Украина: ценит поддержку, но сталкивается с внутренними кризисами. Россия: осуждает вмешательство Запада, видит смену правительства Британии как возможное окно для пересмотра отношений.",
+      "perspective_type": "assumed",
+      "sources": [
+        "BBC",
+        "The Guardian",
+        "TASS"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cx2myl1erj8o",
+        "https://www.theguardian.com/world/live/2026/jul/16/europe-ukraine-russia-zelenskyy-starmer-macron-merz-latest-news-updates",
+        "https://tass.com/economy/2160747"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-16",
+      "id": "ff91d6082600"
+    },
+    {
+      "title_ru": "ЕС делает шаг к возможному запрету соцсетей для детей младше 13 лет",
+      "title_en": "Europe Takes Step Toward Possible Social Media Ban for Children Under 13",
+      "date": "2026-07-13",
+      "summary_en": "EU experts have urged social media restrictions for children under 13, marking a significant step toward a possible Europe-wide ban. The initiative reflects growing concerns about the impact of social media on children's mental health and follows broader EU regulatory efforts to rein in tech platforms, including requirements for Meta to change the 'addictive design' of Instagram and Facebook.",
+      "summary": "Эксперты ЕС рекомендовали ограничить доступ к социальным сетям для детей младше 13 лет — значительный шаг к возможному общеевропейскому запрету. Инициатива отражает растущую обеспокоенность влиянием соцсетей на психическое здоровье детей и продолжает курс ЕС на регулирование технологических платформ.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "The New York Times",
+        "DW"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/07/13/technology/europe-teen-social-media-ban.html",
+        "https://www.dw.com/en/eu-experts-urge-social-media-restrictions-for-kids-under-13/a-77931424"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-13",
+      "id": "d3a6f1298da4"
     }
   ],
   "_stats": {
-    "total_tokens": 34019,
-    "total_cost": 3.5108759999999997
+    "total_tokens": 67441,
+    "total_cost": 7.040252
   }
 }
