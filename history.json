@@ -545,10 +545,207 @@
       "is_development": false,
       "first_reported": "2026-07-14",
       "id": "662142e0cea5"
+    },
+    {
+      "title_ru": "Трамп обвиняет Китай во вмешательстве в выборы: Кремль, Пекин и демократы отвечают",
+      "title_en": "Trump Accuses China of Election Meddling: Kremlin, Beijing, and Democrats Respond",
+      "date": "2026-07-17",
+      "summary_en": "Donald Trump alleged in a national address that China stole 220 million voter files and meddled in the 2020 election, questioning voting security ahead of midterms. China's MFA called the allegations 'fabrications,' while Kremlin spokesman Peskov dismissed election interference claims as 'impersonal.' Democrats criticized Trump's claims as an unverified attack on electoral integrity, and a new US intelligence report reiterated Russian interference in past presidential elections. Trump also claimed authorities identified 278,000 non-citizens registered to vote.",
+      "summary": "Дональд Трамп в обращении к нации обвинил Китай в похищении данных 220 млн избирателей и вмешательстве в выборы 2020 года, поставив под сомнение безопасность голосования перед промежуточными выборами. МИД Китая назвал обвинения «сфабрикованными», а Песков охарактеризовал информацию о вмешательстве как «обезличенную». Демократы раскритиковали заявления Трампа как бездоказательную атаку на избирательную систему; разведка США вновь заявила о вмешательстве России в президентские выборы.",
+      "category": "politics",
+      "perspective": "Республиканцы/Трамп: Китай — главная угроза честности выборов, необходимы срочные меры. Демократы: Трамп готовит почву для оправдания поражения на промежуточных выборах, подрывая доверие к системе. Китай: обвинения — фабрикации, политически мотивированные. Россия/Кремль: обвинения безличны и бездоказательны; разведка США вновь указывает на российское вмешательство.",
+      "perspective_type": "from_source",
+      "sources": [
+        "The Guardian",
+        "BBC",
+        "TASS",
+        "Ведомости",
+        "Коммерсантъ",
+        "Lenta.ru",
+        "Tagesschau",
+        "DW",
+        "Indian Express",
+        "Times of India"
+      ],
+      "links": [
+        "https://www.theguardian.com/us-news/live/2026/jul/17/donald-trump-speech-china-midterm-elections-latest-news-updates",
+        "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo",
+        "https://www.theguardian.com/us-news/2026/jul/17/first-thing-donald-trump-unverified-attack-integrity-us-electoral-system",
+        "https://tass.com/world/2161461",
+        "https://tass.com/world/2161457",
+        "https://www.vedomosti.ru/politics/articles/2026/07/17/1214537-donald-tramp-schitaet",
+        "https://www.kommersant.ru/doc/8828954",
+        "https://lenta.ru/news/2026/07/17/kreml-otvetil-na-obvineniya-trampa-o-vmeshatelstve-v-vybory/",
+        "https://www.tagesschau.de/ausland/amerika/trump-rede-an-die-nation-104.html",
+        "https://www.dw.com/en/donald-trump-accuses-china-of-meddling-in-us-elections/a-77996793",
+        "https://indianexpress.com/article/world/220-million-voters-18-states-sensitive-info-leaked-trump-claims-china-meddling-us-election-10790395/",
+        "https://timesofindia.indiatimes.com/world/us/trump-alleges-china-interference-in-us-elections-amid-suspicion-hes-prepping-for-mid-term-loss/articleshow/132457509.cms"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-17",
+      "id": "92233320980f"
+    },
+    {
+      "title_ru": "Война США и Ирана: шестая ночь ударов, жертвы среди гражданских, ответные удары по базам США в регионе",
+      "title_en": "US-Iran War: Sixth Night of Strikes, Civilian Casualties, Iranian Retaliation Across the Region",
+      "date": "2026-07-17",
+      "summary_en": "The US launched a sixth consecutive night of strikes on Iran, hitting five bridges in Bandar-e Imam Khomeyni and Bandar Lengeh; at least 8 civilians were killed in Hormozgan Province according to Iranian media. In retaliation, Iran's IRGC struck a US command center in Syria, depots in Kuwait, and radars in Oman, while Iran's Army hit US military sites in Bahrain and Kuwait. Qatari air defenses repelled a missile attack. Iran's military warned of a 'devastating' response to any new aggression against its infrastructure, and its UN envoy condemned US attacks on civilian infrastructure as war crimes.",
+      "summary": "США нанесли шестую ночь ударов по Ирану: атакованы пять мостов в Бандар-э-Имам Хомейни и Бандар-Ленге; по данным иранских СМИ, в провинции Хормозган погибли 8 мирных жителей. В ответ КСИР Ирана нанёс удары по командному центру США в Сирии, складам в Кувейте и радарам в Омане; армия Ирана атаковала военные объекты США в Бахрейне и Кувейте. Катарские ПВО отразили ракетную атаку. Военные Ирана предупредили об «опустошительном» ответе на любую новую агрессию против инфраструктуры; постпред Ирана при ООН осудил удары США по гражданским объектам как военные преступления.",
+      "category": "politics",
+      "perspective": "Администрация США/Трамп: США скоро получат выгоду от конфликта; удары по инфраструктуре — необходимое давление. Иран и союзники: удары по мостам, портам и больницам — военные преступления против гражданского населения; ответные удары — «наказание агрессора». Международное сообщество: риск «вечной войны»; Пакистан предупреждает об economic последствиях для региона; сбои в поставках нефти, судоходстве и авиасообщении.",
+      "perspective_type": "from_source",
+      "sources": [
+        "BBC",
+        "TASS",
+        "IRNA",
+        "DW",
+        "The Guardian",
+        "The New York Times",
+        "The Hindu",
+        "Indian Express"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c151gdjwd10o",
+        "https://tass.com/world/2161543",
+        "https://tass.com/world/2161427",
+        "https://tass.com/world/2161363",
+        "https://tass.com/world/2161353",
+        "https://tass.com/world/2161325",
+        "https://tass.com/world/2161531",
+        "https://tass.com/world/2161357",
+        "https://en.irna.ir/news/86211326/IRGC-strikes-US-command-center-in-Syria-depots-in-Kuwait-radars",
+        "https://en.irna.ir/news/86211284/Iran-s-Army-strikes-US-military-sites-in-Bahrain-Kuwait",
+        "https://en.irna.ir/news/86211391/Iran-s-UN-envoy-condemns-US-attacks-on-civilian-infrastructure",
+        "https://en.irna.ir/news/86211213/Iran-s-military-warns-of-devastating-response-to-any-new-aggression",
+        "https://www.dw.com/en/iran-war-us-hits-bridges-as-tehran-retaliates-across-region/live-77996555",
+        "https://www.theguardian.com/world/2026/jul/16/us-intensifies-attacks-on-iran-as-tehran-hits-back-at-gulf-states",
+        "https://www.nytimes.com/2026/07/15/world/middleeast/iran-us-strikes-war.html",
+        "https://www.nytimes.com/2026/07/16/world/middleeast/iran-war-us-strikes.html",
+        "https://www.nytimes.com/2026/07/16/world/middleeast/forever-war-trump-iran.html",
+        "https://www.thehindu.com/news/international/west-asia-war-us-iran-conflict-washington-strikes-tehran-donald-trump-strait-of-hormuz-live-updates-july-17-2026/article71232634.ece",
+        "https://indianexpress.com/article/world/6-bridges-hit-in-iran-war-conflict-expands-to-syria-iraq-latest-updates-us-iran-war-10790623/"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-17",
+      "id": "0f8ac3d1708d"
+    },
+    {
+      "title_ru": "Российские ПВО сбили 4661 украинский беспилотник за неделю; войска вытеснили ВСУ за Стенки",
+      "title_en": "Russian Air Defense Downs 4,661 Ukrainian Drones in a Week; Forces Push AFU Beyond Stenki",
+      "date": "2026-07-17",
+      "summary_en": "The Russian Ministry of Defense reported that air defense systems shot down 4,661 Ukrainian drones over the past week, including 243 overnight on July 17 and 117 during the previous day. Russian forces pushed Ukrainian units beyond the settlement of Stenki. A Geran drone struck a Ukrainian dry cargo ship in the Black Sea. Six drones were intercepted on approach to Moscow, according to Mayor Sobyanin.",
+      "summary": "Минобороны РФ сообщило, что за неделю силы ПВО сбили 4661 украинский беспилотник, в том числе 243 за ночь на 17 июля и 117 за предыдущий день. Российские войска вытеснили ВСУ за населённый пункт Стенки. Ударом «Герани» поражён сухогруз ВСУ в Чёрном море. На подлёте к Москве сбиты шесть беспилотников, сообщил мэр Собянин.",
+      "category": "politics",
+      "perspective": "Минобороны РФ: успешная defense против массированных атак БПЛА, продвижение на фронте. Украина/Запад: продолжающаяся кампания ударов по российским регионам; ЕС заключил сделку с Украиной по производству дронов. Аналитики из США отмечают «успешную тактику России против Украины».",
+      "perspective_type": "from_source",
+      "sources": [
+        "Коммерсантъ",
+        "Ведомости",
+        "Lenta.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8828964",
+        "https://www.vedomosti.ru/politics/news/2026/07/17/1214498-rossiiskie-sili",
+        "https://www.vedomosti.ru/politics/news/2026/07/17/1214414-sili-pvo",
+        "https://www.kommersant.ru/doc/8816844",
+        "https://lenta.ru/news/2026/07/17/rossiyskie-voyska-vytesnili-vsu-za-stenki/",
+        "https://www.kommersant.ru/doc/8816751",
+        "https://www.kommersant.ru/doc/8816638",
+        "https://www.vedomosti.ru/politics/news/2026/07/16/1214082-sobyanin-sili-pvo-sbili"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-17",
+      "id": "198feedf1d88"
+    },
+    {
+      "title_ru": "Отставка министра обороны Украины Федорова: Кремль назвал её «не имеющей значения», возмущение омрачило визит Стармера",
+      "title_en": "Ukraine's Defense Minister Fedorov Dismissed: Kremlin Calls It 'Irrelevant,' Outrage Overshadows Starmer's Kyiv Visit",
+      "date": "2026-07-17",
+      "summary_en": "Ukraine's Defense Minister Fedorov was dismissed from his post but will remain in President Zelensky's team. Kremlin spokesman Peskov stated the dismissal 'has no significance for Russia' and will not affect the course of the conflict. Russian officials also speculated about Zelensky's potential replacement. The sacking caused outrage that overshadowed UK PM Starmer's final visit to Kyiv as prime minister.",
+      "summary": "Министр обороны Украины Федоров отправлен в отставку, но останется в команде президента Зеленского. Пресс-секретарь Кремля Песков заявил, что отставка «не имеет значения для России» и не повлияет на ход СВО. Российские официальные лица также высказались о возможной скорой замене Зеленского «кем-то другим». Возмущение отставкой омрачило прощальный визит премьер-министра Великобритании Стармера в Киев.",
+      "category": "politics",
+      "perspective": "Россия/Кремль: отставка не имеет значения, Зеленский может быть заменён; назначение нового премьера также безразлично. Украина/Запад: отставка министра обороны — признак внутренней турбулентности; визит Стармера подтвердил «железную поддержку» Украине. Германия: посол ФРГ провёл «хорошую» встречу в МИД РФ перед отъездом.",
+      "perspective_type": "from_source",
+      "sources": [
+        "Lenta.ru",
+        "Ведомости",
+        "Коммерсантъ",
+        "The Guardian"
+      ],
+      "links": [
+        "https://lenta.ru/news/2026/07/17/fedorov-ostanetsya-v-komande-zelenskogo/",
+        "https://lenta.ru/news/2026/07/17/v-rossii-vyskazalis-o-vliyanii-otstavki-ministra-oborony-ukrainy-na-hod-svo/",
+        "https://lenta.ru/news/2026/07/17/veroyatnost-uhoda-zelenskogo-s-posta-prezidenta-ukrainy-otsenili/",
+        "https://lenta.ru/news/2026/07/17/v-rossii-zayavili-o-skoroy-zamene-zelenskogo-kem-to-drugim/",
+        "https://www.vedomosti.ru/politics/news/2026/07/16/1214193-peskov-otstavka-ministra",
+        "https://www.vedomosti.ru/politics/news/2026/07/16/1214199-premer-ministra-ukraini",
+        "https://www.theguardian.com/world/live/2026/jul/16/europe-ukraine-russia-zelenskyy-starmer-macron-merz-latest-news-updates",
+        "https://lenta.ru/news/2026/07/17/horoshaya-vstrecha/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-17",
+      "id": "87b8170048b8"
+    },
+    {
+      "title_ru": "Смерть сенатора Линдси Грэма: Южная Каролина confronts сложное наследие — «его и любили, и ненавидели»",
+      "title_en": "Senator Lindsey Graham Dies: South Carolina Confronts Complex Legacy — 'You Loved Him and You Hated Him'",
+      "date": "2026-07-17",
+      "summary_en": "US Senator Lindsey Graham of South Carolina has died, leaving behind a deeply polarizing legacy. The Guardian reports that his home state is now confronting the complexity of his political career, summed up as: 'You loved him and you hated him.' Graham was a key figure in the Republican Party, known for his shifting relationship with Donald Trump and decades of influence on foreign policy and the judiciary.",
+      "summary": "Сенатор США Линдси Грэм от Южной Каролины скончался, оставив глубоко противоречивое политическое наследие. Как отмечает The Guardian, штат confronts сложное наследие сенатора: «его и любили, и ненавидели». Грэм был influential фигурой Республиканской партии, известной меняющимся отношением к Дональду Трампу и многолетним влиянием на внешнюю политику и судебную систему.",
+      "category": "politics",
+      "perspective": "Республиканцы: потеря влиятельного союзника Трампа и ключевого голоса партии по внешней политике. Демократы: Грэм запомнился резкими сменами позиций — от критика Трампа до лояльного защитника. Южная Каролина: наследие расколото — 'you loved him and you hated him'.",
+      "perspective_type": "from_source",
+      "sources": [
+        "The Guardian"
+      ],
+      "links": [
+        "https://www.theguardian.com/us-news/2026/jul/17/lindsey-graham-death-south-carolina-legacy"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-17",
+      "id": "8d4634039db8"
+    },
+    {
+      "title_ru": "Война секретов ИИ: NYT Hard Fork — экономисты призывают действовать",
+      "title_en": "The A.I. Trade Secrets War: NYT Hard Fork — Economists Say 'We Must Act Now'",
+      "date": "2026-07-17",
+      "summary_en": "The latest episode of the New York Times podcast Hard Fork focuses on the emerging global conflict over AI trade secrets. The episode features economists who argue that urgent action is needed to address the escalating battle over proprietary AI technologies and trade secrets among nations and corporations.",
+      "summary": "Новый эпизод подкаста Hard Fork от New York Times посвящён глобальному конфликту вокруг коммерческих секретов в сфере искусственного интеллекта. Экономисты в программе призывают к немедленным действиям в связи с обостряющейся борьбой за патентованные ИИ-технологии и торговые секреты между государствами и корпорациями.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "The New York Times"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/07/17/podcasts/hardfork-ai-trade-secrets.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-17",
+      "id": "b9ac4682b8a5"
+    },
+    {
+      "title_ru": "Пропущенное обновление ПО вызвало масштабный сбой сети Telstra — CEO признал перед Сенатом",
+      "title_en": "Neglected Software Update Caused Widespread Telstra Network Outage, CEO Tells Senate Inquiry",
+      "date": "2026-07-17",
+      "summary_en": "A widespread outage of Australia's Telstra network was caused by a neglected software update combined with an undocumented design change, the company's CEO told a Senate inquiry. The incident raised serious questions about the resilience of critical telecommunications infrastructure and software maintenance practices.",
+      "summary": "Масштабный сбой в работе австралийской телекоммуникационной сети Telstra был вызван пропущенным обновлением программного обеспечения в сочетании с недокументированным изменением в архитектуре системы, сообщил CEO компании на слушаниях в Сенате. Инцидент вызвал серьёзные вопросы об устойчивости критической телекоммуникационной инфраструктуры и практике обновления ПО.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "The Guardian"
+      ],
+      "links": [
+        "https://www.theguardian.com/business/2026/jul/17/telstra-missing-software-update-undocumented-design-change-outage"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-17",
+      "id": "9159268042c7"
     }
   ],
   "_stats": {
-    "total_tokens": 98417,
-    "total_cost": 10.221423999999999
+    "total_tokens": 133041,
+    "total_cost": 14.107695999999999
   }
 }
