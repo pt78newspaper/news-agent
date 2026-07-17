@@ -361,10 +361,194 @@
       "is_development": false,
       "first_reported": "2026-07-13",
       "id": "d3a6f1298da4"
+    },
+    {
+      "title_ru": "Шестая ночь ударов США по Ирану: атакованы мосты и порты, Иран наносит ответные удары по базам США в регионе",
+      "title_en": "Sixth Night of US Strikes on Iran: Bridges and Ports Hit, Iran Retaliates Against US Bases in Gulf",
+      "date": "2026-07-17",
+      "summary_en": "The US launched strikes on at least five bridges in Iran's Bandar-e Imam Khomeyni and a port in Chabahar, while US Marines boarded a tanker amid a blockade of Iranian ports. Iran retaliated with drone attacks on US military sites in Bahrain and Kuwait, and struck power and desalination plants in Kuwait. The conflict has expanded to Syria and Iraq, with Iran warning of a 'devastating' response to further aggression.",
+      "summary": "США нанесли удары как минимум по пяти мостам в районе Бендер-Имам Хомейни и порту Чабахар на юге Ирана; морская пехота США взяла на абордаж танкер в рамках блокады иранских портов. Иран ответил атаками дронов на военные объекты США в Бахрейне и Кувейте, а также вывел из строя электростанции и опреснительные заводы в Кувейте. Конфликт распространился на Сирию и Ирак; Иран предупредил об «опустошительном» ответе на любую новую агрессию против инфраструктуры.",
+      "category": "politics",
+      "perspective": "Администрация Трампа представляет удары как вынужденную меру для принуждения Ирана к переговорам, однако критики (NYT) называют это риском новой «вечной войны». Иран и сочувствующие ему силы осуждают атаки как военные преступления против гражданской инфраструктуры. Россия и Китай призывают к деэскалации, страны Персидского залива опасаются быть втянутыми в конфликт.",
+      "perspective_type": "from_source",
+      "sources": [
+        "The New York Times",
+        "BBC",
+        "The Guardian",
+        "DW",
+        "TASS",
+        "Indian Express",
+        "IRNA",
+        "Tehran Times"
+      ],
+      "links": [
+        "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
+        "https://www.bbc.co.uk/news/articles/c151gdjwd10o",
+        "https://www.theguardian.com/world/2026/jul/17/us-marines-board-ship-gulf-oman-expanded-airstrikes-iran",
+        "https://www.dw.com/en/iran-war-us-hits-bridges-as-tehran-retaliates-across-region/live-77996555",
+        "https://tass.com/world/2161365",
+        "https://tass.com/world/2161363",
+        "https://indianexpress.com/article/world/us-iran-war-news-live-updates-sixth-night-strikes-hormuz-blockade-trump-10790255/",
+        "https://en.irna.ir/news/86211284/Iran-s-Army-strikes-US-military-sites-in-Bahrain-Kuwait",
+        "https://en.irna.ir/news/86211391/Iran-s-UN-envoy-condemns-US-attacks-on-civilian-infrastructure"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-17",
+      "id": "67695b5f157c"
+    },
+    {
+      "title_ru": "Трамп обвиняет Китай во вмешательстве в выборы США перед промежуточными выборами",
+      "title_en": "Trump Accuses China of US Election Meddling Ahead of Midterms",
+      "date": "2026-07-17",
+      "summary_en": "President Trump, in a national address, alleged that China stole 220 million voter files from 18 states and meddled in the 2020 election. China's embassy firmly rejected the accusations as 'baseless,' and Russia's Kremlin called the allegations 'impersonalized.' Critics fear Trump is laying groundwork to challenge midterm results, with analysts describing the speech as aimed at destabilizing the US electoral system.",
+      "summary": "Президент Трамп в обращении к нации обвинил Китай в краже 220 миллионов файлов избирателей из 18 штатов и вмешательстве в выборы 2020 года. Посольство КНР решительно отвергло обвинения, назвав их безосновательными; Кремль также назвал информацию «обезличенной». Критики опасаются, что Трамп готовит почву для оспаривания результатов промежуточных выборов; аналитики называют обращение попыткой дестабилизировать избирательную систему США.",
+      "category": "politics",
+      "perspective": "Сторонники Трампа рассматривают это как защиту избирательного суверенитета США. Демократы и аналитики (The Guardian, NPR) видят в этом попытку делегитимизации предстоящих мидтермов. Китай и Россия отвергают обвинения как политически мотивированные. Международные наблюдатели (DW, BBC) отмечают отсутствие доказательств.",
+      "perspective_type": "from_source",
+      "sources": [
+        "The Guardian",
+        "BBC",
+        "DW",
+        "TASS",
+        "The Times of India",
+        "Indian Express",
+        "NPR",
+        "Tagesschau"
+      ],
+      "links": [
+        "https://www.theguardian.com/us-news/2026/jul/16/trump-tv-address-thursday",
+        "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo",
+        "https://www.dw.com/en/donald-trump-accuses-china-of-meddling-in-us-elections/a-77996793",
+        "https://tass.com/world/2161461",
+        "https://timesofindia.indiatimes.com/world/us/trump-alleges-china-interference-in-us-elections-amid-suspicion-hes-prepping-for-mid-term-loss/articleshow/132457509.cms",
+        "https://indianexpress.com/article/world/220-million-voters-18-states-sensitive-info-leaked-trump-claims-china-meddling-us-election-10790395/",
+        "https://www.npr.org/2026/07/16/nx-s1-5896487/an-analysis-of-president-trumps-address",
+        "https://www.tagesschau.de/ausland/amerika/trump-rede-an-die-nation-104.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-17",
+      "id": "4ac06671741b"
+    },
+    {
+      "title_ru": "Финал ЧМ-2026: Аргентина против Испании — Трамп подтвердил присутствие, победители получат чемпионские кольца",
+      "title_en": "World Cup 2026 Final: Argentina vs Spain — Trump Confirms Attendance, Winners to Get Championship Rings",
+      "date": "2026-07-17",
+      "summary_en": "Argentina and Spain face off in the FIFA World Cup 2026 final at MetLife Stadium. President Trump's attendance has been confirmed, and FIFA announced championship rings for the winners. Argentine President Milei will not attend due to superstition. Concerns have been raised about the stadium's grass quality, while VAR controversies and Kalshi's World Cup betting odds continue to draw attention.",
+      "summary": "Аргентина и Испания встретятся в финале ЧМ-2026 на стадионе MetLife. Трамп подтвердил своё присутствие, FIFA анонсировала чемпионские кольца для победителей. Президент Аргентины Милей не посетит матч из-за суеверия. Состояние газона стадиона вызывает опасения, а споры вокруг VAR и ставок на Kalshi остаются в центре внимания.",
+      "category": "politics",
+      "perspective": "Для администрации Трампа финал — возможность продемонстрировать способность США проводить глобальные мероприятия на фоне военного конфликта. Аргентина и Великобритания находятся в дипломатическом напряжении после скандала с фолклендским баннером. Консервативные круги США поддерживают патриотический аспект мероприятия; футбольные аналитики критикуют FIFA за чрезмерную коммерциализацию.",
+      "perspective_type": "assumed",
+      "sources": [
+        "BBC",
+        "NPR",
+        "Indian Express",
+        "The Guardian",
+        "DW",
+        "The New York Times"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/sport/football/articles/cgmk7mnnyjeo",
+        "https://www.npr.org/2026/07/17/nx-s1-5896544/2026-world-cup-fifa-var-video-assitant-referee",
+        "https://indianexpress.com/article/sports/football/metlife-stadium-grass-threat-argentina-spain-fifa-world-cup-final-10790921/",
+        "https://indianexpress.com/article/sports/football/why-argentina-president-milei-not-attend-fifa-world-cup-final-superstition-10790859/",
+        "https://www.theguardian.com/football/2026/jul/15/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner",
+        "https://www.nytimes.com/2026/07/16/world/world-cup-spain-argentina-ukraine.html"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-17",
+      "id": "b2b120674b31"
+    },
+    {
+      "title_ru": "Российские ПВО сбили 4661 украинский беспилотник за неделю; за ночь — 243 БПЛА",
+      "title_en": "Russian Air Defense Downs 4,661 Ukrainian Drones in a Week; 243 Overnight",
+      "date": "2026-07-17",
+      "summary_en": "The Russian Ministry of Defense reported that air defense forces shot down 4,661 Ukrainian drones over the week, including 243 overnight. Russian forces also struck Ukrainian defense industry enterprises. Six drones were intercepted on approach to Moscow; over the previous days, daily shootdowns ranged from 117 to 802 UAVs.",
+      "summary": "Минобороны РФ сообщило, что за неделю силы ПВО сбили 4661 украинский беспилотник, из них 243 — за ночь. Также нанесены удары по предприятиям ВПК Украины. Шесть БПЛА были перехвачены на подлёте к Москве. В предыдущие дни суточные показатели сбитых дронов колебались от 117 до 802 единиц.",
+      "category": "politics",
+      "perspective": "Российские официальные источники подают это как доказательство эффективности ПВО и истощения украинского арсенала. Украинская сторона и западные аналитики могут рассматривать массированные атаки дронов как способ перенапряжения российских систем ПВО. Независимая верификация затруднена в условиях конфликта.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Vedomosti",
+        "Kommersant",
+        "TASS"
+      ],
+      "links": [
+        "https://www.vedomosti.ru/politics/news/2026/07/17/1214498-rossiiskie-sili",
+        "https://www.vedomosti.ru/politics/news/2026/07/17/1214414-sili-pvo",
+        "https://www.kommersant.ru/doc/8816844",
+        "https://tass.ru/armiya-i-opk/27926117"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-17",
+      "id": "80e28f684216"
+    },
+    {
+      "title_ru": "Иран осуждает удары США по гражданской инфраструктуре и призывает соседей блокировать американские атаки",
+      "title_en": "Iran Condemns US Strikes on Civilian Infrastructure, Urges Neighbors to Block American Attacks",
+      "date": "2026-07-17",
+      "summary_en": "Iran's UN envoy condemned US attacks on civilian infrastructure as war crimes, while Tehran's Foreign Ministry urged Middle Eastern states to prevent the US from launching attacks from their territories. Iran filed a formal UN complaint detailing dozens of US breaches of a memorandum of understanding. Iranian officials stated that 'children, schools, hospitals are not safe from the US war machine.'",
+      "summary": "Посол Ирана в ООН осудил удары США по гражданской инфраструктуре как военные преступления. МИД Ирана призвал ближневосточные государства не допускать использования своей территории для американских атак. Иран подал официальную жалобу в ООН, а иранские официальные лица заявили, что «дети, школы и больницы не защищены от военной машины США».",
+      "category": "politics",
+      "perspective": "Иран и его союзники позиционируют это как противоправные действия США против гражданского населения. Западные союзники США (Великобритания, Израиль) обосновывают удары правом на самооборону. Нейтральные страны (Индия, Китай) могут рассматривать это как опасную эскалацию, угрожающую региональной стабильности.",
+      "perspective_type": "from_source",
+      "sources": [
+        "IRNA",
+        "Tehran Times",
+        "TASS",
+        "The Guardian"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86211391/Iran-s-UN-envoy-condemns-US-attacks-on-civilian-infrastructure",
+        "https://en.irna.ir/news/86211213/Iran-s-military-warns-of-devastating-response-to-any-new-aggression",
+        "https://en.irna.ir/news/86211094/Children-schools-hospitals-not-safe-from-US-war-machine-Iranian",
+        "https://tass.com/world/2161225",
+        "https://www.tehrantimes.com/news/528221/Iran-files-formal-UN-complaint-detailing-dozens-of-US-breaches"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-17",
+      "id": "505f8b21cfcb"
+    },
+    {
+      "title_ru": "OpenAI показывает коэффициенты ставок Kalshi на ЧМ-2026 в ChatGPT",
+      "title_en": "OpenAI Is Showing Kalshi's World Cup Odds in ChatGPT",
+      "date": "2026-07-14",
+      "summary_en": "OpenAI has integrated Kalshi's World Cup betting odds into ChatGPT, allowing users to view real-time prediction market data for tournament matches. Kalshi maintains it is not a sportsbook even as World Cup bets surge, blurring the line between prediction markets and sports gambling.",
+      "summary": "OpenAI интегрировала коэффициенты ставок Kalshi на матчи ЧМ-2026 в ChatGPT, позволяя пользователям просматривать данные рынка предсказаний в реальном времени. Kalshi настаивает, что не является букмекерской конторой, несмотря на резкий рост ставок на ЧМ, что размывает грань между рынками предсказаний и спортивным гемблингом.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "The New York Times"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-14",
+      "id": "d16339d96e0a"
+    },
+    {
+      "title_ru": "Продажи электромобилей в США падают, но зарядные станции переживают бум",
+      "title_en": "U.S. Electric Vehicle Sales Are Down but E.V. Chargers Are Booming",
+      "date": "2026-07-14",
+      "summary_en": "While electric vehicle sales in the United States have declined, the installation of EV charging stations is surging, reflecting a shift in infrastructure investment despite softening consumer demand for EVs.",
+      "summary": "Продажи электромобилей в США снизились, однако установка зарядных станций для электромобилей переживает бум, что отражает смещение инвестиций в инфраструктуру на фоне ослабления потребительского спроса на электромобили.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "The New York Times"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/07/13/business/electric-vehicles-charging-stations.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-14",
+      "id": "662142e0cea5"
     }
   ],
   "_stats": {
-    "total_tokens": 67441,
-    "total_cost": 7.040252
+    "total_tokens": 98417,
+    "total_cost": 10.221423999999999
   }
 }
