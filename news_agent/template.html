@@ -245,14 +245,14 @@
   </div>
   __STORIES__
   <div style="text-align:center;padding:10px 0;">
-    <button class="sys-btn" onclick="var el=document.getElementById('sys-info');el.classList.toggle('show');this.textContent=el.classList.contains('show')?'Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ Ð¾ ÑÐ¸ÑÑ‚ÐµÐ¼Ðµ':'Ðž ÑÐ¸ÑÑ‚ÐµÐ¼Ðµ (Ð¿Ñ€Ð¾Ð¼Ñ‚, ÑÑ‚Ñ€Ð°Ð½Ñ‹, Ð¡ÐœÐ˜)'">Ðž ÑÐ¸ÑÑ‚ÐµÐ¼Ðµ (Ð¿Ñ€Ð¾Ð¼Ñ‚, ÑÑ‚Ñ€Ð°Ð½Ñ‹, Ð¡ÐœÐ˜)</button>
+    <button class="sys-btn" onclick="var el=document.getElementById('sys-info');el.classList.toggle('show');this.textContent=el.classList.contains('show')?'Скрыть информацию о системе':'О системе (промт, страны, СМИ)'">О системе (промт, страны, СМИ)</button>
   </div>
   <div id="sys-info" class="sys-info">
-    <h3>Ð¡Ð¸ÑÑ‚ÐµÐ¼Ð½Ñ‹Ð¹ Ð¿Ñ€Ð¾Ð¼Ñ‚ Ð´Ð»Ñ AI</h3>
+    <h3>Системный промт для AI</h3>
     <pre>__SYSTEM_PROMPT__</pre>
-    <h3>ÐœÐ¾Ð½Ð¸Ñ‚Ð¾Ñ€Ð¸Ð¼Ñ‹Ðµ ÑÑ‚Ñ€Ð°Ð½Ñ‹</h3>
+    <h3>Мониторимые страны</h3>
     <p>__COUNTRIES_LIST__</p>
-    <h3>ÐœÐ¾Ð½Ð¸Ñ‚Ð¾Ñ€Ð¸Ð¼Ñ‹Ðµ Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸ÐºÐ¸</h3>
+    <h3>Мониторимые источники</h3>
     <div class="source-list">__SOURCES_HTML__</div>
   </div>
   __ARCHIVE__
@@ -261,21 +261,21 @@
   </div>
   <div id="admin-section" style="display:none">
     <div style="max-width:800px;margin:30px auto;padding:24px;background:var(--card);border:1px solid var(--border);border-radius:12px">
-      <h3 style="color:var(--accent);margin-bottom:16px">ÐŸÐ°Ð½ÐµÐ»ÑŒ ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ</h3>
+      <h3 style="color:var(--accent);margin-bottom:16px">Панель управления</h3>
       <div id="admin-login">
-        <p style="margin-bottom:10px;font-size:13px">Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ÑÐµÐºÑ€ÐµÑ‚ Ð´Ð»Ñ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð° Ðº ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸ÑŽ:</p>
-        <input type="password" id="admin-password" placeholder="Ð¡ÐµÐºÑ€ÐµÑ‚" style="width:200px;padding:8px 12px;font-size:14px;border:1px solid var(--border);border-radius:6px;margin-right:8px">
-        <button onclick="adminLogin()" style="padding:8px 20px;background:var(--accent);color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:14px">Ð’Ð¾Ð¹Ñ‚Ð¸</button>
-        <p id="admin-login-error" style="color:#d32f2f;font-size:12px;margin-top:6px;display:none">ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ ÑÐµÐºÑ€ÐµÑ‚</p>
+        <p style="margin-bottom:10px;font-size:13px">Введите секрет для доступа к управлению:</p>
+        <input type="password" id="admin-password" placeholder="Секрет" style="width:200px;padding:8px 12px;font-size:14px;border:1px solid var(--border);border-radius:6px;margin-right:8px">
+        <button onclick="adminLogin()" style="padding:8px 20px;background:var(--accent);color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:14px">Войти</button>
+        <p id="admin-login-error" style="color:#d32f2f;font-size:12px;margin-top:6px;display:none">Неверный секрет</p>
       </div>
       <div id="admin-panel" style="display:none">
-        <p style="font-size:13px;color:var(--text-dim);margin-bottom:12px">Ð’Ñ‹ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ð½Ñ‹ ÐºÐ°Ðº Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€.</p>
-        <label style="font-weight:600;font-size:13px;display:block;margin-bottom:6px">Ð¡Ð¸ÑÑ‚ÐµÐ¼Ð½Ñ‹Ð¹ Ð¿Ñ€Ð¾Ð¼Ñ‚ (Ð±ÑƒÐ´ÐµÑ‚ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½ Ð¿Ñ€Ð¸ ÑÐ»ÐµÐ´ÑƒÑŽÑ‰ÐµÐ¼ Ð·Ð°Ð¿ÑƒÑÐºÐµ):</label>
+        <p style="font-size:13px;color:var(--text-dim);margin-bottom:12px">Вы авторизованы как администратор.</p>
+        <label style="font-weight:600;font-size:13px;display:block;margin-bottom:6px">Системный промт (будет использован при следующем запуске):</label>
         <textarea id="admin-prompt" rows="6" style="width:100%;padding:10px;font-size:13px;border:1px solid var(--border);border-radius:6px;font-family:monospace;resize:vertical">__SYSTEM_PROMPT__</textarea>
         <div style="margin-top:12px;display:flex;gap:10px;flex-wrap:wrap">
-          <button onclick="adminSavePrompt()" style="padding:8px 20px;background:#2e7d32;color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:13px">Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð¾Ð¼Ñ‚</button>
-          <button onclick="adminTriggerRun()" style="padding:8px 20px;background:var(--accent);color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:13px">Ð—Ð°Ð¿ÑƒÑÑ‚Ð¸Ñ‚ÑŒ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ðµ</button>
-          <button onclick="adminLogout()" style="padding:8px 20px;background:var(--text-dim);color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:13px">Ð’Ñ‹Ð¹Ñ‚Ð¸</button>
+          <button onclick="adminSavePrompt()" style="padding:8px 20px;background:#2e7d32;color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:13px">Сохранить промт</button>
+          <button onclick="adminTriggerRun()" style="padding:8px 20px;background:var(--accent);color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:13px">Запустить обновление</button>
+          <button onclick="adminLogout()" style="padding:8px 20px;background:var(--text-dim);color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:13px">Выйти</button>
         </div>
         <div id="admin-msg" style="margin-top:10px;font-size:12px"></div>
       </div>
@@ -317,7 +317,7 @@ function adminLogout() {
 
 async function adminSavePrompt() {
   const msg = document.getElementById("admin-msg");
-  msg.innerHTML = '<span style="color:var(--accent)">Ð¡Ð¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ðµ...</span>';
+  msg.innerHTML = '<span style="color:var(--accent)">Сохранение...</span>';
   const content = document.getElementById("admin-prompt").value;
   const path = "prompt_custom.txt";
   try {
@@ -338,19 +338,19 @@ async function adminSavePrompt() {
       body: JSON.stringify(body)
     });
     if (putR.ok) {
-      msg.innerHTML = '<span style="color:#2e7d32">ÐŸÑ€Ð¾Ð¼Ñ‚ ÑÐ¾Ñ…Ñ€Ð°Ð½Ñ‘Ð½. Ð’ÑÑ‚ÑƒÐ¿Ð¸Ñ‚ Ð² ÑÐ¸Ð»Ñƒ Ð¿Ñ€Ð¸ ÑÐ»ÐµÐ´ÑƒÑŽÑ‰ÐµÐ¼ Ð·Ð°Ð¿ÑƒÑÐºÐµ.</span>';
+      msg.innerHTML = '<span style="color:#2e7d32">Промт сохранён. Вступит в силу при следующем запуске.</span>';
     } else {
       const err = await putR.json();
-      msg.innerHTML = '<span style="color:#d32f2f">ÐžÑˆÐ¸Ð±ÐºÐ°: ' + (err.message || putR.status) + '</span>';
+      msg.innerHTML = '<span style="color:#d32f2f">Ошибка: ' + (err.message || putR.status) + '</span>';
     }
   } catch(e) {
-    msg.innerHTML = '<span style="color:#d32f2f">ÐžÑˆÐ¸Ð±ÐºÐ°: ' + e.message + '</span>';
+    msg.innerHTML = '<span style="color:#d32f2f">Ошибка: ' + e.message + '</span>';
   }
 }
 
 async function adminTriggerRun() {
   const msg = document.getElementById("admin-msg");
-  msg.innerHTML = '<span style="color:var(--accent)">Ð—Ð°Ð¿ÑƒÑÐº...</span>';
+  msg.innerHTML = '<span style="color:var(--accent)">Запуск...</span>';
   try {
     const r = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/actions/workflows/fetch-news.yml/dispatches`, {
       method: "POST",
@@ -358,13 +358,13 @@ async function adminTriggerRun() {
       body: JSON.stringify({ref: "main"})
     });
     if (r.status === 204) {
-      msg.innerHTML = '<span style="color:#2e7d32">ÐžÐ±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ðµ Ð·Ð°Ð¿ÑƒÑ‰ÐµÐ½Ð¾. Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚ Ñ‡ÐµÑ€ÐµÐ· Ð½ÐµÑÐºÐ¾Ð»ÑŒÐºÐ¾ Ð¼Ð¸Ð½ÑƒÑ‚.</span>';
+      msg.innerHTML = '<span style="color:#2e7d32">Обновление запущено. Результат через несколько минут.</span>';
     } else {
       const err = await r.json().catch(() => ({}));
-      msg.innerHTML = '<span style="color:#d32f2f">ÐžÑˆÐ¸Ð±ÐºÐ°: ' + (err.message || r.status) + '</span>';
+      msg.innerHTML = '<span style="color:#d32f2f">Ошибка: ' + (err.message || r.status) + '</span>';
     }
   } catch(e) {
-    msg.innerHTML = '<span style="color:#d32f2f">ÐžÑˆÐ¸Ð±ÐºÐ°: ' + e.message + '</span>';
+    msg.innerHTML = '<span style="color:#d32f2f">Ошибка: ' + e.message + '</span>';
   }
 }
 
@@ -374,7 +374,7 @@ document.addEventListener("DOMContentLoaded", function() {
   if (footer) {
     const adminLink = document.createElement("div");
     adminLink.style.cssText = "text-align:center;margin-top:10px";
-    adminLink.innerHTML = '<button class="sys-btn" onclick="document.getElementById(\'admin-section\').style.display=\'block\'">ÐŸÐ°Ð½ÐµÐ»ÑŒ Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ð°</button>';
+    adminLink.innerHTML = '<button class="sys-btn" onclick="document.getElementById(\'admin-section\').style.display=\'block\'">Панель администратора</button>';
     footer.parentNode.insertBefore(adminLink, footer.nextSibling);
   }
 });
