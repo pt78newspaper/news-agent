@@ -80,15 +80,15 @@ def generate_html(events, config, usage=None, api_key=None):
             for l in ev.get("links", [])[:3]
         )
 
-        cat_label = {"politics": "ÐŸÐ¾Ð»Ð¸Ñ‚Ð¸ÐºÐ°", "ai": "AI", "tech": "Ð¢ÐµÑ…Ð½Ð¾/ÐÐ°ÑƒÐºÐ°"}.get(cat, "")
+        cat_label = {"politics": "Политика", "ai": "AI", "tech": "Техно/Наука"}.get(cat, "")
         cat_badge = f'<span class="cat-badge cat-{cat}">{cat_label}</span>' if cat_label else ""
 
         perspective = ev.get("perspective", "").strip()
         perspective_type = ev.get("perspective_type", "").strip()
         perspective_label = {
-            "from_source": "Ð¸Ð· Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸ÐºÐ°",
-            "assumed": "Ð¿Ñ€ÐµÐ´Ð¿Ð¾Ð»Ð¾Ð¶Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾",
-            "unclear": "Ð½ÐµÑÑÐ½Ð¾"
+            "from_source": "из источника",
+            "assumed": "предположительно",
+            "unclear": "неясно"
         }.get(perspective_type, "")
 
         summ_en = ev.get("summary_en", "")
@@ -100,7 +100,7 @@ def generate_html(events, config, usage=None, api_key=None):
         summ_ru_html = f'<div class="summ-ru">{summ_ru}</div>' if summ_ru else ""
 
         if perspective:
-            comparison_html = f'<div class="comparison"><div class="compare-title">ÐžÑ†ÐµÐ½ÐºÐ¸ {'(' + perspective_label + ')' if perspective_label else ''}</div><div class="compare-item">{perspective}</div></div>'
+            comparison_html = f'<div class="comparison"><div class="compare-title">Оценки {'(' + perspective_label + ')' if perspective_label else ''}</div><div class="compare-item">{perspective}</div></div>'
         else:
             comparison_html = ""
 
@@ -119,7 +119,7 @@ def generate_html(events, config, usage=None, api_key=None):
       {comparison_html}
       <div class="story-footer">
         <span class="tag">{ev.get("date", "")}</span>
-        <span>Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸ÐºÐ¸: {sources_str}</span>
+        <span>Источники: {sources_str}</span>
         <span>{links_html}</span>
       </div>
     </div>
@@ -128,7 +128,7 @@ def generate_html(events, config, usage=None, api_key=None):
         stories_html += story
 
     if not stories_html:
-        stories_html = '<div class="no-news"><h2>ÐÐ¾Ð²Ð¾ÑÑ‚ÐµÐ¹ Ð½ÐµÑ‚</h2><p>ÐŸÐ¾Ð¿Ñ€Ð¾Ð±ÑƒÐ¹Ñ‚Ðµ Ð¿Ð¾Ð·Ð¶Ðµ</p></div>'
+        stories_html = '<div class="no-news"><h2>Новостей нет</h2><p>Попробуйте позже</p></div>'
 
     # System info
     sources = config.get("sources", {})
@@ -150,7 +150,7 @@ def generate_html(events, config, usage=None, api_key=None):
                 headers={"Authorization": f"Bearer {api_key}"}, timeout=10)
             if br.status_code == 200:
                 bal = br.json().get("balance", 0)
-                balance_text = f" | Ð‘Ð°Ð»Ð°Ð½Ñ: {bal:.2f} Ñ€ÑƒÐ±."
+                balance_text = f" | Баланс: {bal:.2f} руб."
         except:
             pass
 
@@ -159,11 +159,11 @@ def generate_html(events, config, usage=None, api_key=None):
         total_tokens = usage.get("total_tokens", usage.get("tokens", 0))
         total_cost = usage.get("total_cost", usage.get("cost", 0))
         usage_text = (
-            f"Ð—Ð°Ð¿ÑƒÑÐº: {usage.get('tokens', 0)} Ñ‚Ð¾ÐºÐµÐ½Ð¾Ð², "
-            f"ÑÑ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚ÑŒ {usage.get('cost', 0):.4f} Ñ€ÑƒÐ±."
+            f"Запуск: {usage.get('tokens', 0)} токенов, "
+            f"стоимость {usage.get('cost', 0):.4f} руб."
             f"{balance_text}"
-            f" | Ð’ÑÐµÐ³Ð¾ Ð·Ð° Ð²ÑÑ‘ Ð²Ñ€ÐµÐ¼Ñ: {total_tokens} Ñ‚Ð¾ÐºÐµÐ½Ð¾Ð², "
-            f"{total_cost:.4f} Ñ€ÑƒÐ±."
+            f" | Всего за всё время: {total_tokens} токенов, "
+            f"{total_cost:.4f} руб."
         )
     else:
         usage_text = ""
@@ -174,7 +174,7 @@ def generate_html(events, config, usage=None, api_key=None):
     html = html.replace("__USAGE_INFO__", usage_text)
     html = html.replace("__TOTAL_STORIES__", str(len(events)))
     html = html.replace("__TOTAL_SOURCES__", str(sum(len(e.get("sources", [])) for e in events)))
-    cat_display = " | ".join(f'{l}: {cat_counts.get(k,0)}' for k,l in [("politics","ÐŸÐ¾Ð»Ð¸Ñ‚Ð¸ÐºÐ°"),("ai","AI"),("tech","Ð¢ÐµÑ…Ð½Ð¾")] if cat_counts.get(k,0))
+    cat_display = " | ".join(f'{l}: {cat_counts.get(k,0)}' for k,l in [("politics","Политика"),("ai","AI"),("tech","Техно")] if cat_counts.get(k,0))
     html = html.replace("__REGIONS_COVERED__", cat_display)
     html = html.replace("__STORIES__", stories_html)
     from news_agent.ai_summarizer import MODEL as AI_MODEL_NAME
@@ -200,10 +200,10 @@ def generate_html(events, config, usage=None, api_key=None):
         for e in past_events:
             d = (e.get("date") or e.get("first_reported", ""))[:10]
             by_date.setdefault(d, []).append(e)
-        archive_html = '<div class="archive-section"><div class="archive-title">ÐÑ€Ñ…Ð¸Ð²</div>'
+        archive_html = '<div class="archive-section"><div class="archive-title">Архив</div>'
         for date_key in sorted(by_date.keys(), reverse=True):
             day_events = by_date[date_key]
-            archive_html += f'<div class="archive-day"><div class="archive-day-header" onclick="this.classList.toggle(\'open\');this.nextElementSibling.classList.toggle(\'open\')"><span>{date_key} ({len(day_events)})</span><span class="arrow">â–¶</span></div><div class="archive-day-body">'
+            archive_html += f'<div class="archive-day"><div class="archive-day-header" onclick="this.classList.toggle(\'open\');this.nextElementSibling.classList.toggle(\'open\')"><span>{date_key} ({len(day_events)})</span><span class="arrow">▶</span></div><div class="archive-day-body">'
             for pe in day_events:
                 summ_en = pe.get("summary_en", "")
                 summ_ru = pe.get("summary", "")
