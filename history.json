@@ -715,10 +715,184 @@
       "is_development": false,
       "first_reported": "2026-07-17",
       "id": "5a217cdffd8d"
+    },
+    {
+      "title_ru": "Индийский активист Сонам Вангчук насильно госпитализирован на 21-й день голодовки; оппозиция и мировые СМИ осуждают действия властей",
+      "title_en": "Indian Activist Sonam Wangchuk Forcibly Hospitalized on Day 21 of Hunger Strike; Opposition and Global Media Condemn Government",
+      "date": "2026-07-18",
+      "summary_en": "Delhi police forcibly removed activist Sonam Wangchuk from Jantar Mantar protest site on Day 21 of his hunger strike and transferred him to Safdarjung Hospital. His wife Gitanjali demanded no treatment without family consent, while CJP's Abhijeet Dipke began an indefinite fast in response. Opposition leaders including Sharad Pawar, Kejriwal, and M.A. Baby condemned the move as 'irresponsible' and 'arrogant,' and international outlets including the BBC, NYT, DW, and The Guardian covered the story.",
+      "summary": "Полиция Дели насильно вывезла активиста Сонама Вангчука с места протеста у Джантар-Мантар на 21-й день голодовки и доставила его в больницу Сафдарджунг. Его жена Гитанджали потребовала не проводить лечение без согласия семьи, а соратник по партии CJP Абхиджит Дипке объявил бессрочную голодовку. Лидеры оппозиции — Шарад Павар, Кеджривал, М.А. Бэйби — осудили действия правительства, назвав их «безответственными» и «высокомерными». Международные СМИ, включая BBC, NYT, DW и The Guardian, широко осветили инцидент.",
+      "category": "politics",
+      "perspective": "Оппозиция (Конгресс, AAP, левые) осуждает действия центрального правительства как репрессивные и антидемократические. Правящая BJP и полиция Дели настаивают, что госпитализация проведена по решению суда для спасения жизни. Гражданское общество расколото: сторонники Вангчука говорят о подавлении протеста, критики — что требования CJP (отставка правительства) нереалистичны.",
+      "perspective_type": "from_source",
+      "sources": [
+        "The Hindu",
+        "Indian Express",
+        "BBC News",
+        "The New York Times",
+        "DW"
+      ],
+      "links": [
+        "https://www.thehindu.com/news/national/cjp-students-protest-at-delhi-jantar-mantar-sonam-wangchuk-hunger-strike-day-21-live-updates-july-18-2026/article71236930.ece",
+        "https://indianexpress.com/article/india/police-move-sonam-wangchuk-to-hospital-from-jantar-mantar-after-20-day-fast-10791928/",
+        "https://www.bbc.co.uk/news/articles/cjej3dxxg2do",
+        "https://www.nytimes.com/2026/07/18/world/asia/sonam-wangchuk-hunger-strike-delhi-police.html",
+        "https://www.dw.com/en/india-news-cjp-to-call-for-modi-s-resignation-after-sonam-wangchuk-forcefully-shifted-to-hospital/live-78015662"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-18",
+      "id": "3ceff754e282"
+    },
+    {
+      "title_ru": "Война США и Ирана: КСИР наносит удары по базам США в Кувейте, Иордании и Бахрейне; Ормузский пролив полностью закрыт",
+      "title_en": "US-Iran War: IRGC Strikes US Bases in Kuwait, Jordan, and Bahrain; Strait of Hormuz Fully Closed",
+      "date": "2026-07-18",
+      "summary_en": "The Iran-US conflict dramatically escalated as Iran's IRGC struck US military targets in Kuwait, Jordan, and Bahrain with drones, hitting a Kuwaiti power and water desalination plant and forcing airport closures. IRGC declared the Strait of Hormuz fully closed after halting vessels, while the US conducted a seventh consecutive night of strikes on Iran. At least 38 Iranians have been killed in US strikes, and Iran's UN envoy has condemned attacks on civilian infrastructure as war crimes.",
+      "summary": "Конфликт США и Ирана резко обострился: КСИР нанёс удары беспилотниками по военным объектам США в Кувейте, Иордании и Бахрейне, загорелась электростанция и водоопреснительный завод в Кувейте, приостановлена работа аэропорта. КСИР объявил о полном закрытии Ормузского пролива. США тем временем нанесли седьмую ночь ударов по Ирану. По официальным данным, 38 иранцев погибли; постпред Ирана при ООН осудил атаки на гражданскую инфраструктуру как военные преступления.",
+      "category": "politics",
+      "perspective": "США оправдывают удары самообороной и защитой свободы судоходства. Иран представляет свои действия как сопротивление агрессии и обвиняет США в военных преступлениях. Региональные союзники США (Кувейт, Бахрейн, Иордания) оказываются втянутыми в конфликт. Мировое сообщество обеспокоено ростом цен на нефть и жертвами среди гражданского населения.",
+      "perspective_type": "from_source",
+      "sources": [
+        "IRNA",
+        "Tehran Times",
+        "Indian Express",
+        "The New York Times",
+        "The Guardian",
+        "TASS",
+        "NPR"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86211951/Iran-s-Army-targets-US-bases-in-Jordan-Kuwait-with-drones",
+        "https://en.irna.ir/news/86211923/IRGC-strikes-US-targets-in-Bahrain-declares-Hormuz-fully-closed",
+        "https://indianexpress.com/article/world/iranian-attack-sparks-fire-at-kuwait-power-and-water-desalination-plant-10792237/",
+        "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
+        "https://www.theguardian.com/world/2026/jul/17/us-launches-seventh-night-of-iran-strikes-as-hormuz-conflict-escalates",
+        "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-18",
+      "id": "ca87f0f207a4"
+    },
+    {
+      "title_ru": "Удары ВСУ по Тамбовской области, Крыму и Ногинску: семь погибших в Котовске, двое в Крыму; атакован склад Wildberries",
+      "title_en": "Ukrainian Strikes on Russia's Tambov Region, Crimea, and Noginsk: Seven Dead in Kotovsk, Two in Crimea; Wildberries Warehouse Hit",
+      "date": "2026-07-18",
+      "summary_en": "Ukrainian forces launched drone attacks on multiple Russian regions, striking a Wildberries warehouse in Kotovsk, Tambov region, killing seven people. Two more died in Crimea, and a railway station was closed in Noginsk after drone strikes. Senator Kondratyev called on Tambov residents to join local air defense units, while surgeons worked to extract shrapnel from the wounded. A deputy commander of Ukraine's Air Force resigned following the dismissal of the Air Force chief.",
+      "summary": "ВСУ нанесли удары беспилотниками по нескольким российским регионам: в тамбовском Котовске атакован склад Wildberries — семь погибших; в Крыму двое погибших; в Ногинске закрыт вокзал и изменены маршруты транспорта. Сенатор Кондратьев призвал тамбовчан вступать в отряды ПВО. Хирурги извлекают поражающие элементы из пострадавших. Тем временем замглавы воздушных сил ВСУ подал в отставку после увольнения командующего.",
+      "category": "politics",
+      "perspective": "Российская сторона квалифицирует удары как террористические атаки на гражданскую инфраструктуру и мирное население. Украинская сторона может рассматривать склад Wildberries как объект двойного назначения. Международное сообщество обеспокоено эскалацией ударов по тыловым регионам России на фоне отвлечения мирового внимания на иранский конфликт.",
+      "perspective_type": "assumed",
+      "sources": [
+        "TASS",
+        "Lenta.ru",
+        "Kommersant",
+        "Vedomosti"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/27929211",
+        "https://lenta.ru/news/2026/07/18/v-rezultate-ataki-vsu-na-tambovskuyu-oblast-pogibli-sem-chelovek/",
+        "https://www.kommersant.ru/doc/8829677",
+        "https://www.kommersant.ru/doc/8829302",
+        "https://www.vedomosti.ru/politics/news/2026/07/16/1214114-zamglavi-vozdushnih-sil"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-18",
+      "id": "b68b5c2d4d74"
+    },
+    {
+      "title_ru": "Финал ЧМ-2026: Аргентина против Испании — Месси «уже завершил игру» в Катаре, но обещает бороться; Испания может войти в историю",
+      "title_en": "World Cup 2026 Final: Argentina vs Spain — Messi Says He 'Already Completed the Game' in Qatar but Promises to Fight; Spain Could Make History",
+      "date": "2026-07-18",
+      "summary_en": "Argentina and Spain face off in the 2026 FIFA World Cup final. Lionel Messi stated he 'already completed the game in Qatar' but vowed Argentina will 'give it our all.' Coach Scaloni criticized FIFA's 'strange' training schedule. Spain could become the first nation to win men's and women's World Cups back-to-back. Referee Slavko Vincic's controversial background involving cocaine and pistols has drawn media attention. The Argentina-England semifinal was marred by a 'Malvinas are Argentinian' banner.",
+      "summary": "Аргентина и Испания встречаются в финале ЧМ-2026. Лионель Месси заявил, что «уже завершил игру в Катаре», но пообещал «выложиться полностью». Тренер Скалони раскритиковал «странный» график тренировок ФИФА. Испания может стать первой страной, выигравшей мужской и женский Кубки мира подряд. Судья финала Славко Винчич привлёк внимание СМИ из-за истории с кокаином и пистолетами. Полуфинал Аргентина–Англия был омрачён баннером «Мальвины — аргентинские».",
+      "category": "politics",
+      "perspective": "Для Аргентины финал — вопрос национальной гордости на фоне экономических трудностей и фолклендского нарратива. Для Испании — возможность установить исторический рекорд. ФИФА критикуют за расширение турнира и организационные решения. Геополитический подтекст матча Аргентина–Англия добавил напряжённости.",
+      "perspective_type": "from_source",
+      "sources": [
+        "The Hindu",
+        "Indian Express",
+        "NPR",
+        "The Guardian",
+        "DW",
+        "The New York Times"
+      ],
+      "links": [
+        "https://www.thehindu.com/sport/football/lionel-messi-speaks-in-advance-of-world-cup-final-says-argentina-will-give-it-our-all/article71237095.ece",
+        "https://indianexpress.com/article/sports/football/i-already-completed-the-game-messi-fifa-world-cup-2026-final-10792213/",
+        "https://www.npr.org/2026/07/17/g-s1-134232/spain-world-cup-history-women-men",
+        "https://www.theguardian.com/football/2026/jul/15/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner",
+        "https://www.dw.com/en/england-vs-argentina-a-football-rivalry-full-of-history/a-77962179"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-18",
+      "id": "2d9d3975d6a8"
+    },
+    {
+      "title_ru": "Энди Бёрнем становится лидером Лейбористов и займёт пост премьер-министра Великобритании 20 июля",
+      "title_en": "Andy Burnham Becomes Labour Leader, Set to Take Over as UK Prime Minister on July 20",
+      "date": "2026-07-18",
+      "summary_en": "Andy Burnham has been confirmed as the new leader of the UK Labour Party and is scheduled to take over as Prime Minister on July 20, according to reports. The transition comes amid a challenging political landscape, including the recent controversial nationalisation of British Steel and tensions with China over the move.",
+      "summary": "Энди Бёрнем утверждён в качестве нового лидера Лейбористской партии Великобритании и 20 июля вступит в должность премьер-министра. Смена власти происходит на фоне недавней национализации British Steel, вызвавшей «крайнее недовольство» Китая, и других экономических вызовов.",
+      "category": "politics",
+      "perspective": "Лейбористы представляют смену власти как мандат на перемены после консервативного правления. Консерваторы, вероятно, будут критиковать новое правительство за неопытность. Китай выразил недовольство политикой национализации, что может осложнить международные отношения нового кабинета.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Times of India",
+        "The Guardian"
+      ],
+      "links": [
+        "https://timesofindia.indiatimes.com/world/uk/burnham-is-labour-chief-to-take-over-as-pm-on-july-20/articleshow/132471956.cms",
+        "https://www.theguardian.com/business/2026/jul/17/british-steel-nationalisation-china-strongly-dissatisfied"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-18",
+      "id": "b0d974f56f98"
+    },
+    {
+      "title_ru": "Верховный суд Бразилии приостановил посещения Болсонару под домашним арестом; экс-президент просит о встрече с Милеем",
+      "title_en": "Brazil's Supreme Court Suspends Visits to Bolsonaro Under House Arrest; Ex-President Requests Meeting with Milei",
+      "date": "2026-07-18",
+      "summary_en": "Brazilian Supreme Court Justice Alexandre de Moraes suspended all visits to former President Jair Bolsonaro, who is under house arrest. The Prosecutor General's Office (PGR) defended maintaining the house arrest status. Meanwhile, Bolsonaro has formally requested authorization to receive Argentine President Javier Milei at his residence.",
+      "summary": "Судья Верховного суда Бразилии Алешандри ди Мораис приостановил все посещения бывшего президента Жаира Болсонару, находящегося под домашним арестом. Генеральная прокуратура (PGR) выступила за сохранение домашнего ареста. Болсонару, в свою очередь, запросил разрешение на встречу с президентом Аргентины Хавьером Милеем.",
+      "category": "politics",
+      "perspective": "Сторонники Болсонару рассматривают ужесточение условий ареста как политическое преследование. Правительство и судебная власть настаивают на верховенстве закона. Запрос о встрече с Милеем — потенциальный международный аспект, который может усилить нарратив о политическом характере дела.",
+      "perspective_type": "from_source",
+      "sources": [
+        "Agência Brasil"
+      ],
+      "links": [
+        "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/moraes-suspende-visitas-bolsonaro-na-prisao-domiciliar",
+        "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/pgr-defende-manutencao-da-prisao-domiciliar-concedida-bolsonaro",
+        "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/bolsonaro-pede-autorizacao-para-receber-milei-na-prisao-domiciliar"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-18",
+      "id": "b64e4f5001e7"
+    },
+    {
+      "title_ru": "Эксперты ставят под сомнение заявления Трампа о 250 000 неграждан в списках избирателей четырёх штатов",
+      "title_en": "Experts Cast Doubt on Trump and DHS Claim of 250,000 Noncitizens Registered to Vote in Four US States",
+      "date": "2026-07-18",
+      "summary_en": "Former President Donald Trump and the DHS chief claimed that 250,000 noncitizens are registered to vote in four US states. Election experts have cast significant doubt on these claims, questioning the methodology. The controversy comes amid broader debates over election security and Trump's ongoing assertions about electoral integrity ahead of the midterm elections.",
+      "summary": "Бывший президент Дональд Трамп и глава Министерства внутренней безопасности США заявили о 250 000 неграждан, зарегистрированных для голосования в четырёх штатах. Эксперты по выборам выразили серьёзные сомнения в достоверности этих утверждений и методологии подсчёта. Полемика разворачивается на фоне подготовки к промежуточным выборам и продолжающихся дебатов о честности избирательной системы.",
+      "category": "politics",
+      "perspective": "Республиканцы и сторонники Трампа используют заявления для обоснования ужесточения законов о голосовании. Демократы и эксперты по выборам считают обвинения бездоказательными и направленными на подрыв доверия к выборам. Рассекреченные файлы, упомянутые BBC, не предоставили однозначных подтверждений.",
+      "perspective_type": "from_source",
+      "sources": [
+        "The Guardian",
+        "BBC News"
+      ],
+      "links": [
+        "https://www.theguardian.com/us-news/live/2026/jul/17/donald-trump-speech-china-midterm-elections-latest-news-updates",
+        "https://www.bbc.co.uk/news/articles/cz64wx8yjjdo"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-18",
+      "id": "3610dec1b00f"
     }
   ],
   "_stats": {
-    "total_tokens": 124703,
-    "total_cost": 13.261807999999998
+    "total_tokens": 149639,
+    "total_cost": 16.026699999999998
   }
 }
