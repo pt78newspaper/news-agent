@@ -889,10 +889,168 @@
       "is_development": false,
       "first_reported": "2026-07-18",
       "id": "3610dec1b00f"
+    },
+    {
+      "title_ru": "Англия обыграла Францию 6:4 в матче за 3-е место ЧМ-2026; Мбаппе установил рекорд, Месси готовится к финалу",
+      "title_en": "England Beats France 6-4 in World Cup Third-Place Thriller; Mbappé Sets Record, Messi Eyes Final",
+      "date": "2026-07-19",
+      "summary_en": "England defeated France 6-4 in a record-breaking 10-goal third-place playoff at the 2026 FIFA World Cup. Bukayo Saka scored a hat-trick, Jude Bellingham became the first England player with 7 goals in a single World Cup, and Kylian Mbappé set a new all-time World Cup scoring record with 22 goals. Argentina faces Spain in the final, with global attention focused on Lionel Messi's bid to beat Mbappé's Golden Boot tally.",
+      "summary": "Англия одержала победу над Францией со счётом 6:4 в рекордном матче за третье место ЧМ-2026, где было забито 10 голов. Букайо Сака оформил хет-трик, Джуд Беллингем стал первым англичанином с 7 голами за один чемпионат мира, а Килиан Мбаппе установил абсолютный рекорд результативности — 22 гола за карьеру на чемпионатах мира. В финале сойдутся Аргентина и Испания; внимание приковано к гонке за «Золотую бутсу» между Месси и Мбаппе.",
+      "category": "politics",
+      "perspective": "Спортивное событие с политическим подтекстом: рекорды Мбаппе — предмет гордости Франции; успех Англии — повод для национального подъёма на фоне смены правительства; финал Аргентина–Испания имеет геополитический оттенок из-за спора о Фолклендах.",
+      "perspective_type": "assumed",
+      "sources": [
+        "BBC",
+        "The Hindu",
+        "Indian Express",
+        "DW",
+        "TASS",
+        "CBC"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/sport/football/articles/c0ejnwj0n4jo",
+        "https://www.thehindu.com/sport/football/fifa-world-cup-2026-golden-boot-race-messi-mbappe-haaland-kane-football/article71193305.ece",
+        "https://indianexpress.com/article/sports/football/saka-hattrick-mbappe-world-cup-record-england-vs-france-10-goal-thriller-10793108/",
+        "https://www.dw.com/en/france-s-mbappe-sets-world-cup-scoring-record-with-22-goals/a-78022308",
+        "https://tass.com/sports/2162077",
+        "https://www.cbc.ca/sports/soccer/worldcup/fifa-world-cup-recap-england-france-july-18-9.7275619"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-19",
+      "id": "1876097d6883"
+    },
+    {
+      "title_ru": "Иран сбил американский дрон MQ-9 и нанёс новые удары по базам США; Тегеран предупреждает об «опустошительном ответе»",
+      "title_en": "Iran Downs US MQ-9 Drone, Strikes US Bases Again; Tehran Warns of 'Devastating Response'",
+      "date": "2026-07-19",
+      "summary_en": "Iran's IRGC destroyed a US MQ-9 drone over Ahvaz and launched fresh drone strikes on US bases in Kuwait. Iranian officials warned Washington of a 'devastating response' and accused the US of 'barbaric' raids on civilian infrastructure. The IRGC also claimed destruction of several US strategic refueling aircraft and radar systems. The conflict continues to escalate with Iran halting MoU commitments over alleged US violations.",
+      "summary": "Иранский КСИР уничтожил американский дрон MQ-9 над Ахвазом и нанёс новые удары беспилотниками по базам США в Кувейте. Тегеран предупредил Вашингтон об «опустошительном ответе», обвинив США в «варварских» налётах на гражданскую инфраструктуру. КСИР также заявил об уничтожении нескольких стратегических самолётов-заправщиков и радарных систем США. Иран приостановил выполнение обязательств по меморандуму из-за нарушений со стороны США.",
+      "category": "politics",
+      "perspective": "Иран и его союзники расценивают действия как законную самооборону; США и западные страны осуждают иранские удары как агрессию. Россия и Китай призывают к деэскалации. Арабские страны Персидского залива опасаются расширения конфликта.",
+      "perspective_type": "assumed",
+      "sources": [
+        "IRNA",
+        "Tehran Times",
+        "TASS",
+        "Antara News"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86213224/IRGC-destroys-MQ-9-drone-in-Iran-s-Ahvaz",
+        "https://en.irna.ir/news/86213111/Iranian-Army-conducts-new-drone-strikes-on-US-bases-in-Kuwait",
+        "https://en.irna.ir/news/86212912/Iran-warns-US-of-devastating-response",
+        "https://tass.com/world/2162071",
+        "https://www.antaranews.com/berita/5656036/iran-klaim-serang-dua-pangkalan-militer-as-di-kuwait-dengan-drone"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-19",
+      "id": "71b80d47244c"
+    },
+    {
+      "title_ru": "Массированные атаки БПЛА ВСУ на Россию: 140 дронов сбито за ночь, пострадали десятки человек",
+      "title_en": "Massive Ukrainian Drone Attacks on Russia: 140 UAVs Downed Overnight, Dozens Injured",
+      "date": "2026-07-19",
+      "summary_en": "Russian air defense systems shot down 140 Ukrainian drones overnight, including five heading for Moscow. A state of emergency was declared in one Russian region, and a fire at an oil depot in Noginsk was extinguished. The number of people injured in the attack on the Wildberries warehouse in Elektrostal rose to 61, with 40 still hospitalized. In Tambov region, 12 victims remain in hospitals; ten of the most severely injured were evacuated to Moscow.",
+      "summary": "Российские силы ПВО сбили 140 украинских беспилотников за ночь, включая пять, летевших на Москву. В одном из регионов введён режим ЧС. Потушен пожар на нефтебазе в Ногинске. Число пострадавших при атаке на склад Wildberries в Электростали выросло до 61 человека, 40 остаются в больницах. В Тамбовской области в больницах остаются 12 пострадавших; десятерых наиболее тяжёлых эвакуировали в Москву.",
+      "category": "politics",
+      "perspective": "Российские власти характеризуют атаки как террористические и акцентируют эффективность ПВО. Украина и её союзники рассматривают удары как законные военные действия. Международное сообщество обеспокоено эскалацией и жертвами среди гражданского населения.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Kommersant",
+        "Vedomosti",
+        "Lenta",
+        "TASS"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8829931",
+        "https://www.vedomosti.ru/politics/news/2026/07/19/1214769-za-noch-sili",
+        "https://lenta.ru/news/2026/07/19/minoborony-raskrylo-chislo-sbityh-nad-rossiey-za-noch-bpla-vsu/",
+        "https://tass.ru/proisshestviya/27931047"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-19",
+      "id": "c0bd57580170"
+    },
+    {
+      "title_ru": "Белый дом поддержал сборную Аргентины из-за баннера о Фолклендах после полуфинала ЧМ",
+      "title_en": "White House Backs Argentina Over Falklands Banner After World Cup Semi-Final",
+      "date": "2026-07-18",
+      "summary_en": "The White House defended Argentina's national team after they displayed a banner referencing the Falkland Islands (Islas Malvinas) during their World Cup semi-final victory. The US stance puts Washington at odds with the United Kingdom, a key NATO ally, which claims sovereignty over the islands. The incident has added a diplomatic layer to the Argentina-Spain final.",
+      "summary": "Белый дом выступил в защиту сборной Аргентины, которая развернула баннер с упоминанием Фолклендских (Мальвинских) островов после победы в полуфинале ЧМ-2026. Позиция США противопоставляет Вашингтон Великобритании — ключевому союзнику по НАТО, претендующему на суверенитет над островами. Инцидент придал дополнительный дипломатический оттенок финалу Аргентина–Испания.",
+      "category": "politics",
+      "perspective": "Аргентина приветствует поддержку США как признание её претензий на Мальвины. Великобритания расценивает позицию Белого дома как подрыв альянса. Латинская Америка в основном солидарна с Аргентиной. Консервативные круги США критикуют администрацию за предательство союзника.",
+      "perspective_type": "from_source",
+      "sources": [
+        "The Guardian",
+        "Indian Express"
+      ],
+      "links": [
+        "https://www.theguardian.com/football/2026/jul/18/white-house-backs-argentina-team-falklands-banner-world-cup-semi-final",
+        "https://indianexpress.com/article/sports/football/argentina-falklands-banner-controversy-white-house-world-cup-10792931/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-18",
+      "id": "7211e44851ac"
+    },
+    {
+      "title_ru": "Судья Верховного суда Бразилии Мораес отказал Милею в визите к Болсонару под домашним арестом",
+      "title_en": "Brazil's Supreme Court Justice Moraes Denies Milei's Request to Visit Bolsonaro Under House Arrest",
+      "date": "2026-07-18",
+      "summary_en": "Brazilian Supreme Court Justice Alexandre de Moraes denied a request by Argentine President Javier Milei to visit former Brazilian President Jair Bolsonaro at his home, where Bolsonaro is under house arrest. The decision reinforces the court's restrictions on Bolsonaro's contact with foreign political figures amid ongoing legal cases.",
+      "summary": "Судья Верховного суда Бразилии Алешандри ди Мораес отклонил просьбу президента Аргентины Хавьера Милея посетить экс-президента Бразилии Жаира Болсонару, находящегося под домашним арестом. Решение подтверждает жёсткие ограничения суда на контакты Болсонару с иностранными политиками на фоне продолжающихся судебных разбирательств.",
+      "category": "politics",
+      "perspective": "Сторонники Болсонару и правые силы в Латинской Америке осуждают решение как политически мотивированное и нарушающее межгосударственные отношения. Бразильская судебная система и левые силы настаивают на верховенстве закона и недопустимости вмешательства. Аргентинские власти могут расценить отказ как дипломатическую пощёчину.",
+      "perspective_type": "from_source",
+      "sources": [
+        "Agência Brasil"
+      ],
+      "links": [
+        "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/moraes-nega-pedido-para-javier-milei-visitar-bolsonaro-em-casa"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-18",
+      "id": "2f5bf75d947b"
+    },
+    {
+      "title_ru": "Политики пытаются влиять на ответы чат-ботов о себе в предвыборной гонке",
+      "title_en": "Politicians Are Trying to Change What Chatbots Say About Them",
+      "date": "2026-07-19",
+      "summary_en": "As AI chatbots become a growing source of information for voters, political campaigns and lawmakers are increasingly attempting to influence or correct what AI models say about them. The New York Times reports on a wave of efforts by politicians to shape their digital narratives in AI systems ahead of elections.",
+      "summary": "По мере того как ИИ-чат-боты становятся всё более популярным источником информации для избирателей, политические кампании и законодатели активно пытаются влиять на то, что модели ИИ говорят о них. The New York Times сообщает о волне попыток политиков формировать свой цифровой образ в системах ИИ в преддверии выборов.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "The New York Times"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-19",
+      "id": "6ebbcd4994ed"
+    },
+    {
+      "title_ru": "OpenAI начал показывать коэффициенты ставок Kalshi на ЧМ-2026 в ChatGPT",
+      "title_en": "OpenAI Is Showing Kalshi's World Cup Odds in ChatGPT",
+      "date": "2026-07-14",
+      "summary_en": "OpenAI has integrated odds from prediction market Kalshi into ChatGPT, displaying World Cup match probabilities directly in the chatbot interface. The move marks a significant step in blending AI assistants with real-time betting and prediction market data, raising questions about regulation and responsible AI deployment.",
+      "summary": "OpenAI интегрировал коэффициенты букмекерского рынка предсказаний Kalshi в ChatGPT — теперь чат-бот показывает вероятности исходов матчей ЧМ-2026. Это заметный шаг к слиянию ИИ-ассистентов с данными ставок и рынков предсказаний в реальном времени, что поднимает вопросы о регулировании и ответственном использовании ИИ.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "The New York Times"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-14",
+      "id": "44532e240245"
     }
   ],
   "_stats": {
-    "total_tokens": 149639,
-    "total_cost": 16.026699999999998
+    "total_tokens": 176686,
+    "total_cost": 18.868053999999997
   }
 }
