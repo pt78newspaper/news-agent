@@ -1047,10 +1047,191 @@
       "is_development": false,
       "first_reported": "2026-07-14",
       "id": "44532e240245"
+    },
+    {
+      "title_ru": "Испания обыграла Аргентину 1:0 в финале ЧМ-2026 и завоевала второй титул",
+      "title_en": "Spain beats Argentina 1-0 to win second World Cup title",
+      "date": "2026-07-20",
+      "summary_en": "Spain defeated Argentina 1-0 in extra time in the 2026 FIFA World Cup final, with Ferran Torres scoring the winning goal. Lionel Messi ended his World Cup career in tears; Kylian Mbappé won the Golden Boot. The match was marred by a post-final brawl and a separate tragedy — a teenager died during celebrations in Spain. The closing ceremony featured Post Malone, while BTS, Shakira and Madonna performed at the first-ever final halftime show.",
+      "summary": "Сборная Испании обыграла Аргентину со счётом 1:0 в дополнительное время в финале ЧМ-2026 благодаря голу Феррана Торреса. Лионель Месси завершил карьеру на чемпионатах мира со слезами; Килиан Мбаппе стал лучшим бомбардиром турнира. Финал омрачён дракой игроков после свистка, а также гибелью подростка во время празднований в Испании. На церемонии закрытия выступил Post Malone, а в первом в истории хавтайм-шоу финала — BTS, Шакира и Мадонна.",
+      "category": "politics",
+      "perspective": "Левые/прогрессисты — триумф красивой игры и мультикультурализма; правые/националисты — повод для гордости за европейский футбол; анти-ФИФА активисты — отвлекающий манёвр на фоне коррупционных скандалов и спорного расширения до 64 команд.",
+      "perspective_type": "assumed",
+      "sources": [
+        "BBC Sport",
+        "DW",
+        "TASS",
+        "Indian Express",
+        "NYT",
+        "The Hindu",
+        "NPR"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/sport/football/articles/cdx8veqllw7o",
+        "https://www.dw.com/en/spain-wins-second-world-cup-after-beating-argentina-in-final/a-78029285",
+        "https://tass.com/sports/2162279",
+        "https://indianexpress.com/article/sports/football/ferran-torres-strike-spain-defeat-argentina-1-0-world-cup-final-10794150/",
+        "https://www.nytimes.com/2026/07/19/world/europe/fifa-world-cup-final.html",
+        "https://www.thehindu.com/sport/football/teen-dies-during-spain-world-cup-celebrations-local-authorities/article71244895.ece",
+        "https://www.npr.org/2026/07/19/nx-s1-5888626/world-cup-halftime-final-show-bts-madonna-shakira-burna-boy-chris-martin-muppets-bieber"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-20",
+      "id": "3524a412b733"
+    },
+    {
+      "title_ru": "Энди Бёрнем официально вступил в должность премьер-министра Великобритании",
+      "title_en": "Andy Burnham takes office as UK Prime Minister after meeting King Charles",
+      "date": "2026-07-20",
+      "summary_en": "Andy Burnham was formally appointed UK Prime Minister after meeting King Charles III, becoming the seventh PM in a decade and the first openly Roman Catholic to hold the office. He succeeds Keir Starmer, who stepped down saying his 'work is done.' Burnham, known as the 'King of the North,' promised stability and a 'new path for Britain' in his first speech at Downing Street.",
+      "summary": "Энди Бёрнем официально вступил в должность премьер-министра Великобритании после аудиенции у короля Карла III, став седьмым премьером за десять лет и первым открытым католиком на этом посту. Он сменил Кира Стармера, заявившего, что его «работа сделана». Бёрнем, известный как «Король Севера», в первой речи у Даунинг-стрит пообещал стабильность и «новый путь для Британии».",
+      "category": "politics",
+      "perspective": "Левое крыло лейбористов — надежда на возврат к корням; консерваторы — седьмой премьер за 10 лет как симптом нестабильности; центристы — осторожный оптимизм; профсоюзы — ожидание социальной повестки.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The Guardian",
+        "BBC News",
+        "DW",
+        "TASS",
+        "NYT",
+        "NPR",
+        "Indian Express"
+      ],
+      "links": [
+        "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-uk-prime-minister-meeting-king-charles",
+        "https://www.bbc.co.uk/news/articles/clyv9qe6wj7o",
+        "https://www.dw.com/en/uk-andy-burnham-takes-office-as-seventh-pm-in-10-years/a-78032335",
+        "https://tass.com/world/2162565",
+        "https://www.nytimes.com/2026/07/20/world/europe/burnham-openly-roman-catholic-prime-minister.html",
+        "https://www.npr.org/2026/07/19/nx-s1-5895993/andy-burnham-prime-minister-keir-starmer",
+        "https://indianexpress.com/article/world/andy-burnham-uk-prime-minister-keir-starmer-resigns-10795200/"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-20",
+      "id": "e1bf238a8620"
+    },
+    {
+      "title_ru": "Конфликт США и Ирана: девятая ночь ударов, трое военных США убиты, нефть выше $91",
+      "title_en": "US-Iran war escalates: 9th night of strikes, 3 US troops killed, oil surges past $91",
+      "date": "2026-07-20",
+      "summary_en": "The US-Iran conflict entered its ninth consecutive night of American strikes, with three US service members killed in Jordan by an Iranian attack. Iran struck US bases in Kuwait with one-way attack drones and claimed destruction of a US military aircraft. Brent crude rose above $91/barrel for the first time since June 11. Iran confirmed receiving mediators' ceasefire proposals, while the US vowed to secure the Strait of Hormuz even without a deal.",
+      "summary": "Конфликт США и Ирана: девятая ночь подряд американских ударов; трое военнослужащих США погибли в Иордании при иранской атаке. Иран нанёс удары беспилотниками по базам США в Кувейте и заявил об уничтожении американского военного самолёта. Нефть Brent превысила $91 за баррель — максимум с 11 июня. Иран подтвердил получение предложений о прекращении огня через посредников; США обязались обеспечить свободный проход в Ормузском проливе.",
+      "category": "politics",
+      "perspective": "Ястребы в Конгрессе — требуют эскалации; антивоенные демократы — предупреждают о катастрофической войне; союзники Ирана (Россия, Китай) — осуждают агрессию США; нефтяные рынки — паника из-за угрозы Ормузскому проливу.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The Guardian",
+        "BBC News",
+        "DW",
+        "NPR",
+        "TASS",
+        "IRNA",
+        "NYT",
+        "Indian Express"
+      ],
+      "links": [
+        "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
+        "https://www.bbc.co.uk/news/articles/cly52xzjd3qo",
+        "https://www.dw.com/en/iran-war-us-conducts-strikes-for-9th-night-in-a-row/live-78030432",
+        "https://www.npr.org/2026/07/20/nx-s1-5900601/us-iran-updates",
+        "https://tass.com/world/2162499",
+        "https://en.irna.ir/news/86214128/Iran-confirms-receiving-mediators-proposals-aimed-at-de-escalating",
+        "https://www.nytimes.com/live/2026/07/20/world/iran-war-strikes-trump-hormuz/iran-shipped-billions-in-oil-during-its-cease-fire-with-the-us",
+        "https://indianexpress.com/article/world/iran-oil-tankers-exploded-strait-of-hormuz-us-strikes-ninth-night-10794397/"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-20",
+      "id": "3cc7406dd9f1"
+    },
+    {
+      "title_ru": "Атаки БПЛА на Россию: пострадали железнодорожники в Курской области, новые удары по Подмосковью",
+      "title_en": "Drone attacks on Russia: railway workers wounded in Kursk, new strikes on Moscow region",
+      "date": "2026-07-20",
+      "summary_en": "Five railway workers were wounded in a drone attack on the Lgov station in Kursk region. Overnight, 10 people were injured in drone strikes on the Moscow region, and workers were evacuated from a Wildberries warehouse in Kolyodino. Earlier, a massive attack on Wildberries logistics centers in Elektrostal and Kotovsk killed several people and injured dozens; Russia's Investigative Committee opened terrorism cases.",
+      "summary": "Пять железнодорожников пострадали при атаке БПЛА на станцию Льгов в Курской области. Ночью 10 человек пострадали при ударах по Подмосковью; рабочие эвакуированы со склада Wildberries в Коледино. Ранее массированные атаки на логистические центры Wildberries в Электростали и Котовске привели к гибели и десяткам раненых; СК возбудил дела о терактах.",
+      "category": "politics",
+      "perspective": "Российские власти — квалифицируют как терроризм и военные преступления; украинские официальные источники — удары по военной логистике; западные правительства — спектр реакций от осуждения до молчания; правозащитники — обеспокоенность ударами по гражданской инфраструктуре.",
+      "perspective_type": "assumed",
+      "sources": [
+        "TASS",
+        "Kommersant",
+        "Lenta.ru",
+        "Vedomosti"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/27933929",
+        "https://www.kommersant.ru/doc/8830530",
+        "https://www.kommersant.ru/doc/8830283",
+        "https://lenta.ru/news/2026/07/20/stalo-izvestno-o-zhertve-i-13-postradavshih-pri-atake-vsu-na-rossiyskiy-region/",
+        "https://www.kommersant.ru/doc/8829654"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-20",
+      "id": "ab7b38ba35f4"
+    },
+    {
+      "title_ru": "NYT: Пентагон скрыл данные о десятках раненых военнослужащих в Иордании после атак Ирана",
+      "title_en": "NYT: Pentagon concealed data on dozens of wounded US servicemen in Jordan after Iran attacks",
+      "date": "2026-07-20",
+      "summary_en": "The New York Times revealed that the Pentagon withheld information about dozens of wounded American service members in Jordan following Iranian attacks. The report raises questions about military transparency and the true scale of casualties in the escalating US-Iran conflict, as the official narrative initially focused on three soldiers killed.",
+      "summary": "Газета The New York Times сообщила, что Пентагон скрыл данные о десятках раненых американских военнослужащих в Иордании после иранских атак. Публикация поднимает вопросы о прозрачности военного командования и реальных масштабах потерь на фоне эскалации конфликта США и Ирана, где официально сообщалось лишь о трёх погибших.",
+      "category": "politics",
+      "perspective": "Демократы и правозащитники — требуют расследования сокрытия данных; республиканцы-ястребы — оправдывают секретность оперативной необходимостью; антивоенные активисты — свидетельство того, что война гораздо кровопролитнее официальной картины; международное сообщество — опасения эскалации без должного парламентского надзора.",
+      "perspective_type": "from_source",
+      "sources": [
+        "Vedomosti",
+        "Kommersant",
+        "NYT"
+      ],
+      "links": [
+        "https://www.vedomosti.ru/politics/news/2026/07/20/1215008-desyatki-ranenih-voennih",
+        "https://www.kommersant.ru/doc/8830477"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-20",
+      "id": "2bcba07fa83f"
+    },
+    {
+      "title_ru": "Джефф Безос и правительство Британии инвестируют £2 млрд в ИИ-стартап CuspAI",
+      "title_en": "Jeff Bezos and UK government invest £2bn in AI startup CuspAI",
+      "date": "2026-07-20",
+      "summary_en": "Jeff Bezos and the UK government have jointly invested in CuspAI, a British artificial intelligence startup now valued at £2 billion. The investment signals growing government backing for domestic AI champions amid intensifying global competition in artificial intelligence.",
+      "summary": "Джефф Безос и правительство Великобритании совместно инвестировали в британский ИИ-стартап CuspAI, оцениваемый в £2 млрд. Инвестиция демонстрирует растущую государственную поддержку национальных ИИ-компаний на фоне обострения глобальной конкуренции в сфере искусственного интеллекта.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "The Guardian"
+      ],
+      "links": [
+        "https://www.theguardian.com/technology/2026/jul/20/jeff-bezos-uk-government-invest-in-2bn-british-startup-cuspai"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-20",
+      "id": "df4cbf0bc9a2"
+    },
+    {
+      "title_ru": "Возраст деревянных копий из Шёнингена вновь оценили в 300 тысяч лет",
+      "title_en": "Schöningen wooden spears re-dated to 300,000 years using new methods",
+      "date": "2026-07-20",
+      "summary_en": "Scientists have re-dated the famous wooden spears from Schöningen, Germany, confirming their age at approximately 300,000 years using new analytical methods. The spears, among the oldest known wooden hunting weapons, provide crucial evidence of early human cognitive and technological capabilities during the Lower Paleolithic.",
+      "summary": "Учёные повторно датировали знаменитые деревянные копья из Шёнингена (Германия) с помощью новых аналитических методов, подтвердив их возраст около 300 тысяч лет. Эти копья — одни из древнейших известных деревянных охотничьих орудий — служат ключевым свидетельством когнитивных и технологических способностей ранних людей нижнего палеолита.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "N+1"
+      ],
+      "links": [
+        "https://nplus1.ru/news/2026/07/20/new-dating-of-schoeningen"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-20",
+      "id": "22c8383c30b7"
     }
   ],
   "_stats": {
-    "total_tokens": 176686,
-    "total_cost": 18.868053999999997
+    "total_tokens": 209177,
+    "total_cost": 22.402189999999997
   }
 }
