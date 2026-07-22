@@ -1409,10 +1409,188 @@
       "is_development": false,
       "first_reported": "2026-07-21",
       "id": "7e23ca603d33"
+    },
+    {
+      "title_ru": "Масштабная атака БПЛА на юг России: более 800 дронов, удары по складам Wildberries и нефтебазам, жертвы",
+      "title_en": "Massive Drone Attack on Southern Russia: 800+ UAVs Strike Wildberries Warehouses and Oil Depots, Casualties Reported",
+      "date": "2026-07-22",
+      "summary_en": "On the night of July 22, over 800 drones attacked southern Russia, striking Wildberries warehouses in Krasnodar and Nevinnomyssk, causing massive fires. One injured woman died in hospital and at least 10 others were wounded. The Investigative Committee opened a terrorism case. An oil depot in the Krasnodar region also caught fire, and resorts along Crimea's southern coast were blacked out. The Ministry of Defense stated air defenses intercepted the majority of drones. This marks a sharp escalation from the previous day's record of 655 drones.",
+      "summary": "В ночь на 22 июля более 800 беспилотников атаковали юг России. Удары пришлись на склады Wildberries в Краснодаре и Невинномысске — возникли масштабные пожары, работа складов приостановлена. Одна пострадавшая скончалась в больнице, не менее 10 раненых. СКР возбудил дело о теракте. Также атакована нефтебаза в Краснодарском крае, обесточены курорты Южного берега Крыма. Минобороны РФ отчиталось о перехвате большинства дронов. Это резкая эскалация после рекордных 655 дронов днём ранее.",
+      "category": "politics",
+      "perspective": "Российские власти характеризуют атаки как террористический акт против гражданской инфраструктуры; СКР возбудил уголовное дело о теракте. Кремль (Песков) опроверг использование складов Wildberries для военных поставок. ООН заявила, что атаки на склады могут квалифицироваться как военные преступления. Украинская сторона традиционно не комментирует удары по территории РФ. Рынок отреагировал падением акций Ozon на 8%.",
+      "perspective_type": "from_source",
+      "sources": [
+        "tass.ru",
+        "kommersant.ru",
+        "lenta.ru",
+        "vedomosti.ru"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/27941219",
+        "https://lenta.ru/news/2026/07/22/minoborony-vypustilo-zayavlenie-posle-ataki/",
+        "https://www.kommersant.ru/doc/8832136",
+        "https://www.kommersant.ru/doc/8831985",
+        "https://www.kommersant.ru/doc/8831837",
+        "https://www.kommersant.ru/doc/8831753"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-22",
+      "id": "da30a25f47e0"
+    },
+    {
+      "title_ru": "Война США и Ирана: 11-я волна ударов, стоимость $37,5 млрд, Трамп угрожает ядерным объектам",
+      "title_en": "US-Iran War: 11th Wave of Strikes, $37.5B Cost, Trump Threatens Underground Nuclear Sites",
+      "date": "2026-07-22",
+      "summary_en": "The US launched its 11th wave of strikes against Iran. Defense Secretary Hegseth testified before the Senate that the war has cost $37.5 billion so far; anti-war protesters disrupted his testimony. Secretary of State Rubio said the US does not believe Iran is serious about negotiations and signaled no letup. Trump threatened to attack Iran's underground nuclear site. The Pentagon confirmed a third US soldier killed. Houthis in Yemen are edging closer to entering the conflict. Norway's Equinor doubled profits to $11.5 billion amid the war.",
+      "summary": "США нанесли 11-ю волну ударов по Ирану. Глава Пентагона Хегсет на слушаниях в Сенате заявил, что война обошлась в $37,5 млрд; его выступление прервали антивоенные протестующие. Госсекретарь Рубио заявил, что США не верят в серьёзность Ирана в переговорах, и сигнализировал о продолжении ударов. Трамп пригрозил ударами по подземному ядерному объекту. Пентагон подтвердил гибель третьего американского солдата. Хуситы в Йемене приближаются к вступлению в конфликт. Норвежская Equinor удвоила прибыль до $11,5 млрд на фоне войны.",
+      "category": "politics",
+      "perspective": "Администрация Трампа настаивает на продолжении военной кампании, считая Иран несерьёзным в переговорах (Рубио: «Иран не серьёзен»). Демократы в Сенате жёстко критикуют Хегсета за растущие расходы ($37,5 млрд) и отсутствие стратегии выхода. Антивоенное движение в США усиливается — протестующие сорвали слушания в Сенате. Иран заявляет, что «военная история пишется воздействием, а не числом смертей», и требует репараций. Соседи Ирана (Иордания, Пакистан) опасаются быть втянутыми. Нефтяные компании получают сверхприбыли.",
+      "perspective_type": "from_source",
+      "sources": [
+        "nytimes.com",
+        "bbc.co.uk",
+        "theguardian.com",
+        "dw.com",
+        "tass.com",
+        "en.irna.ir"
+      ],
+      "links": [
+        "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
+        "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo",
+        "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
+        "https://www.dw.com/en/hegseth-says-iran-war-has-cost-37-5-billion-so-far/live-78060128",
+        "https://en.irna.ir/news/86216498/War-history-is-written-by-impact-not-by-number-of-deaths-Iran-s",
+        "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html",
+        "https://www.theguardian.com/world/2026/jul/22/norway-national-oil-company-equinor-profits-double-115bn-war-iran"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-22",
+      "id": "401762260259"
+    },
+    {
+      "title_ru": "Протесты в Дели: Рахул Ганди поддержал студентов, полицейские разгоны продолжаются, парламент в тупике",
+      "title_en": "Delhi Protests: Rahul Gandhi Backs Student Demands, Police Crackdown Continues, Parliament Deadlocked",
+      "date": "2026-07-22",
+      "summary_en": "The CJP-led protests at Jantar Mantar in Delhi continued for a third day. Congress leader Rahul Gandhi visited the site, endorsed all student demands, and called on PM Modi to apologize for exam paper leaks. Police used lathi-charge and tear gas against solidarity protesters in Patna. Naseeruddin Shah, Hanumankind, and Malayalam actors voiced support, while lyricist Manoj Muntashir called the protest 'hijacked by desh drohis.' Parliament remained deadlocked as the opposition demanded Education Minister Dharmendra Pradhan's resignation. This is being described as Modi's first broad-based protest not driven by specific interest groups.",
+      "summary": "Протесты CJP в Jantar Mantar (Дели) продолжились третий день. Лидер Конгресса Рахул Ганди посетил протестующих и поддержал все требования студентов, призвав премьера Моди извиниться за утечки экзаменационных материалов. Полиция применила дубинки и слезоточивый газ против демонстрантов в Патне. Насируддин Шах, Хануманкинд и малаяламские актёры выступили в поддержку, тогда как поэт Манодж Мунташир заявил, что протест «захвачен desh drohis». Парламент парализован: оппозиция требует отставки министра образования Дхармендры Прадхана.",
+      "category": "politics",
+      "perspective": "Конгресс и оппозиция (Рахул Ганди) полностью поддерживают протестующих, требуя отставки министра и извинений от Моди. AAP обвиняет Конгресс в «работе с BJP». Правящая BJP и её сторонники (Манодж Мунташир) характеризуют протест как захваченный «врагами нации». Полиция Дели приказала сотрудникам быть только в форме, без гражданской одежды. Протест описывается как первое широкое движение против Моди, не связанное с отдельными группами интересов.",
+      "perspective_type": "from_source",
+      "sources": [
+        "thehindu.com",
+        "indianexpress.com"
+      ],
+      "links": [
+        "https://www.thehindu.com/news/national/cjp-jantar-mantar-protest-live-updates-rahul-gandhi-news-abhijeet-dipke-sonam-wangchuk-saurav-das-parliament-session/article71251952.ece",
+        "https://indianexpress.com/article/cities/delhi/cjp-protest-news-jantar-mantar-live-updates-rahul-gandhi-congress-sonam-wangchuk-hunger-strike-dharmendra-pradhan-10797557/",
+        "https://indianexpress.com/article/political-pulse/how-modi-faces-his-first-broad-based-protest-ever-not-one-by-specific-interest-groups-10797401/",
+        "https://indianexpress.com/article/cities/patna/jantar-mantar-stir-patna-police-lathi-charge-tear-gas-protesters-10798132/",
+        "https://indianexpress.com/article/trending/trending-in-india/sridhar-vembu-on-cjp-protest-s-gurumurthy-delhi-protests-10798391/"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-22",
+      "id": "d59115d4f471"
+    },
+    {
+      "title_ru": "США отказались передавать Украине $400 млн утверждённой Конгрессом военной помощи",
+      "title_en": "US Withholds $400 Million in Congress-Approved Military Aid to Ukraine",
+      "date": "2026-07-22",
+      "summary_en": "The Trump administration has refused to transfer $400 million in military aid to Ukraine that was previously approved by Congress. The decision marks a significant shift in US support for Kyiv. Simultaneously, Secretary of State Rubio announced plans to discuss Ukraine with Russian Foreign Minister Sergey Lavrov, signaling a potential diplomatic track.",
+      "summary": "Администрация Трампа отказалась передавать Украине $400 млн военной помощи, ранее утверждённой Конгрессом США. Это решение знаменует существенный сдвиг в американской поддержке Киева. Параллельно госсекретарь Рубио анонсировал планы обсудить украинский вопрос с главой МИД РФ Лавровым, что может указывать на новый дипломатический курс.",
+      "category": "politics",
+      "perspective": "Для сторонников Украины это воспринимается как предательство и ослабление Киева в критический момент войны. Администрация Трампа оправдывает решение пересмотром приоритетов и стремлением к мирному урегулированию. Россия приветствует сокращение военной помощи как шаг к деэскалации. Европейские союзники обеспокоены сигналом, который это посылает относительно надёжности американских гарантий безопасности.",
+      "perspective_type": "assumed",
+      "sources": [
+        "kommersant.ru",
+        "vedomosti.ru",
+        "lenta.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8831811",
+        "https://www.vedomosti.ru/politics/news/2026/07/22/1215531-ssha-otkazalis-peredavat",
+        "https://lenta.ru/news/2026/07/22/long-ssha-otkazalis-peredavat-ukraine-voennuyu-pomosch-na-400-millionov-dollarov-v-chem-prichina/",
+        "https://tass.com/world/2163539"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-22",
+      "id": "55ad43bb165f"
+    },
+    {
+      "title_ru": "Госдума приняла пакет законов: ограничения для релокантов, выдворение мигрантов и регулирование криптовалют",
+      "title_en": "Russian State Duma Passes Laws on Relocants, Migrant Deportation, and Cryptocurrency Regulation",
+      "date": "2026-07-22",
+      "summary_en": "The Russian State Duma adopted a series of significant laws. Restrictions were introduced for 'relocants' — citizens who left Russia. The list of offenses warranting migrant deportation was expanded from 22 to 45 articles of the Administrative Code. A landmark law on cryptocurrency market regulation was passed, and electronic wallets were included in the deposit insurance system. Foreign investors were denied the right to reclaim assets. A law on credit holidays for participants in counter-terrorism operations in border regions was also adopted.",
+      "summary": "Госдума РФ приняла пакет значимых законов. Введены ограничения для релокантов — покинувших страну граждан. Перечень статей КоАП для выдворения мигрантов расширен с 22 до 45. Принят закон о регулировании крипторынка, а электронные кошельки включены в систему страхования вкладов. Иностранные инвесторы лишены права на возврат активов. Также принят закон о кредитных каникулах для участников КТО в приграничье.",
+      "category": "politics",
+      "perspective": "Власти характеризуют законы как защиту национальных интересов, суверенитета и безопасности. Релоканты и оппозиция видят в этом ужесточение репрессивной политики и «закрытие дверей». Бизнес-сообщество преимущественно позитивно оценивает регулирование криптовалют. Правозащитники критикуют расширение оснований для выдворения мигрантов. Иностранные инвесторы негативно восприняли лишение права на возврат активов.",
+      "perspective_type": "assumed",
+      "sources": [
+        "kommersant.ru",
+        "vedomosti.ru"
+      ],
+      "links": [
+        "https://www.vedomosti.ru/politics/news/2026/07/22/1215627-gosduma-prinyala-zakoni",
+        "https://www.kommersant.ru/doc/8831672",
+        "https://www.kommersant.ru/doc/8831565",
+        "https://www.kommersant.ru/doc/8831554",
+        "https://www.kommersant.ru/doc/8831487",
+        "https://www.kommersant.ru/doc/8831410"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-22",
+      "id": "f466e3817749"
+    },
+    {
+      "title_ru": "В Атлантике найден затонувший в 1952 году пассажирский самолёт Douglas DC-4",
+      "title_en": "Douglas DC-4 Passenger Aircraft That Crashed in 1952 Found in Atlantic Ocean",
+      "date": "2026-07-22",
+      "summary_en": "The wreckage of a Douglas DC-4 passenger aircraft that crashed 74 years ago in 1952 has been discovered in the Atlantic Ocean near Puerto Rico. The aircraft went missing during a flight and its location remained unknown for over seven decades. The discovery sheds new light on one of the longstanding aviation mysteries of the mid-20th century.",
+      "summary": "В Атлантическом океане у побережья Пуэрто-Рико обнаружены обломки пассажирского самолёта Douglas DC-4, потерпевшего крушение в 1952 году — 74 года назад. Местоположение воздушного судна оставалось неизвестным более семи десятилетий. Находка проливает свет на одну из давних авиационных загадок середины XX века.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "nplus1.ru",
+        "lenta.ru",
+        "kommersant.ru"
+      ],
+      "links": [
+        "https://nplus1.ru/news/2026/07/22/douglas-dc-4",
+        "https://lenta.ru/news/2026/07/22/poterpevshiy-krushenie-70-let-nazad-samolet-nashli-v-atlantike/",
+        "https://www.kommersant.ru/doc/8831751"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-22",
+      "id": "fe77598dbe63"
+    },
+    {
+      "title_ru": "Трамп ввёл 50% пошлины на товары из Канады и готовит тарифы против 60 стран",
+      "title_en": "Trump Imposes 50% Tariffs on Canadian Goods, Prepares Tariffs Against 60 Countries",
+      "date": "2026-07-22",
+      "summary_en": "President Trump imposed 50% tariffs on select Canadian goods, stating they are unrelated to the wildfire situation. According to the Financial Times, the White House is also preparing new tariffs on goods from 60 countries. Canada reacted negatively to the new duties. Brazil's Vice President Alckmin stated the country will not 'retaliate' but will respond in a timely and reciprocal manner, emphasizing that 'reciprocity is not retaliation.' Separately, Trump is reportedly pushing to install FIFA President Infantino as UN Secretary General.",
+      "summary": "Президент Трамп ввёл 50-процентные пошлины на некоторые канадские товары, подчеркнув, что они не связаны с лесными пожарами. По данным FT, Белый дом готовит новые тарифы на товары из 60 стран. Канада отреагировала негативно. Вице-президент Бразилии Алкмин заявил, что страна не будет «мстить», но ответит своевременно, подчеркнув: «взаимность — не возмездие». Также Трамп, по данным NYP, продвигает кандидатуру президента FIFA Инфантино на пост генсека ООН.",
+      "category": "politics",
+      "perspective": "Администрация Трампа оправдывает пошлины защитой американских экономических интересов. Канада считает 50-процентные пошлины несправедливыми и разрушительными для двусторонней торговли. Бразилия заняла сдержанную, но принципиальную позицию: «reciprocidade — не retaliação и не olho por olho». Экономисты предупреждают о риске разрастания глобальной торговой войны. Союзники США встревожены эскалацией протекционизма на фоне параллельных военных кризисов.",
+      "perspective_type": "from_source",
+      "sources": [
+        "kommersant.ru",
+        "vedomosti.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8831970",
+        "https://www.kommersant.ru/doc/8831505",
+        "https://www.kommersant.ru/doc/8831644",
+        "https://www.kommersant.ru/doc/8831479",
+        "https://www.kommersant.ru/doc/8830948",
+        "https://www.kommersant.ru/doc/8831760"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-22",
+      "id": "7ad65fd66443"
     }
   ],
   "_stats": {
-    "total_tokens": 238464,
-    "total_cost": 25.804185999999998
+    "total_tokens": 266189,
+    "total_cost": 29.110951999999997
   }
 }
