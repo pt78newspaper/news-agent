@@ -1587,10 +1587,194 @@
       "is_development": false,
       "first_reported": "2026-07-22",
       "id": "7ad65fd66443"
+    },
+    {
+      "title_ru": "США и Саудовская Аравия подписали историческое ядерное соглашение",
+      "title_en": "US and Saudi Arabia Sign Landmark Civil Nuclear Deal",
+      "date": "2026-07-23",
+      "summary_en": "The US and Saudi Arabia signed a historic civil nuclear cooperation agreement that could allow Saudi uranium enrichment. The deal has sparked fears in Israel of a Middle East nuclear arms race, while the Trump administration frames it as a strategic coup for Crown Prince Mohammed bin Salman and a counterweight to Iran.",
+      "summary": "США и Саудовская Аравия подписали историческое соглашение о сотрудничестве в области гражданской ядерной энергетики, которое потенциально допускает обогащение урана на саудовской территории. Сделка вызвала резкую обеспокоенность в Израиле из-за риска гонки ядерных вооружений на Ближнем Востоке. Администрация Трампа рассматривает соглашение как стратегический успех и усиление саудовского кронпринца.",
+      "category": "politics",
+      "sources": [
+        "BBC",
+        "DW",
+        "NYT",
+        "NPR",
+        "The Hindu",
+        "Indian Express",
+        "TASS"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cj03r59z73po",
+        "https://www.dw.com/en/us-and-saudi-arabia-reach-historic-nuclear-energy-deal/a-78077629",
+        "https://www.nytimes.com/2026/07/22/world/middleeast/saudi-nuclear-deal-israel.html",
+        "https://www.nytimes.com/2026/07/23/world/middleeast/saudi-arabia-nuclear.html",
+        "https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran",
+        "https://www.thehindu.com/news/international/israelis-fear-saudi-nuclear-deal-could-ignite-west-asia-arms-race/article71257084.ece",
+        "https://indianexpress.com/article/world/us-saudi-arabia-nuclear-deal-uranium-enrichment-10799398/",
+        "https://tass.com/world/2164197"
+      ],
+      "perspective": "Администрация Трампа: стратегическая победа — укрепление союза против Ирана, экономические выгоды для американских компаний. Израиль: тревога — допуск к обогащению урана создаёт прецедент для гонки вооружений, подрывает военное превосходство Израиля в регионе. Саудовская Аравия: дипломатический триумф кронпринца, признание регионального статуса. Иран: расценивает как элемент американского «окружения». Сторонники нераспространения: опасения, что соглашение ослабляет глобальный режим ядерного нераспространения.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-07-23",
+      "id": "70eff206b724"
+    },
+    {
+      "title_ru": "Лавров и Рубио провели переговоры в Маниле: «новые идеи» по Украине",
+      "title_en": "Lavrov and Rubio Hold Talks in Manila: 'New Ideas' on Ukraine",
+      "date": "2026-07-23",
+      "summary_en": "Russian Foreign Minister Sergey Lavrov and US Secretary of State Marco Rubio met in Manila for their first face-to-face talks. Rubio stated the US has 'new ideas' for Ukraine settlement, while Lavrov warned against continued weapons supplies to Ukraine and reminded Rubio of the Anchorage summit outcomes. The meeting lasted about half an hour.",
+      "summary": "Министр иностранных дел России Сергей Лавров и госсекретарь США Марко Рубио провели первые очные переговоры в Маниле. Рубио заявил о наличии у США «новых идей» по урегулированию конфликта на Украине. Лавров, в свою очередь, предупредил о недопустимости поставок оружия Украине и напомнил о результатах саммита в Анкоридже. Встреча продлилась около получаса.",
+      "category": "politics",
+      "sources": [
+        "Kommersant",
+        "Vedomosti",
+        "Lenta.ru",
+        "TASS"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8833021",
+        "https://www.kommersant.ru/doc/8832874",
+        "https://www.kommersant.ru/doc/8832698",
+        "https://www.kommersant.ru/doc/8832619",
+        "https://www.vedomosti.ru/politics/articles/2026/07/23/1215891-o-neobhodimosti-novih-idei",
+        "https://www.vedomosti.ru/politics/articles/2026/07/23/1215862-chem-polchasa-govorili",
+        "https://lenta.ru/news/2026/07/23/rubio-nazval-uslovie-uregulirovaniya-na-ukraine/",
+        "https://lenta.ru/news/2026/07/23/lavrov-rasskazal-rubio-pravdu-o-polozhenii-del-na-ukraine/"
+      ],
+      "perspective": "Россия: Лавров занял твёрдую позицию — поставки оружия Украине недопустимы, необходимо учитывать реалии «на земле». США: Рубио сигнализирует о готовности к новым дипломатическим подходам, но конкретные «новые идеи» не раскрыты. Украина: потенциальная обеспокоенность — любые прямые переговоры РФ и США без участия Киева могут затрагивать украинские интересы. Европа: наблюдает за возможным изменением американской позиции.",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-07-23",
+      "id": "ffb344b47668"
+    },
+    {
+      "title_ru": "Война США и Ирана: 12-я ночь ударов, атаки КСИР на базы США в Кувейте",
+      "title_en": "US-Iran War: 12th Night of Strikes, IRGC Attacks US Bases in Kuwait",
+      "date": "2026-07-23",
+      "summary_en": "The US launched its 12th consecutive night of strikes on Iran, while the IRGC carried out drone attacks on three US bases in Kuwait. Iran's Khatam al-Anbia headquarters warned the US against attacking Iranian infrastructure. The Health Ministry reported 53 killed and 592 wounded in recent US aggression. Iraqi PM visited Tehran for talks with President Pezeshkian. Yemen's Houthis claimed attacks on Red Sea tankers.",
+      "summary": "США нанесли 12-ю ночь ударов по Ирану подряд. Одновременно КСИР осуществил атаки беспилотников на три американские базы в Кувейте. Штаб «Хатам аль-Анбия» предупредил США о недопустимости ударов по иранской инфраструктуре. Минздрав Ирана сообщил о 53 погибших и 592 раненых. Премьер-министр Ирака прибыл в Тегеран на переговоры. Хуситы Йемена заявили об атаках на танкеры в Красном море.",
+      "category": "politics",
+      "sources": [
+        "IRNA",
+        "The Guardian",
+        "Indian Express",
+        "TASS"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86217315/Iranian-Army-launches-drone-attacks-on-three-US-bases-in-Kuwait",
+        "https://en.irna.ir/news/86216994/Khatam-al-Anbia-warns-US-against-attacking-infrastructure",
+        "https://en.irna.ir/news/86216793/53-martyred-592-wounded-in-recent-US-aggression-on-Iran-Health",
+        "https://en.irna.ir/news/86217368/President-Pezeshkian-officially-welcomes-Iraqi-prime-minister",
+        "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news",
+        "https://indianexpress.com/article/world/us-iran-war-news-live-updates-donald-trump-hormuz-shipping-west-asia-10799363/",
+        "https://tass.com/world/2163819"
+      ],
+      "perspective": "США: администрация Трампа продолжает военную кампанию, параллельно заключая стратегические сделки (ядерное соглашение с Саудовской Аравией). Иран: принцип «око за око» — удары по американским базам в регионе, предупреждения о недопустимости атак на инфраструктуру. Хуситы: действуют в координации с Ираном, атакуя судоходство в Красном море. Международное сообщество: растущая обеспокоенность расширением конфликта — удары по Кувейту и Иордании, экономические последствия (EasyJet: падение прибыли на 70% из-за цен на топливо).",
+      "perspective_type": "from_source",
+      "is_development": true,
+      "first_reported": "2026-07-23",
+      "id": "8627fdc5b191"
+    },
+    {
+      "title_ru": "Атаки ВСУ на регионы России: удар по дамбе, жертвы в Крыму и Белгородской области",
+      "title_en": "Ukrainian Attacks on Russian Regions: Dam Strike, Casualties in Crimea and Belgorod",
+      "date": "2026-07-23",
+      "summary_en": "Ukrainian forces struck the dam of the Belgorod reservoir, causing a water release. In Crimea, a night drone attack killed 2 and injured 5. In Belgorod region, 7 people were injured, including a groom near a registry office; a 3-year-old child was killed. A Turkish cargo ship was hit by a drone in the Black Sea, killing one person. Russian air defense shot down 7 aerial bombs and 480 drones in 24 hours.",
+      "summary": "ВСУ нанесли удар по дамбе Белгородского водохранилища, что привело к сбросу воды. В Крыму в результате ночной атаки беспилотников погибли 2 человека, 5 пострадали. В Белгородской области ранены 7 человек, включая жениха возле ЗАГСа; погиб трёхлетний ребёнок. В Чёрном море БПЛА атаковал турецкий сухогруз — один человек погиб. Российские ПВО за сутки сбили 7 авиабомб и 480 беспилотников.",
+      "category": "politics",
+      "sources": [
+        "Kommersant",
+        "TASS",
+        "Lenta.ru",
+        "Vedomosti"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8833012",
+        "https://www.kommersant.ru/doc/8832817",
+        "https://www.kommersant.ru/doc/8831525",
+        "https://www.kommersant.ru/doc/8832648",
+        "https://tass.ru/proisshestviya/27944851",
+        "https://tass.ru/proisshestviya/27944619",
+        "https://tass.ru/proisshestviya/27944637",
+        "https://lenta.ru/news/2026/07/23/gubernator-soobschil-o-zhertve-ataki-vsu-na-rossiyskiy-region/",
+        "https://www.vedomosti.ru/politics/news/2026/07/22/1215615-yalte-13-chelovek"
+      ],
+      "perspective": "Российские власти: характеризуют атаки как целенаправленный террор против гражданского населения и критической инфраструктуры. Военные: ПВО демонстрирует высокую эффективность (480 сбитых БПЛА за сутки), но массированность атак создаёт угрозу истощения. Международный аспект: атака на турецкий сухогруз расширяет географию конфликта, затрагивая интересы третьих стран. Гуманитарный аспект: рост жертв среди мирного населения, включая детей.",
+      "perspective_type": "from_source",
+      "is_development": true,
+      "first_reported": "2026-07-23",
+      "id": "e4b7147929ce"
+    },
+    {
+      "title_ru": "Протесты CJP в Индии: день 26-й, звёзды Болливуда поддержали студентов",
+      "title_en": "CJP Protests in India Day 26: Bollywood Stars Back Students, Anna Hazare Joins",
+      "date": "2026-07-23",
+      "summary_en": "Student protests over the NEET paper leak entered their 26th day. Bollywood celebrities Alia Bhatt, Salman Khan, and Huma Qureshi voiced support for the students. Activist Anna Hazare began a silent protest. Mumbai police faced backlash after an officer threatened to 'plant drugs' on protesters. Over half of those booked in protest FIRs are aged 25 or under. Sonam Wangchuk opened a window for talks with the government.",
+      "summary": "Студенческие протесты из-за утечки экзаменационных материалов NEET продолжаются 26-й день. Звёзды Болливуда — Алия Бхатт, Салман Хан и Хума Куреши — публично поддержали студентов. Активист Анна Хазаре начал молчаливую акцию протеста. Полиция Мумбаи оказалась в центре скандала: офицер угрожал «подбросить наркотики» протестующим. Более половины фигурантов дел о протестах — молодёжь до 25 лет. Сонам Вангчук открыл возможность для переговоров с правительством.",
+      "category": "politics",
+      "sources": [
+        "The Hindu",
+        "Indian Express",
+        "Times of India"
+      ],
+      "links": [
+        "https://www.thehindu.com/news/national/cjp-protest-jantar-mantar-delhi-police-stop-students-in-auto-rickshaws/article71257331.ece",
+        "https://www.thehindu.com/videos/shorts/watch-anna-hazare-begins-silent-protest-in-support-of-students-delhi-agitation/article71257471.ece",
+        "https://www.thehindu.com/news/national/will-plant-drugs-mumbai-cop-threatens-protesting-students-police-order-probe/article71257311.ece",
+        "https://indianexpress.com/article/entertainment/bollywood/alia-bhatt-backs-cjp-protest-says-their-courage-humbles-me-10799575/",
+        "https://indianexpress.com/article/entertainment/bollywood/salman-khan-supports-cjp-protest-heart-goes-out-to-students-who-were-hurt-10799091/",
+        "https://indianexpress.com/article/cities/mumbai/mumbai-police-data-more-than-half-booked-in-cjp-protest-firs-are-aged-25-year-or-under-10799245/",
+        "https://indianexpress.com/article/political-pulse/sonam-wangchuk-neet-cjp-protests-talks-government-compensation-dharmendra-pradhan-resignation-10799236/"
+      ],
+      "perspective": "Протестующие студенты: требуют справедливости после утечки NEET, пересдачи экзамена и отставки министра образования. Правительство Моди: жёсткая реакция полиции, запретительные ордера, попытки сдержать протесты. Болливуд: раскол — Алия Бхатт и Салман Хан поддержали студентов, Кангана Ранаут одобрила «решительные действия» правительства. Полиция: методы подвергаются критике — угрозы, отслеживание геолокации, домашние визиты. Оппозиция (Конгресс): поддерживает протестующих, парламент в тупике.",
+      "perspective_type": "from_source",
+      "is_development": true,
+      "first_reported": "2026-07-23",
+      "id": "577114f54505"
+    },
+    {
+      "title_ru": "Meta ведёт переговоры о сдаче вычислительных мощностей Anthropic на $10 млрд",
+      "title_en": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
+      "date": "2026-07-17",
+      "summary_en": "Meta is reportedly in discussions to lease significant computing power to AI company Anthropic in a deal that could be worth up to $10 billion. The arrangement would provide Anthropic with the infrastructure needed to train and run advanced AI models while giving Meta a major revenue stream from its AI hardware investments.",
+      "summary": "Meta ведёт переговоры о предоставлении вычислительных мощностей ИИ-компании Anthropic. Потенциальная сделка оценивается в $10 млрд. Соглашение обеспечит Anthropic необходимой инфраструктурой для обучения и запуска продвинутых ИИ-моделей, а Meta — значительным доходом от инвестиций в ИИ-оборудование.",
+      "category": "ai",
+      "sources": [
+        "NYT"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-07-17",
+      "id": "84bba0922f9b"
+    },
+    {
+      "title_ru": "Как с помощью промптов узнать, что ChatGPT и Gemini знают о вас",
+      "title_en": "How to Use ChatGPT and Gemini Prompts to Find Out What They Know About You",
+      "date": "2026-07-23",
+      "summary_en": "NYT's Personal Tech section published a guide on using specific prompts to discover what personal information AI assistants like ChatGPT and Gemini have stored about users. The article addresses growing privacy concerns as AI models retain and process user data from interactions.",
+      "summary": "Раздел персональных технологий NYT опубликовал руководство по использованию специальных промптов, позволяющих узнать, какую личную информацию ИИ-ассистенты — ChatGPT и Gemini — хранят о пользователях. Статья затрагивает растущие проблемы конфиденциальности, связанные с накоплением и обработкой пользовательских данных ИИ-моделями.",
+      "category": "tech",
+      "sources": [
+        "NYT"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/07/23/technology/personaltech/chatgpt-gemini-prompts-privacy.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-07-23",
+      "id": "596890b39639"
     }
   ],
   "_stats": {
-    "total_tokens": 266189,
-    "total_cost": 29.110951999999997
+    "total_tokens": 291496,
+    "total_cost": 31.988471999999998
   }
 }
