@@ -1771,10 +1771,193 @@
       "is_development": false,
       "first_reported": "2026-07-23",
       "id": "596890b39639"
+    },
+    {
+      "title_ru": "Иран наносит удары по базам США в Кувейте, Бахрейне и Иордании; Британия предупреждена КСИР",
+      "title_en": "Iran Strikes US Bases in Kuwait, Bahrain, Jordan; IRGC Warns Britain",
+      "date": "2026-07-24",
+      "summary_en": "Iran's Army and IRGC launched drone strikes on US military locations in Kuwait, Bahrain, and Jordan, including a claimed hit on an Amazon data centre in Bahrain, marking a new phase of retaliatory operations. The US completed another wave of strikes on Iran, while Trump stated Iran is not ready for a deal and combat operations must continue. The IRGC warned Britain against complicity in US-led aggression, and the UK declared itself ready to defend itself.",
+      "summary": "Армия и КСИР Ирана нанесли удары беспилотниками по военным объектам США в Кувейте, Бахрейне и Иордании, включая заявленное попадание по дата-центру Amazon в Бахрейне, что знаменует новую фазу ответных операций. США завершили очередную волну ударов по Ирану; Трамп заявил, что Иран не готов к сделке и боевые действия необходимо продолжать. КСИР предупредил Британию о последствиях соучастия в агрессии, Лондон заявил о готовности защищаться.",
+      "category": "politics",
+      "perspective": "С точки зрения Запада — агрессивная эскалация Ирана, угрожающая гражданской инфраструктуре и региональной стабильности. С точки зрения Ирана и его союзников — законный ответ на продолжающиеся американские бомбардировки и защита суверенитета.",
+      "perspective_type": "assumed",
+      "sources": [
+        "IRNA",
+        "The Hindu",
+        "TASS",
+        "The Guardian",
+        "Tehran Times"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86218064/Iran-hits-US-military-locations-in-Kuwait-Bahrain-in-new-phase",
+        "https://www.thehindu.com/news/international/west-asia-war-us-strikes-iran-shipping-routes-clashes-strait-of-hormuz-live-updates-july-24-2026/article71260769.ece",
+        "https://tass.com/world/2164641",
+        "https://tass.com/world/2164531",
+        "https://www.theguardian.com/world/2026/jul/23/uk-ready-to-defend-itself-iran-threat-us-bases",
+        "https://tass.com/world/2164421",
+        "https://en.irna.ir/news/86217597/IRGC-warns-Britain-against-continued-complicity-in-US-led-aggression",
+        "https://en.irna.ir/news/86217947/Iranian-Army-hits-US-bases-in-Jordan-and-Bahrain-with-drones"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-24",
+      "id": "d49f44467649"
+    },
+    {
+      "title_ru": "Трамп вводит 10% пошлины за «принудительный труд» против 60 стран, включая союзников",
+      "title_en": "Trump Imposes 10% 'Forced Labor' Tariffs on 60 Countries, Including Key Allies",
+      "date": "2026-07-24",
+      "summary_en": "The US imposed a new 10% 'forced labor' tariff on imports from approximately 60 countries, including the UK, EU, India, and Australia, replacing temporary tariffs struck down by the Supreme Court. Allies and trading partners reacted with confusion and objection, calling the justification unfounded. The move escalates Trump's tariff-centric trade policy.",
+      "summary": "США ввели новые 10-процентные пошлины за «принудительный труд» на импорт из примерно 60 стран, включая Великобританию, ЕС, Индию и Австралию, заменив временные тарифы, отменённые Верховным судом. Союзники и торговые партнёры выразили недоумение и протест, назвав обоснование безосновательным. Это новый виток тарифной политики Трампа.",
+      "category": "politics",
+      "perspective": "С точки зрения администрации Трампа — защита американских рабочих от недобросовестной конкуренции и принудительного труда. С точки зрения демократов и союзников — деструктивный «налог с продаж», который навредит американским потребителям и подорвёт альянсы.",
+      "perspective_type": "assumed",
+      "sources": [
+        "NPR",
+        "BBC",
+        "DW",
+        "The Guardian",
+        "The Hindu",
+        "Indian Express"
+      ],
+      "links": [
+        "https://www.npr.org/2026/07/24/nx-s1-5906301/us-global-trump-tariffs-reaction",
+        "https://www.bbc.co.uk/news/articles/cvgj61j6l08o",
+        "https://www.dw.com/en/why-trump-s-forced-labor-tariffs-leave-the-world-puzzled/a-78093903",
+        "https://www.theguardian.com/us-news/live/2026/jul/24/donald-trump-tariffs-white-house-correspondents-dinner-latest-news-updates",
+        "https://www.thehindu.com/news/national/us-tarifs-on-goods-imported-from-india/article71259860.ece",
+        "https://indianexpress.com/article/world/60-countries-hit-by-new-us-forced-labour-tariffs-whos-on-the-list-10801058/"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-24",
+      "id": "c7ea0a8ba7cf"
+    },
+    {
+      "title_ru": "Массированная атака ВСУ на склады и предприятия в Ленобласти, Кирове и Твери",
+      "title_en": "Massive Ukrainian Drone Strikes Hit Warehouses and Industrial Sites in Leningrad, Kirov, and Tver Regions",
+      "date": "2026-07-24",
+      "summary_en": "Ukrainian drones struck multiple targets across Russia, setting fire to a large warehouse complex in Leningrad Oblast, a logistics centre in Tver, and an industrial facility in Kirov where casualties were reported. Authorities closed roads and monitored air quality. This follows earlier strikes on Wildberries warehouses, an oil depot, and Crimean infrastructure.",
+      "summary": "Украинские беспилотники нанесли удары по нескольким целям в России: загорелся крупный складской комплекс в Ленинградской области, логистический центр в Твери и промышленное предприятие в Кирове, где пострадали люди. Власти перекрывали дороги и следили за качеством воздуха. Это продолжение серии атак на склады Wildberries, нефтебазы и другие объекты.",
+      "category": "politics",
+      "perspective": "С точки зрения России — террористические атаки на гражданскую инфраструктуру, поднимающие вопрос о допустимых пределах эскалации. С точки зрения Украины и западных союзников — легитимные удары по военной логистике противника.",
+      "perspective_type": "assumed",
+      "sources": [
+        "TASS",
+        "Lenta.ru",
+        "Vedomosti",
+        "Kommersant"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/27948971",
+        "https://lenta.ru/news/2026/07/24/poyavilis-kadry-pozhara-posle-ataki-vsu-na-skladskoy-kompleks-v-lenoblasti/",
+        "https://www.kommersant.ru/doc/8833538",
+        "https://www.vedomosti.ru/politics/news/2026/07/24/1216148-pri-raketnoi-atake",
+        "https://lenta.ru/news/2026/07/24/v-rossii-vyskazalis-o-totalnoy-voyne/",
+        "https://www.kommersant.ru/doc/8832791"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-24",
+      "id": "caaf5f7ef0ba"
+    },
+    {
+      "title_ru": "Сонам Вангчук прекратил 26-дневную голодовку; правительство Индии дало письменные гарантии",
+      "title_en": "Sonam Wangchuk Ends 26-Day Hunger Strike After Government Gives Written Assurances on Exam Reforms",
+      "date": "2026-07-24",
+      "summary_en": "Indian activist Sonam Wangchuk ended his 26-day hunger strike after meeting with Union ministers JP Nadda and Jitendra Singh, who provided written assurances on addressing exam paper leaks and punishing corrupt officials. The Cockroach Janta Party (CJP) protests continued with nationwide marches, as the youth-led movement demands broader accountability.",
+      "summary": "Активист Сонам Вангчук прекратил 26-дневную голодовку после встречи с министрами, которые предоставили письменные гарантии по борьбе с утечками экзаменационных материалов и наказанию коррумпированных чиновников. Однако протесты «Cockroach Janta Party» продолжились общенациональными маршами — молодёжное движение требует более широкой подотчётности власти.",
+      "category": "politics",
+      "perspective": "Правительство Моди подчёркивает готовность к диалогу и реформам; оппозиция и активисты считают уступки недостаточными и настаивают на системных изменениях. Движение рассматривается как проявление растущей политизации поколения Z в Индии.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The Guardian",
+        "The Hindu",
+        "Indian Express",
+        "DW",
+        "NPR",
+        "NYT"
+      ],
+      "links": [
+        "https://www.theguardian.com/world/2026/jul/24/india-cockroach-protest-sonam-wangchuk-ends-hunger-strike",
+        "https://www.thehindu.com/videos/sonam-wangchuk-reveals-govts-written-assurances-after-calling-off-fast/article71261731.ece",
+        "https://indianexpress.com/article/india/after-breaking-26-day-fast-sonam-wangchuk-says-hunger-doesnt-taste-bad-10801314/",
+        "https://www.dw.com/en/indian-activist-sonam-wangchuk-ends-hunger-strike/a-78076216",
+        "https://www.npr.org/2026/07/24/nx-s1-5906236/india-wangchuk-hunger-strike-cockroach-protesters",
+        "https://www.nytimes.com/2026/07/23/world/asia/sonam-wangchuk-india-hunger-strike-protests-modi.html"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-24",
+      "id": "bf76ece406f5"
+    },
+    {
+      "title_ru": "ЕС утвердил 21-й пакет санкций против России: под ударом Мосбиржа, Шереметьево и 170 организаций",
+      "title_en": "EU Approves 21st Sanctions Package Against Russia, Targeting Moscow Exchange, Sheremetyevo Airport, and 170 Entities",
+      "date": "2026-07-23",
+      "summary_en": "The European Union approved its 21st sanctions package against Russia, targeting the Moscow Exchange, Sheremetyevo and three other airports, dozens of banks and financial institutions, and 170 organizations plus 48 individuals, including Sports Minister Degtyarev and presidential aide Medinsky. The package also hits Belarus's Mozyr refinery.",
+      "summary": "Евросоюз утвердил 21-й пакет санкций против России, включив в него Мосбиржу, аэропорты Шереметьево и ещё три региональных, десятки банков и финансовых организаций, а также 170 организаций и 48 физических лиц, включая министра спорта Дегтярева и помощника президента Мединского. Санкции также затронули белорусский Мозырский НПЗ.",
+      "category": "politics",
+      "perspective": "С точки зрения ЕС — продолжение системного давления на российскую экономику для ограничения возможностей ведения войны. С точки зрения России — нелегитимные ограничения, наносящие ущерб простым гражданам и подрывающие международное экономическое сотрудничество.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Kommersant",
+        "Vedomosti",
+        "TASS",
+        "Lenta.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8833415",
+        "https://www.vedomosti.ru/politics/news/2026/07/23/1216050-21-i-paket-sanktsii",
+        "https://www.kommersant.ru/doc/8833298",
+        "https://www.vedomosti.ru/politics/news/2026/07/24/1216134-es-vvel-sanktsii",
+        "https://tass.ru/sport/27948889",
+        "https://lenta.ru/news/2026/07/24/evropeyskiy-soyuz-vvel-sanktsii-protiv-neskolkih-aeroportov-rossii/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-23",
+      "id": "85b046c34404"
+    },
+    {
+      "title_ru": "Google выпустил три новые модели ИИ Gemini",
+      "title_en": "Google Releases Three New Gemini AI Models",
+      "date": "2026-07-21",
+      "summary_en": "Google unveiled three new Gemini AI models, expanding its artificial intelligence capabilities across different scales and use cases. The release coincides with Alphabet reporting a quadrupling of profit to $112 billion, fueled by AI investments across its product ecosystem including search.",
+      "summary": "Google представил три новые модели искусственного интеллекта линейки Gemini, расширяя возможности ИИ для различных масштабов и сценариев использования. Выпуск совпал с отчётом Alphabet об увеличении прибыли в четыре раза — до $112 млрд — благодаря инвестициям в технологии ИИ.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "NYT"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html",
+        "https://www.nytimes.com/2026/07/22/technology/alphabet-google-earnings-profit.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-21",
+      "id": "27bec9383261"
+    },
+    {
+      "title_ru": "ЕС оштрафовал Google на €890 млн за нарушение правил конкуренции в поиске",
+      "title_en": "EU Fines Google €890 Million Over Search Engine Competition Violations",
+      "date": "2026-07-23",
+      "summary_en": "The European Union fined Google approximately €890 million ($1 billion) for violating competition rules related to its search engine practices. The penalty underscores the EU's continued regulatory pressure on Big Tech companies over antitrust concerns.",
+      "summary": "Европейский союз оштрафовал Google примерно на €890 млн ($1 млрд) за нарушение правил конкуренции в практике работы поисковой системы. Штраф подчёркивает продолжающееся регуляторное давление ЕС на технологических гигантов.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "NYT",
+        "DW"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/07/23/business/google-eu-fine-search-competition.html",
+        "https://www.dw.com/en/eu-fines-google-%E2%82%AC890-million-over-competition-rules/a-78082850"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-23",
+      "id": "7fd2d6113670"
     }
   ],
   "_stats": {
-    "total_tokens": 291496,
-    "total_cost": 31.988471999999998
+    "total_tokens": 319177,
+    "total_cost": 35.169934
   }
 }
