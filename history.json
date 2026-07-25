@@ -1954,10 +1954,172 @@
       "is_development": false,
       "first_reported": "2026-07-23",
       "id": "7fd2d6113670"
+    },
+    {
+      "title_ru": "Совет министров иностранных дел ШОС в Киргизии: подписано 25 документов о сотрудничестве",
+      "title_en": "SCO Foreign Ministers Meet in Kyrgyzstan, Sign 25 Cooperation Documents",
+      "date": "2026-07-24",
+      "summary_en": "Foreign ministers of SCO member states convened in Kyrgyzstan for a major multilateral meeting. Iran's Foreign Minister Araghchi held bilateral talks with Russian, Chinese, Pakistani, Belarusian, Kyrgyz, and Uzbek counterparts on the sidelines. Wang Yi called for strengthening the SCO's international standing, while Belarus voiced support for Iran's sovereignty. Altogether, 25 cooperation documents were signed.",
+      "summary": "В Киргизии прошла встреча министров иностранных дел государств ШОС — крупное многостороннее дипломатическое событие. Глава МИД Ирана Арагчи провёл двусторонние переговоры с коллегами из России, Китая, Пакистана, Белоруссии, Киргизии и Узбекистана. Ван И призвал укреплять международные позиции ШОС, Белоруссия выразила поддержку суверенитету Ирана. Всего подписано 25 документов о сотрудничестве.",
+      "category": "politics",
+      "perspective": "Для России, Китая и Ирана: укрепление альтернативного Западу многополярного блока, легитимация сотрудничества в обход санкций. Для Запада: консолидация «авторитарной оси», демонстративный вызов порядку, основанному на правилах. Для стран Глобального Юга: привлекательная площадка для многовекторной дипломатии.",
+      "perspective_type": "assumed",
+      "sources": [
+        "IRNA",
+        "TASS",
+        "Tehran Times"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86218121/SCO-FMs-sign-25-cooperation-documents-in-Kyrgyzstan-meeting",
+        "https://en.irna.ir/news/86218195/Iran-FM-meets-Chinese-Kyrgyz-Uzbek-counterparts-on-sidelines",
+        "https://en.irna.ir/news/86218096/Iran-FM-meets-Russian-counterpart-on-sidelines-of-SCO-conference",
+        "https://tass.com/world/2165123",
+        "https://tass.com/world/2164901"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-24",
+      "id": "1c4317190824"
+    },
+    {
+      "title_ru": "Трамп обсуждает с советниками масштабную эскалацию против Ирана",
+      "title_en": "Trump Meets Top Advisers, Weighs Major Military Escalation Against Iran",
+      "date": "2026-07-24",
+      "summary_en": "President Trump held meetings with top national security advisers to weigh a major escalation of military operations against Iran, according to the New York Times. This follows days of mutual strikes: Iran's attacks on US air defense systems in Jordan, and US strikes on Iranian targets and tankers in the Gulf of Oman. Trump stated that 'the time has not yet come' for a deal with Iran and that Iran 'has not yet felt enough pain.'",
+      "summary": "По данным NYT, президент Трамп провёл совещания с высшими советниками по нацбезопасности, обсуждая масштабную эскалацию военных действий против Ирана. Это происходит на фоне продолжающихся взаимных ударов: Иран атаковал объекты ПВО и ПРО США в Иордании, США нанесли удары по иранским целям и танкерам в Оманском заливе. Трамп заявил, что «время для сделки ещё не пришло» и Иран «ещё не испытал достаточно боли».",
+      "category": "politics",
+      "perspective": "Администрация Трампа / республиканцы: вынужденная демонстрация силы для сдерживания иранской агрессии, защита американских баз и союзников. Демократы и критики: безрассудная эскалация без санкции Конгресса, риск втягивания США в полномасштабную войну. Иран и союзники: агрессия США, нарушение суверенитета, оправдание ответных ударов.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The New York Times",
+        "Kommersant",
+        "The Guardian"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html",
+        "https://www.kommersant.ru/doc/8844295",
+        "https://www.kommersant.ru/doc/8833290",
+        "https://www.theguardian.com/world/2026/jul/24/irans-much-improved-missile-systems-pose-a-real-threat-to-the-us"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-24",
+      "id": "fc64bc74d859"
+    },
+    {
+      "title_ru": "Российский удар по военной выставке под Киевом: погибли польский и украинский чиновники",
+      "title_en": "Russian Strike on Military Exhibition Near Kyiv Kills Polish and Ukrainian Officials",
+      "date": "2026-07-25",
+      "summary_en": "Russian forces struck a weapons and drone exhibition near Kyiv, reportedly killing a senior Ukrainian state security official and an employee of a Polish defense firm, according to Defence24 and Russian state media. The Russian Defense Ministry stated the strike targeted a 'decision-making center.' President Zelensky commented on the attack, while Moscow framed it as a response to Ukrainian strikes on Russian territory.",
+      "summary": "Российские войска нанесли удар по выставке вооружений и беспилотников под Киевом. По данным Defence24 и российских госСМИ, погибли высокопоставленный сотрудник госохраны Украины и работник польской оборонной компании. Минобороны РФ заявило об ударе по «центру принятия решений». Зеленский прокомментировал атаку; в Москве её представили как ответ на украинские удары по территории России.",
+      "category": "politics",
+      "perspective": "Россия: легитимный удар по военному объекту, ответ на атаки ВСУ по складам в Ленобласти и другим целям. Украина и Запад: атака на объект с иностранными участниками, потенциальная эскалация с вовлечением стран НАТО, гибель граждан Польши — повод для ужесточения позиции Варшавы.",
+      "perspective_type": "assumed",
+      "sources": [
+        "TASS",
+        "Lenta.ru",
+        "Vedomosti",
+        "Kommersant"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/27951291",
+        "https://lenta.ru/news/2026/07/25/pri-udare-po-poligonu-pod-kievom-pogibla-odin-iz-rukovoditeley-gosohrany-ukrainy/",
+        "https://www.vedomosti.ru/politics/news/2026/07/24/1216340-udar-po-vistavke",
+        "https://lenta.ru/news/2026/07/24/minoborony-rossii-raskrylo-podrobnosti-udara-po-voennoy-vystavke-pod-kievom/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-25",
+      "id": "8fe88962cecf"
+    },
+    {
+      "title_ru": "Индия опровергает слова Ван И об уважении суверенитета Китая со strony Джайшанкара",
+      "title_en": "India Pushes Back on Wang Yi's Claim That Jaishankar 'Respects China's Sovereignty'",
+      "date": "2026-07-24",
+      "summary_en": "India's Ministry of External Affairs (MEA) publicly countered Chinese Foreign Minister Wang Yi's remarks, made after a meeting with India's External Affairs Minister Jaishankar in Manila, that India 'respects China's sovereignty.' The MEA stated that Wang Yi's characterization was inaccurate, highlighting ongoing diplomatic friction between the two Asian powers over border issues and mutual perceptions.",
+      "summary": "МИД Индии публично опроверг заявление министра иностранных дел Китая Ван И, сделанное после встречи с главой МИД Индии Джайшанкаром в Маниле, о том, что Индия «уважает суверенитет Китая». В Нью-Дели назвали такую характеристику неточной, что подчёркивает сохраняющуюся дипломатическую напряжённость между двумя державами на фоне пограничных споров.",
+      "category": "politics",
+      "perspective": "Индия: защита суверенитета от китайских нарративных манипуляций, недопущение односторонней трактовки позиции Нью-Дели. Китай: продвижение образа добрососедских отношений, Индия «необоснованно обостряет». Третьи страны: ещё одно свидетельство глубины индийско-китайских противоречий, затрудняющее формирование единого «азиатского блока».",
+      "perspective_type": "assumed",
+      "sources": [
+        "The Indian Express"
+      ],
+      "links": [
+        "https://indianexpress.com/article/india/delhi-counters-china-jaishankar-wang-yi-sovereignty-claims-manila-meeting-10802229/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-24",
+      "id": "f2925da66260"
+    },
+    {
+      "title_ru": "Трамп угрожает ЕС «существенными» пошлинами в ответ на штрафы против техногигантов США",
+      "title_en": "Trump Threatens EU with 'Substantial' Tariffs Over Fines on US Tech Giants",
+      "date": "2026-07-24",
+      "summary_en": "President Trump threatened to impose 'substantial' tariffs on the European Union in retaliation for EU fines and regulatory measures against US technology companies, notably Google's €890 million antitrust penalty. The warning, delivered via social media and official statements, marks a sharp escalation in transatlantic trade tensions and signals the administration's willingness to use trade policy to shield American tech firms from EU regulation.",
+      "summary": "Президент Трамп пригрозил ввести «существенные» пошлины против Евросоюза в ответ на штрафы и регуляторные меры в отношении американских технологических компаний, в частности — штраф Google в €890 млн за нарушение антимонопольного законодательства. Это заявление знаменует резкую эскалацию трансатлантической торговой напряжённости и демонстрирует готовность администрации использовать торговую политику для защиты техногигантов США.",
+      "category": "politics",
+      "perspective": "Администрация Трампа / республиканцы: защита американских компаний от несправедливого европейского регулирования, ЕС использует штрафы как скрытый протекционизм. Евросоюз: суверенное право регулировать рынок, попытка США запугать союзников пошлинами. Бизнес-сообщество: риск полномасштабной трансатлантической торговой войны с ущербом для обеих сторон.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The Guardian",
+        "DW",
+        "TASS",
+        "Kommersant",
+        "BBC"
+      ],
+      "links": [
+        "https://www.theguardian.com/us-news/2026/jul/24/trump-european-union-tariffs",
+        "https://www.dw.com/en/trump-threatens-eu-with-tariff-probe-over-google-tech-fines/a-78105954",
+        "https://tass.com/economy/2165039",
+        "https://www.kommersant.ru/doc/8844285",
+        "https://www.bbc.co.uk/news/articles/c1w10gwnj74o"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-24",
+      "id": "3589f5aef7e9"
+    },
+    {
+      "title_ru": "Соперничество США и Китая в сфере ИИ обостряется: китайские модели набирают силу",
+      "title_en": "US-China AI Rivalry Heats Up as Chinese Models Gain Ground",
+      "date": "2026-07-23",
+      "summary_en": "Chinese AI models are increasingly competitive with American counterparts, narrowing the gap in performance and adoption, according to analyses by DW and the New York Times. Silicon Valley is closely watching China's rapid progress in large language models and AI applications. The US is reportedly considering sanctions against Chinese AI companies, while the race for AI supremacy becomes a central axis of US-China strategic competition.",
+      "summary": "Китайские модели ИИ становятся всё более конкурентоспособными по сравнению с американскими, сокращая разрыв в производительности и распространении, — сообщают DW и NYT. Кремниевая долина внимательно следит за стремительным прогрессом Китая в области больших языковых моделей. США рассматривают санкции против китайских ИИ-компаний, а гонка за превосходство в ИИ становится центральной осью стратегического соперничества двух держав.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "DW",
+        "The New York Times",
+        "Kommersant"
+      ],
+      "links": [
+        "https://www.dw.com/en/us-china-ai-rivalry-heats-up-as-chinese-models-gain-ground/a-77899558",
+        "https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html",
+        "https://www.kommersant.ru/doc/8832680"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-23",
+      "id": "9e56ce0a48b8"
+    },
+    {
+      "title_ru": "Meta запускает отдельное приложение Facebook Marketplace под названием Seller",
+      "title_en": "Meta Launches Standalone Facebook Marketplace App Called 'Seller'",
+      "date": "2026-07-24",
+      "summary_en": "Meta has launched 'Seller,' a new standalone mobile application dedicated to Facebook Marketplace, according to the New York Times. The move aims to strengthen Meta's position in the peer-to-peer commerce space and compete more directly with platforms like eBay and Craigslist, while creating a dedicated channel for user-to-user transactions separate from the main Facebook app.",
+      "summary": "Meta запустила «Seller» — новое отдельное мобильное приложение для Facebook Marketplace, сообщает NYT. Этот шаг направлен на усиление позиций Meta в сфере peer-to-peer-торговли и прямую конкуренцию с платформами вроде eBay и Craigslist, а также на создание выделенного канала для пользовательских транзакций, отделённого от основного приложения Facebook.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "The New York Times"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/07/24/technology/meta-facebook-marketplace-seller.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-24",
+      "id": "4ca8f8885327"
     }
   ],
   "_stats": {
-    "total_tokens": 319177,
-    "total_cost": 35.169934
+    "total_tokens": 342345,
+    "total_cost": 37.753012
   }
 }
