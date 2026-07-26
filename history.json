@@ -2116,10 +2116,192 @@
       "is_development": false,
       "first_reported": "2026-07-24",
       "id": "4ca8f8885327"
+    },
+    {
+      "title_ru": "Конфликт США и Ирана: масштабная эскалация — удары по базам, дипломатический кризис и угроза затяжной войны",
+      "title_en": "US-Iran Conflict Escalates Dramatically: Strikes on Bases, Diplomatic Crisis, and Threat of Protracted War",
+      "date": "2026-07-26",
+      "summary_en": "The US-Iran military conflict has escalated sharply on multiple fronts. Iran's Army claims nearly all US infrastructure in Erbil (Iraqi Kurdistan) has been destroyed, while Iran struck the US Navy's Fifth Fleet base in Bahrain. WSJ reports the conflict may drag on for months. The Pentagon is accused of hiding US casualty figures. Iran's top commander vowed 'one US soldier will die for every Iranian civilian killed.' Meanwhile, Axios reports Trump ordered a pause on strikes against Iran, and VP Vance expressed concern about escalation. Iran also summoned Ukraine's envoy over a Ukrainian attack on an Iranian commercial vessel in the Caspian Sea.",
+      "summary": "Военный конфликт между США и Ираном резко обострился: иранская армия заявила об уничтожении почти всей инфраструктуры США в Эрбиле, нанесён удар по базе Пятого флота ВМС США в Бахрейне. WSJ прогнозирует, что конфликт может затянуться на месяцы. Пентагон обвиняют в сокрытии потерь, а иранский командующий пригрозил «уничтожать по одному солдату США за каждого погибшего иранца». Axios сообщает, что Трамп распорядился приостановить удары; вице-президент Вэнс обеспокоен эскалацией. Иран также вызвал украинского поверенного из-за атаки ВСУ на иранское коммерческое судно в Каспийском море.",
+      "category": "politics",
+      "perspective": "Администрация США: защита национальных интересов и свободы судоходства, сдерживание Ирана. Иран: сопротивление американской агрессии, защита суверенитета, обвинения США в военных преступлениях. Европейские союзники: обеспокоены эскалацией (Вэнс), раскол между поддержкой США и страхом перед большой войной. Россия и Китай: критика американской эскалации, призывы к дипломатическому решению. Региональные игроки (Саудовская Аравия, страны Персидского залива): в эпицентре конфликта, опасения дестабилизации всего Ближнего Востока.",
+      "perspective_type": "assumed",
+      "sources": [
+        "en.irna.ir",
+        "tass.com",
+        "www.tehrantimes.com",
+        "www.theguardian.com",
+        "www.vedomosti.ru",
+        "www.kommersant.ru",
+        "lenta.ru"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86219451/Nearly-all-US-infrastructure-in-Erbil-destroyed-Iran-s-Army",
+        "https://tass.com/world/2165399",
+        "https://www.tehrantimes.com/news/528533/Pentagon-accused-of-hiding-US-casualties-in-war-with-Iran",
+        "https://en.irna.ir/news/86218315/Top-comdr-One-US-soldier-will-die-for-every-Iranian-civilian",
+        "https://www.theguardian.com/world/2026/jul/24/us-expands-iran-attacks-as-trump-warns-tehran-and-houthis-over-red-sea-strikes",
+        "https://www.kommersant.ru/doc/8844750",
+        "https://www.vedomosti.ru/politics/news/2026/07/24/1216323-udaril-po-baze",
+        "https://tass.ru/mezhdunarodnaya-panorama/27953165",
+        "https://en.irna.ir/news/86219460/Iran-summons-Ukrainian-charg%C3%A9-d-affaires-over-attack-on-commercial"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-26",
+      "id": "1b81049aa55f"
+    },
+    {
+      "title_ru": "Лесные пожары в Европе: более 300 000 человек эвакуированы во Франции и Испании",
+      "title_en": "Europe Wildfires: Over 300,000 Evacuated in France and Spain as Fires Rage",
+      "date": "2026-07-26",
+      "summary_en": "Catastrophic wildfires are sweeping across France and Spain, forcing more than 300,000 people to flee their homes and holiday accommodations. Fires rage near Bordeaux, a famed wine region, and in areas around Madrid. The final stage of the Tour de France was shortened to redeploy police officers to firefighting efforts. French President Macron vowed to rebuild affected areas. DW notes that conditions were created by a 'summer of extremes,' while experts point to climate change as a driving factor.",
+      "summary": "Катастрофические лесные пожары во Франции и Испании вынудили более 300 000 человек покинуть дома и места отдыха. Огонь бушует в районе Бордо — знаменитого винодельческого региона — и под Мадридом. Финальный этап «Тур де Франс» сокращён, чтобы перенаправить полицейских на борьбу с огнём. Президент Макрон пообещал восстановить пострадавшие районы. Эксперты связывают масштаб бедствия с климатическими изменениями и «летом экстремальной погоды».",
+      "category": "politics",
+      "perspective": "Правительства Франции и Испании: мобилизация экстренных служб, международные призывы о помощи, обещания восстановления. Климатические активисты: свидетельство климатического кризиса, требование ускорить «зелёный переход». Критики властей: недостаточная готовность к природным катастрофам, недофинансирование пожарных служб. Евросоюз: координация помощи через механизм гражданской защиты, обсуждение климатической политики.",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.theguardian.com",
+        "www.nytimes.com",
+        "www.bbc.co.uk",
+        "www.dw.com",
+        "www.cbc.ca",
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations",
+        "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations",
+        "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+        "https://www.dw.com/en/europe-wildfires-rage-on-forcing-more-than-250-000-from-homes/a-78109406?maca=en-rss-en-all-1573-xml-mrss",
+        "https://www.cbc.ca/news/world/wildfire-evacuations-france-suburbs-9.7283693?cmp=rss",
+        "https://www.kommersant.ru/doc/8844743"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-26",
+      "id": "1e0b4e306d31"
+    },
+    {
+      "title_ru": "Министр образования Индии ушёл в отставку под давлением молодёжного движения «Тараканы»",
+      "title_en": "India's Education Minister Dharmendra Pradhan Resigns After 'Cockroach' Youth Movement Protests",
+      "date": "2026-07-25",
+      "summary_en": "India's Education Minister Dharmendra Pradhan has resigned, becoming only the second minister in Modi's government to step down under public pressure. The resignation came after 36 days of massive youth protests at Delhi's Jantar Mantar, sparked by an alleged NEET-UG 2026 exam paper leak. The protest movement, self-styled as the 'Cockroach Party,' was led by Gen Z students. Opposition leaders hailed it as a 'united victory of youth, students, and Rahul Gandhi.' Protesters celebrated, declaring: 'We took his resignation, he didn't give it.'",
+      "summary": "Министр образования Индии Дхармендра Прадхан подал в отставку — он стал лишь вторым министром в правительстве Моди, ушедшим под общественным давлением. Отставка последовала за 36 днями массовых молодёжных протестов у Джантар-Мантар в Дели, вызванных предполагаемой утечкой экзаменационных материалов NEET-UG 2026. Движение, назвавшее себя «Партией тараканов», возглавили студенты поколения Z. Оппозиция приветствовала отставку как «общую победу молодёжи, студентов и Рахула Ганди». Протестующие заявили: «Мы взяли его отставку, он её не дал».",
+      "category": "politics",
+      "perspective": "Оппозиция (Конгресс): крупная политическая победа, свидетельство силы молодёжного движения. Правительство Моди/БДП: вынужденная уступка для снижения напряжённости, удар по репутации. Студенческое движение: историческая победа низовой самоорганизации поколения Z. Правозащитники: прецедент подотчётности власти гражданам. Консерваторы: могут критиковать «слабость» правительства перед уличным давлением.",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.theguardian.com",
+        "www.nytimes.com",
+        "indianexpress.com",
+        "www.thehindu.com",
+        "www.dw.com",
+        "tass.com"
+      ],
+      "links": [
+        "https://www.theguardian.com/world/2026/jul/25/dharmendra-pradhan-india-education-minister-resigns-cockroach-movement",
+        "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html",
+        "https://indianexpress.com/article/india/cjp-protest-timeline-five-key-moments-dharmendra-pradhan-resignation-10803274/",
+        "https://www.dw.com/en/india-news-cockroaches-end-protest-after-education-minister-dharmendra-pradhan-resigns/live-78108089?maca=en-rss-en-all-1573-xml-mrss",
+        "https://tass.com/world/2165175"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-25",
+      "id": "0843844f672c"
+    },
+    {
+      "title_ru": "Массированные атаки украинских БПЛА на регионы России: за ночь сбито 133 дрона, за сутки — 1060",
+      "title_en": "Massive Ukrainian Drone Barrage on Russia: 133 UAVs Downed Overnight, 1,060 in 24 Hours",
+      "date": "2026-07-26",
+      "summary_en": "Russian air defense forces shot down 133 Ukrainian drones overnight on July 26, targeting multiple regions including areas near Moscow and St. Petersburg. This follows an escalating pattern: 328 drones were downed the previous night (July 25), 571 the night before (July 24), and a record 1,060 drones were neutralized in a single 24-hour period on July 25. The Defense Ministry also reported strikes on ports in Odessa, Izmail, and Nikolaev, as well as electrical substations in Chernihiv region. This marks an unprecedented intensification of long-range drone warfare.",
+      "summary": "Силы ПВО России за ночь 26 июля сбили 133 украинских беспилотника над регионами страны, включая подлёты к Москве и Санкт-Петербургу. Это часть резкой эскалации: предыдущей ночью (25 июля) сбито 328 дронов, ночью 24 июля — 571, а за сутки 25 июля нейтрализовано рекордные 1060 БПЛА. Минобороны РФ также сообщило об ударах по портам Одессы, Измаила и Николаева и электроподстанциям в Черниговской области. Происходит беспрецедентная интенсификация войны дальнобойных дронов.",
+      "category": "politics",
+      "perspective": "Российская власть: отражение террористических атак, демонстрация эффективности ПВО. Украина: демонстрация способности наносить удары вглубь территории РФ, подрыв чувства безопасности. Западные союзники Украины: могут выражать обеспокоенность эскалацией, но воздерживаться от публичной критики. Китай и страны Глобального Юга: призывы к деэскалации и прекращению огня.",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.kommersant.ru",
+        "www.vedomosti.ru",
+        "tass.ru",
+        "lenta.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8844793",
+        "https://www.vedomosti.ru/politics/news/2026/07/26/1216506-za-noch-nad-regionami",
+        "https://tass.ru/armiya-i-opk/27953257",
+        "https://lenta.ru/news/2026/07/26/rossiyskiy-region-podvergsya-massirovannomu-naletu-vsu-v-noch-na-26-iyulya/",
+        "https://www.vedomosti.ru/politics/news/2026/07/25/1216433-sili-pvo-za-sutki",
+        "https://www.kommersant.ru/doc/8833504",
+        "https://www.kommersant.ru/doc/8844584"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-26",
+      "id": "1f969e0eff83"
+    },
+    {
+      "title_ru": "Удар ВСУ по турбазам в Запорожской области: 11 погибших, СК возбудил дело о теракте",
+      "title_en": "Ukrainian Strike on Tourist Camps in Zaporozhye Region Kills 11, Russia Opens Terrorism Probe",
+      "date": "2026-07-25",
+      "summary_en": "A Ukrainian military strike on tourist bases in the coastal village of Kirillovka in Zaporozhye region killed 11 people, including an 85-year-old woman. Russia's Investigative Committee opened a terrorism case. Foreign Ministry spokeswoman Maria Zakharova called the attack 'terrorist methods.' The attack on civilian recreational facilities follows another strike on Sevastopol that wounded three, including an elderly woman. These incidents highlight the increasing toll of the conflict on civilian populations in frontline and rear areas.",
+      "summary": "ВСУ нанесли удар по туристическим базам в прибрежном селе Кирилловка Запорожской области — погибли 11 человек, включая 85-летнюю женщину. Следственный комитет России возбудил дело о теракте. Официальный представитель МИД Мария Захарова назвала атаку «методом террористов». Ранее три человека, в том числе пожилая женщина, были ранены при атаке на Севастополь. Инциденты подчёркивают растущую цену конфликта для гражданского населения.",
+      "category": "politics",
+      "perspective": "Россия: целенаправленный террор против мирного населения, военное преступление. Украина: вероятное отрицание намеренного удара по гражданским или утверждение о военных объектах поблизости. Международное гуманитарное сообщество: потенциальное нарушение международного гуманитарного права, если подтвердится намеренный удар по гражданским. Запад: осторожные призывы к расследованию без прямых обвинений.",
+      "perspective_type": "assumed",
+      "sources": [
+        "lenta.ru",
+        "www.kommersant.ru",
+        "www.vedomosti.ru",
+        "tass.com"
+      ],
+      "links": [
+        "https://lenta.ru/news/2026/07/25/vozroslo-chislo-zhertv-ataki-vsu-na-turbazy-v-zaporozhskoy-oblasti/",
+        "https://www.kommersant.ru/doc/8844701",
+        "https://www.vedomosti.ru/politics/news/2026/07/25/1216437-zaharova-nazvala-udari",
+        "https://tass.com/emergencies/2165257",
+        "https://tass.com/emergencies/2165315"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-25",
+      "id": "4284d54959ee"
+    },
+    {
+      "title_ru": "Как ИИ и спутники помогают бороться с лесными пожарами",
+      "title_en": "How AI and Satellites Help Fight Wildfires",
+      "date": "2026-07-17",
+      "summary_en": "As catastrophic wildfires rage across Europe, AI-powered satellite monitoring systems are becoming an essential tool for early detection and response. Machine learning algorithms analyse satellite imagery in real time to identify fire hotspots, predict fire spread patterns based on weather and terrain data, and optimise the deployment of firefighting resources. These technologies are increasingly critical as climate change drives more frequent and intense wildfire seasons globally.",
+      "summary": "На фоне катастрофических лесных пожаров в Европе системы спутникового мониторинга на базе ИИ становятся важнейшим инструментом раннего обнаружения и реагирования. Алгоритмы машинного обучения анализируют спутниковые снимки в реальном времени, выявляют очаги возгорания, прогнозируют распространение огня с учётом погоды и рельефа, а также оптимизируют распределение противопожарных ресурсов. Эти технологии приобретают особую значимость по мере того, как изменение климата приводит к более частым и интенсивным пожарным сезонам.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "www.dw.com"
+      ],
+      "links": [
+        "https://www.dw.com/en/how-ai-and-satellites-help-fight-wildfires/a-77966509?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-17",
+      "id": "7f0c0368e9ef"
+    },
+    {
+      "title_ru": "Южнокорейские производители чипов заключат сделки с компаниями США на $950 млрд",
+      "title_en": "South Korea Chipmakers to Supply US Firms in $950 Billion Deals",
+      "date": "2026-07-26",
+      "summary_en": "South Korean semiconductor manufacturers have reached agreements to supply US companies in deals valued at approximately $950 billion. The massive contracts underscore the deepening technological partnership between Seoul and Washington amid ongoing global chip supply chain restructuring. The deals come as the US seeks to reduce dependence on Asian semiconductor supplies while simultaneously strengthening ties with key allies in the sector.",
+      "summary": "Южнокорейские производители полупроводников достигли соглашений о поставках американским компаниям на общую сумму около $950 млрд. Масштабные контракты подчёркивают углубление технологического партнёрства между Сеулом и Вашингтоном на фоне глобальной реструктуризации цепочек поставок чипов. Сделки заключены в момент, когда США стремятся снизить зависимость от азиатских поставок полупроводников, одновременно укрепляя связи с ключевыми союзниками в этом секторе.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "timesofindia.indiatimes.com"
+      ],
+      "links": [
+        "https://timesofindia.indiatimes.com/world/rest-of-world/south-korea-chipmakers-to-supply-us-firms-in-950-billion-deals/articleshow/132635194.cms"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-26",
+      "id": "3f4c3faa851f"
     }
   ],
   "_stats": {
-    "total_tokens": 342345,
-    "total_cost": 37.753012
+    "total_tokens": 369021,
+    "total_cost": 40.835713999999996
   }
 }
