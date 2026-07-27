@@ -2298,10 +2298,179 @@
       "is_development": false,
       "first_reported": "2026-07-26",
       "id": "3f4c3faa851f"
+    },
+    {
+      "title_ru": "США приостанавливают удары по Ирану вторую ночь: Трамп даёт空间 для переговоров",
+      "title_en": "US Pauses Iran Attacks for Second Night as Trump Creates Space for Talks",
+      "date": "2026-07-27",
+      "summary_en": "The United States paused military strikes on Iran for a second consecutive night after President Trump was advised by top advisers to halt bombing. The US ambassador stated the pause is intended to create diplomatic space for negotiations. Iran has reciprocally held off on strikes, resulting in an informal two-day ceasefire after 13 days of bombardments.",
+      "summary": "США приостановили военные удары по Ирану вторую ночь подряд — по сообщениям, президент Трамп последовал совету ключевых советников прекратить бомбардировки. Посол США заявил, что пауза призвана создать пространство для дипломатических переговоров. Иран также воздерживается от ударов — обе стороны соблюдают неформальное двухдневное прекращение огня после 13 дней бомбардировок.",
+      "category": "politics",
+      "perspective": "Администрация Трампа представляет паузу как шаг к дипломатической деэскалации; критики-«ястребы» в Конгрессе могут счесть это проявлением слабости. Иран подаёт паузу как доказательство эффективности своего военного сопротивления и «ключ к поражению Америки». ЕС и Оман приветствуют передышку, но предупреждают о хрупкости. Антивоенные движения в США подчёркивают бессмысленность дальнейшей эскалации.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The Guardian",
+        "BBC",
+        "NPR",
+        "The New York Times",
+        "The Hindu",
+        "Indian Express"
+      ],
+      "links": [
+        "https://www.theguardian.com/world/2026/jul/26/us-pauses-trump-netanyahu-attacks-on-iran-talks-hormuz",
+        "https://www.bbc.co.uk/news/articles/c5y45kdkynpo",
+        "https://www.npr.org/2026/07/27/g-s1-135611/can-the-u-s-and-iran-take-the-off-ramp",
+        "https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html",
+        "https://www.thehindu.com/news/international/iran-israel-us-war-july-27-2026-latest-updates-strait-of-hormuz-donald-trump-oil-prices-today/article71271253.ece",
+        "https://indianexpress.com/article/world/us-iran-conflict-donald-trump-pauses-tehran-airstrikes-patriot-missiles-hormuz-10804577/"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-27",
+      "id": "7d771f194645"
+    },
+    {
+      "title_ru": "Силы ПВО сбили 276 украинских БПЛА над регионами России за ночь: жертвы в Ростове-на-Дону и Белгороде",
+      "title_en": "Russian Air Defense Downs 276 Ukrainian Drones Overnight: Dead and Injured in Rostov-on-Don and Belgorod",
+      "date": "2026-07-27",
+      "summary_en": "Russian air defense intercepted 276 Ukrainian drones over multiple regions overnight on July 27, including 40 over Yaroslavl Oblast. In Rostov-on-Don, a drone struck a residential building, killing two people and injuring five; a state of emergency was declared. In Belgorod, 12 people were injured. Drone alerts were also issued in Udmurtia, Sochi, Tatarstan, and other regions, with routes to Moscow temporarily closed.",
+      "summary": "Российские силы ПВО за ночь 27 июля перехватили 276 украинских беспилотников над регионами России: 40 — над Ярославской областью, также над Ростовом-на-Дону, Белгородом и другими. В Ростове-на-Дону дрон попал в многоквартирный дом — погибли два человека, пятеро пострадали, введён режим ЧС. В Белгороде пострадали 12 человек. Угроза атаки БПЛА объявлялась в Удмуртии, Сочи, Татарстане; трассу из Ярославля в Москву перекрывали. Это развитие самой массированной атаки, зафиксированной днём ранее (133 дрона за ночь, 1060 за сутки).",
+      "category": "politics",
+      "perspective": "Российские власти акцентируют эффективность ПВО («сбили 276»), но признают жертвы среди мирного населения. Украинская сторона рассматривает удары как законные военные действия, направленные на военную инфраструктуру. Международные наблюдатели отмечают расширение географии атак — до Ярославля, Удмуртии, Пензы, что свидетельствует о растущей досягаемости украинских БПЛА. Правозащитники выражают обеспокоенность жертвами среди гражданских.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Kommersant",
+        "TASS",
+        "Vedomosti",
+        "Lenta.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8845297",
+        "https://tass.ru/armiya-i-opk/27955543",
+        "https://www.vedomosti.ru/politics/news/2026/07/27/1216627-sili-pvo-sbili-276",
+        "https://www.kommersant.ru/doc/8845182",
+        "https://www.kommersant.ru/doc/8845164",
+        "https://tass.ru/proisshestviya/27955749",
+        "https://www.kommersant.ru/doc/8844980"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-27",
+      "id": "a92b1c9b1d53"
+    },
+    {
+      "title_ru": "Теракт на гей-прайде в Берлине: подозреваемый застрелен полицией, 1 погибший, 16 раненых",
+      "title_en": "Berlin Pride Attack: Suspect Shot Dead by Police After 24-Hour Manhunt; 1 Killed, 16 Injured",
+      "date": "2026-07-26",
+      "summary_en": "A man drove a van into a crowd at Berlin's Pride (CSD) event on July 25, killing one person and injuring 16, in what authorities are treating as an Islamist terrorist attack. After a 24-hour manhunt, the suspect — identified as Abdul Ballout — was located and shot dead by German police on July 26. The attack is the latest in a string of deadly vehicle-ramming incidents in Germany.",
+      "summary": "25 июля мужчина на фургоне въехал в толпу на гей-прайде (CSD) в Берлине: один человек погиб, 16 получили ранения. Власти квалифицировали нападение как исламистский теракт. После 24-часовой охоты подозреваемый — Абдул Баллут — был обнаружен и застрелен полицией 26 июля. Нападение стало очередным в череде смертоносных автомобильных атак в Германии за последние годы.",
+      "category": "politics",
+      "perspective": "Правительство Германии осуждает атаку как исламистский терроризм; Олаф Шольц и министр внутренних дел обещают ужесточение мер безопасности. ЛГБТК+-сообщество скорбит, но демонстрирует устойчивость. Правые силы (AfD) используют атаку для требований ужесточения миграционной политики. Левые и правозащитники предостерегают от коллективной стигматизации мусульман.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The Guardian",
+        "DW",
+        "The New York Times",
+        "NPR",
+        "France24",
+        "Indian Express",
+        "Le Monde"
+      ],
+      "links": [
+        "https://www.theguardian.com/world/2026/jul/26/berlin-pride-van-knife-rampage-islamist-terrorist-attack-germany",
+        "https://www.dw.com/en/berlin-pride-ramming-police-shoot-suspect-dead/live-78117180",
+        "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
+        "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
+        "https://www.france24.com/fr/europe/20260726-gay-pride-%C3%A0-berlin-le-suspect-de-l-attentat-terroriste-islamiste-toujours-en-fuite",
+        "https://indianexpress.com/article/world/berlin-pride-attack-suspect-abdul-ballout-shot-dead-german-police-manhunt-10804799/",
+        "https://www.lemonde.fr/international/article/2026/07/26/marche-des-fiertes-de-berlin-un-mort-et-une-quinzaine-de-blesses-apres-un-incident-impliquant-un-vehicule_6732524_3210.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-26",
+      "id": "8bd184c035f4"
+    },
+    {
+      "title_ru": "Пентагон сообщил о более чем 600 потерях США в войне с Ираном в «тихом» обновлении базы данных",
+      "title_en": "Pentagon Quietly Reports Over 600 US Casualties in Iran War via Database Update",
+      "date": "2026-07-26",
+      "summary_en": "The Pentagon has quietly updated its casualty database to reflect more than 600 American troop deaths and injuries in the ongoing conflict with Iran, The Guardian reports. The update came without a formal announcement, drawing criticism over transparency. The figures provide the first official acknowledgment of the scale of US losses since hostilities escalated earlier in July.",
+      "summary": "Пентагон без официального объявления обновил базу данных потерь, отразив более 600 погибших и раненых американских военнослужащих в продолжающемся конфликте с Ираном, сообщает The Guardian. Обновление вызвало критику в связи с недостатком прозрачности. Эти цифры стали первым официальным признанием масштаба потерь США с момента эскалации боевых действий в начале июля.",
+      "category": "politics",
+      "perspective": "Антивоенные активисты и часть Демократической партии используют цифры как аргумент против продолжения конфликта. Администрация Трампа стремится минимизировать внимание к потерям: «тихое» обновление вместо официального заявления. Иранская пропаганда подаёт эти данные как доказательство уязвимости США. Республиканские «ястребы» настаивают, что потери оправданы стратегическими целями.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The Guardian"
+      ],
+      "links": [
+        "https://www.theguardian.com/us-news/2026/jul/26/pentagon-iran-war-troop-deaths-casualty-report"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-26",
+      "id": "3f308f70c8d2"
+    },
+    {
+      "title_ru": "Иран: США «уничтожили основу для диалога» третьим предательством дипломатии; КСИР предупреждает союзников США",
+      "title_en": "Iran Says US 'Destroyed Foundation for Dialogue' with Third Betrayal; IRGC Warns US Allies",
+      "date": "2026-07-26",
+      "summary_en": "Iran declared that the United States has 'destroyed the foundation for dialogue' through what Tehran calls a third betrayal of diplomacy. Concurrently, the IRGC warned that Israel and countries supporting the US would be considered legitimate targets. Meanwhile, Iran and Oman held 'productive' talks on security in the Strait of Hormuz, and Iran and Armenia forged a comprehensive energy partnership.",
+      "summary": "Иран заявил, что США «уничтожили основу для диалога» третьим, по версии Тегерана, предательством дипломатии. Одновременно КСИР предупредил, что Израиль и страны, поддерживающие США, будут считаться законными целями. На этом фоне Иран и Оман провели «продуктивные» переговоры о безопасности в Ормузском проливе, а Иран и Армения заключили всеобъемлющее энергетическое партнёрство.",
+      "category": "politics",
+      "perspective": "Иранская риторика направлена на внутреннюю аудиторию — демонстрация несгибаемости, и на внешнюю — предупреждение союзникам США (страны Персидского залива). США и Израиль оценивают заявления КСИР как продолжение угроз региональной стабильности. Оман и ЕС пытаются играть посредническую роль. Армения рассматривает энергопартнёрство с Ираном как диверсификацию от зависимости от России.",
+      "perspective_type": "assumed",
+      "sources": [
+        "IRNA",
+        "Tehran Times"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86220314/Iran-says-US-destroyed-foundation-for-dialogue-with-third-betrayal",
+        "https://en.irna.ir/news/86219483/IRGC-warns-Israel-countries-supporting-US-will-be-legitimate",
+        "https://www.tehrantimes.com/news/528570/Iran-Oman-conclude-productive-talks-on-Hormuz-security",
+        "https://www.tehrantimes.com/news/528575/Iran-Armenia-forge-comprehensive-energy-partnership",
+        "https://www.tehrantimes.com/news/528584/Leader-s-military-advisor-Adversaries-cannot-break-Iran-s-will"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-26",
+      "id": "d5a74e86a60e"
+    },
+    {
+      "title_ru": "Индонезийский депутат: регулирование выборов 2029 года должно предусмотреть угрозы со стороны ИИ",
+      "title_en": "Indonesian MP: 2029 Election Regulations Must Anticipate AI Threats",
+      "date": "2026-07-27",
+      "summary_en": "A member of Indonesia's House of Representatives (DPR) stated that regulations for the 2029 general election must proactively address challenges posed by artificial intelligence, including AI-generated disinformation and deepfakes. The call reflects growing global concern over AI's potential to undermine electoral integrity.",
+      "summary": "Член Совета представителей Индонезии (DPR) заявил, что регулирование всеобщих выборов 2029 года должно заранее предусмотреть угрозы, связанные с искусственным интеллектом, включая дезинформацию и дипфейки, генерируемые ИИ. Заявление отражает растущую глобальную обеспокоенность способностью ИИ подрывать честность избирательных процессов.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Antara News"
+      ],
+      "links": [
+        "https://www.antaranews.com/berita/5667413/anggota-dpr-sebut-regulasi-pemilu-2029-harus-antisipasi-persoalan-ai"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-27",
+      "id": "668e9b3d3cf1"
+    },
+    {
+      "title_ru": "Исследование: недостаток сна способствует набору веса",
+      "title_en": "Study Links Sleep Deprivation to Weight Gain",
+      "date": "2026-07-27",
+      "summary_en": "A new scientific study has found that insufficient sleep significantly influences weight gain, reinforcing established research on the connection between sleep patterns and metabolic health. The findings add to growing evidence that sleep quality is a critical factor in obesity prevention.",
+      "summary": "Новое научное исследование показало, что недостаток сна существенно влияет на набор веса, подтверждая ранее установленную связь между режимом сна и метаболическим здоровьем. Результаты дополняют растущий массив данных о том, что качество сна — критический фактор в профилактике ожирения.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Antara News"
+      ],
+      "links": [
+        "https://www.antaranews.com/berita/5667408/studi-kurang-tidur-pengaruhi-berat-badan-naik"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-27",
+      "id": "ea32653ac403"
     }
   ],
   "_stats": {
-    "total_tokens": 369021,
-    "total_cost": 40.835713999999996
+    "total_tokens": 393011,
+    "total_cost": 43.687552
   }
 }
