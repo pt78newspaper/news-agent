@@ -1,137 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "КСИР нанёс удары по военным объектам США в Бахрейне и Иордании",
-      "title_en": "IRGC says it struck US military sites in Bahrain, Jordan",
-      "date": "2026-07-15",
-      "summary_en": "Iran's Islamic Revolutionary Guard Corps (IRGC) announced strikes on US military sites in Bahrain and Jordan, following earlier operations against US bases in Kuwait and Bahrain. The attacks mark a significant escalation in direct military exchanges between Iran and the United States. Iran's President Pezeshkian vowed to defend every inch of Iranian territory.",
-      "summary": "Корпус стражей исламской революции (КСИР) Ирана заявил о нанесении ударов по военным объектам США в Бахрейне и Иордании. Ранее КСИР также атаковал американские базы в Кувейте и Бахрейне. Президент Ирана Пезешкиан пообещал защищать «каждый дюйм» территории страны на практике.",
-      "category": "politics",
-      "perspective": "Иранские власти рассматривают удары как законный ответ на агрессию США и демонстрацию доктрины сдерживания. США и их союзники по НАТО оценивают это как неприемлемую эскалацию со стороны признанной террористической организации. Россия и Китай, вероятно, видят в происходящем следствие американской эскалационной политики в регионе. Арабские страны Персидского залива — под прямой угрозой разрастания конфликта.",
-      "perspective_type": "assumed",
-      "sources": [
-        "IRNA",
-        "TASS",
-        "DW",
-        "The Guardian"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86209753/IRGC-says-it-struck-US-military-sites-in-Bahrain-Jordan",
-        "https://en.irna.ir/news/86209564/IRGC-pounds-US-bases-in-Kuwait-Bahrain-in-new-operations",
-        "https://en.irna.ir/news/86209562/President-Pezeshkian-Iran-to-defend-every-inch-of-its-territory",
-        "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-15",
-      "id": "0a28a346b786"
-    },
-    {
-      "title_ru": "Трамп отказывается от пошлин в Ормузском проливе, но сохраняет блокаду Ирана",
-      "title_en": "Trump drops Hormuz tolls plan but maintains blockade on Iran",
-      "date": "2026-07-14",
-      "summary_en": "President Trump withdrew his threat to impose tolls on ships transiting the Strait of Hormuz, while confirming the US will continue its naval blockade of Iranian ports. BBC analysis suggests the retreat signals Trump is struggling to end the war with Iran. The US also launched a new round of strikes, while Iran seeks lawful sovereignty over the strait.",
-      "summary": "Президент Трамп отказался от угрозы ввести пошлины для судов в Ормузском проливе, но подтвердил продолжение морской блокады иранских портов. BBC отмечает, что отступление свидетельствует о трудностях Трампа в попытке завершить конфликт с Ираном. США нанесли новую серию ударов; Иран, в свою очередь, добивается законного суверенитета над проливом.",
-      "category": "politics",
-      "perspective": "Администрация США представляет отказ от пошлин как тактическую корректировку при сохранении жёсткой линии. Иран расценивает это как признак слабости и непоследовательности Вашингтона. Судовладельцы и мировые рынки — с облегчением от отмены экономического барьера. Союзники США видят в этом попытку избежать дальнейшего ухудшения отношений с торговыми партнёрами.",
-      "perspective_type": "assumed",
-      "sources": [
-        "The New York Times",
-        "BBC",
-        "NPR",
-        "The Guardian",
-        "TASS"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/07/14/world/middleeast/trump-hormuz-shipping-fee-dropped.html",
-        "https://www.bbc.co.uk/news/articles/crele3r8j19o",
-        "https://www.theguardian.com/world/2026/jul/14/us-strikes-iran-bahrain-jordan-uae-tankers",
-        "https://tass.com/world/2160251",
-        "https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-14",
-      "id": "b311a538d6bf"
-    },
-    {
-      "title_ru": "Новый санкционный законопроект США против России: Китай осудил, ЕС не смог согласовать 21-й пакет",
-      "title_en": "US Graham sanctions bill against Russia: China condemns, EU fails to agree 21st package",
-      "date": "2026-07-15",
-      "summary_en": "The US is advancing a new sanctions bill (the 'Graham bill') targeting buyers of Russian oil, with Trump calling its passage highly likely. China condemned the bill, while the EU failed to agree on its 21st sanctions package against Russia, with Lithuania's FM noting a split within the bloc. The Kremlin said it is 'attentively listening' to Trump's sanctions statements.",
-      "summary": "В США продвигается новый законопроект о санкциях («законопроект Грэма») против покупателей российской нефти; Трамп назвал его принятие высоковероятным. Китай осудил законопроект; ЕС не смог согласовать 21-й пакет санкций против России — глава МИД Литвы заявил о расколе в ЕС. Кремль заявил, что «внимательно слушает» заявления Трампа о новых санкциях.",
-      "category": "politics",
-      "perspective": "Администрация Трампа и ястребы в Конгрессе рассматривают законопроект как необходимый инструмент давления на Москву. Китай оценивает документ как нарушение норм международной торговли и вмешательство в суверенные сделки. Внутри ЕС — раскол: восточноевропейские страны настаивают на ужесточении, ряд западноевропейских столиц опасаются экономических последствий. Россия называет санкции нереалистичными и абсурдными.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Коммерсантъ",
-        "Lenta.ru",
-        "Ведомости",
-        "TASS",
-        "CNN"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8815467",
-        "https://lenta.ru/news/2026/07/15/v-kitae-prokommentirovali-zakonoproekt-grema-o-sanktsiyah-protiv-rossii/",
-        "https://www.kommersant.ru/doc/8814373",
-        "https://www.vedomosti.ru/politics/news/2026/07/14/1213453-glava-mid-litvi",
-        "https://www.kommersant.ru/doc/8815566",
-        "https://www.vedomosti.ru/politics/news/2026/07/14/1213682-tramp-nazval-visokoi-veroyatnost"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-15",
-      "id": "5d3936c230ab"
-    },
-    {
-      "title_ru": "Трое погибших при бомбардировке Одессы; Украина наносит удары по российским кораблям в Азовском море",
-      "title_en": "Three killed as Russia bombs Odesa; Ukraine pounds Russian ships in Azov Sea",
-      "date": "2026-07-15",
-      "summary_en": "Russian bombing of Odesa continued, killing three civilians. Simultaneously, Ukraine intensified its campaign against Russian ships in the Azov Sea to cut off Crimea. Russia denounced Ukrainian drone attacks on ships, comparing the tactics unfavorably to piracy. France is preparing to transfer ready-made SCALP missiles to Ukraine.",
-      "summary": "Российские бомбардировки Одессы продолжаются: погибли три человека. Одновременно Украина активизировала удары по российским кораблям в Азовском море с целью отрезать Крым. Россия осудила атаки украинских дронов на суда, сравнив их с пиратством. Франция готовится передать Украине готовые ракеты SCALP.",
-      "category": "politics",
-      "perspective": "Украина и западные союзники рассматривают действия России как неизбирательные удары по гражданскому населению. Россия настаивает на законности военных операций и обвиняет Украину в террористических методах. Страны НАТО, в частности Франция, демонстрируют дальнейшую эскалацию военной поддержки Киева. Китай и страны Глобального Юга призывают к деэскалации.",
-      "perspective_type": "assumed",
-      "sources": [
-        "BBC",
-        "The New York Times",
-        "DW",
-        "Indian Express",
-        "TASS"
-      ],
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c8929jv8kdzo",
-        "https://www.nytimes.com/2026/07/15/world/europe/ukraine-russia-crimea-azov-sea.html",
-        "https://www.dw.com/en/ukraine-3-dead-as-russia-intensifies-attacks-on-odesa/live-77962795",
-        "https://indianexpress.com/article/world/russia-ukraine-war-sea-of-azov-drone-attacks-grain-shipments-rerouted-fuel-crisis-10787156/",
-        "https://tass.com/politics/2160159"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-15",
-      "id": "f2e10e61732c"
-    },
-    {
-      "title_ru": "Иран угрожает остановить весь энергетический экспорт Ближнего Востока на фоне блокады США",
-      "title_en": "Iran threatens to halt all Middle East energy exports amid renewed US blockade",
-      "date": "2026-07-15",
-      "summary_en": "Iran threatened to halt all Middle East energy exports as the US reinstated a blockade on Iranian ports. The escalation follows Trump's declaration that the Strait of Hormuz is 'open to all ships except Iran's.' Iran's Vice President stated the country seeks lawful sovereignty over the strategic waterway, while a Russian analyst affirmed Iran as the sole guarantor of Strait of Hormuz security.",
-      "summary": "Иран пригрозил остановить весь энергетический экспорт Ближнего Востока в ответ на возобновление американской блокады иранских портов. Ранее Трамп заявил, что Ормузский пролив «открыт для всех судов, кроме иранских». Вице-президент Ирана заявил о стремлении к законному суверенитету над проливом; российский аналитик назвал Иран единственным гарантом безопасности Ормузского пролива.",
-      "category": "politics",
-      "perspective": "Иран рассматривает угрозу энергетического эмбарго как законный рычаг сдерживания в ответ на блокаду США. Администрация Трампа называет это экономическим шантажом. Мировые энергетические рынки — в состоянии повышенной тревоги из-за возможного коллапса поставок. Россия поддерживает иранскую позицию о суверенитете над проливом, осуждая нарушения меморандума Исламабада со стороны США.",
-      "perspective_type": "assumed",
-      "sources": [
-        "The Guardian",
-        "TASS",
-        "IRNA"
-      ],
-      "links": [
-        "https://www.theguardian.com/world/2026/jul/15/trump-iran-power-plants-strike-threat-strait-of-hormuz",
-        "https://tass.com/world/2160195",
-        "https://en.irna.ir/news/86209332/Russian-analyst-says-US-violated-Pakistan-MoU-affirms-Iran-as",
-        "https://tass.com/world/2160251"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-15",
-      "id": "c730f910650c"
-    },
-    {
       "title_ru": "Meta удалила ИИ-функцию в Instagram после волны backlash",
       "title_en": "Meta Removes A.I. Feature on Instagram After Days of Backlash",
       "date": "2026-07-11",
@@ -2467,10 +2336,193 @@
       "is_development": false,
       "first_reported": "2026-07-27",
       "id": "ea32653ac403"
+    },
+    {
+      "title_ru": "США и Иран взяли паузу в боевых действиях: Трамп говорит о «хороших шансах» на прогресс в переговорах",
+      "title_en": "US-Iran War Pauses for Second Day as Trump Sees 'Good Chance' for Talks",
+      "date": "2026-07-28",
+      "summary_en": "The US-Iran war has paused for a second straight day with both sides holding off strikes. Trump stated there is a 'good chance' of progress in negotiations, while Netanyahu arrived in Washington for consultations. Iran rejects any US role in setting terms for ending the conflict; economic ripple effects are spreading across Asia through rising food and energy prices, and the ECB has kept rates unchanged amid war-driven inflation.",
+      "summary": "США и Иран второй день подряд воздерживаются от взаимных ударов. Трамп заявил о «хороших шансах» на прогресс в переговорах, а Нетаньяху прибыл в Вашингтон для консультаций. Иран отвергает право США диктовать условия прекращения конфликта; экономические последствия войны — от роста цен на уличную еду в Азии до заморозки ставки ЕЦБ из-за военной инфляции.",
+      "category": "politics",
+      "perspective": "Администрация Трампа: пауза — доказательство того, что военное давление открыло путь к дипломатии. Иран: США — агрессор; переговоры возможны только на равных и без ультиматумов. Союзники США в регионе (Израиль, Саудовская Аравия): озабочены, что Трамп может пойти на невыгодные уступки. Мировые рынки: надежда на деэскалацию, но сохраняется страх перед срывом поставок нефти.",
+      "perspective_type": "assumed",
+      "sources": [
+        "BBC News",
+        "DW",
+        "The Indian Express",
+        "The Hindu",
+        "The New York Times",
+        "TASS",
+        "Tehran Times"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo",
+        "https://www.dw.com/en/iran-war-netanyahu-in-washington-for-meeting-with-trump/live-78137927",
+        "https://indianexpress.com/article/world/iran-us-war-trump-military-action-khamenei-jihad-10806472/",
+        "https://www.thehindu.com/news/international/iran-israel-us-war-july-28-2026-latest-updates-strait-of-hormuz-donald-trump-oil-prices-today/article71275308.ece",
+        "https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html",
+        "https://tass.com/world/2166127",
+        "https://www.tehrantimes.com/news/528631/Iran-rejects-US-role-in-setting-war-terms"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-28",
+      "id": "68fa88a01cf5"
+    },
+    {
+      "title_ru": "Одна из крупнейших атак БПЛА на Россию: 356 дронов сбито за ночь, более 390 летели на Москву",
+      "title_en": "One of Largest Drone Attacks on Russia: 356 UAVs Downed Overnight, Over 390 Targeted Moscow",
+      "date": "2026-07-28",
+      "summary_en": "Russian air defense shot down 356 Ukrainian drones over multiple regions in a single night. Moscow Mayor Sobyanin reported over 390 UAVs flying toward the capital since evening, with 81 downed near Moscow. TASS described the attempt as one of the largest in two years. A multi-story residential building in the Moscow region was hit, and fires broke out in the Koledino forest area. Drone threat alerts were also declared in Sochi, Lipetsk, and Ivanovo regions.",
+      "summary": "Российские силы ПВО сбили 356 украинских беспилотников над регионами РФ за одну ночь. Мэр Москвы Собянин сообщил о более чем 390 БПЛА, летевших на столицу с вечера; 81 сбит вблизи Москвы. ТАСС оценивает попытку как одну из крупнейших за два года. Удар пришёлся по многоэтажке в Подмосковье, возгорания — в лесном массиве Коледино; угроза атаки БПЛА объявлялась также в Сочи, Липецкой и Ивановской областях.",
+      "category": "politics",
+      "perspective": "Минобороны РФ: ПВО эффективно отразило массированную атаку, предотвратив масштабные разрушения. Западные и украинские источники: удары по территории РФ — легитимный военный ответ на российскую агрессию. Жители российских регионов: тревога и нарушение повседневной жизни при одновременной демонстрации устойчивости.",
+      "perspective_type": "assumed",
+      "sources": [
+        "ТАСС",
+        "Ведомости",
+        "Коммерсантъ",
+        "Lenta.ru"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/27959613",
+        "https://tass.ru/armiya-i-opk/27959455",
+        "https://www.vedomosti.ru/politics/news/2026/07/28/1216932-sili-pvo-sbili",
+        "https://www.kommersant.ru/doc/8846142",
+        "https://www.kommersant.ru/doc/8846094",
+        "https://lenta.ru/news/2026/07/28/minoborony-raskrylo-chislo-sbityh-nad-rossiey-za-noch-ukrainskih-bpla/"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-28",
+      "id": "c1493596e4d6"
+    },
+    {
+      "title_ru": "Украина атаковала иранское судно: Тегеран обещает ответ, Москва и Тегеран в контакте",
+      "title_en": "Ukraine Attacks Iranian Vessel: Tehran Vows Response, Moscow in Contact with Iran",
+      "date": "2026-07-27",
+      "summary_en": "Ukraine attacked an Iranian commercial vessel, killing a young Iranian sailor on his first voyage. Tehran has repeatedly vowed that this 'adventurism will not go unanswered' — warnings came from Foreign Minister Araghchi, an official spokesperson, senior MPs, and the Army command. Moscow and Tehran are in contact over the incident, with Russia stating Iran will decide its own response.",
+      "summary": "Украина атаковала иранское коммерческое судно, в результате чего погиб молодой иранский моряк. Тегеран неоднократно заявил, что «авантюризм не останется без ответа»: с предупреждениями выступили глава МИД Арагчи, официальный представитель, высокопоставленные депутаты и командование армии. Москва и Тегеран находятся в контакте по инциденту; российская сторона заявляет, что Иран сам примет решение об ответных мерах.",
+      "category": "politics",
+      "perspective": "Иран: Украина совершила акт агрессии против нейтрального коммерческого судна; ответ неизбежен. Россия: поддерживает право Ирана на ответ, осуждает «опасный авантюризм» Украины. Украина/Запад: контекст атаки остаётся неясным; потенциально — расширение конфликта на новых участников.",
+      "perspective_type": "assumed",
+      "sources": [
+        "TASS",
+        "IRNA",
+        "Tehran Times"
+      ],
+      "links": [
+        "https://tass.com/world/2166183",
+        "https://tass.com/world/2165897",
+        "https://en.irna.ir/news/86220215/Ukraine-s-attack-on-Iranian-vessel-cannot-go-unanswered-Araghchi",
+        "https://en.irna.ir/news/86220722/Ukraine-s-dangerous-adventurism-will-not-go-unanswered-Spokesperson",
+        "https://en.irna.ir/news/86220442/Iran-leaves-no-hostile-actions-unanswered-Official",
+        "https://www.tehrantimes.com/news/528630/For-a-young-sailor-First-voyage-final-farewell"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-27",
+      "id": "5d34605c6143"
+    },
+    {
+      "title_ru": "Лесные пожары во Франции и Испании: более 300 000 эвакуированы, новая волна жары угрожает ухудшением",
+      "title_en": "France and Spain Wildfires: Over 300,000 Evacuated as New Heatwave Threatens Worsening",
+      "date": "2026-07-28",
+      "summary_en": "Massive wildfires in France and Spain have forced the evacuation of over 300,000 people. The mega-fire near Bordeaux is 'stabilized' but authorities fear renewed outbreak as a new extreme heatwave approaches. The French fire generated a pyrocumulonimbus cloud whose lightning ignited additional fires. Spain has recorded over 3,800 heat-related deaths in what is being called an 'unprecedented' fire season.",
+      "summary": "Масштабные лесные пожары во Франции и Испании вынудили эвакуировать более 300 000 человек. Мега-пожар близ Бордо «стабилизирован», но власти опасаются возобновления с приближением новой волны экстремальной жары. Французский пожар породил пирокумулятивное облако, чьи молнии вызвали новые возгорания. В Испании зафиксировано более 3800 смертей, связанных с жарой; пожарный сезон называют «беспрецедентным».",
+      "category": "politics",
+      "perspective": "Правительства Франции и Испании: климатический кризис требует общеевропейской солидарности и ресурсов. Климатические активисты: доказательство ускоряющегося климатического кризиса, призыв к срочным мерам. Местное население: травма, перемещение, экономические потери. Евросоюз: необходимость укрепления общеевропейского механизма реагирования на природные катастрофы.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The New York Times",
+        "BBC News",
+        "The Guardian",
+        "DW",
+        "France24",
+        "NPR",
+        "CBC News",
+        "The Indian Express",
+        "Times of India",
+        "Antara"
+      ],
+      "links": [
+        "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions",
+        "https://www.nytimes.com/2026/07/27/world/europe/france-spain-fires.html",
+        "https://www.bbc.co.uk/news/articles/cwyrwdj99x2o",
+        "https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins",
+        "https://www.dw.com/en/heat-wave-threatens-to-worsen-france-spain-wildfires/a-78137994",
+        "https://www.france24.com/fr/france/20260728-en-direct-incendies-feux-foret-france-espagne-portugal-gironde-var-retour-chaleur-canicule-pompiers",
+        "https://www.npr.org/2026/07/27/nx-s1-5909107/france-spain-wildfires-updates",
+        "https://www.cbc.ca/news/world/france-spain-wildfire-evacuations-9.7285653",
+        "https://indianexpress.com/article/world/europe-wildfires-force-300000-to-flee-as-france-spain-battle-massive-blazes-10805622/",
+        "https://timesofindia.indiatimes.com/world/europe/french-wildfire-created-a-monster-cloud-unleashing-lightning-that-ignited-more-fires/articleshow/132673244.cms"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-28",
+      "id": "0247070045d8"
+    },
+    {
+      "title_ru": "Йемен наносит удары по нефтяным объектам Саудовской Аравии: конфликт расширяется на Аравийский полуостров",
+      "title_en": "Yemen Targets Saudi Oil Facilities as Regional Conflict Widens",
+      "date": "2026-07-27",
+      "summary_en": "Yemeni forces targeted Saudi Arabia's oil transport facilities, while Saudi air defense shot down Iran-backed drones aimed at Riyadh. Yemen also downed a Saudi spy drone over Jawf province. The attacks mark a dangerous spillover of the Iran conflict into the Arabian Peninsula, threatening global energy infrastructure.",
+      "summary": "Йеменские силы нанесли удары по объектам нефтяной транспортной инфраструктуры Саудовской Аравии; саудовские ПВО сбили поддерживаемые Ираном беспилотники, нацеленные на Эр-Рияд. Йемен также сбил саудовский разведывательный дрон над провинцией Джауф. Атаки знаменуют опасное расширение иранского конфликта на Аравийский полуостров, угрожая глобальной энергетической инфраструктуре.",
+      "category": "politics",
+      "perspective": "Саудовская Аравия и страны Залива: иранские прокси угрожают региональной стабильности; требуются гарантии безопасности от США. Иран и йеменские хуситы: легитимное сопротивление саудовской коалиции. Международное сообщество: страх перед расширением войны на весь Ближний Восток и срывом поставок нефти.",
+      "perspective_type": "assumed",
+      "sources": [
+        "IRNA",
+        "The Indian Express"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86221201/Yemeni-army-targets-Saudi-Arabia-s-oil-transport-facilities",
+        "https://en.irna.ir/news/86220017/Yemen-downs-Saudi-spy-drone-over-Jawf-province",
+        "https://indianexpress.com/article/world/saudi-arabia-shoots-down-iran-drones-riyadh-oil-facilities-west-asia-conflict-10806081/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-27",
+      "id": "bb4f23c4672d"
+    },
+    {
+      "title_ru": "Раскол в Кремниевой долине: закрывать ли доступ Китая к открытым моделям ИИ",
+      "title_en": "Silicon Valley Splits Over Restricting Chinese Access to Open-Source AI",
+      "date": "2026-07-25",
+      "summary_en": "A growing divide has emerged in Silicon Valley over whether to restrict Chinese access to open-source AI models. Proponents of openness argue that sharing accelerates global innovation; critics warn that open models could strengthen China's military and surveillance capabilities. The debate intensifies as Chinese AI models continue gaining ground on their US counterparts.",
+      "summary": "В Кремниевой долине нарастает раскол по вопросу ограничения доступа Китая к открытым моделям искусственного интеллекта. Сторонники открытости утверждают, что обмен ускоряет глобальные инновации; критики предупреждают, что открытые модели могут усилить военный и surveillance-потенциал Китая. Дискуссия обостряется на фоне того, что китайские ИИ-модели продолжают догонять американские аналоги.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "The New York Times",
+        "DW"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html",
+        "https://www.dw.com/en/us-china-ai-rivalry-heats-up-as-chinese-models-gain-ground/a-77899558"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-25",
+      "id": "afe78c2a393e"
+    },
+    {
+      "title_ru": "Meta запускает отдельное приложение Seller для Facebook Marketplace",
+      "title_en": "Meta Launches Standalone 'Seller' App for Facebook Marketplace",
+      "date": "2026-07-24",
+      "summary_en": "Meta has launched a new standalone app called 'Seller' designed specifically for Facebook Marketplace users. The app aims to streamline the selling experience as Meta seeks to compete more aggressively in the peer-to-peer commerce space, diversifying revenue beyond advertising.",
+      "summary": "Meta запустила отдельное приложение «Seller» для пользователей Facebook Marketplace. Приложение призвано упростить процесс продажи товаров; компания стремится усилить позиции в сфере peer-to-peer коммерции и диверсифицировать доходы за пределами рекламного бизнеса.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "The New York Times"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/07/24/technology/meta-facebook-marketplace-seller.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-24",
+      "id": "3a6307ee5f19"
     }
   ],
   "_stats": {
-    "total_tokens": 393011,
-    "total_cost": 43.687552
+    "total_tokens": 420239,
+    "total_cost": 46.990055999999996
   }
 }
