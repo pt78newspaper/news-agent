@@ -1,193 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Meta удалила ИИ-функцию в Instagram после волны backlash",
-      "title_en": "Meta Removes A.I. Feature on Instagram After Days of Backlash",
-      "date": "2026-07-11",
-      "summary_en": "Meta removed an AI-powered feature from Instagram following days of user backlash. The controversial feature had drawn criticism over privacy concerns and the use of personal images. The removal comes amid broader regulatory pressure, including an EU order for Meta to alter addictive design elements on Instagram and Facebook.",
-      "summary": "Meta удалила функцию на базе искусственного интеллекта из Instagram после нескольких дней массового недовольства пользователей. Спорная функция вызвала критику из-за проблем с конфиденциальностью и использованием личных изображений. Удаление происходит на фоне растущего давления регуляторов: ранее ЕС обязал Meta изменить «вызывающие зависимость» элементы дизайна платформ.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The New York Times"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
-        "https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-11",
-      "id": "d092f86cd2da"
-    },
-    {
-      "title_ru": "ЕС обязал Meta изменить «аддиктивный дизайн» Instagram и Facebook",
-      "title_en": "Meta Ordered by E.U. to Alter 'Addictive Design' of Instagram and Facebook",
-      "date": "2026-07-10",
-      "summary_en": "The European Union ordered Meta to alter the 'addictive design' of Instagram and Facebook, escalating regulatory pressure on Big Tech platforms. The order addresses concerns about the platforms' impact on user mental health and well-being, particularly among younger users. The ruling is part of a broader EU push to rein in tech giants under digital services regulations.",
-      "summary": "Европейский союз обязал Meta изменить «аддиктивный дизайн» Instagram и Facebook, усиливая регуляторное давление на крупные технологические платформы. Решение направлено на снижение негативного влияния платформ на психическое здоровье пользователей, особенно молодёжи. Это часть более широкой кампании ЕС по ограничению власти технологических гигантов в рамках законодательства о цифровых услугах.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The New York Times"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-10",
-      "id": "3516544799f9"
-    },
-    {
-      "title_ru": "Иран и США обмениваются ударами пятый день: КСИР атакует базы США, удары расширяются на север Ирана",
-      "title_en": "Iran and US Exchange Strikes for 5th Straight Day: IRGC Pounds US Bases, Strikes Expand to Northern Iran",
-      "date": "2026-07-16",
-      "summary_en": "The IRGC struck US military positions across the region, including Bahrain, Kuwait, and Jordan, and shot down a US MQ-9 drone over Bandar Abbas. The US expanded strikes into northern Iran, while Iran warned it would target all regional infrastructures. US airstrikes killed 35 people in Iran over the past day, and a hospital in Ahvaz was evacuated. Iran declared it is no longer bound by the prior agreement.",
-      "summary": "КСИР нанёс удары по позициям США в Бахрейне, Кувейте и Иордании, сбил американский беспилотник MQ-9 над Бендер-Аббасом. США расширили удары на север Ирана; Иран предупредил, что будет атаковать всю инфраструктуру США в регионе. За сутки американские авиаудары унесли жизни 35 человек в Иране, эвакуирована больница в Ахвазе. Иран заявил, что больше не считает себя связанным прежним соглашением с США.",
-      "category": "politics",
-      "perspective": "США: вынужденная защита национальных интересов и ответ на иранскую агрессию. Иран: сопротивление американскому империализму, защита суверенитета. Европа и ООН: тревога из-за эскалации и гуманитарных последствий. Россия и Китай: осуждение односторонних действий США, призыв к деэскалации.",
-      "perspective_type": "assumed",
-      "sources": [
-        "BBC",
-        "The New York Times",
-        "The Guardian",
-        "DW",
-        "IRNA",
-        "TASS",
-        "Tehran Times"
-      ],
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo",
-        "https://www.nytimes.com/2026/07/16/world/middleeast/iran-war-us-strikes.html",
-        "https://www.theguardian.com/world/live/2026/jul/16/iran-us-donald-trump-war-strait-hormuz-oil-israel-lebanon-latest-news-updates",
-        "https://www.dw.com/en/iran-threatens-regional-strikes-as-us-intensifies-attacks/live-77976690",
-        "https://en.irna.ir/news/86210737/IRGC-pounds-US-positions-across-region",
-        "https://en.irna.ir/news/86210674/IRGC-shoots-down-US-MQ-9-drone",
-        "https://en.irna.ir/news/86210772/Iran-warns-US-of-targeting-all-infrastructures-in-region",
-        "https://tass.com/world/2160825",
-        "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-16",
-      "id": "d173a77f41af"
-    },
-    {
-      "title_ru": "Зеленский увольняет министра обороны Федорова: протесты в 14 городах, парламент утверждает нового премьера",
-      "title_en": "Zelenskyy Dismisses Defense Minister Fedorov; Protests Erupt in 14 Cities, Parliament Approves New PM",
-      "date": "2026-07-16",
-      "summary_en": "Ukrainian President Zelenskyy dismissed popular Defense Minister Mykhailo Fedorov, a proponent of drone warfare, sparking mass protests across 14 Ukrainian cities. Parliament approved Serhii Koretskyi as the new Prime Minister amid a broader cabinet reshuffle. UK PM Starmer made a farewell visit to Kyiv, pledging 'cast-iron support' for Ukraine.",
-      "summary": "Президент Украины Зеленский отправил в отставку популярного министра обороны Михаила Федорова — сторонника «войны дронов». Это вызвало массовые протесты в 14 городах Украины под лозунгами «Не трогайте Федорова». Парламент утвердил Сергея Корецкого новым премьер-министром. На фоне перестановок уходящий премьер Британии Стармер посетил Киев с прощальным визитом, пообещав «железную поддержку».",
-      "category": "politics",
-      "perspective": "Офис Зеленского: необходимая реорганизация правительства. Протестующие: увольнение эффективного министра в разгар войны недопустимо. Россия (Песков): перестановки не имеют значения для РФ. Западные союзники: обеспокоены стабильностью украинского руководства, но продолжают поддержку.",
-      "perspective_type": "assumed",
-      "sources": [
-        "The New York Times",
-        "BBC",
-        "The Guardian",
-        "The Hindu",
-        "Times of India",
-        "TASS",
-        "DW",
-        "Le Monde"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/07/15/world/europe/ukraine-minister-of-defense-mykhailo-fedorov-zelensky-war-russia.html",
-        "https://www.bbc.co.uk/news/articles/cdx76069n3do",
-        "https://www.theguardian.com/world/live/2026/jul/16/europe-ukraine-russia-zelenskyy-starmer-macron-merz-latest-news-updates",
-        "https://www.thehindu.com/news/international/protests-erupt-across-ukraine-against-removal-of-defence-minister/article71229010.ece",
-        "https://timesofindia.indiatimes.com/world/europe/ukraine-gets-new-pm-parliament-approves-serhii-koretskyi-amid-cabinet-shuffle/articleshow/132435600.cms",
-        "https://tass.com/world/2160965",
-        "https://www.dw.com/en/why-is-zelenskyy-reshuffling-ukraine-s-government/a-77959640",
-        "https://www.lemonde.fr/international/live/2026/07/16/en-direct-guerre-en-ukraine-l-aiea-deplore-la-mort-de-l-ingenieur-en-chef-de-la-centrale-nucleaire-de-zaporijia_6722853_3210.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-16",
-      "id": "c9807fb5e7b0"
-    },
-    {
-      "title_ru": "Аргентина обыграла Англию и вышла в финал ЧМ-2026; скандал с фолклендским баннером",
-      "title_en": "Argentina Stuns England to Reach World Cup 2026 Final; Falklands Banner Sparks FIFA Investigation Call",
-      "date": "2026-07-16",
-      "summary_en": "Argentina defeated England in the World Cup semifinal with a late comeback, securing a spot in the final against Spain. Lionel Messi was named Man of the Match. After the match, Argentine players displayed a banner reading 'Malvinas are Argentinian,' prompting the UK to call for a FIFA investigation. Argentina now faces potential disciplinary action.",
-      "summary": "Аргентина одержала волевую победу над Англией в полуфинале ЧМ-2026 и вышла в финал против Испании. Лионель Месси признан игроком матча. После игры аргентинские игроки развернули баннер «Мальвины — аргентинские», что вызвало требование Великобритании к ФИФА начать расследование. Аргентине грозит дисциплинарное разбирательство.",
-      "category": "politics",
-      "perspective": "Аргентина: Мальвины — историческая территория, футбольный триумф — повод для национальной гордости. Великобритания: политические жесты на спортивных мероприятиях недопустимы, ФИФА должна реагировать. ФИФА: балансирует между дисциплинарными правилами и нежеланием политизировать спорт. Латиноамериканские страны: преимущественно на стороне Аргентины по вопросу Мальвин.",
-      "perspective_type": "assumed",
-      "sources": [
-        "DW",
-        "BBC",
-        "The Guardian",
-        "Indian Express",
-        "TASS",
-        "CBC",
-        "NYT"
-      ],
-      "links": [
-        "https://www.dw.com/en/uk-calls-for-fifa-investigation-over-argentina-banner/a-77980457",
-        "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo",
-        "https://www.theguardian.com/football/2026/jul/15/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner",
-        "https://indianexpress.com/article/sports/football/argentina-break-england-hearts-to-book-fifa-world-cup-final-vs-spain-10788499/",
-        "https://tass.com/sports/2160823",
-        "https://www.cbc.ca/sports/soccer/worldcup/fifa-world-cup-recap-argentina-england-july-15-9.7270655",
-        "https://www.nytimes.com/2026/07/15/world/americas/argentina-england-rivalry-world-cup.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-16",
-      "id": "4e11e3eec2d4"
-    },
-    {
-      "title_ru": "Российские ПВО сбили 802 беспилотника ВСУ за сутки; атаки на Москву и промзону Салавата",
-      "title_en": "Russian Air Defense Shoots Down 802 Ukrainian Drones in 24 Hours; Attacks Target Moscow and Salavat Industrial Zone",
-      "date": "2026-07-16",
-      "summary_en": "Russian air defense forces reported intercepting 802 Ukrainian drones over the past 24 hours, including 375 overnight and 6 on approach to Moscow. A mass drone attack targeted the industrial zone of Salavat in Bashkortostan. The scale of drone attacks represents a significant intensification of the air war.",
-      "summary": "Силы ПВО России заявили о перехвате 802 украинских беспилотников за последние сутки, включая 375 — за ночь и 6 — на подлёте к Москве. Массированная атака БПЛА была совершена на промышленную зону Салавата в Башкирии. Масштаб атак беспилотников свидетельствует о значительной интенсификации воздушной войны.",
-      "category": "politics",
-      "perspective": "Россия: успешное отражение террористических атак украинского режима; демонстрация эффективности ПВО. Украина: нанесение ударов по военной и промышленной инфраструктуре противника. Запад: обеспокоенность эскалацией, но признание права Украины на самооборону.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Ведомости",
-        "Коммерсантъ"
-      ],
-      "links": [
-        "https://www.vedomosti.ru/politics/news/2026/07/16/1214187-sili-pvo-sbili",
-        "https://www.kommersant.ru/doc/8816090",
-        "https://www.vedomosti.ru/politics/news/2026/07/16/1214082-sobyanin-sili-pvo-sbili",
-        "https://www.kommersant.ru/doc/8816041",
-        "https://www.vedomosti.ru/politics/news/2026/07/14/1213418-habirov-sili-pvo",
-        "https://www.kommersant.ru/doc/8814514"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-16",
-      "id": "f8109096d3ee"
-    },
-    {
-      "title_ru": "Кремль: обострение вокруг Ирана опасно для мировой экономики; ситуация в экономике РФ стабильна",
-      "title_en": "Kremlin: Iran Escalation Dangerous for Global Economy; Russia's Economic Situation Stable",
-      "date": "2026-07-16",
-      "summary_en": "Kremlin spokesperson Dmitry Peskov stated that the escalation around Iran poses a danger to the global economy. He described Russia's economic situation as stable and not critical, asserting that President Putin and the cabinet know what measures to take. Peskov also dismissed the significance of Ukraine's cabinet reshuffle, rejected the characterization of Russia as China's 'junior partner,' and noted that Iran has not yet requested a phone call with Putin.",
-      "summary": "Пресс-секретарь Кремля Дмитрий Песков заявил, что обострение вокруг Ирана опасно для мировой экономики. Он охарактеризовал экономическую ситуацию в России как стабильную и некритическую, отметив, что Путин и кабмин знают, что делать. Песков также назвал перестановки в правительстве Украины не имеющими значения для РФ, отверг характеристику России как «младшего партнёра Китая» и сообщил, что Иран пока не запрашивал разговора с Путиным.",
-      "category": "politics",
-      "perspective": "Кремль: Россия сохраняет экономическую устойчивость вопреки санкциям; конфликт США и Ирана угрожает всем. Запад: российская экономика испытывает структурные трудности, заявления Кремля — пропаганда. Иран: ожидает более активной поддержки от России. Китай: не комментирует характеристику «младшего партнёра».",
-      "perspective_type": "assumed",
-      "sources": [
-        "ТАСС",
-        "Коммерсантъ",
-        "Ведомости"
-      ],
-      "links": [
-        "https://tass.ru/politika/27922615",
-        "https://tass.ru/politika/27922617",
-        "https://www.kommersant.ru/doc/8816338",
-        "https://www.kommersant.ru/doc/8814927",
-        "https://tass.ru/politika/27922633",
-        "https://www.vedomosti.ru/politics/news/2026/07/16/1214199-premer-ministra-ukraini"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-16",
-      "id": "5d2c8836d19a"
-    },
-    {
       "title_ru": "Стармер совершает прощальный визит в Киев: «железная поддержка» Украине",
       "title_en": "Starmer Makes Farewell Visit to Kyiv, Pledges 'Cast-Iron Support' for Ukraine",
       "date": "2026-07-16",
@@ -2519,10 +2332,181 @@
       "is_development": false,
       "first_reported": "2026-07-24",
       "id": "3a6307ee5f19"
+    },
+    {
+      "title_ru": "Сенат США одобрил в первом голосовании законопроект о новых санкциях против России",
+      "title_en": "US Senate Advances Russia Sanctions Bill in First Vote, Granting Trump New Tariff Powers",
+      "date": "2026-07-29",
+      "summary_en": "The US Senate voted to advance the Graham sanctions bill against Russia, which would grant President Trump new tariff powers. Concurrently, Bloomberg reports the EU is preparing sanctions against 1,600 companies linked to Russia. Zelenskyy and Finnish President Stubb jointly explained to the US the purpose of 'crushing sanctions' against Moscow.",
+      "summary": "Сенат США в первом голосовании поддержал законопроект сенатора Грэма о новых антироссийских санкциях — документ также даёт президенту Трампу новые тарифные полномочия. Параллельно Bloomberg сообщил о подготовке ЕС санкций против 1600 компаний, связанных с Россией. Зеленский и президент Финляндии Стубб совместно объясняли США смысл «сокрушительных санкций» против Москвы.",
+      "category": "politics",
+      "perspective": "Республиканцы продвигают законопроект как инструмент давления на РФ с сохранением гибкости для Трампа; демократы настаивают на жёстких автоматических санкциях. Россия рассматривает законопроект как враждебную эскалацию. В ЕС — раскол: часть стран (Греция) блокирует новые пакетные санкции, вынуждая искать альтернативные подходы.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Kommersant",
+        "Lenta.ru",
+        "Vedomosti",
+        "The Guardian"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8846920",
+        "https://lenta.ru/news/2026/07/29/v-ssha-raskryli-sut-zakonoproekta-o-sanktsiyah-protiv-rossii/",
+        "https://www.vedomosti.ru/politics/news/2026/07/28/1217104-ssha-sanktsii-nefti",
+        "https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-29",
+      "id": "c152d79cff86"
+    },
+    {
+      "title_ru": "Трамп провёл встречи с Зеленским и Нетаньяху: обсуждены Украина и Иран",
+      "title_en": "Trump Holds Back-to-Back Meetings with Zelenskyy and Netanyahu on Ukraine and Iran",
+      "date": "2026-07-29",
+      "summary_en": "President Trump held consecutive meetings with Volodymyr Zelenskyy and Benjamin Netanyahu at the White House, praising both as 'very good.' The White House described the talks as 'positive.' Discussions covered the Ukraine conflict settlement and the Iran situation. WSJ reported Trump's growing optimism about Ukraine resolution prospects.",
+      "summary": "Президент Трамп провёл в Белом доме встречи с Владимиром Зеленским и Биньямином Нетаньяху, назвав обе «очень хорошими». Белый дом охарактеризовал переговоры как «позитивные». Обсуждались урегулирование украинского конфликта и ситуация вокруг Ирана. WSJ сообщила о растущем оптимизме Трампа относительно перспектив украинского урегулирования.",
+      "category": "politics",
+      "perspective": "Сторонники Трампа видят в этом подтверждение его роли глобального переговорщика; критики сомневаются в наличии конкретных результатов. Украина приветствует продолжение диалога с США. Израиль укрепляет координацию с администрацией. Россия скептически оценивает способность Трампа повлиять на урегулирование.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Kommersant",
+        "Vedomosti",
+        "The Guardian",
+        "Belta",
+        "Ukrinform"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8847017",
+        "https://www.vedomosti.ru/politics/news/2026/07/29/1217208-tramp-nazval-ochen",
+        "https://www.theguardian.com/us-news/2026/jul/28/trump-netanyahu-zelenskyy-meetings",
+        "https://belta.by/world/view/tramp-zajavil-chto-obsudil-mnogo-voprosov-s-zelenskim-i-netanjjahu-793511-2026/",
+        "https://www.ukrinform.ua/rubric-polytics/4148967-zelenskij-podakuvav-senatoram-ssa-za-pidtrimku-ta-uhvalenna-sankcijnogo-zakonoproektu.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-29",
+      "id": "2cbe0fbf850f"
+    },
+    {
+      "title_ru": "Землетрясение магнитудой 7.1 в Японии: 13 погибших, спасательная операция продолжается",
+      "title_en": "Japan 7.1 Magnitude Earthquake Kills 13, Rescue Race Against Time in Kumamoto",
+      "date": "2026-07-29",
+      "summary_en": "A powerful 7.1 magnitude earthquake struck Kumamoto, Japan, killing at least 13 people and injuring over 100. The quake caused a shopping mall explosion, damaged the 400-year-old Kumamoto Castle, and trapped people under rubble. Rescue teams are racing against time to find survivors as aftershocks continue.",
+      "summary": "Мощное землетрясение магнитудой 7.1 произошло в Кумамото (Япония): погибли не менее 13 человек, более 100 пострадали. Подземные толчки вызвали взрыв в торговом центре, повредили 400-летний замок Кумамото и оставили людей под завалами. Спасатели ведут «гонку со временем» в поисках выживших на фоне продолжающихся афтершоков.",
+      "category": "politics",
+      "perspective": "Гуманитарная катастрофа вне политических разногласий. Японское правительство мобилизует все ресурсы на спасение. Международное сообщество выражает соболезнования и предлагает помощь.",
+      "perspective_type": "unclear",
+      "sources": [
+        "BBC",
+        "NPR",
+        "The Guardian",
+        "NYT",
+        "DW",
+        "The Hindu",
+        "CBC"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cvgw52l5kyyo",
+        "https://www.npr.org/2026/07/29/nx-s1-5911613/japan-earthquake-updates",
+        "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-death-aftershocks",
+        "https://www.nytimes.com/2026/07/28/world/asia/japan-earthquake-kumamoto-rescue-survivors.html",
+        "https://www.dw.com/en/japan-rescue-race-against-time-after-deadly-earthquake-hits-kumamoto/a-78143660"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-29",
+      "id": "fb06fc79b145"
+    },
+    {
+      "title_ru": "Массированные атаки БПЛА на Россию: 295 дронов сбито за ночь, жертвы в Таганроге",
+      "title_en": "Mass Drone Attacks on Russia Intensify: 295 UAVs Downed Overnight, Casualties in Taganrog",
+      "date": "2026-07-29",
+      "summary_en": "Russian air defenses shot down 295 Ukrainian drones overnight over multiple regions, including 45 over Ryazan. This follows the previous night's record of 356 drones downed. In Taganrog, the number of casualties from earlier drone strikes has grown. A drone struck a residential building in Chekhov near Moscow. Total 842 drones downed in 24 hours on July 28.",
+      "summary": "Российские силы ПВО сбили 295 украинских беспилотников за ночь над регионами РФ, включая 45 над Рязанской областью. Это продолжение рекордных атак: предыдущей ночью — 356 дронов, за сутки 28 июля — 842. В Таганроге выросло число пострадавших при атаке БПЛА. В подмосковном Чехове дрон попал в многоквартирный дом.",
+      "category": "politics",
+      "perspective": "Российские официальные лица характеризуют атаки как террористические действия Украины против гражданского населения. Украинская сторона рассматривает удары как законные военные действия. Интенсивность атак свидетельствует о новой фазе конфликта с акцентом на дальние беспилотные удары.",
+      "perspective_type": "from_source",
+      "sources": [
+        "Kommersant",
+        "TASS",
+        "Vedomosti"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8847081",
+        "https://tass.ru/proisshestviya/27963199",
+        "https://www.vedomosti.ru/politics/news/2026/07/29/1217222-pvo-unichtozhili-295",
+        "https://www.kommersant.ru/doc/8847042"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-29",
+      "id": "13245bce051d"
+    },
+    {
+      "title_ru": "США и Саудовская Аравия наносят удары по проиранским силам в Ираке; война с Ираном нарастает",
+      "title_en": "US-Saudi Forces Strike Iran-Backed Iraqi Militias as Gulf War Intensifies",
+      "date": "2026-07-29",
+      "summary_en": "US and Saudi forces struck Iran-backed militia groups in Iraq, marking an escalation after a brief pause. Saudi Arabia intercepted Iranian drones over its oil facilities. The Pentagon changed its Iran war casualty reporting methods, raising transparency concerns. The UK faces 'difficult trade-offs' in its budget due to the war's economic impact. The ECB earlier kept interest rates unchanged amid war-driven inflation.",
+      "summary": "США и Саудовская Аравия нанесли удары по проиранским ополченцам в Ираке — эскалация после краткой паузы в боевых действиях. Саудовская Аравия перехватила иранские БПЛА над нефтяными объектами. Пентагон изменил порядок отчётности о потерях в иранской войне, что вызвало вопросы о прозрачности. В Британии признали «очень трудные компромиссы» в бюджете из-за экономических последствий войны.",
+      "category": "politics",
+      "perspective": "Администрация Трампа представляет удары как необходимую оборону; Иран называет войну «безрассудной», а Трампа — «самым презренным президентом». Европейские союзники обеспокоены экономическими последствиями: инфляция, сбои в цепочках поставок. Страны Персидского залива переосмысливают стратегии безопасности — Оман предлагает добровольные сборы за проход через Ормузский пролив.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The Hindu",
+        "DW",
+        "The Guardian",
+        "Tehran Times",
+        "NYT",
+        "Indian Express"
+      ],
+      "links": [
+        "https://www.thehindu.com/news/international/iran-israel-us-war-july-29-2026-latest-updates-strait-of-hormuz-donald-trump-oil-prices-today/article71279588.ece",
+        "https://www.dw.com/en/iran-war-us-saudi-arabia-strike-iran-backed-iraqi-militias/live-78152241",
+        "https://www.theguardian.com/business/2026/jul/29/uk-faces-trade-offs-because-of-iran-war-inflation",
+        "https://www.tehrantimes.com/news/528669/Pentagon-changes-Iran-war-casualty-reporting-raising-questions",
+        "https://www.nytimes.com/2026/07/28/world/asia/iran-war-price-inflation-street-food-asia.html"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-29",
+      "id": "381be274d0a7"
+    },
+    {
+      "title_ru": "Moonshot AI открыла веса модели Kimi K3 под пользовательской лицензией",
+      "title_en": "China's Moonshot AI Releases Kimi K3 Model Weights Under Custom License",
+      "date": "2026-07-28",
+      "summary_en": "Chinese AI company Moonshot AI released the model weights for its Kimi K3 large language model under a custom license. The move signals growing momentum for open-weight AI models, allowing enterprises to deploy and fine-tune the model on their own infrastructure. This comes amid ongoing global debate about open versus closed AI models and their strategic implications.",
+      "summary": "Китайская Moonshot AI опубликовала веса своей большой языковой модели Kimi K3 под пользовательской лицензией. Это отражает растущий тренд на открытые модели ИИ: предприятия получают возможность развёртывать и дообучать модель на собственной инфраструктуре. Событие происходит на фоне глобальных дебатов об открытых и закрытых ИИ-моделях.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Indian Express"
+      ],
+      "links": [
+        "https://indianexpress.com/article/technology/artificial-intelligence/china-moonshot-ai-kimi-k3-model-weights-custom-licence-10807478/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-28",
+      "id": "152192bfcc3c"
+    },
+    {
+      "title_ru": "Samsung планирует использовать кремний-углеродные батареи в серии Galaxy S",
+      "title_en": "Samsung Plans to Adopt Silicon-Carbon Batteries for Galaxy S Series",
+      "date": "2026-07-29",
+      "summary_en": "Samsung is planning to introduce silicon-carbon (Si-C) battery technology in its Galaxy S smartphone lineup. Si-C batteries offer significant advantages over traditional lithium-ion cells, including higher energy density and longer lifespan, potentially enabling thinner devices with longer battery life.",
+      "summary": "Samsung планирует внедрить кремний-углеродные (Si-C) аккумуляторы в смартфоны серии Galaxy S. Технология обеспечивает более высокую плотность энергии и увеличенный срок службы по сравнению с традиционными литий-ионными батареями, что позволит создавать более тонкие устройства с повышенной автономностью.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Antara News"
+      ],
+      "links": [
+        "https://www.antaranews.com/berita/5670681/samsung-berencana-pakai-baterai-si-c-pada-galaxy-s-ini-keunggulannya"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-29",
+      "id": "08c340f0830b"
     }
   ],
   "_stats": {
-    "total_tokens": 420239,
-    "total_cost": 46.990055999999996
+    "total_tokens": 445620,
+    "total_cost": 49.802192
   }
 }
