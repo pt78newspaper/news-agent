@@ -1,196 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Стармер совершает прощальный визит в Киев: «железная поддержка» Украине",
-      "title_en": "Starmer Makes Farewell Visit to Kyiv, Pledges 'Cast-Iron Support' for Ukraine",
-      "date": "2026-07-16",
-      "summary_en": "Outgoing UK Prime Minister Keir Starmer visited Kyiv on his final trip as PM, pledging 'cast-iron support' for Ukraine. The visit coincided with Zelenskyy's controversial dismissal of Defense Minister Fedorov and mass protests. The EU also announced 300 million euros in grants to finance Ukraine's defense.",
-      "summary": "Уходящий премьер-министр Великобритании Кир Стармер посетил Киев с последним визитом в должности, пообещав «железную поддержку» Украине. Визит совпал со скандальной отставкой министра обороны Федорова и массовыми протестами. ЕС также объявил о выделении 300 млн евро грантов на оборону Украины.",
-      "category": "politics",
-      "perspective": "Великобритания: демонстрация неизменной поддержки Украины вне зависимости от смены правительства. Украина: ценит поддержку, но сталкивается с внутренними кризисами. Россия: осуждает вмешательство Запада, видит смену правительства Британии как возможное окно для пересмотра отношений.",
-      "perspective_type": "assumed",
-      "sources": [
-        "BBC",
-        "The Guardian",
-        "TASS"
-      ],
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cx2myl1erj8o",
-        "https://www.theguardian.com/world/live/2026/jul/16/europe-ukraine-russia-zelenskyy-starmer-macron-merz-latest-news-updates",
-        "https://tass.com/economy/2160747"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-16",
-      "id": "ff91d6082600"
-    },
-    {
-      "title_ru": "ЕС делает шаг к возможному запрету соцсетей для детей младше 13 лет",
-      "title_en": "Europe Takes Step Toward Possible Social Media Ban for Children Under 13",
-      "date": "2026-07-13",
-      "summary_en": "EU experts have urged social media restrictions for children under 13, marking a significant step toward a possible Europe-wide ban. The initiative reflects growing concerns about the impact of social media on children's mental health and follows broader EU regulatory efforts to rein in tech platforms, including requirements for Meta to change the 'addictive design' of Instagram and Facebook.",
-      "summary": "Эксперты ЕС рекомендовали ограничить доступ к социальным сетям для детей младше 13 лет — значительный шаг к возможному общеевропейскому запрету. Инициатива отражает растущую обеспокоенность влиянием соцсетей на психическое здоровье детей и продолжает курс ЕС на регулирование технологических платформ.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The New York Times",
-        "DW"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/07/13/technology/europe-teen-social-media-ban.html",
-        "https://www.dw.com/en/eu-experts-urge-social-media-restrictions-for-kids-under-13/a-77931424"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-13",
-      "id": "d3a6f1298da4"
-    },
-    {
-      "title_ru": "Шестая ночь ударов США по Ирану: атакованы мосты и порты, Иран наносит ответные удары по базам США в регионе",
-      "title_en": "Sixth Night of US Strikes on Iran: Bridges and Ports Hit, Iran Retaliates Against US Bases in Gulf",
-      "date": "2026-07-17",
-      "summary_en": "The US launched strikes on at least five bridges in Iran's Bandar-e Imam Khomeyni and a port in Chabahar, while US Marines boarded a tanker amid a blockade of Iranian ports. Iran retaliated with drone attacks on US military sites in Bahrain and Kuwait, and struck power and desalination plants in Kuwait. The conflict has expanded to Syria and Iraq, with Iran warning of a 'devastating' response to further aggression.",
-      "summary": "США нанесли удары как минимум по пяти мостам в районе Бендер-Имам Хомейни и порту Чабахар на юге Ирана; морская пехота США взяла на абордаж танкер в рамках блокады иранских портов. Иран ответил атаками дронов на военные объекты США в Бахрейне и Кувейте, а также вывел из строя электростанции и опреснительные заводы в Кувейте. Конфликт распространился на Сирию и Ирак; Иран предупредил об «опустошительном» ответе на любую новую агрессию против инфраструктуры.",
-      "category": "politics",
-      "perspective": "Администрация Трампа представляет удары как вынужденную меру для принуждения Ирана к переговорам, однако критики (NYT) называют это риском новой «вечной войны». Иран и сочувствующие ему силы осуждают атаки как военные преступления против гражданской инфраструктуры. Россия и Китай призывают к деэскалации, страны Персидского залива опасаются быть втянутыми в конфликт.",
-      "perspective_type": "from_source",
-      "sources": [
-        "The New York Times",
-        "BBC",
-        "The Guardian",
-        "DW",
-        "TASS",
-        "Indian Express",
-        "IRNA",
-        "Tehran Times"
-      ],
-      "links": [
-        "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
-        "https://www.bbc.co.uk/news/articles/c151gdjwd10o",
-        "https://www.theguardian.com/world/2026/jul/17/us-marines-board-ship-gulf-oman-expanded-airstrikes-iran",
-        "https://www.dw.com/en/iran-war-us-hits-bridges-as-tehran-retaliates-across-region/live-77996555",
-        "https://tass.com/world/2161365",
-        "https://tass.com/world/2161363",
-        "https://indianexpress.com/article/world/us-iran-war-news-live-updates-sixth-night-strikes-hormuz-blockade-trump-10790255/",
-        "https://en.irna.ir/news/86211284/Iran-s-Army-strikes-US-military-sites-in-Bahrain-Kuwait",
-        "https://en.irna.ir/news/86211391/Iran-s-UN-envoy-condemns-US-attacks-on-civilian-infrastructure"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-17",
-      "id": "67695b5f157c"
-    },
-    {
-      "title_ru": "Трамп обвиняет Китай во вмешательстве в выборы США перед промежуточными выборами",
-      "title_en": "Trump Accuses China of US Election Meddling Ahead of Midterms",
-      "date": "2026-07-17",
-      "summary_en": "President Trump, in a national address, alleged that China stole 220 million voter files from 18 states and meddled in the 2020 election. China's embassy firmly rejected the accusations as 'baseless,' and Russia's Kremlin called the allegations 'impersonalized.' Critics fear Trump is laying groundwork to challenge midterm results, with analysts describing the speech as aimed at destabilizing the US electoral system.",
-      "summary": "Президент Трамп в обращении к нации обвинил Китай в краже 220 миллионов файлов избирателей из 18 штатов и вмешательстве в выборы 2020 года. Посольство КНР решительно отвергло обвинения, назвав их безосновательными; Кремль также назвал информацию «обезличенной». Критики опасаются, что Трамп готовит почву для оспаривания результатов промежуточных выборов; аналитики называют обращение попыткой дестабилизировать избирательную систему США.",
-      "category": "politics",
-      "perspective": "Сторонники Трампа рассматривают это как защиту избирательного суверенитета США. Демократы и аналитики (The Guardian, NPR) видят в этом попытку делегитимизации предстоящих мидтермов. Китай и Россия отвергают обвинения как политически мотивированные. Международные наблюдатели (DW, BBC) отмечают отсутствие доказательств.",
-      "perspective_type": "from_source",
-      "sources": [
-        "The Guardian",
-        "BBC",
-        "DW",
-        "TASS",
-        "The Times of India",
-        "Indian Express",
-        "NPR",
-        "Tagesschau"
-      ],
-      "links": [
-        "https://www.theguardian.com/us-news/2026/jul/16/trump-tv-address-thursday",
-        "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo",
-        "https://www.dw.com/en/donald-trump-accuses-china-of-meddling-in-us-elections/a-77996793",
-        "https://tass.com/world/2161461",
-        "https://timesofindia.indiatimes.com/world/us/trump-alleges-china-interference-in-us-elections-amid-suspicion-hes-prepping-for-mid-term-loss/articleshow/132457509.cms",
-        "https://indianexpress.com/article/world/220-million-voters-18-states-sensitive-info-leaked-trump-claims-china-meddling-us-election-10790395/",
-        "https://www.npr.org/2026/07/16/nx-s1-5896487/an-analysis-of-president-trumps-address",
-        "https://www.tagesschau.de/ausland/amerika/trump-rede-an-die-nation-104.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-17",
-      "id": "4ac06671741b"
-    },
-    {
-      "title_ru": "Финал ЧМ-2026: Аргентина против Испании — Трамп подтвердил присутствие, победители получат чемпионские кольца",
-      "title_en": "World Cup 2026 Final: Argentina vs Spain — Trump Confirms Attendance, Winners to Get Championship Rings",
-      "date": "2026-07-17",
-      "summary_en": "Argentina and Spain face off in the FIFA World Cup 2026 final at MetLife Stadium. President Trump's attendance has been confirmed, and FIFA announced championship rings for the winners. Argentine President Milei will not attend due to superstition. Concerns have been raised about the stadium's grass quality, while VAR controversies and Kalshi's World Cup betting odds continue to draw attention.",
-      "summary": "Аргентина и Испания встретятся в финале ЧМ-2026 на стадионе MetLife. Трамп подтвердил своё присутствие, FIFA анонсировала чемпионские кольца для победителей. Президент Аргентины Милей не посетит матч из-за суеверия. Состояние газона стадиона вызывает опасения, а споры вокруг VAR и ставок на Kalshi остаются в центре внимания.",
-      "category": "politics",
-      "perspective": "Для администрации Трампа финал — возможность продемонстрировать способность США проводить глобальные мероприятия на фоне военного конфликта. Аргентина и Великобритания находятся в дипломатическом напряжении после скандала с фолклендским баннером. Консервативные круги США поддерживают патриотический аспект мероприятия; футбольные аналитики критикуют FIFA за чрезмерную коммерциализацию.",
-      "perspective_type": "assumed",
-      "sources": [
-        "BBC",
-        "NPR",
-        "Indian Express",
-        "The Guardian",
-        "DW",
-        "The New York Times"
-      ],
-      "links": [
-        "https://www.bbc.co.uk/sport/football/articles/cgmk7mnnyjeo",
-        "https://www.npr.org/2026/07/17/nx-s1-5896544/2026-world-cup-fifa-var-video-assitant-referee",
-        "https://indianexpress.com/article/sports/football/metlife-stadium-grass-threat-argentina-spain-fifa-world-cup-final-10790921/",
-        "https://indianexpress.com/article/sports/football/why-argentina-president-milei-not-attend-fifa-world-cup-final-superstition-10790859/",
-        "https://www.theguardian.com/football/2026/jul/15/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner",
-        "https://www.nytimes.com/2026/07/16/world/world-cup-spain-argentina-ukraine.html"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-17",
-      "id": "b2b120674b31"
-    },
-    {
-      "title_ru": "Российские ПВО сбили 4661 украинский беспилотник за неделю; за ночь — 243 БПЛА",
-      "title_en": "Russian Air Defense Downs 4,661 Ukrainian Drones in a Week; 243 Overnight",
-      "date": "2026-07-17",
-      "summary_en": "The Russian Ministry of Defense reported that air defense forces shot down 4,661 Ukrainian drones over the week, including 243 overnight. Russian forces also struck Ukrainian defense industry enterprises. Six drones were intercepted on approach to Moscow; over the previous days, daily shootdowns ranged from 117 to 802 UAVs.",
-      "summary": "Минобороны РФ сообщило, что за неделю силы ПВО сбили 4661 украинский беспилотник, из них 243 — за ночь. Также нанесены удары по предприятиям ВПК Украины. Шесть БПЛА были перехвачены на подлёте к Москве. В предыдущие дни суточные показатели сбитых дронов колебались от 117 до 802 единиц.",
-      "category": "politics",
-      "perspective": "Российские официальные источники подают это как доказательство эффективности ПВО и истощения украинского арсенала. Украинская сторона и западные аналитики могут рассматривать массированные атаки дронов как способ перенапряжения российских систем ПВО. Независимая верификация затруднена в условиях конфликта.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Vedomosti",
-        "Kommersant",
-        "TASS"
-      ],
-      "links": [
-        "https://www.vedomosti.ru/politics/news/2026/07/17/1214498-rossiiskie-sili",
-        "https://www.vedomosti.ru/politics/news/2026/07/17/1214414-sili-pvo",
-        "https://www.kommersant.ru/doc/8816844",
-        "https://tass.ru/armiya-i-opk/27926117"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-17",
-      "id": "80e28f684216"
-    },
-    {
-      "title_ru": "Иран осуждает удары США по гражданской инфраструктуре и призывает соседей блокировать американские атаки",
-      "title_en": "Iran Condemns US Strikes on Civilian Infrastructure, Urges Neighbors to Block American Attacks",
-      "date": "2026-07-17",
-      "summary_en": "Iran's UN envoy condemned US attacks on civilian infrastructure as war crimes, while Tehran's Foreign Ministry urged Middle Eastern states to prevent the US from launching attacks from their territories. Iran filed a formal UN complaint detailing dozens of US breaches of a memorandum of understanding. Iranian officials stated that 'children, schools, hospitals are not safe from the US war machine.'",
-      "summary": "Посол Ирана в ООН осудил удары США по гражданской инфраструктуре как военные преступления. МИД Ирана призвал ближневосточные государства не допускать использования своей территории для американских атак. Иран подал официальную жалобу в ООН, а иранские официальные лица заявили, что «дети, школы и больницы не защищены от военной машины США».",
-      "category": "politics",
-      "perspective": "Иран и его союзники позиционируют это как противоправные действия США против гражданского населения. Западные союзники США (Великобритания, Израиль) обосновывают удары правом на самооборону. Нейтральные страны (Индия, Китай) могут рассматривать это как опасную эскалацию, угрожающую региональной стабильности.",
-      "perspective_type": "from_source",
-      "sources": [
-        "IRNA",
-        "Tehran Times",
-        "TASS",
-        "The Guardian"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86211391/Iran-s-UN-envoy-condemns-US-attacks-on-civilian-infrastructure",
-        "https://en.irna.ir/news/86211213/Iran-s-military-warns-of-devastating-response-to-any-new-aggression",
-        "https://en.irna.ir/news/86211094/Children-schools-hospitals-not-safe-from-US-war-machine-Iranian",
-        "https://tass.com/world/2161225",
-        "https://www.tehrantimes.com/news/528221/Iran-files-formal-UN-complaint-detailing-dozens-of-US-breaches"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-17",
-      "id": "505f8b21cfcb"
-    },
-    {
       "title_ru": "OpenAI показывает коэффициенты ставок Kalshi на ЧМ-2026 в ChatGPT",
       "title_en": "OpenAI Is Showing Kalshi's World Cup Odds in ChatGPT",
       "date": "2026-07-14",
@@ -2503,10 +2313,188 @@
       "is_development": false,
       "first_reported": "2026-07-29",
       "id": "08c340f0830b"
+    },
+    {
+      "title_ru": "США наносят массированные удары по Ирану после паузы; Иордания сбивает иранские ракеты",
+      "title_en": "US Launches Heavy Strikes on Iran After Pause; Jordan Foils Iranian Missile Attack",
+      "date": "2026-07-30",
+      "summary_en": "After a days-long pause, the US military launched 'heavy' strikes on Iranian targets in Qeshm and Bandar Abbas, retaliating for an attempted Iranian missile attack on American forces in Jordan that was intercepted by Jordanian air defenses. CENTCOM confirmed the completion of the strike series, while Trump stated there are no plans to end the war despite continued attacks on US bases.",
+      "summary": "После многодневной паузы США нанесли «тяжёлые» удары по иранским объектам в Кешме и Бендер-Аббасе в ответ на попытку ракетной атаки Ирана на американские силы в Иордании, которую перехватили иорданские ПВО. CENTCOM подтвердил завершение серии ударов; Трамп заявил, что не планирует завершать войну, несмотря на продолжающиеся атаки на базы США.",
+      "category": "politics",
+      "perspective": "Администрация США и западные союзники: оправданный ответ на иранскую агрессию против американских военных. Иран: осуждает как нарушение суверенитета, «иллюзия победы» Трампа. Россия (ТАСС): подчёркивает, что удары не означают возобновления полномасштабных боевых действий. Аналитики опасаются расширения конфликта на весь регион.",
+      "perspective_type": "from_source",
+      "sources": [
+        "BBC News",
+        "The Guardian",
+        "The New York Times",
+        "The Hindu",
+        "TASS",
+        "Deutsche Welle",
+        "Indian Express"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c74gwdzywmeo",
+        "https://www.theguardian.com/world/2026/jul/30/us-strikes-iran-war-widening-iraq",
+        "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
+        "https://www.thehindu.com/news/international/us-strikes-on-iranian-targets-following-missile-attack-west-asia-war/article71284385.ece",
+        "https://tass.com/world/2167077",
+        "https://www.dw.com/en/iran-war-us-carries-out-fresh-strikes-in-powerful-response/live-78166958",
+        "https://indianexpress.com/article/world/us-iran-war-live-updates-us-strikes-iran-qeshm-bandar-abbas-to-retaliate-attack-on-jordan-egypt-10809850/"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-30",
+      "id": "8efa39e85524"
+    },
+    {
+      "title_ru": "Саудовская Аравия вступает в войну на стороне США, нанося удары по проиранским силам в Ираке",
+      "title_en": "Saudi Arabia Enters US-Iran War with Joint Strikes on Iran-Backed Militias in Iraq",
+      "date": "2026-07-29",
+      "summary_en": "Saudi Arabia conducted joint military strikes with the United States against Tehran-backed militias in Iraq, marking the Kingdom's formal entry into the US-Iran conflict. Analysts warn the development pushes the Middle East into 'uncharted territory,' while Iran condemned the strikes as 'criminal' and aligned with 'Tel Aviv-Washington ambitions.'",
+      "summary": "Саудовская Аравия нанесла совместные с США удары по проиранским ополченцам в Ираке, официально вступив в американо-иранский конфликт. Аналитики предупреждают, что это толкает регион на «неизведанную территорию»; Иран осудил удары как «преступные» и соответствующие «амбициям Тель-Авива и Вашингтона». BBC отмечает дилемму Эр-Рияда, пытавшегося остаться в стороне от войны.",
+      "category": "politics",
+      "perspective": "США и Саудовская Аравия: необходимая операция против поддерживаемых Ираном ополченцев. Иран (Tehran Times, IRNA): «преступные удары», грубое нарушение суверенитета Ирака. Аналитики (The Guardian): беспрецедентная эскалация, регион в «неизведанной территории». BBC: Эр-Рияд оказался перед сложной дилеммой.",
+      "perspective_type": "from_source",
+      "sources": [
+        "The New York Times",
+        "The Guardian",
+        "BBC News",
+        "TASS",
+        "Tehran Times",
+        "IRNA",
+        "CBC News"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/07/29/world/middleeast/saudi-arabia-us-iran-war.html",
+        "https://www.theguardian.com/world/2026/jul/29/us-saudi-strikes-in-iraq-have-pushed-the-region-into-uncharted-territory-analysts-warn",
+        "https://www.bbc.co.uk/news/articles/clyx83l8jv8o",
+        "https://tass.com/world/2166835",
+        "https://www.tehrantimes.com/news/528697/Iran-Criminal-US-Saudi-strikes-on-Iraq-align-with-Tel-Aviv-Washington",
+        "https://en.irna.ir/news/86223183/Iran-strongly-condemns-US-Saudi-strikes-on-Iraq",
+        "https://www.cbc.ca/news/world/iran-us-war-middle-east-9.7288672"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-29",
+      "id": "cce0d3e642d4"
+    },
+    {
+      "title_ru": "Сенат США одобрил законопроект о санкциях против России во втором процедурном голосовании",
+      "title_en": "US Senate Advances Russia Sanctions Bill in Second Procedural Vote",
+      "date": "2026-07-30",
+      "summary_en": "The US Senate approved the Russia sanctions bill in a second procedural vote, moving the legislation closer to final passage. The bill targets purchasers of Russian oil. Trump suggested congressmen need not interrupt their summer recess for the vote, while the Russian embassy made sharp statements condemning the tightening of sanctions.",
+      "summary": "Сенат США одобрил во втором процедурном голосовании законопроект о жёстких санкциях против России, нацеленный на покупателей российской нефти. Трамп предложил конгрессменам не прерывать каникулы ради голосования. Посольство России выступило с резким заявлением, а в США ряд комментаторов выразили обеспокоенность последствиями для мировой экономики.",
+      "category": "politics",
+      "perspective": "Конгресс США (обе партии): необходимое давление на Россию. Трамп: амбивалентная позиция — поддерживает санкции, но не считает нужным прерывать каникулы. Россия (посольство, Lenta.ru): «саморазрушение Запада», эскалация экономической войны. WSJ/Bloomberg: возможные негативные последствия для глобальных рынков.",
+      "perspective_type": "from_source",
+      "sources": [
+        "Ведомости",
+        "Коммерсантъ",
+        "Lenta.ru",
+        "TASS"
+      ],
+      "links": [
+        "https://www.vedomosti.ru/politics/news/2026/07/30/1217554-senat-ssha-podderzhal",
+        "https://www.kommersant.ru/doc/8847820",
+        "https://lenta.ru/news/2026/07/30/long-trump-sanktsii/",
+        "https://tass.com/world/2166999"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-30",
+      "id": "b4e03825e429"
+    },
+    {
+      "title_ru": "ФИФА планирует продать долю в коммерческих правах на ЧМ; УЕФА созывает экстренное совещание",
+      "title_en": "FIFA Plans to Sell Stake in World Cup Commercial Rights; UEFA Calls Emergency Meeting",
+      "date": "2026-07-30",
+      "summary_en": "FIFA President Gianni Infantino is advancing plans to form a new commercial subsidiary and sell a stake in World Cup commercial rights to private investors. The proposal has sparked outrage, with UEFA calling an emergency meeting. Critics argue this represents excessive commercialization of football's flagship tournament.",
+      "summary": "Президент ФИФА Джанни Инфантино продвигает план создания коммерческой «дочки» и продажи доли в правах на чемпионат мира частным инвесторам. Предложение вызвало возмущение: УЕФА созывает экстренное совещание. Критики — включая DW и Le Monde — называют это чрезмерной коммерциализацией футбола. Ранее ФИФА уже открыла дисциплинарное дело против Аргентины.",
+      "category": "politics",
+      "perspective": "ФИФА/Инфантино: модернизация, привлечение инвестиций. УЕФА: серьёзная обеспокоенность коммерциализацией. Критики (DW, Le Monde): распродажа главного турнира футбола. Аргентина/Милей: обвиняет демократов США в финансировании «антиаргентинской кампании» на ЧМ.",
+      "perspective_type": "from_source",
+      "sources": [
+        "BBC Sport",
+        "Le Monde",
+        "Indian Express",
+        "Deutsche Welle",
+        "The Guardian"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/sport/football/articles/cz64gdj9e25o",
+        "https://www.lemonde.fr/sport/article/2026/07/30/les-dessous-du-projet-de-gianni-infantino-d-ouvrir-la-fifa-aux-investisseurs-prives_6736651_3242.html",
+        "https://indianexpress.com/article/explained/explained-sports/fifa-world-cup-stake-sale-explained-10809377/",
+        "https://www.dw.com/en/world-cup-sell-off-has-fifa-finally-gone-too-far/a-78163682",
+        "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-30",
+      "id": "4bdaec84976e"
+    },
+    {
+      "title_ru": "Ночная атака 258 украинских БПЛА на Россию: пожары на складах Wildberries, пострадавшие регионы",
+      "title_en": "Russia Downs 258 Ukrainian Drones Overnight; Wildberries Warehouses Hit Across Multiple Regions",
+      "date": "2026-07-30",
+      "summary_en": "Russian air defense forces shot down 258 Ukrainian drones overnight across Bryansk, Voronezh, Rostov, Penza, and other regions. Wildberries warehouses were struck in Penza and Sarapul (Udmurtia), forcing the company to reconfigure logistics. A child injured in a previous drone attack in Crimea has died. The Moscow region also saw significant drone activity.",
+      "summary": "Российские силы ПВО сбили 258 украинских беспилотников за ночь над Брянской, Воронежской, Ростовской, Пензенской и другими областями. Склад Wildberries в Пензе загорелся после атаки БПЛА, склад в удмуртском Сарапуле также пострадал; компания перестраивает логистику. В Крыму скончался ребёнок, ранее пострадавший от атаки дрона. В подмосковном Чехове введён режим ЧС.",
+      "category": "politics",
+      "perspective": "Российские власти: украинский терроризм против гражданской инфраструктуры, ПВО работает эффективно. Украина (предположительно): легитимные удары по логистическим объектам, обеспечивающим российскую военную экономику. Бизнес (Wildberries): вынужденная адаптация, государство может оказать кредитную поддержку.",
+      "perspective_type": "assumed",
+      "sources": [
+        "TASS",
+        "Коммерсантъ",
+        "Ведомости",
+        "Lenta.ru"
+      ],
+      "links": [
+        "https://tass.ru/armiya-i-opk/27966319",
+        "https://www.kommersant.ru/doc/8847867",
+        "https://www.kommersant.ru/doc/8847897",
+        "https://www.vedomosti.ru/business/news/2026/07/30/1217542-wildberries-perestroil-logistiku",
+        "https://lenta.ru/news/2026/07/30/bespilotniki-atakovali-sklad-wildberries-v-penzenskoy-oblasti/"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-30",
+      "id": "63d529c1c83f"
+    },
+    {
+      "title_ru": "NYT объясняет феномен «ИИ с открытыми весами»: доступность, риски и регулирование",
+      "title_en": "What Is Open-Weights AI? NYT Explainer Examines Accessibility, Risks, and Regulation",
+      "date": "2026-07-28",
+      "summary_en": "The New York Times published an explainer on 'open-weights AI' — models whose trained parameters are publicly released, allowing broader access and customization. The piece examines the tension between democratizing AI technology and concerns about misuse, set against the backdrop of the Silicon Valley debate over Chinese access to open AI models.",
+      "summary": "The New York Times опубликовал разбор феномена «ИИ с открытыми весами» — моделей, чьи обученные параметры публикуются в открытом доступе, что расширяет возможности использования и адаптации, но вызывает опасения насчёт потенциального злоупотребления. Статья продолжает дискуссию о расколе в Кремниевой долине по вопросу доступа Китая к открытым моделям ИИ.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "The New York Times"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-28",
+      "id": "0fc7104f193d"
+    },
+    {
+      "title_ru": "ИИ-компании массово нанимают электриков и плотников для строительства дата-центров",
+      "title_en": "AI Companies Recruit Thousands of Electricians and Carpenters for Data Center Boom",
+      "date": "2026-07-29",
+      "summary_en": "AI companies are recruiting electricians, carpenters, and construction workers by the thousands to build the massive data centers required for training and running advanced AI models. The NYT reports this is creating a new skilled-labor bottleneck in the AI industry, shifting hiring focus from software engineers to tradespeople.",
+      "summary": "ИИ-компании тысячами нанимают электриков, плотников и строителей для возведения огромных дата-центров, необходимых для обучения и работы передовых моделей ИИ. Как сообщает NYT, в индустрии формируется новый кадровый дефицит — на сей раз не программных инженеров, а квалифицированных рабочих специальностей.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "The New York Times"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-29",
+      "id": "12041ecb27a5"
     }
   ],
   "_stats": {
-    "total_tokens": 445620,
-    "total_cost": 49.802192
+    "total_tokens": 472465,
+    "total_cost": 52.770336
   }
 }
