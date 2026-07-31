@@ -1,176 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "OpenAI показывает коэффициенты ставок Kalshi на ЧМ-2026 в ChatGPT",
-      "title_en": "OpenAI Is Showing Kalshi's World Cup Odds in ChatGPT",
-      "date": "2026-07-14",
-      "summary_en": "OpenAI has integrated Kalshi's World Cup betting odds into ChatGPT, allowing users to view real-time prediction market data for tournament matches. Kalshi maintains it is not a sportsbook even as World Cup bets surge, blurring the line between prediction markets and sports gambling.",
-      "summary": "OpenAI интегрировала коэффициенты ставок Kalshi на матчи ЧМ-2026 в ChatGPT, позволяя пользователям просматривать данные рынка предсказаний в реальном времени. Kalshi настаивает, что не является букмекерской конторой, несмотря на резкий рост ставок на ЧМ, что размывает грань между рынками предсказаний и спортивным гемблингом.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The New York Times"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-14",
-      "id": "d16339d96e0a"
-    },
-    {
-      "title_ru": "Продажи электромобилей в США падают, но зарядные станции переживают бум",
-      "title_en": "U.S. Electric Vehicle Sales Are Down but E.V. Chargers Are Booming",
-      "date": "2026-07-14",
-      "summary_en": "While electric vehicle sales in the United States have declined, the installation of EV charging stations is surging, reflecting a shift in infrastructure investment despite softening consumer demand for EVs.",
-      "summary": "Продажи электромобилей в США снизились, однако установка зарядных станций для электромобилей переживает бум, что отражает смещение инвестиций в инфраструктуру на фоне ослабления потребительского спроса на электромобили.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The New York Times"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/07/13/business/electric-vehicles-charging-stations.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-14",
-      "id": "662142e0cea5"
-    },
-    {
-      "title_ru": "Война США и Ирана: седьмая ночь ударов, конфликт расширяется на Сирию, Кувейт и Бахрейн",
-      "title_en": "US-Iran War: Seventh Night of Strikes as Conflict Expands to Syria, Kuwait, and Bahrain",
-      "date": "2026-07-17",
-      "summary_en": "The US launched a seventh consecutive night of strikes on Iran, targeting five bridges in Bandar-e Imam Khomeyni and Bandar Lengeh, with at least 8 civilians reportedly killed in Hormozgan Province. In a major escalation, Iran's IRGC struck a US command center in Syria and depots in Kuwait, while Iran's Army hit US military sites in Bahrain and Kuwait. Qatari air defenses intercepted incoming missiles. Iran's UN envoy condemned strikes on civilian infrastructure as war crimes and warned of 'devastating' responses to further attacks.",
-      "summary": "США нанесли седьмую ночь ударов по Ирану: атакованы пять мостов в Бандар-э-Имам Хомейни и Бандар-Ленге, сообщается о 8 погибших мирных жителях в провинции Хормозган. В ответ КСИР Ирана нанёс удар по командному центру США в Сирии и складам в Кувейте, а армия Ирана атаковала военные объекты США в Бахрейне и Кувейте. Катарские ПВО отразили ракетную атаку. Иран квалифицировал удары по гражданской инфраструктуре как военные преступления и предупредил об «опустошительном» ответе на новую агрессию.",
-      "category": "politics",
-      "perspective": "Администрация Трампа оправдывает удары необходимостью ответа на иранскую агрессию; демократы предупреждают о риске «вечной войны»; Иран и союзники осуждают США за атаки на гражданскую инфраструктуру; страны Персидского залива оказались в эпицентре конфликта, Катар перехватывает ракеты; Россия и Китай призывают к деэскалации.",
-      "perspective_type": "assumed",
-      "sources": [
-        "BBC News",
-        "IRNA",
-        "TASS",
-        "DW",
-        "The Guardian",
-        "The New York Times"
-      ],
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c151gdjwd10o",
-        "https://en.irna.ir/news/86211326/IRGC-strikes-US-command-center-in-Syria-depots-in-Kuwait-radars",
-        "https://en.irna.ir/news/86211284/Iran-s-Army-strikes-US-military-sites-in-Bahrain-Kuwait",
-        "https://tass.com/world/2161427",
-        "https://tass.com/world/2161363",
-        "https://tass.com/world/2161325",
-        "https://tass.com/world/2161357",
-        "https://www.dw.com/en/iran-war-us-hits-bridges-as-tehran-retaliates-across-region/live-77996555",
-        "https://www.theguardian.com/world/2026/jul/16/us-intensifies-attacks-on-iran-as-tehran-hits-back-at-gulf-states",
-        "https://en.irna.ir/news/86211391/Iran-s-UN-envoy-condemns-US-attacks-on-civilian-infrastructure"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-17",
-      "id": "e91daf340475"
-    },
-    {
-      "title_ru": "Китай, Россия и демократы отвергают обвинения Трампа во вмешательстве в выборы США",
-      "title_en": "China, Russia, and Democrats Reject Trump's US Election Interference Claims",
-      "date": "2026-07-17",
-      "summary_en": "Following Trump's national address accusing China of stealing 220 million voter files and questioning election security, China's MFA called the allegations 'fabrications.' The Kremlin dismissed the claims as 'impersonalized' and lacking specifics. US Democrats criticized Trump for launching 'wide-ranging and unverified attacks' on electoral integrity. Meanwhile, a US intelligence report again asserted Russian interference, adding complexity to the narrative.",
-      "summary": "После обращения Трампа к нации с обвинениями Китая в краже данных 220 млн избирателей и подрыве избирательной системы, МИД Китая назвал обвинения «фабрикациями». Кремль охарактеризовал информацию как «обезличенную», не содержащую конкретики. Демократы раскритиковали Трампа за «широкомасштабные и неподтверждённые атаки» на избирательную систему. Параллельно разведка США вновь заявила о вмешательстве России в президентские выборы, усложняя общую картину.",
-      "category": "politics",
-      "perspective": "Республиканцы/Трамп: Китай и другие внешние силы подрывают американскую демократию, система уязвима; демократы: бездоказательные обвинения подрывают доверие к выборам и готовят почву для оспаривания результатов; Китай: категорически отрицает, называет обвинения фабрикациями; Россия: дистанцируется, называет информацию обезличенной, но доклад разведки США утверждает обратное.",
-      "perspective_type": "assumed",
-      "sources": [
-        "TASS",
-        "Kommersant",
-        "Vedomosti",
-        "Lenta.ru",
-        "The Guardian",
-        "The Times of India"
-      ],
-      "links": [
-        "https://tass.com/world/2161457",
-        "https://tass.com/world/2161461",
-        "https://www.kommersant.ru/doc/8828954",
-        "https://www.kommersant.ru/doc/8816798",
-        "https://www.kommersant.ru/doc/8816986",
-        "https://www.vedomosti.ru/politics/articles/2026/07/17/1214537-donald-tramp-schitaet",
-        "https://www.vedomosti.ru/politics/news/2026/07/17/1214496-kreml-otvetil-trampa",
-        "https://www.vedomosti.ru/politics/news/2026/07/17/1214466-kitaya-vibori-ssha",
-        "https://lenta.ru/news/2026/07/17/v-rossii-ob-yasnili-zayavlenie-trampa-o-vmeshatelstve-kitaya-v-vybory/",
-        "https://lenta.ru/news/2026/07/17/kreml-otvetil-na-obvineniya-trampa-o-vmeshatelstve-v-vybory/",
-        "https://www.theguardian.com/us-news/2026/jul/17/first-thing-donald-trump-unverified-attack-integrity-us-electoral-system",
-        "https://www.theguardian.com/us-news/live/2026/jul/17/donald-trump-speech-china-midterm-elections-latest-news-updates"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-17",
-      "id": "bf8c251bdd7e"
-    },
-    {
-      "title_ru": "Сенатор Линдси Грэм умер: Южная Каролина confronts a complex legacy",
-      "title_en": "Senator Lindsey Graham Dies, Leaving South Carolina to Confront a Complex Legacy",
-      "date": "2026-07-17",
-      "summary_en": "US Senator Lindsey Graham of South Carolina has died, prompting a reckoning with his complicated political legacy. The Guardian reports that reactions to his passing are deeply divided — 'you loved him and you hated him' — reflecting his evolution from a Trump critic to a staunch ally and his decades-long influence on Republican foreign policy and judiciary appointments.",
-      "summary": "Сенатор США Линдси Грэм от Южной Каролины скончался, вызвав противоречивую реакцию в связи с его сложным политическим наследием. Как отмечает The Guardian, отношение к Грэму было глубоко поляризованным — «его любили и ненавидели» — что отражает его путь от критика Трампа до верного союзника, а также десятилетия влияния на внешнюю политику республиканцев и назначения судей.",
-      "category": "politics",
-      "perspective": "Республиканцы: скорбят о верном партийном деятеле и архитекторе консервативной судебной системы; демократы: признают сложность фигуры — от оппонента Трампа до ключевого союзника; избиратели Южной Каролины: поляризованное отношение, борьба вокруг его наследия.",
-      "perspective_type": "from_source",
-      "sources": [
-        "The Guardian"
-      ],
-      "links": [
-        "https://www.theguardian.com/us-news/2026/jul/17/lindsey-graham-death-south-carolina-legacy"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-17",
-      "id": "4be3608f4925"
-    },
-    {
-      "title_ru": "Китай «крайне недоволен» национализацией British Steel правительством Великобритании",
-      "title_en": "China 'Strongly Dissatisfied' with UK's Nationalisation of British Steel",
-      "date": "2026-07-17",
-      "summary_en": "China has expressed strong dissatisfaction with the UK government's decision to nationalise British Steel, a company owned by China's Jingye Group. The move adds new tension to UK-China trade relations, which are already strained over technology and security concerns. The nationalisation was reportedly driven by strategic industry protection considerations.",
-      "summary": "Китай выразил «крайнее недовольство» решением британского правительства национализировать British Steel, принадлежавшую китайской Jingye Group. Этот шаг усиливает напряжённость в торговых отношениях между Великобританией и Китаем, уже осложнённых разногласиями по вопросам технологий и безопасности. Национализация мотивирована защитой стратегической промышленности.",
-      "category": "politics",
-      "perspective": "Правительство Великобритании: национализация необходима для защиты стратегической отрасли и рабочих мест; Китай: рассматривает это как враждебный шаг против китайских инвестиций; британская оппозиция: может критиковать условия сделки или её необходимость; деловые круги: обеспокоены сигналом для иностранных инвесторов.",
-      "perspective_type": "from_source",
-      "sources": [
-        "The Guardian"
-      ],
-      "links": [
-        "https://www.theguardian.com/business/2026/jul/17/british-steel-nationalisation-china-strongly-dissatisfied"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-17",
-      "id": "ddfa42cce089"
-    },
-    {
-      "title_ru": "Еврокомиссия заключила с Украиной сделку по производству дронов; сообщается о контактах России и Украины",
-      "title_en": "EU Signs Drone Production Deal with Ukraine; Reports of Russia-Ukraine Contacts Emerge",
-      "date": "2026-07-17",
-      "summary_en": "The European Commission has signed a deal with Ukraine for drone production within the EU, boosting Kyiv's defense capabilities. Meanwhile, reports emerged of contacts between Russian and Ukrainian representatives, though details remain unspecified. Russia's Defense Ministry also claimed a Geran drone strike on a Ukrainian dry cargo ship in the Black Sea. Former Ukrainian Defense Minister Fedorov will remain in Zelensky's team despite his dismissal.",
-      "summary": "Еврокомиссия заключила с Украиной сделку по производству дронов на территории ЕС, усиливая оборонные возможности Киева. Одновременно появились сообщения о контактах представителей России и Украины — подробности не раскрываются. Минобороны РФ также заявило об ударе дроном «Герань» по сухогрузу ВСУ в Чёрном море. Бывший министр обороны Украины Федоров, несмотря на отставку, останется в команде Зеленского.",
-      "category": "politics",
-      "perspective": "Украина/ЕС: сделка по дронам укрепляет обороноспособность, сигнализирует о долгосрочной поддержке; Россия: фиксирует военные успехи, скептически оценивает значимость кадровых перестановок в Киеве; международное сообщество: сообщения о контактах сторон могут указывать на возможные дипломатические подвижки.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Kommersant",
-        "Lenta.ru",
-        "Vedomosti"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8815663",
-        "https://www.kommersant.ru/doc/8816638",
-        "https://lenta.ru/news/2026/07/17/stalo-izvestno-o-peregovorah-predstaviteley-rossii-i-ukrainy/",
-        "https://lenta.ru/news/2026/07/17/fedorov-ostanetsya-v-komande-zelenskogo/",
-        "https://lenta.ru/news/2026/07/17/v-rossii-otreagirovali-na-zayavlenie-mid-ukrainy-o-vstreche-putina-i-zelenskogo/",
-        "https://lenta.ru/news/2026/07/17/v-rossii-vyskazalis-o-vliyanii-otstavki-ministra-oborony-ukrainy-na-hod-svo/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-17",
-      "id": "450006a69cc1"
-    },
-    {
       "title_ru": "Hard Fork: война вокруг коммерческих тайн ИИ и призыв экономистов «действовать сейчас»",
       "title_en": "Hard Fork Podcast: The AI Trade Secrets War and Economists' Call to 'Act Now'",
       "date": "2026-07-17",
@@ -2491,10 +2321,187 @@
       "is_development": false,
       "first_reported": "2026-07-29",
       "id": "12041ecb27a5"
+    },
+    {
+      "title_ru": "КСИР нанёс удары по авиабазе США в Кувейте и уничтожил F-35 в Иордании; страны Персидского залива обращаются к Китаю по Ормузскому проливу",
+      "title_en": "IRGC Strikes US Airbase in Kuwait, Destroys F-35s in Jordan; Gulf States Turn to China Over Hormuz Strait",
+      "date": "2026-07-31",
+      "summary_en": "Iran's IRGC struck a US airbase in Kuwait and obliterated three US F-35s with troops in Jordan in a fresh wave of retaliatory attacks. Iran reports 653 US personnel wounded since the war began. Meanwhile, a US missile strike on Qeshm Island killed three family members, prompting Speaker Ghalibaf to warn the US will 'pay the price.' In a significant geopolitical shift, Gulf nations are turning to China rather than the US to pressure Iran to reopen the Strait of Hormuz.",
+      "summary": "Иранский КСИР нанёс удары по авиабазе США в Кувейте и уничтожил три F-35 с военнослужащими в Иордании. По данным Ирана, число раненых американских военных достигло 653. Американский ракетный удар по острову Кешм привёл к гибели трёх членов одной семьи; спикер Галибаф предупредил, что США «заплатят цену». Страны Персидского залива обращаются к Китаю за посредничеством в возобновлении судоходства через Ормузский пролив — знаковый геополитический сдвиг.",
+      "category": "politics",
+      "perspective": "Иранские государственные СМИ (IRNA) подают это как победу сопротивления: «гробы стали частью американского снаряжения». Западные СМИ (NYT, Guardian) акцентируют расширение войны и вовлечение новых стран. Обращение стран Залива к Китаю трактуется как ослабление влияния США в регионе.",
+      "perspective_type": "from_source",
+      "sources": [
+        "IRNA",
+        "The Hindu",
+        "Indian Express",
+        "NYT",
+        "Tehran Times",
+        "The Guardian"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86223825/IRGC-hits-US-airbase-in-Kuwait-in-fresh-wave-of-attacks",
+        "https://en.irna.ir/news/86223773/IRGC-strike-obliterates-3-US-F-35s-kills-troops-in-Jordan",
+        "https://en.irna.ir/news/86224131/US-terrorists-wounded-in-Iran-war-rise-to-653-Report",
+        "https://en.irna.ir/news/86223792/US-missile-strike-on-Qeshm-kills-3-family-members-says-Iranian",
+        "https://en.irna.ir/news/86224114/Ghalibaf-US-will-pay-the-price-for-killing-civilians-on-Iran-s",
+        "https://indianexpress.com/article/world/gulf-states-turn-to-china-pressure-iran-reopen-strait-of-hormuz-oil-routes-10811104/",
+        "https://www.tehrantimes.com/news/528704/Iran-rejects-southern-Strait-of-Hormuz-shipping-route",
+        "https://www.nytimes.com/2026/07/30/world/middleeast/us-iran-war-expansion.html",
+        "https://www.theguardian.com/world/2026/jul/30/us-strikes-iran-war-widening-iraq"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-31",
+      "id": "cb74d90af907"
+    },
+    {
+      "title_ru": "Российская ракета попала в территорию Польши во время ударов по Украине; НАТО подтверждает",
+      "title_en": "Russian Missile Hits Poland During Ukraine Strikes; NATO Confirms",
+      "date": "2026-07-30",
+      "summary_en": "A Russian ballistic missile struck Polish territory during a large-scale missile and drone attack on Ukraine that killed at least 10 people. NATO confirmed the violation of Polish airspace. The incident marks a dangerous expansion of the conflict toward a NATO member state, raising fears of escalation under Article 5.",
+      "summary": "Российская баллистическая ракета попала на территорию Польши в ходе массированного ракетно-дронового удара по Украине, в результате которого погибли не менее 10 человек. НАТО подтвердило нарушение польского воздушного пространства. Инцидент знаменует опасное расширение конфликта в сторону страны НАТО и вызывает опасения эскалации по статье 5.",
+      "category": "politics",
+      "perspective": "Для стран НАТО это подтверждение угрозы со стороны России и аргумент за усиление восточного фланга. Россия отрицает намеренную эскалацию. Польша может требовать более жёсткого ответа альянса.",
+      "perspective_type": "assumed",
+      "sources": [
+        "NYT",
+        "DW",
+        "Times of India",
+        "France24"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/07/30/world/europe/ukraine-poland-russia-missile.html",
+        "https://www.dw.com/en/poland-says-russian-ballistic-missile-violated-airspace/a-78172288",
+        "https://timesofindia.indiatimes.com/world/europe/russian-strikes-across-ukraine-kill-10-missiles-hit-poland-too/articleshow/132753209.cms",
+        "https://www.france24.com/fr/europe/20260730-ukraine-russie-zelensky-accuse-coree-du-nord-missile-decim%C3%A9-famille-kryvyi-rig"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-30",
+      "id": "4b783175dde8"
+    },
+    {
+      "title_ru": "УЕФА голосует за бойкот ЧМ из-за плана ФИФА продать долю в турнире; КОНКАКАФ также против",
+      "title_en": "UEFA Votes to Boycott World Cup Over FIFA Stake Sale Plan; CONCACAF Also Rejects",
+      "date": "2026-07-31",
+      "summary_en": "UEFA member nations voted to boycott FIFA competitions in protest against Gianni Infantino's plan to sell stakes in World Cup commercial rights to investors. CONCACAF followed by formally rejecting the plan. FIFA insists 'nobody is selling football' and will continue its investment plans, while former FIFA president Sepp Blatter blasted the body, saying 'FIFA is guardian of the World Cup, not its owner.'",
+      "summary": "Страны УЕФА проголосовали за бойкот соревнований ФИФА в знак протеста против плана Джанни Инфантино продать долю коммерческих прав на ЧМ инвесторам. КОНКАКАФ также отклонил план. ФИФА настаивает, что «никто не продаёт футбол», и продолжит реализацию. Экс-президент ФИФА Зепп Блаттер раскритиковал организацию: «ФИФА — хранитель ЧМ, а не его владелец».",
+      "category": "politics",
+      "perspective": "Европейские федерации видят в плане коммерциализацию и утрату контроля над главным турниром. Инфантино и его сторонники настаивают на необходимости инвестиций. Бывшие функционеры (Блаттер) критикуют с позиции традиционных ценностей спорта.",
+      "perspective_type": "from_source",
+      "sources": [
+        "DW",
+        "BBC",
+        "NPR",
+        "Indian Express",
+        "TASS",
+        "CBC"
+      ],
+      "links": [
+        "https://www.dw.com/en/uefa-votes-to-boycott-world-cup-over-fifa-investor-plan/a-78171084",
+        "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o",
+        "https://www.npr.org/2026/07/30/nx-s1-5913664/world-cup-fifa-uefa-gianni-infantino",
+        "https://indianexpress.com/article/sports/football/concacaf-rejects-fifa-world-cup-stake-sale-uefa-boycott-2026-10811476/",
+        "https://indianexpress.com/article/sports/football/sepp-blatter-blasts-fifa-sell-stakes-world-cup-guardian-10810750/",
+        "https://tass.com/sports/2167445",
+        "https://www.cbc.ca/sports/soccer/uefa-member-countries-agree-to-boycott-fifa-competitions-in-protest-9.7290691"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-31",
+      "id": "3be77cfe7d2c"
+    },
+    {
+      "title_ru": "Павел Дуров внесён Росфинмониторингом в перечень террористов и экстремистов",
+      "title_en": "Pavel Durov Added to List of Terrorists and Extremists by Russia's Financial Watchdog",
+      "date": "2026-07-30",
+      "summary_en": "Russia's financial monitoring service, Rosfinmonitoring, added Telegram founder Pavel Durov to its list of terrorists and extremists. The move marks a sharp escalation in the Russian authorities' pressure on the tech entrepreneur, whose platform has long resisted Kremlin demands for user data and content moderation.",
+      "summary": "Росфинмониторинг внёс основателя Telegram Павла Дурова в перечень террористов и экстремистов. Это резкое усиление давления российских властей на технологического предпринимателя, чья платформа долгое время сопротивлялась требованиям Кремля о предоставлении данных пользователей и модерации контента.",
+      "category": "politics",
+      "perspective": "Российские власти обосновывают решение отказом Telegram сотрудничать по вопросам безопасности. Защитники гражданских свобод видят в этом подавление независимых цифровых платформ. Международное сообщество может расценить шаг как политически мотивированное преследование.",
+      "perspective_type": "assumed",
+      "sources": [
+        "TASS"
+      ],
+      "links": [
+        "https://tass.com/society/2167283"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-30",
+      "id": "23d6b2b35917"
+    },
+    {
+      "title_ru": "Новая волна атак украинских БПЛА на Россию: горят склады Wildberries в Волгограде, Пензе и Удмуртии; КТК остановил погрузку нефти",
+      "title_en": "New Wave of Ukrainian Drone Attacks on Russia: Wildberries Warehouses Burn in Volgograd, Penza, Udmurtia; CPC Halts Oil Loading",
+      "date": "2026-07-31",
+      "summary_en": "Ukrainian drones struck multiple Russian regions for the second consecutive night. A Wildberries logistics warehouse in Volgograd caught fire, injuring five people; 150 drones were downed over Rostov Region alone. Earlier attacks hit Wildberries facilities in Penza and Udmurtia, killing one person. The Caspian Pipeline Consortium halted oil loading in Novorossiysk after drone strikes on tankers. Russia's Investigative Committee opened terrorism cases over the warehouse attacks.",
+      "summary": "Украинские беспилотники вторую ночь подряд атакуют российские регионы. В Волгограде загорелся склад Wildberries, пострадали пять человек; над Ростовской областью сбито 150 БПЛА. Ранее атакованы склады Wildberries в Пензе и Удмуртии, один человек погиб. КТК остановил погрузку нефти в Новороссийске после атаки на танкеры. СКР возбудил дела о терактах.",
+      "category": "politics",
+      "perspective": "Российские власти характеризуют атаки как терроризм против гражданской инфраструктуры. Украинская сторона рассматривает удары как часть кампании по нарушению тылового обеспечения. Атаки на склады Wildberries и нефтяную инфраструктуру свидетельствуют о расширении географии и целей.",
+      "perspective_type": "from_source",
+      "sources": [
+        "Kommersant",
+        "TASS",
+        "Vedomosti",
+        "Lenta.ru",
+        "Belta"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8848699",
+        "https://www.kommersant.ru/doc/8848696",
+        "https://www.kommersant.ru/doc/8848715",
+        "https://www.kommersant.ru/doc/8848055",
+        "https://www.kommersant.ru/doc/8848061",
+        "https://www.kommersant.ru/doc/8848234",
+        "https://www.kommersant.ru/doc/8847897",
+        "https://tass.ru/proisshestviya/27970437",
+        "https://tass.ru/proisshestviya/27970249",
+        "https://www.vedomosti.ru/politics/news/2026/07/31/1217831-iz-za-ataki-bpla",
+        "https://belta.by/world/view/na-logisticheskom-objekte-wildberries-v-volgograde-posle-ataki-proizoshlo-vozgoranie-793887-2026/"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-31",
+      "id": "6fb1832ff7dc"
+    },
+    {
+      "title_ru": "xAI Илона Маска подаёт в суд на штат США из-за закона о запрете «раздевающих» дипфейков",
+      "title_en": "Elon Musk's xAI Sues US State Over Law Banning 'Nudification' Deepfake Tech",
+      "date": "2026-07-31",
+      "summary_en": "xAI, Elon Musk's artificial intelligence company, has filed a lawsuit against a US state challenging a newly enacted law that bans so-called 'nudification' technology — AI tools capable of generating non-consensual nude images. The case raises critical questions about AI regulation, free speech, and the limits of state authority over emerging technologies.",
+      "summary": "xAI Илона Маска подала иск против одного из штатов США, оспаривая новый закон о запрете технологий «раздевания» — ИИ-инструментов, создающих изображения обнажённого тела без согласия. Дело поднимает острые вопросы о регулировании ИИ, свободе слова и границах полномочий штатов в сфере новых технологий.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Times of India"
+      ],
+      "links": [
+        "https://timesofindia.indiatimes.com/world/us/xai-sues-us-state-over-law-banning-nudification-tech/articleshow/132753187.cms"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-31",
+      "id": "de2629ac04f6"
+    },
+    {
+      "title_ru": "eBay выплатит $56 млн преследованной супружеской паре по делу о киберсталкинге",
+      "title_en": "eBay Settles Stalking Case for $56 Million After Terrorizing Couple",
+      "date": "2026-07-28",
+      "summary_en": "eBay agreed to pay $56 million to settle a case brought by a Massachusetts couple who were subjected to a campaign of harassment and cyberstalking by former eBay employees. The employees, including former executives, sent live insects, a bloody pig mask, and other disturbing items to the couple, who published an e-commerce newsletter critical of the company. The case exposed severe corporate misconduct at the tech giant.",
+      "summary": "eBay согласилась выплатить $56 млн для урегулирования иска супружеской пары из Массачусетса, подвергшейся кампании преследования и киберсталкинга со стороны бывших сотрудников компании. Экс-руководители eBay отправляли паре, издававшей критический информационный бюллетень, живых насекомых, окровавленную маску свиньи и другие угрожающие предметы. Дело вскрыло серьёзные нарушения корпоративной этики в технологическом гиганте.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "NYT"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-28",
+      "id": "a8faf391ee88"
     }
   ],
   "_stats": {
-    "total_tokens": 472465,
-    "total_cost": 52.770336
+    "total_tokens": 500828,
+    "total_cost": 55.897692
   }
 }
