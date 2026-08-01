@@ -1,176 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Hard Fork: война вокруг коммерческих тайн ИИ и призыв экономистов «действовать сейчас»",
-      "title_en": "Hard Fork Podcast: The AI Trade Secrets War and Economists' Call to 'Act Now'",
-      "date": "2026-07-17",
-      "summary_en": "The latest episode of NYT's Hard Fork podcast examines the escalating battle over AI trade secrets, as companies and nations compete to protect and acquire proprietary AI technologies. The episode also features economists urging immediate policy action regarding AI's economic impact, and a segment called 'HatGPT' covering the week's AI news.",
-      "summary": "Новый выпуск подкаста Hard Fork от The New York Times посвящён обостряющейся борьбе вокруг коммерческих тайн в сфере ИИ: компании и государства соперничают за защиту и приобретение проприетарных ИИ-технологий. Экономисты в этом выпуске призывают к немедленным политическим действиям в связи с экономическими последствиями распространения ИИ.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The New York Times"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/07/17/podcasts/hardfork-ai-trade-secrets.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-17",
-      "id": "06db3a7882ee"
-    },
-    {
-      "title_ru": "Пропущенное обновление ПО вызвало масштабный сбой сети Telstra в Австралии",
-      "title_en": "Neglected Software Update Caused Widespread Telstra Network Outage in Australia",
-      "date": "2026-07-17",
-      "summary_en": "Telstra's CEO told a Senate inquiry that a neglected software update, combined with an undocumented design change, caused the widespread network outage that disrupted mobile services across Australia. The incident has raised serious questions about the resilience of critical telecommunications infrastructure and the adequacy of maintenance practices at Australia's largest telecom provider.",
-      "summary": "Гендиректор Telstra сообщил сенатскому расследованию, что пропущенное обновление программного обеспечения и незадокументированное изменение в архитектуре сети стали причиной масштабного сбоя, нарушившего мобильную связь по всей Австралии. Инцидент вызвал серьёзные вопросы об устойчивости критической телекоммуникационной инфраструктуры и практике техобслуживания у крупнейшего оператора страны.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The Guardian"
-      ],
-      "links": [
-        "https://www.theguardian.com/business/2026/jul/17/telstra-missing-software-update-undocumented-design-change-outage"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-17",
-      "id": "5a217cdffd8d"
-    },
-    {
-      "title_ru": "Индийский активист Сонам Вангчук насильно госпитализирован на 21-й день голодовки; оппозиция и мировые СМИ осуждают действия властей",
-      "title_en": "Indian Activist Sonam Wangchuk Forcibly Hospitalized on Day 21 of Hunger Strike; Opposition and Global Media Condemn Government",
-      "date": "2026-07-18",
-      "summary_en": "Delhi police forcibly removed activist Sonam Wangchuk from Jantar Mantar protest site on Day 21 of his hunger strike and transferred him to Safdarjung Hospital. His wife Gitanjali demanded no treatment without family consent, while CJP's Abhijeet Dipke began an indefinite fast in response. Opposition leaders including Sharad Pawar, Kejriwal, and M.A. Baby condemned the move as 'irresponsible' and 'arrogant,' and international outlets including the BBC, NYT, DW, and The Guardian covered the story.",
-      "summary": "Полиция Дели насильно вывезла активиста Сонама Вангчука с места протеста у Джантар-Мантар на 21-й день голодовки и доставила его в больницу Сафдарджунг. Его жена Гитанджали потребовала не проводить лечение без согласия семьи, а соратник по партии CJP Абхиджит Дипке объявил бессрочную голодовку. Лидеры оппозиции — Шарад Павар, Кеджривал, М.А. Бэйби — осудили действия правительства, назвав их «безответственными» и «высокомерными». Международные СМИ, включая BBC, NYT, DW и The Guardian, широко осветили инцидент.",
-      "category": "politics",
-      "perspective": "Оппозиция (Конгресс, AAP, левые) осуждает действия центрального правительства как репрессивные и антидемократические. Правящая BJP и полиция Дели настаивают, что госпитализация проведена по решению суда для спасения жизни. Гражданское общество расколото: сторонники Вангчука говорят о подавлении протеста, критики — что требования CJP (отставка правительства) нереалистичны.",
-      "perspective_type": "from_source",
-      "sources": [
-        "The Hindu",
-        "Indian Express",
-        "BBC News",
-        "The New York Times",
-        "DW"
-      ],
-      "links": [
-        "https://www.thehindu.com/news/national/cjp-students-protest-at-delhi-jantar-mantar-sonam-wangchuk-hunger-strike-day-21-live-updates-july-18-2026/article71236930.ece",
-        "https://indianexpress.com/article/india/police-move-sonam-wangchuk-to-hospital-from-jantar-mantar-after-20-day-fast-10791928/",
-        "https://www.bbc.co.uk/news/articles/cjej3dxxg2do",
-        "https://www.nytimes.com/2026/07/18/world/asia/sonam-wangchuk-hunger-strike-delhi-police.html",
-        "https://www.dw.com/en/india-news-cjp-to-call-for-modi-s-resignation-after-sonam-wangchuk-forcefully-shifted-to-hospital/live-78015662"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-18",
-      "id": "3ceff754e282"
-    },
-    {
-      "title_ru": "Война США и Ирана: КСИР наносит удары по базам США в Кувейте, Иордании и Бахрейне; Ормузский пролив полностью закрыт",
-      "title_en": "US-Iran War: IRGC Strikes US Bases in Kuwait, Jordan, and Bahrain; Strait of Hormuz Fully Closed",
-      "date": "2026-07-18",
-      "summary_en": "The Iran-US conflict dramatically escalated as Iran's IRGC struck US military targets in Kuwait, Jordan, and Bahrain with drones, hitting a Kuwaiti power and water desalination plant and forcing airport closures. IRGC declared the Strait of Hormuz fully closed after halting vessels, while the US conducted a seventh consecutive night of strikes on Iran. At least 38 Iranians have been killed in US strikes, and Iran's UN envoy has condemned attacks on civilian infrastructure as war crimes.",
-      "summary": "Конфликт США и Ирана резко обострился: КСИР нанёс удары беспилотниками по военным объектам США в Кувейте, Иордании и Бахрейне, загорелась электростанция и водоопреснительный завод в Кувейте, приостановлена работа аэропорта. КСИР объявил о полном закрытии Ормузского пролива. США тем временем нанесли седьмую ночь ударов по Ирану. По официальным данным, 38 иранцев погибли; постпред Ирана при ООН осудил атаки на гражданскую инфраструктуру как военные преступления.",
-      "category": "politics",
-      "perspective": "США оправдывают удары самообороной и защитой свободы судоходства. Иран представляет свои действия как сопротивление агрессии и обвиняет США в военных преступлениях. Региональные союзники США (Кувейт, Бахрейн, Иордания) оказываются втянутыми в конфликт. Мировое сообщество обеспокоено ростом цен на нефть и жертвами среди гражданского населения.",
-      "perspective_type": "from_source",
-      "sources": [
-        "IRNA",
-        "Tehran Times",
-        "Indian Express",
-        "The New York Times",
-        "The Guardian",
-        "TASS",
-        "NPR"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86211951/Iran-s-Army-targets-US-bases-in-Jordan-Kuwait-with-drones",
-        "https://en.irna.ir/news/86211923/IRGC-strikes-US-targets-in-Bahrain-declares-Hormuz-fully-closed",
-        "https://indianexpress.com/article/world/iranian-attack-sparks-fire-at-kuwait-power-and-water-desalination-plant-10792237/",
-        "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
-        "https://www.theguardian.com/world/2026/jul/17/us-launches-seventh-night-of-iran-strikes-as-hormuz-conflict-escalates",
-        "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-18",
-      "id": "ca87f0f207a4"
-    },
-    {
-      "title_ru": "Удары ВСУ по Тамбовской области, Крыму и Ногинску: семь погибших в Котовске, двое в Крыму; атакован склад Wildberries",
-      "title_en": "Ukrainian Strikes on Russia's Tambov Region, Crimea, and Noginsk: Seven Dead in Kotovsk, Two in Crimea; Wildberries Warehouse Hit",
-      "date": "2026-07-18",
-      "summary_en": "Ukrainian forces launched drone attacks on multiple Russian regions, striking a Wildberries warehouse in Kotovsk, Tambov region, killing seven people. Two more died in Crimea, and a railway station was closed in Noginsk after drone strikes. Senator Kondratyev called on Tambov residents to join local air defense units, while surgeons worked to extract shrapnel from the wounded. A deputy commander of Ukraine's Air Force resigned following the dismissal of the Air Force chief.",
-      "summary": "ВСУ нанесли удары беспилотниками по нескольким российским регионам: в тамбовском Котовске атакован склад Wildberries — семь погибших; в Крыму двое погибших; в Ногинске закрыт вокзал и изменены маршруты транспорта. Сенатор Кондратьев призвал тамбовчан вступать в отряды ПВО. Хирурги извлекают поражающие элементы из пострадавших. Тем временем замглавы воздушных сил ВСУ подал в отставку после увольнения командующего.",
-      "category": "politics",
-      "perspective": "Российская сторона квалифицирует удары как террористические атаки на гражданскую инфраструктуру и мирное население. Украинская сторона может рассматривать склад Wildberries как объект двойного назначения. Международное сообщество обеспокоено эскалацией ударов по тыловым регионам России на фоне отвлечения мирового внимания на иранский конфликт.",
-      "perspective_type": "assumed",
-      "sources": [
-        "TASS",
-        "Lenta.ru",
-        "Kommersant",
-        "Vedomosti"
-      ],
-      "links": [
-        "https://tass.ru/proisshestviya/27929211",
-        "https://lenta.ru/news/2026/07/18/v-rezultate-ataki-vsu-na-tambovskuyu-oblast-pogibli-sem-chelovek/",
-        "https://www.kommersant.ru/doc/8829677",
-        "https://www.kommersant.ru/doc/8829302",
-        "https://www.vedomosti.ru/politics/news/2026/07/16/1214114-zamglavi-vozdushnih-sil"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-18",
-      "id": "b68b5c2d4d74"
-    },
-    {
-      "title_ru": "Финал ЧМ-2026: Аргентина против Испании — Месси «уже завершил игру» в Катаре, но обещает бороться; Испания может войти в историю",
-      "title_en": "World Cup 2026 Final: Argentina vs Spain — Messi Says He 'Already Completed the Game' in Qatar but Promises to Fight; Spain Could Make History",
-      "date": "2026-07-18",
-      "summary_en": "Argentina and Spain face off in the 2026 FIFA World Cup final. Lionel Messi stated he 'already completed the game in Qatar' but vowed Argentina will 'give it our all.' Coach Scaloni criticized FIFA's 'strange' training schedule. Spain could become the first nation to win men's and women's World Cups back-to-back. Referee Slavko Vincic's controversial background involving cocaine and pistols has drawn media attention. The Argentina-England semifinal was marred by a 'Malvinas are Argentinian' banner.",
-      "summary": "Аргентина и Испания встречаются в финале ЧМ-2026. Лионель Месси заявил, что «уже завершил игру в Катаре», но пообещал «выложиться полностью». Тренер Скалони раскритиковал «странный» график тренировок ФИФА. Испания может стать первой страной, выигравшей мужской и женский Кубки мира подряд. Судья финала Славко Винчич привлёк внимание СМИ из-за истории с кокаином и пистолетами. Полуфинал Аргентина–Англия был омрачён баннером «Мальвины — аргентинские».",
-      "category": "politics",
-      "perspective": "Для Аргентины финал — вопрос национальной гордости на фоне экономических трудностей и фолклендского нарратива. Для Испании — возможность установить исторический рекорд. ФИФА критикуют за расширение турнира и организационные решения. Геополитический подтекст матча Аргентина–Англия добавил напряжённости.",
-      "perspective_type": "from_source",
-      "sources": [
-        "The Hindu",
-        "Indian Express",
-        "NPR",
-        "The Guardian",
-        "DW",
-        "The New York Times"
-      ],
-      "links": [
-        "https://www.thehindu.com/sport/football/lionel-messi-speaks-in-advance-of-world-cup-final-says-argentina-will-give-it-our-all/article71237095.ece",
-        "https://indianexpress.com/article/sports/football/i-already-completed-the-game-messi-fifa-world-cup-2026-final-10792213/",
-        "https://www.npr.org/2026/07/17/g-s1-134232/spain-world-cup-history-women-men",
-        "https://www.theguardian.com/football/2026/jul/15/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner",
-        "https://www.dw.com/en/england-vs-argentina-a-football-rivalry-full-of-history/a-77962179"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-18",
-      "id": "2d9d3975d6a8"
-    },
-    {
-      "title_ru": "Энди Бёрнем становится лидером Лейбористов и займёт пост премьер-министра Великобритании 20 июля",
-      "title_en": "Andy Burnham Becomes Labour Leader, Set to Take Over as UK Prime Minister on July 20",
-      "date": "2026-07-18",
-      "summary_en": "Andy Burnham has been confirmed as the new leader of the UK Labour Party and is scheduled to take over as Prime Minister on July 20, according to reports. The transition comes amid a challenging political landscape, including the recent controversial nationalisation of British Steel and tensions with China over the move.",
-      "summary": "Энди Бёрнем утверждён в качестве нового лидера Лейбористской партии Великобритании и 20 июля вступит в должность премьер-министра. Смена власти происходит на фоне недавней национализации British Steel, вызвавшей «крайнее недовольство» Китая, и других экономических вызовов.",
-      "category": "politics",
-      "perspective": "Лейбористы представляют смену власти как мандат на перемены после консервативного правления. Консерваторы, вероятно, будут критиковать новое правительство за неопытность. Китай выразил недовольство политикой национализации, что может осложнить международные отношения нового кабинета.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Times of India",
-        "The Guardian"
-      ],
-      "links": [
-        "https://timesofindia.indiatimes.com/world/uk/burnham-is-labour-chief-to-take-over-as-pm-on-july-20/articleshow/132471956.cms",
-        "https://www.theguardian.com/business/2026/jul/17/british-steel-nationalisation-china-strongly-dissatisfied"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-18",
-      "id": "b0d974f56f98"
-    },
-    {
       "title_ru": "Верховный суд Бразилии приостановил посещения Болсонару под домашним арестом; экс-президент просит о встрече с Милеем",
       "title_en": "Brazil's Supreme Court Suspends Visits to Bolsonaro Under House Arrest; Ex-President Requests Meeting with Milei",
       "date": "2026-07-18",
@@ -2498,10 +2328,182 @@
       "is_development": false,
       "first_reported": "2026-07-28",
       "id": "a8faf391ee88"
+    },
+    {
+      "title_ru": "ФИФА официально отказалась от плана продажи доли в коммерческих правах на ЧМ",
+      "title_en": "FIFA Officially Scraps Plan to Sell Stake in World Cup Commercial Rights",
+      "date": "2026-08-01",
+      "summary_en": "FIFA President Gianni Infantino abandoned a controversial plan to sell a stake in World Cup commercial rights to private investors after mounting criticism from UEFA, CONCACAF, fan groups, and top advisors. The reversal follows days of backlash and the resignation of a senior FIFA advisor, marking a significant retreat for Infantino's leadership.",
+      "summary": "Президент ФИФА Джанни Инфантино отказался от плана продажи доли в коммерческих правах на чемпионат мира частным инвесторам на фоне жёсткой критики со стороны УЕФА, КОНКАКАФ, болельщиков и собственных советников. Решение принято после нескольких дней скандала и отставки высокопоставленного советника — это серьёзный удар по позициям Инфантино.",
+      "category": "politics",
+      "perspective": "Критики ФИФА и фан-сообщества приветствуют решение как победу «футбола для болельщиков, а не для инвесторов». Сторонники коммерциализации спорта считают упущенной возможность привлечь частный капитал. Политически ослабленный Инфантино может столкнуться с новыми призывами к отставке.",
+      "perspective_type": "from_source",
+      "sources": [
+        "BBC",
+        "Le Monde",
+        "NPR",
+        "Tagesschau",
+        "DW",
+        "TASS",
+        "France24",
+        "CBC"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po",
+        "https://www.lemonde.fr/sport/article/2026/08/01/gianni-infantino-esseule-a-la-fifa-et-conteste-de-toutes-parts-abandonne-son-plan-controverse_6737193_3242.html",
+        "https://www.npr.org/2026/07/31/nx-s1-5915820/fifa-world-cup-gianni-infantino",
+        "https://www.tagesschau.de/sport/fifa-investorenplaene-102.html",
+        "https://www.dw.com/en/fifa-chief-infantino-abandons-world-cup-sell-off-plans-after-backlash/a-78198144",
+        "https://tass.com/sports/2167885",
+        "https://www.france24.com/fr/sports/20260801-cern%C3%A9-par-les-critiques-infantino-renonce-%C3%A0-l-ouverture-de-la-fifa-aux-investisseurs-priv%C3%A9s",
+        "https://www.cbc.ca/sports/soccer/worldcup/fifa-world-cup-stake-proposal-9.7293398"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-01",
+      "id": "9e8a5eaea4fb"
+    },
+    {
+      "title_ru": "Массовый наплыв мигрантов в испанский анклав Сеута: около 60 000 человек за сутки",
+      "title_en": "Mass Migrant Surge Into Spanish Enclave Ceuta: Nearly 60,000 in 24 Hours",
+      "date": "2026-08-01",
+      "summary_en": "Nearly 60,000 migrants, mostly young men seeking work, crossed from Morocco into the Spanish enclave of Ceuta in an unprecedented surge. Spanish PM Pedro Sánchez blamed traffickers and rumours; most migrants have since returned, but the crisis has triggered far-right backlash across Europe and prompted security measures in France and Italy.",
+      "summary": "Около 60 000 мигрантов, преимущественно молодых мужчин, пересекли границу Марокко с испанским анклавом Сеута за сутки — беспрецедентный наплыв. Премьер Испании Педро Санчес обвинил торговцев людьми и ложные слухи; большинство мигрантов уже вернулись, но кризис вызвал резкую реакцию ультраправых по всей Европе и ужесточение мер безопасности во Франции и Италии.",
+      "category": "politics",
+      "perspective": "Ультраправые силы Европы используют кризис для антииммиграционной риторики, называя произошедшее «вторжением». Левые и правозащитники говорят о гуманитарном кризисе. Правительство Испании пытается балансировать между давлением ЕС и отношениями с Марокко. Трамп использовал ситуацию в предвыборной риторике.",
+      "perspective_type": "from_source",
+      "sources": [
+        "Le Monde",
+        "NYT",
+        "France24",
+        "BBC",
+        "DW",
+        "TASS"
+      ],
+      "links": [
+        "https://www.lemonde.fr/international/article/2026/08/01/afflux-de-migrants-a-ceuta-l-espagne-sous-le-feu-de-la-droite-reactionnaire-mondiale_6737180_3210.html",
+        "https://www.nytimes.com/2026/07/31/world/europe/ceuta-morocco-migrants-spain.html",
+        "https://www.france24.com/fr/europe/20260731-rumeurs-appel-d-air-passivit%C3%A9-maroc-comment-expliquer-afflux-in%C3%A9dit-migrants-ceuta-espagne-sanchez",
+        "https://www.bbc.co.uk/news/articles/cx2kp639yx4o",
+        "https://www.dw.com/en/ceuta-spain-says-most-migrants-have-returned-to-morocco/live-78191601",
+        "https://tass.com/world/2167629"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-01",
+      "id": "902abd1c9172"
+    },
+    {
+      "title_ru": "Трамп допустил переход Гренландии под контроль США до конца президентского срока",
+      "title_en": "Trump Says Greenland Could Come Under US Control Before End of His Term",
+      "date": "2026-08-01",
+      "summary_en": "President Donald Trump stated that Greenland could be brought under US control before the end of his presidential term, reiterating his long-standing interest in acquiring the autonomous Danish territory. The remarks, made during a televised cabinet meeting, have reignited diplomatic tensions with Denmark and raised concerns among NATO allies.",
+      "summary": "Дональд Трамп заявил, что Гренландия может перейти под контроль США до окончания его президентского срока, вновь подчеркнув стратегический интерес к автономной датской территории. Заявление прозвучало на первом в истории США телевизионном заседании кабинета министров и вызвало новую волну напряжённости в отношениях с Данией и союзниками по НАТО.",
+      "category": "politics",
+      "perspective": "Американские националисты и сторонники Трампа рассматривают приобретение Гренландии как стратегический шаг в Арктике. Дания и Евросоюз воспринимают заявление как провокационное и нарушающее суверенитет. Россия и Китай внимательно следят за арктическими амбициями США.",
+      "perspective_type": "from_source",
+      "sources": [
+        "Коммерсантъ",
+        "Ведомости",
+        "Lenta.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8860540",
+        "https://www.vedomosti.ru/politics/news/2026/08/01/1218084-tramp-grenlandii",
+        "https://lenta.ru/news/2026/08/01/tramp-posovetoval-postavit-na-perehod-grenlandii-pod-kontrol-ssha-do-kontsa-ego-sroka/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-01",
+      "id": "785aabb1d053"
+    },
+    {
+      "title_ru": "КСИР атаковал танкеры под эскортом США в Ормузском проливе; Трамп созывает кабинет",
+      "title_en": "IRGC Strikes Tankers Under US Escort in Strait of Hormuz; Trump Gathers Cabinet",
+      "date": "2026-07-31",
+      "summary_en": "Iran's IRGC targeted and stopped two oil tankers in the Strait of Hormuz, with Iran striking vessels under US naval escort. The Persian Gulf Strait Authority confirmed Hormuz remains closed. Trump convened his cabinet to discuss the escalating war, as the crisis threatens global oil supply routes and raises fears of direct US-Iran confrontation.",
+      "summary": "Корпус стражей исламской революции Ирана нанёс удары по двум нефтяным танкерам в Ормузском проливе, включая суда под военным эскортом США. Ормузский пролив остаётся закрытым. Трамп собрал кабинет для обсуждения эскалации войны с Ираном — кризис угрожает глобальным поставкам нефти и повышает риск прямого столкновения США и Ирана.",
+      "category": "politics",
+      "perspective": "Ястребы в США требуют более жёсткого ответа Ирану. Иран подаёт свои действия как защиту суверенитета и Ормузского пролива. Мировые рынки и азиатские потребители нефти опасаются затяжного нарушения поставок. Китай и страны Персидского залива ищут дипломатические пути деэскалации.",
+      "perspective_type": "from_source",
+      "sources": [
+        "IRNA",
+        "The Guardian",
+        "Tehran Times",
+        "DW"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86224684/Continued-US-warmongering-will-tighten-Strait-of-Hormuz-closure",
+        "https://en.irna.ir/news/86224310/IRGC-targets-stops-two-violating-oil-tankers-in-Strait-of-Hormuz",
+        "https://www.theguardian.com/world/2026/jul/31/iran-strikes-tankers-us-escort-hormuz-strait-trump-gathers-cabinet",
+        "https://www.tehrantimes.com/news/528743/US-writhes-but-Hormuz-survives-in-Iranian-hands",
+        "https://www.dw.com/en/as-us-iran-war-rages-who-s-risking-the-strait-of-hormuz/a-78130878"
+      ],
+      "is_development": true,
+      "first_reported": "2026-07-31",
+      "id": "2b0ecfcc15e1"
+    },
+    {
+      "title_ru": "Трамп отозвал разрешение на производство ракет Patriot на Украине",
+      "title_en": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles",
+      "date": "2026-07-31",
+      "summary_en": "President Trump reversed his earlier decision to allow Ukraine to manufacture Patriot air defense missiles domestically, citing concerns over licensing and technology security. The reversal is a blow to Kyiv's efforts to build independent defense capabilities amid ongoing Russian missile strikes, which killed nine in Kyiv on August 1.",
+      "summary": "Президент Трамп отменил ранее данное разрешение на производство Украиной зенитных ракет Patriot, сославшись на необходимость осторожного подхода к лицензированию американских вооружений. Это решение стало ударом для Киева, стремящегося к оборонной самостоятельности, на фоне продолжающихся российских ударов — 1 августа баллистические ракеты убили 9 человек в Киеве.",
+      "category": "politics",
+      "perspective": "Сторонники Украины расценивают решение как предательство союзника. Трамп и его база подают это как защиту американских технологий и приоритет внутренних интересов. Россия приветствует ограничение доступа Украины к передовым вооружениям. Европейские союзники обеспокоены сигналом о ненадёжности американских гарантий.",
+      "perspective_type": "from_source",
+      "sources": [
+        "NYT",
+        "France24",
+        "TASS"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html",
+        "https://www.france24.com/fr/am%C3%A9riques/20260731-fabrication-missiles-patriot-donald-trump-revient-sur-feu-vert-accord%C3%A9-ukraine-%C3%A9tats-unis",
+        "https://tass.com/world/2167819"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-31",
+      "id": "9070e5ecbcb1"
+    },
+    {
+      "title_ru": "NYT: почему пузырь ИИ может быть не так уж плох",
+      "title_en": "Why an A.I. Bubble Might Not Be a Bad Thing",
+      "date": "2026-07-30",
+      "summary_en": "The New York Times examines the AI investment boom and argues that even if current venture capital flows into artificial intelligence constitute a bubble, the infrastructure and talent being built — data centers, chips, skilled workforce — may outlast any market correction, echoing patterns from the dot-com era.",
+      "summary": "The New York Times анализирует бум инвестиций в ИИ и утверждает, что даже если текущие вливания венчурного капитала являются пузырём, создаваемая инфраструктура — дата-центры, чипы, квалифицированные кадры — может пережить рыночную коррекцию, как это было в эпоху доткомов.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "NYT"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/07/30/technology/ai-bubble-venture-capital.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-07-30",
+      "id": "d49256180420"
+    },
+    {
+      "title_ru": "ВВС Индонезии получили новые транспортные самолёты отечественного производства",
+      "title_en": "Indonesian Air Force Receives New Domestically-Made Transport Aircraft",
+      "date": "2026-08-01",
+      "summary_en": "The Indonesian Air Force (TNI AU) has been reinforced with new domestically manufactured transport aircraft, marking a significant step in the country's aerospace industrial capabilities and efforts to reduce reliance on foreign military imports.",
+      "summary": "Военно-воздушные силы Индонезии (TNI AU) пополнились новыми транспортными самолётами отечественного производства — важный шаг в развитии национальной аэрокосмической промышленности и снижении зависимости от импорта военной техники.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Antara News"
+      ],
+      "links": [
+        "https://www.antaranews.com/berita/5675611/tni-au-diperkuat-pesawat-angkut-baru-buatan-dalam-negeri"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-01",
+      "id": "82fa8687433f"
     }
   ],
   "_stats": {
-    "total_tokens": 500828,
-    "total_cost": 55.897692
+    "total_tokens": 524470,
+    "total_cost": 58.451102
   }
 }
