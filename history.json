@@ -1,174 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Google AI Search угрожает открытому интернету — расследование NYT",
-      "title_en": "How Google's AI Search Is Imperiling the Open Web",
-      "date": "2026-07-21",
-      "summary_en": "The New York Times published an in-depth investigation into how Google's AI-powered search is fundamentally altering the open web. AI-generated summaries at the top of search results are reducing click-through rates to original sources, threatening the economic model of countless websites that depend on search traffic. Publishers, content creators, and open-web advocates warn that this shift could lead to the decline of independent digital media and consolidation of information control within Google's ecosystem.",
-      "summary": "The New York Times опубликовал подробное расследование о том, как поиск Google на базе ИИ фундаментально меняет открытый интернет. Сгенерированные ИИ сводки в верхней части результатов поиска снижают переходы на сайты-первоисточники, угрожая экономической модели множества сайтов, зависящих от поискового трафика. Издатели, создатели контента и защитники открытого веба предупреждают: этот сдвиг может привести к упадку независимых цифровых медиа и консолидации контроля над информацией в экосистеме Google.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The New York Times"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-21",
-      "id": "5874079e9488"
-    },
-    {
-      "title_ru": "Распыление инсектицидов в США привело к 84% устойчивости комаров к химикатам",
-      "title_en": "Mosquito Spraying Backfires as 84% Develop Insecticide Resistance in US Neighbourhoods",
-      "date": "2026-07-21",
-      "summary_en": "A study covered by the Times of India reports that wealthy US neighbourhoods which paid for mosquito spraying have inadvertently accelerated insecticide resistance: by 2023, mosquitoes across 84% of sampled blocks had evolved resistance. The findings raise concerns about the long-term efficacy of chemical mosquito control and the unintended evolutionary consequences of widespread insecticide use, with implications for public health and vector-borne disease management.",
-      "summary": "Исследование, освещённое Times of India, показывает, что состоятельные районы США, оплачивавшие распыление инсектицидов от комаров, непреднамеренно ускорили развитие резистентности: к 2023 году комары на 84% обследованных участков выработали устойчивость к химикатам. Результаты вызывают тревогу о долгосрочной эффективности химического контроля комаров и непредвиденных эволюционных последствиях массового применения инсектицидов, что имеет значение для общественного здравоохранения и борьбы с трансмиссивными заболеваниями.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Times of India"
-      ],
-      "links": [
-        "https://timesofindia.indiatimes.com/world/us/us-and-world/wealthy-us-neighbourhoods-paid-to-spray-mosquitoes-by-2023-the-insects-had-evolved-resistance-across-84-of-sampled-blocks-and-know-what-they-became-capable-of/articleshow/132534007.cms"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-21",
-      "id": "7e23ca603d33"
-    },
-    {
-      "title_ru": "Масштабная атака БПЛА на юг России: более 800 дронов, удары по складам Wildberries и нефтебазам, жертвы",
-      "title_en": "Massive Drone Attack on Southern Russia: 800+ UAVs Strike Wildberries Warehouses and Oil Depots, Casualties Reported",
-      "date": "2026-07-22",
-      "summary_en": "On the night of July 22, over 800 drones attacked southern Russia, striking Wildberries warehouses in Krasnodar and Nevinnomyssk, causing massive fires. One injured woman died in hospital and at least 10 others were wounded. The Investigative Committee opened a terrorism case. An oil depot in the Krasnodar region also caught fire, and resorts along Crimea's southern coast were blacked out. The Ministry of Defense stated air defenses intercepted the majority of drones. This marks a sharp escalation from the previous day's record of 655 drones.",
-      "summary": "В ночь на 22 июля более 800 беспилотников атаковали юг России. Удары пришлись на склады Wildberries в Краснодаре и Невинномысске — возникли масштабные пожары, работа складов приостановлена. Одна пострадавшая скончалась в больнице, не менее 10 раненых. СКР возбудил дело о теракте. Также атакована нефтебаза в Краснодарском крае, обесточены курорты Южного берега Крыма. Минобороны РФ отчиталось о перехвате большинства дронов. Это резкая эскалация после рекордных 655 дронов днём ранее.",
-      "category": "politics",
-      "perspective": "Российские власти характеризуют атаки как террористический акт против гражданской инфраструктуры; СКР возбудил уголовное дело о теракте. Кремль (Песков) опроверг использование складов Wildberries для военных поставок. ООН заявила, что атаки на склады могут квалифицироваться как военные преступления. Украинская сторона традиционно не комментирует удары по территории РФ. Рынок отреагировал падением акций Ozon на 8%.",
-      "perspective_type": "from_source",
-      "sources": [
-        "tass.ru",
-        "kommersant.ru",
-        "lenta.ru",
-        "vedomosti.ru"
-      ],
-      "links": [
-        "https://tass.ru/proisshestviya/27941219",
-        "https://lenta.ru/news/2026/07/22/minoborony-vypustilo-zayavlenie-posle-ataki/",
-        "https://www.kommersant.ru/doc/8832136",
-        "https://www.kommersant.ru/doc/8831985",
-        "https://www.kommersant.ru/doc/8831837",
-        "https://www.kommersant.ru/doc/8831753"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-22",
-      "id": "da30a25f47e0"
-    },
-    {
-      "title_ru": "Война США и Ирана: 11-я волна ударов, стоимость $37,5 млрд, Трамп угрожает ядерным объектам",
-      "title_en": "US-Iran War: 11th Wave of Strikes, $37.5B Cost, Trump Threatens Underground Nuclear Sites",
-      "date": "2026-07-22",
-      "summary_en": "The US launched its 11th wave of strikes against Iran. Defense Secretary Hegseth testified before the Senate that the war has cost $37.5 billion so far; anti-war protesters disrupted his testimony. Secretary of State Rubio said the US does not believe Iran is serious about negotiations and signaled no letup. Trump threatened to attack Iran's underground nuclear site. The Pentagon confirmed a third US soldier killed. Houthis in Yemen are edging closer to entering the conflict. Norway's Equinor doubled profits to $11.5 billion amid the war.",
-      "summary": "США нанесли 11-ю волну ударов по Ирану. Глава Пентагона Хегсет на слушаниях в Сенате заявил, что война обошлась в $37,5 млрд; его выступление прервали антивоенные протестующие. Госсекретарь Рубио заявил, что США не верят в серьёзность Ирана в переговорах, и сигнализировал о продолжении ударов. Трамп пригрозил ударами по подземному ядерному объекту. Пентагон подтвердил гибель третьего американского солдата. Хуситы в Йемене приближаются к вступлению в конфликт. Норвежская Equinor удвоила прибыль до $11,5 млрд на фоне войны.",
-      "category": "politics",
-      "perspective": "Администрация Трампа настаивает на продолжении военной кампании, считая Иран несерьёзным в переговорах (Рубио: «Иран не серьёзен»). Демократы в Сенате жёстко критикуют Хегсета за растущие расходы ($37,5 млрд) и отсутствие стратегии выхода. Антивоенное движение в США усиливается — протестующие сорвали слушания в Сенате. Иран заявляет, что «военная история пишется воздействием, а не числом смертей», и требует репараций. Соседи Ирана (Иордания, Пакистан) опасаются быть втянутыми. Нефтяные компании получают сверхприбыли.",
-      "perspective_type": "from_source",
-      "sources": [
-        "nytimes.com",
-        "bbc.co.uk",
-        "theguardian.com",
-        "dw.com",
-        "tass.com",
-        "en.irna.ir"
-      ],
-      "links": [
-        "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
-        "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo",
-        "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
-        "https://www.dw.com/en/hegseth-says-iran-war-has-cost-37-5-billion-so-far/live-78060128",
-        "https://en.irna.ir/news/86216498/War-history-is-written-by-impact-not-by-number-of-deaths-Iran-s",
-        "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html",
-        "https://www.theguardian.com/world/2026/jul/22/norway-national-oil-company-equinor-profits-double-115bn-war-iran"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-22",
-      "id": "401762260259"
-    },
-    {
-      "title_ru": "Протесты в Дели: Рахул Ганди поддержал студентов, полицейские разгоны продолжаются, парламент в тупике",
-      "title_en": "Delhi Protests: Rahul Gandhi Backs Student Demands, Police Crackdown Continues, Parliament Deadlocked",
-      "date": "2026-07-22",
-      "summary_en": "The CJP-led protests at Jantar Mantar in Delhi continued for a third day. Congress leader Rahul Gandhi visited the site, endorsed all student demands, and called on PM Modi to apologize for exam paper leaks. Police used lathi-charge and tear gas against solidarity protesters in Patna. Naseeruddin Shah, Hanumankind, and Malayalam actors voiced support, while lyricist Manoj Muntashir called the protest 'hijacked by desh drohis.' Parliament remained deadlocked as the opposition demanded Education Minister Dharmendra Pradhan's resignation. This is being described as Modi's first broad-based protest not driven by specific interest groups.",
-      "summary": "Протесты CJP в Jantar Mantar (Дели) продолжились третий день. Лидер Конгресса Рахул Ганди посетил протестующих и поддержал все требования студентов, призвав премьера Моди извиниться за утечки экзаменационных материалов. Полиция применила дубинки и слезоточивый газ против демонстрантов в Патне. Насируддин Шах, Хануманкинд и малаяламские актёры выступили в поддержку, тогда как поэт Манодж Мунташир заявил, что протест «захвачен desh drohis». Парламент парализован: оппозиция требует отставки министра образования Дхармендры Прадхана.",
-      "category": "politics",
-      "perspective": "Конгресс и оппозиция (Рахул Ганди) полностью поддерживают протестующих, требуя отставки министра и извинений от Моди. AAP обвиняет Конгресс в «работе с BJP». Правящая BJP и её сторонники (Манодж Мунташир) характеризуют протест как захваченный «врагами нации». Полиция Дели приказала сотрудникам быть только в форме, без гражданской одежды. Протест описывается как первое широкое движение против Моди, не связанное с отдельными группами интересов.",
-      "perspective_type": "from_source",
-      "sources": [
-        "thehindu.com",
-        "indianexpress.com"
-      ],
-      "links": [
-        "https://www.thehindu.com/news/national/cjp-jantar-mantar-protest-live-updates-rahul-gandhi-news-abhijeet-dipke-sonam-wangchuk-saurav-das-parliament-session/article71251952.ece",
-        "https://indianexpress.com/article/cities/delhi/cjp-protest-news-jantar-mantar-live-updates-rahul-gandhi-congress-sonam-wangchuk-hunger-strike-dharmendra-pradhan-10797557/",
-        "https://indianexpress.com/article/political-pulse/how-modi-faces-his-first-broad-based-protest-ever-not-one-by-specific-interest-groups-10797401/",
-        "https://indianexpress.com/article/cities/patna/jantar-mantar-stir-patna-police-lathi-charge-tear-gas-protesters-10798132/",
-        "https://indianexpress.com/article/trending/trending-in-india/sridhar-vembu-on-cjp-protest-s-gurumurthy-delhi-protests-10798391/"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-22",
-      "id": "d59115d4f471"
-    },
-    {
-      "title_ru": "США отказались передавать Украине $400 млн утверждённой Конгрессом военной помощи",
-      "title_en": "US Withholds $400 Million in Congress-Approved Military Aid to Ukraine",
-      "date": "2026-07-22",
-      "summary_en": "The Trump administration has refused to transfer $400 million in military aid to Ukraine that was previously approved by Congress. The decision marks a significant shift in US support for Kyiv. Simultaneously, Secretary of State Rubio announced plans to discuss Ukraine with Russian Foreign Minister Sergey Lavrov, signaling a potential diplomatic track.",
-      "summary": "Администрация Трампа отказалась передавать Украине $400 млн военной помощи, ранее утверждённой Конгрессом США. Это решение знаменует существенный сдвиг в американской поддержке Киева. Параллельно госсекретарь Рубио анонсировал планы обсудить украинский вопрос с главой МИД РФ Лавровым, что может указывать на новый дипломатический курс.",
-      "category": "politics",
-      "perspective": "Для сторонников Украины это воспринимается как предательство и ослабление Киева в критический момент войны. Администрация Трампа оправдывает решение пересмотром приоритетов и стремлением к мирному урегулированию. Россия приветствует сокращение военной помощи как шаг к деэскалации. Европейские союзники обеспокоены сигналом, который это посылает относительно надёжности американских гарантий безопасности.",
-      "perspective_type": "assumed",
-      "sources": [
-        "kommersant.ru",
-        "vedomosti.ru",
-        "lenta.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8831811",
-        "https://www.vedomosti.ru/politics/news/2026/07/22/1215531-ssha-otkazalis-peredavat",
-        "https://lenta.ru/news/2026/07/22/long-ssha-otkazalis-peredavat-ukraine-voennuyu-pomosch-na-400-millionov-dollarov-v-chem-prichina/",
-        "https://tass.com/world/2163539"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-22",
-      "id": "55ad43bb165f"
-    },
-    {
-      "title_ru": "Госдума приняла пакет законов: ограничения для релокантов, выдворение мигрантов и регулирование криптовалют",
-      "title_en": "Russian State Duma Passes Laws on Relocants, Migrant Deportation, and Cryptocurrency Regulation",
-      "date": "2026-07-22",
-      "summary_en": "The Russian State Duma adopted a series of significant laws. Restrictions were introduced for 'relocants' — citizens who left Russia. The list of offenses warranting migrant deportation was expanded from 22 to 45 articles of the Administrative Code. A landmark law on cryptocurrency market regulation was passed, and electronic wallets were included in the deposit insurance system. Foreign investors were denied the right to reclaim assets. A law on credit holidays for participants in counter-terrorism operations in border regions was also adopted.",
-      "summary": "Госдума РФ приняла пакет значимых законов. Введены ограничения для релокантов — покинувших страну граждан. Перечень статей КоАП для выдворения мигрантов расширен с 22 до 45. Принят закон о регулировании крипторынка, а электронные кошельки включены в систему страхования вкладов. Иностранные инвесторы лишены права на возврат активов. Также принят закон о кредитных каникулах для участников КТО в приграничье.",
-      "category": "politics",
-      "perspective": "Власти характеризуют законы как защиту национальных интересов, суверенитета и безопасности. Релоканты и оппозиция видят в этом ужесточение репрессивной политики и «закрытие дверей». Бизнес-сообщество преимущественно позитивно оценивает регулирование криптовалют. Правозащитники критикуют расширение оснований для выдворения мигрантов. Иностранные инвесторы негативно восприняли лишение права на возврат активов.",
-      "perspective_type": "assumed",
-      "sources": [
-        "kommersant.ru",
-        "vedomosti.ru"
-      ],
-      "links": [
-        "https://www.vedomosti.ru/politics/news/2026/07/22/1215627-gosduma-prinyala-zakoni",
-        "https://www.kommersant.ru/doc/8831672",
-        "https://www.kommersant.ru/doc/8831565",
-        "https://www.kommersant.ru/doc/8831554",
-        "https://www.kommersant.ru/doc/8831487",
-        "https://www.kommersant.ru/doc/8831410"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-22",
-      "id": "f466e3817749"
-    },
-    {
       "title_ru": "В Атлантике найден затонувший в 1952 году пассажирский самолёт Douglas DC-4",
       "title_en": "Douglas DC-4 Passenger Aircraft That Crashed in 1952 Found in Atlantic Ocean",
       "date": "2026-07-22",
@@ -2491,10 +2323,183 @@
       "is_development": false,
       "first_reported": "2026-08-04",
       "id": "ea160f30eeb8"
+    },
+    {
+      "title_ru": "Масштабная атака БПЛА: за ночь над Россией сбито 475 дронов, загорелся сортировочный центр Wildberries в Тульской области",
+      "title_en": "Massive Drone Attack: 475 UAVs Shot Down Over Russia Overnight, Wildberries Sorting Center Catches Fire in Tula Region",
+      "date": "2026-08-05",
+      "summary_en": "Russian air defense shot down 475 Ukrainian drones overnight across multiple regions, a new record. A Wildberries sorting center in the Tula region caught fire after a drone strike, one person was injured. Additionally, 10 drones were intercepted near Moscow, and drone threats were declared in Tatarstan, Udmurtia, Sochi, and other regions. This follows a previous record of 320 drones on August 4.",
+      "summary": "Российские силы ПВО за ночь сбили 475 украинских беспилотников над регионами — новый рекорд. В Тульской области после атаки БПЛА загорелся сортировочный центр Wildberries, один человек пострадал. Вблизи Москвы перехвачено 10 дронов, угроза атаки объявлялась в Татарстане, Удмуртии, Сочи и Сириусе, Чувашии и других регионах. Это развитие рекордной атаки 4 августа (320 БПЛА).",
+      "category": "politics",
+      "perspective": "Российские власти: успешная работа ПВО, предотвращены массовые жертвы. Прозападные силы: эскалация конфликта, удары по логистической инфраструктуре — законные военные цели. Пацифисты: страдают гражданские объекты и работники складов.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Коммерсантъ",
+        "ТАСС",
+        "Ведомости",
+        "Лента.ру"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8862757",
+        "https://tass.ru/proisshestviya/27984003",
+        "https://www.kommersant.ru/doc/8862714",
+        "https://www.vedomosti.ru/politics/news/2026/08/05/1218912-pozhar-nachalsya",
+        "https://www.kommersant.ru/doc/8862705",
+        "https://www.vedomosti.ru/politics/news/2026/08/05/1218913-sili-pvo-sbili",
+        "https://tass.ru/proisshestviya/27984071",
+        "https://tass.ru/proisshestviya/27984087"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-05",
+      "id": "4707ad17c317"
+    },
+    {
+      "title_ru": "Ормузский пролив: Трамп обещает скорое открытие, сделка США–Иран–Оман может быть объявлена в среду",
+      "title_en": "Strait of Hormuz: Trump Promises Rapid Reopening, US–Iran–Oman Deal May Be Announced Wednesday",
+      "date": "2026-08-05",
+      "summary_en": "Donald Trump stated the Strait of Hormuz will be opened 'very soon' and threatened Iran with severe consequences if it fails. Axios reports the US is preparing to announce a deal with Iran and Oman as early as Wednesday. Marco Rubio and Treasury Secretary Bessent expressed optimism about progress. WSJ reports that under the deal, ships would enter the Persian Gulf through Iranian waters. Iran confirmed positive progress in talks with Oman.",
+      "summary": "Дональд Трамп заявил, что Ормузский пролив будет открыт «очень скоро», и пригрозил Ирану серьёзными последствиями. По данным Axios, США готовятся объявить о сделке с Ираном и Оманом уже в среду 5 августа. Госсекретарь Рубио и министр финансов Бессент выразили оптимизм. WSJ сообщает, что сделка предполагает проход судов через иранские воды. Иран подтвердил позитивный ход переговоров с Оманом.",
+      "category": "politics",
+      "perspective": "Администрация Трампа: дипломатическая победа, принуждение Ирана к уступкам. Иран: отстаивание суверенитета над проливом, сделка на иранских условиях. Рынки: снижение цен на нефть — позитивный сигнал. Скептики: сделка хрупкая, возможен срыв в любой момент.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The Hindu",
+        "BBC",
+        "TASS",
+        "The Guardian",
+        "NYT",
+        "IRNA",
+        "WSJ",
+        "Antara"
+      ],
+      "links": [
+        "https://www.thehindu.com/news/international/west-asia-war-tehran-washington-talks-iran-oman-diplomatic-engagement-strait-of-hormuz-live-updates-august-5-2026/article71307954.ece",
+        "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo",
+        "https://tass.com/world/2169067",
+        "https://tass.com/world/2169057",
+        "https://www.theguardian.com/world/live/2026/aug/04/middle-east-crisis-qatar-iran-us-israel-war-donald-trump-strait-hormuz-gaza-latest-news-updates",
+        "https://www.nytimes.com/2026/08/04/world/middleeast/strait-of-hormuz-deal-progress.html",
+        "https://tass.com/world/2169015",
+        "https://en.irna.ir/news/86228014/Baqaei-Iran-Oman-talks-on-Strait-of-Hormuz-progressing-positively"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-05",
+      "id": "79e56f72de3f"
+    },
+    {
+      "title_ru": "Дипломатический кризис: США отозвали визу посла Бразилии, Бразилия выразила решительный протест",
+      "title_en": "Diplomatic Crisis: US Revokes Brazilian Ambassador's Visa, Brazil Protests Forcefully",
+      "date": "2026-08-05",
+      "summary_en": "The United States revoked the visa of Brazil's ambassador in an escalation of the diplomatic feud between the two countries. Brazil's government repudiated the move, calling it an unjustified hostile act. The incident marks a sharp deterioration in US-Brazil relations.",
+      "summary": "Соединённые Штаты отозвали визу посла Бразилии в США, что стало резкой эскалацией дипломатического противостояния. Бразильское правительство выразило решительное осуждение, назвав этот шаг неоправданным враждебным актом. Инцидент знаменует серьёзное ухудшение отношений между двумя крупнейшими странами Америки.",
+      "category": "politics",
+      "perspective": "Администрация Трампа: ответная мера на действия Бразилии. Правительство Бразилии: неоправданная эскалация, ущемление суверенитета. Левые силы Латинской Америки: империалистическое давление США. Дипломатические круги: тревожный прецедент, подрыв межамериканского диалога.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The Guardian",
+        "Agência Brasil",
+        "Antara"
+      ],
+      "links": [
+        "https://www.theguardian.com/us-news/2026/aug/04/us-revokes-brazil-ambassador-visa",
+        "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/brasil-repudia-revogacao-de-visto-de-embaixadora-nos-eua",
+        "https://www.antaranews.com/berita/5680504/as-cabut-visa-dubes-brasil-di-tengah-perselisihan-diplomatik"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-05",
+      "id": "3f0bd69cc250"
+    },
+    {
+      "title_ru": "Путин подписал пакет законов о криптовалютах, расширении депортации и контрактах осуждённых с Минобороны",
+      "title_en": "Putin Signs Package of Laws on Cryptocurrency Regulation, Expanded Deportation, and Military Contracts for Convicts",
+      "date": "2026-08-04",
+      "summary_en": "President Putin signed a series of significant laws: cryptocurrency regulation framework, expanded grounds for deportation of foreigners, and broader opportunities for convicts to sign contracts with the Ministry of Defense. He also signed laws stripping absentee convicts ('relocants') of certain rights and restricting share buybacks for investors who left Russia.",
+      "summary": "Владимир Путин подписал пакет значимых законов: о регулировании криптовалют, о расширении оснований для депортации иностранцев и о расширении возможностей для осуждённых заключать контракты с Минобороны. Также подписаны законы о поражении в правах заочно осуждённых «релокантов» и ограничении прав покинувших Россию инвесторов на выкуп акций.",
+      "category": "politics",
+      "perspective": "Кремль: укрепление суверенитета, цифровизация финансов, обеспечение безопасности. Оппозиция и правозащитники: ужесточение репрессий, дискриминация релокантов, милитаризация пенитенциарной системы. Бизнес-сообщество: легализация криптовалют — долгожданный шаг, но ограничения для уехавших инвесторов создают риски.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Коммерсантъ",
+        "Ведомости"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8862644",
+        "https://www.kommersant.ru/doc/8862528",
+        "https://www.kommersant.ru/doc/8862437",
+        "https://www.kommersant.ru/doc/8862598",
+        "https://www.kommersant.ru/doc/8862521",
+        "https://www.kommersant.ru/doc/8862554"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-04",
+      "id": "682b774e3540"
+    },
+    {
+      "title_ru": "Кризис в Сеуте: ЕС критикует миграционный план Испании, сотни марокканцев ждут пропавших близких у границы",
+      "title_en": "Ceuta Crisis: EU Criticises Spain's Migrant Plan as Hundreds Wait for Missing Loved Ones at Border",
+      "date": "2026-08-05",
+      "summary_en": "The EU chief criticised Spain's migrant plan following the Ceuta crisis meeting, revealing divisions within Europe. Meanwhile, hundreds of Moroccans have gathered near the Ceuta border, anxiously waiting for news of missing loved ones. A Guardian briefing highlights how misinformation and hardened immigration policies turned Ceuta into Europe's latest flashpoint. The EU Council confirmed no migrants have left Ceuta for Spain or other EU countries.",
+      "summary": "Глава ЕС раскритиковала миграционный план Испании после кризисного совещания по Сеуте, обнажив разногласия внутри Европы. Тем временем сотни марокканцев собрались у границы Сеуты в тревожном ожидании пропавших близких. Обозреватель Guardian отмечает, что дезинформация и ужесточение иммиграционной политики превратили Сеуту в новую горячую точку Европы. Совет ЕС подтвердил: мигранты не покидали Сеуту.",
+      "category": "politics",
+      "perspective": "Левые и правозащитники: гуманитарная катастрофа, Европа должна принять мигрантов. Правые: провал политики открытых границ, угроза безопасности. Евробюрократия: необходима «общая ответственность», но механизма нет. Испания: страна брошена наедине с кризисом.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The Guardian",
+        "TASS"
+      ],
+      "links": [
+        "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint",
+        "https://www.theguardian.com/world/2026/aug/05/hundreds-in-morocco-gather-near-ceuta-border-in-anxious-wait-for-missing-loved-ones",
+        "https://www.theguardian.com/world/2026/aug/04/eu-criticises-spain-migrant-plan-ceuta-crisis-meeting",
+        "https://tass.com/world/2168859"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-05",
+      "id": "ce769d7f4107"
+    },
+    {
+      "title_ru": "Интерпол: 55% киберпреступлений в Африке совершаются с использованием ИИ",
+      "title_en": "Interpol: 55% of Cybercrimes in Africa Now Use Artificial Intelligence",
+      "date": "2026-08-05",
+      "summary_en": "Interpol reported that 55% of cybercrimes in Africa now involve the use of artificial intelligence, marking a significant shift in the threat landscape. The finding underscores how AI tools are increasingly deployed for malicious purposes across the continent, from deepfakes to automated fraud schemes.",
+      "summary": "Интерпол сообщил, что 55% киберпреступлений в Африке совершаются с использованием искусственного интеллекта, что标志着 существенное изменение ландшафта угроз. ИИ-инструменты — от дипфейков до автоматизированных схем мошенничества — всё активнее применяются злоумышленниками на континенте.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Antara"
+      ],
+      "links": [
+        "https://www.antaranews.com/berita/5680591/interpol-55-persen-kejahatan-siber-di-afrika-gunakan-ai"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-05",
+      "id": "8c7b918c227d"
+    },
+    {
+      "title_ru": "Немецкая автомобильная промышленность — опора национальной экономики — переживает глубокий кризис",
+      "title_en": "German Auto Industry, Pillar of National Economy, in Deep Crisis: Cuts at BMW, VW, Mercedes",
+      "date": "2026-08-05",
+      "summary_en": "The German automobile industry is undergoing a severe contraction, with major manufacturers BMW, Volkswagen, and Mercedes implementing significant workforce and production cuts. The crisis is described as shaking a pillar of the German national psyche and economy, driven by EV transition challenges, Chinese competition, and weakening global demand.",
+      "summary": "Немецкая автомобильная промышленность переживает глубокий кризис: BMW, Volkswagen и Mercedes проводят масштабные сокращения персонала и производства. Отрасль, десятилетиями бывшая опорой немецкой экономики и национального самосознания, shaken сочетанием факторов: трудности перехода на электромобили, конкуренция с Китаем и ослабление глобального спроса.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "The New York Times",
+        "Deutsche Welle"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html",
+        "https://www.dw.com/en/bmw-to-volkswagen-how-deep-is-germany-s-auto-industry-cull/a-78168695"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-05",
+      "id": "2ea69c6bf157"
     }
   ],
   "_stats": {
-    "total_tokens": 603417,
-    "total_cost": 67.43534799999999
+    "total_tokens": 631308,
+    "total_cost": 70.46569799999999
   }
 }
