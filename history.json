@@ -1,200 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "В Атлантике найден затонувший в 1952 году пассажирский самолёт Douglas DC-4",
-      "title_en": "Douglas DC-4 Passenger Aircraft That Crashed in 1952 Found in Atlantic Ocean",
-      "date": "2026-07-22",
-      "summary_en": "The wreckage of a Douglas DC-4 passenger aircraft that crashed 74 years ago in 1952 has been discovered in the Atlantic Ocean near Puerto Rico. The aircraft went missing during a flight and its location remained unknown for over seven decades. The discovery sheds new light on one of the longstanding aviation mysteries of the mid-20th century.",
-      "summary": "В Атлантическом океане у побережья Пуэрто-Рико обнаружены обломки пассажирского самолёта Douglas DC-4, потерпевшего крушение в 1952 году — 74 года назад. Местоположение воздушного судна оставалось неизвестным более семи десятилетий. Находка проливает свет на одну из давних авиационных загадок середины XX века.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "nplus1.ru",
-        "lenta.ru",
-        "kommersant.ru"
-      ],
-      "links": [
-        "https://nplus1.ru/news/2026/07/22/douglas-dc-4",
-        "https://lenta.ru/news/2026/07/22/poterpevshiy-krushenie-70-let-nazad-samolet-nashli-v-atlantike/",
-        "https://www.kommersant.ru/doc/8831751"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-22",
-      "id": "fe77598dbe63"
-    },
-    {
-      "title_ru": "Трамп ввёл 50% пошлины на товары из Канады и готовит тарифы против 60 стран",
-      "title_en": "Trump Imposes 50% Tariffs on Canadian Goods, Prepares Tariffs Against 60 Countries",
-      "date": "2026-07-22",
-      "summary_en": "President Trump imposed 50% tariffs on select Canadian goods, stating they are unrelated to the wildfire situation. According to the Financial Times, the White House is also preparing new tariffs on goods from 60 countries. Canada reacted negatively to the new duties. Brazil's Vice President Alckmin stated the country will not 'retaliate' but will respond in a timely and reciprocal manner, emphasizing that 'reciprocity is not retaliation.' Separately, Trump is reportedly pushing to install FIFA President Infantino as UN Secretary General.",
-      "summary": "Президент Трамп ввёл 50-процентные пошлины на некоторые канадские товары, подчеркнув, что они не связаны с лесными пожарами. По данным FT, Белый дом готовит новые тарифы на товары из 60 стран. Канада отреагировала негативно. Вице-президент Бразилии Алкмин заявил, что страна не будет «мстить», но ответит своевременно, подчеркнув: «взаимность — не возмездие». Также Трамп, по данным NYP, продвигает кандидатуру президента FIFA Инфантино на пост генсека ООН.",
-      "category": "politics",
-      "perspective": "Администрация Трампа оправдывает пошлины защитой американских экономических интересов. Канада считает 50-процентные пошлины несправедливыми и разрушительными для двусторонней торговли. Бразилия заняла сдержанную, но принципиальную позицию: «reciprocidade — не retaliação и не olho por olho». Экономисты предупреждают о риске разрастания глобальной торговой войны. Союзники США встревожены эскалацией протекционизма на фоне параллельных военных кризисов.",
-      "perspective_type": "from_source",
-      "sources": [
-        "kommersant.ru",
-        "vedomosti.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8831970",
-        "https://www.kommersant.ru/doc/8831505",
-        "https://www.kommersant.ru/doc/8831644",
-        "https://www.kommersant.ru/doc/8831479",
-        "https://www.kommersant.ru/doc/8830948",
-        "https://www.kommersant.ru/doc/8831760"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-22",
-      "id": "7ad65fd66443"
-    },
-    {
-      "title_ru": "США и Саудовская Аравия подписали историческое ядерное соглашение",
-      "title_en": "US and Saudi Arabia Sign Landmark Civil Nuclear Deal",
-      "date": "2026-07-23",
-      "summary_en": "The US and Saudi Arabia signed a historic civil nuclear cooperation agreement that could allow Saudi uranium enrichment. The deal has sparked fears in Israel of a Middle East nuclear arms race, while the Trump administration frames it as a strategic coup for Crown Prince Mohammed bin Salman and a counterweight to Iran.",
-      "summary": "США и Саудовская Аравия подписали историческое соглашение о сотрудничестве в области гражданской ядерной энергетики, которое потенциально допускает обогащение урана на саудовской территории. Сделка вызвала резкую обеспокоенность в Израиле из-за риска гонки ядерных вооружений на Ближнем Востоке. Администрация Трампа рассматривает соглашение как стратегический успех и усиление саудовского кронпринца.",
-      "category": "politics",
-      "sources": [
-        "BBC",
-        "DW",
-        "NYT",
-        "NPR",
-        "The Hindu",
-        "Indian Express",
-        "TASS"
-      ],
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cj03r59z73po",
-        "https://www.dw.com/en/us-and-saudi-arabia-reach-historic-nuclear-energy-deal/a-78077629",
-        "https://www.nytimes.com/2026/07/22/world/middleeast/saudi-nuclear-deal-israel.html",
-        "https://www.nytimes.com/2026/07/23/world/middleeast/saudi-arabia-nuclear.html",
-        "https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran",
-        "https://www.thehindu.com/news/international/israelis-fear-saudi-nuclear-deal-could-ignite-west-asia-arms-race/article71257084.ece",
-        "https://indianexpress.com/article/world/us-saudi-arabia-nuclear-deal-uranium-enrichment-10799398/",
-        "https://tass.com/world/2164197"
-      ],
-      "perspective": "Администрация Трампа: стратегическая победа — укрепление союза против Ирана, экономические выгоды для американских компаний. Израиль: тревога — допуск к обогащению урана создаёт прецедент для гонки вооружений, подрывает военное превосходство Израиля в регионе. Саудовская Аравия: дипломатический триумф кронпринца, признание регионального статуса. Иран: расценивает как элемент американского «окружения». Сторонники нераспространения: опасения, что соглашение ослабляет глобальный режим ядерного нераспространения.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-07-23",
-      "id": "70eff206b724"
-    },
-    {
-      "title_ru": "Лавров и Рубио провели переговоры в Маниле: «новые идеи» по Украине",
-      "title_en": "Lavrov and Rubio Hold Talks in Manila: 'New Ideas' on Ukraine",
-      "date": "2026-07-23",
-      "summary_en": "Russian Foreign Minister Sergey Lavrov and US Secretary of State Marco Rubio met in Manila for their first face-to-face talks. Rubio stated the US has 'new ideas' for Ukraine settlement, while Lavrov warned against continued weapons supplies to Ukraine and reminded Rubio of the Anchorage summit outcomes. The meeting lasted about half an hour.",
-      "summary": "Министр иностранных дел России Сергей Лавров и госсекретарь США Марко Рубио провели первые очные переговоры в Маниле. Рубио заявил о наличии у США «новых идей» по урегулированию конфликта на Украине. Лавров, в свою очередь, предупредил о недопустимости поставок оружия Украине и напомнил о результатах саммита в Анкоридже. Встреча продлилась около получаса.",
-      "category": "politics",
-      "sources": [
-        "Kommersant",
-        "Vedomosti",
-        "Lenta.ru",
-        "TASS"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8833021",
-        "https://www.kommersant.ru/doc/8832874",
-        "https://www.kommersant.ru/doc/8832698",
-        "https://www.kommersant.ru/doc/8832619",
-        "https://www.vedomosti.ru/politics/articles/2026/07/23/1215891-o-neobhodimosti-novih-idei",
-        "https://www.vedomosti.ru/politics/articles/2026/07/23/1215862-chem-polchasa-govorili",
-        "https://lenta.ru/news/2026/07/23/rubio-nazval-uslovie-uregulirovaniya-na-ukraine/",
-        "https://lenta.ru/news/2026/07/23/lavrov-rasskazal-rubio-pravdu-o-polozhenii-del-na-ukraine/"
-      ],
-      "perspective": "Россия: Лавров занял твёрдую позицию — поставки оружия Украине недопустимы, необходимо учитывать реалии «на земле». США: Рубио сигнализирует о готовности к новым дипломатическим подходам, но конкретные «новые идеи» не раскрыты. Украина: потенциальная обеспокоенность — любые прямые переговоры РФ и США без участия Киева могут затрагивать украинские интересы. Европа: наблюдает за возможным изменением американской позиции.",
-      "perspective_type": "from_source",
-      "is_development": false,
-      "first_reported": "2026-07-23",
-      "id": "ffb344b47668"
-    },
-    {
-      "title_ru": "Война США и Ирана: 12-я ночь ударов, атаки КСИР на базы США в Кувейте",
-      "title_en": "US-Iran War: 12th Night of Strikes, IRGC Attacks US Bases in Kuwait",
-      "date": "2026-07-23",
-      "summary_en": "The US launched its 12th consecutive night of strikes on Iran, while the IRGC carried out drone attacks on three US bases in Kuwait. Iran's Khatam al-Anbia headquarters warned the US against attacking Iranian infrastructure. The Health Ministry reported 53 killed and 592 wounded in recent US aggression. Iraqi PM visited Tehran for talks with President Pezeshkian. Yemen's Houthis claimed attacks on Red Sea tankers.",
-      "summary": "США нанесли 12-ю ночь ударов по Ирану подряд. Одновременно КСИР осуществил атаки беспилотников на три американские базы в Кувейте. Штаб «Хатам аль-Анбия» предупредил США о недопустимости ударов по иранской инфраструктуре. Минздрав Ирана сообщил о 53 погибших и 592 раненых. Премьер-министр Ирака прибыл в Тегеран на переговоры. Хуситы Йемена заявили об атаках на танкеры в Красном море.",
-      "category": "politics",
-      "sources": [
-        "IRNA",
-        "The Guardian",
-        "Indian Express",
-        "TASS"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86217315/Iranian-Army-launches-drone-attacks-on-three-US-bases-in-Kuwait",
-        "https://en.irna.ir/news/86216994/Khatam-al-Anbia-warns-US-against-attacking-infrastructure",
-        "https://en.irna.ir/news/86216793/53-martyred-592-wounded-in-recent-US-aggression-on-Iran-Health",
-        "https://en.irna.ir/news/86217368/President-Pezeshkian-officially-welcomes-Iraqi-prime-minister",
-        "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news",
-        "https://indianexpress.com/article/world/us-iran-war-news-live-updates-donald-trump-hormuz-shipping-west-asia-10799363/",
-        "https://tass.com/world/2163819"
-      ],
-      "perspective": "США: администрация Трампа продолжает военную кампанию, параллельно заключая стратегические сделки (ядерное соглашение с Саудовской Аравией). Иран: принцип «око за око» — удары по американским базам в регионе, предупреждения о недопустимости атак на инфраструктуру. Хуситы: действуют в координации с Ираном, атакуя судоходство в Красном море. Международное сообщество: растущая обеспокоенность расширением конфликта — удары по Кувейту и Иордании, экономические последствия (EasyJet: падение прибыли на 70% из-за цен на топливо).",
-      "perspective_type": "from_source",
-      "is_development": true,
-      "first_reported": "2026-07-23",
-      "id": "8627fdc5b191"
-    },
-    {
-      "title_ru": "Атаки ВСУ на регионы России: удар по дамбе, жертвы в Крыму и Белгородской области",
-      "title_en": "Ukrainian Attacks on Russian Regions: Dam Strike, Casualties in Crimea and Belgorod",
-      "date": "2026-07-23",
-      "summary_en": "Ukrainian forces struck the dam of the Belgorod reservoir, causing a water release. In Crimea, a night drone attack killed 2 and injured 5. In Belgorod region, 7 people were injured, including a groom near a registry office; a 3-year-old child was killed. A Turkish cargo ship was hit by a drone in the Black Sea, killing one person. Russian air defense shot down 7 aerial bombs and 480 drones in 24 hours.",
-      "summary": "ВСУ нанесли удар по дамбе Белгородского водохранилища, что привело к сбросу воды. В Крыму в результате ночной атаки беспилотников погибли 2 человека, 5 пострадали. В Белгородской области ранены 7 человек, включая жениха возле ЗАГСа; погиб трёхлетний ребёнок. В Чёрном море БПЛА атаковал турецкий сухогруз — один человек погиб. Российские ПВО за сутки сбили 7 авиабомб и 480 беспилотников.",
-      "category": "politics",
-      "sources": [
-        "Kommersant",
-        "TASS",
-        "Lenta.ru",
-        "Vedomosti"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8833012",
-        "https://www.kommersant.ru/doc/8832817",
-        "https://www.kommersant.ru/doc/8831525",
-        "https://www.kommersant.ru/doc/8832648",
-        "https://tass.ru/proisshestviya/27944851",
-        "https://tass.ru/proisshestviya/27944619",
-        "https://tass.ru/proisshestviya/27944637",
-        "https://lenta.ru/news/2026/07/23/gubernator-soobschil-o-zhertve-ataki-vsu-na-rossiyskiy-region/",
-        "https://www.vedomosti.ru/politics/news/2026/07/22/1215615-yalte-13-chelovek"
-      ],
-      "perspective": "Российские власти: характеризуют атаки как целенаправленный террор против гражданского населения и критической инфраструктуры. Военные: ПВО демонстрирует высокую эффективность (480 сбитых БПЛА за сутки), но массированность атак создаёт угрозу истощения. Международный аспект: атака на турецкий сухогруз расширяет географию конфликта, затрагивая интересы третьих стран. Гуманитарный аспект: рост жертв среди мирного населения, включая детей.",
-      "perspective_type": "from_source",
-      "is_development": true,
-      "first_reported": "2026-07-23",
-      "id": "e4b7147929ce"
-    },
-    {
-      "title_ru": "Протесты CJP в Индии: день 26-й, звёзды Болливуда поддержали студентов",
-      "title_en": "CJP Protests in India Day 26: Bollywood Stars Back Students, Anna Hazare Joins",
-      "date": "2026-07-23",
-      "summary_en": "Student protests over the NEET paper leak entered their 26th day. Bollywood celebrities Alia Bhatt, Salman Khan, and Huma Qureshi voiced support for the students. Activist Anna Hazare began a silent protest. Mumbai police faced backlash after an officer threatened to 'plant drugs' on protesters. Over half of those booked in protest FIRs are aged 25 or under. Sonam Wangchuk opened a window for talks with the government.",
-      "summary": "Студенческие протесты из-за утечки экзаменационных материалов NEET продолжаются 26-й день. Звёзды Болливуда — Алия Бхатт, Салман Хан и Хума Куреши — публично поддержали студентов. Активист Анна Хазаре начал молчаливую акцию протеста. Полиция Мумбаи оказалась в центре скандала: офицер угрожал «подбросить наркотики» протестующим. Более половины фигурантов дел о протестах — молодёжь до 25 лет. Сонам Вангчук открыл возможность для переговоров с правительством.",
-      "category": "politics",
-      "sources": [
-        "The Hindu",
-        "Indian Express",
-        "Times of India"
-      ],
-      "links": [
-        "https://www.thehindu.com/news/national/cjp-protest-jantar-mantar-delhi-police-stop-students-in-auto-rickshaws/article71257331.ece",
-        "https://www.thehindu.com/videos/shorts/watch-anna-hazare-begins-silent-protest-in-support-of-students-delhi-agitation/article71257471.ece",
-        "https://www.thehindu.com/news/national/will-plant-drugs-mumbai-cop-threatens-protesting-students-police-order-probe/article71257311.ece",
-        "https://indianexpress.com/article/entertainment/bollywood/alia-bhatt-backs-cjp-protest-says-their-courage-humbles-me-10799575/",
-        "https://indianexpress.com/article/entertainment/bollywood/salman-khan-supports-cjp-protest-heart-goes-out-to-students-who-were-hurt-10799091/",
-        "https://indianexpress.com/article/cities/mumbai/mumbai-police-data-more-than-half-booked-in-cjp-protest-firs-are-aged-25-year-or-under-10799245/",
-        "https://indianexpress.com/article/political-pulse/sonam-wangchuk-neet-cjp-protests-talks-government-compensation-dharmendra-pradhan-resignation-10799236/"
-      ],
-      "perspective": "Протестующие студенты: требуют справедливости после утечки NEET, пересдачи экзамена и отставки министра образования. Правительство Моди: жёсткая реакция полиции, запретительные ордера, попытки сдержать протесты. Болливуд: раскол — Алия Бхатт и Салман Хан поддержали студентов, Кангана Ранаут одобрила «решительные действия» правительства. Полиция: методы подвергаются критике — угрозы, отслеживание геолокации, домашние визиты. Оппозиция (Конгресс): поддерживает протестующих, парламент в тупике.",
-      "perspective_type": "from_source",
-      "is_development": true,
-      "first_reported": "2026-07-23",
-      "id": "577114f54505"
-    },
-    {
       "title_ru": "Meta ведёт переговоры о сдаче вычислительных мощностей Anthropic на $10 млрд",
       "title_en": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
       "date": "2026-07-17",
@@ -2496,10 +2302,160 @@
       "is_development": false,
       "first_reported": "2026-08-05",
       "id": "2ea69c6bf157"
+    },
+    {
+      "title_ru": "Рекордная атака БПЛА: над Россией за ночь сбито 605 дронов, удары по складам Wildberries в нескольких регионах",
+      "title_en": "Record Drone Attack: 605 UAVs Downed Over Russia Overnight, Wildberries Warehouses Hit Across Multiple Regions",
+      "date": "2026-08-06",
+      "summary_en": "Russian air defense shot down a record 605 Ukrainian drones overnight, the largest single-night attack since the conflict began. Drones targeted Moscow (6 downed near the capital), Yaroslavl (the region's most massive attack), Voronezh (57 UAVs), Tula, Kaluga, and other regions. A Wildberries logistics complex in Tver region was damaged, and fires broke out at residential buildings in Yaroslavl. The attack follows a previous record of 475 drones on August 5, marking a sharp escalation in the drone campaign.",
+      "summary": "Российские силы ПВО сбили рекордные 605 украинских БПЛА за ночь — самая массированная атака дронов с начала конфликта. Целями стали Москва (6 сбито у столицы), Ярославская область (самая массовая атака на регион), Воронежская (57 БПЛА), Тульская, Калужская и другие. Логистический комплекс Wildberries в Тверской области повреждён обломками, в Ярославской области загорелись три жилых дома. Предыдущий рекорд в 475 дронов был поставлен сутками ранее, 5 августа, что свидетельствует о резкой эскалации кампании.",
+      "category": "politics",
+      "perspective": "Российские власти представляют как доказательство эффективности ПВО и акт террора против гражданской инфраструктуры. Украинская сторона — как демонстрацию способности наносить удары вглубь РФ. Западные аналитики говорят о качественно новом этапе воздушной войны.",
+      "perspective_type": "assumed",
+      "sources": [
+        "kommersant.ru",
+        "tass.ru",
+        "lenta.ru",
+        "vedomosti.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8863652",
+        "https://tass.ru/armiya-i-opk/27987679",
+        "https://www.kommersant.ru/doc/8863643",
+        "https://tass.ru/proisshestviya/27987717",
+        "https://www.kommersant.ru/doc/8863631",
+        "https://www.kommersant.ru/doc/8863575"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-06",
+      "id": "18fe98328acd"
+    },
+    {
+      "title_ru": "НАТО экстренно предоставит Украине ракеты-перехватчики; удар России по Киеву унёс жизни 17 человек",
+      "title_en": "NATO to Urgently Supply Ukraine with Interceptor Missiles; Russian Strike on Kyiv Kills 17",
+      "date": "2026-08-06",
+      "summary_en": "NATO Secretary General pledged to urgently obtain interceptor missiles for Ukraine following a deadly Russian missile attack on Kyiv that killed at least 17 people. President Zelenskyy warned of a surge in Russian missile production and called for more air defense systems, particularly Patriot batteries. The New York Times reports that Russia's missile attack exploited Ukraine's depleted air defenses, marking a dangerous new phase in the air war.",
+      "summary": "Генсек НАТО пообещал Зеленскому экстренно предоставить ракеты-перехватчики после ракетного удара России по Киеву, унёсшего жизни по меньшей мере 17 человек. Зеленский предупредил о резком росте российского ракетного производства и призвал к дополнительным поставкам систем ПВО, особенно Patriot. NYT отмечает, что удар России использовал истощение украинской ПВО, открывая новую опасную фазу воздушной войны.",
+      "category": "politics",
+      "perspective": "Страны НАТО видят в этом подтверждение необходимости военной поддержки Украины. Россия расценивает действия альянса как прямое вовлечение в конфликт. Украина настаивает на немедленных поставках вооружений для защиты гражданского населения.",
+      "perspective_type": "assumed",
+      "sources": [
+        "theguardian.com",
+        "tass.com",
+        "nytimes.com"
+      ],
+      "links": [
+        "https://www.theguardian.com/world/2026/aug/06/ukraine-nato-air-defences-missiles-russia-zelenskyy-patriot",
+        "https://tass.com/world/2169427",
+        "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-06",
+      "id": "e98500caadc8"
+    },
+    {
+      "title_ru": "Иран и Оман финализируют соглашение о судоходном коридоре в Ормузском проливе",
+      "title_en": "Iran and Oman Finalize Agreement on Shipping Corridor in Strait of Hormuz",
+      "date": "2026-08-05",
+      "summary_en": "Iran and Oman have reached an understanding on coordinates for a new shipping route through the strategically vital Strait of Hormuz, with an agreement being finalized. Iran's top negotiator Gharibabadi confirmed the deal is in its final stages, and Guardian reports the understanding covers specific route coordinates. This follows earlier statements by US Secretary of State Rubio expressing hope for a deal 'very shortly' and represents a potential diplomatic breakthrough in reducing tensions in the critical waterway.",
+      "summary": "Иран и Оман достигли понимания по координатам нового судоходного маршрута через стратегически важный Ормузский пролив, соглашение находится на стадии финализации. Главный переговорщик Ирана Гарибабади подтвердил, что договорённости — на завершающем этапе. Ранее госсекретарь США Рубио выражал надежду на скорое заключение сделки. Это потенциальный дипломатический прорыв в снижении напряжённости вокруг критического водного пути, через который проходит значительная доля мировой нефти.",
+      "category": "politics",
+      "perspective": "Иран подаёт как дипломатическую победу и шаг к стабильности в регионе. США — как результат давления, открывающий путь к деэскалации. Израиль и Саудовская Аравия могут оценивать с осторожностью, опасаясь усиления иранских позиций.",
+      "perspective_type": "assumed",
+      "sources": [
+        "en.irna.ir",
+        "tehrantimes.com",
+        "theguardian.com"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86228870/Gharibabadi-Agreement-between-Iran-and-Oman-on-arrangements",
+        "https://www.tehrantimes.com/news/528884/Iran-Oman-move-to-finalize-new-Hormuz-shipping-corridor",
+        "https://www.theguardian.com/world/2026/aug/05/iran-oman-reach-hormuz-route-coordinates"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-05",
+      "id": "8de2f7bdfb30"
+    },
+    {
+      "title_ru": "Похороны семьи, погибшей при ударе США по иранскому острову Кешм",
+      "title_en": "Funeral Held for Family Killed in US Strike on Iran's Qeshm Island",
+      "date": "2026-08-05",
+      "summary_en": "A funeral was held for a family killed in an American military strike on Iran's Qeshm Island, according to Tehran Times. The incident adds to escalating US-Iran tensions amid ongoing military confrontations. Former President Rouhani stated that the US and Israel made a 'fundamental miscalculation' about Iran's resilience, while Iran continues to document what it calls US and Israeli war crimes through legal channels.",
+      "summary": "На иранском острове Кешм прошли похороны семьи, погибшей в результате американского военного удара, сообщает Tehran Times. Бывший президент Рухани заявил, что США и Израиль совершили «фундаментальный просчёт» относительно стойкости Ирана. Инцидент происходит на фоне продолжающихся военных столкновений и усилий Ирана по документированию военных преступлений США и Израиля через международно-правовые механизмы.",
+      "category": "politics",
+      "perspective": "Иранская сторона осуждает как акт агрессии против гражданского населения. США могут оправдывать военной необходимостью в контексте более широкого противостояния. Международное сообщество разделено: часть осуждает удар по гражданским, часть возлагает ответственность на эскалацию со стороны Ирана.",
+      "perspective_type": "assumed",
+      "sources": [
+        "tehrantimes.com"
+      ],
+      "links": [
+        "https://www.tehrantimes.com/news/528877/Funeral-held-for-family-killed-in-US-strike-on-Iran-s-Qeshm-Island",
+        "https://www.tehrantimes.com/news/528869/Rouhani-US-Israel-made-fundamental-miscalculation-over-Iran-s"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-05",
+      "id": "3a1f5e8fa8ea"
+    },
+    {
+      "title_ru": "Прогрессивный кандидат Abdul El-Sayed победил на праймериз Демпартии в Мичигане",
+      "title_en": "Progressive Candidate Abdul El-Sayed Wins Michigan Democratic Primary",
+      "date": "2026-08-05",
+      "summary_en": "Abdul El-Sayed, a progressive challenger, won the Michigan Democratic primary, continuing a trend of progressive victories against establishment-backed Democrats in the 2026 midterm primaries. The Guardian describes it as the latest win for progressives challenging the party establishment, with potential implications for the Democratic Party's direction ahead of the midterm elections.",
+      "summary": "Прогрессивный кандидат Abdul El-Sayed одержал победу на праймериз Демократической партии в Мичигане, продолжив череду успехов левого крыла против истеблишмента Демпартии в преддверии промежуточных выборов 2026 года. The Guardian называет это последней победой прогрессистов, бросающих вызов кандидатам, поддержанным партийным руководством, что может существенно повлиять на курс Демпартии.",
+      "category": "politics",
+      "perspective": "Прогрессивное крыло Демпартии празднует как подтверждение растущего влияния. Центристы обеспокоены радикализацией партии и потенциальной потерей умеренных избирателей. Республиканцы используют для критики демократов как «слишком левых».",
+      "perspective_type": "assumed",
+      "sources": [
+        "theguardian.com"
+      ],
+      "links": [
+        "https://www.theguardian.com/us-news/live/2026/aug/05/michigan-primary-race-democrats-midterms-senate-el-sayed-haley-stevens-donald-trump-republicans-us-politics-latest-news-updates"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-05",
+      "id": "8bc112a80de3"
+    },
+    {
+      "title_ru": "Anthropic формирует команду по разработке собственных чипов для ИИ Claude",
+      "title_en": "Anthropic Assembles Chip Development Team for Claude AI",
+      "date": "2026-08-06",
+      "summary_en": "Anthropic, the AI company behind the Claude language model, is forming a dedicated chip development team to create custom hardware for its AI systems, according to Indonesian news agency Antara. The move follows the industry trend of AI companies developing proprietary silicon to optimize performance and reduce dependence on external suppliers like Nvidia. This marks a significant step in Anthropic's evolution from a pure AI research lab to a vertically integrated AI hardware-software company.",
+      "summary": "Anthropic, компания-разработчик языковой модели Claude, формирует специальную команду по разработке чипов для собственных ИИ-систем, сообщает индонезийское агентство Antara. Это решение продолжает индустриальный тренд, когда AI-компании создают собственный кремний для оптимизации производительности и снижения зависимости от внешних поставщиков, таких как Nvidia. Шаг знаменует эволюцию Anthropic от исследовательской лаборатории к вертикально интегрированной AI-компании.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "antaranews.com"
+      ],
+      "links": [
+        "https://www.antaranews.com/berita/5682260/anthropic-bentuk-tim-pengembangan-chip-untuk-ai-claude"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-06",
+      "id": "6ddfa07a852e"
+    },
+    {
+      "title_ru": "SpaceX планирует сделать Starlink опциональным мобильным оператором в США",
+      "title_en": "SpaceX Plans to Make Starlink an Optional Mobile Carrier in the US",
+      "date": "2026-08-06",
+      "summary_en": "SpaceX intends to position Starlink as an optional mobile carrier (opsel) in the United States, according to Indonesian news agency Antara. This would expand Starlink's satellite-based connectivity beyond broadband internet into direct-to-phone cellular service, potentially challenging traditional telecom operators. The move represents a significant evolution in SpaceX's strategy to leverage its satellite constellation for consumer mobile services.",
+      "summary": "SpaceX планирует превратить Starlink в опционального мобильного оператора в США, сообщает индонезийское агентство Antara. Это расширит спутниковый сервис компании за пределы широкополосного интернета в сферу прямой сотовой связи с телефонами, потенциально бросая вызов традиционным телеком-операторам. Решение знаменует значительную эволюцию стратегии SpaceX по использованию спутниковой группировки для потребительских мобильных услуг.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "antaranews.com"
+      ],
+      "links": [
+        "https://www.antaranews.com/berita/5682241/spacex-berencana-buat-starlink-jadi-opsel-di-as"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-06",
+      "id": "8afe22795637"
     }
   ],
   "_stats": {
-    "total_tokens": 631308,
-    "total_cost": 70.46569799999999
+    "total_tokens": 657733,
+    "total_cost": 73.28766199999998
   }
 }
