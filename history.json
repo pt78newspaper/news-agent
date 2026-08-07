@@ -1,186 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Meta ведёт переговоры о сдаче вычислительных мощностей Anthropic на $10 млрд",
-      "title_en": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
-      "date": "2026-07-17",
-      "summary_en": "Meta is reportedly in discussions to lease significant computing power to AI company Anthropic in a deal that could be worth up to $10 billion. The arrangement would provide Anthropic with the infrastructure needed to train and run advanced AI models while giving Meta a major revenue stream from its AI hardware investments.",
-      "summary": "Meta ведёт переговоры о предоставлении вычислительных мощностей ИИ-компании Anthropic. Потенциальная сделка оценивается в $10 млрд. Соглашение обеспечит Anthropic необходимой инфраструктурой для обучения и запуска продвинутых ИИ-моделей, а Meta — значительным доходом от инвестиций в ИИ-оборудование.",
-      "category": "ai",
-      "sources": [
-        "NYT"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-07-17",
-      "id": "84bba0922f9b"
-    },
-    {
-      "title_ru": "Как с помощью промптов узнать, что ChatGPT и Gemini знают о вас",
-      "title_en": "How to Use ChatGPT and Gemini Prompts to Find Out What They Know About You",
-      "date": "2026-07-23",
-      "summary_en": "NYT's Personal Tech section published a guide on using specific prompts to discover what personal information AI assistants like ChatGPT and Gemini have stored about users. The article addresses growing privacy concerns as AI models retain and process user data from interactions.",
-      "summary": "Раздел персональных технологий NYT опубликовал руководство по использованию специальных промптов, позволяющих узнать, какую личную информацию ИИ-ассистенты — ChatGPT и Gemini — хранят о пользователях. Статья затрагивает растущие проблемы конфиденциальности, связанные с накоплением и обработкой пользовательских данных ИИ-моделями.",
-      "category": "tech",
-      "sources": [
-        "NYT"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/07/23/technology/personaltech/chatgpt-gemini-prompts-privacy.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-07-23",
-      "id": "596890b39639"
-    },
-    {
-      "title_ru": "Иран наносит удары по базам США в Кувейте, Бахрейне и Иордании; Британия предупреждена КСИР",
-      "title_en": "Iran Strikes US Bases in Kuwait, Bahrain, Jordan; IRGC Warns Britain",
-      "date": "2026-07-24",
-      "summary_en": "Iran's Army and IRGC launched drone strikes on US military locations in Kuwait, Bahrain, and Jordan, including a claimed hit on an Amazon data centre in Bahrain, marking a new phase of retaliatory operations. The US completed another wave of strikes on Iran, while Trump stated Iran is not ready for a deal and combat operations must continue. The IRGC warned Britain against complicity in US-led aggression, and the UK declared itself ready to defend itself.",
-      "summary": "Армия и КСИР Ирана нанесли удары беспилотниками по военным объектам США в Кувейте, Бахрейне и Иордании, включая заявленное попадание по дата-центру Amazon в Бахрейне, что знаменует новую фазу ответных операций. США завершили очередную волну ударов по Ирану; Трамп заявил, что Иран не готов к сделке и боевые действия необходимо продолжать. КСИР предупредил Британию о последствиях соучастия в агрессии, Лондон заявил о готовности защищаться.",
-      "category": "politics",
-      "perspective": "С точки зрения Запада — агрессивная эскалация Ирана, угрожающая гражданской инфраструктуре и региональной стабильности. С точки зрения Ирана и его союзников — законный ответ на продолжающиеся американские бомбардировки и защита суверенитета.",
-      "perspective_type": "assumed",
-      "sources": [
-        "IRNA",
-        "The Hindu",
-        "TASS",
-        "The Guardian",
-        "Tehran Times"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86218064/Iran-hits-US-military-locations-in-Kuwait-Bahrain-in-new-phase",
-        "https://www.thehindu.com/news/international/west-asia-war-us-strikes-iran-shipping-routes-clashes-strait-of-hormuz-live-updates-july-24-2026/article71260769.ece",
-        "https://tass.com/world/2164641",
-        "https://tass.com/world/2164531",
-        "https://www.theguardian.com/world/2026/jul/23/uk-ready-to-defend-itself-iran-threat-us-bases",
-        "https://tass.com/world/2164421",
-        "https://en.irna.ir/news/86217597/IRGC-warns-Britain-against-continued-complicity-in-US-led-aggression",
-        "https://en.irna.ir/news/86217947/Iranian-Army-hits-US-bases-in-Jordan-and-Bahrain-with-drones"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-24",
-      "id": "d49f44467649"
-    },
-    {
-      "title_ru": "Трамп вводит 10% пошлины за «принудительный труд» против 60 стран, включая союзников",
-      "title_en": "Trump Imposes 10% 'Forced Labor' Tariffs on 60 Countries, Including Key Allies",
-      "date": "2026-07-24",
-      "summary_en": "The US imposed a new 10% 'forced labor' tariff on imports from approximately 60 countries, including the UK, EU, India, and Australia, replacing temporary tariffs struck down by the Supreme Court. Allies and trading partners reacted with confusion and objection, calling the justification unfounded. The move escalates Trump's tariff-centric trade policy.",
-      "summary": "США ввели новые 10-процентные пошлины за «принудительный труд» на импорт из примерно 60 стран, включая Великобританию, ЕС, Индию и Австралию, заменив временные тарифы, отменённые Верховным судом. Союзники и торговые партнёры выразили недоумение и протест, назвав обоснование безосновательным. Это новый виток тарифной политики Трампа.",
-      "category": "politics",
-      "perspective": "С точки зрения администрации Трампа — защита американских рабочих от недобросовестной конкуренции и принудительного труда. С точки зрения демократов и союзников — деструктивный «налог с продаж», который навредит американским потребителям и подорвёт альянсы.",
-      "perspective_type": "assumed",
-      "sources": [
-        "NPR",
-        "BBC",
-        "DW",
-        "The Guardian",
-        "The Hindu",
-        "Indian Express"
-      ],
-      "links": [
-        "https://www.npr.org/2026/07/24/nx-s1-5906301/us-global-trump-tariffs-reaction",
-        "https://www.bbc.co.uk/news/articles/cvgj61j6l08o",
-        "https://www.dw.com/en/why-trump-s-forced-labor-tariffs-leave-the-world-puzzled/a-78093903",
-        "https://www.theguardian.com/us-news/live/2026/jul/24/donald-trump-tariffs-white-house-correspondents-dinner-latest-news-updates",
-        "https://www.thehindu.com/news/national/us-tarifs-on-goods-imported-from-india/article71259860.ece",
-        "https://indianexpress.com/article/world/60-countries-hit-by-new-us-forced-labour-tariffs-whos-on-the-list-10801058/"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-24",
-      "id": "c7ea0a8ba7cf"
-    },
-    {
-      "title_ru": "Массированная атака ВСУ на склады и предприятия в Ленобласти, Кирове и Твери",
-      "title_en": "Massive Ukrainian Drone Strikes Hit Warehouses and Industrial Sites in Leningrad, Kirov, and Tver Regions",
-      "date": "2026-07-24",
-      "summary_en": "Ukrainian drones struck multiple targets across Russia, setting fire to a large warehouse complex in Leningrad Oblast, a logistics centre in Tver, and an industrial facility in Kirov where casualties were reported. Authorities closed roads and monitored air quality. This follows earlier strikes on Wildberries warehouses, an oil depot, and Crimean infrastructure.",
-      "summary": "Украинские беспилотники нанесли удары по нескольким целям в России: загорелся крупный складской комплекс в Ленинградской области, логистический центр в Твери и промышленное предприятие в Кирове, где пострадали люди. Власти перекрывали дороги и следили за качеством воздуха. Это продолжение серии атак на склады Wildberries, нефтебазы и другие объекты.",
-      "category": "politics",
-      "perspective": "С точки зрения России — террористические атаки на гражданскую инфраструктуру, поднимающие вопрос о допустимых пределах эскалации. С точки зрения Украины и западных союзников — легитимные удары по военной логистике противника.",
-      "perspective_type": "assumed",
-      "sources": [
-        "TASS",
-        "Lenta.ru",
-        "Vedomosti",
-        "Kommersant"
-      ],
-      "links": [
-        "https://tass.ru/proisshestviya/27948971",
-        "https://lenta.ru/news/2026/07/24/poyavilis-kadry-pozhara-posle-ataki-vsu-na-skladskoy-kompleks-v-lenoblasti/",
-        "https://www.kommersant.ru/doc/8833538",
-        "https://www.vedomosti.ru/politics/news/2026/07/24/1216148-pri-raketnoi-atake",
-        "https://lenta.ru/news/2026/07/24/v-rossii-vyskazalis-o-totalnoy-voyne/",
-        "https://www.kommersant.ru/doc/8832791"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-24",
-      "id": "caaf5f7ef0ba"
-    },
-    {
-      "title_ru": "Сонам Вангчук прекратил 26-дневную голодовку; правительство Индии дало письменные гарантии",
-      "title_en": "Sonam Wangchuk Ends 26-Day Hunger Strike After Government Gives Written Assurances on Exam Reforms",
-      "date": "2026-07-24",
-      "summary_en": "Indian activist Sonam Wangchuk ended his 26-day hunger strike after meeting with Union ministers JP Nadda and Jitendra Singh, who provided written assurances on addressing exam paper leaks and punishing corrupt officials. The Cockroach Janta Party (CJP) protests continued with nationwide marches, as the youth-led movement demands broader accountability.",
-      "summary": "Активист Сонам Вангчук прекратил 26-дневную голодовку после встречи с министрами, которые предоставили письменные гарантии по борьбе с утечками экзаменационных материалов и наказанию коррумпированных чиновников. Однако протесты «Cockroach Janta Party» продолжились общенациональными маршами — молодёжное движение требует более широкой подотчётности власти.",
-      "category": "politics",
-      "perspective": "Правительство Моди подчёркивает готовность к диалогу и реформам; оппозиция и активисты считают уступки недостаточными и настаивают на системных изменениях. Движение рассматривается как проявление растущей политизации поколения Z в Индии.",
-      "perspective_type": "assumed",
-      "sources": [
-        "The Guardian",
-        "The Hindu",
-        "Indian Express",
-        "DW",
-        "NPR",
-        "NYT"
-      ],
-      "links": [
-        "https://www.theguardian.com/world/2026/jul/24/india-cockroach-protest-sonam-wangchuk-ends-hunger-strike",
-        "https://www.thehindu.com/videos/sonam-wangchuk-reveals-govts-written-assurances-after-calling-off-fast/article71261731.ece",
-        "https://indianexpress.com/article/india/after-breaking-26-day-fast-sonam-wangchuk-says-hunger-doesnt-taste-bad-10801314/",
-        "https://www.dw.com/en/indian-activist-sonam-wangchuk-ends-hunger-strike/a-78076216",
-        "https://www.npr.org/2026/07/24/nx-s1-5906236/india-wangchuk-hunger-strike-cockroach-protesters",
-        "https://www.nytimes.com/2026/07/23/world/asia/sonam-wangchuk-india-hunger-strike-protests-modi.html"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-24",
-      "id": "bf76ece406f5"
-    },
-    {
-      "title_ru": "ЕС утвердил 21-й пакет санкций против России: под ударом Мосбиржа, Шереметьево и 170 организаций",
-      "title_en": "EU Approves 21st Sanctions Package Against Russia, Targeting Moscow Exchange, Sheremetyevo Airport, and 170 Entities",
-      "date": "2026-07-23",
-      "summary_en": "The European Union approved its 21st sanctions package against Russia, targeting the Moscow Exchange, Sheremetyevo and three other airports, dozens of banks and financial institutions, and 170 organizations plus 48 individuals, including Sports Minister Degtyarev and presidential aide Medinsky. The package also hits Belarus's Mozyr refinery.",
-      "summary": "Евросоюз утвердил 21-й пакет санкций против России, включив в него Мосбиржу, аэропорты Шереметьево и ещё три региональных, десятки банков и финансовых организаций, а также 170 организаций и 48 физических лиц, включая министра спорта Дегтярева и помощника президента Мединского. Санкции также затронули белорусский Мозырский НПЗ.",
-      "category": "politics",
-      "perspective": "С точки зрения ЕС — продолжение системного давления на российскую экономику для ограничения возможностей ведения войны. С точки зрения России — нелегитимные ограничения, наносящие ущерб простым гражданам и подрывающие международное экономическое сотрудничество.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Kommersant",
-        "Vedomosti",
-        "TASS",
-        "Lenta.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8833415",
-        "https://www.vedomosti.ru/politics/news/2026/07/23/1216050-21-i-paket-sanktsii",
-        "https://www.kommersant.ru/doc/8833298",
-        "https://www.vedomosti.ru/politics/news/2026/07/24/1216134-es-vvel-sanktsii",
-        "https://tass.ru/sport/27948889",
-        "https://lenta.ru/news/2026/07/24/evropeyskiy-soyuz-vvel-sanktsii-protiv-neskolkih-aeroportov-rossii/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-23",
-      "id": "85b046c34404"
-    },
-    {
       "title_ru": "Google выпустил три новые модели ИИ Gemini",
       "title_en": "Google Releases Three New Gemini AI Models",
       "date": "2026-07-21",
@@ -2452,10 +2272,189 @@
       "is_development": false,
       "first_reported": "2026-08-06",
       "id": "8afe22795637"
+    },
+    {
+      "title_ru": "Трамп подписал указы об ограничении гражданства США по праву рождения",
+      "title_en": "Trump Signs Executive Orders Restricting Birthright Citizenship",
+      "date": "2026-08-07",
+      "summary_en": "President Trump signed executive orders aimed at limiting birthright citizenship and curbing 'birth tourism' in the United States. The ACLU immediately condemned the move as unconstitutional and doomed to fail in court. This marks Trump's second attempt to restrict the 14th Amendment's citizenship guarantee.",
+      "summary": "Президент Трамп подписал указы, направленные на ограничение гражданства по праву рождения и пресечение «родильного туризма» в США. ACLU немедленно осудил этот шаг как неконституционный и обречённый на провал в суде. Это вторая попытка Трампа ограничить гарантии гражданства по 14-й поправке.",
+      "category": "politics",
+      "perspective": "Республиканцы/сторонники Трампа — защита национальных интересов и борьба с иммиграционными злоупотреблениями. Демократы и правозащитники (ACLU) — грубое нарушение Конституции и дискриминационная мера. Иммигрантские сообщества — целенаправленная атака на мигрантов.",
+      "perspective_type": "from_source",
+      "sources": [
+        "Kommersant",
+        "Vedomosti",
+        "Lenta.ru",
+        "The Guardian",
+        "DW",
+        "The Hindu",
+        "Ukrinform",
+        "Pravda"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8864430",
+        "https://www.vedomosti.ru/politics/news/2026/08/07/1219476-rodilnii-turizm-ssha",
+        "https://lenta.ru/news/2026/08/07/tramp-zapretil-rodilnyy-turizm-v-ssha/",
+        "https://www.theguardian.com/us-news/2026/aug/06/trump-birthright-citizenship-attack",
+        "https://www.dw.com/en/trump-signs-new-orders-restricting-birthright-citizenship/a-78272447",
+        "https://www.thehindu.com/news/international/trump-signs-2-immigration-actions-to-limit-birthright-citizenship-and-curb-birth-tourism/article71315274.ece",
+        "https://www.ukrinform.ua/rubric-world/4151862-tramp-planue-pidpisati-ukazi-so-spramovani-na-obmezenna-nabutta-gromadanstva-ssa-za-narodzennam-axios.html",
+        "https://www.pravda.com.ua/news/2026/08/07/8047659/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-07",
+      "id": "178917ede6d9"
+    },
+    {
+      "title_ru": "Трамп признал нехватку боеприпасов в США и поручил расследовать утечки",
+      "title_en": "Trump Admits US Munitions Shortage, Orders Leak Investigation After Media Reports",
+      "date": "2026-08-07",
+      "summary_en": "Trump acknowledged that the US military needs to replenish its weapons stockpiles and blamed the Biden administration for depleting arsenals through aid to Ukraine. He ordered an investigation into leaks about ammunition shortages and threatened prison for those spreading 'fake news' about the US armed forces. The president denied rumors of conflict with Defense Secretary Hegseth.",
+      "summary": "Трамп признал, что американской армии необходимо пополнять запасы вооружений, и обвинил администрацию Байдена в опустошении арсеналов из-за помощи Украине. Он поручил расследовать утечки данных о нехватке боеприпасов и пригрозил тюрьмой распространителям «фейков» о ВС США. Слухи о конфликте с главой Пентагона Хегсетом Трамп опроверг.",
+      "category": "politics",
+      "perspective": "Республиканцы/Трамп — предыдущая администрация безответственно истощила арсеналы; утечки подрывают нацбезопасность. Демократы — признание Трампа подтверждает критическую нехватку вооружений. Союзники Украины — сигнал о возможном дальнейшем сокращении военной поддержки.",
+      "perspective_type": "from_source",
+      "sources": [
+        "Kommersant",
+        "TASS",
+        "BBC",
+        "Times of India",
+        "Vedomosti",
+        "Pravda"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8864433",
+        "https://www.kommersant.ru/doc/8864427",
+        "https://tass.com/world/2169925",
+        "https://tass.com/world/2169919",
+        "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o",
+        "https://timesofindia.indiatimes.com/world/us/trump-angry-over-leak-of-us-weapons-shortage-as-iran-talks-enter-crucial-phase-report/articleshow/133021540.cms",
+        "https://www.vedomosti.ru/politics/news/2026/08/06/1219255-tramp-prigrozil",
+        "https://www.pravda.com.ua/news/2026/08/07/8047655/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-07",
+      "id": "b582c8735be4"
+    },
+    {
+      "title_ru": "БПЛА атаковали склад Wildberries в Екатеринбурге: массовая эвакуация, пожар",
+      "title_en": "Drones Strike Wildberries Warehouse in Yekaterinburg: Mass Evacuation and Fire",
+      "date": "2026-08-07",
+      "summary_en": "Three drones struck the roof of a Wildberries logistics center in Yekaterinburg, causing a fire and prompting the evacuation of 800 people. The Russian Defense Ministry reported 281 drones shot down over 12 hours across the country, including 8 over Sverdlovsk region. This follows a week of systematic drone attacks on Wildberries warehouses in multiple Russian regions.",
+      "summary": "Три БПЛА упали на кровлю логистического центра Wildberries в Екатеринбурге; возник пожар, эвакуированы 800 человек. Минобороны РФ отчиталось о 281 сбитом дроне за 12 часов, в том числе 8 над Свердловской областью. Атака продолжает серию систематических ударов БПЛА по складам Wildberries в разных регионах России за последнюю неделю.",
+      "category": "politics",
+      "perspective": "Российские власти — террористические атаки на гражданскую инфраструктуру; СКР возбуждает дела о теракте. Украинская сторона — удары по логистическим объектам, используемым для обеспечения военных нужд. Международное сообщество — эскалация конфликта с атаками вглубь территории.",
+      "perspective_type": "from_source",
+      "sources": [
+        "TASS",
+        "Kommersant",
+        "Vedomosti",
+        "Lenta.ru"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/27991253",
+        "https://tass.ru/proisshestviya/27991187",
+        "https://tass.ru/proisshestviya/27991165",
+        "https://tass.ru/proisshestviya/27991257",
+        "https://www.kommersant.ru/doc/8864464",
+        "https://www.kommersant.ru/doc/8864340",
+        "https://www.vedomosti.ru/politics/news/2026/08/07/1219481-wildberries-v-ekaterinburge",
+        "https://lenta.ru/news/2026/08/07/vlasti-ob-yavili-o-pozhare-na-sklade-v-ekaterinburge-i-ego-posledstviyah-posle-opasnosti-bpla/"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-07",
+      "id": "819841302f79"
+    },
+    {
+      "title_ru": "WP: Трамп выбрал Вэнса своим преемником на выборах 2028 года",
+      "title_en": "Trump Backs JD Vance as 2028 Presidential Nominee at Donor Meeting",
+      "date": "2026-08-07",
+      "summary_en": "President Trump told donors he wants Vice President JD Vance to be the Republican nominee in the 2028 presidential election, according to the Washington Post. Trump reportedly said 'we need to elect JD' at a private gathering with major supporters, signaling an early endorsement for his successor.",
+      "summary": "Президент Трамп на встрече с крупными донорами заявил, что вице-президент Джей Ди Вэнс должен стать кандидатом от республиканцев на выборах 2028 года. По данным Washington Post, Трамп прямо сказал: «Мы должны избрать Джей Ди». Это ранний сигнал о преемнике, закладывающий контуры президентской гонки-2028.",
+      "category": "politics",
+      "perspective": "Сторонники Трампа — логичный выбор преемника, продолжение курса. Демократы — преждевременная попытка династического контроля над партией. Внутри Республиканской партии — возможна конкуренция со стороны других фигур, недовольных ранним «назначением».",
+      "perspective_type": "from_source",
+      "sources": [
+        "Kommersant",
+        "Times of India"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8864101",
+        "https://timesofindia.indiatimes.com/world/us/need-to-elect-jd-trump-backs-vp-as-president-nominee-in-meet-with-donors/articleshow/133018866.cms"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-07",
+      "id": "332bb73ad12c"
+    },
+    {
+      "title_ru": "Иран предупредил страны Персидского залива: «Скажите Трампу остановиться, или мы ударим»",
+      "title_en": "Iran Warns Gulf Countries: 'Tell Trump to Desist or We Hit You Hard'",
+      "date": "2026-08-07",
+      "summary_en": "Iran issued a stark warning to Gulf states, demanding they pressure Trump to back down or face attacks. Meanwhile, Iran and Oman are finalizing an agreement on navigation arrangements for the Strait of Hormuz. The dual-track approach — military threats alongside diplomatic engagement — marks a critical phase in US-Iran tensions.",
+      "summary": "Иран выступил с жёстким предупреждением странам Персидского залива: если они не убедят Трампа отступить, последует удар. Одновременно Иран и Оман финализируют соглашение о судоходном коридоре в Ормузском проливе. Двойственная стратегия Тегерана — военные угрозы наряду с дипломатическими манёврами — отражает критическую фазу напряжённости в отношениях с США.",
+      "category": "politics",
+      "perspective": "Иран — оборонительная позиция против американского давления, защита суверенитета. Страны Залива — hostage-дипломатия, риск оказаться меж двух огней. США — подтверждение «агрессивной природы» иранского режима. Оман — посредническая роль в деэскалации.",
+      "perspective_type": "from_source",
+      "sources": [
+        "Times of India",
+        "IRNA",
+        "The Guardian",
+        "France24"
+      ],
+      "links": [
+        "https://timesofindia.indiatimes.com/world/middle-east/tell-trump-to-desist-or-we-hit-you-hard-iran-warns-gulf-countries/articleshow/133018813.cms",
+        "https://en.irna.ir/news/86228870/Gharibabadi-Agreement-between-Iran-and-Oman-on-arrangements",
+        "https://www.theguardian.com/world/live/2026/aug/06/iran-oman-strait-of-hormuz-yemen-houthis-israel-lebanon-gaza-us-donald-trump-middle-east-crisis-live-news",
+        "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260806-d%C3%A9troit-d-ormuz-accord-entre-iran-et-oman-une-%C3%A9ventuelle-r%C3%A9ouverture-pourrait-arranger-trump"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-07",
+      "id": "90cea63c16dd"
+    },
+    {
+      "title_ru": "OpenAI планирует выпустить «умную колонку-пончик» в 2027 году",
+      "title_en": "OpenAI to Release Smart 'Donut Speaker' in 2027",
+      "date": "2026-08-07",
+      "summary_en": "OpenAI is reportedly planning to launch a smart speaker with a distinctive donut-shaped design by 2027. The device would mark OpenAI's expansion from software into consumer hardware, potentially integrating its AI models into a home assistant form factor to compete with existing smart speakers.",
+      "summary": "OpenAI планирует выпустить умную колонку в узнаваемом дизайне «пончика» к 2027 году. Устройство ознаменует экспансию компании из программного обеспечения в потребительское «железо» и, вероятно, интегрирует ИИ-модели OpenAI в формат домашнего ассистента, конкурируя с существующими смарт-колонками.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Antara News"
+      ],
+      "links": [
+        "https://www.antaranews.com/berita/5683760/openai-akan-rilis-speaker-donat-pintar-pada-2027"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-07",
+      "id": "3604b3f9dfbb"
+    },
+    {
+      "title_ru": "Китайская Unitree выходит на IPO: ставка на гуманоидных роботов",
+      "title_en": "China's Unitree Prices IPO, Betting Investors Are Ready for Humanoid Robots",
+      "date": "2026-08-07",
+      "summary_en": "Chinese robotics company Unitree has priced its IPO, testing investor appetite for humanoid robot technology. The move comes amid growing US-China tech competition, with Trump administration reportedly viewing humanoid robots as the next front in the trade battle. Unitree's public offering signals confidence in the commercial viability of general-purpose humanoid robots.",
+      "summary": "Китайская робототехническая компания Unitree провела оценку IPO, проверяя готовность инвесторов к рынку гуманоидных роботов. Это происходит на фоне растущей технологической конкуренции США и Китая — администрация Трампа, по данным DW, рассматривает гуманоидных роботов как новый фронт торговой войны. Выход Unitree на биржу сигнализирует об уверенности в коммерческой состоятельности роботов-гуманоидов общего назначения.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "The New York Times",
+        "DW"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html",
+        "https://www.dw.com/en/humanoid-robots-trump-s-latest-china-trade-battle/a-78181288"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-07",
+      "id": "c66d309bd2bf"
     }
   ],
   "_stats": {
-    "total_tokens": 657733,
-    "total_cost": 73.28766199999998
+    "total_tokens": 681098,
+    "total_cost": 75.92832399999999
   }
 }
