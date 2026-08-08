@@ -1,167 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Google выпустил три новые модели ИИ Gemini",
-      "title_en": "Google Releases Three New Gemini AI Models",
-      "date": "2026-07-21",
-      "summary_en": "Google unveiled three new Gemini AI models, expanding its artificial intelligence capabilities across different scales and use cases. The release coincides with Alphabet reporting a quadrupling of profit to $112 billion, fueled by AI investments across its product ecosystem including search.",
-      "summary": "Google представил три новые модели искусственного интеллекта линейки Gemini, расширяя возможности ИИ для различных масштабов и сценариев использования. Выпуск совпал с отчётом Alphabet об увеличении прибыли в четыре раза — до $112 млрд — благодаря инвестициям в технологии ИИ.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "NYT"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html",
-        "https://www.nytimes.com/2026/07/22/technology/alphabet-google-earnings-profit.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-21",
-      "id": "27bec9383261"
-    },
-    {
-      "title_ru": "ЕС оштрафовал Google на €890 млн за нарушение правил конкуренции в поиске",
-      "title_en": "EU Fines Google €890 Million Over Search Engine Competition Violations",
-      "date": "2026-07-23",
-      "summary_en": "The European Union fined Google approximately €890 million ($1 billion) for violating competition rules related to its search engine practices. The penalty underscores the EU's continued regulatory pressure on Big Tech companies over antitrust concerns.",
-      "summary": "Европейский союз оштрафовал Google примерно на €890 млн ($1 млрд) за нарушение правил конкуренции в практике работы поисковой системы. Штраф подчёркивает продолжающееся регуляторное давление ЕС на технологических гигантов.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "NYT",
-        "DW"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/07/23/business/google-eu-fine-search-competition.html",
-        "https://www.dw.com/en/eu-fines-google-%E2%82%AC890-million-over-competition-rules/a-78082850"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-23",
-      "id": "7fd2d6113670"
-    },
-    {
-      "title_ru": "Совет министров иностранных дел ШОС в Киргизии: подписано 25 документов о сотрудничестве",
-      "title_en": "SCO Foreign Ministers Meet in Kyrgyzstan, Sign 25 Cooperation Documents",
-      "date": "2026-07-24",
-      "summary_en": "Foreign ministers of SCO member states convened in Kyrgyzstan for a major multilateral meeting. Iran's Foreign Minister Araghchi held bilateral talks with Russian, Chinese, Pakistani, Belarusian, Kyrgyz, and Uzbek counterparts on the sidelines. Wang Yi called for strengthening the SCO's international standing, while Belarus voiced support for Iran's sovereignty. Altogether, 25 cooperation documents were signed.",
-      "summary": "В Киргизии прошла встреча министров иностранных дел государств ШОС — крупное многостороннее дипломатическое событие. Глава МИД Ирана Арагчи провёл двусторонние переговоры с коллегами из России, Китая, Пакистана, Белоруссии, Киргизии и Узбекистана. Ван И призвал укреплять международные позиции ШОС, Белоруссия выразила поддержку суверенитету Ирана. Всего подписано 25 документов о сотрудничестве.",
-      "category": "politics",
-      "perspective": "Для России, Китая и Ирана: укрепление альтернативного Западу многополярного блока, легитимация сотрудничества в обход санкций. Для Запада: консолидация «авторитарной оси», демонстративный вызов порядку, основанному на правилах. Для стран Глобального Юга: привлекательная площадка для многовекторной дипломатии.",
-      "perspective_type": "assumed",
-      "sources": [
-        "IRNA",
-        "TASS",
-        "Tehran Times"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86218121/SCO-FMs-sign-25-cooperation-documents-in-Kyrgyzstan-meeting",
-        "https://en.irna.ir/news/86218195/Iran-FM-meets-Chinese-Kyrgyz-Uzbek-counterparts-on-sidelines",
-        "https://en.irna.ir/news/86218096/Iran-FM-meets-Russian-counterpart-on-sidelines-of-SCO-conference",
-        "https://tass.com/world/2165123",
-        "https://tass.com/world/2164901"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-24",
-      "id": "1c4317190824"
-    },
-    {
-      "title_ru": "Трамп обсуждает с советниками масштабную эскалацию против Ирана",
-      "title_en": "Trump Meets Top Advisers, Weighs Major Military Escalation Against Iran",
-      "date": "2026-07-24",
-      "summary_en": "President Trump held meetings with top national security advisers to weigh a major escalation of military operations against Iran, according to the New York Times. This follows days of mutual strikes: Iran's attacks on US air defense systems in Jordan, and US strikes on Iranian targets and tankers in the Gulf of Oman. Trump stated that 'the time has not yet come' for a deal with Iran and that Iran 'has not yet felt enough pain.'",
-      "summary": "По данным NYT, президент Трамп провёл совещания с высшими советниками по нацбезопасности, обсуждая масштабную эскалацию военных действий против Ирана. Это происходит на фоне продолжающихся взаимных ударов: Иран атаковал объекты ПВО и ПРО США в Иордании, США нанесли удары по иранским целям и танкерам в Оманском заливе. Трамп заявил, что «время для сделки ещё не пришло» и Иран «ещё не испытал достаточно боли».",
-      "category": "politics",
-      "perspective": "Администрация Трампа / республиканцы: вынужденная демонстрация силы для сдерживания иранской агрессии, защита американских баз и союзников. Демократы и критики: безрассудная эскалация без санкции Конгресса, риск втягивания США в полномасштабную войну. Иран и союзники: агрессия США, нарушение суверенитета, оправдание ответных ударов.",
-      "perspective_type": "assumed",
-      "sources": [
-        "The New York Times",
-        "Kommersant",
-        "The Guardian"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html",
-        "https://www.kommersant.ru/doc/8844295",
-        "https://www.kommersant.ru/doc/8833290",
-        "https://www.theguardian.com/world/2026/jul/24/irans-much-improved-missile-systems-pose-a-real-threat-to-the-us"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-24",
-      "id": "fc64bc74d859"
-    },
-    {
-      "title_ru": "Российский удар по военной выставке под Киевом: погибли польский и украинский чиновники",
-      "title_en": "Russian Strike on Military Exhibition Near Kyiv Kills Polish and Ukrainian Officials",
-      "date": "2026-07-25",
-      "summary_en": "Russian forces struck a weapons and drone exhibition near Kyiv, reportedly killing a senior Ukrainian state security official and an employee of a Polish defense firm, according to Defence24 and Russian state media. The Russian Defense Ministry stated the strike targeted a 'decision-making center.' President Zelensky commented on the attack, while Moscow framed it as a response to Ukrainian strikes on Russian territory.",
-      "summary": "Российские войска нанесли удар по выставке вооружений и беспилотников под Киевом. По данным Defence24 и российских госСМИ, погибли высокопоставленный сотрудник госохраны Украины и работник польской оборонной компании. Минобороны РФ заявило об ударе по «центру принятия решений». Зеленский прокомментировал атаку; в Москве её представили как ответ на украинские удары по территории России.",
-      "category": "politics",
-      "perspective": "Россия: легитимный удар по военному объекту, ответ на атаки ВСУ по складам в Ленобласти и другим целям. Украина и Запад: атака на объект с иностранными участниками, потенциальная эскалация с вовлечением стран НАТО, гибель граждан Польши — повод для ужесточения позиции Варшавы.",
-      "perspective_type": "assumed",
-      "sources": [
-        "TASS",
-        "Lenta.ru",
-        "Vedomosti",
-        "Kommersant"
-      ],
-      "links": [
-        "https://tass.ru/proisshestviya/27951291",
-        "https://lenta.ru/news/2026/07/25/pri-udare-po-poligonu-pod-kievom-pogibla-odin-iz-rukovoditeley-gosohrany-ukrainy/",
-        "https://www.vedomosti.ru/politics/news/2026/07/24/1216340-udar-po-vistavke",
-        "https://lenta.ru/news/2026/07/24/minoborony-rossii-raskrylo-podrobnosti-udara-po-voennoy-vystavke-pod-kievom/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-25",
-      "id": "8fe88962cecf"
-    },
-    {
-      "title_ru": "Индия опровергает слова Ван И об уважении суверенитета Китая со strony Джайшанкара",
-      "title_en": "India Pushes Back on Wang Yi's Claim That Jaishankar 'Respects China's Sovereignty'",
-      "date": "2026-07-24",
-      "summary_en": "India's Ministry of External Affairs (MEA) publicly countered Chinese Foreign Minister Wang Yi's remarks, made after a meeting with India's External Affairs Minister Jaishankar in Manila, that India 'respects China's sovereignty.' The MEA stated that Wang Yi's characterization was inaccurate, highlighting ongoing diplomatic friction between the two Asian powers over border issues and mutual perceptions.",
-      "summary": "МИД Индии публично опроверг заявление министра иностранных дел Китая Ван И, сделанное после встречи с главой МИД Индии Джайшанкаром в Маниле, о том, что Индия «уважает суверенитет Китая». В Нью-Дели назвали такую характеристику неточной, что подчёркивает сохраняющуюся дипломатическую напряжённость между двумя державами на фоне пограничных споров.",
-      "category": "politics",
-      "perspective": "Индия: защита суверенитета от китайских нарративных манипуляций, недопущение односторонней трактовки позиции Нью-Дели. Китай: продвижение образа добрососедских отношений, Индия «необоснованно обостряет». Третьи страны: ещё одно свидетельство глубины индийско-китайских противоречий, затрудняющее формирование единого «азиатского блока».",
-      "perspective_type": "assumed",
-      "sources": [
-        "The Indian Express"
-      ],
-      "links": [
-        "https://indianexpress.com/article/india/delhi-counters-china-jaishankar-wang-yi-sovereignty-claims-manila-meeting-10802229/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-24",
-      "id": "f2925da66260"
-    },
-    {
-      "title_ru": "Трамп угрожает ЕС «существенными» пошлинами в ответ на штрафы против техногигантов США",
-      "title_en": "Trump Threatens EU with 'Substantial' Tariffs Over Fines on US Tech Giants",
-      "date": "2026-07-24",
-      "summary_en": "President Trump threatened to impose 'substantial' tariffs on the European Union in retaliation for EU fines and regulatory measures against US technology companies, notably Google's €890 million antitrust penalty. The warning, delivered via social media and official statements, marks a sharp escalation in transatlantic trade tensions and signals the administration's willingness to use trade policy to shield American tech firms from EU regulation.",
-      "summary": "Президент Трамп пригрозил ввести «существенные» пошлины против Евросоюза в ответ на штрафы и регуляторные меры в отношении американских технологических компаний, в частности — штраф Google в €890 млн за нарушение антимонопольного законодательства. Это заявление знаменует резкую эскалацию трансатлантической торговой напряжённости и демонстрирует готовность администрации использовать торговую политику для защиты техногигантов США.",
-      "category": "politics",
-      "perspective": "Администрация Трампа / республиканцы: защита американских компаний от несправедливого европейского регулирования, ЕС использует штрафы как скрытый протекционизм. Евросоюз: суверенное право регулировать рынок, попытка США запугать союзников пошлинами. Бизнес-сообщество: риск полномасштабной трансатлантической торговой войны с ущербом для обеих сторон.",
-      "perspective_type": "assumed",
-      "sources": [
-        "The Guardian",
-        "DW",
-        "TASS",
-        "Kommersant",
-        "BBC"
-      ],
-      "links": [
-        "https://www.theguardian.com/us-news/2026/jul/24/trump-european-union-tariffs",
-        "https://www.dw.com/en/trump-threatens-eu-with-tariff-probe-over-google-tech-fines/a-78105954",
-        "https://tass.com/economy/2165039",
-        "https://www.kommersant.ru/doc/8844285",
-        "https://www.bbc.co.uk/news/articles/c1w10gwnj74o"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-24",
-      "id": "3589f5aef7e9"
-    },
-    {
       "title_ru": "Соперничество США и Китая в сфере ИИ обостряется: китайские модели набирают силу",
       "title_en": "US-China AI Rivalry Heats Up as Chinese Models Gain Ground",
       "date": "2026-07-23",
@@ -2451,10 +2290,171 @@
       "is_development": false,
       "first_reported": "2026-08-07",
       "id": "c66d309bd2bf"
+    },
+    {
+      "title_ru": "Рекордная волна БПЛА: 605 дронов за ночь, удары по НПЗ и Москве",
+      "title_en": "Record drone wave against Russia: 605 UAVs in one night, oil refineries and Moscow targeted",
+      "date": "2026-08-08",
+      "summary_en": "Between August 5 and 8, Russia faced its largest-ever coordinated drone offensive. On the night of August 6 alone, air defense shot down 605 Ukrainian UAVs — a record — followed by 397 on August 8. Strikes hit oil refineries in Yaroslavl and Krasnodar (Ilsky), Wildberries warehouses in Tver and Tula regions, and at least three drones were intercepted on approach to Moscow. Regions affected include Lipetsk, Belgorod, Bryansk, Kursk, Rostov, Samara, Nizhny Novgorod, and Crimea (Kerch), with dozens of casualties reported.",
+      "summary": "С 5 по 8 августа Россия пережила крупнейшую скоординированную атаку беспилотников. Только в ночь на 6 августа ПВО сбила рекордные 605 БПЛА, а в ночь на 8 августа — ещё 397. Ударам подверглись НПЗ в Ярославской области и на Кубани (Ильский), склады Wildberries в Тверской и Тульской областях; не менее трёх дронов перехвачено на подлёте к Москве. География атак — от Липецкой и Ростовской областей до Крыма (Керчь); десятки пострадавших и погибших.",
+      "category": "politics",
+      "perspective": "Российские власти характеризуют атаки как террористические действия Украины против гражданской инфраструктуры. Украинская сторона и западные союзники могут рассматривать удары как легитимное военное давление. Независимо от позиции, страдает гражданское население, что усиливает антивоенные настроения с обеих сторон.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Коммерсантъ",
+        "ТАСС",
+        "Ведомости"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8875436",
+        "https://tass.ru/armiya-i-opk/27994049",
+        "https://www.kommersant.ru/doc/8863652",
+        "https://www.vedomosti.ru/politics/news/2026/08/06/1219212-pvo-sbila",
+        "https://www.kommersant.ru/doc/8875435",
+        "https://www.kommersant.ru/doc/8863806",
+        "https://www.kommersant.ru/doc/8863643"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-08",
+      "id": "c1c6e4cfdb26"
+    },
+    {
+      "title_ru": "Сенат США одобрил ужесточение санкций против России и Ирана",
+      "title_en": "US Senate passes bill toughening sanctions against Russia and Iran",
+      "date": "2026-08-07",
+      "summary_en": "The US Senate approved Senator Lindsey Graham's bill to significantly tighten sanctions against both Russia and Iran. The bill passed with majority support. Some senators, however, warned that the new measures carry risks and could have unintended consequences.",
+      "summary": "Сенат США большинством голосов одобрил законопроект сенатора Линдси Грэма о значительном ужесточении санкций одновременно против России и Ирана. Отдельные сенаторы предупредили, что новые меры несут риски и могут иметь непредвиденные последствия.",
+      "category": "politics",
+      "perspective": "Американские республиканцы (особенно «ястребы») преподносят закон как жёсткий ответ противникам США. Демократы могут поддержать санкционное давление, но часть опасается эскалации. Россия и Иран расценивают закон как враждебный акт. Союзники США могут беспокоиться о влиянии на мировую экономику и энергетические рынки.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Коммерсантъ",
+        "Lenta.ru",
+        "Ведомости"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8875144",
+        "https://lenta.ru/news/2026/08/07/senat-ssha-odobril-zakonoproekt-ob-uzhestochenii-sanktsiy-protiv-rossii/",
+        "https://www.vedomosti.ru/politics/news/2026/08/07/1219675-senator-predupredil-o-riskah"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-07",
+      "id": "f3768ab0f307"
+    },
+    {
+      "title_ru": "Трамп угрожает Ирану ударом; сделка Ирана с Оманом по Ормузу близка",
+      "title_en": "Trump threatens to strike Iran over Hormuz; Iran-Oman deal on strait near finalization",
+      "date": "2026-08-07",
+      "summary_en": "President Trump stated that the Strait of Hormuz must reopen soon or the US will strike Iran. Concurrently, Iran announced that a deal with Oman on reopening the strategic strait is close to being finalized. Iranian Parliament Speaker Qalibaf condemned Trump's approach as 'theater diplomacy,' and military commanders stressed they have years of planning to counter US bases.",
+      "summary": "Президент Трамп заявил, что Ормузский пролив должен открыться в ближайшее время, иначе США нанесут удар по Ирану. Одновременно Иран сообщил, что сделка с Оманом об открытии пролива близка к завершению. Спикер парламента Ирана Галибаф осудил «театральную дипломатию» Трампа, а военные подчеркнули наличие многолетних планов противодействия базам США.",
+      "category": "politics",
+      "perspective": "«Ястребы» в США поддерживают ультиматум Трампа как демонстрацию силы. Критики администрации опасаются втягивания в новую войну на Ближнем Востоке. Иран подаёт сделку с Оманом как дипломатическую победу и сигнал сдержанности. Страны Персидского залива зажаты между угрозами и дипломатией, заинтересованы в деэскалации.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Ведомости",
+        "IRNA",
+        "Tehran Times",
+        "The Guardian"
+      ],
+      "links": [
+        "https://www.vedomosti.ru/politics/news/2026/08/05/1218919-tramp-zayavil",
+        "https://en.irna.ir/news/86229903/Araghchi-to-neighbors-Time-for-self-reliance-and-true-brotherhood",
+        "https://www.tehrantimes.com/news/528924/Qalibaf-slams-Trump-s-theater-diplomacy-toward-Iran",
+        "https://en.irna.ir/news/86229231/Years-of-planning-conducted-to-counter-US-bases-Comdr",
+        "https://www.theguardian.com/world/live/2026/aug/06/iran-oman-strait-of-hormuz-yemen-houthis-israel-lebanon-gaza-us-donald-trump-middle-east-crisis-live-news"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-07",
+      "id": "b2781391f4ed"
+    },
+    {
+      "title_ru": "Маск отказал Украине в доступе к Starlink для ударов вглубь России",
+      "title_en": "Elon Musk denies Ukraine Starlink access for strikes deep into Russia",
+      "date": "2026-08-07",
+      "summary_en": "According to The Atlantic, Elon Musk has refused Ukraine's request to use Starlink satellite internet for conducting strikes deep into Russian territory. The decision underscores the influential role of private tech infrastructure in modern warfare and Musk's continued attempt to limit the system's offensive military use.",
+      "summary": "По данным издания The Atlantic, Илон Маск отказал Украине в использовании спутникового интернета Starlink для нанесения ударов вглубь территории России. Решение подчёркивает влияние частной технологической инфраструктуры на современную войну и стремление Маска ограничить наступательное применение системы.",
+      "category": "politics",
+      "perspective": "Проукраинские силы критикуют Маска за подрыв обороноспособности Украины. Пророссийские комментаторы приветствуют ограничение. В технологическом сообществе идут дебаты: должен ли частный бизнес определять правила ведения войны. Администрация США может оказаться перед дилеммой — давить на Маска или признать его право вето.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Коммерсантъ",
+        "Lenta.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8875096",
+        "https://lenta.ru/news/2026/08/07/mask-otkazal-ukraine-v-ispolzovanii-starlink-dlya-udarov-vglub-rossii/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-07",
+      "id": "50f4cad418f6"
+    },
+    {
+      "title_ru": "Россия нанесла удары по порту «Южный» и взяла Анискино в Харьковской области",
+      "title_en": "Russia strikes port Yuzhny, captures Aniskino in Kharkiv region",
+      "date": "2026-08-07",
+      "summary_en": "Russia's Defense Ministry reported striking fuel storage tanks at Ukraine's port Yuzhny near Odesa and hitting two dry cargo ships in the Black Sea. Russian forces also established control over the village of Aniskino in Kharkiv region. The US reportedly pressured Ukraine following the Black Sea ship strikes.",
+      "summary": "Минобороны России отчиталось о поражении резервуаров с ГСМ в порту «Южный» под Одессой и об ударах по двум сухогрузам в Чёрном море. Одновременно российские силы установили контроль над селом Анискино в Харьковской области. По сообщениям, США оказали давление на Украину после ударов по судам.",
+      "category": "politics",
+      "perspective": "Россия подаёт удары как военную необходимость и ослабление логистики противника. Украина и Запад расценивают атаки на портовую инфраструктуру как эскалацию с риском для глобальной продовольственной безопасности. Давление США на Киев после инцидентов с судами может сигнализировать о пределах допустимой эскалации с точки зрения Вашингтона.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Коммерсантъ",
+        "Ведомости",
+        "Lenta.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8875070",
+        "https://www.kommersant.ru/doc/8864708",
+        "https://www.kommersant.ru/doc/8863620",
+        "https://lenta.ru/news/2026/08/08/ssha-nadavili-na-ukrainu-posle-udarov-po-sudam-v-chernom-more/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-07",
+      "id": "10a334127e38"
+    },
+    {
+      "title_ru": "Российские школьники третий год подряд выиграли международную олимпиаду по ИИ",
+      "title_en": "Russian schoolchildren win International AI Olympiad for third consecutive year",
+      "date": "2026-08-07",
+      "summary_en": "Russian schoolchildren won the International Olympiad in Artificial Intelligence (IOAI) for the third year in a row. The achievement highlights Russia's strong talent pipeline in AI despite international sanctions and technological restrictions.",
+      "summary": "Российские школьники третий год подряд одержали победу на Международной олимпиаде по искусственному интеллекту (IOAI). Достижение демонстрирует сильную подготовку кадров в области ИИ в России, несмотря на международные санкции и технологические ограничения.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Коммерсантъ"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8875079"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-07",
+      "id": "cdd71c7c7d4f"
+    },
+    {
+      "title_ru": "Белый дом готовит секретные правила ИИ; сигналы Кремниевой долине противоречивы",
+      "title_en": "White House readies secret AI rules; mixed signals to Silicon Valley",
+      "date": "2026-08-07",
+      "summary_en": "The Trump White House is preparing an AI framework to review national security risks, while simultaneously sending conflicting signals to Silicon Valley, according to NYT and Hard Fork podcast reporting. The administration is reportedly 'whipsawing' the tech industry between deregulatory impulses and national security-driven oversight, creating uncertainty for AI companies.",
+      "summary": "Администрация Трампа готовит систему оценки рисков национальной безопасности в сфере ИИ, одновременно посылая Кремниевой долине противоречивые сигналы — между импульсами дерегуляции и контролем, продиктованным соображениями безопасности. По данным NYT и подкаста Hard Fork, неопределённость создаёт турбулентность для AI-компаний.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "The New York Times"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html",
+        "https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html",
+        "https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-07",
+      "id": "ae6b5acc2036"
     }
   ],
   "_stats": {
-    "total_tokens": 681098,
-    "total_cost": 75.92832399999999
+    "total_tokens": 704223,
+    "total_cost": 78.550446
   }
 }
