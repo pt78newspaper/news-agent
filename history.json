@@ -1,187 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Индонезийский депутат: регулирование выборов 2029 года должно предусмотреть угрозы со стороны ИИ",
-      "title_en": "Indonesian MP: 2029 Election Regulations Must Anticipate AI Threats",
-      "date": "2026-07-27",
-      "summary_en": "A member of Indonesia's House of Representatives (DPR) stated that regulations for the 2029 general election must proactively address challenges posed by artificial intelligence, including AI-generated disinformation and deepfakes. The call reflects growing global concern over AI's potential to undermine electoral integrity.",
-      "summary": "Член Совета представителей Индонезии (DPR) заявил, что регулирование всеобщих выборов 2029 года должно заранее предусмотреть угрозы, связанные с искусственным интеллектом, включая дезинформацию и дипфейки, генерируемые ИИ. Заявление отражает растущую глобальную обеспокоенность способностью ИИ подрывать честность избирательных процессов.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Antara News"
-      ],
-      "links": [
-        "https://www.antaranews.com/berita/5667413/anggota-dpr-sebut-regulasi-pemilu-2029-harus-antisipasi-persoalan-ai"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-27",
-      "id": "668e9b3d3cf1"
-    },
-    {
-      "title_ru": "Исследование: недостаток сна способствует набору веса",
-      "title_en": "Study Links Sleep Deprivation to Weight Gain",
-      "date": "2026-07-27",
-      "summary_en": "A new scientific study has found that insufficient sleep significantly influences weight gain, reinforcing established research on the connection between sleep patterns and metabolic health. The findings add to growing evidence that sleep quality is a critical factor in obesity prevention.",
-      "summary": "Новое научное исследование показало, что недостаток сна существенно влияет на набор веса, подтверждая ранее установленную связь между режимом сна и метаболическим здоровьем. Результаты дополняют растущий массив данных о том, что качество сна — критический фактор в профилактике ожирения.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Antara News"
-      ],
-      "links": [
-        "https://www.antaranews.com/berita/5667408/studi-kurang-tidur-pengaruhi-berat-badan-naik"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-27",
-      "id": "ea32653ac403"
-    },
-    {
-      "title_ru": "США и Иран взяли паузу в боевых действиях: Трамп говорит о «хороших шансах» на прогресс в переговорах",
-      "title_en": "US-Iran War Pauses for Second Day as Trump Sees 'Good Chance' for Talks",
-      "date": "2026-07-28",
-      "summary_en": "The US-Iran war has paused for a second straight day with both sides holding off strikes. Trump stated there is a 'good chance' of progress in negotiations, while Netanyahu arrived in Washington for consultations. Iran rejects any US role in setting terms for ending the conflict; economic ripple effects are spreading across Asia through rising food and energy prices, and the ECB has kept rates unchanged amid war-driven inflation.",
-      "summary": "США и Иран второй день подряд воздерживаются от взаимных ударов. Трамп заявил о «хороших шансах» на прогресс в переговорах, а Нетаньяху прибыл в Вашингтон для консультаций. Иран отвергает право США диктовать условия прекращения конфликта; экономические последствия войны — от роста цен на уличную еду в Азии до заморозки ставки ЕЦБ из-за военной инфляции.",
-      "category": "politics",
-      "perspective": "Администрация Трампа: пауза — доказательство того, что военное давление открыло путь к дипломатии. Иран: США — агрессор; переговоры возможны только на равных и без ультиматумов. Союзники США в регионе (Израиль, Саудовская Аравия): озабочены, что Трамп может пойти на невыгодные уступки. Мировые рынки: надежда на деэскалацию, но сохраняется страх перед срывом поставок нефти.",
-      "perspective_type": "assumed",
-      "sources": [
-        "BBC News",
-        "DW",
-        "The Indian Express",
-        "The Hindu",
-        "The New York Times",
-        "TASS",
-        "Tehran Times"
-      ],
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo",
-        "https://www.dw.com/en/iran-war-netanyahu-in-washington-for-meeting-with-trump/live-78137927",
-        "https://indianexpress.com/article/world/iran-us-war-trump-military-action-khamenei-jihad-10806472/",
-        "https://www.thehindu.com/news/international/iran-israel-us-war-july-28-2026-latest-updates-strait-of-hormuz-donald-trump-oil-prices-today/article71275308.ece",
-        "https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html",
-        "https://tass.com/world/2166127",
-        "https://www.tehrantimes.com/news/528631/Iran-rejects-US-role-in-setting-war-terms"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-28",
-      "id": "68fa88a01cf5"
-    },
-    {
-      "title_ru": "Одна из крупнейших атак БПЛА на Россию: 356 дронов сбито за ночь, более 390 летели на Москву",
-      "title_en": "One of Largest Drone Attacks on Russia: 356 UAVs Downed Overnight, Over 390 Targeted Moscow",
-      "date": "2026-07-28",
-      "summary_en": "Russian air defense shot down 356 Ukrainian drones over multiple regions in a single night. Moscow Mayor Sobyanin reported over 390 UAVs flying toward the capital since evening, with 81 downed near Moscow. TASS described the attempt as one of the largest in two years. A multi-story residential building in the Moscow region was hit, and fires broke out in the Koledino forest area. Drone threat alerts were also declared in Sochi, Lipetsk, and Ivanovo regions.",
-      "summary": "Российские силы ПВО сбили 356 украинских беспилотников над регионами РФ за одну ночь. Мэр Москвы Собянин сообщил о более чем 390 БПЛА, летевших на столицу с вечера; 81 сбит вблизи Москвы. ТАСС оценивает попытку как одну из крупнейших за два года. Удар пришёлся по многоэтажке в Подмосковье, возгорания — в лесном массиве Коледино; угроза атаки БПЛА объявлялась также в Сочи, Липецкой и Ивановской областях.",
-      "category": "politics",
-      "perspective": "Минобороны РФ: ПВО эффективно отразило массированную атаку, предотвратив масштабные разрушения. Западные и украинские источники: удары по территории РФ — легитимный военный ответ на российскую агрессию. Жители российских регионов: тревога и нарушение повседневной жизни при одновременной демонстрации устойчивости.",
-      "perspective_type": "assumed",
-      "sources": [
-        "ТАСС",
-        "Ведомости",
-        "Коммерсантъ",
-        "Lenta.ru"
-      ],
-      "links": [
-        "https://tass.ru/proisshestviya/27959613",
-        "https://tass.ru/armiya-i-opk/27959455",
-        "https://www.vedomosti.ru/politics/news/2026/07/28/1216932-sili-pvo-sbili",
-        "https://www.kommersant.ru/doc/8846142",
-        "https://www.kommersant.ru/doc/8846094",
-        "https://lenta.ru/news/2026/07/28/minoborony-raskrylo-chislo-sbityh-nad-rossiey-za-noch-ukrainskih-bpla/"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-28",
-      "id": "c1493596e4d6"
-    },
-    {
-      "title_ru": "Украина атаковала иранское судно: Тегеран обещает ответ, Москва и Тегеран в контакте",
-      "title_en": "Ukraine Attacks Iranian Vessel: Tehran Vows Response, Moscow in Contact with Iran",
-      "date": "2026-07-27",
-      "summary_en": "Ukraine attacked an Iranian commercial vessel, killing a young Iranian sailor on his first voyage. Tehran has repeatedly vowed that this 'adventurism will not go unanswered' — warnings came from Foreign Minister Araghchi, an official spokesperson, senior MPs, and the Army command. Moscow and Tehran are in contact over the incident, with Russia stating Iran will decide its own response.",
-      "summary": "Украина атаковала иранское коммерческое судно, в результате чего погиб молодой иранский моряк. Тегеран неоднократно заявил, что «авантюризм не останется без ответа»: с предупреждениями выступили глава МИД Арагчи, официальный представитель, высокопоставленные депутаты и командование армии. Москва и Тегеран находятся в контакте по инциденту; российская сторона заявляет, что Иран сам примет решение об ответных мерах.",
-      "category": "politics",
-      "perspective": "Иран: Украина совершила акт агрессии против нейтрального коммерческого судна; ответ неизбежен. Россия: поддерживает право Ирана на ответ, осуждает «опасный авантюризм» Украины. Украина/Запад: контекст атаки остаётся неясным; потенциально — расширение конфликта на новых участников.",
-      "perspective_type": "assumed",
-      "sources": [
-        "TASS",
-        "IRNA",
-        "Tehran Times"
-      ],
-      "links": [
-        "https://tass.com/world/2166183",
-        "https://tass.com/world/2165897",
-        "https://en.irna.ir/news/86220215/Ukraine-s-attack-on-Iranian-vessel-cannot-go-unanswered-Araghchi",
-        "https://en.irna.ir/news/86220722/Ukraine-s-dangerous-adventurism-will-not-go-unanswered-Spokesperson",
-        "https://en.irna.ir/news/86220442/Iran-leaves-no-hostile-actions-unanswered-Official",
-        "https://www.tehrantimes.com/news/528630/For-a-young-sailor-First-voyage-final-farewell"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-27",
-      "id": "5d34605c6143"
-    },
-    {
-      "title_ru": "Лесные пожары во Франции и Испании: более 300 000 эвакуированы, новая волна жары угрожает ухудшением",
-      "title_en": "France and Spain Wildfires: Over 300,000 Evacuated as New Heatwave Threatens Worsening",
-      "date": "2026-07-28",
-      "summary_en": "Massive wildfires in France and Spain have forced the evacuation of over 300,000 people. The mega-fire near Bordeaux is 'stabilized' but authorities fear renewed outbreak as a new extreme heatwave approaches. The French fire generated a pyrocumulonimbus cloud whose lightning ignited additional fires. Spain has recorded over 3,800 heat-related deaths in what is being called an 'unprecedented' fire season.",
-      "summary": "Масштабные лесные пожары во Франции и Испании вынудили эвакуировать более 300 000 человек. Мега-пожар близ Бордо «стабилизирован», но власти опасаются возобновления с приближением новой волны экстремальной жары. Французский пожар породил пирокумулятивное облако, чьи молнии вызвали новые возгорания. В Испании зафиксировано более 3800 смертей, связанных с жарой; пожарный сезон называют «беспрецедентным».",
-      "category": "politics",
-      "perspective": "Правительства Франции и Испании: климатический кризис требует общеевропейской солидарности и ресурсов. Климатические активисты: доказательство ускоряющегося климатического кризиса, призыв к срочным мерам. Местное население: травма, перемещение, экономические потери. Евросоюз: необходимость укрепления общеевропейского механизма реагирования на природные катастрофы.",
-      "perspective_type": "assumed",
-      "sources": [
-        "The New York Times",
-        "BBC News",
-        "The Guardian",
-        "DW",
-        "France24",
-        "NPR",
-        "CBC News",
-        "The Indian Express",
-        "Times of India",
-        "Antara"
-      ],
-      "links": [
-        "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions",
-        "https://www.nytimes.com/2026/07/27/world/europe/france-spain-fires.html",
-        "https://www.bbc.co.uk/news/articles/cwyrwdj99x2o",
-        "https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins",
-        "https://www.dw.com/en/heat-wave-threatens-to-worsen-france-spain-wildfires/a-78137994",
-        "https://www.france24.com/fr/france/20260728-en-direct-incendies-feux-foret-france-espagne-portugal-gironde-var-retour-chaleur-canicule-pompiers",
-        "https://www.npr.org/2026/07/27/nx-s1-5909107/france-spain-wildfires-updates",
-        "https://www.cbc.ca/news/world/france-spain-wildfire-evacuations-9.7285653",
-        "https://indianexpress.com/article/world/europe-wildfires-force-300000-to-flee-as-france-spain-battle-massive-blazes-10805622/",
-        "https://timesofindia.indiatimes.com/world/europe/french-wildfire-created-a-monster-cloud-unleashing-lightning-that-ignited-more-fires/articleshow/132673244.cms"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-28",
-      "id": "0247070045d8"
-    },
-    {
-      "title_ru": "Йемен наносит удары по нефтяным объектам Саудовской Аравии: конфликт расширяется на Аравийский полуостров",
-      "title_en": "Yemen Targets Saudi Oil Facilities as Regional Conflict Widens",
-      "date": "2026-07-27",
-      "summary_en": "Yemeni forces targeted Saudi Arabia's oil transport facilities, while Saudi air defense shot down Iran-backed drones aimed at Riyadh. Yemen also downed a Saudi spy drone over Jawf province. The attacks mark a dangerous spillover of the Iran conflict into the Arabian Peninsula, threatening global energy infrastructure.",
-      "summary": "Йеменские силы нанесли удары по объектам нефтяной транспортной инфраструктуры Саудовской Аравии; саудовские ПВО сбили поддерживаемые Ираном беспилотники, нацеленные на Эр-Рияд. Йемен также сбил саудовский разведывательный дрон над провинцией Джауф. Атаки знаменуют опасное расширение иранского конфликта на Аравийский полуостров, угрожая глобальной энергетической инфраструктуре.",
-      "category": "politics",
-      "perspective": "Саудовская Аравия и страны Залива: иранские прокси угрожают региональной стабильности; требуются гарантии безопасности от США. Иран и йеменские хуситы: легитимное сопротивление саудовской коалиции. Международное сообщество: страх перед расширением войны на весь Ближний Восток и срывом поставок нефти.",
-      "perspective_type": "assumed",
-      "sources": [
-        "IRNA",
-        "The Indian Express"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86221201/Yemeni-army-targets-Saudi-Arabia-s-oil-transport-facilities",
-        "https://en.irna.ir/news/86220017/Yemen-downs-Saudi-spy-drone-over-Jawf-province",
-        "https://indianexpress.com/article/world/saudi-arabia-shoots-down-iran-drones-riyadh-oil-facilities-west-asia-conflict-10806081/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-27",
-      "id": "bb4f23c4672d"
-    },
-    {
       "title_ru": "Раскол в Кремниевой долине: закрывать ли доступ Китая к открытым моделям ИИ",
       "title_en": "Silicon Valley Splits Over Restricting Chinese Access to Open-Source AI",
       "date": "2026-07-25",
@@ -2443,10 +2262,182 @@
       "is_development": false,
       "first_reported": "2026-08-09",
       "id": "f7201415a915"
+    },
+    {
+      "title_ru": "Массированная атака БПЛА на регионы России: 13 погибших в Нижнекамске, пожары на складах Wildberries в Воронежской области",
+      "title_en": "Massive Ukrainian Drone Attacks Across Russia: 13 Dead in Nizhnekamsk, Wildberries Warehouses Ablaze in Voronezh",
+      "date": "2026-08-11",
+      "summary_en": "On August 10–11, Ukrainian drones struck multiple Russian regions in a major escalation. In Nizhnekamsk (Tatarstan), an attack on a hostel killed 13 people, including a child and foreign nationals, with 78 injured; Russia's Investigative Committee opened a terrorism case. In Voronezh Region, drones hit Wildberries warehouses, causing a large fire and killing one person. Russia's Defence Ministry reported over 456 UAVs shot down overnight, including drones approaching Moscow.",
+      "summary": "В ночь на 10–11 августа украинские БПЛА массированно атаковали регионы России. В Нижнекамске удар по хостелу унёс жизни 13 человек (включая ребёнка и иностранцев), 78 пострадавших; СКР возбудил дело о теракте. В Воронежской области дроны поразили склады Wildberries — возник крупный пожар, погиб 1 человек. Минобороны отчиталось о 456 сбитых за ночь БПЛА, включая подлёт к Москве.",
+      "category": "politics",
+      "perspective": "Российские власти: эскалация «террористических» ударов по гражданской инфраструктуре, оправдание продолжения СВО. Украина и союзники: легитимные удары по тыловой инфраструктуре. Западные СМИ акцентируют жертвы среди гражданских и масштаб атаки.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Kommersant",
+        "Vedomosti",
+        "TASS",
+        "Lenta.ru",
+        "The Guardian",
+        "The New York Times",
+        "DW"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8876564",
+        "https://www.kommersant.ru/doc/8876805",
+        "https://www.vedomosti.ru/politics/news/2026/08/11/1220196-bpla-voronezhskuyu-oblast",
+        "https://tass.ru/proisshestviya/28001033",
+        "https://lenta.ru/news/2026/08/11/long-v-voronezhskoy-oblasti-pri-padenii-bpla-zagorelis-sklady-krupnoy-kompanii-chto-izvestno/",
+        "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
+        "https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html",
+        "https://www.dw.com/en/ukrainian-drone-attack-kills-at-least-13-in-central-russia/a-78300485"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-11",
+      "id": "05f6e313b481"
+    },
+    {
+      "title_ru": "Землетрясение магнитудой 7,4 в Колумбии: 132 погибших, объявлено чрезвычайное положение",
+      "title_en": "Magnitude 7.4 Earthquake in Colombia Kills 132; Nationwide State of Emergency Declared",
+      "date": "2026-08-11",
+      "summary_en": "A 7.4-magnitude earthquake struck western Colombia on August 10, killing at least 132 people and injuring hundreds. Buildings collapsed in several cities, with rescuers racing to free people from rubble. President Abelardo De La Espriella declared a nationwide state of emergency, marking the first major crisis test for his administration.",
+      "summary": "10 августа на западе Колумбии произошло землетрясение магнитудой 7,4 — сильнейшее за многие годы. Погибли не менее 132 человек, сотни ранены, разрушены здания в ряде городов. Президент Абелардо Де Ла Эсприелла объявил общенациональное чрезвычайное положение. Спасательные работы продолжаются.",
+      "category": "politics",
+      "perspective": "Правительство Колумбии: первое серьёзное испытание для нового президента, проверка готовности служб. Оппозиция может критиковать медлительность реагирования. Международное сообщество: предлагает гуманитарную помощь.",
+      "perspective_type": "assumed",
+      "sources": [
+        "BBC",
+        "NPR",
+        "The Guardian",
+        "The New York Times",
+        "TASS",
+        "DW",
+        "CBC",
+        "The Hindu"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c20e360lx0vo",
+        "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia",
+        "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
+        "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
+        "https://tass.com/emergencies/2171161",
+        "https://www.dw.com/en/colombia-earthquake-death-toll-rises-to-over-100/a-78307841",
+        "https://www.cbc.ca/news/world/colombia-ecuador-earthquake-9.7301513"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-11",
+      "id": "9e5fd19b134c"
+    },
+    {
+      "title_ru": "Путин в Бурятии: запуск ГОКа, мастер-планы городов и борьба с депопуляцией регионов",
+      "title_en": "Putin Visits Buryatia: Launches Mining Complex, Discusses Urban Master Plans and Regional Depopulation",
+      "date": "2026-08-10",
+      "summary_en": "President Putin visited Ulan-Ude on August 10, where he launched the Ermakovsky mining and processing plant, met with Buryatia's governor, and held discussions with urban planners. He endorsed a proposed law on urban master plans and warned against depopulation of Russia's regions, promising to visit Magadan. Putin also stated that 'heroes of the SMO made us feel what Russia is.'",
+      "summary": "10 августа Владимир Путин посетил Улан-Удэ: дал старт Ермаковскому горно-обогатительному комбинату, встретился с главой Бурятии и урбанистами. Поддержал идею закона о мастер-планах развития городов, призвал не допустить депопуляции регионов и сохранять исторический облик городов. Пообещал приехать в Магадан.",
+      "category": "politics",
+      "perspective": "Провластные круги: демонстрация внимания к регионам и промышленного развития. Оппозиция: предвыборная активность на фоне продолжающегося конфликта. Эксперты: сигнал о приоритете территориального развития.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Vedomosti",
+        "Kommersant"
+      ],
+      "links": [
+        "https://www.vedomosti.ru/politics/articles/2026/08/11/1220167-chto-delal-putin-v-buryatii",
+        "https://www.kommersant.ru/doc/8876618",
+        "https://www.kommersant.ru/doc/8876438",
+        "https://www.kommersant.ru/doc/8876473"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-10",
+      "id": "0598ec80f997"
+    },
+    {
+      "title_ru": "Верховный лидер Ирана назначил шесть высших военных командующих",
+      "title_en": "Iran's Supreme Leader Appoints Six Top Military Commanders, Including New IRGC Chief",
+      "date": "2026-08-10",
+      "summary_en": "Iran's Supreme Leader Ali Khamenei appointed six new senior military commanders on August 10, including Ahmad Vahidi as head of the Islamic Revolutionary Guard Corps (IRGC). The appointments follow the earlier designation of Mohsen Rezaei as secretary of the Supreme National Security Council and signal close coordination between Iran's military and political leadership.",
+      "summary": "10 августа верховный лидер Ирана Али Хаменеи назначил шесть новых командующих на ключевые военные посты. Ахмад Вахиди возглавил Корпус стражей исламской революции (КСИР), Мохсен Резаи ранее назначен секретарём Высшего совета нацбезопасности. Перестановки демонстрируют жёсткую координацию военного и политического руководства страны.",
+      "category": "politics",
+      "perspective": "Иранские консерваторы: укрепление обороноспособности. Реформисты: дальнейшая милитаризация госаппарата. Запад и Израиль: усиление влияния КСИР — тревожный сигнал.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Tehran Times",
+        "IRNA",
+        "TASS",
+        "The New York Times"
+      ],
+      "links": [
+        "https://www.tehrantimes.com/news/529012/Iran-s-Leader-appoints-six-top-military-commanders",
+        "https://en.irna.ir/news/86232739/Leader-makes-six-new-appointments-to-key-military-posts",
+        "https://tass.com/world/2171087",
+        "https://www.nytimes.com/2026/08/09/world/middleeast/iran-security-council-guards-commander.html"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-10",
+      "id": "27c68d31a8fb"
+    },
+    {
+      "title_ru": "МИД РФ: вооружённые провокации в Приднестровье будут расценены как нападение на Россию",
+      "title_en": "Russian Foreign Ministry: Armed Provocations in Transnistria to Be Regarded as Attack on Russia",
+      "date": "2026-08-10",
+      "summary_en": "Russia's Foreign Ministry warned that any armed provocations in Transnistria would be treated as an attack on Russia. Moscow also accused Moldova of avoiding diplomatic dialogue and strengthening cooperation with Kyiv, promising tit-for-tat responses to Chisinau's 'diplomatic provocations.' Separately, Moscow warned Ukraine against provocations targeting Belarus.",
+      "summary": "МИД России заявил, что вооружённые провокации в Приднестровье будут расцениваться как нападение на РФ. Москва обвинила Кишинёв в уклонении от дипломатического диалога и укреплении сотрудничества с Киевом, пообещав зеркальный ответ. Также выпущено предупреждение Украине о недопустимости провокаций против Белоруссии.",
+      "category": "politics",
+      "perspective": "Россия: защита соотечественников и миротворцев. Молдавия и Запад: российское запугивание, попытка дестабилизации региона. Украина: отрицает планы провокаций. Приднестровье ищет гарантии безопасности.",
+      "perspective_type": "assumed",
+      "sources": [
+        "TASS"
+      ],
+      "links": [
+        "https://tass.com/politics/2171013",
+        "https://tass.com/politics/2170985",
+        "https://tass.com/politics/2170979",
+        "https://tass.com/politics/2171175"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-10",
+      "id": "7d6f5c9a9464"
+    },
+    {
+      "title_ru": "Сирия согласилась на реорганизацию российского военного присутствия",
+      "title_en": "Syria Agrees to Reorganized Russian Military Presence",
+      "date": "2026-08-09",
+      "summary_en": "Syria has reached an agreement to reorganize Russia's military presence on its territory, according to reports. The deal signals the continuation of the strategic partnership between Moscow and Damascus, though specific details of the reorganization remain undisclosed.",
+      "summary": "Сирия достигла соглашения о реорганизации российского военного присутствия на своей территории. Детали договорённостей не раскрываются, однако соглашение подтверждает продолжение стратегического партнёрства Москвы и Дамаска на фоне перегруппировки сил.",
+      "category": "politics",
+      "perspective": "Россия: сохранение стратегического присутствия на Ближнем Востоке. Запад: обеспокоенность сохранением российского военного влияния. Сирийская оппозиция: уступка суверенитета.",
+      "perspective_type": "from_source",
+      "sources": [
+        "The New York Times"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-09",
+      "id": "2e33c0c3fa3c"
+    },
+    {
+      "title_ru": "Число выставляемых на продажу уязвимостей в IT-системах российских компаний выросло на 20%",
+      "title_en": "Vulnerabilities for Sale in Russian Corporate IT Systems Up 20%",
+      "date": "2026-08-11",
+      "summary_en": "The number of software vulnerabilities in Russian companies' IT systems being offered for sale on dark markets has increased by 20%, according to an August 11 report. The rise in commercially available exploits heightens the risk of cyberattacks on the corporate sector.",
+      "summary": "По данным на 11 августа, количество уязвимостей в IT-системах российских компаний, выставляемых на продажу, выросло на 20%. Рост предложения эксплойтов на теневом рынке повышает риски кибератак для корпоративного сектора.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Kommersant"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8876764"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-11",
+      "id": "fbf4bd409f78"
     }
   ],
   "_stats": {
-    "total_tokens": 752603,
-    "total_cost": 84.31967999999999
+    "total_tokens": 780227,
+    "total_cost": 87.46155399999999
   }
 }
