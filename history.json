@@ -1,179 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Раскол в Кремниевой долине: закрывать ли доступ Китая к открытым моделям ИИ",
-      "title_en": "Silicon Valley Splits Over Restricting Chinese Access to Open-Source AI",
-      "date": "2026-07-25",
-      "summary_en": "A growing divide has emerged in Silicon Valley over whether to restrict Chinese access to open-source AI models. Proponents of openness argue that sharing accelerates global innovation; critics warn that open models could strengthen China's military and surveillance capabilities. The debate intensifies as Chinese AI models continue gaining ground on their US counterparts.",
-      "summary": "В Кремниевой долине нарастает раскол по вопросу ограничения доступа Китая к открытым моделям искусственного интеллекта. Сторонники открытости утверждают, что обмен ускоряет глобальные инновации; критики предупреждают, что открытые модели могут усилить военный и surveillance-потенциал Китая. Дискуссия обостряется на фоне того, что китайские ИИ-модели продолжают догонять американские аналоги.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The New York Times",
-        "DW"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html",
-        "https://www.dw.com/en/us-china-ai-rivalry-heats-up-as-chinese-models-gain-ground/a-77899558"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-25",
-      "id": "afe78c2a393e"
-    },
-    {
-      "title_ru": "Meta запускает отдельное приложение Seller для Facebook Marketplace",
-      "title_en": "Meta Launches Standalone 'Seller' App for Facebook Marketplace",
-      "date": "2026-07-24",
-      "summary_en": "Meta has launched a new standalone app called 'Seller' designed specifically for Facebook Marketplace users. The app aims to streamline the selling experience as Meta seeks to compete more aggressively in the peer-to-peer commerce space, diversifying revenue beyond advertising.",
-      "summary": "Meta запустила отдельное приложение «Seller» для пользователей Facebook Marketplace. Приложение призвано упростить процесс продажи товаров; компания стремится усилить позиции в сфере peer-to-peer коммерции и диверсифицировать доходы за пределами рекламного бизнеса.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The New York Times"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/07/24/technology/meta-facebook-marketplace-seller.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-24",
-      "id": "3a6307ee5f19"
-    },
-    {
-      "title_ru": "Сенат США одобрил в первом голосовании законопроект о новых санкциях против России",
-      "title_en": "US Senate Advances Russia Sanctions Bill in First Vote, Granting Trump New Tariff Powers",
-      "date": "2026-07-29",
-      "summary_en": "The US Senate voted to advance the Graham sanctions bill against Russia, which would grant President Trump new tariff powers. Concurrently, Bloomberg reports the EU is preparing sanctions against 1,600 companies linked to Russia. Zelenskyy and Finnish President Stubb jointly explained to the US the purpose of 'crushing sanctions' against Moscow.",
-      "summary": "Сенат США в первом голосовании поддержал законопроект сенатора Грэма о новых антироссийских санкциях — документ также даёт президенту Трампу новые тарифные полномочия. Параллельно Bloomberg сообщил о подготовке ЕС санкций против 1600 компаний, связанных с Россией. Зеленский и президент Финляндии Стубб совместно объясняли США смысл «сокрушительных санкций» против Москвы.",
-      "category": "politics",
-      "perspective": "Республиканцы продвигают законопроект как инструмент давления на РФ с сохранением гибкости для Трампа; демократы настаивают на жёстких автоматических санкциях. Россия рассматривает законопроект как враждебную эскалацию. В ЕС — раскол: часть стран (Греция) блокирует новые пакетные санкции, вынуждая искать альтернативные подходы.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Kommersant",
-        "Lenta.ru",
-        "Vedomosti",
-        "The Guardian"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8846920",
-        "https://lenta.ru/news/2026/07/29/v-ssha-raskryli-sut-zakonoproekta-o-sanktsiyah-protiv-rossii/",
-        "https://www.vedomosti.ru/politics/news/2026/07/28/1217104-ssha-sanktsii-nefti",
-        "https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-29",
-      "id": "c152d79cff86"
-    },
-    {
-      "title_ru": "Трамп провёл встречи с Зеленским и Нетаньяху: обсуждены Украина и Иран",
-      "title_en": "Trump Holds Back-to-Back Meetings with Zelenskyy and Netanyahu on Ukraine and Iran",
-      "date": "2026-07-29",
-      "summary_en": "President Trump held consecutive meetings with Volodymyr Zelenskyy and Benjamin Netanyahu at the White House, praising both as 'very good.' The White House described the talks as 'positive.' Discussions covered the Ukraine conflict settlement and the Iran situation. WSJ reported Trump's growing optimism about Ukraine resolution prospects.",
-      "summary": "Президент Трамп провёл в Белом доме встречи с Владимиром Зеленским и Биньямином Нетаньяху, назвав обе «очень хорошими». Белый дом охарактеризовал переговоры как «позитивные». Обсуждались урегулирование украинского конфликта и ситуация вокруг Ирана. WSJ сообщила о растущем оптимизме Трампа относительно перспектив украинского урегулирования.",
-      "category": "politics",
-      "perspective": "Сторонники Трампа видят в этом подтверждение его роли глобального переговорщика; критики сомневаются в наличии конкретных результатов. Украина приветствует продолжение диалога с США. Израиль укрепляет координацию с администрацией. Россия скептически оценивает способность Трампа повлиять на урегулирование.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Kommersant",
-        "Vedomosti",
-        "The Guardian",
-        "Belta",
-        "Ukrinform"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8847017",
-        "https://www.vedomosti.ru/politics/news/2026/07/29/1217208-tramp-nazval-ochen",
-        "https://www.theguardian.com/us-news/2026/jul/28/trump-netanyahu-zelenskyy-meetings",
-        "https://belta.by/world/view/tramp-zajavil-chto-obsudil-mnogo-voprosov-s-zelenskim-i-netanjjahu-793511-2026/",
-        "https://www.ukrinform.ua/rubric-polytics/4148967-zelenskij-podakuvav-senatoram-ssa-za-pidtrimku-ta-uhvalenna-sankcijnogo-zakonoproektu.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-29",
-      "id": "2cbe0fbf850f"
-    },
-    {
-      "title_ru": "Землетрясение магнитудой 7.1 в Японии: 13 погибших, спасательная операция продолжается",
-      "title_en": "Japan 7.1 Magnitude Earthquake Kills 13, Rescue Race Against Time in Kumamoto",
-      "date": "2026-07-29",
-      "summary_en": "A powerful 7.1 magnitude earthquake struck Kumamoto, Japan, killing at least 13 people and injuring over 100. The quake caused a shopping mall explosion, damaged the 400-year-old Kumamoto Castle, and trapped people under rubble. Rescue teams are racing against time to find survivors as aftershocks continue.",
-      "summary": "Мощное землетрясение магнитудой 7.1 произошло в Кумамото (Япония): погибли не менее 13 человек, более 100 пострадали. Подземные толчки вызвали взрыв в торговом центре, повредили 400-летний замок Кумамото и оставили людей под завалами. Спасатели ведут «гонку со временем» в поисках выживших на фоне продолжающихся афтершоков.",
-      "category": "politics",
-      "perspective": "Гуманитарная катастрофа вне политических разногласий. Японское правительство мобилизует все ресурсы на спасение. Международное сообщество выражает соболезнования и предлагает помощь.",
-      "perspective_type": "unclear",
-      "sources": [
-        "BBC",
-        "NPR",
-        "The Guardian",
-        "NYT",
-        "DW",
-        "The Hindu",
-        "CBC"
-      ],
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cvgw52l5kyyo",
-        "https://www.npr.org/2026/07/29/nx-s1-5911613/japan-earthquake-updates",
-        "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-death-aftershocks",
-        "https://www.nytimes.com/2026/07/28/world/asia/japan-earthquake-kumamoto-rescue-survivors.html",
-        "https://www.dw.com/en/japan-rescue-race-against-time-after-deadly-earthquake-hits-kumamoto/a-78143660"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-29",
-      "id": "fb06fc79b145"
-    },
-    {
-      "title_ru": "Массированные атаки БПЛА на Россию: 295 дронов сбито за ночь, жертвы в Таганроге",
-      "title_en": "Mass Drone Attacks on Russia Intensify: 295 UAVs Downed Overnight, Casualties in Taganrog",
-      "date": "2026-07-29",
-      "summary_en": "Russian air defenses shot down 295 Ukrainian drones overnight over multiple regions, including 45 over Ryazan. This follows the previous night's record of 356 drones downed. In Taganrog, the number of casualties from earlier drone strikes has grown. A drone struck a residential building in Chekhov near Moscow. Total 842 drones downed in 24 hours on July 28.",
-      "summary": "Российские силы ПВО сбили 295 украинских беспилотников за ночь над регионами РФ, включая 45 над Рязанской областью. Это продолжение рекордных атак: предыдущей ночью — 356 дронов, за сутки 28 июля — 842. В Таганроге выросло число пострадавших при атаке БПЛА. В подмосковном Чехове дрон попал в многоквартирный дом.",
-      "category": "politics",
-      "perspective": "Российские официальные лица характеризуют атаки как террористические действия Украины против гражданского населения. Украинская сторона рассматривает удары как законные военные действия. Интенсивность атак свидетельствует о новой фазе конфликта с акцентом на дальние беспилотные удары.",
-      "perspective_type": "from_source",
-      "sources": [
-        "Kommersant",
-        "TASS",
-        "Vedomosti"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8847081",
-        "https://tass.ru/proisshestviya/27963199",
-        "https://www.vedomosti.ru/politics/news/2026/07/29/1217222-pvo-unichtozhili-295",
-        "https://www.kommersant.ru/doc/8847042"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-29",
-      "id": "13245bce051d"
-    },
-    {
-      "title_ru": "США и Саудовская Аравия наносят удары по проиранским силам в Ираке; война с Ираном нарастает",
-      "title_en": "US-Saudi Forces Strike Iran-Backed Iraqi Militias as Gulf War Intensifies",
-      "date": "2026-07-29",
-      "summary_en": "US and Saudi forces struck Iran-backed militia groups in Iraq, marking an escalation after a brief pause. Saudi Arabia intercepted Iranian drones over its oil facilities. The Pentagon changed its Iran war casualty reporting methods, raising transparency concerns. The UK faces 'difficult trade-offs' in its budget due to the war's economic impact. The ECB earlier kept interest rates unchanged amid war-driven inflation.",
-      "summary": "США и Саудовская Аравия нанесли удары по проиранским ополченцам в Ираке — эскалация после краткой паузы в боевых действиях. Саудовская Аравия перехватила иранские БПЛА над нефтяными объектами. Пентагон изменил порядок отчётности о потерях в иранской войне, что вызвало вопросы о прозрачности. В Британии признали «очень трудные компромиссы» в бюджете из-за экономических последствий войны.",
-      "category": "politics",
-      "perspective": "Администрация Трампа представляет удары как необходимую оборону; Иран называет войну «безрассудной», а Трампа — «самым презренным президентом». Европейские союзники обеспокоены экономическими последствиями: инфляция, сбои в цепочках поставок. Страны Персидского залива переосмысливают стратегии безопасности — Оман предлагает добровольные сборы за проход через Ормузский пролив.",
-      "perspective_type": "assumed",
-      "sources": [
-        "The Hindu",
-        "DW",
-        "The Guardian",
-        "Tehran Times",
-        "NYT",
-        "Indian Express"
-      ],
-      "links": [
-        "https://www.thehindu.com/news/international/iran-israel-us-war-july-29-2026-latest-updates-strait-of-hormuz-donald-trump-oil-prices-today/article71279588.ece",
-        "https://www.dw.com/en/iran-war-us-saudi-arabia-strike-iran-backed-iraqi-militias/live-78152241",
-        "https://www.theguardian.com/business/2026/jul/29/uk-faces-trade-offs-because-of-iran-war-inflation",
-        "https://www.tehrantimes.com/news/528669/Pentagon-changes-Iran-war-casualty-reporting-raising-questions",
-        "https://www.nytimes.com/2026/07/28/world/asia/iran-war-price-inflation-street-food-asia.html"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-29",
-      "id": "381be274d0a7"
-    },
-    {
       "title_ru": "Moonshot AI открыла веса модели Kimi K3 под пользовательской лицензией",
       "title_en": "China's Moonshot AI Releases Kimi K3 Model Weights Under Custom License",
       "date": "2026-07-28",
@@ -2434,10 +2261,172 @@
       "is_development": false,
       "first_reported": "2026-08-11",
       "id": "fbf4bd409f78"
+    },
+    {
+      "title_ru": "Новая волна атак БПЛА: обрушение путепровода в Новороссийске, гибель ребёнка, угрозы в Липецкой и Тамбовской областях",
+      "title_en": "New Wave of Drone Attacks: Bridge Collapse in Novorossiysk, Child Killed, Threats in Lipetsk and Tambov Regions",
+      "date": "2026-08-12",
+      "summary_en": "On the night of August 12, a massive drone attack struck southern Russia. In Novorossiysk, debris caused a bridge collapse, a child was killed, and eight people were wounded. Residential buildings were damaged in Anapa and Gelendzhik. Drone threat alerts were declared across Lipetsk and Tambov regions. This follows the August 10 attack on Nizhnekamsk that killed 13 people.",
+      "summary": "В ночь на 12 августа массированной атаке БПЛА подверглись южные регионы России. В Новороссийске обломки беспилотников вызвали обрушение путепровода, погиб ребёнок, восемь человек ранены. Повреждены жилые дома в Анапе и Геленджике. Опасность атаки БПЛА объявлена в Липецкой и Тамбовской областях. Это продолжение атаки 10 августа на Нижнекамск, унёсшей жизни 13 человек.",
+      "category": "politics",
+      "perspective": "Российские власти квалифицируют как террористический акт и акт агрессии против гражданского населения. СКР возбуждает дела о теракте. Западные и украинские источники могут рассматривать как легитимные удары по военной логистике. Международное сообщество разделено: одни осуждают удары по гражданской инфраструктуре, другие считают их частью затяжного конфликта.",
+      "perspective_type": "assumed",
+      "sources": [
+        "tass.ru",
+        "www.kommersant.ru",
+        "lenta.ru"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/28004597",
+        "https://www.kommersant.ru/doc/8877632",
+        "https://www.kommersant.ru/doc/8877624",
+        "https://lenta.ru/news/2026/08/12/stalo-izvestno-o-serieznyh-posledstviyah-ataki-bpla-na-novorossiysk/",
+        "https://tass.ru/proisshestviya/28004443",
+        "https://tass.ru/proisshestviya/28004449"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-12",
+      "id": "d93d8f764aa5"
+    },
+    {
+      "title_ru": "Иран: Ормузский пролив останется закрытым, пока США не примут условия Тегерана",
+      "title_en": "Iran: Strait of Hormuz Will Remain Closed Until US Accepts Tehran's Conditions",
+      "date": "2026-08-12",
+      "summary_en": "The Secretary of Iran's Supreme National Security Council stated that the Strait of Hormuz will reopen only when the US accepts Iran's conditions. Trump responded by saying US options are to let Tehran fail economically or 'hit them really hard.' The standoff continues as US naval forces remain deployed near the strait. Iran also demanded compensation from the US for casualties during hostilities.",
+      "summary": "Секретарь Высшего совета национальной безопасности Ирана заявил, что Ормузский пролив откроется только после принятия США иранских условий. Трамп в ответ заявил, что у США есть два варианта: позволить Тегерану экономически рухнуть или «ударить по ним очень сильно». Иран также потребовал от США компенсаций за жертвы в ходе боевых действий. Противостояние вокруг стратегического пролива обостряется.",
+      "category": "politics",
+      "perspective": "Иранская сторона представляет закрытие пролива как защиту суверенитета и ответ на американскую агрессию. Администрация Трампа рассматривает это как экономический шантаж и угрозу глобальной торговле, оправдывая военное присутствие. Союзники США в Персидском заливе опасаются экономических последствий. Китай и Индия, зависимые от ближневосточной нефти, призывают к деэскалации.",
+      "perspective_type": "assumed",
+      "sources": [
+        "en.irna.ir",
+        "www.nytimes.com",
+        "www.thehindu.com",
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86233848/SNSC-chief-Strait-of-Hormuz-will-reopen-only-when-US-accepts",
+        "https://www.nytimes.com/2026/08/10/world/middleeast/iran-strait-of-hormuz-us-oman-talks.html",
+        "https://www.thehindu.com/news/international/trump-says-iran-options-are-let-tehran-fail-economically-or-hit-them-really-hard/article71334867.ece",
+        "https://www.kommersant.ru/doc/8876664"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-12",
+      "id": "423936f413b2"
+    },
+    {
+      "title_ru": "Путин провёл Совет по науке и образованию в Новосибирске: импортозамещение в науке и национальная база генетической информации",
+      "title_en": "Putin Holds Science and Education Council in Novosibirsk: Import Substitution in Science and National Genetic Database",
+      "date": "2026-08-11",
+      "summary_en": "During his visit to Novosibirsk, Vladimir Putin chaired a Science and Education Council meeting. He announced that Russia has successfully replaced imported equipment for the SKIF synchrotron with domestic alternatives. Putin also revealed plans to create a national genetic information database and urged Russian businesses to invest in breakthrough scientific technologies. He visited a specialized school at Novosibirsk State University.",
+      "summary": "Владимир Путин провёл в Новосибирске заседание Совета по науке и образованию. Президент заявил, что Россия сумела заменить импортное оборудование для синхротрона СКИФ отечественным. Путин объявил о создании национальной базы генетической информации и призвал бизнес инвестировать в прорывные научные технологии. Также он посетил профильную школу при Новосибирском государственном университете.",
+      "category": "politics",
+      "perspective": "Правительственная оценка: демонстрация научно-технологического суверенитета России вопреки санкциям. Патриотическая общественность поддерживает курс на импортозамещение. Либеральная оппозиция может критиковать изоляцию от мировой науки. Западные эксперты могут расценивать как вынужденное автаркическое развитие.",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.kommersant.ru",
+        "www.vedomosti.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8877522",
+        "https://www.kommersant.ru/doc/8877242",
+        "https://www.kommersant.ru/doc/8877184",
+        "https://www.kommersant.ru/doc/8877122",
+        "https://www.vedomosti.ru/politics/articles/2026/08/12/1220455-chto-putin-predlozhil-dlya-razvitiya-strani"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-11",
+      "id": "8268265b684d"
+    },
+    {
+      "title_ru": "Трамп: помилование Гилмана после звонка Путину, тайный уход с саммита НАТО и стратегия по Ирану",
+      "title_en": "Trump: Gilman Pardoned After Call with Putin, Secret NATO Summit Departure, and Iran Strategy",
+      "date": "2026-08-12",
+      "summary_en": "Donald Trump confirmed that Vladimir Putin agreed to release former US Marine Robert Gilman without an exchange, following their phone conversation. Separately, The Washington Post reported that Trump secretly left the NATO summit on a separate plane due to an Iranian threat. Trump also outlined three US strategies regarding Iran and joked about wanting to become the next US president.",
+      "summary": "Дональд Трамп подтвердил, что Владимир Путин согласился освободить бывшего морпеха Роберта Гилмана без обмена после их телефонного разговора. Тем временем The Washington Post сообщила, что Трамп тайно покинул саммит НАТО на отдельном самолёте из-за угрозы со стороны Ирана. Трамп также описал три стратегии США в противостоянии с Ираном и пошутил о желании стать следующим президентом.",
+      "category": "politics",
+      "perspective": "Республиканцы подают как дипломатический успех Трампа и доказательство его способности договариваться с Путиным. Демократы критикуют скрытность вокруг ухода с саммита НАТО — использование 'decoy passengers' вызывает вопросы о прозрачности. Европейские союзники могут быть обеспокоены сигналом о непредсказуемости американского лидерства.",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.kommersant.ru",
+        "www.vedomosti.ru",
+        "www.pravda.com.ua",
+        "www.theguardian.com"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8877460",
+        "https://www.kommersant.ru/doc/8876781",
+        "https://www.vedomosti.ru/politics/news/2026/08/11/1220421-tramp-ob-osvobozhdenii-gilmana",
+        "https://www.theguardian.com/us-news/2026/aug/11/trump-air-force-one-deception-democrats",
+        "https://www.pravda.com.ua/news/2026/08/12/8048330/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-12",
+      "id": "caa577d19438"
+    },
+    {
+      "title_ru": "Праймериз в США: прогрессивный кандидат побеждает в Миннесоте, гонка в Висконсине остаётся напряжённой",
+      "title_en": "US Primaries: Progressive Wins Minnesota Senate Primary, Wisconsin Governor's Race Remains Close",
+      "date": "2026-08-12",
+      "summary_en": "A progressive candidate won the Minnesota Senate primary, running on anti-ICE sentiments. In Wisconsin, the Democratic primary for governor remained too close to call, with Francesca Hong aiming to ride a progressive wave. The results signal ongoing realignment within the Democratic Party ahead of the midterm elections.",
+      "summary": "Прогрессивный кандидат одержал победу на праймериз в Сенат от Миннесоты, выступая с анти-ICE позицией. В Висконсине гонка за пост губернатора среди демократов остаётся напряжённой — Франческа Хонг пытается оседлать прогрессивную волну. Результаты сигнализируют о продолжающейся перегруппировке внутри Демократической партии перед промежуточными выборами.",
+      "category": "politics",
+      "perspective": "Прогрессивное крыло Демпартии celebrates momentum, видя в победах подтверждение растущего запроса на левую повестку. Умеренные демократы опасаются, что радикализация отпугнёт независимых избирателей. Республиканцы используют прогрессивные победы для мобилизации консервативного электората, выставляя демократов как «социалистов».",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.theguardian.com"
+      ],
+      "links": [
+        "https://www.theguardian.com/us-news/2026/aug/11/wisconsin-primary-election-governor-race",
+        "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-12",
+      "id": "71dfe7da28b7"
+    },
+    {
+      "title_ru": "Приложение Google Gemini достигло одного миллиарда пользователей",
+      "title_en": "Google Gemini App Reaches One Billion Users",
+      "date": "2026-08-12",
+      "summary_en": "Google's AI assistant Gemini has reached one billion users on its mobile application, marking a major milestone in the consumer adoption of generative AI. The achievement underscores Google's dominant position in the AI assistant market and the accelerating integration of large language models into daily digital life.",
+      "summary": "ИИ-ассистент Google Gemini достиг одного миллиарда пользователей мобильного приложения — важнейшая веха в потребительском внедрении генеративного ИИ. Достижение подчёркивает доминирующие позиции Google на рынке ИИ-ассистентов и ускоряющуюся интеграцию больших языковых моделей в повседневную цифровую жизнь.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "www.antaranews.com"
+      ],
+      "links": [
+        "https://www.antaranews.com/berita/5690347/aplikasi-google-gemini-capai-satu-miliar-pengguna"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-12",
+      "id": "7123238531cd"
+    },
+    {
+      "title_ru": "«Росатом» завершил строительство синхротрона СКИФ в Новосибирской области",
+      "title_en": "Rosatom Completes Construction of SKIF Synchrotron in Novosibirsk Region",
+      "date": "2026-08-11",
+      "summary_en": "Rosatom has completed construction of the SKIF (Siberian Ring Photon Source) synchrotron in the Novosibirsk region. President Putin announced that all imported equipment for the facility was successfully replaced with domestically produced alternatives. The synchrotron is a flagship Russian scientific infrastructure project for advanced materials research.",
+      "summary": "«Росатом» завершил строительство синхротрона СКИФ (Сибирский кольцевой источник фотонов) в Новосибирской области. Президент Путин сообщил, что всё импортное оборудование для установки успешно заменено отечественными аналогами. Синхротрон — флагманский проект российской научной инфраструктуры для передовых исследований материалов.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "nplus1.ru",
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://nplus1.ru/news/2026/08/11/skif",
+        "https://www.kommersant.ru/doc/8877080",
+        "https://www.kommersant.ru/doc/8877242"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-11",
+      "id": "44be87852c36"
     }
   ],
   "_stats": {
-    "total_tokens": 780227,
-    "total_cost": 87.46155399999999
+    "total_tokens": 804985,
+    "total_cost": 90.15814999999999
   }
 }
