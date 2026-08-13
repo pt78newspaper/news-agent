@@ -1,184 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Moonshot AI открыла веса модели Kimi K3 под пользовательской лицензией",
-      "title_en": "China's Moonshot AI Releases Kimi K3 Model Weights Under Custom License",
-      "date": "2026-07-28",
-      "summary_en": "Chinese AI company Moonshot AI released the model weights for its Kimi K3 large language model under a custom license. The move signals growing momentum for open-weight AI models, allowing enterprises to deploy and fine-tune the model on their own infrastructure. This comes amid ongoing global debate about open versus closed AI models and their strategic implications.",
-      "summary": "Китайская Moonshot AI опубликовала веса своей большой языковой модели Kimi K3 под пользовательской лицензией. Это отражает растущий тренд на открытые модели ИИ: предприятия получают возможность развёртывать и дообучать модель на собственной инфраструктуре. Событие происходит на фоне глобальных дебатов об открытых и закрытых ИИ-моделях.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Indian Express"
-      ],
-      "links": [
-        "https://indianexpress.com/article/technology/artificial-intelligence/china-moonshot-ai-kimi-k3-model-weights-custom-licence-10807478/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-28",
-      "id": "152192bfcc3c"
-    },
-    {
-      "title_ru": "Samsung планирует использовать кремний-углеродные батареи в серии Galaxy S",
-      "title_en": "Samsung Plans to Adopt Silicon-Carbon Batteries for Galaxy S Series",
-      "date": "2026-07-29",
-      "summary_en": "Samsung is planning to introduce silicon-carbon (Si-C) battery technology in its Galaxy S smartphone lineup. Si-C batteries offer significant advantages over traditional lithium-ion cells, including higher energy density and longer lifespan, potentially enabling thinner devices with longer battery life.",
-      "summary": "Samsung планирует внедрить кремний-углеродные (Si-C) аккумуляторы в смартфоны серии Galaxy S. Технология обеспечивает более высокую плотность энергии и увеличенный срок службы по сравнению с традиционными литий-ионными батареями, что позволит создавать более тонкие устройства с повышенной автономностью.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Antara News"
-      ],
-      "links": [
-        "https://www.antaranews.com/berita/5670681/samsung-berencana-pakai-baterai-si-c-pada-galaxy-s-ini-keunggulannya"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-29",
-      "id": "08c340f0830b"
-    },
-    {
-      "title_ru": "США наносят массированные удары по Ирану после паузы; Иордания сбивает иранские ракеты",
-      "title_en": "US Launches Heavy Strikes on Iran After Pause; Jordan Foils Iranian Missile Attack",
-      "date": "2026-07-30",
-      "summary_en": "After a days-long pause, the US military launched 'heavy' strikes on Iranian targets in Qeshm and Bandar Abbas, retaliating for an attempted Iranian missile attack on American forces in Jordan that was intercepted by Jordanian air defenses. CENTCOM confirmed the completion of the strike series, while Trump stated there are no plans to end the war despite continued attacks on US bases.",
-      "summary": "После многодневной паузы США нанесли «тяжёлые» удары по иранским объектам в Кешме и Бендер-Аббасе в ответ на попытку ракетной атаки Ирана на американские силы в Иордании, которую перехватили иорданские ПВО. CENTCOM подтвердил завершение серии ударов; Трамп заявил, что не планирует завершать войну, несмотря на продолжающиеся атаки на базы США.",
-      "category": "politics",
-      "perspective": "Администрация США и западные союзники: оправданный ответ на иранскую агрессию против американских военных. Иран: осуждает как нарушение суверенитета, «иллюзия победы» Трампа. Россия (ТАСС): подчёркивает, что удары не означают возобновления полномасштабных боевых действий. Аналитики опасаются расширения конфликта на весь регион.",
-      "perspective_type": "from_source",
-      "sources": [
-        "BBC News",
-        "The Guardian",
-        "The New York Times",
-        "The Hindu",
-        "TASS",
-        "Deutsche Welle",
-        "Indian Express"
-      ],
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c74gwdzywmeo",
-        "https://www.theguardian.com/world/2026/jul/30/us-strikes-iran-war-widening-iraq",
-        "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
-        "https://www.thehindu.com/news/international/us-strikes-on-iranian-targets-following-missile-attack-west-asia-war/article71284385.ece",
-        "https://tass.com/world/2167077",
-        "https://www.dw.com/en/iran-war-us-carries-out-fresh-strikes-in-powerful-response/live-78166958",
-        "https://indianexpress.com/article/world/us-iran-war-live-updates-us-strikes-iran-qeshm-bandar-abbas-to-retaliate-attack-on-jordan-egypt-10809850/"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-30",
-      "id": "8efa39e85524"
-    },
-    {
-      "title_ru": "Саудовская Аравия вступает в войну на стороне США, нанося удары по проиранским силам в Ираке",
-      "title_en": "Saudi Arabia Enters US-Iran War with Joint Strikes on Iran-Backed Militias in Iraq",
-      "date": "2026-07-29",
-      "summary_en": "Saudi Arabia conducted joint military strikes with the United States against Tehran-backed militias in Iraq, marking the Kingdom's formal entry into the US-Iran conflict. Analysts warn the development pushes the Middle East into 'uncharted territory,' while Iran condemned the strikes as 'criminal' and aligned with 'Tel Aviv-Washington ambitions.'",
-      "summary": "Саудовская Аравия нанесла совместные с США удары по проиранским ополченцам в Ираке, официально вступив в американо-иранский конфликт. Аналитики предупреждают, что это толкает регион на «неизведанную территорию»; Иран осудил удары как «преступные» и соответствующие «амбициям Тель-Авива и Вашингтона». BBC отмечает дилемму Эр-Рияда, пытавшегося остаться в стороне от войны.",
-      "category": "politics",
-      "perspective": "США и Саудовская Аравия: необходимая операция против поддерживаемых Ираном ополченцев. Иран (Tehran Times, IRNA): «преступные удары», грубое нарушение суверенитета Ирака. Аналитики (The Guardian): беспрецедентная эскалация, регион в «неизведанной территории». BBC: Эр-Рияд оказался перед сложной дилеммой.",
-      "perspective_type": "from_source",
-      "sources": [
-        "The New York Times",
-        "The Guardian",
-        "BBC News",
-        "TASS",
-        "Tehran Times",
-        "IRNA",
-        "CBC News"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/07/29/world/middleeast/saudi-arabia-us-iran-war.html",
-        "https://www.theguardian.com/world/2026/jul/29/us-saudi-strikes-in-iraq-have-pushed-the-region-into-uncharted-territory-analysts-warn",
-        "https://www.bbc.co.uk/news/articles/clyx83l8jv8o",
-        "https://tass.com/world/2166835",
-        "https://www.tehrantimes.com/news/528697/Iran-Criminal-US-Saudi-strikes-on-Iraq-align-with-Tel-Aviv-Washington",
-        "https://en.irna.ir/news/86223183/Iran-strongly-condemns-US-Saudi-strikes-on-Iraq",
-        "https://www.cbc.ca/news/world/iran-us-war-middle-east-9.7288672"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-29",
-      "id": "cce0d3e642d4"
-    },
-    {
-      "title_ru": "Сенат США одобрил законопроект о санкциях против России во втором процедурном голосовании",
-      "title_en": "US Senate Advances Russia Sanctions Bill in Second Procedural Vote",
-      "date": "2026-07-30",
-      "summary_en": "The US Senate approved the Russia sanctions bill in a second procedural vote, moving the legislation closer to final passage. The bill targets purchasers of Russian oil. Trump suggested congressmen need not interrupt their summer recess for the vote, while the Russian embassy made sharp statements condemning the tightening of sanctions.",
-      "summary": "Сенат США одобрил во втором процедурном голосовании законопроект о жёстких санкциях против России, нацеленный на покупателей российской нефти. Трамп предложил конгрессменам не прерывать каникулы ради голосования. Посольство России выступило с резким заявлением, а в США ряд комментаторов выразили обеспокоенность последствиями для мировой экономики.",
-      "category": "politics",
-      "perspective": "Конгресс США (обе партии): необходимое давление на Россию. Трамп: амбивалентная позиция — поддерживает санкции, но не считает нужным прерывать каникулы. Россия (посольство, Lenta.ru): «саморазрушение Запада», эскалация экономической войны. WSJ/Bloomberg: возможные негативные последствия для глобальных рынков.",
-      "perspective_type": "from_source",
-      "sources": [
-        "Ведомости",
-        "Коммерсантъ",
-        "Lenta.ru",
-        "TASS"
-      ],
-      "links": [
-        "https://www.vedomosti.ru/politics/news/2026/07/30/1217554-senat-ssha-podderzhal",
-        "https://www.kommersant.ru/doc/8847820",
-        "https://lenta.ru/news/2026/07/30/long-trump-sanktsii/",
-        "https://tass.com/world/2166999"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-30",
-      "id": "b4e03825e429"
-    },
-    {
-      "title_ru": "ФИФА планирует продать долю в коммерческих правах на ЧМ; УЕФА созывает экстренное совещание",
-      "title_en": "FIFA Plans to Sell Stake in World Cup Commercial Rights; UEFA Calls Emergency Meeting",
-      "date": "2026-07-30",
-      "summary_en": "FIFA President Gianni Infantino is advancing plans to form a new commercial subsidiary and sell a stake in World Cup commercial rights to private investors. The proposal has sparked outrage, with UEFA calling an emergency meeting. Critics argue this represents excessive commercialization of football's flagship tournament.",
-      "summary": "Президент ФИФА Джанни Инфантино продвигает план создания коммерческой «дочки» и продажи доли в правах на чемпионат мира частным инвесторам. Предложение вызвало возмущение: УЕФА созывает экстренное совещание. Критики — включая DW и Le Monde — называют это чрезмерной коммерциализацией футбола. Ранее ФИФА уже открыла дисциплинарное дело против Аргентины.",
-      "category": "politics",
-      "perspective": "ФИФА/Инфантино: модернизация, привлечение инвестиций. УЕФА: серьёзная обеспокоенность коммерциализацией. Критики (DW, Le Monde): распродажа главного турнира футбола. Аргентина/Милей: обвиняет демократов США в финансировании «антиаргентинской кампании» на ЧМ.",
-      "perspective_type": "from_source",
-      "sources": [
-        "BBC Sport",
-        "Le Monde",
-        "Indian Express",
-        "Deutsche Welle",
-        "The Guardian"
-      ],
-      "links": [
-        "https://www.bbc.co.uk/sport/football/articles/cz64gdj9e25o",
-        "https://www.lemonde.fr/sport/article/2026/07/30/les-dessous-du-projet-de-gianni-infantino-d-ouvrir-la-fifa-aux-investisseurs-prives_6736651_3242.html",
-        "https://indianexpress.com/article/explained/explained-sports/fifa-world-cup-stake-sale-explained-10809377/",
-        "https://www.dw.com/en/world-cup-sell-off-has-fifa-finally-gone-too-far/a-78163682",
-        "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-30",
-      "id": "4bdaec84976e"
-    },
-    {
-      "title_ru": "Ночная атака 258 украинских БПЛА на Россию: пожары на складах Wildberries, пострадавшие регионы",
-      "title_en": "Russia Downs 258 Ukrainian Drones Overnight; Wildberries Warehouses Hit Across Multiple Regions",
-      "date": "2026-07-30",
-      "summary_en": "Russian air defense forces shot down 258 Ukrainian drones overnight across Bryansk, Voronezh, Rostov, Penza, and other regions. Wildberries warehouses were struck in Penza and Sarapul (Udmurtia), forcing the company to reconfigure logistics. A child injured in a previous drone attack in Crimea has died. The Moscow region also saw significant drone activity.",
-      "summary": "Российские силы ПВО сбили 258 украинских беспилотников за ночь над Брянской, Воронежской, Ростовской, Пензенской и другими областями. Склад Wildberries в Пензе загорелся после атаки БПЛА, склад в удмуртском Сарапуле также пострадал; компания перестраивает логистику. В Крыму скончался ребёнок, ранее пострадавший от атаки дрона. В подмосковном Чехове введён режим ЧС.",
-      "category": "politics",
-      "perspective": "Российские власти: украинский терроризм против гражданской инфраструктуры, ПВО работает эффективно. Украина (предположительно): легитимные удары по логистическим объектам, обеспечивающим российскую военную экономику. Бизнес (Wildberries): вынужденная адаптация, государство может оказать кредитную поддержку.",
-      "perspective_type": "assumed",
-      "sources": [
-        "TASS",
-        "Коммерсантъ",
-        "Ведомости",
-        "Lenta.ru"
-      ],
-      "links": [
-        "https://tass.ru/armiya-i-opk/27966319",
-        "https://www.kommersant.ru/doc/8847867",
-        "https://www.kommersant.ru/doc/8847897",
-        "https://www.vedomosti.ru/business/news/2026/07/30/1217542-wildberries-perestroil-logistiku",
-        "https://lenta.ru/news/2026/07/30/bespilotniki-atakovali-sklad-wildberries-v-penzenskoy-oblasti/"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-30",
-      "id": "63d529c1c83f"
-    },
-    {
       "title_ru": "NYT объясняет феномен «ИИ с открытыми весами»: доступность, риски и регулирование",
       "title_en": "What Is Open-Weights AI? NYT Explainer Examines Accessibility, Risks, and Regulation",
       "date": "2026-07-28",
@@ -2423,10 +2245,168 @@
       "is_development": false,
       "first_reported": "2026-08-11",
       "id": "44be87852c36"
+    },
+    {
+      "title_ru": "Новая волна атак БПЛА: пожар в Салавате, обесточен Севастополь, сбито 147 дронов за 12 часов",
+      "title_en": "New wave of drone attacks: fire in Salavat, Sevastopol blackout, 147 UAVs downed in 12 hours",
+      "date": "2026-08-13",
+      "summary": "В Башкирии из-за обломков БПЛА возник пожар в промзоне Салавата, а Севастополь оказался обесточен после атаки ВСУ. Силы ПВО за 12 часов уничтожили 147 беспилотников над территорией России, за ночь — более 500.",
+      "summary_en": "In Bashkortostan, drone debris caused a fire at an industrial site in Salavat, and Sevastopol was left without power after a Ukrainian attack. Russian air defense reported downing 147 UAVs over 12 hours, and more than 500 overnight.",
+      "category": "politics",
+      "perspective": "Russian authorities emphasize air defense effectiveness and accuse Ukraine of strikes on civilian infrastructure; Ukrainian and Western narratives may frame attacks as part of the war, while local communities focus on casualties and infrastructure damage.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Kommersant",
+        "TASS",
+        "Vedomosti"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8878455",
+        "https://tass.ru/proisshestviya/28008181",
+        "https://www.kommersant.ru/doc/8878391",
+        "https://www.kommersant.ru/doc/8878366",
+        "https://www.vedomosti.ru/politics/news/2026/08/12/1220747-sbili-147-bespilotnikov"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-13",
+      "id": "c5f753c6d6fc"
+    },
+    {
+      "title_ru": "Путин впервые посетил Курилы и заявил о «генетическом коде победителя» у россиян",
+      "title_en": "Putin visits Kuril Islands for first time, speaks of Russians' 'winner's genetic code'",
+      "date": "2026-08-13",
+      "summary": "Владимир Путин впервые посетил Курильские острова: осмотрел школу и больницу в Курильске, провел совещание по безопасности восточных границ России. Он заявил о «генетическом коде победителя» у россиян и необходимости поддерживать боеспособность ВС и флота.",
+      "summary_en": "Vladimir Putin visited the Kuril Islands for the first time, touring a school and hospital in Kurilsk and holding a meeting on security of Russia's eastern borders. He spoke of Russians' 'winner's genetic code' and the need to maintain the combat readiness of the armed forces and navy.",
+      "category": "politics",
+      "perspective": "Russian authorities present the visit as attention to remote regions and a source of national pride; Japan may view it as a challenge to its claims over the Kuril Islands; domestic critics may raise questions about the timing and costs.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Lenta.ru",
+        "TASS",
+        "Kommersant",
+        "Vedomosti"
+      ],
+      "links": [
+        "https://lenta.ru/news/2026/08/13/long-takie-u-nas-lyudi-putin-vpervye-posetil-kurily-i-rasskazal-o-geneticheskom-kode-rossiyan/",
+        "https://tass.ru/politika/28008193",
+        "https://www.kommersant.ru/doc/8878440",
+        "https://www.vedomosti.ru/politics/articles/2026/08/13/1220802-putin-posetil-sahalin",
+        "https://www.kommersant.ru/doc/8878401"
+      ],
+      "first_reported": "2026-08-13",
+      "id": "a71666d181fe"
+    },
+    {
+      "title_ru": "Число жертв землетрясения в Колумбии выросло до 265, введено чрезвычайное положение",
+      "title_en": "Colombia earthquake death toll rises to 265, state of emergency declared",
+      "date": "2026-08-13",
+      "summary": "После мощного землетрясения в Колумбии число погибших достигло не менее 265 человек. Президент страны ввел чрезвычайное положение в экономике, объявлен национальный траур.",
+      "summary_en": "After a powerful earthquake in Colombia, the death toll reached at least 265. The president declared an economic state of emergency, and national mourning was announced.",
+      "category": "politics",
+      "perspective": "The Colombian government focuses on rescue, relief and emergency economic measures; opposition and local authorities may debate the adequacy of the response; international actors express condolences and offer aid.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Belta",
+        "TASS",
+        "Kommersant",
+        "Vedomosti"
+      ],
+      "links": [
+        "https://belta.by/world/view/zhertvami-zemletrjasenija-v-kolumbii-stali-ne-menee-265-chelovek-795820-2026/",
+        "https://tass.ru/mezhdunarodnaya-panorama/28008041",
+        "https://www.kommersant.ru/doc/8878402",
+        "https://www.kommersant.ru/doc/8878083",
+        "https://www.vedomosti.ru/politics/news/2026/08/11/1220353-zhertv-zemletryaseniya"
+      ],
+      "first_reported": "2026-08-13",
+      "id": "028d02e55ae1"
+    },
+    {
+      "title_ru": "Иран и Пакистан активизируют оборонное и торговое сотрудничество; Тегеран намерен вступить в Новый банк развития БРИКС",
+      "title_en": "Iran and Pakistan step up defense and trade cooperation; Tehran to join BRICS New Development Bank",
+      "date": "2026-08-12",
+      "summary": "Министр обороны и глава МВД Пакистана провели переговоры в Иране, стороны подтвердили стратегическое партнерство и планы расширения торгово-энергетического сотрудничества. Глава ЦБ Ирана сообщил о намерении страны присоединиться к Новому банку развития БРИКС.",
+      "summary_en": "Pakistan's defense minister and interior minister held talks in Iran, with both sides reaffirming their strategic partnership and plans to expand trade and energy cooperation. Iran's central bank governor said Tehran intends to join the BRICS New Development Bank.",
+      "category": "politics",
+      "perspective": "Iran presents the moves as strengthening regional alliances and countering sanctions through BRICS institutions; Pakistan balances ties with Iran and its Gulf/US partners; Western governments may see Iran's BRICS integration as an attempt to bypass financial isolation.",
+      "perspective_type": "assumed",
+      "sources": [
+        "IRNA"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86234394/Pakistani-Defense-Minister-calls-for-strengthening-bilateral",
+        "https://en.irna.ir/news/86234241/Rezaei-reaffirms-Iran-Pakistan-s-strategic-partnership-calls",
+        "https://en.irna.ir/news/86234020/Iran-Pakistan-stress-expansion-of-trade-energy-cooperation",
+        "https://en.irna.ir/news/86233997/Iran-to-join-BRICS-New-Development-Bank-CBI-governor"
+      ],
+      "first_reported": "2026-08-12",
+      "id": "f0996e623bde"
+    },
+    {
+      "title_ru": "Сенат Бразилии одобрил снижение налога на топливо; с 2027 года потребители смогут выбирать поставщика энергии",
+      "title_en": "Brazil Senate approves fuel tax relief; consumers to be able to choose energy suppliers from 2027",
+      "date": "2026-08-12",
+      "summary": "Сенат Бразилии одобрил законопроект о снижении налогов на топливо, текст направлен на подписание. Ранее также была одобрена норма, позволяющая потребителям выбирать поставщиков электроэнергии с 2027 года.",
+      "summary_en": "Brazil's Senate approved a bill reducing taxes on fuels, sending the text for presidential sanction. A separate approved measure will allow consumers to choose electricity suppliers starting in 2027.",
+      "category": "politics",
+      "perspective": "The government and consumers may welcome lower fuel costs and greater energy choice; fiscal conservatives may warn about reduced tax revenue and transition risks in the energy market.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Agência Brasil"
+      ],
+      "links": [
+        "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/senado-aprova-alivio-de-imposto-sobre-combustiveis-texto-vai-sancao",
+        "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/consumidores-poderao-escolher-fornecedores-de-energia-partir-de-2027",
+        "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/camara-aprova-reducao-de-impostos-para-combustiveis"
+      ],
+      "first_reported": "2026-08-12",
+      "id": "3c7855455a2d"
+    },
+    {
+      "title_ru": "Полное солнечное затмение в Европе: миллионы наблюдали за редким явлением",
+      "title_en": "Total solar eclipse over Europe: millions watch rare spectacle",
+      "date": "2026-08-12",
+      "summary": "Полное солнечное затмение, редкое для Европы, наблюдали в Испании, Великобритании и Исландии, частные фазы были видны в США и Канаде. Миллионы людей следили за явлением, которое на время превратило день в ночь.",
+      "summary_en": "A rare total solar eclipse was visible across Spain, the UK and Iceland, with partial phases seen in parts of the US and Canada. Millions watched the spectacle as day briefly turned to night.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "The New York Times",
+        "BBC News",
+        "The Guardian",
+        "NPR"
+      ],
+      "links": [
+        "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates",
+        "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
+        "https://www.theguardian.com/science/2026/aug/12/a-magical-eeriness-cornwall-comes-together-for-communal-moment-during-solar-eclipse",
+        "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse"
+      ],
+      "first_reported": "2026-08-12",
+      "id": "e036c62f5829"
+    },
+    {
+      "title_ru": "Пресс-секретарь Трампа Кэролайн Ливитт покидает пост",
+      "title_en": "Trump's press secretary Karoline Leavitt leaving role, president says",
+      "date": "2026-08-13",
+      "summary": "Президент США Дональд Трамп сообщил, что пресс-секретарь Белого дома Кэролайн Ливитт покидает свою должность. Подробности кадрового изменения не раскрываются.",
+      "summary_en": "US President Donald Trump said White House press secretary Karoline Leavitt is leaving her role. Further details of the personnel change were not disclosed.",
+      "category": "politics",
+      "perspective": "Trump allies may frame the departure as a routine staff reshuffle; critics may interpret it as another sign of turbulence in White House communications.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The Guardian"
+      ],
+      "links": [
+        "https://www.theguardian.com/us-news/live/2026/aug/12/donald-trump-air-force-one-switch-politics-primaries-midterm-elections-results-latest-updates"
+      ],
+      "first_reported": "2026-08-13",
+      "id": "e20d7a12b82d"
     }
   ],
   "_stats": {
-    "total_tokens": 804985,
-    "total_cost": 90.15814999999999
+    "total_tokens": 833239,
+    "total_cost": 93.434068
   }
 }
