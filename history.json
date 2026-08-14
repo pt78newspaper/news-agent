@@ -1,183 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "NYT объясняет феномен «ИИ с открытыми весами»: доступность, риски и регулирование",
-      "title_en": "What Is Open-Weights AI? NYT Explainer Examines Accessibility, Risks, and Regulation",
-      "date": "2026-07-28",
-      "summary_en": "The New York Times published an explainer on 'open-weights AI' — models whose trained parameters are publicly released, allowing broader access and customization. The piece examines the tension between democratizing AI technology and concerns about misuse, set against the backdrop of the Silicon Valley debate over Chinese access to open AI models.",
-      "summary": "The New York Times опубликовал разбор феномена «ИИ с открытыми весами» — моделей, чьи обученные параметры публикуются в открытом доступе, что расширяет возможности использования и адаптации, но вызывает опасения насчёт потенциального злоупотребления. Статья продолжает дискуссию о расколе в Кремниевой долине по вопросу доступа Китая к открытым моделям ИИ.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The New York Times"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-28",
-      "id": "0fc7104f193d"
-    },
-    {
-      "title_ru": "ИИ-компании массово нанимают электриков и плотников для строительства дата-центров",
-      "title_en": "AI Companies Recruit Thousands of Electricians and Carpenters for Data Center Boom",
-      "date": "2026-07-29",
-      "summary_en": "AI companies are recruiting electricians, carpenters, and construction workers by the thousands to build the massive data centers required for training and running advanced AI models. The NYT reports this is creating a new skilled-labor bottleneck in the AI industry, shifting hiring focus from software engineers to tradespeople.",
-      "summary": "ИИ-компании тысячами нанимают электриков, плотников и строителей для возведения огромных дата-центров, необходимых для обучения и работы передовых моделей ИИ. Как сообщает NYT, в индустрии формируется новый кадровый дефицит — на сей раз не программных инженеров, а квалифицированных рабочих специальностей.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The New York Times"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-29",
-      "id": "12041ecb27a5"
-    },
-    {
-      "title_ru": "КСИР нанёс удары по авиабазе США в Кувейте и уничтожил F-35 в Иордании; страны Персидского залива обращаются к Китаю по Ормузскому проливу",
-      "title_en": "IRGC Strikes US Airbase in Kuwait, Destroys F-35s in Jordan; Gulf States Turn to China Over Hormuz Strait",
-      "date": "2026-07-31",
-      "summary_en": "Iran's IRGC struck a US airbase in Kuwait and obliterated three US F-35s with troops in Jordan in a fresh wave of retaliatory attacks. Iran reports 653 US personnel wounded since the war began. Meanwhile, a US missile strike on Qeshm Island killed three family members, prompting Speaker Ghalibaf to warn the US will 'pay the price.' In a significant geopolitical shift, Gulf nations are turning to China rather than the US to pressure Iran to reopen the Strait of Hormuz.",
-      "summary": "Иранский КСИР нанёс удары по авиабазе США в Кувейте и уничтожил три F-35 с военнослужащими в Иордании. По данным Ирана, число раненых американских военных достигло 653. Американский ракетный удар по острову Кешм привёл к гибели трёх членов одной семьи; спикер Галибаф предупредил, что США «заплатят цену». Страны Персидского залива обращаются к Китаю за посредничеством в возобновлении судоходства через Ормузский пролив — знаковый геополитический сдвиг.",
-      "category": "politics",
-      "perspective": "Иранские государственные СМИ (IRNA) подают это как победу сопротивления: «гробы стали частью американского снаряжения». Западные СМИ (NYT, Guardian) акцентируют расширение войны и вовлечение новых стран. Обращение стран Залива к Китаю трактуется как ослабление влияния США в регионе.",
-      "perspective_type": "from_source",
-      "sources": [
-        "IRNA",
-        "The Hindu",
-        "Indian Express",
-        "NYT",
-        "Tehran Times",
-        "The Guardian"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86223825/IRGC-hits-US-airbase-in-Kuwait-in-fresh-wave-of-attacks",
-        "https://en.irna.ir/news/86223773/IRGC-strike-obliterates-3-US-F-35s-kills-troops-in-Jordan",
-        "https://en.irna.ir/news/86224131/US-terrorists-wounded-in-Iran-war-rise-to-653-Report",
-        "https://en.irna.ir/news/86223792/US-missile-strike-on-Qeshm-kills-3-family-members-says-Iranian",
-        "https://en.irna.ir/news/86224114/Ghalibaf-US-will-pay-the-price-for-killing-civilians-on-Iran-s",
-        "https://indianexpress.com/article/world/gulf-states-turn-to-china-pressure-iran-reopen-strait-of-hormuz-oil-routes-10811104/",
-        "https://www.tehrantimes.com/news/528704/Iran-rejects-southern-Strait-of-Hormuz-shipping-route",
-        "https://www.nytimes.com/2026/07/30/world/middleeast/us-iran-war-expansion.html",
-        "https://www.theguardian.com/world/2026/jul/30/us-strikes-iran-war-widening-iraq"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-31",
-      "id": "cb74d90af907"
-    },
-    {
-      "title_ru": "Российская ракета попала в территорию Польши во время ударов по Украине; НАТО подтверждает",
-      "title_en": "Russian Missile Hits Poland During Ukraine Strikes; NATO Confirms",
-      "date": "2026-07-30",
-      "summary_en": "A Russian ballistic missile struck Polish territory during a large-scale missile and drone attack on Ukraine that killed at least 10 people. NATO confirmed the violation of Polish airspace. The incident marks a dangerous expansion of the conflict toward a NATO member state, raising fears of escalation under Article 5.",
-      "summary": "Российская баллистическая ракета попала на территорию Польши в ходе массированного ракетно-дронового удара по Украине, в результате которого погибли не менее 10 человек. НАТО подтвердило нарушение польского воздушного пространства. Инцидент знаменует опасное расширение конфликта в сторону страны НАТО и вызывает опасения эскалации по статье 5.",
-      "category": "politics",
-      "perspective": "Для стран НАТО это подтверждение угрозы со стороны России и аргумент за усиление восточного фланга. Россия отрицает намеренную эскалацию. Польша может требовать более жёсткого ответа альянса.",
-      "perspective_type": "assumed",
-      "sources": [
-        "NYT",
-        "DW",
-        "Times of India",
-        "France24"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/07/30/world/europe/ukraine-poland-russia-missile.html",
-        "https://www.dw.com/en/poland-says-russian-ballistic-missile-violated-airspace/a-78172288",
-        "https://timesofindia.indiatimes.com/world/europe/russian-strikes-across-ukraine-kill-10-missiles-hit-poland-too/articleshow/132753209.cms",
-        "https://www.france24.com/fr/europe/20260730-ukraine-russie-zelensky-accuse-coree-du-nord-missile-decim%C3%A9-famille-kryvyi-rig"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-30",
-      "id": "4b783175dde8"
-    },
-    {
-      "title_ru": "УЕФА голосует за бойкот ЧМ из-за плана ФИФА продать долю в турнире; КОНКАКАФ также против",
-      "title_en": "UEFA Votes to Boycott World Cup Over FIFA Stake Sale Plan; CONCACAF Also Rejects",
-      "date": "2026-07-31",
-      "summary_en": "UEFA member nations voted to boycott FIFA competitions in protest against Gianni Infantino's plan to sell stakes in World Cup commercial rights to investors. CONCACAF followed by formally rejecting the plan. FIFA insists 'nobody is selling football' and will continue its investment plans, while former FIFA president Sepp Blatter blasted the body, saying 'FIFA is guardian of the World Cup, not its owner.'",
-      "summary": "Страны УЕФА проголосовали за бойкот соревнований ФИФА в знак протеста против плана Джанни Инфантино продать долю коммерческих прав на ЧМ инвесторам. КОНКАКАФ также отклонил план. ФИФА настаивает, что «никто не продаёт футбол», и продолжит реализацию. Экс-президент ФИФА Зепп Блаттер раскритиковал организацию: «ФИФА — хранитель ЧМ, а не его владелец».",
-      "category": "politics",
-      "perspective": "Европейские федерации видят в плане коммерциализацию и утрату контроля над главным турниром. Инфантино и его сторонники настаивают на необходимости инвестиций. Бывшие функционеры (Блаттер) критикуют с позиции традиционных ценностей спорта.",
-      "perspective_type": "from_source",
-      "sources": [
-        "DW",
-        "BBC",
-        "NPR",
-        "Indian Express",
-        "TASS",
-        "CBC"
-      ],
-      "links": [
-        "https://www.dw.com/en/uefa-votes-to-boycott-world-cup-over-fifa-investor-plan/a-78171084",
-        "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o",
-        "https://www.npr.org/2026/07/30/nx-s1-5913664/world-cup-fifa-uefa-gianni-infantino",
-        "https://indianexpress.com/article/sports/football/concacaf-rejects-fifa-world-cup-stake-sale-uefa-boycott-2026-10811476/",
-        "https://indianexpress.com/article/sports/football/sepp-blatter-blasts-fifa-sell-stakes-world-cup-guardian-10810750/",
-        "https://tass.com/sports/2167445",
-        "https://www.cbc.ca/sports/soccer/uefa-member-countries-agree-to-boycott-fifa-competitions-in-protest-9.7290691"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-31",
-      "id": "3be77cfe7d2c"
-    },
-    {
-      "title_ru": "Павел Дуров внесён Росфинмониторингом в перечень террористов и экстремистов",
-      "title_en": "Pavel Durov Added to List of Terrorists and Extremists by Russia's Financial Watchdog",
-      "date": "2026-07-30",
-      "summary_en": "Russia's financial monitoring service, Rosfinmonitoring, added Telegram founder Pavel Durov to its list of terrorists and extremists. The move marks a sharp escalation in the Russian authorities' pressure on the tech entrepreneur, whose platform has long resisted Kremlin demands for user data and content moderation.",
-      "summary": "Росфинмониторинг внёс основателя Telegram Павла Дурова в перечень террористов и экстремистов. Это резкое усиление давления российских властей на технологического предпринимателя, чья платформа долгое время сопротивлялась требованиям Кремля о предоставлении данных пользователей и модерации контента.",
-      "category": "politics",
-      "perspective": "Российские власти обосновывают решение отказом Telegram сотрудничать по вопросам безопасности. Защитники гражданских свобод видят в этом подавление независимых цифровых платформ. Международное сообщество может расценить шаг как политически мотивированное преследование.",
-      "perspective_type": "assumed",
-      "sources": [
-        "TASS"
-      ],
-      "links": [
-        "https://tass.com/society/2167283"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-30",
-      "id": "23d6b2b35917"
-    },
-    {
-      "title_ru": "Новая волна атак украинских БПЛА на Россию: горят склады Wildberries в Волгограде, Пензе и Удмуртии; КТК остановил погрузку нефти",
-      "title_en": "New Wave of Ukrainian Drone Attacks on Russia: Wildberries Warehouses Burn in Volgograd, Penza, Udmurtia; CPC Halts Oil Loading",
-      "date": "2026-07-31",
-      "summary_en": "Ukrainian drones struck multiple Russian regions for the second consecutive night. A Wildberries logistics warehouse in Volgograd caught fire, injuring five people; 150 drones were downed over Rostov Region alone. Earlier attacks hit Wildberries facilities in Penza and Udmurtia, killing one person. The Caspian Pipeline Consortium halted oil loading in Novorossiysk after drone strikes on tankers. Russia's Investigative Committee opened terrorism cases over the warehouse attacks.",
-      "summary": "Украинские беспилотники вторую ночь подряд атакуют российские регионы. В Волгограде загорелся склад Wildberries, пострадали пять человек; над Ростовской областью сбито 150 БПЛА. Ранее атакованы склады Wildberries в Пензе и Удмуртии, один человек погиб. КТК остановил погрузку нефти в Новороссийске после атаки на танкеры. СКР возбудил дела о терактах.",
-      "category": "politics",
-      "perspective": "Российские власти характеризуют атаки как терроризм против гражданской инфраструктуры. Украинская сторона рассматривает удары как часть кампании по нарушению тылового обеспечения. Атаки на склады Wildberries и нефтяную инфраструктуру свидетельствуют о расширении географии и целей.",
-      "perspective_type": "from_source",
-      "sources": [
-        "Kommersant",
-        "TASS",
-        "Vedomosti",
-        "Lenta.ru",
-        "Belta"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8848699",
-        "https://www.kommersant.ru/doc/8848696",
-        "https://www.kommersant.ru/doc/8848715",
-        "https://www.kommersant.ru/doc/8848055",
-        "https://www.kommersant.ru/doc/8848061",
-        "https://www.kommersant.ru/doc/8848234",
-        "https://www.kommersant.ru/doc/8847897",
-        "https://tass.ru/proisshestviya/27970437",
-        "https://tass.ru/proisshestviya/27970249",
-        "https://www.vedomosti.ru/politics/news/2026/07/31/1217831-iz-za-ataki-bpla",
-        "https://belta.by/world/view/na-logisticheskom-objekte-wildberries-v-volgograde-posle-ataki-proizoshlo-vozgoranie-793887-2026/"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-31",
-      "id": "6fb1832ff7dc"
-    },
-    {
       "title_ru": "xAI Илона Маска подаёт в суд на штат США из-за закона о запрете «раздевающих» дипфейков",
       "title_en": "Elon Musk's xAI Sues US State Over Law Banning 'Nudification' Deepfake Tech",
       "date": "2026-07-31",
@@ -2403,10 +2226,155 @@
       ],
       "first_reported": "2026-08-13",
       "id": "e20d7a12b82d"
+    },
+    {
+      "title_ru": "Трамп ввел 100% пошлины на импорт дронов и комплектующих в США",
+      "title_en": "Trump imposes 100% tariffs on drone imports and components",
+      "date": "2026-08-14",
+      "summary_en": "The US has introduced a 100% tariff on imported drones and their components, according to Ukrainian media. The measure is seen as a new step in Washington's trade restrictions and could affect drone suppliers and manufacturers.",
+      "summary": "США ввели 100-процентные пошлины на импорт дронов и комплектующих к ним. По сообщениям украинских СМИ, это новый шаг Вашингтона в ограничении поставок, который может затронуть производителей и экспортеров беспилотников.",
+      "category": "politics",
+      "perspective": "Сторонники протекционизма могут поддержать защиту внутреннего производства, тогда как экспортеры и торговые партнеры могут критиковать меру как усиление торговых барьеров.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Ukrinform",
+        "Ukrainska Pravda"
+      ],
+      "links": [
+        "https://www.ukrinform.ua/rubric-world/4154000-tramp-zaprovadiv-mita-na-import-droniv-do-ssa.html",
+        "https://www.pravda.com.ua/news/2026/08/14/8048609/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-14",
+      "id": "2618bc4cdb49"
+    },
+    {
+      "title_ru": "США заявляют о полном контроле над Ормузским проливом, Иран отвергает это",
+      "title_en": "US claims full control over Strait of Hormuz, Iran rejects",
+      "date": "2026-08-14",
+      "summary_en": "Washington says it fully controls the Strait of Hormuz, while Iran dismisses the claim as 'lies'. Tensions continue amid reports that the Pentagon can maintain a naval blockade of Iran indefinitely and that Washington is preparing unprecedented economic isolation measures.",
+      "summary": "США заявляют о полном контроле над Ормузским проливом; Иран отвергает эти утверждения, называя их ложью. На фоне противостояния Пентагон допускает бессрочную морскую блокаду Ирана, а Вашингтон готовит беспрецедентные меры экономической изоляции.",
+      "category": "politics",
+      "perspective": "США могут подавать контроль над проливом как сдерживание Ирана, тогда как Иран и его союзники расценивают заявления как ложь и эскалацию напряженности.",
+      "perspective_type": "from_source",
+      "sources": [
+        "The Hindu",
+        "TASS",
+        "Ukrinform"
+      ],
+      "links": [
+        "https://www.thehindu.com/news/international/iran-us-war-west-asia-donald-trump-live-updates-august-14-2026/article71343866.ece",
+        "https://tass.com/world/2172629",
+        "https://www.ukrinform.ua/rubric-world/4153981-iran-sprstuvav-zaavu-trampa-pro-kontrol-ssa-nad-ormuzkou-protokou.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-14",
+      "id": "906759b4b658"
+    },
+    {
+      "title_ru": "Новая волна атак БПЛА: поврежден склад Wildberries, дроны сбиты на подлете к Москве и в Ленобласти",
+      "title_en": "New drone attack wave: Wildberries warehouse damaged, drones downed near Moscow and Leningrad region",
+      "date": "2026-08-14",
+      "summary_en": "Debris from drones damaged a Wildberries warehouse in Tver region and port infrastructure in Leningrad region, with dozens of UAVs intercepted. Russian air defenses also downed 10 drones approaching Moscow.",
+      "summary": "Обломки БПЛА повредили склад Wildberries в Тверской области и территорию в районе порта в Ленинградской области, сбиты десятки дронов. На подлете к Москве уничтожены 10 беспилотников.",
+      "category": "politics",
+      "perspective": "Российские официальные источники сообщают об успешном отражении атак; украинская сторона обычно не комментирует удары, а международные наблюдатели могут по-разному оценивать эскалацию.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Kommersant",
+        "TASS",
+        "Vedomosti",
+        "Lenta"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8879208",
+        "https://tass.ru/proisshestviya/28011429",
+        "https://www.vedomosti.ru/politics/news/2026/08/14/1221087-pvo-sbili-10",
+        "https://lenta.ru/news/2026/08/14/sobyanin-soobschil-o-likvidatsii-dvuh-letevshih-na-moskvu-bpla/"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-14",
+      "id": "a54b02640d5a"
+    },
+    {
+      "title_ru": "Бразилия открывает процесс взаимности против тарифов США",
+      "title_en": "Brazil opens reciprocity process against US tariffs",
+      "date": "2026-08-13",
+      "summary_en": "The Brazilian government has begun a reciprocity procedure in response to US tariffs, signaling a more assertive trade stance. The move could lead to countermeasures affecting bilateral trade.",
+      "summary": "Правительство Бразилии начало процедуру взаимности в ответ на тарифы США. Это может привести к ответным мерам и повлиять на двустороннюю торговлю.",
+      "category": "politics",
+      "perspective": "Правительство может рассматривать шаг как защиту национальных интересов; экспортеры и бизнес могут опасаться роста торговой напряженности и издержек.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Agência Brasil"
+      ],
+      "links": [
+        "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/governo-abre-processo-de-reciprocidade-contra-tarifas-dos-eua"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-13",
+      "id": "be67c6cdce4e"
+    },
+    {
+      "title_ru": "Комиссия по производительности назвала GST-сделку эпохи Моррисона с Западной Австралией многомиллиардной ошибкой",
+      "title_en": "Productivity Commission finds Morrison-era GST deal with WA a multi-billion dollar mistake",
+      "date": "2026-08-14",
+      "summary_en": "Australia's Productivity Commission found that the GST deal struck with Western Australia under the Morrison government was a multi-billion dollar mistake that should be reversed. The finding could fuel debate on fiscal arrangements between the Commonwealth and states.",
+      "summary": "Комиссия по производительности Австралии пришла к выводу, что сделка по GST, заключенная с Западной Австралией при правительстве Моррисона, была многомиллиардной ошибкой и должна быть пересмотрена. Вывод может усилить споры о распределении налоговых поступлений.",
+      "category": "politics",
+      "perspective": "Федеральные власти и эксперты могут настаивать на пересмотре сделки, тогда как Западная Австралия, вероятно, будет защищать полученные выгоды.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The Guardian"
+      ],
+      "links": [
+        "https://www.theguardian.com/australia-news/2026/aug/14/morrison-era-gst-deal-western-australia-23bn-mistake-productivity-commission"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-14",
+      "id": "346f0999ed1e"
+    },
+    {
+      "title_ru": "WhatsApp будет бороться с мошенниками с помощью ИИ-напоминаний",
+      "title_en": "WhatsApp to fight scammers with AI-based reminder feature",
+      "date": "2026-08-14",
+      "summary_en": "WhatsApp is preparing an AI-powered reminder feature to help users recognize and avoid scammers. The feature is aimed at enhancing protection against online fraud.",
+      "summary": "WhatsApp готовит функцию на основе искусственного интеллекта, которая будет напоминать пользователям о рисках и помогать распознавать мошенников. Нововведение направлено на усиление защиты от онлайн-мошенничества.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Antara"
+      ],
+      "links": [
+        "https://www.antaranews.com/berita/5693933/whatsapp-bakal-perangi-scammers-dengan-fitur-pengingat-berbasis-ai"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-14",
+      "id": "631ba0b3fcc8"
+    },
+    {
+      "title_ru": "Instagram сменил текстовый логотип спустя 10 лет",
+      "title_en": "Instagram changes text logo after 10 years",
+      "date": "2026-08-14",
+      "summary_en": "Instagram has changed its text logo for the first time in a decade. The update is part of a visual rebranding by the social media platform.",
+      "summary": "Instagram впервые за 10 лет сменил текстовый логотип. Обновление стало частью визуального ребрендинга социальной сети.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Antara"
+      ],
+      "links": [
+        "https://www.antaranews.com/berita/5693927/instagram-ganti-logo-teks-setelah-10-tahun"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-14",
+      "id": "97f6e5ebc44c"
     }
   ],
   "_stats": {
-    "total_tokens": 833239,
-    "total_cost": 93.434068
+    "total_tokens": 857339,
+    "total_cost": 96.4331
   }
 }
