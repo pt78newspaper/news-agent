@@ -1,178 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "xAI Илона Маска подаёт в суд на штат США из-за закона о запрете «раздевающих» дипфейков",
-      "title_en": "Elon Musk's xAI Sues US State Over Law Banning 'Nudification' Deepfake Tech",
-      "date": "2026-07-31",
-      "summary_en": "xAI, Elon Musk's artificial intelligence company, has filed a lawsuit against a US state challenging a newly enacted law that bans so-called 'nudification' technology — AI tools capable of generating non-consensual nude images. The case raises critical questions about AI regulation, free speech, and the limits of state authority over emerging technologies.",
-      "summary": "xAI Илона Маска подала иск против одного из штатов США, оспаривая новый закон о запрете технологий «раздевания» — ИИ-инструментов, создающих изображения обнажённого тела без согласия. Дело поднимает острые вопросы о регулировании ИИ, свободе слова и границах полномочий штатов в сфере новых технологий.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Times of India"
-      ],
-      "links": [
-        "https://timesofindia.indiatimes.com/world/us/xai-sues-us-state-over-law-banning-nudification-tech/articleshow/132753187.cms"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-31",
-      "id": "de2629ac04f6"
-    },
-    {
-      "title_ru": "eBay выплатит $56 млн преследованной супружеской паре по делу о киберсталкинге",
-      "title_en": "eBay Settles Stalking Case for $56 Million After Terrorizing Couple",
-      "date": "2026-07-28",
-      "summary_en": "eBay agreed to pay $56 million to settle a case brought by a Massachusetts couple who were subjected to a campaign of harassment and cyberstalking by former eBay employees. The employees, including former executives, sent live insects, a bloody pig mask, and other disturbing items to the couple, who published an e-commerce newsletter critical of the company. The case exposed severe corporate misconduct at the tech giant.",
-      "summary": "eBay согласилась выплатить $56 млн для урегулирования иска супружеской пары из Массачусетса, подвергшейся кампании преследования и киберсталкинга со стороны бывших сотрудников компании. Экс-руководители eBay отправляли паре, издававшей критический информационный бюллетень, живых насекомых, окровавленную маску свиньи и другие угрожающие предметы. Дело вскрыло серьёзные нарушения корпоративной этики в технологическом гиганте.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "NYT"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-28",
-      "id": "a8faf391ee88"
-    },
-    {
-      "title_ru": "ФИФА официально отказалась от плана продажи доли в коммерческих правах на ЧМ",
-      "title_en": "FIFA Officially Scraps Plan to Sell Stake in World Cup Commercial Rights",
-      "date": "2026-08-01",
-      "summary_en": "FIFA President Gianni Infantino abandoned a controversial plan to sell a stake in World Cup commercial rights to private investors after mounting criticism from UEFA, CONCACAF, fan groups, and top advisors. The reversal follows days of backlash and the resignation of a senior FIFA advisor, marking a significant retreat for Infantino's leadership.",
-      "summary": "Президент ФИФА Джанни Инфантино отказался от плана продажи доли в коммерческих правах на чемпионат мира частным инвесторам на фоне жёсткой критики со стороны УЕФА, КОНКАКАФ, болельщиков и собственных советников. Решение принято после нескольких дней скандала и отставки высокопоставленного советника — это серьёзный удар по позициям Инфантино.",
-      "category": "politics",
-      "perspective": "Критики ФИФА и фан-сообщества приветствуют решение как победу «футбола для болельщиков, а не для инвесторов». Сторонники коммерциализации спорта считают упущенной возможность привлечь частный капитал. Политически ослабленный Инфантино может столкнуться с новыми призывами к отставке.",
-      "perspective_type": "from_source",
-      "sources": [
-        "BBC",
-        "Le Monde",
-        "NPR",
-        "Tagesschau",
-        "DW",
-        "TASS",
-        "France24",
-        "CBC"
-      ],
-      "links": [
-        "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po",
-        "https://www.lemonde.fr/sport/article/2026/08/01/gianni-infantino-esseule-a-la-fifa-et-conteste-de-toutes-parts-abandonne-son-plan-controverse_6737193_3242.html",
-        "https://www.npr.org/2026/07/31/nx-s1-5915820/fifa-world-cup-gianni-infantino",
-        "https://www.tagesschau.de/sport/fifa-investorenplaene-102.html",
-        "https://www.dw.com/en/fifa-chief-infantino-abandons-world-cup-sell-off-plans-after-backlash/a-78198144",
-        "https://tass.com/sports/2167885",
-        "https://www.france24.com/fr/sports/20260801-cern%C3%A9-par-les-critiques-infantino-renonce-%C3%A0-l-ouverture-de-la-fifa-aux-investisseurs-priv%C3%A9s",
-        "https://www.cbc.ca/sports/soccer/worldcup/fifa-world-cup-stake-proposal-9.7293398"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-01",
-      "id": "9e8a5eaea4fb"
-    },
-    {
-      "title_ru": "Массовый наплыв мигрантов в испанский анклав Сеута: около 60 000 человек за сутки",
-      "title_en": "Mass Migrant Surge Into Spanish Enclave Ceuta: Nearly 60,000 in 24 Hours",
-      "date": "2026-08-01",
-      "summary_en": "Nearly 60,000 migrants, mostly young men seeking work, crossed from Morocco into the Spanish enclave of Ceuta in an unprecedented surge. Spanish PM Pedro Sánchez blamed traffickers and rumours; most migrants have since returned, but the crisis has triggered far-right backlash across Europe and prompted security measures in France and Italy.",
-      "summary": "Около 60 000 мигрантов, преимущественно молодых мужчин, пересекли границу Марокко с испанским анклавом Сеута за сутки — беспрецедентный наплыв. Премьер Испании Педро Санчес обвинил торговцев людьми и ложные слухи; большинство мигрантов уже вернулись, но кризис вызвал резкую реакцию ультраправых по всей Европе и ужесточение мер безопасности во Франции и Италии.",
-      "category": "politics",
-      "perspective": "Ультраправые силы Европы используют кризис для антииммиграционной риторики, называя произошедшее «вторжением». Левые и правозащитники говорят о гуманитарном кризисе. Правительство Испании пытается балансировать между давлением ЕС и отношениями с Марокко. Трамп использовал ситуацию в предвыборной риторике.",
-      "perspective_type": "from_source",
-      "sources": [
-        "Le Monde",
-        "NYT",
-        "France24",
-        "BBC",
-        "DW",
-        "TASS"
-      ],
-      "links": [
-        "https://www.lemonde.fr/international/article/2026/08/01/afflux-de-migrants-a-ceuta-l-espagne-sous-le-feu-de-la-droite-reactionnaire-mondiale_6737180_3210.html",
-        "https://www.nytimes.com/2026/07/31/world/europe/ceuta-morocco-migrants-spain.html",
-        "https://www.france24.com/fr/europe/20260731-rumeurs-appel-d-air-passivit%C3%A9-maroc-comment-expliquer-afflux-in%C3%A9dit-migrants-ceuta-espagne-sanchez",
-        "https://www.bbc.co.uk/news/articles/cx2kp639yx4o",
-        "https://www.dw.com/en/ceuta-spain-says-most-migrants-have-returned-to-morocco/live-78191601",
-        "https://tass.com/world/2167629"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-01",
-      "id": "902abd1c9172"
-    },
-    {
-      "title_ru": "Трамп допустил переход Гренландии под контроль США до конца президентского срока",
-      "title_en": "Trump Says Greenland Could Come Under US Control Before End of His Term",
-      "date": "2026-08-01",
-      "summary_en": "President Donald Trump stated that Greenland could be brought under US control before the end of his presidential term, reiterating his long-standing interest in acquiring the autonomous Danish territory. The remarks, made during a televised cabinet meeting, have reignited diplomatic tensions with Denmark and raised concerns among NATO allies.",
-      "summary": "Дональд Трамп заявил, что Гренландия может перейти под контроль США до окончания его президентского срока, вновь подчеркнув стратегический интерес к автономной датской территории. Заявление прозвучало на первом в истории США телевизионном заседании кабинета министров и вызвало новую волну напряжённости в отношениях с Данией и союзниками по НАТО.",
-      "category": "politics",
-      "perspective": "Американские националисты и сторонники Трампа рассматривают приобретение Гренландии как стратегический шаг в Арктике. Дания и Евросоюз воспринимают заявление как провокационное и нарушающее суверенитет. Россия и Китай внимательно следят за арктическими амбициями США.",
-      "perspective_type": "from_source",
-      "sources": [
-        "Коммерсантъ",
-        "Ведомости",
-        "Lenta.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8860540",
-        "https://www.vedomosti.ru/politics/news/2026/08/01/1218084-tramp-grenlandii",
-        "https://lenta.ru/news/2026/08/01/tramp-posovetoval-postavit-na-perehod-grenlandii-pod-kontrol-ssha-do-kontsa-ego-sroka/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-01",
-      "id": "785aabb1d053"
-    },
-    {
-      "title_ru": "КСИР атаковал танкеры под эскортом США в Ормузском проливе; Трамп созывает кабинет",
-      "title_en": "IRGC Strikes Tankers Under US Escort in Strait of Hormuz; Trump Gathers Cabinet",
-      "date": "2026-07-31",
-      "summary_en": "Iran's IRGC targeted and stopped two oil tankers in the Strait of Hormuz, with Iran striking vessels under US naval escort. The Persian Gulf Strait Authority confirmed Hormuz remains closed. Trump convened his cabinet to discuss the escalating war, as the crisis threatens global oil supply routes and raises fears of direct US-Iran confrontation.",
-      "summary": "Корпус стражей исламской революции Ирана нанёс удары по двум нефтяным танкерам в Ормузском проливе, включая суда под военным эскортом США. Ормузский пролив остаётся закрытым. Трамп собрал кабинет для обсуждения эскалации войны с Ираном — кризис угрожает глобальным поставкам нефти и повышает риск прямого столкновения США и Ирана.",
-      "category": "politics",
-      "perspective": "Ястребы в США требуют более жёсткого ответа Ирану. Иран подаёт свои действия как защиту суверенитета и Ормузского пролива. Мировые рынки и азиатские потребители нефти опасаются затяжного нарушения поставок. Китай и страны Персидского залива ищут дипломатические пути деэскалации.",
-      "perspective_type": "from_source",
-      "sources": [
-        "IRNA",
-        "The Guardian",
-        "Tehran Times",
-        "DW"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86224684/Continued-US-warmongering-will-tighten-Strait-of-Hormuz-closure",
-        "https://en.irna.ir/news/86224310/IRGC-targets-stops-two-violating-oil-tankers-in-Strait-of-Hormuz",
-        "https://www.theguardian.com/world/2026/jul/31/iran-strikes-tankers-us-escort-hormuz-strait-trump-gathers-cabinet",
-        "https://www.tehrantimes.com/news/528743/US-writhes-but-Hormuz-survives-in-Iranian-hands",
-        "https://www.dw.com/en/as-us-iran-war-rages-who-s-risking-the-strait-of-hormuz/a-78130878"
-      ],
-      "is_development": true,
-      "first_reported": "2026-07-31",
-      "id": "2b0ecfcc15e1"
-    },
-    {
-      "title_ru": "Трамп отозвал разрешение на производство ракет Patriot на Украине",
-      "title_en": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles",
-      "date": "2026-07-31",
-      "summary_en": "President Trump reversed his earlier decision to allow Ukraine to manufacture Patriot air defense missiles domestically, citing concerns over licensing and technology security. The reversal is a blow to Kyiv's efforts to build independent defense capabilities amid ongoing Russian missile strikes, which killed nine in Kyiv on August 1.",
-      "summary": "Президент Трамп отменил ранее данное разрешение на производство Украиной зенитных ракет Patriot, сославшись на необходимость осторожного подхода к лицензированию американских вооружений. Это решение стало ударом для Киева, стремящегося к оборонной самостоятельности, на фоне продолжающихся российских ударов — 1 августа баллистические ракеты убили 9 человек в Киеве.",
-      "category": "politics",
-      "perspective": "Сторонники Украины расценивают решение как предательство союзника. Трамп и его база подают это как защиту американских технологий и приоритет внутренних интересов. Россия приветствует ограничение доступа Украины к передовым вооружениям. Европейские союзники обеспокоены сигналом о ненадёжности американских гарантий.",
-      "perspective_type": "from_source",
-      "sources": [
-        "NYT",
-        "France24",
-        "TASS"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html",
-        "https://www.france24.com/fr/am%C3%A9riques/20260731-fabrication-missiles-patriot-donald-trump-revient-sur-feu-vert-accord%C3%A9-ukraine-%C3%A9tats-unis",
-        "https://tass.com/world/2167819"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-31",
-      "id": "9070e5ecbcb1"
-    },
-    {
       "title_ru": "NYT: почему пузырь ИИ может быть не так уж плох",
       "title_en": "Why an A.I. Bubble Might Not Be a Bad Thing",
       "date": "2026-07-30",
@@ -2371,10 +2199,174 @@
       "is_development": false,
       "first_reported": "2026-08-14",
       "id": "97f6e5ebc44c"
+    },
+    {
+      "title_ru": "Трамп заявил о намерении объявить Ормузский пролив территорией США",
+      "title_en": "Trump says he will soon declare the Strait of Hormuz US territory",
+      "date": "2026-08-15",
+      "summary_en": "President Trump said the US would 'soon' declare the Strait of Hormuz US territory, while Iran insisted that no ship can transit Hormuz without authorization. Washington also threatened a response '100 times harder' if Iran strikes, amid the ongoing US-Iran conflict and rising oil prices.",
+      "summary": "Трамп заявил, что США «вскоре» объявят Ормузский пролив своей территорией, тогда как Иран настаивает, что ни одно судно не может проходить через Хормуз без разрешения. Вашингтон также пригрозил ответом «в 100 раз жестче» в случае удара Ирана; заявления звучат на фоне продолжающегося американо-иранского конфликта и роста цен на нефть.",
+      "category": "politics",
+      "perspective": "Администрация Трампа представляет шаг как демонстрацию силы и контроль над стратегическим маршрутом; Иран считает это посягательством на суверенитет и эскалацией; другие державы обеспокоены свободой судоходства и поставками нефти.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The Hindu",
+        "The Guardian",
+        "Tagesschau",
+        "TASS",
+        "IRNA",
+        "Antara News"
+      ],
+      "links": [
+        "https://www.thehindu.com/news/international/trump-says-will-soon-declare-hormuz-strait-us-territory/article71348358.ece",
+        "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
+        "https://www.tagesschau.de/ausland/amerika/trump-hormus-106.html",
+        "https://tass.com/world/2173581",
+        "https://tass.com/world/2173585",
+        "https://en.irna.ir/news/86234748/Iran-No-ship-can-transit-Hormuz-without-authorization",
+        "https://www.antaranews.com/berita/5695675/trump-akan-deklarasi-selat-hormuz-sebagai-wilayah-as"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-15",
+      "id": "63a3b42cf4b3"
+    },
+    {
+      "title_ru": "Масштабные атаки БПЛА на регионы России: ПВО сбила сотни дронов, есть повреждения",
+      "title_en": "Mass drone attacks on Russian regions: air defenses down hundreds of UAVs, damage reported",
+      "date": "2026-08-15",
+      "summary_en": "Russian authorities reported that air defense forces shot down hundreds of Ukrainian drones, including 553 in one night and 221 during the day on August 14, with drones intercepted near Moscow and Sevastopol. Attacks damaged power lines in the Rostov region, set a farm in the Penza region on fire, and earlier damaged a Wildberries warehouse in the Tver region.",
+      "summary": "Российские власти сообщили, что силы ПВО сбили сотни украинских беспилотников: 553 за одну ночь и 221 днём 14 августа, в том числе на подлёте к Москве и в Севастополе. В результате атак повреждены ЛЭП в Ростовской области, загорелось сельхозпредприятие в Пензенской области, ранее был повреждён склад Wildberries в Тверской области.",
+      "category": "politics",
+      "perspective": "Российские официальные источники подают это как успешную работу ПВО и акты агрессии ВСУ; украинская сторона может рассматривать удары как продолжение боевых действий; жители пострадавших регионов озабочены ущербом и безопасностью.",
+      "perspective_type": "assumed",
+      "sources": [
+        "TASS",
+        "Kommersant",
+        "Vedomosti"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/28014649",
+        "https://www.kommersant.ru/doc/8890389",
+        "https://www.kommersant.ru/doc/8890382",
+        "https://www.kommersant.ru/doc/8879237",
+        "https://www.kommersant.ru/doc/8879208",
+        "https://www.vedomosti.ru/politics/news/2026/08/14/1221314-sbili-221-bespilotnik"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-15",
+      "id": "1770b0b8895d"
+    },
+    {
+      "title_ru": "После визита Путина на Курилы Япония грозит санкциями, США выразили солидарность с Токио",
+      "title_en": "After Putin's Kuril Islands visit, Japan threatens sanctions and US voices solidarity with Tokyo",
+      "date": "2026-08-15",
+      "summary_en": "Following Vladimir Putin's trip to the Kuril island of Iturup, Japan said it would consider retaliatory measures and tighten sanctions, while the US stated solidarity with Japan over the islands. Moscow called Tokyo's reaction unacceptable and said the Kurils will remain Russian; Chinese statements after the trip were interpreted by some as a signal to Russia.",
+      "summary": "После поездки Владимира Путина на курильский остров Итуруп Япония заявила о намерении ужесточить санкции и рассмотреть ответные меры, а США выразили солидарность с Токио. Москва назвала реакцию Японии неприемлемой и подчеркнула, что Курилы останутся российскими; в заявлении Китая после визита некоторые увидели сигнал для России.",
+      "category": "politics",
+      "perspective": "Москва считает визит подтверждением российского суверенитета над Курилами; Токио расценивает его как нарушение своей позиции и повод для санкций; США поддерживают Японию, а Китай может использовать ситуацию для балансирования.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Lenta.ru",
+        "Kommersant",
+        "Vedomosti"
+      ],
+      "links": [
+        "https://lenta.ru/news/2026/08/15/iz-rossii-postroili-most-v-severnuyu-koreyu/",
+        "https://www.kommersant.ru/doc/8879232",
+        "https://www.vedomosti.ru/politics/news/2026/08/14/1221089-yaponiya-rassmotrit",
+        "https://www.kommersant.ru/doc/8889879",
+        "https://www.kommersant.ru/doc/8879107",
+        "https://www.kommersant.ru/doc/8878786"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-15",
+      "id": "163dcb27145f"
+    },
+    {
+      "title_ru": "Землетрясение в НТТ: число погибших растёт, угроза цунами миновала, власти координируют восстановление",
+      "title_en": "NTT earthquake: death toll rises, tsunami warning lifted as authorities coordinate recovery",
+      "date": "2026-08-15",
+      "summary_en": "The governor of East Nusa Tenggara said the death toll from the earthquake in Flores had risen, while Indonesia's geophysics agency ended the tsunami early warning after the M7.7 quake near Nagekeo. Authorities were coordinating emergency response and power restoration, and BMKG denied rumors of another major quake on August 15, 2026.",
+      "summary": "Губернатор Восточной Нуса-Тенгары сообщил, что число погибших при землетрясении на Флоресе выросло, а геофизическое агентство Индонезии отменило предупреждение о цунами после землетрясения магнитудой 7,7 у Нагекео. Власти координируют ликвидацию последствий и восстановление электроснабжения; BMKG опровергло слухи о новом крупном землетрясении 15 августа 2026 года.",
+      "category": "politics",
+      "perspective": "Индонезийские власти подчёркивают оперативность реагирования и восстановления; пострадавшие и местные политики могут оценивать достаточность помощи; сейсмологи и агентства акцентируют важность борьбы со слухами.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Antara News"
+      ],
+      "links": [
+        "https://www.antaranews.com/berita/5695713/gubernur-ntt-korban-meninggal-akibat-gempa-di-flores-bertambah",
+        "https://www.antaranews.com/berita/5695625/bmkg-peringatan-dini-tsunami-dinyatakan-berakhir",
+        "https://www.antaranews.com/berita/5695632/bmkg-ntt-isu-gempa-besar-15-agustus-2026-tidak-benar",
+        "https://www.antaranews.com/berita/5695629/pln-siaga-pemulihan-kelistrikan-ntt-pascagempa-m-77-di-nagekeo",
+        "https://www.antaranews.com/berita/5695633/mensesneg-koordinasikan-kesiagaan-pemerintah-pascagempa-ntt"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-15",
+      "id": "bb028d70a11f"
+    },
+    {
+      "title_ru": "Премьер-министр Японии направил ритуальное подношение в храм Ясукуни",
+      "title_en": "Japanese PM sends ritual offering to controversial Yasukuni Shrine",
+      "date": "2026-08-15",
+      "summary_en": "Japan's prime minister sent a ritual offering to the controversial Yasukuni Shrine, a move that has historically drawn criticism from neighboring countries over the shrine's association with Japan's wartime past. The offering was reported around the anniversary of the end of World War II.",
+      "summary": "Премьер-министр Японии направил ритуальное подношение в спорный храм Ясукуни, что традиционно вызывает критику соседних стран из-за ассоциации храма с военным прошлым Японии. Сообщается, что подношение было сделано в годовщину окончания Второй мировой войны.",
+      "category": "politics",
+      "perspective": "В Японии шаг могут представлять как религиозную традицию; Китай и Южная Корея, вероятно, осудят его как пересмотр военной истории; внутри Японии оценки также политически расходятся.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Antara News"
+      ],
+      "links": [
+        "https://www.antaranews.com/berita/5695741/pm-jepang-kirim-persembahan-ritual-ke-kuil-yasukuni-yang-kontroversial"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-15",
+      "id": "cf99b8a8460e"
+    },
+    {
+      "title_ru": "Reuters: Apple создает специальную ИИ-модель для Китая",
+      "title_en": "Reuters: Apple is developing a special AI model for China",
+      "date": "2026-08-14",
+      "summary_en": "Reuters reported that Apple is creating a special AI model for China. The report was carried by Kommersant.",
+      "summary": "По данным Reuters, Apple создает специальную ИИ-модель для Китая. Сообщение опубликовал «Коммерсантъ».",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Kommersant"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8889788"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-14",
+      "id": "f45214492031"
+    },
+    {
+      "title_ru": "Новый дата-центр Amazon вызывает опасения как самая загрязняющая электростанция в США",
+      "title_en": "New Amazon data center stokes worry it would be the most polluting power plant in the US",
+      "date": "2026-08-10",
+      "summary_en": "A new Amazon data center has raised concerns that it would be the most polluting power plant in the United States. Deutsche Welle noted that US citizens are ramping up pressure on data centers.",
+      "summary": "Новый дата-центр Amazon вызвал опасения, что он станет самой загрязняющей электростанцией в США. Deutsche Welle отметила, что американцы усиливают давление на операторов дата-центров.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "The New York Times",
+        "Deutsche Welle"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+        "https://www.dw.com/en/us-citizens-are-ramping-up-pressure-on-data-centers/a-78064418?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-10",
+      "id": "810548e25e42"
     }
   ],
   "_stats": {
-    "total_tokens": 857339,
-    "total_cost": 96.4331
+    "total_tokens": 886379,
+    "total_cost": 100.179548
   }
 }
