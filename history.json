@@ -1,174 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "NYT: почему пузырь ИИ может быть не так уж плох",
-      "title_en": "Why an A.I. Bubble Might Not Be a Bad Thing",
-      "date": "2026-07-30",
-      "summary_en": "The New York Times examines the AI investment boom and argues that even if current venture capital flows into artificial intelligence constitute a bubble, the infrastructure and talent being built — data centers, chips, skilled workforce — may outlast any market correction, echoing patterns from the dot-com era.",
-      "summary": "The New York Times анализирует бум инвестиций в ИИ и утверждает, что даже если текущие вливания венчурного капитала являются пузырём, создаваемая инфраструктура — дата-центры, чипы, квалифицированные кадры — может пережить рыночную коррекцию, как это было в эпоху доткомов.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "NYT"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/07/30/technology/ai-bubble-venture-capital.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-07-30",
-      "id": "d49256180420"
-    },
-    {
-      "title_ru": "ВВС Индонезии получили новые транспортные самолёты отечественного производства",
-      "title_en": "Indonesian Air Force Receives New Domestically-Made Transport Aircraft",
-      "date": "2026-08-01",
-      "summary_en": "The Indonesian Air Force (TNI AU) has been reinforced with new domestically manufactured transport aircraft, marking a significant step in the country's aerospace industrial capabilities and efforts to reduce reliance on foreign military imports.",
-      "summary": "Военно-воздушные силы Индонезии (TNI AU) пополнились новыми транспортными самолётами отечественного производства — важный шаг в развитии национальной аэрокосмической промышленности и снижении зависимости от импорта военной техники.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Antara News"
-      ],
-      "links": [
-        "https://www.antaranews.com/berita/5675611/tni-au-diperkuat-pesawat-angkut-baru-buatan-dalam-negeri"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-01",
-      "id": "82fa8687433f"
-    },
-    {
-      "title_ru": "Массированная атака БПЛА на Россию: 635 дронов сбито за ночь, пожары и жертвы",
-      "title_en": "Massive Ukrainian Drone Attack on Russia: 635 UAVs Destroyed, Wildberries Warehouse Ablaze, 2 Dead in Saratov",
-      "date": "2026-08-02",
-      "summary_en": "Russia's Defense Ministry reported the destruction of 635 Ukrainian drones overnight in one of the largest coordinated attacks to date. Multiple regions were struck: a Wildberries warehouse caught fire in Samara, two civilians died and an apartment building was damaged in Saratov. Drone threat alerts were declared in Tatarstan, Udmurtia, and Belgorod, Kaluga, Orenburg, and Rostov regions. The attack marks a significant escalation in the scale and geographic spread of Ukrainian UAV strikes deep into Russian territory.",
-      "summary": "В ночь на 2 августа Минобороны РФ отчиталось об уничтожении силами ПВО 635 украинских БПЛА — одна из крупнейших скоординированных атак. В Самарской области загорелся склад Wildberries, в Саратовской — два человека погибли, повреждён многоквартирный дом. Угроза атаки БПЛА объявлялась в Татарстане, Удмуртии, Белгородской, Калужской, Оренбургской и Ростовской областях. Атака знаменует существенную эскалацию по масштабу и географии ударов вглубь территории РФ.",
-      "category": "politics",
-      "perspective": "Российские власти: свидетельство необходимости усиления ПВО и продолжения СВО. Украинская сторона: демонстрация растущей способности наносить удары вглубь РФ. Западные союзники Украины: фактор эскалации, ставящий под вопрос перспективы деэскалации. Для бизнеса (Wildberries): уязвимость критической инфраструктуры.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Kommersant",
-        "TASS",
-        "Lenta.ru",
-        "Vedomosti"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8860765",
-        "https://tass.ru/proisshestviya/27975269",
-        "https://tass.ru/proisshestviya/27975375",
-        "https://tass.ru/proisshestviya/27975407",
-        "https://lenta.ru/news/2026/08/02/minoborony-opublikovalo-zayavlenie-o-nochnoy-atake-vsu/",
-        "https://www.kommersant.ru/doc/8860767",
-        "https://www.kommersant.ru/doc/8860770"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-02",
-      "id": "7a9d63e67317"
-    },
-    {
-      "title_ru": "Трамп отменил удары по Ирану ради сделки с Тегераном",
-      "title_en": "Trump Cancels Planned Strikes on Iran, Pending a Rapid Deal",
-      "date": "2026-08-02",
-      "summary_en": "President Trump announced he is canceling planned major U.S. strikes on Iran, saying Tehran and regional countries requested a pause to pursue a negotiated deal. The Guardian reports Saudi Arabia's crown prince expressed alarm over U.S. strike plans. The decision follows days of escalation that included Iranian strikes on U.S.-escorted tankers in the Strait of Hormuz and U.S. warnings of imminent action.",
-      "summary": "Дональд Трамп заявил об отмене запланированных масштабных ударов по Ирану — по его словам, Тегеран и страны региона попросили паузу для заключения сделки. The Guardian сообщает, что наследный принц Саудовской Аравии выразил обеспокоенность американскими планами. Решение принято после дней эскалации: иранских ударов по танкерам под эскортом США в Ормузском проливе и предупреждений Вашингтона о неминуемых действиях.",
-      "category": "politics",
-      "perspective": "Сторонники Трампа: дипломатическая гибкость и готовность к миру. Критики: нерешительность после прямых атак на американские силы. Саудовская Аравия и региональные союзники: желанная деэскалация. Иран: тактическая победа — удары возымели сдерживающий эффект. Израиль: может рассматривать как ослабление американских гарантий безопасности.",
-      "perspective_type": "from_source",
-      "sources": [
-        "NYT",
-        "The Guardian",
-        "BBC",
-        "DW",
-        "Le Monde",
-        "France24",
-        "TASS",
-        "Tagesschau",
-        "The Hindu",
-        "Kommersant"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
-        "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran",
-        "https://www.bbc.co.uk/news/articles/cjwx74qgld2o",
-        "https://www.dw.com/en/no-new-iran-strikes-for-now-amid-deal-hopes-trump/live-78201442",
-        "https://www.kommersant.ru/doc/8860754",
-        "https://tass.com/world/2168065",
-        "https://www.tagesschau.de/ausland/amerika/trump-iran-216.html"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-02",
-      "id": "d739a485cbe7"
-    },
-    {
-      "title_ru": "Российские ракеты убили 9 человек в Киеве после отказа Трампа от обязательств по ПВО",
-      "title_en": "Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge",
-      "date": "2026-08-01",
-      "summary_en": "Russian missile strikes killed 9 people in Kyiv, according to the New York Times, shortly after President Trump withdrew authorization for Patriot missile production in Ukraine. The attack underscores the immediate consequences of diminishing U.S. air-defense support, as Ukraine faces intensified Russian aerial bombardment.",
-      "summary": "Российские ракетные удары унесли жизни 9 человек в Киеве вскоре после того, как Трамп отозвал разрешение на производство ракет Patriot на Украине, сообщает NYT. Атака подчёркивает непосредственные последствия сокращения американской поддержки ПВО на фоне усиливающихся российских бомбардировок украинских городов.",
-      "category": "politics",
-      "perspective": "Администрация Трампа: может представить как аргумент за скорейшее мирное урегулирование. Украинское руководство: прямое следствие ослабления поддержки США. Европейские союзники: сигнал к наращиванию собственных поставок ПВО. Россия: подтверждение эффективности стратегии на фоне раскола между Украиной и США.",
-      "perspective_type": "from_source",
-      "sources": [
-        "NYT"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-01",
-      "id": "cc5f9bb25046"
-    },
-    {
-      "title_ru": "Израиль бомбит Газу после объявления Трампом сделки о прекращении огня",
-      "title_en": "Israel Bombards Gaza Days After Trump Announced Cease-Fire Deal",
-      "date": "2026-08-01",
-      "summary_en": "Israel conducted heavy bombardment of Gaza just days after President Trump announced a deal to advance a cease-fire and Hamas disarmament, the New York Times reports. Hamas claims it has already fulfilled all obligations under the agreement. The escalation raises questions about whether both sides will comply with the framework Trump unveiled.",
-      "summary": "Израиль нанёс массированные удары по Газе спустя несколько дней после того, как Трамп объявил о сделке по продвижению прекращения огня и разоружению ХАМАС, сообщает NYT. ХАМАС заявляет, что уже выполнил все обязательства по соглашению. Эскалация ставит под вопрос готовность обеих сторон соблюдать условия, анонсированные Трампом.",
-      "category": "politics",
-      "perspective": "Администрация Трампа: удар по дипломатическому авторитету — сделка буксует сразу после объявления. Израиль: военное давление как способ принудить ХАМАС к выполнению условий. ХАМАС: позиционирует себя как выполнившую обязательства сторону. Региональные посредники: риск полного срыва перемирия.",
-      "perspective_type": "from_source",
-      "sources": [
-        "NYT",
-        "TASS"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
-        "https://tass.com/world/2167983"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-01",
-      "id": "1c9308e52e92"
-    },
-    {
-      "title_ru": "Кризис в Сеуте: большинство мигрантов вернулись в Марокко, Испания устанавливает плавучий барьер",
-      "title_en": "Ceuta Migrant Crisis Update: Most Return to Morocco, Spain Installs Floating Barrier, EU to Meet",
-      "date": "2026-08-02",
-      "summary_en": "After the unprecedented influx of nearly 50,000 migrants into the Spanish exclave of Ceuta, the vast majority have returned to Morocco, citing hunger and hostility. Spain has installed a floating barrier to deter future crossings, and the EU has called an emergency meeting for Tuesday. At least 57 people died during the mass crossing. Far-right parties across Europe are seizing on the incident politically.",
-      "summary": "После беспрецедентного наплыва почти 50 000 мигрантов в испанский анклав Сеута подавляющее большинство вернулось в Марокко, ссылаясь на голод и враждебность. Испания установила плавучий барьер, ЕС созывает экстренное заседание во вторник. При переходе погибли не менее 57 человек. Ультраправые партии Европы активно используют инцидент в политических целях.",
-      "category": "politics",
-      "perspective": "Правительство Испании (Санчес): крупнейший внутриполитический вызов — необходимость баланса между гуманитарными обязательствами и жёстким пограничным контролем. Ультраправые: подтверждение необходимости закрытия границ. Марокко: вернуло мигрантов, сохраняя рычаги давления на ЕС. Евросоюз: необходимость пересмотра механизмов реагирования на массовые миграционные кризисы.",
-      "perspective_type": "from_source",
-      "sources": [
-        "NYT",
-        "France24",
-        "The Guardian",
-        "DW",
-        "NPR",
-        "CBC"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/08/02/world/europe/ceuta-spain-morocco-migrant-holdouts-beach.html",
-        "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html",
-        "https://www.france24.com/fr/europe/20260801-ceuta-la-quasi-totalit%C3%A9-des-migrants-sont-repartis-au-maroc-l-ue-se-r%C3%A9unit-mardi-%C3%A0-ce-sujet",
-        "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
-        "https://www.dw.com/en/spain-s-pm-visits-ceuta-after-thousands-breached-border/a-78187002"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-02",
-      "id": "0a86c337ab29"
-    },
-    {
       "title_ru": "Кризис немецкого автопрома: BMW, Volkswagen и Mercedes сокращают производство и персонал",
       "title_en": "German Auto Industry Crisis: BMW, Volkswagen, Mercedes Cut Production and Jobs",
       "date": "2026-08-02",
@@ -2363,10 +2195,156 @@
       "is_development": false,
       "first_reported": "2026-08-10",
       "id": "810548e25e42"
+    },
+    {
+      "title_ru": "Индонезия отмечает 81-ю годовщину независимости",
+      "title_en": "Indonesia marks 81st anniversary of independence",
+      "date": "2026-08-17",
+      "summary_en": "President Prabowo Subianto led the Proclamation Seconds ceremony and read the Proclamation text as Indonesia marked its 81st Independence Day. Former presidents Megawati Soekarnoputri and Joko Widodo attended ceremonies, while the government stressed acceleration of earthquake response in NTT and remissions were granted to 174,791 prisoners.",
+      "summary": "Президент Прабово Субианто возглавил церемонию «секунд Прокламации» и зачитал текст Прокламации в честь 81-й годовщины независимости. Бывшие президенты Мегавати Сукарнопутри и Джоко Видодо присутствовали на церемониях; правительство подчеркнуло ускорение помощи пострадавшим от землетрясения в НТТ, а 174 791 заключённый получил ремиссию.",
+      "category": "politics",
+      "perspective": "Правительство делает акцент на единстве, ускорении помощи пострадавшим от землетрясения в НТТ и символических жестах; спикеры, близкие к правозащитной повестке, призывают распространить «дух независимости» на конфликтные регионы.",
+      "perspective_type": "from_source",
+      "sources": [
+        "Antara News"
+      ],
+      "links": [
+        "https://www.antaranews.com/berita/5697835/presiden-prabowo-bacakan-teks-proklamasi-dalam-upacara-hut-ke-81-ri",
+        "https://www.antaranews.com/berita/5697828/jokowi-menghadiri-upacara-hut-ri-mengenakan-busana-adat-bali",
+        "https://www.antaranews.com/berita/5697841/megawati-pimpin-peringatan-hut-ke-81-ri-di-lenteng-agung",
+        "https://www.antaranews.com/berita/5697879/hut-ke-81-ri-pemerintah-tegaskan-percepatan-penanganan-gempa-m77-ntt",
+        "https://www.antaranews.com/berita/5697849/174791-narapidana-dan-anak-binaan-se-indonesia-terima-remisi-hut-ri"
+      ],
+      "first_reported": "2026-08-17",
+      "id": "856e07617758"
+    },
+    {
+      "title_ru": "Трамп приказал сократить военные учения США с Южной Кореей",
+      "title_en": "Trump orders scaling back of US-South Korea military drills",
+      "date": "2026-08-17",
+      "summary_en": "Donald Trump ordered the Pentagon to scale back joint military exercises with South Korea, citing the relationship with Kim Jong-un and Pyongyang. The move was reported after South Korea stayed out of the Iran war, and comes amid warnings about North Korea's growing battlefield experience.",
+      "summary": "Дональд Трамп распорядился сократить совместные военные учения с Южной Кореей, сославшись на отношения с Ким Чен Ыном и Пхеньяном. Решение принято на фоне того, что Сеул не участвовал в войне с Ираном, и сопровождается предупреждениями о растущем боевом опыте КНДР.",
+      "category": "politics",
+      "perspective": "Союзники и критики могут рассматривать это как ослабление сдерживания КНДР; сторонники разрядки и администрация Трампа подают шаг как жест доброй воли в адрес Пхеньяна.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The Guardian",
+        "BBC News",
+        "TASS"
+      ],
+      "links": [
+        "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
+        "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+        "https://tass.com/world/2173939"
+      ],
+      "first_reported": "2026-08-17",
+      "id": "af3d141c5684"
+    },
+    {
+      "title_ru": "Массированные атаки БПЛА на регионы России: рекордное число сбитых дронов и жертвы",
+      "title_en": "Massive UAV attacks on Russian regions: record interceptions and civilian casualties",
+      "date": "2026-08-17",
+      "summary_en": "Russian air defenses reported downing record numbers of Ukrainian drones, including 822 overnight and 1,478 over 24 hours, with dozens more shot down in subsequent waves. Civilian deaths and injuries were reported in the Rostov, Moscow, Belgorod and Kherson regions, and a couple was killed in Kherson region in a UAV strike on a car.",
+      "summary": "Российские ПВО отчитались о рекордном числе сбитых украинских дронов — 822 за ночь и 1478 за сутки, десятки БПЛА уничтожались последующими волнами. В Ростовской, Московской, Белгородской и Херсонской областях сообщалось о погибших и пострадавших; в Херсонской области при ударе БПЛА по автомобилю погибла супружеская пара.",
+      "category": "politics",
+      "perspective": "Официальные сводки подчёркивают эффективность ПВО; региональные власти фиксируют жертвы и разрушения, что создаёт контраст между военными успехами и гражданскими потерями.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Коммерсантъ",
+        "Ведомости",
+        "Лента.ру"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8890626",
+        "https://www.kommersant.ru/doc/8890685",
+        "https://www.kommersant.ru/doc/8890891",
+        "https://www.vedomosti.ru/politics/news/2026/08/16/1221418-tri-cheloveka-pogibli"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-17",
+      "id": "527bb2132f24"
+    },
+    {
+      "title_ru": "США и Иран пропустили срок заключения широкого соглашения о прекращении войны",
+      "title_en": "US and Iran miss deadline for broad deal to end war",
+      "date": "2026-08-17",
+      "summary_en": "The US and Iran blew through a deadline to agree on a broad deal to end their war, the New York Times reported, as the conflict shifts into an economic battle. Iranian officials continue to present the signed MoU as a diplomatic victory pursued with dignity and say Iran will win the economic war.",
+      "summary": "США и Иран не уложились в срок согласования широкой сделки о прекращении войны, сообщила The New York Times; конфликт переходит в экономическую плоскость. Иранские официальные лица называют подписанный меморандум дипломатической победой и заявляют, что Иран выиграет экономическую войну.",
+      "category": "politics",
+      "perspective": "Американская сторона и скептики могут указывать на срыв дедлайна; иранские власти подают меморандум как победу и обещают выстоять в экономическом противостоянии.",
+      "perspective_type": "from_source",
+      "sources": [
+        "The New York Times",
+        "Tehran Times",
+        "IRNA"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html",
+        "https://www.tehrantimes.com/news/529129/Iran-US-agreement-pursued-with-dignity-and-strength-President",
+        "https://en.irna.ir/news/86237284/Iran-will-win-economic-war-as-it-did-on-battlefield-Vice-president"
+      ],
+      "first_reported": "2026-08-17",
+      "id": "6645fcfeb63b"
+    },
+    {
+      "title_ru": "Лула начинает борьбу за четвёртый президентский срок; основной соперник — Флавиу Болсонару",
+      "title_en": "Lula launches fourth-term bid as Flávio Bolsonaro emerges as rival",
+      "date": "2026-08-16",
+      "summary_en": "Brazil's Luiz Inácio Lula da Silva launched his campaign for a historic fourth presidential term, with Flávio Bolsonaro, son of jailed former president Jair Bolsonaro, standing as a key rival. The electoral court also ordered the removal of a video that linked Lula to criminal factions PCC and CV.",
+      "summary": "Луис Инасиу Лула да Силва начал кампанию за исторический четвёртый президентский срок; ключевым соперником выступает Флавиу Болсонару, сын находящегося в заключении экс-президента Жаира Болсонару. Избирательный суд также обязал удалить видео, связывающее Лулу с преступными группировками PCC и CV.",
+      "category": "politics",
+      "perspective": "Левые и сторонники Лулы видят в кампании продолжение социального курса; правые и болсонаристы консолидируются вокруг сына экс-президента; избирательная юстиция действует против дезинформации.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The Guardian",
+        "Agência Brasil"
+      ],
+      "links": [
+        "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
+        "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tse-determina-remocao-de-video-que-associa-lula-ao-pcc-e-ao-cv"
+      ],
+      "first_reported": "2026-08-16",
+      "id": "07f8b0f9ad9d"
+    },
+    {
+      "title_ru": "Доклад в поддержку запрета соцсетей для подростков в Австралии, вероятно, содержит ИИ-галлюцинации",
+      "title_en": "Report backing Australia's teen social media ban appears to contain AI hallucinations",
+      "date": "2026-08-17",
+      "summary_en": "An Australian Senate hearing was told that a report supporting the country's teen social media ban appears to contain AI-generated hallucinations, The Guardian reported. The testimony concerned the reliability of the report's content.",
+      "summary": "На слушаниях в Сенате Австралии было заявлено, что доклад, поддерживающий запрет соцсетей для подростков, по-видимому, содержит галлюцинации, сгенерированные ИИ. Показания касались достоверности содержания доклада.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "The Guardian"
+      ],
+      "links": [
+        "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb"
+      ],
+      "first_reported": "2026-08-17",
+      "id": "fcad19de6380"
+    },
+    {
+      "title_ru": "Биомедицинская независимость: от ИИ до нанотехнологий",
+      "title_en": "Biomedical independence: from AI to nanotechnology",
+      "date": "2026-08-17",
+      "summary_en": "Indonesia's Antara News published a feature on biomedical independence, discussing the role of advanced technologies from AI to nanotechnology. The article ties the theme of technological self-reliance in biomedicine to Indonesia's Independence Day.",
+      "summary": "Индонезийское агентство Antara News опубликовало материал о биомедицинской независимости, рассматривающий роль передовых технологий — от ИИ до нанотехнологий. Статья связывает тему технологической самодостаточности в биомедицине с Днём независимости Индонезии.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Antara News"
+      ],
+      "links": [
+        "https://www.antaranews.com/berita/5697860/kemerdekaan-biomedis-dari-ai-hingga-nanoteknologi"
+      ],
+      "first_reported": "2026-08-17",
+      "id": "4570e800b92d"
     }
   ],
   "_stats": {
-    "total_tokens": 886379,
-    "total_cost": 100.179548
+    "total_tokens": 915176,
+    "total_cost": 103.725044
   }
 }
