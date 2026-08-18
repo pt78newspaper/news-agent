@@ -1,170 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Кризис немецкого автопрома: BMW, Volkswagen и Mercedes сокращают производство и персонал",
-      "title_en": "German Auto Industry Crisis: BMW, Volkswagen, Mercedes Cut Production and Jobs",
-      "date": "2026-08-02",
-      "summary_en": "The German automotive industry — long a pillar of the national economy and psyche — is undergoing severe contraction. NYT and DW report that BMW, Volkswagen, and Mercedes are cutting production capacity and shedding jobs amid shifting global demand, competition from Chinese EV makers, and high energy costs. The crisis is fueling a broader debate about German deindustrialization.",
-      "summary": "Немецкая автомобильная промышленность — долгое время опора национальной экономики и самосознания — переживает глубокий кризис. NYT и DW сообщают, что BMW, Volkswagen и Mercedes сокращают производственные мощности и персонал на фоне меняющегося глобального спроса, конкуренции со стороны китайских производителей электромобилей и высоких цен на энергию. Кризис подпитывает дискуссию о деиндустриализации Германии.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "NYT",
-        "DW"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html",
-        "https://www.dw.com/en/bmw-to-volkswagen-how-deep-is-germany-s-auto-industry-cull/a-78168695"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-02",
-      "id": "ddff7993130e"
-    },
-    {
-      "title_ru": "Электромобили и гибриды приблизились к половине продаж новых автомобилей в Австралии на фоне топливного кризиса",
-      "title_en": "EVs and Hybrids Approach Half of Australian New Car Sales Amid Fuel Crisis",
-      "date": "2026-08-02",
-      "summary_en": "Electric vehicles and hybrids accounted for nearly 50% of new car sales in Australia in the April-June quarter, driven by an ongoing fuel crisis and soaring petrol prices approaching $2 per litre. The shift marks a dramatic acceleration in Australia's energy transition for transportation, traditionally a market dominated by fuel-intensive vehicles.",
-      "summary": "Электромобили и гибриды составили почти 50% продаж новых автомобилей в Австралии в апреле-июне на фоне продолжающегося топливного кризиса и цен на бензин, приближающихся к $2 за литр. Резкий сдвиг знаменует ускорение энергетического перехода на транспорте в стране, традиционно зависимой от топливоёмких автомобилей.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The Guardian"
-      ],
-      "links": [
-        "https://www.theguardian.com/australia-news/2026/aug/02/ev-hybrids-almost-half-australian-new-car-sales-april-june-fuel-crisis",
-        "https://www.theguardian.com/australia-news/2026/aug/01/petrol-prices-on-track-to-top-2-a-litre-as-bowen-sounds-death-knell-for-fuel-excise-relief"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-02",
-      "id": "d09502757a57"
-    },
-    {
-      "title_ru": "Трамп анонсировал переговоры США и Ирана на 3 августа; Пезешкиан требует соблюдения меморандума",
-      "title_en": "Trump Announces US-Iran Talks for August 3; Pezeshkian Demands Memorandum Compliance",
-      "date": "2026-08-03",
-      "summary_en": "President Trump announced that US-Iran negotiations will begin on Monday, August 3, after previously canceling planned military strikes. Iranian President Pezeshkian called on the US to strictly adhere to the signed memorandum, stating that compliance must be ensured. According to AP, the main agenda item is the framework for a ceasefire and nuclear program limitations.",
-      "summary": "Президент Трамп объявил о начале переговоров США и Ирана в понедельник 3 августа — ранее он отменил запланированные военные удары, а теперь анонсировал дипломатический трек. Президент Ирана Пезешкиан призвал США неукоснительно соблюдать условия подписанного меморандума. По данным AP, главной темой переговоров станут параметры прекращения огня и ограничения ядерной программы.",
-      "category": "politics",
-      "perspective": "Сторонники Трампа в США подают это как дипломатическую победу в духе «мир через силу»; демократы критикуют хаотичность — от приказа об ударах до переговоров за 48 часов. Иранские консерваторы видят подтверждение эффективности жёсткой линии, реформисты — шанс на деэскалацию. Израиль и страны Персидского залива выражают скепсис: по данным СМИ, Эр-Рияд предостерёг Вашингтон от дальнейшей эскалации.",
-      "perspective_type": "from_source",
-      "sources": [
-        "BBC",
-        "IRNA",
-        "TASS",
-        "Kommersant",
-        "Belta",
-        "Ukrainska Pravda"
-      ],
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c23579jzv08o",
-        "https://en.irna.ir/news/86226437/Pezeshkian-We-must-ensure-other-side-adheres-to-memorandum-they",
-        "https://tass.ru/mezhdunarodnaya-panorama/27977217",
-        "https://www.kommersant.ru/doc/8861063",
-        "https://belta.by/world/view/tramp-zajavil-chto-ssha-i-iran-provedut-peregovory-3-avgusta-794204-2026/",
-        "https://www.pravda.com.ua/news/2026/08/03/8046954/"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-03",
-      "id": "d888268ccb83"
-    },
-    {
-      "title_ru": "Новая волна атак БПЛА на логистические склады Wildberries: пожары во Владимирской, Самарской и Волгоградской областях",
-      "title_en": "New Wave of Drone Strikes Hits Wildberries Logistics Hubs Across Russia: Fires in Vladimir, Samara, and Volgograd Regions",
-      "date": "2026-08-03",
-      "summary_en": "A coordinated wave of drone attacks targeted Wildberries logistics warehouses across multiple Russian regions. On August 3, a warehouse in Vladimir region caught fire after a drone strike, injuring at least two people. Similar attacks hit facilities in Samara region (August 2) and Volgograd (July 31). Wildberries evacuated personnel and restructured supply chains, while authorities opened a terrorism investigation.",
-      "summary": "Скоординированная волна атак БПЛА на логистические склады Wildberries в нескольких регионах России. 3 августа загорелся склад во Владимирской области — ранены как минимум двое; ранее удары пришлись по объектам в Самарской (2 августа) и Волгоградской (31 июля) областях. Компания эвакуировала персонал и перестроила цепочки поставок; прокуратура контролирует соблюдение прав пострадавших.",
-      "category": "politics",
-      "perspective": "Российские власти квалифицируют атаки как терроризм против гражданской инфраструктуры и возбуждают уголовные дела. Украинская сторона может рассматривать логистические центры как законные военные цели. Международные наблюдатели отмечают расширение географии ударов вглубь территории РФ и целенаправленный выбор объектов экономической инфраструктуры.",
-      "perspective_type": "assumed",
-      "sources": [
-        "TASS",
-        "Kommersant",
-        "Vedomosti",
-        "Lenta.ru"
-      ],
-      "links": [
-        "https://tass.ru/proisshestviya/27977267",
-        "https://www.kommersant.ru/doc/8861179",
-        "https://www.vedomosti.ru/politics/news/2026/08/03/1218307-sklad-wildberries-zagorelsya",
-        "https://lenta.ru/news/2026/08/03/v-wildberries-soobschili-ob-evakuatsii-lyudey-so-sklada-vo-vladimirskoy-oblasti/"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-03",
-      "id": "62f86f00a5d8"
-    },
-    {
-      "title_ru": "Трое погибших при ударе ВСУ по Крыму: в Ялте повреждён многоэтажный жилой дом",
-      "title_en": "Three Killed in Ukrainian Strike on Crimea: Residential High-Rise Damaged in Yalta",
-      "date": "2026-08-03",
-      "summary_en": "At least three people were killed in a strike on Crimea, with a multi-story residential building hit in Yalta. One injured person has been discharged from hospital. Simultaneously, Russian air defenses reported engaging drones across Belgorod, Voronezh, and Ivanovo regions. A child was killed by a drone strike near a playground in Belgorod region on August 2.",
-      "summary": "Не менее трёх человек погибли в результате удара по Крыму: в Ялте повреждён многоэтажный жилой дом, один пострадавший выписан из больницы. Параллельно ПВО отражала атаки в Белгородской, Воронежской и Ивановской областях. Днём ранее, 2 августа, ребёнок погиб при ударе БПЛА рядом с детской площадкой в Белгородской области.",
-      "category": "politics",
-      "perspective": "Россия расценивает удары по Крыму как атаку на суверенную территорию и акт террора против мирного населения; СКР систематически возбуждает дела о терактах. Украина и её союзники рассматривают Крым как оккупированную территорию, а военные объекты на полуострове — как законные цели. Правозащитные организации выражают озабоченность ростом жертв среди гражданского населения с обеих сторон.",
-      "perspective_type": "assumed",
-      "sources": [
-        "TASS",
-        "Lenta.ru",
-        "Kommersant"
-      ],
-      "links": [
-        "https://tass.ru/proisshestviya/27977311",
-        "https://lenta.ru/news/2026/08/03/vlasti-soobschili-o-treh-zhertvah-udara-vsu-po-krymu/",
-        "https://www.kommersant.ru/doc/8861030"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-03",
-      "id": "1d7ebbff8485"
-    },
-    {
-      "title_ru": "Дипломатическое наступление Ирана: консультации с Саудовской Аравией, Ираком и Пакистаном; Ормузский пролив не вернётся к довоенному статусу",
-      "title_en": "Iran's Diplomatic Offensive: Consultations with Saudi Arabia, Iraq, and Pakistan; Hormuz Strait 'Will Not Return to Pre-War Status'",
-      "date": "2026-08-03",
-      "summary_en": "Iranian Foreign Minister held urgent consultations with Saudi, Iraqi, and Pakistani officials amid escalating tensions with the US. Iranian spokesman Baqaei declared that the Hormuz Strait 'will not return to pre-war status,' signaling a strategic shift. The IRGC warned that Hamas disarmament efforts are 'doomed to fail,' while Iran's acting defense minister stated that space, intelligence, and defense economy are key to future military strategy.",
-      "summary": "Глава МИД Ирана провёл срочные консультации с представителями Саудовской Аравии, Ирака и Пакистана на фоне эскалации с США. Официальный представитель Ирана Бакаи заявил, что Ормузский пролив «не вернётся к довоенному статусу». КСИР предостерёг, что попытки разоружения ХАМАС обречены на провал, а и.о. министра обороны назвал космос, разведку и оборонную экономику ключом к будущей военной стратегии.",
-      "category": "politics",
-      "perspective": "Иран подаёт дипломатическую активность как формирование единого регионального фронта против давления США. Для Саудовской Аравии и других стран Залива это сложный баланс: союз с США против нежелания быть втянутыми в конфликт (по данным источников, страны Залива «разочарованы непоследовательностью США»). Западные аналитики видят в заявлениях об Ормузском проливе сигнал о готовности Тегерана к долгосрочному нарушению свободы судоходства.",
-      "perspective_type": "from_source",
-      "sources": [
-        "IRNA",
-        "Tehran Times",
-        "Belta"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86226573/Iran-Iraq-foreign-ministers-discuss-regional-developments",
-        "https://en.irna.ir/news/86226569/Iran-FM-holds-fresh-diplomatic-consultations-with-Saudi-Pakistani",
-        "https://en.irna.ir/news/86226412/Baqaei-Hormuz-Strait-not-to-return-to-pre-war-status",
-        "https://www.tehrantimes.com/news/528814/Hamas-disarmament-efforts-are-doomed-to-fail-IRGC-says",
-        "https://belta.by/world/view/strany-persidskogo-zaliva-razocharovany-neposledovatelnostjju-ssha-v-otnoshenii-irana-smi-794188-2026/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-03",
-      "id": "46725263f0d5"
-    },
-    {
-      "title_ru": "Партия трудящихся Бразилии официально выдвинула Лулу да Силву кандидатом в президенты на выборах 2026 года",
-      "title_en": "Brazil's Workers' Party Officially Nominates Lula da Silva for 2026 Presidential Election",
-      "date": "2026-08-02",
-      "summary_en": "Brazil's Workers' Party (PT) officially nominated former president Luiz Inácio Lula da Silva as its candidate for the 2026 presidential election. The Democrat party (Democrata) nominated Wilson Grassi Júnior as its candidate. Women's movements held street demonstrations demanding a vote on the anti-misogyny bill, leveraging the pre-election momentum.",
-      "summary": "Партия трудящихся (PT) Бразилии официально выдвинула бывшего президента Лулу да Силву кандидатом на президентских выборах 2026 года. Партия «Демократа» выдвинула Уилсона Грасси Жуниора. Женские движения провели уличные акции с требованием голосования по законопроекту против мизогинии, используя предвыборный момент для продвижения законодательной повестки.",
-      "category": "politics",
-      "perspective": "Левые силы Бразилии консолидируются вокруг Лулы — для них это шанс на реванш после импичмента Дилмы Русеф и периода правления Болсонару. Правая оппозиция критикует PT за коррупционные скандалы и экономическую политику прошлых сроков. Женские и правозащитные движения используют предвыборный период для продвижения своей повестки, что характерно для бразильской политической традиции.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Agência Brasil"
-      ],
-      "links": [
-        "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/pt-oficializa-candidatura-de-lula-presidencia",
-        "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/democrata-define-wilson-grassi-junior-candidato-presidencia",
-        "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/mulheres-vao-ruas-pela-votacao-do-pl-da-misoginia"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-02",
-      "id": "7e6955c44381"
-    },
-    {
       "title_ru": "Google отключил ИИ-генератор спутниковых снимков Nano Banana спустя сутки после запуска из-за фейковых изображений",
       "title_en": "Google Disables AI Satellite Image Generator Nano Banana After It Enabled Spoofing of Disaster and Attack Aftermaths",
       "date": "2026-08-02",
@@ -2341,10 +2177,158 @@
       ],
       "first_reported": "2026-08-17",
       "id": "4570e800b92d"
+    },
+    {
+      "title_ru": "Попытка атаки БПЛА на Москву стала самой крупной за два года",
+      "title_en": "Drone attack on Moscow called largest in two years",
+      "date": "2026-08-18",
+      "summary_en": "In the early hours of August 18, Ukrainian drones carried out what Russian sources described as the largest attempted attack on Moscow in two years; air defenses reported shooting down more than 150 drones over Moscow region, including 97 on approach to the city. The attack caused fires at an apartment building and a Wildberries warehouse in Moscow region, and a 10-year-old child was injured. The Moscow region prosecutor's office opened a hotline for victims.",
+      "summary": "В ночь на 18 августа украинские беспилотники совершили попытку атаки на Москву, которую российские источники назвали самой крупной за два года; силы ПВО отчитались о более чем 150 сбитых над Подмосковьем БПЛА, включая 97 на подлёте к Москве. В Подмосковье загорелись многоквартирный дом и склад Wildberries, пострадал 10-летний ребёнок. Прокуратура Подмосковья открыла горячую линию для пострадавших.",
+      "category": "politics",
+      "perspective": "Российские официальные источники представляют происходящее как отражение украинской атаки и акцентируют работу ПВО, ущерб и жертвы; украинская сторона в представленных материалах не комментирует.",
+      "perspective_type": "assumed",
+      "sources": [
+        "tass.ru",
+        "kommersant.ru",
+        "vedomosti.ru",
+        "lenta.ru"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/28020659",
+        "https://tass.ru/proisshestviya/28020565",
+        "https://www.kommersant.ru/doc/8891688",
+        "https://www.kommersant.ru/doc/8891683",
+        "https://tass.ru/proisshestviya/28020717",
+        "https://www.vedomosti.ru/politics/news/2026/08/18/1221830-sili-pvo-sbili",
+        "https://lenta.ru/news/2026/08/18/popytka-ataki-dronov-vsu-na-moskvu-stala-samoy-krupnoy-za-dva-goda/"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-18",
+      "id": "41e2932dc345"
+    },
+    {
+      "title_ru": "Трамп пригрозил бомбить Оман, если тот помешает сделке по Ирану",
+      "title_en": "Trump threatens to bomb Oman if it 'gets in the way' of Iran deal",
+      "date": "2026-08-17",
+      "summary_en": "President Trump threatened to bomb Oman if it 'gets in the way' of an Iran deal, according to The Guardian. The report also said Jared Kushner met with Netanyahu amid discussions involving Gaza, Israel and US-Iran tensions over Hormuz oil.",
+      "summary": "Президент США Трамп пригрозил бомбить Оман, если тот «встанет на пути» сделки по Ирану, сообщает The Guardian. По данным издания, Джаред Кушнер встретился с Нетаньяху на фоне обсуждений вокруг Газы, Израиля и американо-иранской напряжённости, включая тему Ормузского пролива и нефти.",
+      "category": "politics",
+      "perspective": "Администрация Трампа может подавать угрозу как давление для защиты сделки по Ирану; критики и страны региона могут расценивать её как эскалацию и подрыв дипломатии в Персидском заливе.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The Guardian"
+      ],
+      "links": [
+        "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-17",
+      "id": "23612445d92a"
+    },
+    {
+      "title_ru": "Трамп заявил, что Ким Чен Ын ответил на его авансы по поводу учений с Южной Кореей",
+      "title_en": "Trump says Kim Jong-un responded to his overtures on scaling back US drills with South Korea",
+      "date": "2026-08-17",
+      "summary_en": "Trump said Kim Jong-un has responded to his overtures when asked about scaling back US military drills with South Korea, according to The Guardian's live coverage. The exchange follows the previously reported decision to reduce US exercises with South Korea.",
+      "summary": "Трамп заявил, что Ким Чен Ын ответил на его авансы, когда его спросили о сокращении военных учений США с Южной Кореей, сообщает The Guardian. Это происходит на фоне ранее принятого решения о сокращении учений США с Южной Кореей.",
+      "category": "politics",
+      "perspective": "Союзники США в регионе могут видеть в сокращении учений сигнал ослабления обязательств; сторонники диалога с Пхеньяном — дипломатический шаг.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The Guardian"
+      ],
+      "links": [
+        "https://www.theguardian.com/us-news/live/2026/aug/17/politics-trump-south-korea-military-pentagon-republicans-democrats"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-17",
+      "id": "8fe310790e78"
+    },
+    {
+      "title_ru": "ФИФА уволила третьего человека в организации Кевина Ламура после критики Инфантино",
+      "title_en": "FIFA's number three Kevin Lamour sacked after opposing Infantino",
+      "date": "2026-08-17",
+      "summary_en": "FIFA confirmed the departure of senior executive Kevin Lamour, the organisation's number three, after he opposed Gianni Infantino's plans. BBC Sport, France 24, Le Monde and CBC reported that Lamour, a Frenchman, was sacked following his criticism of Infantino's project involving private investors.",
+      "summary": "ФИФА подтвердила уход старшего руководителя Кевина Ламура, третьего лица организации, после того как он выступил против планов Джанни Инфантино. BBC Sport, France 24, Le Monde и CBC сообщили, что француз Ламур был уволен после критики проекта Инфантино с участием частных инвесторов.",
+      "category": "politics",
+      "perspective": "Европейские федерации и сторонники реформ могут считать увольнение подавлением внутренней критики; руководство ФИФА может представлять это как кадровое решение.",
+      "perspective_type": "assumed",
+      "sources": [
+        "BBC Sport",
+        "France 24",
+        "Le Monde",
+        "CBC"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
+        "https://www.france24.com/fr/sports/20260817-football-fifa-kevin-lamour-quitte-poste-oppose-gianni-infantino-projet-investisseurs-prives-abandonne-directeur-general-operations",
+        "https://www.lemonde.fr/sport/article/2026/08/17/la-fifa-licencie-le-francais-kevin-lamour-numero-trois-de-l-instance-qui-s-est-oppose-a-gianni-infantino_6748483_3242.html",
+        "https://www.cbc.ca/sports/soccer/fifa-departure-coo-kevin-lamour-9.7310181?cmp=rss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-17",
+      "id": "74ead3640a43"
+    },
+    {
+      "title_ru": "Эрдоган призвал Трампа продолжить переговоры с Ираном",
+      "title_en": "Erdogan urges Trump to continue negotiations with Iran",
+      "date": "2026-08-18",
+      "summary_en": "Turkish President Erdogan urged US President Trump to continue negotiations with Iran, according to Antara News. The call came amid ongoing US-Iran tensions.",
+      "summary": "Президент Турции Эрдоган призвал президента США Трампа продолжить переговоры с Ираном, сообщает Antara News. Это происходит на фоне сохраняющейся напряжённости между США и Ираном.",
+      "category": "politics",
+      "perspective": "Турция может позиционировать себя как посредник; сторонники жёсткой линии могут выступать против продолжения переговоров с Ираном.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Antara News"
+      ],
+      "links": [
+        "https://www.antaranews.com/berita/5699303/erdogan-desak-trump-lanjutkan-perundingan-dengan-iran"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-18",
+      "id": "9250dec09001"
+    },
+    {
+      "title_ru": "Китай хочет, чтобы его данные питали мировой ИИ",
+      "title_en": "China Wants Its Data to Power the World's A.I.",
+      "date": "2026-08-17",
+      "summary_en": "China wants its data to power the world's A.I. systems, according to The New York Times. The article examines China's ambitions in data and chatbots.",
+      "summary": "Китай хочет, чтобы его данные питали мировые системы искусственного интеллекта, сообщает The New York Times. Материал посвящён амбициям Китая в сфере данных и чат-ботов.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "The New York Times"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-17",
+      "id": "c77534b70b46"
+    },
+    {
+      "title_ru": "Nvidia поддержит дата-центр в Огайо на сумму до $105 млрд",
+      "title_en": "Nvidia to Back Ohio Data Center With as Much as $105 Billion",
+      "date": "2026-08-17",
+      "summary_en": "Nvidia will back an Ohio data center with as much as $105 billion, according to The New York Times. The report underscores the scale of investment going into US data-center infrastructure.",
+      "summary": "Nvidia поддержит дата-центр в Огайо на сумму до 105 миллиардов долларов, сообщает The New York Times. Сообщение отражает масштаб инвестиций в инфраструктуру дата-центров в США.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "The New York Times"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/08/17/technology/nvidia-ohio-data-center-openai.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-17",
+      "id": "2119af243490"
     }
   ],
   "_stats": {
-    "total_tokens": 915176,
-    "total_cost": 103.725044
+    "total_tokens": 941540,
+    "total_cost": 106.95598799999999
   }
 }
