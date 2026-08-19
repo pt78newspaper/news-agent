@@ -1,187 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Google отключил ИИ-генератор спутниковых снимков Nano Banana спустя сутки после запуска из-за фейковых изображений",
-      "title_en": "Google Disables AI Satellite Image Generator Nano Banana After It Enabled Spoofing of Disaster and Attack Aftermaths",
-      "date": "2026-08-02",
-      "summary_en": "Google launched and swiftly disabled an AI-powered feature called Nano Banana in Google Earth that allowed users to easily generate manipulated satellite imagery. The tool could produce fake images showing disaster aftermaths, including fabricated consequences of terrorist attacks. Google took it down within 24 hours of launch amid widespread concern about disinformation risks.",
-      "summary": "Google запустил и практически сразу отключил ИИ-функцию Nano Banana в Google Earth, позволявшую генерировать поддельные спутниковые снимки. Инструмент создавал фейковые изображения с последствиями катастроф, включая сфабрикованные теракты. Google отключил генератор в течение суток после запуска на фоне опасений по поводу рисков дезинформации.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The New York Times",
-        "Kommersant"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html",
-        "https://www.kommersant.ru/doc/8860643"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-02",
-      "id": "6425a2e47d05"
-    },
-    {
-      "title_ru": "Венгрия впервые за 44 года остановила единственную АЭС «Пакш» из-за обмеления Дуная; Рейн — на историческом минимуме",
-      "title_en": "Hungary Shuts Its Only Nuclear Plant for First Time in 44 Years as Danube Falls Too Low; Rhine Hits Historic Low",
-      "date": "2026-08-02",
-      "summary_en": "Hungary shut down its only nuclear power plant, Paks, for the first time in 44 years after the Danube River fell to critically low levels, making reactor cooling impossible. The shutdown affects nearly half of Hungary's electricity supply, creating what officials call an 'unprecedented energy crisis.' Germany's Rhine River also recorded historically low water levels, threatening industrial supply chains and barge transport.",
-      "summary": "Венгрия впервые за 44 года полностью остановила свою единственную АЭС «Пакш» — уровень воды в Дунае упал настолько, что охлаждение реакторов стало невозможным. Остановка затрагивает почти половину электроснабжения страны; власти называют ситуацию «беспрецедентным энергетическим кризисом». Уровень воды в Рейне (Германия) также достиг исторического минимума, что угрожает промышленным цепочкам поставок и речному судоходству.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Times of India",
-        "Tagesschau"
-      ],
-      "links": [
-        "https://timesofindia.indiatimes.com/world/europe/hungary-shut-its-only-nuclear-plant-for-the-first-time-in-44-years-after-the-danube-fell-too-low-to-cool-its-reactors-nearly-half-its-electricity-supply-is-now-affected/articleshow/132809525.cms",
-        "https://www.tagesschau.de/ausland/europa/niedrigwasser-donau-120.html",
-        "https://www.tagesschau.de/inland/niedrigwasser-rhein-rekordtief-100.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-02",
-      "id": "180d9838ec52"
-    },
-    {
-      "title_ru": "Рекордная атака БПЛА на Россию: 320 дронов за ночь, склады Wildberries повреждены в Тверской и Ленинградской областях",
-      "title_en": "Record drone attack on Russia: 320 UAVs overnight, Wildberries warehouses hit in Tver and Leningrad regions",
-      "date": "2026-08-04",
-      "summary_en": "Russian air defense shot down 320 Ukrainian drones overnight — the largest single-night figure in recent weeks. Debris damaged Wildberries warehouses in the Tver and Leningrad regions; a fire broke out at the Leningrad site and a regional emergency HQ was established. Over the past week, 10 Wildberries employees have been injured in drone strikes on the company's logistics facilities across multiple regions.",
-      "summary": "Российские силы ПВО за ночь сбили 320 украинских беспилотников — крупнейший показатель за одну ночь за последние недели. Обломки повредили склады Wildberries в Тверской и Ленинградской областях; на объекте в Ленобласти начался пожар, создан оперативный штаб. За неделю 10 сотрудников Wildberries пострадали от ударов БПЛА по логистическим объектам компании в разных регионах.",
-      "category": "politics",
-      "perspective": "Российские власти квалифицируют атаки как террористические (СК возбудил дело о теракте после атаки на склад во Владимирской области) и агрессию против гражданской инфраструктуры. Украинская сторона может рассматривать логистические центры как законные военные цели, обеспечивающие снабжение. Масштаб атаки (320 БПЛА) свидетельствует о наращивании возможностей ВСУ по массированным ударам вглубь территории РФ.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Kommersant",
-        "Vedomosti",
-        "TASS",
-        "Lenta.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8861960",
-        "https://www.vedomosti.ru/politics/news/2026/08/04/1218617-rossiiskie-sistemi",
-        "https://tass.ru/proisshestviya/27980595",
-        "https://www.kommersant.ru/doc/8861955",
-        "https://www.kommersant.ru/doc/8861951",
-        "https://www.kommersant.ru/doc/8861932",
-        "https://www.vedomosti.ru/politics/news/2026/08/04/1218611-nedelyu-10-wildberries"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-04",
-      "id": "50bdd6103a37"
-    },
-    {
-      "title_ru": "Трамп заявляет о прогрессе по Ормузскому проливу; Тегеран отрицает прямые переговоры с США",
-      "title_en": "Trump claims progress on Strait of Hormuz; Tehran denies direct talks with US",
-      "date": "2026-08-04",
-      "summary_en": "President Trump claimed that US-Iran negotiations on reopening the Strait of Hormuz are progressing and that the waterway could open 'by tomorrow.' However, Tehran officially denied any direct talks with Washington, stating discussions are only with Oman about a temporary shipping corridor. Trump called the talks Iran's 'last chance' to avoid war escalation, while the Pentagon chief confirmed the US remains ready for strikes on a scale 'not seen since World War II.'",
-      "summary": "Трамп заявил, что переговоры США и Ирана о возобновлении судоходства в Ормузском проливе продвигаются и пролив может открыться «уже завтра». Тегеран официально опроверг прямые переговоры с Вашингтоном, сообщив лишь о консультациях с Оманом о временном коридоре. Трамп назвал переговоры «последним шансом» Ирана избежать эскалации; глава Пентагона подтвердил готовность к ударам масштаба «невиданного со Второй мировой».",
-      "category": "politics",
-      "perspective": "Администрация Трампа представляет ситуацию как дипломатический успех: давление на Иран работает, переговоры идут. Иранская сторона категорически отрицает прямые переговоры, настаивая, что «мяч давно на стороне Америки» и Ормузский пролив «не вернётся к довоенному статусу». Guardian характеризует позицию Трампа как столкновение с «неуступчивым режимом» Ирана; NYT отмечает риск стратегического поражения США.",
-      "perspective_type": "from_source",
-      "sources": [
-        "The Guardian",
-        "New York Times",
-        "TASS",
-        "The Hindu",
-        "IRNA",
-        "DW"
-      ],
-      "links": [
-        "https://www.theguardian.com/world/2026/aug/03/iran-in-talks-with-oman-over-shipping-route-but-not-us-says-tehran",
-        "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html",
-        "https://tass.com/world/2168575",
-        "https://tass.com/world/2168545",
-        "https://www.thehindu.com/news/international/trump-claims-iran-talks-will-start-august-3-and-other-developments-in-west-asia/article71302731.ece",
-        "https://en.irna.ir/news/86226939/Iran-says-ball-has-long-been-in-America-s-court",
-        "https://www.dw.com/en/iran-war-trump-tells-iranian-leaders-to-make-deal-or-surrender/live-78210315"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-04",
-      "id": "b09bcba5c359"
-    },
-    {
-      "title_ru": "Кризис в Сеуте: сотни детей-мигрантов заблокированы в анклаве; ЕС призывает к «общей ответственности»",
-      "title_en": "Ceuta crisis: hundreds of migrant children stranded in enclave; EU calls for 'shared responsibility'",
-      "date": "2026-08-04",
-      "summary_en": "Hundreds of migrant children remain stranded in Spain's Ceuta enclave after the mass border breach from Morocco. EU officials called border protection a 'shared European responsibility,' while Ceuta's leader accused Morocco of 'atrocity' for facilitating the crossing. Spanish PM Sánchez, initially seen as soft on migration, acted swiftly — installing a floating barrier and sending troops. Up to 5,000 illegal migrants may still be in Ceuta; over 1,500 have sought medical assistance.",
-      "summary": "Сотни детей-мигрантов остаются заблокированными в испанском анклаве Сеута после массового прорыва границы из Марокко. ЕС назвал охрану границ «общеевропейской ответственностью»; лидер Сеуты обвинил Марокко в «зверстве» из-за попустительства переходу. Премьер Испании Санчес, ранее считавшийся мягким к мигрантам, действовал жёстко: установлен плавучий барьер, направлены войска. До 5000 нелегалов могут оставаться в Сеуте; более 1500 обратились за медпомощью.",
-      "category": "politics",
-      "perspective": "Испанское правительство Санчеса стремится продемонстрировать жёсткость после первоначальной критики за мягкость; жест включает военное присутствие и плавучий барьер. Власти Сеуты возлагают вину на Марокко. ЕС пытается балансировать между солидарностью с Испанией и нежеланием отдельных стран-членов принимать мигрантов. NYT отмечает отчаяние марокканской молодёжи как глубинную причину кризиса.",
-      "perspective_type": "from_source",
-      "sources": [
-        "CBC",
-        "DW",
-        "The Guardian",
-        "TASS",
-        "New York Times"
-      ],
-      "links": [
-        "https://www.cbc.ca/news/world/children-stranded-spain-morocco-ceuta-crossing-9.7295276",
-        "https://www.dw.com/en/ceuta-eu-calls-borders-a-shared-european-responsibility/a-78220701",
-        "https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain",
-        "https://tass.com/world/2168473",
-        "https://www.nytimes.com/2026/08/03/world/europe/spain-ceuta-migrants-sanchez.html",
-        "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-04",
-      "id": "17b6802cc27d"
-    },
-    {
-      "title_ru": "Атака БПЛА под Геленджиком: 47 пострадавших, 4 погибших, включая ребёнка",
-      "title_en": "Drone attack near Gelendzhik: 47 injured, 4 dead including a child",
-      "date": "2026-08-04",
-      "summary_en": "A drone strike on the Gelendzhik area in Krasnodar Krai killed four people — three adults and a child — and injured up to 47, according to regional authorities. An operational headquarters was deployed in Arkhipo-Osipovka. Separately, three residents of Crimea were killed in a VSU attack, and a woman died in Sevastopol. In the Bryansk region, eight residents were injured by drone strikes.",
-      "summary": "Удар БПЛА в районе Геленджика (Краснодарский край) унёс жизни четырёх человек — троих взрослых и ребёнка; число пострадавших выросло до 47. В Архипо-Осиповке развёрнут оперативный штаб. Кроме того, три жителя Крыма погибли при атаке ВСУ, женщина погибла в Севастополе, восемь жителей Брянской области пострадали при ударах БПЛА.",
-      "category": "politics",
-      "perspective": "Российские власти квалифицируют атаки как террористические акты против мирного населения и курортной инфраструктуры. Гибель ребёнка и значительное число жертв среди гражданских усиливают нарратив о «неизбирательном характере» ударов. Международные наблюдатели могут расходиться в оценках — от осуждения атак на гражданских до рассмотрения в контексте продолжающегося вооружённого конфликта.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Kommersant",
-        "Vedomosti",
-        "Lenta.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8861552",
-        "https://www.kommersant.ru/doc/8861487",
-        "https://www.kommersant.ru/doc/8861450",
-        "https://www.kommersant.ru/doc/8861445",
-        "https://www.kommersant.ru/doc/8861296",
-        "https://www.kommersant.ru/doc/8861235",
-        "https://www.vedomosti.ru/politics/news/2026/08/01/1218113-sevastopole-zhenschina"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-04",
-      "id": "fc01a9665d79"
-    },
-    {
-      "title_ru": "Иран активизирует экономическую дипломатию: переговоры о свободной торговле с Пакистаном, сближение с Италией и Южной Кореей",
-      "title_en": "Iran intensifies economic diplomacy: free trade talks with Pakistan, outreach to Italy and South Korea",
-      "date": "2026-08-04",
-      "summary_en": "Iran's Industry Minister traveled to Islamabad for the 10th meeting of the Pakistan-Iran Joint Trade Committee, focusing on free trade and investment cooperation. The Iran Chamber of Commerce proposed a task force to remove trade barriers with Pakistan. Iran's envoy to Italy called reviving economic relations a priority, and Tehran hosted a South Korean delegation on building industrialization cooperation. The diplomatic push comes amid US naval blockade and Western sanctions.",
-      "summary": "Министр промышленности Ирана прибыл в Исламабад на 10-е заседание Совместного торгового комитета Иран-Пакистан; обсуждаются свободная торговля и инвестиции. Торговая палата Ирана предложила целевую группу для устранения торговых барьеров. Посол Ирана в Италии назвал приоритетом восстановление экономических связей; Тегеран также принял делегацию Южной Кореи по сотрудничеству в строительной индустриализации. Дипломатическая активность разворачивается на фоне морской блокады США и санкций.",
-      "category": "politics",
-      "perspective": "Иран представляет эти шаги как успешную стратегию обхода изоляции и диверсификации экономических партнёрств. США и союзники могут рассматривать это как попытку Тегерана смягчить эффект санкций и блокады. Для Пакистана и Италии — балансирование между экономическими интересами и давлением Запада. Иранские СМИ (IRNA, Tehran Times) подают это как свидетельство неэффективности американской политики давления.",
-      "perspective_type": "assumed",
-      "sources": [
-        "IRNA",
-        "Tehran Times"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86227279/Industry-minister-travels-to-Pakistan-for-trade-free-trade-talks",
-        "https://en.irna.ir/news/86227179/Pakistan-to-host-Iran-for-talks-on-free-trade-investment-cooperation",
-        "https://en.irna.ir/news/86227346/Iran-Chamber-proposes-task-force-to-remove-trade-barriers-with",
-        "https://en.irna.ir/news/86226693/Islamabad-hosts-10th-meeting-of-Pakistan-Iran-Joint-Trade-Committee",
-        "https://www.tehrantimes.com/news/528815/Reviving-economic-relations-with-Italy-a-priority-Iran-s-envoy",
-        "https://www.tehrantimes.com/news/528806/Iran-South-Korea-to-strengthen-building-industrialization-cooperation"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-04",
-      "id": "aee8e350662f"
-    },
-    {
       "title_ru": "ИИ на поле боя: Tehran Times поднимает вопрос о причастности Palantir к военным преступлениям против Ирана",
       "title_en": "AI on the battlefield: Tehran Times questions Palantir's complicity in war crimes against Iran",
       "date": "2026-08-02",
@@ -2325,10 +2144,176 @@
       "is_development": false,
       "first_reported": "2026-08-17",
       "id": "2119af243490"
+    },
+    {
+      "title_ru": "Трамп приостановил 50-процентные пошлины на товары из Канады на три дня",
+      "title_en": "Trump pauses 50% tariffs on Canadian goods for three days",
+      "date": "2026-08-19",
+      "summary_en": "President Trump said the United States and Canada are close to a deal and paused new 50 percent tariffs on Canadian goods for three days. Reports also said he hinted at reviving the Keystone XL oil pipeline project.",
+      "summary": "Трамп заявил, что США и Канада близки к сделке, и приостановил введение 50-процентных пошлин на канадские товары на три дня. Сообщается также, что он намекнул на возобновление проекта нефтепровода Keystone XL.",
+      "category": "politics",
+      "perspective": "Администрация США подаёт решение как шаг к торговой сделке с Канадой; в Канаде и среди союзников это может восприниматься как временная передышка, не снимающая угрозу тарифного давления.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Kommersant",
+        "TASS",
+        "The New York Times",
+        "BBC News",
+        "The Guardian",
+        "DW"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8892498",
+        "https://tass.ru/mezhdunarodnaya-panorama/28023993",
+        "https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html",
+        "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+        "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
+        "https://www.dw.com/en/us-canada-agree-deal-that-pauses-50-tariffs-trump-says/a-78421098?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-19",
+      "id": "9866e80777df"
+    },
+    {
+      "title_ru": "Трамп обозначил Ормузский пролив как «новую территорию США»; Иран отвергает претензию",
+      "title_en": "Trump labels Strait of Hormuz 'new US territory'; Iran rejects the claim",
+      "date": "2026-08-18",
+      "summary_en": "Donald Trump marked the Strait of Hormuz on a map as a 'new territory of the United States.' Iranian officials rejected the claim and said Tehran will stand firm on its rights in managing the strait.",
+      "summary": "Дональд Трамп обозначил Ормузский пролив на карте как «новую территорию США». Иранские официальные лица отвергли эти претензии и заявили, что Тегеран будет твёрдо отстаивать свои права на управление проливом.",
+      "category": "politics",
+      "perspective": "Для администрации США это претензия на контроль над стратегическим нефтяным маршрутом; Иран считает это посягательством на суверенитет; международные наблюдатели видят риски эскалации в Персидском заливе.",
+      "perspective_type": "from_source",
+      "sources": [
+        "Kommersant",
+        "Vedomosti",
+        "Ukrainska Pravda",
+        "Tehran Times",
+        "IRNA",
+        "TASS"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8892094",
+        "https://www.vedomosti.ru/politics/news/2026/08/18/1221975-tramp-karte-oboznachil",
+        "https://www.pravda.com.ua/news/2026/08/18/8049220/",
+        "https://www.tehrantimes.com/news/529206/Iran-will-stand-firm-on-its-rights-in-managing-Strait-of-Hormuz",
+        "https://en.irna.ir/news/86239150/Gharibabadi-rebukes-trump-over-strait-of-Hormuz-claim",
+        "https://tass.com/world/2174691"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-18",
+      "id": "fe2bc11df1ba"
+    },
+    {
+      "title_ru": "Новая волна атак БПЛА: ПВО отчиталась о сбитых дронах над Москвой, Тульской и Ростовской областями",
+      "title_en": "New wave of drone attacks: air defenses report downed UAVs over Moscow, Tula and Rostov regions",
+      "date": "2026-08-19",
+      "summary_en": "Russian authorities reported that air defenses intercepted more drones overnight: 25 UAVs approaching Moscow, 27 over Tula region and about 15 over Rostov region. This follows previous large-scale overnight drone attacks on the Russian capital and regions.",
+      "summary": "Российские власти сообщили о перехвате беспилотников в ночь на 19 августа: 25 БПЛА на подлёте к Москве, 27 — над Тульской областью и около 15 — над Ростовской. Это продолжает серию массированных ночных атак дронов на Москву и регионы.",
+      "category": "politics",
+      "perspective": "Российские официальные источники подчёркивают эффективность работы ПВО; украинская сторона в предоставленной подборке отдельно не цитируется.",
+      "perspective_type": "unclear",
+      "sources": [
+        "TASS",
+        "Kommersant",
+        "Vedomosti",
+        "Lenta.ru"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/28024097",
+        "https://tass.ru/proisshestviya/28024093",
+        "https://www.kommersant.ru/doc/8892492",
+        "https://www.vedomosti.ru/politics/news/2026/08/19/1222116-sobyanin-na-podlete",
+        "https://lenta.ru/news/2026/08/19/na-podlete-k-moskve-sbili-esche-desyat-bespilotnikov/"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-19",
+      "id": "a6b2e03c7eb6"
+    },
+    {
+      "title_ru": "Администрация Трампа ввела санкции против президента Международного уголовного суда и старшего юриста",
+      "title_en": "Trump administration sanctions International Criminal Court president and senior lawyer",
+      "date": "2026-08-19",
+      "summary_en": "The Trump administration has sanctioned the president of the International Criminal Court and a senior lawyer, escalating the US confrontation with the ICC. The move was reported as the latest step in a growing row between Washington and the court.",
+      "summary": "Администрация Трампа ввела санкции против президента Международного уголовного суда и старшего юриста, обострив противостояние США с МУС. Это стало очередным шагом в разрастающемся конфликте между Вашингтоном и судом.",
+      "category": "politics",
+      "perspective": "Администрация США, вероятно, оправдывает санкции защитой американского суверенитета; сторонники МУС расценивают это как подрыв международного правосудия.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The Times of India"
+      ],
+      "links": [
+        "https://timesofindia.indiatimes.com/world/us/us-vs-icc-row-escalates-trump-administration-sanctions-international-court-president-senior-lawyer/articleshow/133335289.cms"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-19",
+      "id": "4fb8f0da964a"
+    },
+    {
+      "title_ru": "Президент Южной Кореи призвал к военной самостоятельности после решения Трампа сократить учения",
+      "title_en": "South Korea president calls for military independence after Trump move to cut joint drills",
+      "date": "2026-08-18",
+      "summary_en": "The South Korean president called for greater military self-reliance after the United States scaled back joint military exercises with South Korea. Seoul also said Washington had not given advance notice of the reduction.",
+      "summary": "Президент Южной Кореи призвал к большей военной самостоятельности после того, как США сократили масштаб совместных учений с Южной Кореей. В Сеуле также заявили, что Вашингтон не предупредил о сокращении заранее.",
+      "category": "politics",
+      "perspective": "Администрация Трампа объясняет сокращение учений нежеланием портить отношения с КНДР; в Южной Корее и среди союзников это вызывает опасения по поводу надёжности американских гарантий безопасности.",
+      "perspective_type": "from_source",
+      "sources": [
+        "The Guardian",
+        "Kommersant",
+        "TASS",
+        "The New York Times"
+      ],
+      "links": [
+        "https://www.theguardian.com/world/2026/aug/18/south-korea-president-trump-military-drills-control-opcon-kim-jong-un",
+        "https://www.kommersant.ru/doc/8891295",
+        "https://tass.ru/mezhdunarodnaya-panorama/28023957",
+        "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-18",
+      "id": "2acbe7c8bd1a"
+    },
+    {
+      "title_ru": "Иран сообщил об обучении основам ИИ 4 миллионов студентов",
+      "title_en": "Iran says it has provided AI training to 4 million students",
+      "date": "2026-08-18",
+      "summary_en": "Iranian state media reported that Iran has provided artificial intelligence training to 4 million students. The report was part of coverage of the country's educational technology initiatives.",
+      "summary": "Иранские государственные СМИ сообщили, что страна организовала обучение основам искусственного интеллекта для 4 миллионов студентов. Сообщение подано как часть образовательных и технологических инициатив Ирана.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "IRNA"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86238742/Iran-provides-AI-training-to-4-million-students"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-18",
+      "id": "c75e7590ce88"
+    },
+    {
+      "title_ru": "Xiaomi представила человекоподобного робота на World Robot Conference 2026",
+      "title_en": "Xiaomi debuts humanoid robot at World Robot Conference 2026",
+      "date": "2026-08-19",
+      "summary_en": "Chinese electronics maker Xiaomi presented a humanoid robot at the World Robot Conference 2026. The debut was reported among technology news from the conference.",
+      "summary": "Китайский производитель электроники Xiaomi представил человекоподобного робота на World Robot Conference 2026. Дебют был отмечен в технологических новостях с конференции.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Antara News"
+      ],
+      "links": [
+        "https://otomotif.antaranews.com/berita/5700955/xiaomi-debutkan-robot-humanoid-di-panggung-world-robot-conferece-2026"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-19",
+      "id": "12c1db94ec82"
     }
   ],
   "_stats": {
-    "total_tokens": 941540,
-    "total_cost": 106.95598799999999
+    "total_tokens": 972605,
+    "total_cost": 119.68131299999999
   }
 }
