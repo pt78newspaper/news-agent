@@ -1,179 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "ИИ на поле боя: Tehran Times поднимает вопрос о причастности Palantir к военным преступлениям против Ирана",
-      "title_en": "AI on the battlefield: Tehran Times questions Palantir's complicity in war crimes against Iran",
-      "date": "2026-08-02",
-      "summary_en": "The Tehran Times published an article questioning whether the US data analytics company Palantir Technologies is complicit in war crimes through the use of its artificial intelligence systems in the ongoing US-Iran conflict. The piece examines the ethical and legal implications of deploying AI-driven targeting and battlefield management systems in warfare, suggesting Palantir's technology may be enabling disproportionate strikes.",
-      "summary": "Tehran Times опубликовал статью, в которой ставится вопрос о причастности американской компании Palantir Technologies к военным преступлениям через использование её систем искусственного интеллекта в продолжающемся конфликте США и Ирана. Материал рассматривает этические и правовые последствия применения ИИ-систем наведения и управления боевыми действиями, предполагая, что технологии Palantir могут способствовать нанесению неизбирательных ударов.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Tehran Times"
-      ],
-      "links": [
-        "https://www.tehrantimes.com/news/528801/AI-on-the-battlefield-Is-Palantir-complicit-in-war-crimes-against"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-02",
-      "id": "28b222687c3d"
-    },
-    {
-      "title_ru": "Исследование: древний арктический углерод захоранивается в океане, а не становится парниковым газом",
-      "title_en": "Study: ancient Arctic carbon gets buried in ocean rather than becoming greenhouse gas",
-      "date": "2026-08-04",
-      "summary_en": "A new scientific study has found that most of the ancient carbon being released from thawing Arctic permafrost ends up buried in ocean sediments rather than entering the atmosphere as greenhouse gases. The findings, published amid record-breaking global temperatures — including the driest July in Indonesia since 1991 — offer a potential mitigating factor in climate change projections, though scientists caution against over-optimism.",
-      "summary": "Новое научное исследование показало, что большая часть древнего углерода, высвобождающегося при таянии арктической вечной мерзлоты, захоранивается в океанических отложениях, а не попадает в атмосферу в виде парниковых газов. Открытие, опубликованное на фоне рекордных температур — включая самый сухой июль в Индонезии с 1991 года — указывает на потенциальный смягчающий фактор в климатических моделях, хотя учёные призывают к сдержанному оптимизму.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Times of India",
-        "Antara News"
-      ],
-      "links": [
-        "https://timesofindia.indiatimes.com/science/most-ancient-arctic-carbon-entering-the-ocean-gets-buried-instead-of-becoming-greenhouse-gas-study-finds/articleshow/132847811.cms",
-        "https://www.antaranews.com/berita/5678936/bmkg-juli-2026-menjadi-juli-terkering-sejak-1991"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-04",
-      "id": "ea160f30eeb8"
-    },
-    {
-      "title_ru": "Масштабная атака БПЛА: за ночь над Россией сбито 475 дронов, загорелся сортировочный центр Wildberries в Тульской области",
-      "title_en": "Massive Drone Attack: 475 UAVs Shot Down Over Russia Overnight, Wildberries Sorting Center Catches Fire in Tula Region",
-      "date": "2026-08-05",
-      "summary_en": "Russian air defense shot down 475 Ukrainian drones overnight across multiple regions, a new record. A Wildberries sorting center in the Tula region caught fire after a drone strike, one person was injured. Additionally, 10 drones were intercepted near Moscow, and drone threats were declared in Tatarstan, Udmurtia, Sochi, and other regions. This follows a previous record of 320 drones on August 4.",
-      "summary": "Российские силы ПВО за ночь сбили 475 украинских беспилотников над регионами — новый рекорд. В Тульской области после атаки БПЛА загорелся сортировочный центр Wildberries, один человек пострадал. Вблизи Москвы перехвачено 10 дронов, угроза атаки объявлялась в Татарстане, Удмуртии, Сочи и Сириусе, Чувашии и других регионах. Это развитие рекордной атаки 4 августа (320 БПЛА).",
-      "category": "politics",
-      "perspective": "Российские власти: успешная работа ПВО, предотвращены массовые жертвы. Прозападные силы: эскалация конфликта, удары по логистической инфраструктуре — законные военные цели. Пацифисты: страдают гражданские объекты и работники складов.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Коммерсантъ",
-        "ТАСС",
-        "Ведомости",
-        "Лента.ру"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8862757",
-        "https://tass.ru/proisshestviya/27984003",
-        "https://www.kommersant.ru/doc/8862714",
-        "https://www.vedomosti.ru/politics/news/2026/08/05/1218912-pozhar-nachalsya",
-        "https://www.kommersant.ru/doc/8862705",
-        "https://www.vedomosti.ru/politics/news/2026/08/05/1218913-sili-pvo-sbili",
-        "https://tass.ru/proisshestviya/27984071",
-        "https://tass.ru/proisshestviya/27984087"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-05",
-      "id": "4707ad17c317"
-    },
-    {
-      "title_ru": "Ормузский пролив: Трамп обещает скорое открытие, сделка США–Иран–Оман может быть объявлена в среду",
-      "title_en": "Strait of Hormuz: Trump Promises Rapid Reopening, US–Iran–Oman Deal May Be Announced Wednesday",
-      "date": "2026-08-05",
-      "summary_en": "Donald Trump stated the Strait of Hormuz will be opened 'very soon' and threatened Iran with severe consequences if it fails. Axios reports the US is preparing to announce a deal with Iran and Oman as early as Wednesday. Marco Rubio and Treasury Secretary Bessent expressed optimism about progress. WSJ reports that under the deal, ships would enter the Persian Gulf through Iranian waters. Iran confirmed positive progress in talks with Oman.",
-      "summary": "Дональд Трамп заявил, что Ормузский пролив будет открыт «очень скоро», и пригрозил Ирану серьёзными последствиями. По данным Axios, США готовятся объявить о сделке с Ираном и Оманом уже в среду 5 августа. Госсекретарь Рубио и министр финансов Бессент выразили оптимизм. WSJ сообщает, что сделка предполагает проход судов через иранские воды. Иран подтвердил позитивный ход переговоров с Оманом.",
-      "category": "politics",
-      "perspective": "Администрация Трампа: дипломатическая победа, принуждение Ирана к уступкам. Иран: отстаивание суверенитета над проливом, сделка на иранских условиях. Рынки: снижение цен на нефть — позитивный сигнал. Скептики: сделка хрупкая, возможен срыв в любой момент.",
-      "perspective_type": "assumed",
-      "sources": [
-        "The Hindu",
-        "BBC",
-        "TASS",
-        "The Guardian",
-        "NYT",
-        "IRNA",
-        "WSJ",
-        "Antara"
-      ],
-      "links": [
-        "https://www.thehindu.com/news/international/west-asia-war-tehran-washington-talks-iran-oman-diplomatic-engagement-strait-of-hormuz-live-updates-august-5-2026/article71307954.ece",
-        "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo",
-        "https://tass.com/world/2169067",
-        "https://tass.com/world/2169057",
-        "https://www.theguardian.com/world/live/2026/aug/04/middle-east-crisis-qatar-iran-us-israel-war-donald-trump-strait-hormuz-gaza-latest-news-updates",
-        "https://www.nytimes.com/2026/08/04/world/middleeast/strait-of-hormuz-deal-progress.html",
-        "https://tass.com/world/2169015",
-        "https://en.irna.ir/news/86228014/Baqaei-Iran-Oman-talks-on-Strait-of-Hormuz-progressing-positively"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-05",
-      "id": "79e56f72de3f"
-    },
-    {
-      "title_ru": "Дипломатический кризис: США отозвали визу посла Бразилии, Бразилия выразила решительный протест",
-      "title_en": "Diplomatic Crisis: US Revokes Brazilian Ambassador's Visa, Brazil Protests Forcefully",
-      "date": "2026-08-05",
-      "summary_en": "The United States revoked the visa of Brazil's ambassador in an escalation of the diplomatic feud between the two countries. Brazil's government repudiated the move, calling it an unjustified hostile act. The incident marks a sharp deterioration in US-Brazil relations.",
-      "summary": "Соединённые Штаты отозвали визу посла Бразилии в США, что стало резкой эскалацией дипломатического противостояния. Бразильское правительство выразило решительное осуждение, назвав этот шаг неоправданным враждебным актом. Инцидент знаменует серьёзное ухудшение отношений между двумя крупнейшими странами Америки.",
-      "category": "politics",
-      "perspective": "Администрация Трампа: ответная мера на действия Бразилии. Правительство Бразилии: неоправданная эскалация, ущемление суверенитета. Левые силы Латинской Америки: империалистическое давление США. Дипломатические круги: тревожный прецедент, подрыв межамериканского диалога.",
-      "perspective_type": "assumed",
-      "sources": [
-        "The Guardian",
-        "Agência Brasil",
-        "Antara"
-      ],
-      "links": [
-        "https://www.theguardian.com/us-news/2026/aug/04/us-revokes-brazil-ambassador-visa",
-        "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/brasil-repudia-revogacao-de-visto-de-embaixadora-nos-eua",
-        "https://www.antaranews.com/berita/5680504/as-cabut-visa-dubes-brasil-di-tengah-perselisihan-diplomatik"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-05",
-      "id": "3f0bd69cc250"
-    },
-    {
-      "title_ru": "Путин подписал пакет законов о криптовалютах, расширении депортации и контрактах осуждённых с Минобороны",
-      "title_en": "Putin Signs Package of Laws on Cryptocurrency Regulation, Expanded Deportation, and Military Contracts for Convicts",
-      "date": "2026-08-04",
-      "summary_en": "President Putin signed a series of significant laws: cryptocurrency regulation framework, expanded grounds for deportation of foreigners, and broader opportunities for convicts to sign contracts with the Ministry of Defense. He also signed laws stripping absentee convicts ('relocants') of certain rights and restricting share buybacks for investors who left Russia.",
-      "summary": "Владимир Путин подписал пакет значимых законов: о регулировании криптовалют, о расширении оснований для депортации иностранцев и о расширении возможностей для осуждённых заключать контракты с Минобороны. Также подписаны законы о поражении в правах заочно осуждённых «релокантов» и ограничении прав покинувших Россию инвесторов на выкуп акций.",
-      "category": "politics",
-      "perspective": "Кремль: укрепление суверенитета, цифровизация финансов, обеспечение безопасности. Оппозиция и правозащитники: ужесточение репрессий, дискриминация релокантов, милитаризация пенитенциарной системы. Бизнес-сообщество: легализация криптовалют — долгожданный шаг, но ограничения для уехавших инвесторов создают риски.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Коммерсантъ",
-        "Ведомости"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8862644",
-        "https://www.kommersant.ru/doc/8862528",
-        "https://www.kommersant.ru/doc/8862437",
-        "https://www.kommersant.ru/doc/8862598",
-        "https://www.kommersant.ru/doc/8862521",
-        "https://www.kommersant.ru/doc/8862554"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-04",
-      "id": "682b774e3540"
-    },
-    {
-      "title_ru": "Кризис в Сеуте: ЕС критикует миграционный план Испании, сотни марокканцев ждут пропавших близких у границы",
-      "title_en": "Ceuta Crisis: EU Criticises Spain's Migrant Plan as Hundreds Wait for Missing Loved Ones at Border",
-      "date": "2026-08-05",
-      "summary_en": "The EU chief criticised Spain's migrant plan following the Ceuta crisis meeting, revealing divisions within Europe. Meanwhile, hundreds of Moroccans have gathered near the Ceuta border, anxiously waiting for news of missing loved ones. A Guardian briefing highlights how misinformation and hardened immigration policies turned Ceuta into Europe's latest flashpoint. The EU Council confirmed no migrants have left Ceuta for Spain or other EU countries.",
-      "summary": "Глава ЕС раскритиковала миграционный план Испании после кризисного совещания по Сеуте, обнажив разногласия внутри Европы. Тем временем сотни марокканцев собрались у границы Сеуты в тревожном ожидании пропавших близких. Обозреватель Guardian отмечает, что дезинформация и ужесточение иммиграционной политики превратили Сеуту в новую горячую точку Европы. Совет ЕС подтвердил: мигранты не покидали Сеуту.",
-      "category": "politics",
-      "perspective": "Левые и правозащитники: гуманитарная катастрофа, Европа должна принять мигрантов. Правые: провал политики открытых границ, угроза безопасности. Евробюрократия: необходима «общая ответственность», но механизма нет. Испания: страна брошена наедине с кризисом.",
-      "perspective_type": "assumed",
-      "sources": [
-        "The Guardian",
-        "TASS"
-      ],
-      "links": [
-        "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint",
-        "https://www.theguardian.com/world/2026/aug/05/hundreds-in-morocco-gather-near-ceuta-border-in-anxious-wait-for-missing-loved-ones",
-        "https://www.theguardian.com/world/2026/aug/04/eu-criticises-spain-migrant-plan-ceuta-crisis-meeting",
-        "https://tass.com/world/2168859"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-05",
-      "id": "ce769d7f4107"
-    },
-    {
       "title_ru": "Интерпол: 55% киберпреступлений в Африке совершаются с использованием ИИ",
       "title_en": "Interpol: 55% of Cybercrimes in Africa Now Use Artificial Intelligence",
       "date": "2026-08-05",
@@ -2310,10 +2137,164 @@
       "is_development": false,
       "first_reported": "2026-08-19",
       "id": "12c1db94ec82"
+    },
+    {
+      "title_ru": "Трамп объявил Ирану беспрецедентную экономическую войну и пригрозил последствиями его партнёрам",
+      "title_en": "Trump declares unprecedented economic war on Iran and threatens partners with consequences",
+      "date": "2026-08-20",
+      "summary_en": "Donald Trump threatened 'tremendous economic consequences' for any country helping Iran and said the blockade of the Strait of Hormuz had been successful and the strait is now open. The UAE announced it would halt trade with Iran, while Trump left open further sanctions and a possible resumption of US-Iran talks. Iran, for its part, warned Gulf states against facilitating US aggression.",
+      "summary": "Дональд Трамп пригрозил «колоссальными экономическими последствиями» любой стране, которая помогает Ирану, и заявил, что блокада Ормузского пролива была успешной, а пролив теперь открыт. ОАЭ объявили о прекращении торговли с Ираном, при этом Трамп не исключил ни новых санкций, ни возможного возобновления переговоров США и Ирана. Иран, со своей стороны, предупредил страны Персидского залива от содействия американской агрессии.",
+      "category": "politics",
+      "perspective": "Администрация Трампа подаёт это как экономическое давление для изоляции Ирана; иранские официальные источники называют происходящее эскалацией и вмешательством и предупреждают страны Залива; NYT отмечает ограниченность военных рычагов США и возврат к экономическому давлению.",
+      "perspective_type": "from_source",
+      "sources": [
+        "BBC News",
+        "The New York Times",
+        "TASS",
+        "Tehran Times"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o",
+        "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
+        "https://tass.com/world/2175379",
+        "https://tass.com/world/2175391",
+        "https://www.tehrantimes.com/news/529225/Iran-s-military-chief-warns-Persian-Gulf-states-against-facilitating"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-20",
+      "id": "b4bc6949dea2"
+    },
+    {
+      "title_ru": "Пенни Вонг осудила отказ Израиля расследовать гибель австралийской волонтёрки Зоми Франком",
+      "title_en": "Penny Wong condemns Israel's decision not to investigate killing of Australian aid worker Zomi Frankcom",
+      "date": "2026-08-20",
+      "summary_en": "Australia's Foreign Minister Penny Wong called the Israeli military's decision not to open a criminal investigation into the Gaza strike that killed Australian aid worker Zomi Frankcom 'insulting'. Israel's ambassador to Australia asked critics to 'respect the process' after the IDF ruled out a criminal probe.",
+      "summary": "Министр иностранных дел Австралии Пенни Вонг назвала «оскорбительным» решение израильских военных не открывать уголовное расследование по удару в Газе, в результате которого погибла австралийская волонтёрка Зоми Франком. Посол Израиля в Австралии призвал «уважать процесс» после того, как ЦАХАЛ исключил уголовное расследование.",
+      "category": "politics",
+      "perspective": "Австралийское правительство (лейбористы) считает решение оскорбительным и требует ответственности; израильская сторона настаивает на уважении к внутреннему процессу; правозащитная оптика Guardian подчёркивает критику отказа от уголовного расследования.",
+      "perspective_type": "from_source",
+      "sources": [
+        "The Guardian"
+      ],
+      "links": [
+        "https://www.theguardian.com/australia-news/2026/aug/20/australia-idf-reaction-gaza-strike-zomi-frankcom-penny-wong-statement-ntwnfb",
+        "https://www.theguardian.com/australia-news/live/2026/aug/20/australian-politics-live-penny-wong-labor-government-anthony-albanese-gambling-ndis-question-time-angus-taylor-pauline-hanson-ntwnfb"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-20",
+      "id": "3c1cdd723c43"
+    },
+    {
+      "title_ru": "Минобороны РФ отчиталось о новых ударах по ВСУ и перехвате сотен беспилотников",
+      "title_en": "Russian military reports new strikes on Ukrainian forces and interception of hundreds of drones",
+      "date": "2026-08-20",
+      "summary_en": "Russia's 'North' group said it destroyed more than 200 Ukrainian soldiers and 10 UAV control points overnight, while reporting 356 drones downed that were flying toward the Russian border. The 'West' group said it shot down 124 Ukrainian drones in a day, and earlier air defence reports cited nearly 500 UAVs downed in one day.",
+      "summary": "Российская группировка «Север» заявила, что за ночь уничтожила более 200 солдат ВСУ и 10 пунктов управления БПЛА, а также отчиталась о 356 сбитых беспилотниках, летевших в сторону границы РФ. Группировка «Запад» сообщила о 124 сбитых за сутки дронах ВСУ, ранее ПВО отчитывалась почти о 500 сбитых за день беспилотниках.",
+      "category": "politics",
+      "perspective": "Российские официальные источники подают это как успешные действия против ВСУ; украинская сторона в представленной подборке не представлена, поэтому полная картина потерь остаётся неясной.",
+      "perspective_type": "unclear",
+      "sources": [
+        "TASS",
+        "Kommersant"
+      ],
+      "links": [
+        "https://tass.ru/armiya-i-opk/28027701",
+        "https://tass.ru/armiya-i-opk/28027585",
+        "https://tass.ru/armiya-i-opk/28027583",
+        "https://tass.ru/armiya-i-opk/28027501",
+        "https://www.kommersant.ru/doc/8893241"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-20",
+      "id": "29d37e0a3d27"
+    },
+    {
+      "title_ru": "Трамп заявил о встрече с Ким Чен Ыном и оценил ядерный арсенал КНДР в 57 зарядов",
+      "title_en": "Trump says he will meet Kim Jong-un and claims North Korea has 57 nuclear weapons",
+      "date": "2026-08-19",
+      "summary_en": "Donald Trump announced that he would meet North Korean leader Kim Jong-un this year and claimed that North Korea possesses 57 'very powerful' nuclear weapons. The statement came shortly after he criticised South Korea, and reports said Washington scaled back military drills to pressure Seoul over the Iran war.",
+      "summary": "Дональд Трамп объявил, что встретится с лидером КНДР Ким Чен Ыном в этом году, и заявил, что Северная Корея обладает 57 «очень мощными» ядерными зарядами. Это прозвучало вскоре после его критики в адрес Южной Кореи; также сообщалось, что Вашингтон сократил военные учения, чтобы оказать давление на Сеул в связи с войной с Ираном.",
+      "category": "politics",
+      "perspective": "Администрация Трампа подаёт встречу как дипломатический шаг; Южная Корея и союзники могут воспринимать сокращение учений и подобные заявления с тревогой за гарантии безопасности; критики отмечают противоречивость сигналов Вашингтона.",
+      "perspective_type": "from_source",
+      "sources": [
+        "France 24",
+        "TASS",
+        "Tehran Times",
+        "Le Monde"
+      ],
+      "links": [
+        "https://www.france24.com/fr/am%C3%A9riques/20260819-donald-trump-annonce-rencontre-kim-jong-un-cette-annee-coree-nord-etats-unis-nucleaire-cor%C3%A9e-sud-exercices-militaires",
+        "https://tass.com/world/2175263",
+        "https://www.tehrantimes.com/news/529226/South-Korea-Trump-scales-back-drills-to-pressure-Seoul-over",
+        "https://www.lemonde.fr/international/article/2026/08/19/donald-trump-affirme-que-la-coree-du-nord-possede-57-armes-nucleaires-apres-avoir-vivement-critique-la-coree-du-sud_6749900_3210.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-19",
+      "id": "321328fea45b"
+    },
+    {
+      "title_ru": "В Бразилии стартовала президентская кампания: TSE получила более тысячи жалоб, Лула претендует на четвёртый срок",
+      "title_en": "Brazil's presidential campaign begins: electoral court receives over 1,000 complaints as Lula seeks fourth term",
+      "date": "2026-08-19",
+      "summary_en": "Brazil's Superior Electoral Court (TSE) received more than 1,000 complaints in the first days of the presidential campaign. Meanwhile, Luiz Inacio Lula da Silva has launched a historic bid for a fourth term, with Flavio Bolsonaro, son of jailed former president Jair Bolsonaro, standing in his way.",
+      "summary": "Высший избирательный суд Бразилии (TSE) получил более тысячи жалоб в первые дни президентской кампании. Тем временем Луис Инасиу Лула да Силва начал историческую борьбу за четвёртый срок, а его оппонентом выступает Флавио Болсонару, сын находящегося в заключении экс-президента Жаира Болсонару.",
+      "category": "politics",
+      "perspective": "Сторонники Лулы подают его выдвижение как историческое продолжение социального курса; лагерь Болсонару делает ставку на оппозиционного избирателя; TSE как арбитр фиксирует рост числа жалоб в начале кампании.",
+      "perspective_type": "from_source",
+      "sources": [
+        "Agência Brasil",
+        "The Guardian"
+      ],
+      "links": [
+        "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-recebe-mais-de-mil-denuncias-nos-primeiros-dias-de-campanha",
+        "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-19",
+      "id": "3b625aee2eeb"
+    },
+    {
+      "title_ru": "Профессор Калифорнийского университета в Беркли признал использование ИИ для редактирования колонки о математике студентов",
+      "title_en": "UC Berkeley professor admits using AI to edit op-ed on students' math skills",
+      "date": "2026-08-20",
+      "summary_en": "A UC Berkeley professor admitted to using AI to edit an opinion piece about students' math skills, The Guardian reported. The case was reported on August 19, 2026.",
+      "summary": "Профессор Калифорнийского университета в Беркли признал, что использовал ИИ для редактирования авторской колонки о математических навыках студентов, сообщает The Guardian. Информация об этом случае появилась 19 августа 2026 года.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "The Guardian"
+      ],
+      "links": [
+        "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-20",
+      "id": "e34eee9667f7"
+    },
+    {
+      "title_ru": "TikTok изучает функцию перевода денег между пользователями через личные сообщения",
+      "title_en": "TikTok explores peer-to-peer money transfers via direct messages",
+      "date": "2026-08-20",
+      "summary_en": "TikTok is exploring a feature that would allow users to send money to each other through direct messages, according to Antara News. The feature would expand the platform's capabilities into digital payments between users.",
+      "summary": "TikTok изучает возможность запуска функции, которая позволит пользователям отправлять друг другу деньги через личные сообщения, сообщает Antara News. Такая функция расширила бы возможности платформы в сфере цифровых платежей между пользователями.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Antara News"
+      ],
+      "links": [
+        "https://www.antaranews.com/berita/5702867/tiktok-eksplorasi-fitur-kirim-uang-antara-pengguna-lewat-dm"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-20",
+      "id": "3137d93da9d8"
     }
   ],
   "_stats": {
-    "total_tokens": 972605,
-    "total_cost": 119.68131299999999
+    "total_tokens": 999392,
+    "total_cost": 130.654338
   }
 }
