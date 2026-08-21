@@ -1,158 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Интерпол: 55% киберпреступлений в Африке совершаются с использованием ИИ",
-      "title_en": "Interpol: 55% of Cybercrimes in Africa Now Use Artificial Intelligence",
-      "date": "2026-08-05",
-      "summary_en": "Interpol reported that 55% of cybercrimes in Africa now involve the use of artificial intelligence, marking a significant shift in the threat landscape. The finding underscores how AI tools are increasingly deployed for malicious purposes across the continent, from deepfakes to automated fraud schemes.",
-      "summary": "Интерпол сообщил, что 55% киберпреступлений в Африке совершаются с использованием искусственного интеллекта, что标志着 существенное изменение ландшафта угроз. ИИ-инструменты — от дипфейков до автоматизированных схем мошенничества — всё активнее применяются злоумышленниками на континенте.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Antara"
-      ],
-      "links": [
-        "https://www.antaranews.com/berita/5680591/interpol-55-persen-kejahatan-siber-di-afrika-gunakan-ai"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-05",
-      "id": "8c7b918c227d"
-    },
-    {
-      "title_ru": "Немецкая автомобильная промышленность — опора национальной экономики — переживает глубокий кризис",
-      "title_en": "German Auto Industry, Pillar of National Economy, in Deep Crisis: Cuts at BMW, VW, Mercedes",
-      "date": "2026-08-05",
-      "summary_en": "The German automobile industry is undergoing a severe contraction, with major manufacturers BMW, Volkswagen, and Mercedes implementing significant workforce and production cuts. The crisis is described as shaking a pillar of the German national psyche and economy, driven by EV transition challenges, Chinese competition, and weakening global demand.",
-      "summary": "Немецкая автомобильная промышленность переживает глубокий кризис: BMW, Volkswagen и Mercedes проводят масштабные сокращения персонала и производства. Отрасль, десятилетиями бывшая опорой немецкой экономики и национального самосознания, shaken сочетанием факторов: трудности перехода на электромобили, конкуренция с Китаем и ослабление глобального спроса.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The New York Times",
-        "Deutsche Welle"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html",
-        "https://www.dw.com/en/bmw-to-volkswagen-how-deep-is-germany-s-auto-industry-cull/a-78168695"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-05",
-      "id": "2ea69c6bf157"
-    },
-    {
-      "title_ru": "Рекордная атака БПЛА: над Россией за ночь сбито 605 дронов, удары по складам Wildberries в нескольких регионах",
-      "title_en": "Record Drone Attack: 605 UAVs Downed Over Russia Overnight, Wildberries Warehouses Hit Across Multiple Regions",
-      "date": "2026-08-06",
-      "summary_en": "Russian air defense shot down a record 605 Ukrainian drones overnight, the largest single-night attack since the conflict began. Drones targeted Moscow (6 downed near the capital), Yaroslavl (the region's most massive attack), Voronezh (57 UAVs), Tula, Kaluga, and other regions. A Wildberries logistics complex in Tver region was damaged, and fires broke out at residential buildings in Yaroslavl. The attack follows a previous record of 475 drones on August 5, marking a sharp escalation in the drone campaign.",
-      "summary": "Российские силы ПВО сбили рекордные 605 украинских БПЛА за ночь — самая массированная атака дронов с начала конфликта. Целями стали Москва (6 сбито у столицы), Ярославская область (самая массовая атака на регион), Воронежская (57 БПЛА), Тульская, Калужская и другие. Логистический комплекс Wildberries в Тверской области повреждён обломками, в Ярославской области загорелись три жилых дома. Предыдущий рекорд в 475 дронов был поставлен сутками ранее, 5 августа, что свидетельствует о резкой эскалации кампании.",
-      "category": "politics",
-      "perspective": "Российские власти представляют как доказательство эффективности ПВО и акт террора против гражданской инфраструктуры. Украинская сторона — как демонстрацию способности наносить удары вглубь РФ. Западные аналитики говорят о качественно новом этапе воздушной войны.",
-      "perspective_type": "assumed",
-      "sources": [
-        "kommersant.ru",
-        "tass.ru",
-        "lenta.ru",
-        "vedomosti.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8863652",
-        "https://tass.ru/armiya-i-opk/27987679",
-        "https://www.kommersant.ru/doc/8863643",
-        "https://tass.ru/proisshestviya/27987717",
-        "https://www.kommersant.ru/doc/8863631",
-        "https://www.kommersant.ru/doc/8863575"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-06",
-      "id": "18fe98328acd"
-    },
-    {
-      "title_ru": "НАТО экстренно предоставит Украине ракеты-перехватчики; удар России по Киеву унёс жизни 17 человек",
-      "title_en": "NATO to Urgently Supply Ukraine with Interceptor Missiles; Russian Strike on Kyiv Kills 17",
-      "date": "2026-08-06",
-      "summary_en": "NATO Secretary General pledged to urgently obtain interceptor missiles for Ukraine following a deadly Russian missile attack on Kyiv that killed at least 17 people. President Zelenskyy warned of a surge in Russian missile production and called for more air defense systems, particularly Patriot batteries. The New York Times reports that Russia's missile attack exploited Ukraine's depleted air defenses, marking a dangerous new phase in the air war.",
-      "summary": "Генсек НАТО пообещал Зеленскому экстренно предоставить ракеты-перехватчики после ракетного удара России по Киеву, унёсшего жизни по меньшей мере 17 человек. Зеленский предупредил о резком росте российского ракетного производства и призвал к дополнительным поставкам систем ПВО, особенно Patriot. NYT отмечает, что удар России использовал истощение украинской ПВО, открывая новую опасную фазу воздушной войны.",
-      "category": "politics",
-      "perspective": "Страны НАТО видят в этом подтверждение необходимости военной поддержки Украины. Россия расценивает действия альянса как прямое вовлечение в конфликт. Украина настаивает на немедленных поставках вооружений для защиты гражданского населения.",
-      "perspective_type": "assumed",
-      "sources": [
-        "theguardian.com",
-        "tass.com",
-        "nytimes.com"
-      ],
-      "links": [
-        "https://www.theguardian.com/world/2026/aug/06/ukraine-nato-air-defences-missiles-russia-zelenskyy-patriot",
-        "https://tass.com/world/2169427",
-        "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-06",
-      "id": "e98500caadc8"
-    },
-    {
-      "title_ru": "Иран и Оман финализируют соглашение о судоходном коридоре в Ормузском проливе",
-      "title_en": "Iran and Oman Finalize Agreement on Shipping Corridor in Strait of Hormuz",
-      "date": "2026-08-05",
-      "summary_en": "Iran and Oman have reached an understanding on coordinates for a new shipping route through the strategically vital Strait of Hormuz, with an agreement being finalized. Iran's top negotiator Gharibabadi confirmed the deal is in its final stages, and Guardian reports the understanding covers specific route coordinates. This follows earlier statements by US Secretary of State Rubio expressing hope for a deal 'very shortly' and represents a potential diplomatic breakthrough in reducing tensions in the critical waterway.",
-      "summary": "Иран и Оман достигли понимания по координатам нового судоходного маршрута через стратегически важный Ормузский пролив, соглашение находится на стадии финализации. Главный переговорщик Ирана Гарибабади подтвердил, что договорённости — на завершающем этапе. Ранее госсекретарь США Рубио выражал надежду на скорое заключение сделки. Это потенциальный дипломатический прорыв в снижении напряжённости вокруг критического водного пути, через который проходит значительная доля мировой нефти.",
-      "category": "politics",
-      "perspective": "Иран подаёт как дипломатическую победу и шаг к стабильности в регионе. США — как результат давления, открывающий путь к деэскалации. Израиль и Саудовская Аравия могут оценивать с осторожностью, опасаясь усиления иранских позиций.",
-      "perspective_type": "assumed",
-      "sources": [
-        "en.irna.ir",
-        "tehrantimes.com",
-        "theguardian.com"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86228870/Gharibabadi-Agreement-between-Iran-and-Oman-on-arrangements",
-        "https://www.tehrantimes.com/news/528884/Iran-Oman-move-to-finalize-new-Hormuz-shipping-corridor",
-        "https://www.theguardian.com/world/2026/aug/05/iran-oman-reach-hormuz-route-coordinates"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-05",
-      "id": "8de2f7bdfb30"
-    },
-    {
-      "title_ru": "Похороны семьи, погибшей при ударе США по иранскому острову Кешм",
-      "title_en": "Funeral Held for Family Killed in US Strike on Iran's Qeshm Island",
-      "date": "2026-08-05",
-      "summary_en": "A funeral was held for a family killed in an American military strike on Iran's Qeshm Island, according to Tehran Times. The incident adds to escalating US-Iran tensions amid ongoing military confrontations. Former President Rouhani stated that the US and Israel made a 'fundamental miscalculation' about Iran's resilience, while Iran continues to document what it calls US and Israeli war crimes through legal channels.",
-      "summary": "На иранском острове Кешм прошли похороны семьи, погибшей в результате американского военного удара, сообщает Tehran Times. Бывший президент Рухани заявил, что США и Израиль совершили «фундаментальный просчёт» относительно стойкости Ирана. Инцидент происходит на фоне продолжающихся военных столкновений и усилий Ирана по документированию военных преступлений США и Израиля через международно-правовые механизмы.",
-      "category": "politics",
-      "perspective": "Иранская сторона осуждает как акт агрессии против гражданского населения. США могут оправдывать военной необходимостью в контексте более широкого противостояния. Международное сообщество разделено: часть осуждает удар по гражданским, часть возлагает ответственность на эскалацию со стороны Ирана.",
-      "perspective_type": "assumed",
-      "sources": [
-        "tehrantimes.com"
-      ],
-      "links": [
-        "https://www.tehrantimes.com/news/528877/Funeral-held-for-family-killed-in-US-strike-on-Iran-s-Qeshm-Island",
-        "https://www.tehrantimes.com/news/528869/Rouhani-US-Israel-made-fundamental-miscalculation-over-Iran-s"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-05",
-      "id": "3a1f5e8fa8ea"
-    },
-    {
-      "title_ru": "Прогрессивный кандидат Abdul El-Sayed победил на праймериз Демпартии в Мичигане",
-      "title_en": "Progressive Candidate Abdul El-Sayed Wins Michigan Democratic Primary",
-      "date": "2026-08-05",
-      "summary_en": "Abdul El-Sayed, a progressive challenger, won the Michigan Democratic primary, continuing a trend of progressive victories against establishment-backed Democrats in the 2026 midterm primaries. The Guardian describes it as the latest win for progressives challenging the party establishment, with potential implications for the Democratic Party's direction ahead of the midterm elections.",
-      "summary": "Прогрессивный кандидат Abdul El-Sayed одержал победу на праймериз Демократической партии в Мичигане, продолжив череду успехов левого крыла против истеблишмента Демпартии в преддверии промежуточных выборов 2026 года. The Guardian называет это последней победой прогрессистов, бросающих вызов кандидатам, поддержанным партийным руководством, что может существенно повлиять на курс Демпартии.",
-      "category": "politics",
-      "perspective": "Прогрессивное крыло Демпартии празднует как подтверждение растущего влияния. Центристы обеспокоены радикализацией партии и потенциальной потерей умеренных избирателей. Республиканцы используют для критики демократов как «слишком левых».",
-      "perspective_type": "assumed",
-      "sources": [
-        "theguardian.com"
-      ],
-      "links": [
-        "https://www.theguardian.com/us-news/live/2026/aug/05/michigan-primary-race-democrats-midterms-senate-el-sayed-haley-stevens-donald-trump-republicans-us-politics-latest-news-updates"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-05",
-      "id": "8bc112a80de3"
-    },
-    {
       "title_ru": "Anthropic формирует команду по разработке собственных чипов для ИИ Claude",
       "title_en": "Anthropic Assembles Chip Development Team for Claude AI",
       "date": "2026-08-06",
@@ -2291,10 +2139,147 @@
       "is_development": false,
       "first_reported": "2026-08-20",
       "id": "3137d93da9d8"
+    },
+    {
+      "title_ru": "ОАЭ объявили о прекращении торговли с Ираном на фоне давления США",
+      "title_en": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push to Isolate Tehran",
+      "date": "2026-08-20",
+      "summary_en": "The UAE announced it would halt trade with Iran as the Trump administration pushes to isolate Tehran. The US Treasury also imposed sanctions on individuals linked to Iran, and Trump said difficulties in reaching a deal with Iran were connected to the death of its leadership.",
+      "summary": "ОАЭ объявили о прекращении торговли с Ираном на фоне стремления администрации Трампа изолировать Тегеран. Минфин США также ввёл санкции против лиц, связанных с Ираном, а Трамп связал сложности со сделкой с гибелью иранского руководства.",
+      "category": "politics",
+      "perspective": "Сторонники жёсткой линии в США могут считать это успехом кампании давления на Иран; Тегеран и его союзники — несправедливым внешним давлением; региональные игроки могут оценивать риски дальнейшей эскалации в Персидском заливе.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The New York Times",
+        "Коммерсантъ",
+        "Ведомости"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
+        "https://www.kommersant.ru/doc/8894179",
+        "https://www.vedomosti.ru/politics/news/2026/08/20/1222659-ssha-sanktsii-iranom"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-20",
+      "id": "38ddfb81857b"
+    },
+    {
+      "title_ru": "Индонезия и Китай укрепляют военное сотрудничество",
+      "title_en": "Indonesia strengthens military cooperation with China as defense ministers meet",
+      "date": "2026-08-21",
+      "summary_en": "Indonesia's defense minister received China's defense minister to strengthen military cooperation. Foreign Minister Sugiono said the Indonesia-China Strategic Dialogue guides the bilateral partnership in five pillars.",
+      "summary": "Министр обороны Индонезии принял министра обороны Китая для укрепления военного сотрудничества. Глава МИД Индонезии Сугионо заявил, что стратегический диалог Индонезии и Китая направляет двустороннее партнёрство по пяти направлениям.",
+      "category": "politics",
+      "perspective": "В Джакарте это могут представлять как сбалансированную внешнюю политику; западные столицы могут видеть усиление влияния Китая в Юго-Восточной Азии; региональные игроки — продолжение соперничества США и КНР.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Antara News"
+      ],
+      "links": [
+        "https://www.antaranews.com/berita/5704576/perkuat-kerja-sama-militer-menhan-ri-terima-kedatangan-menhan-china",
+        "https://www.antaranews.com/berita/5704673/sugiono-csd-ri-china-pandu-kemitraan-bilateral-di-lima-pilar"
+      ],
+      "first_reported": "2026-08-21",
+      "id": "2ab9079e8df8"
+    },
+    {
+      "title_ru": "Небензя: России не нужна массовая мобилизация",
+      "title_en": "Russia's UN envoy says no mass mobilization is needed",
+      "date": "2026-08-21",
+      "summary_en": "Russia's Permanent Representative to the UN Vasily Nebenzya stated that Russia does not need a mass mobilization. He also called on the new UN Secretary-General to more actively facilitate a settlement in Ukraine.",
+      "summary": "Постпред России при ООН Василий Небензя заявил, что России не нужна массовая мобилизация. Он также призвал нового генсека ООН активнее содействовать урегулированию на Украине.",
+      "category": "politics",
+      "perspective": "Официальная Москва использует заявление для снятия спекуляций о мобилизации; оппозиционные и западные комментаторы могут воспринимать это как попытку успокоить общество при сохранении неопределённости вокруг хода конфликта.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Коммерсантъ",
+        "Ведомости",
+        "Lenta.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8894156",
+        "https://www.kommersant.ru/doc/8894145",
+        "https://www.vedomosti.ru/politics/news/2026/08/20/1222690-nebenzya-mobilizatsii",
+        "https://lenta.ru/news/2026/08/20/nebenzya-vyskazalsya-o-neobhodimosti-massovoy-mobilizatsii-v-rossii/"
+      ],
+      "first_reported": "2026-08-21",
+      "id": "a5408ab26eff"
+    },
+    {
+      "title_ru": "Израиль превратил школу UNRWA в Иерусалиме в государственную школу",
+      "title_en": "Israel converts UNRWA school in Jerusalem into state school",
+      "date": "2026-08-21",
+      "summary_en": "Israel has converted a UNRWA school in Jerusalem into a state school, Antara reported.",
+      "summary": "Израиль превратил школу UNRWA в Иерусалиме в государственную школу, сообщает Antara.",
+      "category": "politics",
+      "perspective": "Палестинцы и критики Израиля могут осуждать это как подрыв мандата ООН; израильские власти могут обосновывать решение вопросами суверенитета и образования; международные организации — выражать обеспокоенность гуманитарными последствиями.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Antara News"
+      ],
+      "links": [
+        "https://www.antaranews.com/berita/5704600/israel-ubah-sekolah-unrwa-di-yerusalem-jadi-sekolah-negeri"
+      ],
+      "first_reported": "2026-08-21",
+      "id": "3461e89128ef"
+    },
+    {
+      "title_ru": "Аиша Вахаб победила на внеочередных выборах в Калифорнии",
+      "title_en": "Progressive Aisha Wahab wins California special election to fill Eric Swalwell seat",
+      "date": "2026-08-20",
+      "summary_en": "Progressive candidate Aisha Wahab won a California special election to fill the congressional seat vacated by Eric Swalwell, The Guardian reported.",
+      "summary": "Прогрессивный кандидат Аиша Вахаб победила на внеочередных выборах в Калифорнии и займёт место в Конгрессе, освобождённое Эриком Суолуэллом, сообщает The Guardian.",
+      "category": "politics",
+      "perspective": "Прогрессивное крыло демократов может приветствовать победу как усиление левого фланга; умеренные демократы и республиканцы могут оценивать результат с точки зрения баланса сил в Конгрессе.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The Guardian"
+      ],
+      "links": [
+        "https://www.theguardian.com/us-news/2026/aug/20/california-special-election-results-eric-swalwell"
+      ],
+      "first_reported": "2026-08-20",
+      "id": "3ed6b83d43d2"
+    },
+    {
+      "title_ru": "Бразилия разместит национальный суперкомпьютер искусственного интеллекта в Риу-Гранди-ду-Норти",
+      "title_en": "Brazil to host national artificial intelligence supercomputer in Rio Grande do Norte",
+      "date": "2026-08-20",
+      "summary_en": "Brazil's Rio Grande do Norte state will host the country's artificial intelligence supercomputer, according to Agência Brasil.",
+      "summary": "Штат Риу-Гранди-ду-Норти разместит бразильский суперкомпьютер искусственного интеллекта, сообщает Agência Brasil.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Agência Brasil"
+      ],
+      "links": [
+        "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/rn-vai-abrigar-supercomputador-brasileiro-de-inteligencia-artificial"
+      ],
+      "first_reported": "2026-08-20",
+      "id": "4e30173e69c9"
+    },
+    {
+      "title_ru": "Meta предстанет перед судом по обвинениям в формировании зависимости у детей от соцсетей",
+      "title_en": "Meta to stand trial over claims it addicted children to social media",
+      "date": "2026-08-19",
+      "summary_en": "Meta is set to stand trial over claims that it addicted children to social media, The New York Times reported.",
+      "summary": "Meta предстанет перед судом по искам о том, что её платформы вызывали зависимость у детей, сообщает The New York Times.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "The New York Times"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html"
+      ],
+      "first_reported": "2026-08-19",
+      "id": "4434b41d6aa9"
     }
   ],
   "_stats": {
-    "total_tokens": 999392,
-    "total_cost": 130.654338
+    "total_tokens": 1022490,
+    "total_cost": 139.649838
   }
 }
