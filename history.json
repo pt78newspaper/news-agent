@@ -1,1194 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Российские школьники третий год подряд выиграли международную олимпиаду по ИИ",
-      "title_en": "Russian schoolchildren win International AI Olympiad for third consecutive year",
-      "date": "2026-08-07",
-      "summary_en": "Russian schoolchildren won the International Olympiad in Artificial Intelligence (IOAI) for the third year in a row. The achievement highlights Russia's strong talent pipeline in AI despite international sanctions and technological restrictions.",
-      "summary": "Российские школьники третий год подряд одержали победу на Международной олимпиаде по искусственному интеллекту (IOAI). Достижение демонстрирует сильную подготовку кадров в области ИИ в России, несмотря на международные санкции и технологические ограничения.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Коммерсантъ"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8875079"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-07",
-      "id": "cdd71c7c7d4f"
-    },
-    {
-      "title_ru": "Белый дом готовит секретные правила ИИ; сигналы Кремниевой долине противоречивы",
-      "title_en": "White House readies secret AI rules; mixed signals to Silicon Valley",
-      "date": "2026-08-07",
-      "summary_en": "The Trump White House is preparing an AI framework to review national security risks, while simultaneously sending conflicting signals to Silicon Valley, according to NYT and Hard Fork podcast reporting. The administration is reportedly 'whipsawing' the tech industry between deregulatory impulses and national security-driven oversight, creating uncertainty for AI companies.",
-      "summary": "Администрация Трампа готовит систему оценки рисков национальной безопасности в сфере ИИ, одновременно посылая Кремниевой долине противоречивые сигналы — между импульсами дерегуляции и контролем, продиктованным соображениями безопасности. По данным NYT и подкаста Hard Fork, неопределённость создаёт турбулентность для AI-компаний.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The New York Times"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html",
-        "https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html",
-        "https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-07",
-      "id": "ae6b5acc2036"
-    },
-    {
-      "title_ru": "Ормузский кризис: Иран выдвинул 6 условий, ОАЭ обвинили Тегеран в атаке на танкер, Пентагон наращивает производство",
-      "title_en": "Hormuz Crisis: Iran Sets 6 Conditions, UAE Accuses Tehran of Tanker Attack, Pentagon Ramps Up Production",
-      "date": "2026-08-09",
-      "summary_en": "Iran has set six conditions for reopening the Strait of Hormuz, including a fundamental US policy change, while the UAE accused Iran of targeting a tanker. Oman reports progress in mediation talks, and Tehran says a temporary shipping route deal with Muscat is close. Meanwhile, the Pentagon is urging US defense firms to accelerate weapons production as stockpiles are depleted by the ongoing Iran conflict.",
-      "summary": "Иран выдвинул шесть условий для открытия Ормузского пролива, включая фундаментальную смену курса США. ОАЭ обвинили Иран в атаке на танкер. Оман сообщает о прогрессе в переговорах, Тегеран заявляет о близости сделки по временному судоходному маршруту с Маскатом. Пентагон призывает оборонные компании США ускорить производство вооружений на фоне истощения запасов из-за конфликта с Ираном.",
-      "category": "politics",
-      "perspective": "Для США и союзников — Иран использует пролив как инструмент шантажа, нарушая международное право и свободу судоходства. Для Ирана — вынужденная оборонительная мера против американской агрессии, демонстрация суверенитета. Для мировых рынков — прямая угроза энергетического кризиса и роста цен на нефть.",
-      "perspective_type": "assumed",
-      "sources": [
-        "The Hindu",
-        "Tehran Times",
-        "Times of India",
-        "Antara News",
-        "IRNA",
-        "The New York Times",
-        "The Guardian",
-        "NPR",
-        "DW",
-        "TASS"
-      ],
-      "links": [
-        "https://www.thehindu.com/news/international/uae-says-iran-targeted-tanker-as-oman-cites-progress-in-hormuz-talks/article71322549.ece",
-        "https://www.tehrantimes.com/news/528962/Iran-sets-six-conditions-for-reopening-the-Strait-of-Hormuz",
-        "https://timesofindia.indiatimes.com/defence/international/pentagon-asks-defence-firms-to-ramp-up-weapons-production-as-iran-war-drains-stockpile-report/articleshow/133061658.cms",
-        "https://www.antaranews.com/berita/5686329/iran-tegaskan-tidak-akan-buka-selat-hormuz-hingga-as-penuhi-syarat",
-        "https://en.irna.ir/news/86230808/Iran-Oman-close-to-deal-on-temporary-Strait-of-Hormuz-shipping",
-        "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
-        "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach",
-        "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
-        "https://www.dw.com/en/iran-war-irgc-says-hormuz-to-open-if-us-accepts-iran-s-terms/live-78289364",
-        "https://tass.com/world/2170529"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-09",
-      "id": "d278d5cc1ae9"
-    },
-    {
-      "title_ru": "Масштабные атаки украинских БПЛА на Россию: за неделю почти 2000 дронов, удары по НПЗ, Севастополю и Белгороду",
-      "title_en": "Massive Ukrainian Drone Attacks on Russia: Nearly 2,000 UAVs in a Week, Strikes on Refinery, Sevastopol and Belgorod",
-      "date": "2026-08-09",
-      "summary_en": "Ukrainian drone attacks on Russian territory have reached unprecedented intensity. On August 8 alone, Russian air defenses shot down 360 UAVs, with 828 over a 24-hour period. Nearly 2,000 drones approached the Moscow region in one week, according to Mayor Sobyanin. The Ilsky oil refinery caught fire, 22 residential buildings were damaged in Sevastopol, and children were injured in Belgorod.",
-      "summary": "Атаки украинских БПЛА на российские регионы достигли беспрецедентной интенсивности. Только 8 августа ПВО сбила 360 дронов, за сутки — 828. За неделю к Московскому региону приблизились почти 2000 БПЛА, по данным мэра Собянина. Загорелся Ильский НПЗ, в Севастополе повреждены 22 жилых дома, в Белгороде в результате атаки пострадали дети.",
-      "category": "politics",
-      "perspective": "Для России — террористическая кампания Киева против гражданского населения и инфраструктуры. Для Украины и западных союзников — легитимный асимметричный ответ на российские удары, демонстрация способности перенести войну на территорию противника. Для нейтральных наблюдателей — тревожная эскалация с риском жертв среди мирного населения.",
-      "perspective_type": "assumed",
-      "sources": [
-        "TASS",
-        "Коммерсантъ",
-        "Ведомости",
-        "Lenta.ru"
-      ],
-      "links": [
-        "https://tass.ru/armiya-i-opk/27995783",
-        "https://www.kommersant.ru/doc/8875641",
-        "https://www.vedomosti.ru/politics/news/2026/08/08/1219771-pvo-360-bpla",
-        "https://www.kommersant.ru/doc/8875515",
-        "https://www.kommersant.ru/doc/8875514",
-        "https://www.kommersant.ru/doc/8875511",
-        "https://www.kommersant.ru/doc/8875549",
-        "https://lenta.ru/news/2026/08/09/v-rezultate-ataki-vsu-na-belgorod-postradali-deti/"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-09",
-      "id": "7c21274ed4b9"
-    },
-    {
-      "title_ru": "Украинский дрон взорвался в Болгарии; Россия нанесла удары по портам Николаева и Одессы; Румыния — прямая военная поддержка Киева",
-      "title_en": "Ukrainian Drone Explodes in Bulgaria; Russia Strikes Nikolayev and Odessa Ports; Romania Accused of Direct Military Support to Kyiv",
-      "date": "2026-08-09",
-      "summary_en": "A Ukrainian drone exploded on Bulgarian territory, prompting Sofia to summon the Ukrainian ambassador. Russian forces struck military cargo ships at Nikolayev port and warehouses with electronic warfare equipment at Odessa port, while also establishing control over Ivanovka in Kharkov region. Turkey called for a moratorium on military operations. A Russian diplomat accused Romania of providing direct military support to Ukraine.",
-      "summary": "Украинский дрон взорвался на территории Болгарии — София вызвала украинского посла. Российские силы нанесли удары по судам с военным грузом в порту Николаева и складам с оборудованием РЭБ в порту Одессы, а также установили контроль над Ивановкой в Харьковской области. Турция призвала к мораторию на боевые действия. Российский дипломат обвинил Румынию в прямой военной поддержке Украины.",
-      "category": "politics",
-      "perspective": "Для России — доказательство расширения географии конфликта из-за безответственных действий Киева, а также подтверждение прямого вовлечения стран НАТО. Для Запада — инцидент в Болгарии демонстрирует растущие риски эскалации для стран НАТО; удары по портам — продолжение российской стратегии подрыва украинской логистики. Для Турции — возможность усилить роль посредника.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Le Monde",
-        "TASS",
-        "DW",
-        "The New York Times"
-      ],
-      "links": [
-        "https://www.lemonde.fr/international/live/2026/08/09/en-direct-guerre-en-ukraine-apres-l-explosion-en-bulgarie-d-un-drone-correspondant-a-ceux-utilises-par-kiev-l-ambassadrice-ukrainienne-a-sofia-convoquee_6741928_3210.html",
-        "https://tass.com/world/2170597",
-        "https://tass.com/politics/2170611",
-        "https://tass.com/defense/2170521",
-        "https://tass.com/defense/2170519",
-        "https://tass.com/defense/2170489",
-        "https://tass.com/world/2170545",
-        "https://www.nytimes.com/2026/08/06/world/europe/ukraine-russia-missile-defense-patriots.html"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-09",
-      "id": "df468d1ac522"
-    },
-    {
-      "title_ru": "Венгерская оппозиция выдвинула экс-главу Верховного суда Баку Андраша в президенты; Фидес и KDNP — в жёсткой оппозиции",
-      "title_en": "Hungarian Opposition Tisza Party Nominates Former Chief Justice Baka András for President; Fidesz and KDNP React with Hostility",
-      "date": "2026-08-08",
-      "summary_en": "The Tisza party faction nominated András Baka, former chief justice of Hungary's Supreme Court, for the position of president. Party leader Magyar Péter confirmed Baka accepted the nomination. The ruling Fidesz party reacted negatively, claiming Baka would only serve until Magyar replaces him 'with a comment.' The KDNP accused Baka of seeking revenge against Fidesz. Political Capital institute warned that Baka faces a difficult task as president.",
-      "summary": "Фракция оппозиционной партии «Тиса» выдвинула Андраша Баку, бывшего председателя Верховного суда Венгрии, на пост президента страны. Лидер партии Мадьяр Петер подтвердил, что Бака принял предложение. Правящая партия «Фидес» отреагировала негативно, заявив, что Бака будет занимать должность лишь пока Мадьяр не сменит его «одним комментарием». KDNP обвинила Баку в желании отомстить «Фидесу». Институт Political Capital предупредил, что Баку предстоят серьёзные трудности на посту президента.",
-      "category": "politics",
-      "perspective": "Для оппозиции — исторический шанс занять пост президента после многолетней монополии Fidesz на все ключевые институты. Для Fidesz и KDNP — политически мотивированный выбор, месть бывшего судьи и угроза независимости института президентства. Для аналитиков (Political Capital) — Бака получит пост, но столкнётся с системным сопротивлением.",
-      "perspective_type": "from_source",
-      "sources": [
-        "HVG"
-      ],
-      "links": [
-        "https://hvg.hu/itthon/20260808_tisza-frakcio-koztarsasagi-elnok-ebx",
-        "https://hvg.hu/itthon/20260808_magyar-peter-baka-andras-elfogadta-a-felkerest-ebx",
-        "https://hvg.hu/itthon/20260808_fidesz-baka-andras-reakcio",
-        "https://hvg.hu/itthon/20260808_kdnp-baka-andras-bosszuallas-fidesz-retvari-bence",
-        "https://hvg.hu/itthon/20260808_political-capital-nehez-dolog-baka-andras-koztarsasagi-elnok"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-08",
-      "id": "e282e6f433ab"
-    },
-    {
-      "title_ru": "Сенат США утвердил Тодда Бланша генпрокурором; Хантер Байден рассказал о распространении рака у Джо Байдена",
-      "title_en": "US Senate Confirms Todd Blanche as Attorney General; Hunter Biden Reveals Joe Biden's Cancer Has Spread",
-      "date": "2026-08-08",
-      "summary_en": "The US Senate confirmed Todd Blanche as Attorney General; Senator Schumer called the confirmation evidence of Trump's 'pervasive, breathtaking corruption.' In separate news, Hunter Biden disclosed that former President Joe Biden's cancer has metastasized and is causing him significant pain, adding a poignant personal dimension to the US political landscape.",
-      "summary": "Сенат США утвердил Тодда Бланша на пост генерального прокурора; сенатор Шумер назвал это свидетельством «всепроникающей, потрясающей коррупции» Трампа. Одновременно Хантер Байден сообщил, что рак бывшего президента Джо Байдена метастазировал и причиняет ему сильную боль — это добавляет острый личный аспект в американский политический ландшафт.",
-      "category": "politics",
-      "perspective": "Для демократов — Бланш как генпрокурор символизирует захват системы правосудия личными интересами Трампа; болезнь Байдена — трагическое напоминание о контрасте политических эпох. Для республиканцев — законное право избранного президента формировать свою команду; здоровье Байдена — частное дело семьи, не имеющее политического значения.",
-      "perspective_type": "from_source",
-      "sources": [
-        "The Guardian"
-      ],
-      "links": [
-        "https://www.theguardian.com/us-news/live/2026/aug/08/todd-blanche-attorney-general-senate-vote-republicans-save-voting-bill-latest-news-updates",
-        "https://www.theguardian.com/us-news/2026/aug/08/joe-biden-hunter-cancer"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-08",
-      "id": "21dffcfd8aa4"
-    },
-    {
-      "title_ru": "Google DeepMind вступает в новую эру: сооснователь Демис Хассабис меняет роль в подразделении ИИ",
-      "title_en": "Google DeepMind Enters New Era as Co-Founder Demis Hassabis Shifts AI Role",
-      "date": "2026-08-08",
-      "summary_en": "Google DeepMind, one of the world's leading AI research laboratories, is undergoing a significant organizational transition. Co-founder Demis Hassabis is shifting his role within the AI division, signaling a new era for the company as competition in the artificial intelligence sector intensifies globally.",
-      "summary": "Google DeepMind, одна из ведущих мировых лабораторий искусственного интеллекта, переживает значительную организационную трансформацию. Сооснователь Демис Хассабис меняет свою роль в подразделении ИИ, что сигнализирует о наступлении новой эры для компании на фоне усиливающейся глобальной конкуренции в секторе искусственного интеллекта.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The Guardian"
-      ],
-      "links": [
-        "https://www.theguardian.com/technology/2026/aug/08/google-demis-hassabis-deepmind-shifts-role"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-08",
-      "id": "991326e9345e"
-    },
-    {
-      "title_ru": "Новый дата-центр Amazon в Техасе может стать самой загрязняющей электростанцией в США",
-      "title_en": "New Amazon Data Center in Texas Stokes Worry It Could Become the Most Polluting Power Plant in the US",
-      "date": "2026-08-08",
-      "summary_en": "A new Amazon data center planned for Texas is raising alarm among environmental advocates, who warn it could become the most polluting power plant in the United States. The controversy highlights the growing tension between the surging energy demands of the tech industry's AI and cloud infrastructure and its climate commitments.",
-      "summary": "Новый дата-центр Amazon, запланированный в Техасе, вызывает тревогу у экологических активистов, которые предупреждают: он может стать самой загрязняющей электростанцией в США. Ситуация подчёркивает растущее напряжение между колоссальными энергетическими потребностями техиндустрии — драйверами которых являются ИИ и облачная инфраструктура — и климатическими обязательствами компаний.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The New York Times"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-08",
-      "id": "384302a25a90"
-    },
-    {
-      "title_ru": "Число погибших при атаке БПЛА на Белгород выросло до шести; новые атаки на регионы России",
-      "title_en": "Belgorod Drone Attack Death Toll Rises to Six; New Overnight Strikes Across Russian Regions",
-      "date": "2026-08-10",
-      "summary_en": "The death toll from a nighttime Ukrainian drone attack on Belgorod has risen to six, with nearly 30 apartment buildings and 33 vehicles damaged. Simultaneously, Russian air defense shot down over 70 UAVs in Rostov region, 16 in Kaluga, 9 in Tula, and 8 on approach to Moscow. A woman was killed by a drone strike on a private house in Belgorod region on the morning of August 10.",
-      "summary": "Число погибших при ночной атаке украинских БПЛА на Белгород выросло до шести человек, повреждены почти 30 многоэтажек и 33 автомобиля. Одновременно ПВО сбила более 70 беспилотников в Ростовской области, 16 — в Калужской, 9 — в Тульской, 8 — на подлёте к Москве. Утром 10 августа при ударе дрона по частному дому в Белгородской области погибла женщина.",
-      "category": "politics",
-      "perspective": "Российские власти характеризуют атаки как террористические действия ВСУ против гражданского населения; украинская сторона и западные союзники могут рассматривать удары как элемент кампании по ослаблению военной инфраструктуры РФ. Правозащитные организации обращают внимание на жертвы среди мирных жителей независимо от стороны конфликта.",
-      "perspective_type": "assumed",
-      "sources": [
-        "kommersant.ru",
-        "tass.ru",
-        "lenta.ru",
-        "vedomosti.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8875909",
-        "https://www.kommersant.ru/doc/8875989",
-        "https://tass.ru/proisshestviya/27997401",
-        "https://tass.ru/proisshestviya/27997325",
-        "https://tass.ru/proisshestviya/27997381",
-        "https://tass.ru/proisshestviya/27997369",
-        "https://lenta.ru/news/2026/08/10/sily-pvo-sbili-vosem-bespilotnikov-na-podlete-k-moskve/",
-        "https://lenta.ru/news/2026/08/10/chislo-pogibshih-pri-nochnoy-atake-vsu-na-belgorod-uvelichilos/"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-10",
-      "id": "eab3e44ef70e"
-    },
-    {
-      "title_ru": "Президент Ирана назначил экс-командующего КСИР Мохсена Резаи секретарём Высшего совета нацбезопасности",
-      "title_en": "Iran Appoints Ex-IRGC Commander Mohsen Rezaei as Supreme National Security Council Secretary",
-      "date": "2026-08-09",
-      "summary_en": "Iranian President Pezeshkian appointed Mohsen Rezaei, a longtime IRGC commander, as Secretary of the Supreme National Security Council. Supreme Leader Khamenei simultaneously named Rezaei as his personal representative to the top security body. The appointment consolidates hardline security establishment control over Iran's defense and foreign policy apparatus.",
-      "summary": "Президент Ирана Пезешкиан назначил бывшего командующего КСИР Мохсена Резаи секретарём Высшего совета национальной безопасности. Одновременно верховный лидер Хаменеи назначил Резаи своим представителем в этом органе. Назначение закрепляет контроль консервативного крыла над силовыми и внешнеполитическими структурами Ирана.",
-      "category": "politics",
-      "perspective": "Иранские консерваторы рассматривают назначение как укрепление национальной безопасности и революционных принципов. Западные правительства и Израиль оценивают его негативно: Резаи — фигура, связанная с КСИР, который признан террористической организацией в ряде стран. Реформаторские круги Ирана могут видеть в этом дальнейшее вытеснение умеренных сил из системы безопасности.",
-      "perspective_type": "assumed",
-      "sources": [
-        "en.irna.ir",
-        "tass.com",
-        "nytimes.com",
-        "tehrantimes.com"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86231813/President-Pezeshkian-appoints-Rezaei-as-secretary-of-SNSC",
-        "https://en.irna.ir/news/86231774/Leader-appoints-Mohsen-Rezaei-as-his-envoy-to-Iran-s-top-security",
-        "https://tass.com/world/2170735",
-        "https://www.nytimes.com/2026/08/09/world/middleeast/iran-security-council-guards-commander.html",
-        "https://en.irna.ir/news/86231847/Ghalibaf-congratulates-Rezaei-on-appointment-as-Iran-s-top-security"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-09",
-      "id": "138790abfa54"
-    },
-    {
-      "title_ru": "МИД РФ исключил заморозку конфликта на Украине; Казахстан предложил площадку для переговоров",
-      "title_en": "Russian MFA Rules Out Freezing Ukraine Conflict; Kazakhstan Offers Negotiation Platform",
-      "date": "2026-08-10",
-      "summary_en": "Deputy Foreign Minister Galuzin stated that Moscow excludes any scenario of freezing the Ukraine conflict. He also revealed Kazakhstan offered its territory as a negotiation platform. The MFA warned that NATO's indulgence of Ukraine is pushing the alliance toward direct war with Russia, and assessed US actions as escalatory.",
-      "summary": "Замглавы МИД РФ Галузин заявил, что Москва исключает сценарий заморозки конфликта на Украине, и сообщил, что Казахстан предлагал свою площадку для переговоров. МИД также предупредил, что потворство НАТО Украине толкает альянс к прямой войне с Россией, и негативно оценил действия США по украинскому направлению.",
-      "category": "politics",
-      "perspective": "Российская сторона подаёт позицию как принципиальный отказ от полумер и настаивает на комплексном урегулировании. Украина и западные страны могут трактовать отказ от заморозки как нежелание Москвы идти на компромиссы. Казахстан — член ОДКБ — выступает в роли нейтрального посредника, что может приветствоваться Глобальным Югом.",
-      "perspective_type": "assumed",
-      "sources": [
-        "tass.ru",
-        "kommersant.ru",
-        "lenta.ru",
-        "vedomosti.ru"
-      ],
-      "links": [
-        "https://tass.ru/politika/27997437",
-        "https://www.kommersant.ru/doc/8875958",
-        "https://lenta.ru/news/2026/08/10/v-mid-vyskazalis-o-vozmozhnosti-zamorozit-konflikt-na-ukraine/",
-        "https://www.vedomosti.ru/politics/news/2026/08/09/1219832-potvorstvo-ukraine-tolkaet-nato",
-        "https://lenta.ru/news/2026/08/10/v-mid-otsenili-deystviya-ssha-po-ukraine/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-10",
-      "id": "2c12271a81cf"
-    },
-    {
-      "title_ru": "Опасное сближение самолётов Jetstar и Qatar Airways в аэропорту Сиднея; двое диспетчеров отстранены",
-      "title_en": "Jetstar and Qatar Airways Planes in Near-Miss Collision at Sydney Airport; Two Controllers Stood Down",
-      "date": "2026-08-10",
-      "summary_en": "A Jetstar and a Qatar Airways aircraft nearly collided on the tarmac at Sydney Airport, prompting an official investigation. Two air traffic control workers were temporarily stood down following the incident. Australian Transport Minister Catherine King was briefed on the near-miss, which raised serious safety concerns.",
-      "summary": "Самолёты Jetstar и Qatar Airways едва не столкнулись на лётном поле аэропорта Сиднея. Двое авиадиспетчеров временно отстранены от работы, начато расследование. Министр транспорта Австралии Кэтрин Кинг проинформирована об инциденте, который вызвал серьёзные вопросы о безопасности полётов.",
-      "category": "politics",
-      "perspective": "Австралийские регуляторы рассматривают инцидент как чрезвычайно серьёзный сбой в системе безопасности. Авиакомпании воздерживаются от публичных комментариев до завершения расследования. Профсоюзы авиадиспетчеров могут указывать на системные проблемы — нехватку персонала и перегрузки.",
-      "perspective_type": "assumed",
-      "sources": [
-        "theguardian.com",
-        "thehindu.com",
-        "timesofindia.indiatimes.com",
-        "dw.com"
-      ],
-      "links": [
-        "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
-        "https://www.thehindu.com/news/international/australia-probes-near-miss-collision-of-two-planes-on-tarmac-at-sydney-airport/article71326818.ece",
-        "https://timesofindia.indiatimes.com/world/rest-of-world/jetstar-qatar-air-jets-in-near-miss-at-sydney-airport/articleshow/133077204.cms",
-        "https://www.dw.com/en/australia-jetstar-qatar-airways-planes-almost-collide-on-sydney-airport-tarmac/a-78293085"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-10",
-      "id": "a202fdcd57ce"
-    },
-    {
-      "title_ru": "США перебросили более 20 военных кораблей к Ормузскому проливу; CENTCOM перенаправил 55 судов",
-      "title_en": "US Deploys 20+ Warships Near Strait of Hormuz; CENTCOM Redirects 55 Vessels",
-      "date": "2026-08-10",
-      "summary_en": "More than 20 US warships have been deployed near the Strait of Hormuz, and CENTCOM has redirected 55 vessels since resuming the maritime blockade of Iran. Iran's Expediency Council chief stated Iran will never retreat from the Strait. Iran continues to link reopening to US concessions, including compensation.",
-      "summary": "Более 20 военных кораблей США развёрнуты в районе Ормузского пролива; CENTCOM перенаправил 55 судов с момента возобновления морской блокады Ирана. Глава Совета целесообразности Ирана заявил, что страна никогда не отступит от пролива. Тегеран продолжает увязывать открытие пролива с уступками США, включая компенсации.",
-      "category": "politics",
-      "perspective": "США рассматривают наращивание сил как обеспечение свободы судоходства и сдерживание Ирана. Иран подаёт свою позицию как защиту суверенитета. Мировые рынки и Международное энергетическое агентство обеспокоены сбоями поставок нефти. Китай и Индия — крупные импортёры — могут наращивать дипломатическое давление на обе стороны.",
-      "perspective_type": "assumed",
-      "sources": [
-        "timesofindia.indiatimes.com",
-        "tass.com",
-        "nytimes.com",
-        "en.irna.ir",
-        "theguardian.com"
-      ],
-      "links": [
-        "https://timesofindia.indiatimes.com/world/middle-east/more-than-20-us-warships-deployed-against-iran-in-hormuz-55-vessels-redirected/articleshow/133079197.cms",
-        "https://tass.com/world/2170751",
-        "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html",
-        "https://en.irna.ir/news/86231687/Iran-will-never-retreat-from-Strait-of-Hormuz-Expediency-Council",
-        "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-10",
-      "id": "498c14dfe011"
-    },
-    {
-      "title_ru": "Развитие ИИ подрывает финансирование профессиональной журналистики в Бразилии",
-      "title_en": "AI Advancement Erodes Funding for Professional Journalism in Brazil",
-      "date": "2026-08-09",
-      "summary_en": "The rapid advancement of artificial intelligence is eroding the financial foundations of professional journalism in Brazil, according to a report by Agência Brasil. AI-generated content and platform automation are reshaping the media landscape, diverting advertising revenue away from traditional newsrooms.",
-      "summary": "Стремительное развитие искусственного интеллекта подрывает финансирование профессиональной журналистики в Бразилии, сообщает Agência Brasil. Контент, создаваемый ИИ, и автоматизация платформ меняют медиа-ландшафт, оттягивая рекламные доходы от традиционных редакций.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "agenciabrasil.ebc.com.br"
-      ],
-      "links": [
-        "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/avanco-da-ia-corroi-financiamento-do-jornalismo-profissional-no-brasil"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-09",
-      "id": "dae5e4c22945"
-    },
-    {
-      "title_ru": "Италия осудила «неприемлемый» пограничный контроль Испании на фоне обострения ситуации с Сеутой",
-      "title_en": "Italy Condemns Spain's 'Unacceptable' Border Controls as Ceuta Fallout Intensifies",
-      "date": "2026-08-09",
-      "summary_en": "Italy condemned Spain's 'unacceptable' border controls as tensions over the Ceuta situation intensify within the European Union. The dispute highlights growing divisions among EU member states over migration management and the Schengen free-movement regime.",
-      "summary": "Италия осудила «неприемлемый» пограничный контроль, введённый Испанией, на фоне обострения ситуации с Сеутой. Конфликт обнажает растущие разногласия между странами ЕС по вопросам управления миграцией и соблюдения Шенгенского режима свободного передвижения.",
-      "category": "politics",
-      "perspective": "Италия рассматривает односторонние меры Испании как нарушение Шенгенских соглашений и создание опасного прецедента. Испания настаивает на суверенном праве защищать границы в условиях миграционного давления. Брюссель оказывается между необходимостью сохранять единство ЕС и уважать озабоченности стран на передовой миграционных потоков.",
-      "perspective_type": "from_source",
-      "sources": [
-        "theguardian.com"
-      ],
-      "links": [
-        "https://www.theguardian.com/world/2026/aug/09/italy-condemns-spain-border-controls-ceuta-fallout-intensifies"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-09",
-      "id": "f7201415a915"
-    },
-    {
-      "title_ru": "Массированная атака БПЛА на регионы России: 13 погибших в Нижнекамске, пожары на складах Wildberries в Воронежской области",
-      "title_en": "Massive Ukrainian Drone Attacks Across Russia: 13 Dead in Nizhnekamsk, Wildberries Warehouses Ablaze in Voronezh",
-      "date": "2026-08-11",
-      "summary_en": "On August 10–11, Ukrainian drones struck multiple Russian regions in a major escalation. In Nizhnekamsk (Tatarstan), an attack on a hostel killed 13 people, including a child and foreign nationals, with 78 injured; Russia's Investigative Committee opened a terrorism case. In Voronezh Region, drones hit Wildberries warehouses, causing a large fire and killing one person. Russia's Defence Ministry reported over 456 UAVs shot down overnight, including drones approaching Moscow.",
-      "summary": "В ночь на 10–11 августа украинские БПЛА массированно атаковали регионы России. В Нижнекамске удар по хостелу унёс жизни 13 человек (включая ребёнка и иностранцев), 78 пострадавших; СКР возбудил дело о теракте. В Воронежской области дроны поразили склады Wildberries — возник крупный пожар, погиб 1 человек. Минобороны отчиталось о 456 сбитых за ночь БПЛА, включая подлёт к Москве.",
-      "category": "politics",
-      "perspective": "Российские власти: эскалация «террористических» ударов по гражданской инфраструктуре, оправдание продолжения СВО. Украина и союзники: легитимные удары по тыловой инфраструктуре. Западные СМИ акцентируют жертвы среди гражданских и масштаб атаки.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Kommersant",
-        "Vedomosti",
-        "TASS",
-        "Lenta.ru",
-        "The Guardian",
-        "The New York Times",
-        "DW"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8876564",
-        "https://www.kommersant.ru/doc/8876805",
-        "https://www.vedomosti.ru/politics/news/2026/08/11/1220196-bpla-voronezhskuyu-oblast",
-        "https://tass.ru/proisshestviya/28001033",
-        "https://lenta.ru/news/2026/08/11/long-v-voronezhskoy-oblasti-pri-padenii-bpla-zagorelis-sklady-krupnoy-kompanii-chto-izvestno/",
-        "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
-        "https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html",
-        "https://www.dw.com/en/ukrainian-drone-attack-kills-at-least-13-in-central-russia/a-78300485"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-11",
-      "id": "05f6e313b481"
-    },
-    {
-      "title_ru": "Землетрясение магнитудой 7,4 в Колумбии: 132 погибших, объявлено чрезвычайное положение",
-      "title_en": "Magnitude 7.4 Earthquake in Colombia Kills 132; Nationwide State of Emergency Declared",
-      "date": "2026-08-11",
-      "summary_en": "A 7.4-magnitude earthquake struck western Colombia on August 10, killing at least 132 people and injuring hundreds. Buildings collapsed in several cities, with rescuers racing to free people from rubble. President Abelardo De La Espriella declared a nationwide state of emergency, marking the first major crisis test for his administration.",
-      "summary": "10 августа на западе Колумбии произошло землетрясение магнитудой 7,4 — сильнейшее за многие годы. Погибли не менее 132 человек, сотни ранены, разрушены здания в ряде городов. Президент Абелардо Де Ла Эсприелла объявил общенациональное чрезвычайное положение. Спасательные работы продолжаются.",
-      "category": "politics",
-      "perspective": "Правительство Колумбии: первое серьёзное испытание для нового президента, проверка готовности служб. Оппозиция может критиковать медлительность реагирования. Международное сообщество: предлагает гуманитарную помощь.",
-      "perspective_type": "assumed",
-      "sources": [
-        "BBC",
-        "NPR",
-        "The Guardian",
-        "The New York Times",
-        "TASS",
-        "DW",
-        "CBC",
-        "The Hindu"
-      ],
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c20e360lx0vo",
-        "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia",
-        "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
-        "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
-        "https://tass.com/emergencies/2171161",
-        "https://www.dw.com/en/colombia-earthquake-death-toll-rises-to-over-100/a-78307841",
-        "https://www.cbc.ca/news/world/colombia-ecuador-earthquake-9.7301513"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-11",
-      "id": "9e5fd19b134c"
-    },
-    {
-      "title_ru": "Путин в Бурятии: запуск ГОКа, мастер-планы городов и борьба с депопуляцией регионов",
-      "title_en": "Putin Visits Buryatia: Launches Mining Complex, Discusses Urban Master Plans and Regional Depopulation",
-      "date": "2026-08-10",
-      "summary_en": "President Putin visited Ulan-Ude on August 10, where he launched the Ermakovsky mining and processing plant, met with Buryatia's governor, and held discussions with urban planners. He endorsed a proposed law on urban master plans and warned against depopulation of Russia's regions, promising to visit Magadan. Putin also stated that 'heroes of the SMO made us feel what Russia is.'",
-      "summary": "10 августа Владимир Путин посетил Улан-Удэ: дал старт Ермаковскому горно-обогатительному комбинату, встретился с главой Бурятии и урбанистами. Поддержал идею закона о мастер-планах развития городов, призвал не допустить депопуляции регионов и сохранять исторический облик городов. Пообещал приехать в Магадан.",
-      "category": "politics",
-      "perspective": "Провластные круги: демонстрация внимания к регионам и промышленного развития. Оппозиция: предвыборная активность на фоне продолжающегося конфликта. Эксперты: сигнал о приоритете территориального развития.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Vedomosti",
-        "Kommersant"
-      ],
-      "links": [
-        "https://www.vedomosti.ru/politics/articles/2026/08/11/1220167-chto-delal-putin-v-buryatii",
-        "https://www.kommersant.ru/doc/8876618",
-        "https://www.kommersant.ru/doc/8876438",
-        "https://www.kommersant.ru/doc/8876473"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-10",
-      "id": "0598ec80f997"
-    },
-    {
-      "title_ru": "Верховный лидер Ирана назначил шесть высших военных командующих",
-      "title_en": "Iran's Supreme Leader Appoints Six Top Military Commanders, Including New IRGC Chief",
-      "date": "2026-08-10",
-      "summary_en": "Iran's Supreme Leader Ali Khamenei appointed six new senior military commanders on August 10, including Ahmad Vahidi as head of the Islamic Revolutionary Guard Corps (IRGC). The appointments follow the earlier designation of Mohsen Rezaei as secretary of the Supreme National Security Council and signal close coordination between Iran's military and political leadership.",
-      "summary": "10 августа верховный лидер Ирана Али Хаменеи назначил шесть новых командующих на ключевые военные посты. Ахмад Вахиди возглавил Корпус стражей исламской революции (КСИР), Мохсен Резаи ранее назначен секретарём Высшего совета нацбезопасности. Перестановки демонстрируют жёсткую координацию военного и политического руководства страны.",
-      "category": "politics",
-      "perspective": "Иранские консерваторы: укрепление обороноспособности. Реформисты: дальнейшая милитаризация госаппарата. Запад и Израиль: усиление влияния КСИР — тревожный сигнал.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Tehran Times",
-        "IRNA",
-        "TASS",
-        "The New York Times"
-      ],
-      "links": [
-        "https://www.tehrantimes.com/news/529012/Iran-s-Leader-appoints-six-top-military-commanders",
-        "https://en.irna.ir/news/86232739/Leader-makes-six-new-appointments-to-key-military-posts",
-        "https://tass.com/world/2171087",
-        "https://www.nytimes.com/2026/08/09/world/middleeast/iran-security-council-guards-commander.html"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-10",
-      "id": "27c68d31a8fb"
-    },
-    {
-      "title_ru": "МИД РФ: вооружённые провокации в Приднестровье будут расценены как нападение на Россию",
-      "title_en": "Russian Foreign Ministry: Armed Provocations in Transnistria to Be Regarded as Attack on Russia",
-      "date": "2026-08-10",
-      "summary_en": "Russia's Foreign Ministry warned that any armed provocations in Transnistria would be treated as an attack on Russia. Moscow also accused Moldova of avoiding diplomatic dialogue and strengthening cooperation with Kyiv, promising tit-for-tat responses to Chisinau's 'diplomatic provocations.' Separately, Moscow warned Ukraine against provocations targeting Belarus.",
-      "summary": "МИД России заявил, что вооружённые провокации в Приднестровье будут расцениваться как нападение на РФ. Москва обвинила Кишинёв в уклонении от дипломатического диалога и укреплении сотрудничества с Киевом, пообещав зеркальный ответ. Также выпущено предупреждение Украине о недопустимости провокаций против Белоруссии.",
-      "category": "politics",
-      "perspective": "Россия: защита соотечественников и миротворцев. Молдавия и Запад: российское запугивание, попытка дестабилизации региона. Украина: отрицает планы провокаций. Приднестровье ищет гарантии безопасности.",
-      "perspective_type": "assumed",
-      "sources": [
-        "TASS"
-      ],
-      "links": [
-        "https://tass.com/politics/2171013",
-        "https://tass.com/politics/2170985",
-        "https://tass.com/politics/2170979",
-        "https://tass.com/politics/2171175"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-10",
-      "id": "7d6f5c9a9464"
-    },
-    {
-      "title_ru": "Сирия согласилась на реорганизацию российского военного присутствия",
-      "title_en": "Syria Agrees to Reorganized Russian Military Presence",
-      "date": "2026-08-09",
-      "summary_en": "Syria has reached an agreement to reorganize Russia's military presence on its territory, according to reports. The deal signals the continuation of the strategic partnership between Moscow and Damascus, though specific details of the reorganization remain undisclosed.",
-      "summary": "Сирия достигла соглашения о реорганизации российского военного присутствия на своей территории. Детали договорённостей не раскрываются, однако соглашение подтверждает продолжение стратегического партнёрства Москвы и Дамаска на фоне перегруппировки сил.",
-      "category": "politics",
-      "perspective": "Россия: сохранение стратегического присутствия на Ближнем Востоке. Запад: обеспокоенность сохранением российского военного влияния. Сирийская оппозиция: уступка суверенитета.",
-      "perspective_type": "from_source",
-      "sources": [
-        "The New York Times"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-09",
-      "id": "2e33c0c3fa3c"
-    },
-    {
-      "title_ru": "Число выставляемых на продажу уязвимостей в IT-системах российских компаний выросло на 20%",
-      "title_en": "Vulnerabilities for Sale in Russian Corporate IT Systems Up 20%",
-      "date": "2026-08-11",
-      "summary_en": "The number of software vulnerabilities in Russian companies' IT systems being offered for sale on dark markets has increased by 20%, according to an August 11 report. The rise in commercially available exploits heightens the risk of cyberattacks on the corporate sector.",
-      "summary": "По данным на 11 августа, количество уязвимостей в IT-системах российских компаний, выставляемых на продажу, выросло на 20%. Рост предложения эксплойтов на теневом рынке повышает риски кибератак для корпоративного сектора.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Kommersant"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8876764"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-11",
-      "id": "fbf4bd409f78"
-    },
-    {
-      "title_ru": "Новая волна атак БПЛА: обрушение путепровода в Новороссийске, гибель ребёнка, угрозы в Липецкой и Тамбовской областях",
-      "title_en": "New Wave of Drone Attacks: Bridge Collapse in Novorossiysk, Child Killed, Threats in Lipetsk and Tambov Regions",
-      "date": "2026-08-12",
-      "summary_en": "On the night of August 12, a massive drone attack struck southern Russia. In Novorossiysk, debris caused a bridge collapse, a child was killed, and eight people were wounded. Residential buildings were damaged in Anapa and Gelendzhik. Drone threat alerts were declared across Lipetsk and Tambov regions. This follows the August 10 attack on Nizhnekamsk that killed 13 people.",
-      "summary": "В ночь на 12 августа массированной атаке БПЛА подверглись южные регионы России. В Новороссийске обломки беспилотников вызвали обрушение путепровода, погиб ребёнок, восемь человек ранены. Повреждены жилые дома в Анапе и Геленджике. Опасность атаки БПЛА объявлена в Липецкой и Тамбовской областях. Это продолжение атаки 10 августа на Нижнекамск, унёсшей жизни 13 человек.",
-      "category": "politics",
-      "perspective": "Российские власти квалифицируют как террористический акт и акт агрессии против гражданского населения. СКР возбуждает дела о теракте. Западные и украинские источники могут рассматривать как легитимные удары по военной логистике. Международное сообщество разделено: одни осуждают удары по гражданской инфраструктуре, другие считают их частью затяжного конфликта.",
-      "perspective_type": "assumed",
-      "sources": [
-        "tass.ru",
-        "www.kommersant.ru",
-        "lenta.ru"
-      ],
-      "links": [
-        "https://tass.ru/proisshestviya/28004597",
-        "https://www.kommersant.ru/doc/8877632",
-        "https://www.kommersant.ru/doc/8877624",
-        "https://lenta.ru/news/2026/08/12/stalo-izvestno-o-serieznyh-posledstviyah-ataki-bpla-na-novorossiysk/",
-        "https://tass.ru/proisshestviya/28004443",
-        "https://tass.ru/proisshestviya/28004449"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-12",
-      "id": "d93d8f764aa5"
-    },
-    {
-      "title_ru": "Иран: Ормузский пролив останется закрытым, пока США не примут условия Тегерана",
-      "title_en": "Iran: Strait of Hormuz Will Remain Closed Until US Accepts Tehran's Conditions",
-      "date": "2026-08-12",
-      "summary_en": "The Secretary of Iran's Supreme National Security Council stated that the Strait of Hormuz will reopen only when the US accepts Iran's conditions. Trump responded by saying US options are to let Tehran fail economically or 'hit them really hard.' The standoff continues as US naval forces remain deployed near the strait. Iran also demanded compensation from the US for casualties during hostilities.",
-      "summary": "Секретарь Высшего совета национальной безопасности Ирана заявил, что Ормузский пролив откроется только после принятия США иранских условий. Трамп в ответ заявил, что у США есть два варианта: позволить Тегерану экономически рухнуть или «ударить по ним очень сильно». Иран также потребовал от США компенсаций за жертвы в ходе боевых действий. Противостояние вокруг стратегического пролива обостряется.",
-      "category": "politics",
-      "perspective": "Иранская сторона представляет закрытие пролива как защиту суверенитета и ответ на американскую агрессию. Администрация Трампа рассматривает это как экономический шантаж и угрозу глобальной торговле, оправдывая военное присутствие. Союзники США в Персидском заливе опасаются экономических последствий. Китай и Индия, зависимые от ближневосточной нефти, призывают к деэскалации.",
-      "perspective_type": "assumed",
-      "sources": [
-        "en.irna.ir",
-        "www.nytimes.com",
-        "www.thehindu.com",
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86233848/SNSC-chief-Strait-of-Hormuz-will-reopen-only-when-US-accepts",
-        "https://www.nytimes.com/2026/08/10/world/middleeast/iran-strait-of-hormuz-us-oman-talks.html",
-        "https://www.thehindu.com/news/international/trump-says-iran-options-are-let-tehran-fail-economically-or-hit-them-really-hard/article71334867.ece",
-        "https://www.kommersant.ru/doc/8876664"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-12",
-      "id": "423936f413b2"
-    },
-    {
-      "title_ru": "Путин провёл Совет по науке и образованию в Новосибирске: импортозамещение в науке и национальная база генетической информации",
-      "title_en": "Putin Holds Science and Education Council in Novosibirsk: Import Substitution in Science and National Genetic Database",
-      "date": "2026-08-11",
-      "summary_en": "During his visit to Novosibirsk, Vladimir Putin chaired a Science and Education Council meeting. He announced that Russia has successfully replaced imported equipment for the SKIF synchrotron with domestic alternatives. Putin also revealed plans to create a national genetic information database and urged Russian businesses to invest in breakthrough scientific technologies. He visited a specialized school at Novosibirsk State University.",
-      "summary": "Владимир Путин провёл в Новосибирске заседание Совета по науке и образованию. Президент заявил, что Россия сумела заменить импортное оборудование для синхротрона СКИФ отечественным. Путин объявил о создании национальной базы генетической информации и призвал бизнес инвестировать в прорывные научные технологии. Также он посетил профильную школу при Новосибирском государственном университете.",
-      "category": "politics",
-      "perspective": "Правительственная оценка: демонстрация научно-технологического суверенитета России вопреки санкциям. Патриотическая общественность поддерживает курс на импортозамещение. Либеральная оппозиция может критиковать изоляцию от мировой науки. Западные эксперты могут расценивать как вынужденное автаркическое развитие.",
-      "perspective_type": "assumed",
-      "sources": [
-        "www.kommersant.ru",
-        "www.vedomosti.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8877522",
-        "https://www.kommersant.ru/doc/8877242",
-        "https://www.kommersant.ru/doc/8877184",
-        "https://www.kommersant.ru/doc/8877122",
-        "https://www.vedomosti.ru/politics/articles/2026/08/12/1220455-chto-putin-predlozhil-dlya-razvitiya-strani"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-11",
-      "id": "8268265b684d"
-    },
-    {
-      "title_ru": "Трамп: помилование Гилмана после звонка Путину, тайный уход с саммита НАТО и стратегия по Ирану",
-      "title_en": "Trump: Gilman Pardoned After Call with Putin, Secret NATO Summit Departure, and Iran Strategy",
-      "date": "2026-08-12",
-      "summary_en": "Donald Trump confirmed that Vladimir Putin agreed to release former US Marine Robert Gilman without an exchange, following their phone conversation. Separately, The Washington Post reported that Trump secretly left the NATO summit on a separate plane due to an Iranian threat. Trump also outlined three US strategies regarding Iran and joked about wanting to become the next US president.",
-      "summary": "Дональд Трамп подтвердил, что Владимир Путин согласился освободить бывшего морпеха Роберта Гилмана без обмена после их телефонного разговора. Тем временем The Washington Post сообщила, что Трамп тайно покинул саммит НАТО на отдельном самолёте из-за угрозы со стороны Ирана. Трамп также описал три стратегии США в противостоянии с Ираном и пошутил о желании стать следующим президентом.",
-      "category": "politics",
-      "perspective": "Республиканцы подают как дипломатический успех Трампа и доказательство его способности договариваться с Путиным. Демократы критикуют скрытность вокруг ухода с саммита НАТО — использование 'decoy passengers' вызывает вопросы о прозрачности. Европейские союзники могут быть обеспокоены сигналом о непредсказуемости американского лидерства.",
-      "perspective_type": "assumed",
-      "sources": [
-        "www.kommersant.ru",
-        "www.vedomosti.ru",
-        "www.pravda.com.ua",
-        "www.theguardian.com"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8877460",
-        "https://www.kommersant.ru/doc/8876781",
-        "https://www.vedomosti.ru/politics/news/2026/08/11/1220421-tramp-ob-osvobozhdenii-gilmana",
-        "https://www.theguardian.com/us-news/2026/aug/11/trump-air-force-one-deception-democrats",
-        "https://www.pravda.com.ua/news/2026/08/12/8048330/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-12",
-      "id": "caa577d19438"
-    },
-    {
-      "title_ru": "Праймериз в США: прогрессивный кандидат побеждает в Миннесоте, гонка в Висконсине остаётся напряжённой",
-      "title_en": "US Primaries: Progressive Wins Minnesota Senate Primary, Wisconsin Governor's Race Remains Close",
-      "date": "2026-08-12",
-      "summary_en": "A progressive candidate won the Minnesota Senate primary, running on anti-ICE sentiments. In Wisconsin, the Democratic primary for governor remained too close to call, with Francesca Hong aiming to ride a progressive wave. The results signal ongoing realignment within the Democratic Party ahead of the midterm elections.",
-      "summary": "Прогрессивный кандидат одержал победу на праймериз в Сенат от Миннесоты, выступая с анти-ICE позицией. В Висконсине гонка за пост губернатора среди демократов остаётся напряжённой — Франческа Хонг пытается оседлать прогрессивную волну. Результаты сигнализируют о продолжающейся перегруппировке внутри Демократической партии перед промежуточными выборами.",
-      "category": "politics",
-      "perspective": "Прогрессивное крыло Демпартии celebrates momentum, видя в победах подтверждение растущего запроса на левую повестку. Умеренные демократы опасаются, что радикализация отпугнёт независимых избирателей. Республиканцы используют прогрессивные победы для мобилизации консервативного электората, выставляя демократов как «социалистов».",
-      "perspective_type": "assumed",
-      "sources": [
-        "www.theguardian.com"
-      ],
-      "links": [
-        "https://www.theguardian.com/us-news/2026/aug/11/wisconsin-primary-election-governor-race",
-        "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-12",
-      "id": "71dfe7da28b7"
-    },
-    {
-      "title_ru": "Приложение Google Gemini достигло одного миллиарда пользователей",
-      "title_en": "Google Gemini App Reaches One Billion Users",
-      "date": "2026-08-12",
-      "summary_en": "Google's AI assistant Gemini has reached one billion users on its mobile application, marking a major milestone in the consumer adoption of generative AI. The achievement underscores Google's dominant position in the AI assistant market and the accelerating integration of large language models into daily digital life.",
-      "summary": "ИИ-ассистент Google Gemini достиг одного миллиарда пользователей мобильного приложения — важнейшая веха в потребительском внедрении генеративного ИИ. Достижение подчёркивает доминирующие позиции Google на рынке ИИ-ассистентов и ускоряющуюся интеграцию больших языковых моделей в повседневную цифровую жизнь.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "www.antaranews.com"
-      ],
-      "links": [
-        "https://www.antaranews.com/berita/5690347/aplikasi-google-gemini-capai-satu-miliar-pengguna"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-12",
-      "id": "7123238531cd"
-    },
-    {
-      "title_ru": "«Росатом» завершил строительство синхротрона СКИФ в Новосибирской области",
-      "title_en": "Rosatom Completes Construction of SKIF Synchrotron in Novosibirsk Region",
-      "date": "2026-08-11",
-      "summary_en": "Rosatom has completed construction of the SKIF (Siberian Ring Photon Source) synchrotron in the Novosibirsk region. President Putin announced that all imported equipment for the facility was successfully replaced with domestically produced alternatives. The synchrotron is a flagship Russian scientific infrastructure project for advanced materials research.",
-      "summary": "«Росатом» завершил строительство синхротрона СКИФ (Сибирский кольцевой источник фотонов) в Новосибирской области. Президент Путин сообщил, что всё импортное оборудование для установки успешно заменено отечественными аналогами. Синхротрон — флагманский проект российской научной инфраструктуры для передовых исследований материалов.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "nplus1.ru",
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://nplus1.ru/news/2026/08/11/skif",
-        "https://www.kommersant.ru/doc/8877080",
-        "https://www.kommersant.ru/doc/8877242"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-11",
-      "id": "44be87852c36"
-    },
-    {
-      "title_ru": "Новая волна атак БПЛА: пожар в Салавате, обесточен Севастополь, сбито 147 дронов за 12 часов",
-      "title_en": "New wave of drone attacks: fire in Salavat, Sevastopol blackout, 147 UAVs downed in 12 hours",
-      "date": "2026-08-13",
-      "summary": "В Башкирии из-за обломков БПЛА возник пожар в промзоне Салавата, а Севастополь оказался обесточен после атаки ВСУ. Силы ПВО за 12 часов уничтожили 147 беспилотников над территорией России, за ночь — более 500.",
-      "summary_en": "In Bashkortostan, drone debris caused a fire at an industrial site in Salavat, and Sevastopol was left without power after a Ukrainian attack. Russian air defense reported downing 147 UAVs over 12 hours, and more than 500 overnight.",
-      "category": "politics",
-      "perspective": "Russian authorities emphasize air defense effectiveness and accuse Ukraine of strikes on civilian infrastructure; Ukrainian and Western narratives may frame attacks as part of the war, while local communities focus on casualties and infrastructure damage.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Kommersant",
-        "TASS",
-        "Vedomosti"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8878455",
-        "https://tass.ru/proisshestviya/28008181",
-        "https://www.kommersant.ru/doc/8878391",
-        "https://www.kommersant.ru/doc/8878366",
-        "https://www.vedomosti.ru/politics/news/2026/08/12/1220747-sbili-147-bespilotnikov"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-13",
-      "id": "c5f753c6d6fc"
-    },
-    {
-      "title_ru": "Путин впервые посетил Курилы и заявил о «генетическом коде победителя» у россиян",
-      "title_en": "Putin visits Kuril Islands for first time, speaks of Russians' 'winner's genetic code'",
-      "date": "2026-08-13",
-      "summary": "Владимир Путин впервые посетил Курильские острова: осмотрел школу и больницу в Курильске, провел совещание по безопасности восточных границ России. Он заявил о «генетическом коде победителя» у россиян и необходимости поддерживать боеспособность ВС и флота.",
-      "summary_en": "Vladimir Putin visited the Kuril Islands for the first time, touring a school and hospital in Kurilsk and holding a meeting on security of Russia's eastern borders. He spoke of Russians' 'winner's genetic code' and the need to maintain the combat readiness of the armed forces and navy.",
-      "category": "politics",
-      "perspective": "Russian authorities present the visit as attention to remote regions and a source of national pride; Japan may view it as a challenge to its claims over the Kuril Islands; domestic critics may raise questions about the timing and costs.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Lenta.ru",
-        "TASS",
-        "Kommersant",
-        "Vedomosti"
-      ],
-      "links": [
-        "https://lenta.ru/news/2026/08/13/long-takie-u-nas-lyudi-putin-vpervye-posetil-kurily-i-rasskazal-o-geneticheskom-kode-rossiyan/",
-        "https://tass.ru/politika/28008193",
-        "https://www.kommersant.ru/doc/8878440",
-        "https://www.vedomosti.ru/politics/articles/2026/08/13/1220802-putin-posetil-sahalin",
-        "https://www.kommersant.ru/doc/8878401"
-      ],
-      "first_reported": "2026-08-13",
-      "id": "a71666d181fe"
-    },
-    {
-      "title_ru": "Число жертв землетрясения в Колумбии выросло до 265, введено чрезвычайное положение",
-      "title_en": "Colombia earthquake death toll rises to 265, state of emergency declared",
-      "date": "2026-08-13",
-      "summary": "После мощного землетрясения в Колумбии число погибших достигло не менее 265 человек. Президент страны ввел чрезвычайное положение в экономике, объявлен национальный траур.",
-      "summary_en": "After a powerful earthquake in Colombia, the death toll reached at least 265. The president declared an economic state of emergency, and national mourning was announced.",
-      "category": "politics",
-      "perspective": "The Colombian government focuses on rescue, relief and emergency economic measures; opposition and local authorities may debate the adequacy of the response; international actors express condolences and offer aid.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Belta",
-        "TASS",
-        "Kommersant",
-        "Vedomosti"
-      ],
-      "links": [
-        "https://belta.by/world/view/zhertvami-zemletrjasenija-v-kolumbii-stali-ne-menee-265-chelovek-795820-2026/",
-        "https://tass.ru/mezhdunarodnaya-panorama/28008041",
-        "https://www.kommersant.ru/doc/8878402",
-        "https://www.kommersant.ru/doc/8878083",
-        "https://www.vedomosti.ru/politics/news/2026/08/11/1220353-zhertv-zemletryaseniya"
-      ],
-      "first_reported": "2026-08-13",
-      "id": "028d02e55ae1"
-    },
-    {
-      "title_ru": "Иран и Пакистан активизируют оборонное и торговое сотрудничество; Тегеран намерен вступить в Новый банк развития БРИКС",
-      "title_en": "Iran and Pakistan step up defense and trade cooperation; Tehran to join BRICS New Development Bank",
-      "date": "2026-08-12",
-      "summary": "Министр обороны и глава МВД Пакистана провели переговоры в Иране, стороны подтвердили стратегическое партнерство и планы расширения торгово-энергетического сотрудничества. Глава ЦБ Ирана сообщил о намерении страны присоединиться к Новому банку развития БРИКС.",
-      "summary_en": "Pakistan's defense minister and interior minister held talks in Iran, with both sides reaffirming their strategic partnership and plans to expand trade and energy cooperation. Iran's central bank governor said Tehran intends to join the BRICS New Development Bank.",
-      "category": "politics",
-      "perspective": "Iran presents the moves as strengthening regional alliances and countering sanctions through BRICS institutions; Pakistan balances ties with Iran and its Gulf/US partners; Western governments may see Iran's BRICS integration as an attempt to bypass financial isolation.",
-      "perspective_type": "assumed",
-      "sources": [
-        "IRNA"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86234394/Pakistani-Defense-Minister-calls-for-strengthening-bilateral",
-        "https://en.irna.ir/news/86234241/Rezaei-reaffirms-Iran-Pakistan-s-strategic-partnership-calls",
-        "https://en.irna.ir/news/86234020/Iran-Pakistan-stress-expansion-of-trade-energy-cooperation",
-        "https://en.irna.ir/news/86233997/Iran-to-join-BRICS-New-Development-Bank-CBI-governor"
-      ],
-      "first_reported": "2026-08-12",
-      "id": "f0996e623bde"
-    },
-    {
-      "title_ru": "Сенат Бразилии одобрил снижение налога на топливо; с 2027 года потребители смогут выбирать поставщика энергии",
-      "title_en": "Brazil Senate approves fuel tax relief; consumers to be able to choose energy suppliers from 2027",
-      "date": "2026-08-12",
-      "summary": "Сенат Бразилии одобрил законопроект о снижении налогов на топливо, текст направлен на подписание. Ранее также была одобрена норма, позволяющая потребителям выбирать поставщиков электроэнергии с 2027 года.",
-      "summary_en": "Brazil's Senate approved a bill reducing taxes on fuels, sending the text for presidential sanction. A separate approved measure will allow consumers to choose electricity suppliers starting in 2027.",
-      "category": "politics",
-      "perspective": "The government and consumers may welcome lower fuel costs and greater energy choice; fiscal conservatives may warn about reduced tax revenue and transition risks in the energy market.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Agência Brasil"
-      ],
-      "links": [
-        "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/senado-aprova-alivio-de-imposto-sobre-combustiveis-texto-vai-sancao",
-        "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/consumidores-poderao-escolher-fornecedores-de-energia-partir-de-2027",
-        "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/camara-aprova-reducao-de-impostos-para-combustiveis"
-      ],
-      "first_reported": "2026-08-12",
-      "id": "3c7855455a2d"
-    },
-    {
-      "title_ru": "Полное солнечное затмение в Европе: миллионы наблюдали за редким явлением",
-      "title_en": "Total solar eclipse over Europe: millions watch rare spectacle",
-      "date": "2026-08-12",
-      "summary": "Полное солнечное затмение, редкое для Европы, наблюдали в Испании, Великобритании и Исландии, частные фазы были видны в США и Канаде. Миллионы людей следили за явлением, которое на время превратило день в ночь.",
-      "summary_en": "A rare total solar eclipse was visible across Spain, the UK and Iceland, with partial phases seen in parts of the US and Canada. Millions watched the spectacle as day briefly turned to night.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The New York Times",
-        "BBC News",
-        "The Guardian",
-        "NPR"
-      ],
-      "links": [
-        "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates",
-        "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
-        "https://www.theguardian.com/science/2026/aug/12/a-magical-eeriness-cornwall-comes-together-for-communal-moment-during-solar-eclipse",
-        "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse"
-      ],
-      "first_reported": "2026-08-12",
-      "id": "e036c62f5829"
-    },
-    {
-      "title_ru": "Пресс-секретарь Трампа Кэролайн Ливитт покидает пост",
-      "title_en": "Trump's press secretary Karoline Leavitt leaving role, president says",
-      "date": "2026-08-13",
-      "summary": "Президент США Дональд Трамп сообщил, что пресс-секретарь Белого дома Кэролайн Ливитт покидает свою должность. Подробности кадрового изменения не раскрываются.",
-      "summary_en": "US President Donald Trump said White House press secretary Karoline Leavitt is leaving her role. Further details of the personnel change were not disclosed.",
-      "category": "politics",
-      "perspective": "Trump allies may frame the departure as a routine staff reshuffle; critics may interpret it as another sign of turbulence in White House communications.",
-      "perspective_type": "assumed",
-      "sources": [
-        "The Guardian"
-      ],
-      "links": [
-        "https://www.theguardian.com/us-news/live/2026/aug/12/donald-trump-air-force-one-switch-politics-primaries-midterm-elections-results-latest-updates"
-      ],
-      "first_reported": "2026-08-13",
-      "id": "e20d7a12b82d"
-    },
-    {
-      "title_ru": "Трамп ввел 100% пошлины на импорт дронов и комплектующих в США",
-      "title_en": "Trump imposes 100% tariffs on drone imports and components",
-      "date": "2026-08-14",
-      "summary_en": "The US has introduced a 100% tariff on imported drones and their components, according to Ukrainian media. The measure is seen as a new step in Washington's trade restrictions and could affect drone suppliers and manufacturers.",
-      "summary": "США ввели 100-процентные пошлины на импорт дронов и комплектующих к ним. По сообщениям украинских СМИ, это новый шаг Вашингтона в ограничении поставок, который может затронуть производителей и экспортеров беспилотников.",
-      "category": "politics",
-      "perspective": "Сторонники протекционизма могут поддержать защиту внутреннего производства, тогда как экспортеры и торговые партнеры могут критиковать меру как усиление торговых барьеров.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Ukrinform",
-        "Ukrainska Pravda"
-      ],
-      "links": [
-        "https://www.ukrinform.ua/rubric-world/4154000-tramp-zaprovadiv-mita-na-import-droniv-do-ssa.html",
-        "https://www.pravda.com.ua/news/2026/08/14/8048609/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-14",
-      "id": "2618bc4cdb49"
-    },
-    {
-      "title_ru": "США заявляют о полном контроле над Ормузским проливом, Иран отвергает это",
-      "title_en": "US claims full control over Strait of Hormuz, Iran rejects",
-      "date": "2026-08-14",
-      "summary_en": "Washington says it fully controls the Strait of Hormuz, while Iran dismisses the claim as 'lies'. Tensions continue amid reports that the Pentagon can maintain a naval blockade of Iran indefinitely and that Washington is preparing unprecedented economic isolation measures.",
-      "summary": "США заявляют о полном контроле над Ормузским проливом; Иран отвергает эти утверждения, называя их ложью. На фоне противостояния Пентагон допускает бессрочную морскую блокаду Ирана, а Вашингтон готовит беспрецедентные меры экономической изоляции.",
-      "category": "politics",
-      "perspective": "США могут подавать контроль над проливом как сдерживание Ирана, тогда как Иран и его союзники расценивают заявления как ложь и эскалацию напряженности.",
-      "perspective_type": "from_source",
-      "sources": [
-        "The Hindu",
-        "TASS",
-        "Ukrinform"
-      ],
-      "links": [
-        "https://www.thehindu.com/news/international/iran-us-war-west-asia-donald-trump-live-updates-august-14-2026/article71343866.ece",
-        "https://tass.com/world/2172629",
-        "https://www.ukrinform.ua/rubric-world/4153981-iran-sprstuvav-zaavu-trampa-pro-kontrol-ssa-nad-ormuzkou-protokou.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-14",
-      "id": "906759b4b658"
-    },
-    {
-      "title_ru": "Новая волна атак БПЛА: поврежден склад Wildberries, дроны сбиты на подлете к Москве и в Ленобласти",
-      "title_en": "New drone attack wave: Wildberries warehouse damaged, drones downed near Moscow and Leningrad region",
-      "date": "2026-08-14",
-      "summary_en": "Debris from drones damaged a Wildberries warehouse in Tver region and port infrastructure in Leningrad region, with dozens of UAVs intercepted. Russian air defenses also downed 10 drones approaching Moscow.",
-      "summary": "Обломки БПЛА повредили склад Wildberries в Тверской области и территорию в районе порта в Ленинградской области, сбиты десятки дронов. На подлете к Москве уничтожены 10 беспилотников.",
-      "category": "politics",
-      "perspective": "Российские официальные источники сообщают об успешном отражении атак; украинская сторона обычно не комментирует удары, а международные наблюдатели могут по-разному оценивать эскалацию.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Kommersant",
-        "TASS",
-        "Vedomosti",
-        "Lenta"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8879208",
-        "https://tass.ru/proisshestviya/28011429",
-        "https://www.vedomosti.ru/politics/news/2026/08/14/1221087-pvo-sbili-10",
-        "https://lenta.ru/news/2026/08/14/sobyanin-soobschil-o-likvidatsii-dvuh-letevshih-na-moskvu-bpla/"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-14",
-      "id": "a54b02640d5a"
-    },
-    {
-      "title_ru": "Бразилия открывает процесс взаимности против тарифов США",
-      "title_en": "Brazil opens reciprocity process against US tariffs",
-      "date": "2026-08-13",
-      "summary_en": "The Brazilian government has begun a reciprocity procedure in response to US tariffs, signaling a more assertive trade stance. The move could lead to countermeasures affecting bilateral trade.",
-      "summary": "Правительство Бразилии начало процедуру взаимности в ответ на тарифы США. Это может привести к ответным мерам и повлиять на двустороннюю торговлю.",
-      "category": "politics",
-      "perspective": "Правительство может рассматривать шаг как защиту национальных интересов; экспортеры и бизнес могут опасаться роста торговой напряженности и издержек.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Agência Brasil"
-      ],
-      "links": [
-        "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/governo-abre-processo-de-reciprocidade-contra-tarifas-dos-eua"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-13",
-      "id": "be67c6cdce4e"
-    },
-    {
-      "title_ru": "Комиссия по производительности назвала GST-сделку эпохи Моррисона с Западной Австралией многомиллиардной ошибкой",
-      "title_en": "Productivity Commission finds Morrison-era GST deal with WA a multi-billion dollar mistake",
-      "date": "2026-08-14",
-      "summary_en": "Australia's Productivity Commission found that the GST deal struck with Western Australia under the Morrison government was a multi-billion dollar mistake that should be reversed. The finding could fuel debate on fiscal arrangements between the Commonwealth and states.",
-      "summary": "Комиссия по производительности Австралии пришла к выводу, что сделка по GST, заключенная с Западной Австралией при правительстве Моррисона, была многомиллиардной ошибкой и должна быть пересмотрена. Вывод может усилить споры о распределении налоговых поступлений.",
-      "category": "politics",
-      "perspective": "Федеральные власти и эксперты могут настаивать на пересмотре сделки, тогда как Западная Австралия, вероятно, будет защищать полученные выгоды.",
-      "perspective_type": "assumed",
-      "sources": [
-        "The Guardian"
-      ],
-      "links": [
-        "https://www.theguardian.com/australia-news/2026/aug/14/morrison-era-gst-deal-western-australia-23bn-mistake-productivity-commission"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-14",
-      "id": "346f0999ed1e"
-    },
-    {
-      "title_ru": "WhatsApp будет бороться с мошенниками с помощью ИИ-напоминаний",
-      "title_en": "WhatsApp to fight scammers with AI-based reminder feature",
-      "date": "2026-08-14",
-      "summary_en": "WhatsApp is preparing an AI-powered reminder feature to help users recognize and avoid scammers. The feature is aimed at enhancing protection against online fraud.",
-      "summary": "WhatsApp готовит функцию на основе искусственного интеллекта, которая будет напоминать пользователям о рисках и помогать распознавать мошенников. Нововведение направлено на усиление защиты от онлайн-мошенничества.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Antara"
-      ],
-      "links": [
-        "https://www.antaranews.com/berita/5693933/whatsapp-bakal-perangi-scammers-dengan-fitur-pengingat-berbasis-ai"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-14",
-      "id": "631ba0b3fcc8"
-    },
-    {
-      "title_ru": "Instagram сменил текстовый логотип спустя 10 лет",
-      "title_en": "Instagram changes text logo after 10 years",
-      "date": "2026-08-14",
-      "summary_en": "Instagram has changed its text logo for the first time in a decade. The update is part of a visual rebranding by the social media platform.",
-      "summary": "Instagram впервые за 10 лет сменил текстовый логотип. Обновление стало частью визуального ребрендинга социальной сети.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Antara"
-      ],
-      "links": [
-        "https://www.antaranews.com/berita/5693927/instagram-ganti-logo-teks-setelah-10-tahun"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-14",
-      "id": "97f6e5ebc44c"
-    },
-    {
-      "title_ru": "Трамп заявил о намерении объявить Ормузский пролив территорией США",
-      "title_en": "Trump says he will soon declare the Strait of Hormuz US territory",
-      "date": "2026-08-15",
-      "summary_en": "President Trump said the US would 'soon' declare the Strait of Hormuz US territory, while Iran insisted that no ship can transit Hormuz without authorization. Washington also threatened a response '100 times harder' if Iran strikes, amid the ongoing US-Iran conflict and rising oil prices.",
-      "summary": "Трамп заявил, что США «вскоре» объявят Ормузский пролив своей территорией, тогда как Иран настаивает, что ни одно судно не может проходить через Хормуз без разрешения. Вашингтон также пригрозил ответом «в 100 раз жестче» в случае удара Ирана; заявления звучат на фоне продолжающегося американо-иранского конфликта и роста цен на нефть.",
-      "category": "politics",
-      "perspective": "Администрация Трампа представляет шаг как демонстрацию силы и контроль над стратегическим маршрутом; Иран считает это посягательством на суверенитет и эскалацией; другие державы обеспокоены свободой судоходства и поставками нефти.",
-      "perspective_type": "assumed",
-      "sources": [
-        "The Hindu",
-        "The Guardian",
-        "Tagesschau",
-        "TASS",
-        "IRNA",
-        "Antara News"
-      ],
-      "links": [
-        "https://www.thehindu.com/news/international/trump-says-will-soon-declare-hormuz-strait-us-territory/article71348358.ece",
-        "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
-        "https://www.tagesschau.de/ausland/amerika/trump-hormus-106.html",
-        "https://tass.com/world/2173581",
-        "https://tass.com/world/2173585",
-        "https://en.irna.ir/news/86234748/Iran-No-ship-can-transit-Hormuz-without-authorization",
-        "https://www.antaranews.com/berita/5695675/trump-akan-deklarasi-selat-hormuz-sebagai-wilayah-as"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-15",
-      "id": "63a3b42cf4b3"
-    },
-    {
-      "title_ru": "Масштабные атаки БПЛА на регионы России: ПВО сбила сотни дронов, есть повреждения",
-      "title_en": "Mass drone attacks on Russian regions: air defenses down hundreds of UAVs, damage reported",
-      "date": "2026-08-15",
-      "summary_en": "Russian authorities reported that air defense forces shot down hundreds of Ukrainian drones, including 553 in one night and 221 during the day on August 14, with drones intercepted near Moscow and Sevastopol. Attacks damaged power lines in the Rostov region, set a farm in the Penza region on fire, and earlier damaged a Wildberries warehouse in the Tver region.",
-      "summary": "Российские власти сообщили, что силы ПВО сбили сотни украинских беспилотников: 553 за одну ночь и 221 днём 14 августа, в том числе на подлёте к Москве и в Севастополе. В результате атак повреждены ЛЭП в Ростовской области, загорелось сельхозпредприятие в Пензенской области, ранее был повреждён склад Wildberries в Тверской области.",
-      "category": "politics",
-      "perspective": "Российские официальные источники подают это как успешную работу ПВО и акты агрессии ВСУ; украинская сторона может рассматривать удары как продолжение боевых действий; жители пострадавших регионов озабочены ущербом и безопасностью.",
-      "perspective_type": "assumed",
-      "sources": [
-        "TASS",
-        "Kommersant",
-        "Vedomosti"
-      ],
-      "links": [
-        "https://tass.ru/proisshestviya/28014649",
-        "https://www.kommersant.ru/doc/8890389",
-        "https://www.kommersant.ru/doc/8890382",
-        "https://www.kommersant.ru/doc/8879237",
-        "https://www.kommersant.ru/doc/8879208",
-        "https://www.vedomosti.ru/politics/news/2026/08/14/1221314-sbili-221-bespilotnik"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-15",
-      "id": "1770b0b8895d"
-    },
-    {
-      "title_ru": "После визита Путина на Курилы Япония грозит санкциями, США выразили солидарность с Токио",
-      "title_en": "After Putin's Kuril Islands visit, Japan threatens sanctions and US voices solidarity with Tokyo",
-      "date": "2026-08-15",
-      "summary_en": "Following Vladimir Putin's trip to the Kuril island of Iturup, Japan said it would consider retaliatory measures and tighten sanctions, while the US stated solidarity with Japan over the islands. Moscow called Tokyo's reaction unacceptable and said the Kurils will remain Russian; Chinese statements after the trip were interpreted by some as a signal to Russia.",
-      "summary": "После поездки Владимира Путина на курильский остров Итуруп Япония заявила о намерении ужесточить санкции и рассмотреть ответные меры, а США выразили солидарность с Токио. Москва назвала реакцию Японии неприемлемой и подчеркнула, что Курилы останутся российскими; в заявлении Китая после визита некоторые увидели сигнал для России.",
-      "category": "politics",
-      "perspective": "Москва считает визит подтверждением российского суверенитета над Курилами; Токио расценивает его как нарушение своей позиции и повод для санкций; США поддерживают Японию, а Китай может использовать ситуацию для балансирования.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Lenta.ru",
-        "Kommersant",
-        "Vedomosti"
-      ],
-      "links": [
-        "https://lenta.ru/news/2026/08/15/iz-rossii-postroili-most-v-severnuyu-koreyu/",
-        "https://www.kommersant.ru/doc/8879232",
-        "https://www.vedomosti.ru/politics/news/2026/08/14/1221089-yaponiya-rassmotrit",
-        "https://www.kommersant.ru/doc/8889879",
-        "https://www.kommersant.ru/doc/8879107",
-        "https://www.kommersant.ru/doc/8878786"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-15",
-      "id": "163dcb27145f"
-    },
-    {
-      "title_ru": "Землетрясение в НТТ: число погибших растёт, угроза цунами миновала, власти координируют восстановление",
-      "title_en": "NTT earthquake: death toll rises, tsunami warning lifted as authorities coordinate recovery",
-      "date": "2026-08-15",
-      "summary_en": "The governor of East Nusa Tenggara said the death toll from the earthquake in Flores had risen, while Indonesia's geophysics agency ended the tsunami early warning after the M7.7 quake near Nagekeo. Authorities were coordinating emergency response and power restoration, and BMKG denied rumors of another major quake on August 15, 2026.",
-      "summary": "Губернатор Восточной Нуса-Тенгары сообщил, что число погибших при землетрясении на Флоресе выросло, а геофизическое агентство Индонезии отменило предупреждение о цунами после землетрясения магнитудой 7,7 у Нагекео. Власти координируют ликвидацию последствий и восстановление электроснабжения; BMKG опровергло слухи о новом крупном землетрясении 15 августа 2026 года.",
-      "category": "politics",
-      "perspective": "Индонезийские власти подчёркивают оперативность реагирования и восстановления; пострадавшие и местные политики могут оценивать достаточность помощи; сейсмологи и агентства акцентируют важность борьбы со слухами.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Antara News"
-      ],
-      "links": [
-        "https://www.antaranews.com/berita/5695713/gubernur-ntt-korban-meninggal-akibat-gempa-di-flores-bertambah",
-        "https://www.antaranews.com/berita/5695625/bmkg-peringatan-dini-tsunami-dinyatakan-berakhir",
-        "https://www.antaranews.com/berita/5695632/bmkg-ntt-isu-gempa-besar-15-agustus-2026-tidak-benar",
-        "https://www.antaranews.com/berita/5695629/pln-siaga-pemulihan-kelistrikan-ntt-pascagempa-m-77-di-nagekeo",
-        "https://www.antaranews.com/berita/5695633/mensesneg-koordinasikan-kesiagaan-pemerintah-pascagempa-ntt"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-15",
-      "id": "bb028d70a11f"
-    },
-    {
-      "title_ru": "Премьер-министр Японии направил ритуальное подношение в храм Ясукуни",
-      "title_en": "Japanese PM sends ritual offering to controversial Yasukuni Shrine",
-      "date": "2026-08-15",
-      "summary_en": "Japan's prime minister sent a ritual offering to the controversial Yasukuni Shrine, a move that has historically drawn criticism from neighboring countries over the shrine's association with Japan's wartime past. The offering was reported around the anniversary of the end of World War II.",
-      "summary": "Премьер-министр Японии направил ритуальное подношение в спорный храм Ясукуни, что традиционно вызывает критику соседних стран из-за ассоциации храма с военным прошлым Японии. Сообщается, что подношение было сделано в годовщину окончания Второй мировой войны.",
-      "category": "politics",
-      "perspective": "В Японии шаг могут представлять как религиозную традицию; Китай и Южная Корея, вероятно, осудят его как пересмотр военной истории; внутри Японии оценки также политически расходятся.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Antara News"
-      ],
-      "links": [
-        "https://www.antaranews.com/berita/5695741/pm-jepang-kirim-persembahan-ritual-ke-kuil-yasukuni-yang-kontroversial"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-15",
-      "id": "cf99b8a8460e"
-    },
-    {
-      "title_ru": "Reuters: Apple создает специальную ИИ-модель для Китая",
-      "title_en": "Reuters: Apple is developing a special AI model for China",
-      "date": "2026-08-14",
-      "summary_en": "Reuters reported that Apple is creating a special AI model for China. The report was carried by Kommersant.",
-      "summary": "По данным Reuters, Apple создает специальную ИИ-модель для Китая. Сообщение опубликовал «Коммерсантъ».",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Kommersant"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8889788"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-14",
-      "id": "f45214492031"
-    },
-    {
-      "title_ru": "Новый дата-центр Amazon вызывает опасения как самая загрязняющая электростанция в США",
-      "title_en": "New Amazon data center stokes worry it would be the most polluting power plant in the US",
-      "date": "2026-08-10",
-      "summary_en": "A new Amazon data center has raised concerns that it would be the most polluting power plant in the United States. Deutsche Welle noted that US citizens are ramping up pressure on data centers.",
-      "summary": "Новый дата-центр Amazon вызвал опасения, что он станет самой загрязняющей электростанцией в США. Deutsche Welle отметила, что американцы усиливают давление на операторов дата-центров.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The New York Times",
-        "Deutsche Welle"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
-        "https://www.dw.com/en/us-citizens-are-ramping-up-pressure-on-data-centers/a-78064418?maca=en-rss-en-all-1573-xml-mrss"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-10",
-      "id": "810548e25e42"
-    },
-    {
       "title_ru": "Индонезия отмечает 81-ю годовщину независимости",
       "title_en": "Indonesia marks 81st anniversary of independence",
       "date": "2026-08-17",
@@ -2262,10 +1074,233 @@
       "is_development": false,
       "first_reported": "2026-08-23",
       "id": "45d4b388be12"
+    },
+    {
+      "title_ru": "В Горловке БПЛА Hornet атаковал кафедральный собор, ранены двое священников",
+      "title_en": "Drone strikes cathedral in Horlivka, wounding two priests",
+      "date": "2026-08-23",
+      "summary_en": "A Ukrainian drone attack targeted a cathedral in Horlivka in Russian-controlled Donbas, wounding two priests; authorities said the cathedral building itself was not damaged. The drone was identified as a Hornet UAV.",
+      "summary": "В Горловке украинский БПЛА Hornet атаковал кафедральный собор: двое священников получили ранения, при этом здание собора, по данным российских источников, не пострадало.",
+      "category": "politics",
+      "perspective": "Российские официальные источники квалифицируют это как удар по религиозному объекту; украинская сторона может оспаривать обстоятельства; международные наблюдатели могут призывать к защите гражданских и религиозных объектов.",
+      "perspective_type": "assumed",
+      "sources": [
+        "TASS",
+        "RBC",
+        "RIA Novosti"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/28037503",
+        "https://www.rbc.ru/rbcfreenews/6a816efc9a79470cbfc47c2a",
+        "https://ria.ru/20260823/vsu-2112671063.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-23",
+      "id": "977f73525b47"
+    },
+    {
+      "title_ru": "Индонезия наращивает борьбу с лесными пожарами на Калимантане: 1 000 рейнджеров и иностранная авиация",
+      "title_en": "Indonesia scales up Kalimantan wildfire response with 1,000 rangers and foreign aircraft",
+      "date": "2026-08-23",
+      "summary_en": "Indonesia is expanding its response to forest and peatland fires in Kalimantan, deploying 1,000 rangers, assigning ministers to coordinate regional efforts, fast-tracking foreign firefighting aircraft and intensifying peatland wetting and cloud seeding. The measures follow President Prabowo's visit to lead the response.",
+      "summary": "Индонезия расширяет меры по тушению лесных и торфяных пожаров на Калимантане: министерство направит 1 000 рейнджеров, правительство закрепило министров за регионами, ускорило допуск иностранной авиации и усилило обводнение торфяников и засев облаков. Это развитие реакции, которую ранее возглавил президент Прабово.",
+      "category": "politics",
+      "perspective": "Правительство Индонезии подаёт это как скоординированную мобилизацию ресурсов; экологические организации могут требовать системного решения причин пожаров; соседние страны обеспокоены трансграничным смогом.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Antara News"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/428300/ministry-to-deploy-1000-rangers-to-extinguish-kalimantan-wildfires",
+        "https://en.antaranews.com/news/428284/govt-assigns-ministers-to-handle-regional-forest-fires",
+        "https://en.antaranews.com/news/428280/indonesia-fast-tracks-foreign-aircraft-to-fight-forest-fires"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-23",
+      "id": "c7ed8afcb3bc"
+    },
+    {
+      "title_ru": "Иран отверг «вмешательство» двух французских дипломатов",
+      "title_en": "Iran rejects 'interference' by two French diplomats",
+      "date": "2026-08-23",
+      "summary_en": "Iran's Foreign Ministry condemned what it called unacceptable interference by two French diplomats and said Tehran rejects such actions. The statement followed reports of the diplomats' conduct in Iran.",
+      "summary": "МИД Ирана осудил «неприемлемое вмешательство» двух французских дипломатов и заявил, что Тегеран отвергает подобные действия. Подробности инцидента в иранских источниках не раскрываются.",
+      "category": "politics",
+      "perspective": "Тегеран рассматривает это как нарушение суверенитета; Франция и европейские столицы могут настаивать на соблюдении дипломатических норм; инцидент может усилить напряжённость в отношениях Ирана и ЕС.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Mehr News Agency",
+        "IRNA"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/247177/Iran-blasts-unacceptable-interference-of-2-French-diplomats",
+        "https://en.irna.ir/news/86243285/Iran-rejects-interference-by-two-French-diplomats"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-23",
+      "id": "896fc51d770a"
+    },
+    {
+      "title_ru": "Организаторов ежегодной гонконгской вахты памяти на площади Тяньаньмэнь осудили за подрывную деятельность",
+      "title_en": "Organizers of Hong Kong's annual Tiananmen vigil convicted of inciting subversion",
+      "date": "2026-08-23",
+      "summary_en": "Organizers of Hong Kong's annual Tiananmen vigil have been convicted in a national security case of inciting subversion, according to reports. The case highlights the continued enforcement of Hong Kong's national security law.",
+      "summary": "Организаторы ежегодной гонконгской вахты памяти на площади Тяньаньмэнь признаны виновными по делу о национальной безопасности — их осудили за подстрекательство к подрывной деятельности. Это решение подчёркивает жёсткое применение закона о нацбезопасности в Гонконге.",
+      "category": "politics",
+      "perspective": "Власти Гонконга и Пекин считают это законным правоприменением; правозащитные организации и западные правительства критикуют приговор как подавление свобод; гонконгские активисты за рубежом называют это репрессиями.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Nikkei Asia",
+        "The Globe and Mail",
+        "Taipei Times"
+      ],
+      "links": [
+        "https://asia.nikkei.com/spotlight/hong-kong-security-law/hong-kong-tiananmen-vigil-organizers-convicted-of-inciting-subversion",
+        "https://www.theglobeandmail.com/world/article-organizers-of-hong-kongs-annual-tiananmen-vigil-convicted-in-national/",
+        "https://www.taipeitimes.com/News/world/archives/2026/08/24/2003863042"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-23",
+      "id": "235908affdae"
+    },
+    {
+      "title_ru": "Индонезия добивается расширения совместных военных учений с Китаем",
+      "title_en": "Indonesia seeks expanded joint military exercises with China",
+      "date": "2026-08-23",
+      "summary_en": "Indonesia is seeking to expand joint military exercises with China, according to a Nikkei Asia report, amid deepening Jakarta-Beijing defense and economic cooperation. The move follows meetings between Indonesian President Prabowo Subianto and Chinese ministers.",
+      "summary": "Индонезия, по данным Nikkei Asia, добивается расширения совместных военных учений с Китаем на фоне углубления оборонного и экономического сотрудничества Джакарты и Пекина. Ранее Прабово принял китайских министров для укрепления двусторонних связей.",
+      "category": "politics",
+      "perspective": "Джакарта может подавать это как диверсификацию оборонных связей; США и региональные партнёры могут видеть в этом сдвиг в сторону Китая; Пекин приветствует углубление сотрудничества.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Nikkei Asia",
+        "Antara News"
+      ],
+      "links": [
+        "https://asia.nikkei.com/politics/defense/indonesia-seeks-expanded-joint-military-exercises-with-china",
+        "https://en.antaranews.com/news/428247/prabowo-hosts-chinese-ministers-to-deepen-bilateral-ties"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-23",
+      "id": "c855e23e27d5"
+    },
+    {
+      "title_ru": "17-летний школьник создал ИИ для расшифровки структур белков и выиграл $90 000",
+      "title_en": "17-year-old builds AI to decode protein structures, wins $90,000",
+      "date": "2026-08-23",
+      "summary_en": "A 17-year-old Massachusetts student named Jerry Xu built an AI program that turns protein structures into strings of numbers and won $90,000. The work applies AI to structural biology.",
+      "summary": "17-летний студент из Массачусетса Джерри Сюй создал ИИ-программу, преобразующую структуры белков в последовательности чисел, и получил за неё приз в размере $90 000.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Times of India"
+      ],
+      "links": [
+        "https://timesofindia.indiatimes.com/science/meet-jerry-xu-the-17-year-old-massachusetts-student-who-built-an-ai-program-that-turns-protein-structures-into-strings-of-numbers-he-won-90000/articleshow/133438450.cms"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-23",
+      "id": "88a0f3ab82ee"
+    },
+    {
+      "title_ru": "Kakao Corp. выделит основной бизнес для усиления ИИ-направления",
+      "title_en": "Kakao Corp. to spin off core business to strengthen AI capabilities",
+      "date": "2026-08-21",
+      "summary_en": "South Korea's Kakao Corp. announced plans to spin off its core business as part of efforts to strengthen its AI capabilities, according to multiple reports. The restructuring is aimed at sharpening the company's focus on artificial intelligence.",
+      "summary": "Южнокорейская Kakao Corp. объявила о планах выделить основной бизнес в отдельную структуру, чтобы усилить свои возможности в сфере искусственного интеллекта. Реструктуризация призвана сфокусировать компанию на ИИ-направлении.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Yonhap News Agency"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260821004200320"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-21",
+      "id": "fb2b785a3146"
+    },
+    {
+      "title_ru": "Ванкувер превращает тепло сточных вод в возобновляемую энергию для зданий",
+      "title_en": "Vancouver turns sewage heat into renewable energy for buildings",
+      "date": "2026-08-23",
+      "summary_en": "Vancouver is capturing heat that normally disappears down showers, sinks and toilets and sending it back into buildings; sewage now supplies most of one district's renewable heat. The system is highlighted as an example of urban clean-energy innovation.",
+      "summary": "Ванкувер улавливает тепло, которое обычно уходит вместе со сточными водами из душевых, раковин и туалетов, и возвращает его в здания; сточные воды теперь обеспечивают большую часть возобновляемого тепла одного из районов.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Times of India"
+      ],
+      "links": [
+        "https://timesofindia.indiatimes.com/world/rest-of-world/vancouver-captures-heat-that-normally-disappears-down-showers-sinks-and-toilets-and-sends-it-back-into-buildings-sewage-now-supplies-most-of-one-districts-renewable-heat/articleshow/133439185.cms"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-23",
+      "id": "76cbfa0a1352"
+    },
+    {
+      "title_ru": "Первая в Турции школа возобновляемой энергетики вышла в мировой финал",
+      "title_en": "Türkiye's first renewable energy high school reaches global final",
+      "date": "2026-08-23",
+      "summary_en": "Türkiye's first renewable energy high school has reached the final of a global competition, according to Daily Sabah. The school is recognized for its focus on renewable energy education.",
+      "summary": "Первая в Турции старшая школа, специализирующаяся на возобновляемой энергетике, вышла в финал международного конкурса. Учебное заведение отмечено за образовательную программу в области чистой энергетики.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Daily Sabah"
+      ],
+      "links": [
+        "https://www.dailysabah.com/turkiye/education/turkiyes-1st-renewable-energy-high-school-reaches-global-final"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-23",
+      "id": "82ef3bf4be38"
+    },
+    {
+      "title_ru": "Xiaomi показала новый чип Xring и складной MIX Ultra бордового цвета",
+      "title_en": "Xiaomi teases new Xring chip and burgundy-colored Xiaomi MIX Ultra",
+      "date": "2026-08-23",
+      "summary_en": "Xiaomi teased a new Xring chip and a burgundy-colored Xiaomi MIX Ultra foldable, signaling upcoming hardware. The teaser points to new in-house silicon and a foldable flagship.",
+      "summary": "Xiaomi анонсировала новый чип Xring и складной смартфон Xiaomi MIX Ultra в бордовом цвете. Тизер указывает на подготовку нового фирменного чипа и флагманского складного устройства.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Gizmochina"
+      ],
+      "links": [
+        "https://www.gizmochina.com/2026/08/23/xiaomi-xring-o3-burgundy-mix-ultra-foldable-teaser/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-23",
+      "id": "6c953273ee25"
+    },
+    {
+      "title_ru": "Банк Кореи, как ожидается, повысит прогноз роста на 2026 год выше 3%",
+      "title_en": "BOK expected to raise S. Korea's 2026 growth estimate to over 3 pct: experts",
+      "date": "2026-08-23",
+      "summary_en": "The Bank of Korea is expected to raise South Korea's 2026 growth estimate to over 3 percent, according to experts, amid a semiconductor boom. The upgraded outlook reflects strong chip-driven economic momentum.",
+      "summary": "Банк Кореи, по мнению экспертов, повысит прогноз роста экономики Южной Кореи на 2026 год до уровня выше 3% на фоне бума в полупроводниковой отрасли. Улучшенная оценка отражает сильный импульс экономики, связанный с чипами.",
+      "category": "finance",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Yonhap News Agency"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260823000800320"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-23",
+      "id": "8468d6c6a302"
     }
   ],
   "_stats": {
-    "total_tokens": 1079066,
-    "total_cost": 164.51908799999998
+    "total_tokens": 1112944,
+    "total_cost": 178.34398799999997
   }
 }
