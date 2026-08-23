@@ -1,167 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "OpenAI планирует выпустить «умную колонку-пончик» в 2027 году",
-      "title_en": "OpenAI to Release Smart 'Donut Speaker' in 2027",
-      "date": "2026-08-07",
-      "summary_en": "OpenAI is reportedly planning to launch a smart speaker with a distinctive donut-shaped design by 2027. The device would mark OpenAI's expansion from software into consumer hardware, potentially integrating its AI models into a home assistant form factor to compete with existing smart speakers.",
-      "summary": "OpenAI планирует выпустить умную колонку в узнаваемом дизайне «пончика» к 2027 году. Устройство ознаменует экспансию компании из программного обеспечения в потребительское «железо» и, вероятно, интегрирует ИИ-модели OpenAI в формат домашнего ассистента, конкурируя с существующими смарт-колонками.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Antara News"
-      ],
-      "links": [
-        "https://www.antaranews.com/berita/5683760/openai-akan-rilis-speaker-donat-pintar-pada-2027"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-07",
-      "id": "3604b3f9dfbb"
-    },
-    {
-      "title_ru": "Китайская Unitree выходит на IPO: ставка на гуманоидных роботов",
-      "title_en": "China's Unitree Prices IPO, Betting Investors Are Ready for Humanoid Robots",
-      "date": "2026-08-07",
-      "summary_en": "Chinese robotics company Unitree has priced its IPO, testing investor appetite for humanoid robot technology. The move comes amid growing US-China tech competition, with Trump administration reportedly viewing humanoid robots as the next front in the trade battle. Unitree's public offering signals confidence in the commercial viability of general-purpose humanoid robots.",
-      "summary": "Китайская робототехническая компания Unitree провела оценку IPO, проверяя готовность инвесторов к рынку гуманоидных роботов. Это происходит на фоне растущей технологической конкуренции США и Китая — администрация Трампа, по данным DW, рассматривает гуманоидных роботов как новый фронт торговой войны. Выход Unitree на биржу сигнализирует об уверенности в коммерческой состоятельности роботов-гуманоидов общего назначения.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The New York Times",
-        "DW"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html",
-        "https://www.dw.com/en/humanoid-robots-trump-s-latest-china-trade-battle/a-78181288"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-07",
-      "id": "c66d309bd2bf"
-    },
-    {
-      "title_ru": "Рекордная волна БПЛА: 605 дронов за ночь, удары по НПЗ и Москве",
-      "title_en": "Record drone wave against Russia: 605 UAVs in one night, oil refineries and Moscow targeted",
-      "date": "2026-08-08",
-      "summary_en": "Between August 5 and 8, Russia faced its largest-ever coordinated drone offensive. On the night of August 6 alone, air defense shot down 605 Ukrainian UAVs — a record — followed by 397 on August 8. Strikes hit oil refineries in Yaroslavl and Krasnodar (Ilsky), Wildberries warehouses in Tver and Tula regions, and at least three drones were intercepted on approach to Moscow. Regions affected include Lipetsk, Belgorod, Bryansk, Kursk, Rostov, Samara, Nizhny Novgorod, and Crimea (Kerch), with dozens of casualties reported.",
-      "summary": "С 5 по 8 августа Россия пережила крупнейшую скоординированную атаку беспилотников. Только в ночь на 6 августа ПВО сбила рекордные 605 БПЛА, а в ночь на 8 августа — ещё 397. Ударам подверглись НПЗ в Ярославской области и на Кубани (Ильский), склады Wildberries в Тверской и Тульской областях; не менее трёх дронов перехвачено на подлёте к Москве. География атак — от Липецкой и Ростовской областей до Крыма (Керчь); десятки пострадавших и погибших.",
-      "category": "politics",
-      "perspective": "Российские власти характеризуют атаки как террористические действия Украины против гражданской инфраструктуры. Украинская сторона и западные союзники могут рассматривать удары как легитимное военное давление. Независимо от позиции, страдает гражданское население, что усиливает антивоенные настроения с обеих сторон.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Коммерсантъ",
-        "ТАСС",
-        "Ведомости"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8875436",
-        "https://tass.ru/armiya-i-opk/27994049",
-        "https://www.kommersant.ru/doc/8863652",
-        "https://www.vedomosti.ru/politics/news/2026/08/06/1219212-pvo-sbila",
-        "https://www.kommersant.ru/doc/8875435",
-        "https://www.kommersant.ru/doc/8863806",
-        "https://www.kommersant.ru/doc/8863643"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-08",
-      "id": "c1c6e4cfdb26"
-    },
-    {
-      "title_ru": "Сенат США одобрил ужесточение санкций против России и Ирана",
-      "title_en": "US Senate passes bill toughening sanctions against Russia and Iran",
-      "date": "2026-08-07",
-      "summary_en": "The US Senate approved Senator Lindsey Graham's bill to significantly tighten sanctions against both Russia and Iran. The bill passed with majority support. Some senators, however, warned that the new measures carry risks and could have unintended consequences.",
-      "summary": "Сенат США большинством голосов одобрил законопроект сенатора Линдси Грэма о значительном ужесточении санкций одновременно против России и Ирана. Отдельные сенаторы предупредили, что новые меры несут риски и могут иметь непредвиденные последствия.",
-      "category": "politics",
-      "perspective": "Американские республиканцы (особенно «ястребы») преподносят закон как жёсткий ответ противникам США. Демократы могут поддержать санкционное давление, но часть опасается эскалации. Россия и Иран расценивают закон как враждебный акт. Союзники США могут беспокоиться о влиянии на мировую экономику и энергетические рынки.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Коммерсантъ",
-        "Lenta.ru",
-        "Ведомости"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8875144",
-        "https://lenta.ru/news/2026/08/07/senat-ssha-odobril-zakonoproekt-ob-uzhestochenii-sanktsiy-protiv-rossii/",
-        "https://www.vedomosti.ru/politics/news/2026/08/07/1219675-senator-predupredil-o-riskah"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-07",
-      "id": "f3768ab0f307"
-    },
-    {
-      "title_ru": "Трамп угрожает Ирану ударом; сделка Ирана с Оманом по Ормузу близка",
-      "title_en": "Trump threatens to strike Iran over Hormuz; Iran-Oman deal on strait near finalization",
-      "date": "2026-08-07",
-      "summary_en": "President Trump stated that the Strait of Hormuz must reopen soon or the US will strike Iran. Concurrently, Iran announced that a deal with Oman on reopening the strategic strait is close to being finalized. Iranian Parliament Speaker Qalibaf condemned Trump's approach as 'theater diplomacy,' and military commanders stressed they have years of planning to counter US bases.",
-      "summary": "Президент Трамп заявил, что Ормузский пролив должен открыться в ближайшее время, иначе США нанесут удар по Ирану. Одновременно Иран сообщил, что сделка с Оманом об открытии пролива близка к завершению. Спикер парламента Ирана Галибаф осудил «театральную дипломатию» Трампа, а военные подчеркнули наличие многолетних планов противодействия базам США.",
-      "category": "politics",
-      "perspective": "«Ястребы» в США поддерживают ультиматум Трампа как демонстрацию силы. Критики администрации опасаются втягивания в новую войну на Ближнем Востоке. Иран подаёт сделку с Оманом как дипломатическую победу и сигнал сдержанности. Страны Персидского залива зажаты между угрозами и дипломатией, заинтересованы в деэскалации.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Ведомости",
-        "IRNA",
-        "Tehran Times",
-        "The Guardian"
-      ],
-      "links": [
-        "https://www.vedomosti.ru/politics/news/2026/08/05/1218919-tramp-zayavil",
-        "https://en.irna.ir/news/86229903/Araghchi-to-neighbors-Time-for-self-reliance-and-true-brotherhood",
-        "https://www.tehrantimes.com/news/528924/Qalibaf-slams-Trump-s-theater-diplomacy-toward-Iran",
-        "https://en.irna.ir/news/86229231/Years-of-planning-conducted-to-counter-US-bases-Comdr",
-        "https://www.theguardian.com/world/live/2026/aug/06/iran-oman-strait-of-hormuz-yemen-houthis-israel-lebanon-gaza-us-donald-trump-middle-east-crisis-live-news"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-07",
-      "id": "b2781391f4ed"
-    },
-    {
-      "title_ru": "Маск отказал Украине в доступе к Starlink для ударов вглубь России",
-      "title_en": "Elon Musk denies Ukraine Starlink access for strikes deep into Russia",
-      "date": "2026-08-07",
-      "summary_en": "According to The Atlantic, Elon Musk has refused Ukraine's request to use Starlink satellite internet for conducting strikes deep into Russian territory. The decision underscores the influential role of private tech infrastructure in modern warfare and Musk's continued attempt to limit the system's offensive military use.",
-      "summary": "По данным издания The Atlantic, Илон Маск отказал Украине в использовании спутникового интернета Starlink для нанесения ударов вглубь территории России. Решение подчёркивает влияние частной технологической инфраструктуры на современную войну и стремление Маска ограничить наступательное применение системы.",
-      "category": "politics",
-      "perspective": "Проукраинские силы критикуют Маска за подрыв обороноспособности Украины. Пророссийские комментаторы приветствуют ограничение. В технологическом сообществе идут дебаты: должен ли частный бизнес определять правила ведения войны. Администрация США может оказаться перед дилеммой — давить на Маска или признать его право вето.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Коммерсантъ",
-        "Lenta.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8875096",
-        "https://lenta.ru/news/2026/08/07/mask-otkazal-ukraine-v-ispolzovanii-starlink-dlya-udarov-vglub-rossii/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-07",
-      "id": "50f4cad418f6"
-    },
-    {
-      "title_ru": "Россия нанесла удары по порту «Южный» и взяла Анискино в Харьковской области",
-      "title_en": "Russia strikes port Yuzhny, captures Aniskino in Kharkiv region",
-      "date": "2026-08-07",
-      "summary_en": "Russia's Defense Ministry reported striking fuel storage tanks at Ukraine's port Yuzhny near Odesa and hitting two dry cargo ships in the Black Sea. Russian forces also established control over the village of Aniskino in Kharkiv region. The US reportedly pressured Ukraine following the Black Sea ship strikes.",
-      "summary": "Минобороны России отчиталось о поражении резервуаров с ГСМ в порту «Южный» под Одессой и об ударах по двум сухогрузам в Чёрном море. Одновременно российские силы установили контроль над селом Анискино в Харьковской области. По сообщениям, США оказали давление на Украину после ударов по судам.",
-      "category": "politics",
-      "perspective": "Россия подаёт удары как военную необходимость и ослабление логистики противника. Украина и Запад расценивают атаки на портовую инфраструктуру как эскалацию с риском для глобальной продовольственной безопасности. Давление США на Киев после инцидентов с судами может сигнализировать о пределах допустимой эскалации с точки зрения Вашингтона.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Коммерсантъ",
-        "Ведомости",
-        "Lenta.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8875070",
-        "https://www.kommersant.ru/doc/8864708",
-        "https://www.kommersant.ru/doc/8863620",
-        "https://lenta.ru/news/2026/08/08/ssha-nadavili-na-ukrainu-posle-udarov-po-sudam-v-chernom-more/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-07",
-      "id": "10a334127e38"
-    },
-    {
       "title_ru": "Российские школьники третий год подряд выиграли международную олимпиаду по ИИ",
       "title_en": "Russian schoolchildren win International AI Olympiad for third consecutive year",
       "date": "2026-08-07",
@@ -2257,10 +2096,176 @@
       "is_development": false,
       "first_reported": "2026-08-21",
       "id": "326db590fd8d"
+    },
+    {
+      "title_ru": "Иран пригрозил соседям, которые присоединятся к экономической войне США",
+      "title_en": "Iran warns neighbours who join US economic war will be considered enemies",
+      "date": "2026-08-23",
+      "summary_en": "Iran's new security chief said neighbouring countries that join the US economic war against Tehran will be treated as enemies. The warning came amid US economic pressure; Iranian officials also said US actions have created global nuclear instability.",
+      "summary": "Новый глава службы безопасности Ирана заявил, что соседние страны, присоединившиеся к экономической войне США против Тегерана, будут считаться врагами. Заявление прозвучало на фоне экономического давления США; иранские официальные лица также заявили, что действия США создали глобальную ядерную нестабильность.",
+      "category": "politics",
+      "perspective": "Иранские власти подают это как предупреждение против участия в «экономической войне» США; в Вашингтоне и у региональных партнёров такие заявления, вероятно, сочтут эскалационными.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The Guardian",
+        "The Times of India",
+        "The Hindu",
+        "DW",
+        "TASS"
+      ],
+      "links": [
+        "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
+        "https://timesofindia.indiatimes.com/world/middle-east/will-target-their-interests-iran-warns-neighbours-against-supporting-us-economic-pressure-tactics/articleshow/133433480.cms",
+        "https://www.thehindu.com/news/international/iran-security-chief-threatens-neighbors-against-new-us-economic-measures/article71380026.ece",
+        "https://www.dw.com/en/iran-warns-countries-against-joining-us-economic-war/a-78473222?maca=en-rss-en-all-1573-xml-mrss",
+        "https://tass.com/world/2176539"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-23",
+      "id": "5b15f7c18265"
+    },
+    {
+      "title_ru": "Канада объявила об ответных пошлинах после провала торговых переговоров с США",
+      "title_en": "Canada vows retaliatory tariffs after US trade talks collapse",
+      "date": "2026-08-23",
+      "summary_en": "Canada promised a dollar-for-dollar response after the United States imposed 50 percent tariffs on some Canadian goods and trade talks failed. Prime Minister Carney called the new US tariffs a miscalculation, while Alberta's premier urged a return to negotiations.",
+      "summary": "Канада пообещала ответ «доллар за доллар» после того, как США ввели 50-процентные пошлины на часть канадских товаров, а торговые переговоры провалились. Премьер-министр Карни назвал новые пошлины США просчётом, а премьер Альберты призвал вернуться к переговорам.",
+      "category": "politics",
+      "perspective": "Канадское правительство называет пошлины США просчётом и обещает симметричный ответ; американская сторона заявляет, что Канада отклонила предложение; часть канадских политиков призывает возобновить диалог.",
+      "perspective_type": "from_source",
+      "sources": [
+        "DW",
+        "The Hindu",
+        "The Guardian",
+        "BBC",
+        "CBC"
+      ],
+      "links": [
+        "https://www.dw.com/en/canada-to-hit-back-with-retaliatory-tariffs-after-us-trade-talks-fail/a-78471618?maca=en-rss-en-all-1573-xml-mrss",
+        "https://www.thehindu.com/news/international/canada-retaliates-as-trade-war-with-us-escalates/article71379056.ece",
+        "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+        "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+        "https://www.cbc.ca/news/canada/edmonton/alberta-premier-tariffs-reaction-9.7317230?cmp=rss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-23",
+      "id": "73de8a936dcc"
+    },
+    {
+      "title_ru": "На фоне атак БПЛА в России вводили временные ограничения в аэропортах",
+      "title_en": "Russia imposes temporary restrictions at multiple airports amid drone attacks",
+      "date": "2026-08-23",
+      "summary_en": "Russian authorities temporarily restricted arrivals and departures at more than a dozen airports overnight, including Krasnodar, Sochi, Samara, Saratov and Domodedovo; some restrictions were later lifted. A 'Kover' plan was declared in the Penza region, and officials reported downed drones in the Rostov Region and near Moscow.",
+      "summary": "Российские власти ночью вводили временные ограничения на приём и отправку самолётов более чем в десятке аэропортов, включая Краснодар, Сочи, Самару, Саратов и Домодедово; часть ограничений позже сняли. В Пензенской области объявляли план «Ковёр», а официальные лица сообщали о сбитых БПЛА в Ростовской области и на подлёте к Москве.",
+      "category": "politics",
+      "perspective": "Российские власти объясняют ограничения мерами безопасности на фоне атак БПЛА; критики могут рассматривать происходящее как признак уязвимости гражданской инфраструктуры.",
+      "perspective_type": "assumed",
+      "sources": [
+        "TASS",
+        "Kommersant",
+        "Vedomosti"
+      ],
+      "links": [
+        "https://tass.ru/ekonomika/28036399",
+        "https://tass.ru/ekonomika/28036367",
+        "https://www.kommersant.ru/doc/8894190",
+        "https://www.vedomosti.ru/politics/news/2026/08/21/1222707-sili-pvo-sbili",
+        "https://tass.ru/proisshestviya/28036477"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-23",
+      "id": "97ff35e71b7e"
+    },
+    {
+      "title_ru": "Путин на съезде «Единой России» назвал программу партии фундаментальной",
+      "title_en": "Putin backs United Russia at party congress, calls its program fundamental",
+      "date": "2026-08-22",
+      "summary_en": "At the United Russia pre-election congress, Vladimir Putin said the party's program is a fundamental document and that the party lacks populism. He thanked all parliamentary parties for patriotism and said the upcoming elections would confirm the stability of Russia's political system.",
+      "summary": "На предвыборном съезде «Единой России» Владимир Путин заявил, что программа партии — фундаментальный документ, а популизма у неё нет. Он поблагодарил все парламентские партии за патриотизм и заявил, что предстоящие выборы подтвердят устойчивость политической системы России.",
+      "category": "politics",
+      "perspective": "Провластные силы представляют съезд как консолидацию перед выборами; оппозиция и независимые наблюдатели могут расценивать это как укрепление доминирования партии власти.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Kommersant",
+        "Vedomosti",
+        "Lenta"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8906290",
+        "https://www.vedomosti.ru/politics/news/2026/08/22/1223010-putin-programmu-edinoi-rossii",
+        "https://lenta.ru/news/2026/08/22/putin-zayavil-ob-otsutstvii-populizma-u-edinoy-rossii/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-22",
+      "id": "2f767a2ba3f8"
+    },
+    {
+      "title_ru": "Путин: перелома после ударов ВСУ не произошло, Россия продолжила удары по инфраструктуре Украины",
+      "title_en": "Putin says no turning point after Ukrainian strikes as Russia continues hitting infrastructure",
+      "date": "2026-08-23",
+      "summary_en": "Russian officials said Ukraine's strikes on civilian objects are intended to intimidate, while Vladimir Putin said the intensified Ukrainian strikes have not produced a turning point in the war. He called them a new Ukrainian adventure and noted the effectiveness of Russian strikes on Ukraine.",
+      "summary": "Российские официальные лица заявили, что удары Украины по гражданским объектам имеют цель запугивания. Владимир Путин, в свою очередь, заявил, что перелома в ходе боевых действий после ударов ВСУ не произошло, назвал их усиление новой авантюрой и отметил эффективность ударов России по Украине.",
+      "category": "politics",
+      "perspective": "Российские официальные лица характеризуют действия Украины как авантюру и удары по гражданским объектам; украинская сторона и её союзники, вероятно, оценивают такие заявления иначе.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Lenta",
+        "TASS",
+        "Kommersant",
+        "Vedomosti"
+      ],
+      "links": [
+        "https://lenta.ru/news/2026/08/23/v-rossii-nazvali-tsel-udarov-ukrainy-po-grazhdanskim-ob-ektam/",
+        "https://tass.ru/politika/28036439",
+        "https://www.kommersant.ru/doc/8906291",
+        "https://www.vedomosti.ru/politics/news/2026/08/22/1222987-armiya-rossii-udari"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-23",
+      "id": "be3b308be9b9"
+    },
+    {
+      "title_ru": "Nvidia готова конкурировать с китайскими моделями искусственного интеллекта",
+      "title_en": "Nvidia ready to compete with Chinese AI models",
+      "date": "2026-08-23",
+      "summary_en": "Antara reports that Nvidia is ready to compete with Chinese AI models. The report did not provide specifics about products or timelines in the available feed.",
+      "summary": "Агентство Antara сообщает, что Nvidia готова конкурировать с китайскими моделями искусственного интеллекта. Подробности о продуктах и сроках в доступной ленте не приводились.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Antara News"
+      ],
+      "links": [
+        "https://www.antaranews.com/berita/5707448/nvidia-siap-saingi-model-ai-china"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-23",
+      "id": "c9d1a3d63114"
+    },
+    {
+      "title_ru": "В Пекине открылись вторые Всемирные игры гуманоидных роботов",
+      "title_en": "Second World Humanoid Robot Games opens in Beijing",
+      "date": "2026-08-23",
+      "summary_en": "The second World Humanoid Robot Games opened in Beijing. Antara reports that thousands of humanoid robots are set to compete.",
+      "summary": "В Пекине открылись вторые Всемирные игры гуманоидных роботов. По сообщению Antara, в соревнованиях готовы принять участие тысячи роботов-гуманоидов.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Antara News"
+      ],
+      "links": [
+        "https://www.antaranews.com/berita/5707360/pembukaan-world-humanoid-robot-games-ke-2-digelar-di-beijing",
+        "https://www.antaranews.com/video/5707325/ribuan-robot-humanoid-siap-berkompetisi-di-beijing"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-23",
+      "id": "45d4b388be12"
     }
   ],
   "_stats": {
-    "total_tokens": 1050144,
-    "total_cost": 151.585188
+    "total_tokens": 1079066,
+    "total_cost": 164.51908799999998
   }
 }
