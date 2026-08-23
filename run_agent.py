@@ -55,7 +55,12 @@ def save_history(events, stats=None):
     if stats:
         old_stats["total_tokens"] += stats.get("tokens", 0)
         old_stats["total_cost"] += stats.get("cost", 0)
-    save_json(HISTORY_FILE, {"_events": old_events[-100:], "_stats": old_stats})
+        
+    from datetime import datetime, timedelta
+
+    cutoff = (datetime.utcnow() - timedelta(days=7)).strftime("%Y-%m-%d")
+    recent = [e for e in old_events if (e.get("date") or e.get("first_reported", ""))[:10] >= cutoff]
+    save_json(HISTORY_FILE, {"_events": recent, "_stats": old_stats})
 
 
 def hash_event(e):
