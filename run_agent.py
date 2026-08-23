@@ -68,12 +68,55 @@ def hash_event(e):
     return hashlib.md5(raw.encode("utf-8")).hexdigest()[:12]
 
 
+QUOTA = {"politics": 5, "ai": 2, "tech": 3, "finance": 1}
+
+
+def looks_like_ai(cluster):
+    kw = ("ai", "artificial intelligence", "openai", "chatgpt", "gpt-", "llm",
+          "neural network", "machine learning", "deepseek", "gemini", "claude",
+          "ии", "искусственн", "нейросет")
+    text = ""
+    for a in cluster:
+        text += (a.get("title", "") + " " + a.get("summary", ""))[:400].lower()
+    return any(k in text for k in kw)
+
+
+def select_clusters(clusters):
+    total = sum(QUOTA.values())
+    buckets = {}
+    for c in clusters:
+        cat = c[0].get("category", "politics") if c else "politics"
+        if cat == "tech":
+            cat = "ai" if looks_like_ai(c) else "tech"
+        elif cat not in ("finance", "ai"):
+            cat = "politics"
+        for a in c:
+            a["category"] = cat
+        buckets.setdefault(cat, []).append(c)
+
+    selected = []
+    chosen = set()
+    for cat, n in QUOTA.items():
+        take = buckets.get(cat, [])[:n]
+        selected.extend(take)
+        chosen.update(id(c) for c in take)
+    if len(selected) < total:
+        for c in clusters:
+            if id(c) in chosen:
+                continue
+            selected.append(c)
+            chosen.add(id(c))
+            if len(selected) >= total:
+                break
+    return selected[:total]
+
+
 def generate_html(events, config, usage=None, api_key=None):
     tpl_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "news_agent", "template.html")
     with open(tpl_path, encoding="utf-8") as f:
         html = f.read()
 
-    cat_counts = {"politics": 0, "ai": 0, "tech": 0}
+    cat_counts = {"politics": 0, "ai": 0, "tech": 0, "finance": 0}
     stories_html = ""
     for idx, ev in enumerate(events, 1):
         cat = ev.get("category", "politics")
@@ -85,7 +128,7 @@ def generate_html(events, config, usage=None, api_key=None):
             for l in ev.get("links", [])[:3]
         )
 
-        cat_label = {"politics": "Политика", "ai": "AI", "tech": "Техно/Наука"}.get(cat, "")
+        cat_label = {"politics": "Политика", "ai": "AI", "tech": "Техно/Наука", "finance": "Финансы"}.get(cat, "")
         cat_badge = f'<span class="cat-badge cat-{cat}">{cat_label}</span>' if cat_label else ""
 
         perspective = ev.get("perspective", "").strip()
@@ -179,7 +222,7 @@ def generate_html(events, config, usage=None, api_key=None):
     html = html.replace("__USAGE_INFO__", usage_text)
     html = html.replace("__TOTAL_STORIES__", str(len(events)))
     html = html.replace("__TOTAL_SOURCES__", str(sum(len(e.get("sources", [])) for e in events)))
-    cat_display = " | ".join(f'{l}: {cat_counts.get(k,0)}' for k,l in [("politics","Политика"),("ai","AI"),("tech","Техно")] if cat_counts.get(k,0))
+    cat_display = " | ".join(f'{l}: {cat_counts.get(k,0)}' for k,l in [("politics","Политика"),("ai","AI"),("tech","Техно"),("finance","Финансы")] if cat_counts.get(k,0))
     html = html.replace("__REGIONS_COVERED__", cat_display)
     html = html.replace("__STORIES__", stories_html)
     from news_agent.ai_summarizer import MODEL as AI_MODEL_NAME
@@ -258,16 +301,10 @@ def main():
     clusters = cluster_news(articles)
     print(f"Total clusters: {len(clusters)}")
 
-    # Separate politics and tech clusters, ensure tech/AI reach the AI
-    pol_clusters = [c for c in clusters if c[0].get("category", "politics") == "politics"]
-    tech_clusters = [c for c in clusters if c[0].get("category", "politics") != "politics"]
-    print(f"  Political clusters: {len(pol_clusters)}, Tech/AI clusters: {len(tech_clusters)}")
-
-    # Take top 8 political + up to 5 tech, cap at 10 total
-    selected = pol_clusters[:8]
-    selected.extend(tech_clusters[:min(5, max(2, 10 - len(selected)))])
-    selected = selected[:10]
-    print(f"  Selected for AI: {len(selected)} clusters")
+    selected = select_clusters(clusters)
+    from collections import Counter
+    sel_cats = Counter(c[0].get("category", "politics") for c in selected)
+    print(f"  Selected for AI: {len(selected)} clusters ({dict(sel_cats)})")
 
     history_raw = load_json(HISTORY_FILE, [])
     if isinstance(history_raw, dict) and "_events" in history_raw:
