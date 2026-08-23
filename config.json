@@ -1,84 +1,112 @@
 {
-  "max_news_per_day": 10,
+  "max_news_per_day": 11,
   "language": "ru",
   "sources": {
     "russia": {"label": "Россия", "color": "#d32f2f", "feeds": [
-      "https://tass.com/rss/v2.xml",
+      "http://ria.ru/export/rss2/archive/index.xml",
       "https://tass.ru/rss/v2.xml",
-      "https://lenta.ru/rss/news",
+      "https://tass.com/rss/v2.xml",
       "https://www.kommersant.ru/RSS/news.xml",
-      "https://www.vedomosti.ru/rss/rubric/politics"
+      "https://rssexport.rbc.ru/rbcnews/news/30/full.rss"
     ]},
     "russia_tech": {"label": "Наука/Россия", "color": "#00acc1", "category": "tech", "feeds": [
-      "https://nplus1.ru/rss"
+      "https://naked-science.ru/feed"
     ]},
     "usa": {"label": "США", "color": "#1565c0", "feeds": [
       "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "https://feeds.npr.org/1001/rss.xml"
+      "https://feeds.washingtonpost.com/rss/national"
     ]},
-    "usa_tech": {"label": "Технологии/США", "color": "#00acc1", "category": "tech", "feeds": [
-      "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+    "usa_tech": {"label": "Технологии/США", "color": "#00bcd4", "category": "tech", "feeds": [
+      "https://techcrunch.com/rss",
+      "https://www.wired.com/feed/rss"
     ]},
     "ukraine": {"label": "Украина", "color": "#ffd54f", "feeds": [
       "https://www.ukrinform.ua/rss/block-lastnews",
-      "https://www.pravda.com.ua/rss/"
+      "https://www.rbc.ua/rss/rus/all.rss",
+      "https://censor.net/includes/rss/news.rss"
     ]},
     "china": {"label": "Китай", "color": "#e53935", "feeds": [
       "https://www.chinadaily.com.cn/rss/world_rss.xml",
       "https://www.chinadaily.com.cn/rss/china_rss.xml"
     ]},
-    "china_tech": {"label": "Технологии/Китай", "color": "#00acc1", "category": "tech", "feeds": [
-      "https://www.chinadaily.com.cn/rss/bizchina_rss.xml"
+    "china_tech": {"label": "Технологии/Китай", "color": "#26c6da", "category": "tech", "feeds": [
+      "https://www.gizmochina.com/feed/"
     ]},
     "india": {"label": "Индия", "color": "#ff8f00", "feeds": [
-      "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "https://www.thehindu.com/feeder/default.rss",
-      "https://indianexpress.com/feed/"
+      "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms"
     ]},
     "iran": {"label": "Иран", "color": "#6a1b9a", "feeds": [
-      "https://www.tehrantimes.com/rss",
-      "https://en.irna.ir/rss"
-    ]},
-    "iran_tech": {"label": "Наука/Иран", "color": "#00acc1", "category": "tech", "feeds": [
-      "https://www.tehrantimes.com/rss"
+      "https://en.irna.ir/rss",
+      "http://www.presstv.ir/rss.xml",
+      "https://en.mehrnews.com/rss"
     ]},
     "indonesia": {"label": "Индонезия", "color": "#00897b", "feeds": [
-      "https://www.antaranews.com/rss/terkini.xml"
-    ]},
-    "mongolia": {"label": "Монголия", "color": "#0097a7", "feeds": [
+      "https://en.antaranews.com/rss/news"
     ]},
     "uk": {"label": "Англия", "color": "#1e88e5", "feeds": [
-      "https://www.theguardian.com/world/rss",
-      "https://feeds.bbci.co.uk/news/rss.xml"
+      "https://feeds.bbci.co.uk/news/rss.xml",
+      "https://www.ft.com/rss/home"
     ]},
     "france": {"label": "Франция", "color": "#3949ab", "feeds": [
-      "https://www.lemonde.fr/rss/une.xml",
+      "https://www.lemonde.fr/en/rss/une.xml",
       "https://www.france24.com/fr/rss"
     ]},
     "germany": {"label": "Германия", "color": "#fdd835", "feeds": [
-      "https://www.tagesschau.de/xml/rss2",
-      "https://rss.dw.com/xml/rss-en-all"
+      "https://rss.dw.com/xml/rss-en-all",
+      "https://www.spiegel.de/international/index.rss"
     ]},
     "canada": {"label": "Канада", "color": "#43a047", "feeds": [
-      "https://www.cbc.ca/webfeed/rss/rss-topstories"
+      "https://www.cbc.ca/webfeed/rss/rss-topstories",
+      "https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/world/?outputType=xml"
     ]},
     "belarus": {"label": "Белоруссия", "color": "#7cb342", "feeds": [
       "https://www.belta.by/rss/all.xml"
     ]},
-    "brazil": {"label": "Бразилия", "color": "#2e7d32", "feeds": [
-      "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"
+    "brazil": {"label": "Бразилия", "color": "#558b2f", "feeds": [
+      "https://riotimesonline.com/feed/"
     ]},
-    "argentina": {"label": "Аргентина", "color": "#74b9ff", "feeds": [
-    ]},
-    "hungary": {"label": "Венгрия", "color": "#e53935", "feeds": [
-      "https://hvg.hu/rss"
+    "hungary": {"label": "Венгрия", "color": "#827717", "feeds": [
+      "https://budapesttimes.hu/feed/"
     ]},
     "slovakia": {"label": "Словакия", "color": "#0d47a1", "feeds": [
-      "https://dennikn.sk/feed/"
+      "https://spectator.sme.sk/rss"
+    ]},
+    "japan": {"label": "Япония", "color": "#bc0027", "category": "finance", "feeds": [
+      "https://asia.nikkei.com/rss/feed/nar"
+    ]},
+    "south_korea": {"label": "Южная Корея", "color": "#0097a7", "category": "tech", "feeds": [
+      "https://en.yna.co.kr/RSS/news.xml"
+    ]},
+    "taiwan": {"label": "Тайвань", "color": "#455a64", "category": "tech", "feeds": [
+      "https://www.taipeitimes.com/xml/index.rss"
+    ]},
+    "uae": {"label": "ОАЭ", "color": "#00796b", "category": "finance", "feeds": [
+      "https://www.thenationalnews.com/rss.xml",
+      "https://www.arabnews.com/rss.xml"
+    ]},
+    "israel": {"label": "Израиль", "color": "#0277bd", "category": "tech", "feeds": [
+      "https://www.timesofisrael.com/feed/",
+      "https://www.jpost.com/rss/rssfeedsfrontpage.aspx"
+    ]},
+    "turkey": {"label": "Турция", "color": "#c62828", "feeds": [
+      "https://www.dailysabah.com/rssFeed/50",
+      "https://www.turkishminute.com/feed/"
+    ]},
+    "south_africa": {"label": "ЮАР", "color": "#6d4c41", "feeds": [
+      "https://mg.co.za/rss/"
     ]},
     "mexico": {"label": "Мексика", "color": "#e65100", "feeds": [
+      "https://mexiconewsdaily.com/feed/"
     ]},
-    "north_korea": {"label": "Северная Корея", "color": "#b71c1c", "feeds": [
+    "australia": {"label": "Австралия", "color": "#283593", "feeds": [
+      "https://www.smh.com.au/rss/feed.xml"
+    ]},
+    "switzerland": {"label": "Швейцария", "color": "#c2185b", "category": "finance", "feeds": [
+      "https://www.swissinfo.ch/eng/rss/latest"
+    ]},
+    "world_finance": {"label": "Финансы/Мир", "color": "#00695c", "category": "finance", "feeds": [
+      "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+      "https://finance.yahoo.com/news/rssindex"
     ]}
   }
 }
