@@ -91,26 +91,6 @@
       "id": "6645fcfeb63b"
     },
     {
-      "title_ru": "Лула начинает борьбу за четвёртый президентский срок; основной соперник — Флавиу Болсонару",
-      "title_en": "Lula launches fourth-term bid as Flávio Bolsonaro emerges as rival",
-      "date": "2026-08-16",
-      "summary_en": "Brazil's Luiz Inácio Lula da Silva launched his campaign for a historic fourth presidential term, with Flávio Bolsonaro, son of jailed former president Jair Bolsonaro, standing as a key rival. The electoral court also ordered the removal of a video that linked Lula to criminal factions PCC and CV.",
-      "summary": "Луис Инасиу Лула да Силва начал кампанию за исторический четвёртый президентский срок; ключевым соперником выступает Флавиу Болсонару, сын находящегося в заключении экс-президента Жаира Болсонару. Избирательный суд также обязал удалить видео, связывающее Лулу с преступными группировками PCC и CV.",
-      "category": "politics",
-      "perspective": "Левые и сторонники Лулы видят в кампании продолжение социального курса; правые и болсонаристы консолидируются вокруг сына экс-президента; избирательная юстиция действует против дезинформации.",
-      "perspective_type": "assumed",
-      "sources": [
-        "The Guardian",
-        "Agência Brasil"
-      ],
-      "links": [
-        "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
-        "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tse-determina-remocao-de-video-que-associa-lula-ao-pcc-e-ao-cv"
-      ],
-      "first_reported": "2026-08-16",
-      "id": "07f8b0f9ad9d"
-    },
-    {
       "title_ru": "Доклад в поддержку запрета соцсетей для подростков в Австралии, вероятно, содержит ИИ-галлюцинации",
       "title_en": "Report backing Australia's teen social media ban appears to contain AI hallucinations",
       "date": "2026-08-17",
@@ -1297,10 +1277,233 @@
       "is_development": false,
       "first_reported": "2026-08-23",
       "id": "8468d6c6a302"
+    },
+    {
+      "title_ru": "Прабово распорядился отзывать лицензии у компаний, причастных к лесным пожарам",
+      "title_en": "Prabowo orders permit revocation for firms linked to forest fires",
+      "date": "2026-08-24",
+      "summary": "Президент Индонезии Прабово Субианто распорядился отзывать разрешения у компаний, связанных с лесными пожарами; власти усиливают тушение в четырех провинциях, а парламентарии поддержали жесткие меры против организаторов поджогов. По данным «Коммерсанта», дым от пожаров затронул около 3 млн человек.",
+      "category": "politics",
+      "perspective": "Правительство Индонезии представляет меры как защиту населения от дыма и наказание виновных; бизнес может критиковать отзыв лицензий как чрезмерное давление; экологические организации поддерживают жесткость, но требуют системной профилактики пожаров.",
+      "perspective_type": "assumed",
+      "sources": [
+        "ANTARA News",
+        "Kommersant"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/428357/prabowo-orders-permit-revocation-for-firms-linked-to-forest-fires",
+        "https://en.antaranews.com/news/428367/indonesia-intensifies-forest-firefighting-in-four-provinces",
+        "https://en.antaranews.com/news/428323/indonesian-lawmakers-back-crackdown-on-forest-fire-masterminds",
+        "https://www.kommersant.ru/doc/8906702"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-24",
+      "id": "560dcac7003c"
+    },
+    {
+      "title_ru": "США угрожают Ирану «экономическим Днём Д» и новыми санкциями, Тегеран обещает ответ",
+      "title_en": "US warns Iran of 'economic D-Day' and new sanctions, Tehran vows response",
+      "date": "2026-08-24",
+      "summary": "Администрация США предупредила Иран о «самых жестких санкциях в истории», назвав их «экономическим Днём Д»; Тегеран осудил планы новых ограничений и заявил о готовности к противодействию. На этом фоне нефть и акции снижались.",
+      "category": "politics",
+      "perspective": "В США и ряде западных стран санкции подают как способ принудить Иран к переговорам; Тегеран называет их экономической войной и обещает ответные меры; часть наблюдателей предупреждает о рисках эскалации и влиянии на нефтяные рынки.",
+      "perspective_type": "assumed",
+      "sources": [
+        "BBC News",
+        "Financial Times",
+        "TASS",
+        "The Globe and Mail",
+        "The New York Times"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+        "https://www.ft.com/content/cb865200-1a06-40be-86a3-10ee2bb05804",
+        "https://tass.com/world/2176877",
+        "https://www.theglobeandmail.com/world/article-iran-vows-devastating-response-as-us-threatens-to-topple-regime-with-tougher-sanctions/",
+        "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-24",
+      "id": "f12aeaa30400"
+    },
+    {
+      "title_ru": "Путин встретился с главой МИД Индии Джайшанкаром, отмечен рост товарооборота",
+      "title_en": "Putin meets Indian Foreign Minister Jaishankar as trade turnover grows",
+      "date": "2026-08-24",
+      "summary": "Владимир Путин принял в Кремле министра иностранных дел Индии Субраманьяма Джайшанкара. По словам Дениса Мантурова, товарооборот России и Индии в первом полугодии вырос на 8%, число индийских студентов в России приблизилось к 40 тысячам, а Индия проявляет интерес к самолетам SJ-100 и Ил-114-300.",
+      "category": "politics",
+      "perspective": "Москва трактует переговоры как углубление стратегического партнерства с Индией; западные страны могут рассматривать сближение как попытку обхода санкций; Нью-Дели подчеркивает собственную многовекторную внешнюю политику.",
+      "perspective_type": "assumed",
+      "sources": [
+        "RIA Novosti",
+        "TASS",
+        "Kommersant"
+      ],
+      "links": [
+        "https://ria.ru/20260824/putin-2112822930.html",
+        "https://ria.ru/20260824/tovarooborot-2112826200.html",
+        "https://www.kommersant.ru/doc/8907052",
+        "https://tass.ru/ekonomika/28039447",
+        "https://tass.ru/ekonomika/28039455"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-24",
+      "id": "2e974cc47378"
+    },
+    {
+      "title_ru": "Европейские лидеры прибыли в Киев на фоне интенсификации войны",
+      "title_en": "European leaders arrive in Kyiv as war with Russia intensifies",
+      "date": "2026-08-24",
+      "summary": "Премьер-министр Великобритании Энди Бернем прибыл в Украину; Киев принимает европейских лидеров на фоне усиления боевых действий. Ранее сообщалось об обменах ударами между Россией и Украиной, в том числе о жертвах после атак дронов.",
+      "category": "politics",
+      "perspective": "Украина и западные союзники видят в визитах знак солидарности и продолжения поддержки; Россия расценивает наращивание западной вовлеченности как эскалацию; часть наблюдателей указывает на риски дальнейшего затягивания конфликта.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The New York Times",
+        "Daily Sabah",
+        "The Globe and Mail"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
+        "https://www.dailysabah.com/world/europe/ukraine-hosts-european-leaders-as-war-with-russia-intensifies",
+        "https://www.theglobeandmail.com/world/article-russia-and-ukraine-trade-attacks-after-moscow-drones-kill-16-wound-130/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-24",
+      "id": "c086aaa153e5"
+    },
+    {
+      "title_ru": "В Южной Корее спецпрокурор завершил 180-дневное расследование, предъявив обвинения Юну и ещё 57 фигурантам",
+      "title_en": "South Korea special counsel wraps up 180-day probe after indicting Yoon and 57 others",
+      "date": "2026-08-24",
+      "summary": "Специальный прокурор Южной Кореи завершил расследование, длившееся 180 дней, по итогам которого обвинения предъявлены Юн Сок Ёлю и еще 57 лицам. Параллельно лидеры конкурирующих партий провели первые переговоры о двухпартийном сотрудничестве.",
+      "category": "politics",
+      "perspective": "Оппозиция считает итоги расследования подтверждением вины Юна; его сторонники говорят о политически мотивированном преследовании; общественность ожидает независимого и прозрачного судебного процесса.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Yonhap"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260824003800315",
+        "https://en.yna.co.kr/view/AEN20260824006300315"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-24",
+      "id": "d3bd701cae00"
+    },
+    {
+      "title_ru": "Xiaomi представила мини-ПК AI Cube с чипами Xring O3, O100 и D100 для локального запуска LLM",
+      "title_en": "Xiaomi announces AI Cube mini-PC with Xring O3, O100, and D100 to run LLMs locally",
+      "date": "2026-08-24",
+      "summary": "Xiaomi анонсировала компактный компьютер AI Cube на новых чипах Xring O3, O100 и D100, предназначенный для локального запуска больших языковых моделей. Это развитие ранее анонсированной линейки чипов Xring.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Gizmochina"
+      ],
+      "links": [
+        "https://www.gizmochina.com/2026/08/24/xiaomi-announces-ai-cube-mini-pc-with-xring-o3-o100-and-d100-to-run-llms-locally/",
+        "https://www.gizmochina.com/2026/08/24/xiaomi-xring-o3-o100-d100-chipsets-launched-xiaomi-18-fold/"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-24",
+      "id": "360ecdb97ad3"
+    },
+    {
+      "title_ru": "Южнокорейский медиарегулятор заблокировал 64 сайта с порнографическими дипфейками",
+      "title_en": "South Korea media watchdog bans access to 64 websites creating pornographic deepfakes",
+      "date": "2026-08-24",
+      "summary": "Комиссия по стандартам коммуникаций Южной Кореи ограничила доступ к 64 сайтам, распространявшим порнографические дипфейки. Это часть борьбы с нелегальным использованием генеративного ИИ.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Yonhap"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260824006100320"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-24",
+      "id": "a43b815b59f7"
+    },
+    {
+      "title_ru": "Samsung представила первый в мире 16-дюймовый OLED-дисплей с частотой 300 Гц и 20-дюймовый растягиваемый экран",
+      "title_en": "Samsung debuts world's first 16-inch 300Hz OLED for laptops and 20-inch stretchable display",
+      "date": "2026-08-23",
+      "summary": "Samsung показала первый в мире 16-дюймовый OLED-дисплей для ноутбуков с частотой обновления 300 Гц, 7,6-дюймовый OLED с широкими углами обзора для смартфонов и 20-дюймовый растягиваемый дисплей.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Gizmochina"
+      ],
+      "links": [
+        "https://www.gizmochina.com/2026/08/23/samsung-debuts-worlds-first-16-300hz-oled-for-laptops-7-6-wide-viewing-angle-oled-for-phones-and-20-stretchable-display/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-23",
+      "id": "3d59b4323971"
+    },
+    {
+      "title_ru": "Honor Turbo 5G вышел с батареей 8 560 мА·ч, чипом Snapdragon 6 Gen 4 и AMOLED-экраном 6,79 дюйма",
+      "title_en": "Honor Turbo 5G debuts with 8,560mAh battery, Snapdragon 6 Gen 4, and 6.79-inch AMOLED display",
+      "date": "2026-08-22",
+      "summary": "Honor представила смартфон Turbo 5G с аккумулятором 8 560 мА·ч, процессором Snapdragon 6 Gen 4 и 6,79-дюймовым AMOLED-дисплеем разрешением 1.5K.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Gizmochina"
+      ],
+      "links": [
+        "https://www.gizmochina.com/2026/08/22/honor-turbo-5g-debuts-with-8560mah-battery-snapdragon-6-gen-4-chip-6-79-1-5k-amoled-display/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-22",
+      "id": "9450f7643724"
+    },
+    {
+      "title_ru": "Xiaomi открыла слепое бронирование своего первого телевизора RGB-Mini LED",
+      "title_en": "Xiaomi opens blind reservations for its first RGB-Mini LED TV",
+      "date": "2026-08-22",
+      "summary": "Xiaomi начала принимать предварительные заявки на свой первый телевизор с подсветкой RGB-Mini LED. Подробные характеристики и цена пока не раскрыты.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Gizmochina"
+      ],
+      "links": [
+        "https://www.gizmochina.com/2026/08/22/xiaomi-opens-blind-reservations-for-its-first-rgb-mini-led-tv/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-22",
+      "id": "c19e4dd01930"
+    },
+    {
+      "title_ru": "Нефть дешевеет в преддверии объявления США о новых санкциях против Ирана",
+      "title_en": "Oil falls ahead of US announcement of new sanctions on Iran",
+      "date": "2026-08-24",
+      "summary": "Цены на нефть снизились, а фондовые индексы в Азии колебались в ожидании объявления США о новых санкциях против Ирана. Инвесторы оценивают возможные последствия для поставок энергоносителей.",
+      "category": "finance",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "links": [
+        "https://finance.yahoo.com/news/oil-falls-1-ahead-us-231835385.html",
+        "https://finance.yahoo.com/news/shares-flat-asia-iran-sanctions-004936320.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-24",
+      "id": "6d446e820330"
     }
   ],
   "_stats": {
-    "total_tokens": 1112944,
-    "total_cost": 178.34398799999997
+    "total_tokens": 1143322,
+    "total_cost": 189.70423799999998
   }
 }
