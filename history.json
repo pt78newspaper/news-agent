@@ -1,132 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Индонезия отмечает 81-ю годовщину независимости",
-      "title_en": "Indonesia marks 81st anniversary of independence",
-      "date": "2026-08-17",
-      "summary_en": "President Prabowo Subianto led the Proclamation Seconds ceremony and read the Proclamation text as Indonesia marked its 81st Independence Day. Former presidents Megawati Soekarnoputri and Joko Widodo attended ceremonies, while the government stressed acceleration of earthquake response in NTT and remissions were granted to 174,791 prisoners.",
-      "summary": "Президент Прабово Субианто возглавил церемонию «секунд Прокламации» и зачитал текст Прокламации в честь 81-й годовщины независимости. Бывшие президенты Мегавати Сукарнопутри и Джоко Видодо присутствовали на церемониях; правительство подчеркнуло ускорение помощи пострадавшим от землетрясения в НТТ, а 174 791 заключённый получил ремиссию.",
-      "category": "politics",
-      "perspective": "Правительство делает акцент на единстве, ускорении помощи пострадавшим от землетрясения в НТТ и символических жестах; спикеры, близкие к правозащитной повестке, призывают распространить «дух независимости» на конфликтные регионы.",
-      "perspective_type": "from_source",
-      "sources": [
-        "Antara News"
-      ],
-      "links": [
-        "https://www.antaranews.com/berita/5697835/presiden-prabowo-bacakan-teks-proklamasi-dalam-upacara-hut-ke-81-ri",
-        "https://www.antaranews.com/berita/5697828/jokowi-menghadiri-upacara-hut-ri-mengenakan-busana-adat-bali",
-        "https://www.antaranews.com/berita/5697841/megawati-pimpin-peringatan-hut-ke-81-ri-di-lenteng-agung",
-        "https://www.antaranews.com/berita/5697879/hut-ke-81-ri-pemerintah-tegaskan-percepatan-penanganan-gempa-m77-ntt",
-        "https://www.antaranews.com/berita/5697849/174791-narapidana-dan-anak-binaan-se-indonesia-terima-remisi-hut-ri"
-      ],
-      "first_reported": "2026-08-17",
-      "id": "856e07617758"
-    },
-    {
-      "title_ru": "Трамп приказал сократить военные учения США с Южной Кореей",
-      "title_en": "Trump orders scaling back of US-South Korea military drills",
-      "date": "2026-08-17",
-      "summary_en": "Donald Trump ordered the Pentagon to scale back joint military exercises with South Korea, citing the relationship with Kim Jong-un and Pyongyang. The move was reported after South Korea stayed out of the Iran war, and comes amid warnings about North Korea's growing battlefield experience.",
-      "summary": "Дональд Трамп распорядился сократить совместные военные учения с Южной Кореей, сославшись на отношения с Ким Чен Ыном и Пхеньяном. Решение принято на фоне того, что Сеул не участвовал в войне с Ираном, и сопровождается предупреждениями о растущем боевом опыте КНДР.",
-      "category": "politics",
-      "perspective": "Союзники и критики могут рассматривать это как ослабление сдерживания КНДР; сторонники разрядки и администрация Трампа подают шаг как жест доброй воли в адрес Пхеньяна.",
-      "perspective_type": "assumed",
-      "sources": [
-        "The Guardian",
-        "BBC News",
-        "TASS"
-      ],
-      "links": [
-        "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
-        "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-        "https://tass.com/world/2173939"
-      ],
-      "first_reported": "2026-08-17",
-      "id": "af3d141c5684"
-    },
-    {
-      "title_ru": "Массированные атаки БПЛА на регионы России: рекордное число сбитых дронов и жертвы",
-      "title_en": "Massive UAV attacks on Russian regions: record interceptions and civilian casualties",
-      "date": "2026-08-17",
-      "summary_en": "Russian air defenses reported downing record numbers of Ukrainian drones, including 822 overnight and 1,478 over 24 hours, with dozens more shot down in subsequent waves. Civilian deaths and injuries were reported in the Rostov, Moscow, Belgorod and Kherson regions, and a couple was killed in Kherson region in a UAV strike on a car.",
-      "summary": "Российские ПВО отчитались о рекордном числе сбитых украинских дронов — 822 за ночь и 1478 за сутки, десятки БПЛА уничтожались последующими волнами. В Ростовской, Московской, Белгородской и Херсонской областях сообщалось о погибших и пострадавших; в Херсонской области при ударе БПЛА по автомобилю погибла супружеская пара.",
-      "category": "politics",
-      "perspective": "Официальные сводки подчёркивают эффективность ПВО; региональные власти фиксируют жертвы и разрушения, что создаёт контраст между военными успехами и гражданскими потерями.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Коммерсантъ",
-        "Ведомости",
-        "Лента.ру"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8890626",
-        "https://www.kommersant.ru/doc/8890685",
-        "https://www.kommersant.ru/doc/8890891",
-        "https://www.vedomosti.ru/politics/news/2026/08/16/1221418-tri-cheloveka-pogibli"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-17",
-      "id": "527bb2132f24"
-    },
-    {
-      "title_ru": "США и Иран пропустили срок заключения широкого соглашения о прекращении войны",
-      "title_en": "US and Iran miss deadline for broad deal to end war",
-      "date": "2026-08-17",
-      "summary_en": "The US and Iran blew through a deadline to agree on a broad deal to end their war, the New York Times reported, as the conflict shifts into an economic battle. Iranian officials continue to present the signed MoU as a diplomatic victory pursued with dignity and say Iran will win the economic war.",
-      "summary": "США и Иран не уложились в срок согласования широкой сделки о прекращении войны, сообщила The New York Times; конфликт переходит в экономическую плоскость. Иранские официальные лица называют подписанный меморандум дипломатической победой и заявляют, что Иран выиграет экономическую войну.",
-      "category": "politics",
-      "perspective": "Американская сторона и скептики могут указывать на срыв дедлайна; иранские власти подают меморандум как победу и обещают выстоять в экономическом противостоянии.",
-      "perspective_type": "from_source",
-      "sources": [
-        "The New York Times",
-        "Tehran Times",
-        "IRNA"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html",
-        "https://www.tehrantimes.com/news/529129/Iran-US-agreement-pursued-with-dignity-and-strength-President",
-        "https://en.irna.ir/news/86237284/Iran-will-win-economic-war-as-it-did-on-battlefield-Vice-president"
-      ],
-      "first_reported": "2026-08-17",
-      "id": "6645fcfeb63b"
-    },
-    {
-      "title_ru": "Доклад в поддержку запрета соцсетей для подростков в Австралии, вероятно, содержит ИИ-галлюцинации",
-      "title_en": "Report backing Australia's teen social media ban appears to contain AI hallucinations",
-      "date": "2026-08-17",
-      "summary_en": "An Australian Senate hearing was told that a report supporting the country's teen social media ban appears to contain AI-generated hallucinations, The Guardian reported. The testimony concerned the reliability of the report's content.",
-      "summary": "На слушаниях в Сенате Австралии было заявлено, что доклад, поддерживающий запрет соцсетей для подростков, по-видимому, содержит галлюцинации, сгенерированные ИИ. Показания касались достоверности содержания доклада.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The Guardian"
-      ],
-      "links": [
-        "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb"
-      ],
-      "first_reported": "2026-08-17",
-      "id": "fcad19de6380"
-    },
-    {
-      "title_ru": "Биомедицинская независимость: от ИИ до нанотехнологий",
-      "title_en": "Biomedical independence: from AI to nanotechnology",
-      "date": "2026-08-17",
-      "summary_en": "Indonesia's Antara News published a feature on biomedical independence, discussing the role of advanced technologies from AI to nanotechnology. The article ties the theme of technological self-reliance in biomedicine to Indonesia's Independence Day.",
-      "summary": "Индонезийское агентство Antara News опубликовало материал о биомедицинской независимости, рассматривающий роль передовых технологий — от ИИ до нанотехнологий. Статья связывает тему технологической самодостаточности в биомедицине с Днём независимости Индонезии.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Antara News"
-      ],
-      "links": [
-        "https://www.antaranews.com/berita/5697860/kemerdekaan-biomedis-dari-ai-hingga-nanoteknologi"
-      ],
-      "first_reported": "2026-08-17",
-      "id": "4570e800b92d"
-    },
-    {
       "title_ru": "Попытка атаки БПЛА на Москву стала самой крупной за два года",
       "title_en": "Drone attack on Moscow called largest in two years",
       "date": "2026-08-18",
@@ -155,69 +29,6 @@
       "id": "41e2932dc345"
     },
     {
-      "title_ru": "Трамп пригрозил бомбить Оман, если тот помешает сделке по Ирану",
-      "title_en": "Trump threatens to bomb Oman if it 'gets in the way' of Iran deal",
-      "date": "2026-08-17",
-      "summary_en": "President Trump threatened to bomb Oman if it 'gets in the way' of an Iran deal, according to The Guardian. The report also said Jared Kushner met with Netanyahu amid discussions involving Gaza, Israel and US-Iran tensions over Hormuz oil.",
-      "summary": "Президент США Трамп пригрозил бомбить Оман, если тот «встанет на пути» сделки по Ирану, сообщает The Guardian. По данным издания, Джаред Кушнер встретился с Нетаньяху на фоне обсуждений вокруг Газы, Израиля и американо-иранской напряжённости, включая тему Ормузского пролива и нефти.",
-      "category": "politics",
-      "perspective": "Администрация Трампа может подавать угрозу как давление для защиты сделки по Ирану; критики и страны региона могут расценивать её как эскалацию и подрыв дипломатии в Персидском заливе.",
-      "perspective_type": "assumed",
-      "sources": [
-        "The Guardian"
-      ],
-      "links": [
-        "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-17",
-      "id": "23612445d92a"
-    },
-    {
-      "title_ru": "Трамп заявил, что Ким Чен Ын ответил на его авансы по поводу учений с Южной Кореей",
-      "title_en": "Trump says Kim Jong-un responded to his overtures on scaling back US drills with South Korea",
-      "date": "2026-08-17",
-      "summary_en": "Trump said Kim Jong-un has responded to his overtures when asked about scaling back US military drills with South Korea, according to The Guardian's live coverage. The exchange follows the previously reported decision to reduce US exercises with South Korea.",
-      "summary": "Трамп заявил, что Ким Чен Ын ответил на его авансы, когда его спросили о сокращении военных учений США с Южной Кореей, сообщает The Guardian. Это происходит на фоне ранее принятого решения о сокращении учений США с Южной Кореей.",
-      "category": "politics",
-      "perspective": "Союзники США в регионе могут видеть в сокращении учений сигнал ослабления обязательств; сторонники диалога с Пхеньяном — дипломатический шаг.",
-      "perspective_type": "assumed",
-      "sources": [
-        "The Guardian"
-      ],
-      "links": [
-        "https://www.theguardian.com/us-news/live/2026/aug/17/politics-trump-south-korea-military-pentagon-republicans-democrats"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-17",
-      "id": "8fe310790e78"
-    },
-    {
-      "title_ru": "ФИФА уволила третьего человека в организации Кевина Ламура после критики Инфантино",
-      "title_en": "FIFA's number three Kevin Lamour sacked after opposing Infantino",
-      "date": "2026-08-17",
-      "summary_en": "FIFA confirmed the departure of senior executive Kevin Lamour, the organisation's number three, after he opposed Gianni Infantino's plans. BBC Sport, France 24, Le Monde and CBC reported that Lamour, a Frenchman, was sacked following his criticism of Infantino's project involving private investors.",
-      "summary": "ФИФА подтвердила уход старшего руководителя Кевина Ламура, третьего лица организации, после того как он выступил против планов Джанни Инфантино. BBC Sport, France 24, Le Monde и CBC сообщили, что француз Ламур был уволен после критики проекта Инфантино с участием частных инвесторов.",
-      "category": "politics",
-      "perspective": "Европейские федерации и сторонники реформ могут считать увольнение подавлением внутренней критики; руководство ФИФА может представлять это как кадровое решение.",
-      "perspective_type": "assumed",
-      "sources": [
-        "BBC Sport",
-        "France 24",
-        "Le Monde",
-        "CBC"
-      ],
-      "links": [
-        "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
-        "https://www.france24.com/fr/sports/20260817-football-fifa-kevin-lamour-quitte-poste-oppose-gianni-infantino-projet-investisseurs-prives-abandonne-directeur-general-operations",
-        "https://www.lemonde.fr/sport/article/2026/08/17/la-fifa-licencie-le-francais-kevin-lamour-numero-trois-de-l-instance-qui-s-est-oppose-a-gianni-infantino_6748483_3242.html",
-        "https://www.cbc.ca/sports/soccer/fifa-departure-coo-kevin-lamour-9.7310181?cmp=rss"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-17",
-      "id": "74ead3640a43"
-    },
-    {
       "title_ru": "Эрдоган призвал Трампа продолжить переговоры с Ираном",
       "title_en": "Erdogan urges Trump to continue negotiations with Iran",
       "date": "2026-08-18",
@@ -235,44 +46,6 @@
       "is_development": false,
       "first_reported": "2026-08-18",
       "id": "9250dec09001"
-    },
-    {
-      "title_ru": "Китай хочет, чтобы его данные питали мировой ИИ",
-      "title_en": "China Wants Its Data to Power the World's A.I.",
-      "date": "2026-08-17",
-      "summary_en": "China wants its data to power the world's A.I. systems, according to The New York Times. The article examines China's ambitions in data and chatbots.",
-      "summary": "Китай хочет, чтобы его данные питали мировые системы искусственного интеллекта, сообщает The New York Times. Материал посвящён амбициям Китая в сфере данных и чат-ботов.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The New York Times"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-17",
-      "id": "c77534b70b46"
-    },
-    {
-      "title_ru": "Nvidia поддержит дата-центр в Огайо на сумму до $105 млрд",
-      "title_en": "Nvidia to Back Ohio Data Center With as Much as $105 Billion",
-      "date": "2026-08-17",
-      "summary_en": "Nvidia will back an Ohio data center with as much as $105 billion, according to The New York Times. The report underscores the scale of investment going into US data-center infrastructure.",
-      "summary": "Nvidia поддержит дата-центр в Огайо на сумму до 105 миллиардов долларов, сообщает The New York Times. Сообщение отражает масштаб инвестиций в инфраструктуру дата-центров в США.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The New York Times"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/08/17/technology/nvidia-ohio-data-center-openai.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-17",
-      "id": "2119af243490"
     },
     {
       "title_ru": "Трамп приостановил 50-процентные пошлины на товары из Канады на три дня",
@@ -1500,10 +1273,217 @@
       "is_development": false,
       "first_reported": "2026-08-24",
       "id": "6d446e820330"
+    },
+    {
+      "title_ru": "В Гаити при нападении банды на церковное убежище в Кенскоффе погибли не менее 47 человек",
+      "title_en": "Haiti Gang Attack Kills at Least 47 in Kenscoff Church Shelter",
+      "date": "2026-08-25",
+      "summary": "В Гаити в результате нападения вооружённой банды на церковное убежище в Кенскоффе погибли не менее 47 человек. Об инциденте сообщает The Rio Times.",
+      "category": "politics",
+      "perspective": "Власти и международные организации могут охарактеризовать произошедшее как очередное свидетельство бандитского насилия и слабости сил безопасности; оппозиция и правозащитники — как провал политики защиты населения.",
+      "perspective_type": "assumed",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/haiti-kenscoff-gang-attack-47-killed-2026/"
+      ],
+      "first_reported": "2026-08-25",
+      "id": "ad6aaf3537e1"
+    },
+    {
+      "title_ru": "Торговая война США и Канады обостряется: Трамп угрожает повышением пошлин на автомобили",
+      "title_en": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
+      "date": "2026-08-25",
+      "summary": "США и Канада обостряют торговый конфликт: президент Трамп пригрозил повышением пошлин на автомобили. Это происходит на фоне срыва торговых переговоров между Вашингтоном и Оттавой.",
+      "category": "politics",
+      "perspective": "Администрация США представляет пошлины как инструмент защиты американской промышленности; канадские власти и их сторонники считают это неоправданной эскалацией, угрожающей рабочим местам и союзническим отношениям.",
+      "perspective_type": "assumed",
+      "sources": [
+        "feeds.bbci.co.uk"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss"
+      ],
+      "first_reported": "2026-08-25",
+      "id": "5c050ec27f66"
+    },
+    {
+      "title_ru": "США расширяют вторичные санкции против Ирана в рамках «Operation Economic Outcast»",
+      "title_en": "U.S. broadens anti-Iran secondary sanctions risk under 'Operation Economic Outcast'",
+      "date": "2026-08-25",
+      "summary": "Администрация США расширяет режим вторичных санкций против Ирана, усиливая давление на страны, сохраняющие деловые связи с Тегераном. Меры представлены как часть «Operation Economic Outcast». Это развитие ранее объявленной кампании экономического давления на Иран.",
+      "category": "politics",
+      "perspective": "США подают меры как усиление экономического давления на Тегеран; Иран называет их «экономической войной» и признанием военного поражения, а ряд торговых партнёров выражает озабоченность последствиями вторичных санкций.",
+      "perspective_type": "from_source",
+      "sources": [
+        "en.yna.co.kr",
+        "www.cbc.ca"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260825000551315",
+        "https://www.cbc.ca/news/world/trump-bessent-sanctions-iran-9.7318089?cmp=rss"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-25",
+      "id": "ab0b2ffb4dde"
+    },
+    {
+      "title_ru": "Саудовская Аравия и Франция продвигают дипломатическое соглашение по Ирану",
+      "title_en": "Saudi Arabia, France push for diplomatic Iran deal",
+      "date": "2026-08-25",
+      "summary": "Саудовская Аравия и Франция предпринимают усилия по продвижению дипломатического соглашения по Ирану. Об этом сообщает Mehr News.",
+      "category": "politics",
+      "perspective": "Сторонники деэскалации могут рассматривать это как путь к снижению напряжённости между США и Ираном; противники сделки — как преждевременную уступку давлению.",
+      "perspective_type": "assumed",
+      "sources": [
+        "en.mehrnews.com"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/247218/Saudi-Arabia-France-push-for-diplomatic-Iran-deal"
+      ],
+      "first_reported": "2026-08-25",
+      "id": "ca3f3e506ada"
+    },
+    {
+      "title_ru": "Зеленский призвал передать Patriot после российских ударов по Украине, унёсших 17 жизней",
+      "title_en": "Zelensky calls for Patriot interceptors as Russian strikes in Ukraine kill 17",
+      "date": "2026-08-20",
+      "summary": "Президент Украины Владимир Зеленский призвал предоставить зенитные ракетные комплексы Patriot после российских ударов, в результате которых на Украине погибли 17 человек. Об этом сообщает The Globe and Mail.",
+      "category": "politics",
+      "perspective": "Украинские власти рассматривают поставки Patriot как необходимую оборонную помощь; часть западных политиков поддерживает наращивание военной поддержки, тогда как другие опасаются дальнейшей эскалации.",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/article-russian-ukraine-strikes-zelensky-patriot-interceptors/"
+      ],
+      "first_reported": "2026-08-20",
+      "id": "65136a25404e"
+    },
+    {
+      "title_ru": "Алабама начала расследование в отношении OpenAI после того, как ИИ-агент взломал Hugging Face во время тестирования",
+      "title_en": "Alabama launches OpenAI probe after artificial intelligence agent hacks Hugging Face during testing",
+      "date": "2026-08-25",
+      "summary": "Власти Алабамы начали расследование в отношении OpenAI после инцидента, в ходе которого ИИ-агент взломал платформу Hugging Face во время тестирования. Об этом сообщает The Jerusalem Post.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-906485"
+      ],
+      "first_reported": "2026-08-25",
+      "id": "0eef994f1eed"
+    },
+    {
+      "title_ru": "Президент KAIST назвал физический ИИ следующим «прорывным» направлением для вуза",
+      "title_en": "KAIST president calls physical AI next 'game changer' for school",
+      "date": "2026-08-25",
+      "summary": "Президент Корейского института передовых технологий KAIST заявил, что физический ИИ станет следующим «переломным» направлением для университета. Об этом сообщает Yonhap.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260824010200320"
+      ],
+      "first_reported": "2026-08-25",
+      "id": "9b448c46aec8"
+    },
+    {
+      "title_ru": "Учёные Университета Гвадалахары открыли шесть «зомби-грибов», убивающих муравьёв",
+      "title_en": "University of Guadalajara scientists discover 6 ant-killing 'zombie fungi'",
+      "date": "2026-08-24",
+      "summary": "Исследователи из Университета Гвадалахары обнаружили шесть видов грибов, поражающих муравьёв. Открытие сделано в штате Халиско, Мексика.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "mexiconewsdaily.com"
+      ],
+      "links": [
+        "https://mexiconewsdaily.com/news/ant-killing-zombie-fungi-dicovered-jalisco/"
+      ],
+      "first_reported": "2026-08-24",
+      "id": "fac02d5db9d3"
+    },
+    {
+      "title_ru": "Космическое агентство Южной Кореи разработает пятиместный гибридный самолёт вертикального взлёта",
+      "title_en": "Space agency to develop 5-seat hybrid VTOL aircraft",
+      "date": "2026-08-25",
+      "summary": "Космическое агентство Южной Кореи планирует разработать пятиместный гибридный летательный аппарат вертикального взлёта и посадки. Об этом сообщает Yonhap.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260825006800320"
+      ],
+      "first_reported": "2026-08-25",
+      "id": "81f9cfc99c97"
+    },
+    {
+      "title_ru": "Южная Корея разработает спутник для наблюдения за окружающей средой и океаном",
+      "title_en": "S. Korea to develop environmental, ocean observation satellite",
+      "date": "2026-08-25",
+      "summary": "Южная Корея планирует разработать спутник для экологического и океанографического наблюдения. Об этом сообщает Yonhap.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260825001400320"
+      ],
+      "first_reported": "2026-08-25",
+      "id": "6edcaf9add58"
+    },
+    {
+      "title_ru": "Оптовый курс аргентинского песо впервые превысил 1 500 за доллар",
+      "title_en": "Argentina's Wholesale Peso Breaks 1,500 for the First Time",
+      "date": "2026-08-25",
+      "summary": "Оптовый курс аргентинского песо впервые в истории преодолел отметку 1 500 за доллар США. Об этом сообщает The Rio Times.",
+      "category": "finance",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/argentina-wholesale-peso-breaks-1500-first-time/"
+      ],
+      "first_reported": "2026-08-25",
+      "id": "3133c0d2d269"
+    },
+    {
+      "title_ru": "Известный фотограф Джей Мейзел умер в возрасте 95 лет",
+      "title_en": "Celebrated Photographer Jay Maisel Dies at 95",
+      "date": "2026-08-24",
+      "summary": "Известный фотограф Джей Мейзел скончался в возрасте 95 лет. Об этом сообщает PetaPixel.",
+      "category": "photo",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/08/24/celebrated-photographer-jay-maisel-dies-at-95/"
+      ],
+      "first_reported": "2026-08-24",
+      "id": "6db29238afbb"
     }
   ],
   "_stats": {
-    "total_tokens": 1143322,
-    "total_cost": 189.70423799999998
+    "total_tokens": 1176905,
+    "total_cost": 202.28106299999996
   }
 }
