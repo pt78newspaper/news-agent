@@ -1,5 +1,5 @@
 {
-  "max_news_per_day": 11,
+  "max_news_per_day": 12,
   "language": "ru",
   "sources": {
     "russia": {"label": "Россия", "color": "#d32f2f", "feeds": [
@@ -107,6 +107,10 @@
     "world_finance": {"label": "Финансы/Мир", "color": "#00695c", "category": "finance", "feeds": [
       "https://www.cnbc.com/id/20910258/device/rss/rss.html",
       "https://finance.yahoo.com/news/rssindex"
+    ]},
+    "photo": {"label": "Фото", "color": "#7b1fa2", "category": "photo", "feeds": [
+      "https://petapixel.com/feed/",
+      "https://photographylife.com/feed"
     ]}
   }
 }
