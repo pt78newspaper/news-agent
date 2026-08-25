@@ -68,7 +68,7 @@ def hash_event(e):
     return hashlib.md5(raw.encode("utf-8")).hexdigest()[:12]
 
 
-QUOTA = {"politics": 5, "ai": 2, "tech": 3, "finance": 1}
+QUOTA = {"politics": 5, "ai": 2, "tech": 3, "finance": 1, "photo": 1}
 
 
 def looks_like_ai(cluster):
@@ -88,7 +88,7 @@ def select_clusters(clusters):
         cat = c[0].get("category", "politics") if c else "politics"
         if cat == "tech":
             cat = "ai" if looks_like_ai(c) else "tech"
-        elif cat not in ("finance", "ai"):
+        elif cat not in ("finance", "ai", "photo"):
             cat = "politics"
         for a in c:
             a["category"] = cat
@@ -116,7 +116,7 @@ def generate_html(events, config, usage=None, api_key=None):
     with open(tpl_path, encoding="utf-8") as f:
         html = f.read()
 
-    cat_counts = {"politics": 0, "ai": 0, "tech": 0, "finance": 0}
+    cat_counts = {"politics": 0, "ai": 0, "tech": 0, "finance": 0, "photo": 0}
     stories_html = ""
     for idx, ev in enumerate(events, 1):
         cat = ev.get("category", "politics")
@@ -128,7 +128,7 @@ def generate_html(events, config, usage=None, api_key=None):
             for l in ev.get("links", [])[:3]
         )
 
-        cat_label = {"politics": "Политика", "ai": "AI", "tech": "Техно/Наука", "finance": "Финансы"}.get(cat, "")
+        cat_label = {"politics": "Политика", "ai": "AI", "tech": "Техно/Наука", "finance": "Финансы", "photo": "Фото"}.get(cat, "")
         cat_badge = f'<span class="cat-badge cat-{cat}">{cat_label}</span>' if cat_label else ""
 
         perspective = ev.get("perspective", "").strip()
@@ -222,7 +222,7 @@ def generate_html(events, config, usage=None, api_key=None):
     html = html.replace("__USAGE_INFO__", usage_text)
     html = html.replace("__TOTAL_STORIES__", str(len(events)))
     html = html.replace("__TOTAL_SOURCES__", str(sum(len(e.get("sources", [])) for e in events)))
-    cat_display = " | ".join(f'{l}: {cat_counts.get(k,0)}' for k,l in [("politics","Политика"),("ai","AI"),("tech","Техно"),("finance","Финансы")] if cat_counts.get(k,0))
+    cat_display = " | ".join(f'{l}: {cat_counts.get(k,0)}' for k,l in [("politics","Политика"),("ai","AI"),("tech","Техно"),("finance","Финансы"),("photo","Фото")] if cat_counts.get(k,0))
     html = html.replace("__REGIONS_COVERED__", cat_display)
     html = html.replace("__STORIES__", stories_html)
     from news_agent.ai_summarizer import MODEL as AI_MODEL_NAME
