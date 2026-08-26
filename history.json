@@ -1,53 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Попытка атаки БПЛА на Москву стала самой крупной за два года",
-      "title_en": "Drone attack on Moscow called largest in two years",
-      "date": "2026-08-18",
-      "summary_en": "In the early hours of August 18, Ukrainian drones carried out what Russian sources described as the largest attempted attack on Moscow in two years; air defenses reported shooting down more than 150 drones over Moscow region, including 97 on approach to the city. The attack caused fires at an apartment building and a Wildberries warehouse in Moscow region, and a 10-year-old child was injured. The Moscow region prosecutor's office opened a hotline for victims.",
-      "summary": "В ночь на 18 августа украинские беспилотники совершили попытку атаки на Москву, которую российские источники назвали самой крупной за два года; силы ПВО отчитались о более чем 150 сбитых над Подмосковьем БПЛА, включая 97 на подлёте к Москве. В Подмосковье загорелись многоквартирный дом и склад Wildberries, пострадал 10-летний ребёнок. Прокуратура Подмосковья открыла горячую линию для пострадавших.",
-      "category": "politics",
-      "perspective": "Российские официальные источники представляют происходящее как отражение украинской атаки и акцентируют работу ПВО, ущерб и жертвы; украинская сторона в представленных материалах не комментирует.",
-      "perspective_type": "assumed",
-      "sources": [
-        "tass.ru",
-        "kommersant.ru",
-        "vedomosti.ru",
-        "lenta.ru"
-      ],
-      "links": [
-        "https://tass.ru/proisshestviya/28020659",
-        "https://tass.ru/proisshestviya/28020565",
-        "https://www.kommersant.ru/doc/8891688",
-        "https://www.kommersant.ru/doc/8891683",
-        "https://tass.ru/proisshestviya/28020717",
-        "https://www.vedomosti.ru/politics/news/2026/08/18/1221830-sili-pvo-sbili",
-        "https://lenta.ru/news/2026/08/18/popytka-ataki-dronov-vsu-na-moskvu-stala-samoy-krupnoy-za-dva-goda/"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-18",
-      "id": "41e2932dc345"
-    },
-    {
-      "title_ru": "Эрдоган призвал Трампа продолжить переговоры с Ираном",
-      "title_en": "Erdogan urges Trump to continue negotiations with Iran",
-      "date": "2026-08-18",
-      "summary_en": "Turkish President Erdogan urged US President Trump to continue negotiations with Iran, according to Antara News. The call came amid ongoing US-Iran tensions.",
-      "summary": "Президент Турции Эрдоган призвал президента США Трампа продолжить переговоры с Ираном, сообщает Antara News. Это происходит на фоне сохраняющейся напряжённости между США и Ираном.",
-      "category": "politics",
-      "perspective": "Турция может позиционировать себя как посредник; сторонники жёсткой линии могут выступать против продолжения переговоров с Ираном.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Antara News"
-      ],
-      "links": [
-        "https://www.antaranews.com/berita/5699303/erdogan-desak-trump-lanjutkan-perundingan-dengan-iran"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-18",
-      "id": "9250dec09001"
-    },
-    {
       "title_ru": "Трамп приостановил 50-процентные пошлины на товары из Канады на три дня",
       "title_en": "Trump pauses 50% tariffs on Canadian goods for three days",
       "date": "2026-08-19",
@@ -75,35 +28,6 @@
       "is_development": false,
       "first_reported": "2026-08-19",
       "id": "9866e80777df"
-    },
-    {
-      "title_ru": "Трамп обозначил Ормузский пролив как «новую территорию США»; Иран отвергает претензию",
-      "title_en": "Trump labels Strait of Hormuz 'new US territory'; Iran rejects the claim",
-      "date": "2026-08-18",
-      "summary_en": "Donald Trump marked the Strait of Hormuz on a map as a 'new territory of the United States.' Iranian officials rejected the claim and said Tehran will stand firm on its rights in managing the strait.",
-      "summary": "Дональд Трамп обозначил Ормузский пролив на карте как «новую территорию США». Иранские официальные лица отвергли эти претензии и заявили, что Тегеран будет твёрдо отстаивать свои права на управление проливом.",
-      "category": "politics",
-      "perspective": "Для администрации США это претензия на контроль над стратегическим нефтяным маршрутом; Иран считает это посягательством на суверенитет; международные наблюдатели видят риски эскалации в Персидском заливе.",
-      "perspective_type": "from_source",
-      "sources": [
-        "Kommersant",
-        "Vedomosti",
-        "Ukrainska Pravda",
-        "Tehran Times",
-        "IRNA",
-        "TASS"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8892094",
-        "https://www.vedomosti.ru/politics/news/2026/08/18/1221975-tramp-karte-oboznachil",
-        "https://www.pravda.com.ua/news/2026/08/18/8049220/",
-        "https://www.tehrantimes.com/news/529206/Iran-will-stand-firm-on-its-rights-in-managing-Strait-of-Hormuz",
-        "https://en.irna.ir/news/86239150/Gharibabadi-rebukes-trump-over-strait-of-Hormuz-claim",
-        "https://tass.com/world/2174691"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-18",
-      "id": "fe2bc11df1ba"
     },
     {
       "title_ru": "Новая волна атак БПЛА: ПВО отчиталась о сбитых дронах над Москвой, Тульской и Ростовской областями",
@@ -149,50 +73,6 @@
       "is_development": false,
       "first_reported": "2026-08-19",
       "id": "4fb8f0da964a"
-    },
-    {
-      "title_ru": "Президент Южной Кореи призвал к военной самостоятельности после решения Трампа сократить учения",
-      "title_en": "South Korea president calls for military independence after Trump move to cut joint drills",
-      "date": "2026-08-18",
-      "summary_en": "The South Korean president called for greater military self-reliance after the United States scaled back joint military exercises with South Korea. Seoul also said Washington had not given advance notice of the reduction.",
-      "summary": "Президент Южной Кореи призвал к большей военной самостоятельности после того, как США сократили масштаб совместных учений с Южной Кореей. В Сеуле также заявили, что Вашингтон не предупредил о сокращении заранее.",
-      "category": "politics",
-      "perspective": "Администрация Трампа объясняет сокращение учений нежеланием портить отношения с КНДР; в Южной Корее и среди союзников это вызывает опасения по поводу надёжности американских гарантий безопасности.",
-      "perspective_type": "from_source",
-      "sources": [
-        "The Guardian",
-        "Kommersant",
-        "TASS",
-        "The New York Times"
-      ],
-      "links": [
-        "https://www.theguardian.com/world/2026/aug/18/south-korea-president-trump-military-drills-control-opcon-kim-jong-un",
-        "https://www.kommersant.ru/doc/8891295",
-        "https://tass.ru/mezhdunarodnaya-panorama/28023957",
-        "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-18",
-      "id": "2acbe7c8bd1a"
-    },
-    {
-      "title_ru": "Иран сообщил об обучении основам ИИ 4 миллионов студентов",
-      "title_en": "Iran says it has provided AI training to 4 million students",
-      "date": "2026-08-18",
-      "summary_en": "Iranian state media reported that Iran has provided artificial intelligence training to 4 million students. The report was part of coverage of the country's educational technology initiatives.",
-      "summary": "Иранские государственные СМИ сообщили, что страна организовала обучение основам искусственного интеллекта для 4 миллионов студентов. Сообщение подано как часть образовательных и технологических инициатив Ирана.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "IRNA"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86238742/Iran-provides-AI-training-to-4-million-students"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-18",
-      "id": "c75e7590ce88"
     },
     {
       "title_ru": "Xiaomi представила человекоподобного робота на World Robot Conference 2026",
