@@ -27,7 +27,7 @@ USER_PROMPT_TEMPLATE = (
     "Если событие уже было в прошлом выпуске и нет новых важных подробностей — пропусти его. "
     "Если есть существенное развитие — включи, укажи это.\n"
     "4. Если нужного количества событий какой-то категории нет в новостях — оставь сколько есть, но общее число 12 должно сохраниться за счёт других категорий.\n"
-    "5. Пропускай рекламно-продуктовые новости: предзаказы预售/бронирования/открытие продаж гаджетов, «вышел новый смартфон с Y% больше» и подобные пресс-релизы производителей. Это маркетинг, а не новость. Исключения: в категории 'ai' допустима одна такая новость, если нет более значимых событий об ИИ; в категории 'photo' маркетинговые новости допустимы без ограничений.\n"
+    "5. Пропускай рекламно-продуктовые новости: предзаказы/бронирования/открытие продаж гаджетов, «вышел новый смартфон с Y% больше» и подобные пресс-релизы производителей. Это маркетинг, а не новость. Исключения: в категории 'ai' допустима одна такая новость, если нет более значимых событий об ИИ; в категории 'photo' маркетинговые новости допустимы без ограничений.\n"
     "6. Для каждого события напиши краткую суть (2-3 предложения) только на русском (поле summary).\n"
     "7. Для каждого события обязательно укажи ссылки на источники (только из списка выше).\n"
     "8. В поле category укажи 'politics' для политических событий, 'ai' для новостей об ИИ, 'tech' для технологий/науки, 'finance' для финансов и экономики, 'photo' для фотографии.\n"
@@ -46,7 +46,7 @@ def summarize_news(clusters, api_key, history=None):
     news_block = ""
     for idx, cluster in enumerate(clusters, 1):
         news_block += f"\n=== Событие {idx} ===\n"
-        for a in cluster:
+        for a in cluster[:5]:
             kw = a.get("keywords", [])
             kw_str = f" [ключевые слова: {', '.join(kw[:4])}]" if kw else ""
             cat = a.get("category", "politics")
@@ -174,7 +174,16 @@ def summarize_news(clusters, api_key, history=None):
     if msg.get("tool_calls"):
         for tc in msg["tool_calls"]:
             if tc["function"]["name"] == "report_news":
-                events = json.loads(tc["function"]["arguments"]).get("events", [])
+                try:
+                    events = json.loads(tc["function"]["arguments"]).get("events", [])
+                except json.JSONDecodeError:
+                    args_raw = tc["function"]["arguments"]
+                    fixed = args_raw.rsplit("}", 1)[0] + "}]}"
+                    try:
+                        events = json.loads(fixed).get("events", [])
+                    except Exception:
+                        print(f"  AI: обрезанный JSON ({len(args_raw)} символов), fallback")
+                        events = []
                 print(f"  AI: {len(events)} событий")
                 return events, {"tokens": total_tokens, "cost": total_cost}
 
