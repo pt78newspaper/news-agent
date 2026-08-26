@@ -1360,10 +1360,226 @@
       ],
       "first_reported": "2026-08-24",
       "id": "6db29238afbb"
+    },
+    {
+      "title_ru": "Трамп прокомментировал визит главы ЦРУ в Москву",
+      "title_en": "Trump comments on CIA chief's visit to Moscow",
+      "date": "2026-08-26",
+      "summary": "Президент США Дональд Трамп заявил, что визит главы ЦРУ в Москву не связан с Ираном или эскалацией с НАТО, и отметил, что поездка может принести результаты.",
+      "category": "politics",
+      "perspective": "Одни политические силы могут рассматривать визит как сигнал к деэскалации и возможному диалогу Москвы и Вашингтона; другие — как непрозрачные контакты спецслужб, требующие парламентского контроля.",
+      "perspective_type": "assumed",
+      "sources": [
+        "kommersant.ru",
+        "tass.ru",
+        "ria.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8908955",
+        "https://tass.ru/mezhdunarodnaya-panorama/28047059",
+        "https://ria.ru/20260826/tramp-2113331307.html"
+      ],
+      "first_reported": "2026-08-26",
+      "id": "1239692b8622"
+    },
+    {
+      "title_ru": "Пасечник: девять человек погибли при ударе ВСУ по автобусу Лисичанск-Стаханов",
+      "title_en": "Nine killed in Ukrainian drone attack on bus in LPR",
+      "date": "2026-08-26",
+      "summary": "Глава ЛНР Леонид Пасечник сообщил, что украинский дрон атаковал автобус, следовавший из Лисичанска в Стаханов; погибли девять человек.",
+      "category": "politics",
+      "perspective": "Власти ЛНР и российские источники квалифицируют произошедшее как удар по гражданскому транспорту; с другой стороны, возможны иные трактовки обстоятельств и контекста атаки.",
+      "perspective_type": "assumed",
+      "sources": [
+        "tass.ru",
+        "ria.ru"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/28047173",
+        "https://ria.ru/20260826/lnr-2113338225.html"
+      ],
+      "first_reported": "2026-08-26",
+      "id": "ffe91e944b28"
+    },
+    {
+      "title_ru": "Число жертв пожара на Амурском ГХК выросло до восьми",
+      "title_en": "Death toll in fire at Amur Gas Chemical Complex rises to eight",
+      "date": "2026-08-26",
+      "summary": "Спасатели обнаружили тело восьмого погибшего при пожаре на Амурском газохимическом комплексе. Ранее сообщалось о семи погибших и девяти пропавших без вести.",
+      "category": "politics",
+      "perspective": "Экстренные службы акцентируют ход спасательной операции; профсоюзы и оппозиция могут поднимать вопросы охраны труда и ответственности за промышленную безопасность.",
+      "perspective_type": "assumed",
+      "sources": [
+        "rbc.ru",
+        "kommersant.ru"
+      ],
+      "links": [
+        "https://www.rbc.ru/society/26/08/2026/6a8e77549a794701606cb0b3",
+        "https://www.kommersant.ru/doc/8908611",
+        "https://www.kommersant.ru/doc/8908385"
+      ],
+      "first_reported": "2026-08-26",
+      "id": "d7cf17b4c405"
+    },
+    {
+      "title_ru": "Склад Wildberries в Котовске полностью сгорел после атаки БПЛА",
+      "title_en": "Wildberries warehouse in Kotovsk completely burned after drone attack",
+      "date": "2026-08-26",
+      "summary": "После атаки беспилотника склад Wildberries в Котовске полностью сгорел, пострадали два человека. По факту атаки возбуждено дело о теракте.",
+      "category": "politics",
+      "perspective": "Российские власти рассматривают атаку как теракт и угрозу объектам экономики; независимые наблюдатели могут обращать внимание на безопасность гражданских объектов и последствия для работников.",
+      "perspective_type": "assumed",
+      "sources": [
+        "kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8908562",
+        "https://www.kommersant.ru/doc/8908583",
+        "https://www.kommersant.ru/doc/8908596"
+      ],
+      "first_reported": "2026-08-26",
+      "id": "bbd77fbed7c1"
+    },
+    {
+      "title_ru": "Прабово поручил BRIN разработать технологии опреснения для удалённых районов",
+      "title_en": "Prabowo orders BRIN to develop desalination tech for remote areas",
+      "date": "2026-08-26",
+      "summary": "Президент Индонезии Прабово Субианто поручил Национальному агентству исследований и инноваций BRIN разработать технологии опреснения воды для удалённых районов страны.",
+      "category": "politics",
+      "perspective": "Власти подают инициативу как решение проблемы доступа к чистой воде в удалённых районах; оппозиция и эксперты могут оценивать реализуемость и достаточность финансирования.",
+      "perspective_type": "assumed",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/428589/prabowo-orders-brin-to-develop-desalination-tech-for-remote-areas"
+      ],
+      "first_reported": "2026-08-26",
+      "id": "25b34ebe6525"
+    },
+    {
+      "title_ru": "Делегация Южной Кореи приняла участие в церемонии открытия инициативы ATLAS",
+      "title_en": "S. Korea delegation attends inauguration ceremony of ATLAS initiative",
+      "date": "2026-08-26",
+      "summary": "Южная Корея направила делегацию для участия в церемонии запуска инициативы ATLAS. Детали инициативы в сообщении не раскрываются.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260826005400320"
+      ],
+      "first_reported": "2026-08-26",
+      "id": "b5076bfe3ab0"
+    },
+    {
+      "title_ru": "Полиция Южной Кореи заново проверит 310 000 закрытых за три года дел о пропавших без вести",
+      "title_en": "Police to reexamine 310,000 missing person cases closed in past 3 yrs",
+      "date": "2026-08-26",
+      "summary": "Южнокорейская полиция намерена повторно изучить около 310 тысяч дел о пропавших без вести, закрытых за последние три года.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260826009100320"
+      ],
+      "first_reported": "2026-08-26",
+      "id": "3dc30a8614e6"
+    },
+    {
+      "title_ru": "В Европе зафиксировано как минимум на 35 000 больше смертей от жары",
+      "title_en": "Europe records at least 35,000 more deaths from heat",
+      "date": "2026-08-26",
+      "summary": "Согласно сообщению Taipei Times, в Европе зарегистрировано по меньшей мере на 35 тысяч больше смертей, связанных с жарой.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "taipeitimes.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/front/archives/2026/08/26/2003863141"
+      ],
+      "first_reported": "2026-08-26",
+      "id": "9ab2444c6923"
+    },
+    {
+      "title_ru": "Южная Корея зафиксировала 20 дней с волнами жары в этом году — вдвое выше многолетней нормы",
+      "title_en": "S. Korea records 20 heat wave days this year, double long-term average",
+      "date": "2026-08-25",
+      "summary": "В Южной Корее в текущем году зафиксировано 20 дней с волнами жары, что вдвое превышает средний многолетний показатель.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260825008900315"
+      ],
+      "first_reported": "2026-08-25",
+      "id": "4303acbdc857"
+    },
+    {
+      "title_ru": "Процессор Xiaomi Xring O3 показал 15 086 баллов в многоядерном тесте Geekbench",
+      "title_en": "Xiaomi's Xring O3 impresses in early benchmark tests, scores 15,086 in Geekbench multi-core",
+      "date": "2026-08-25",
+      "summary": "Новый чип Xiaomi Xring O3 показал результат 15 086 баллов в многоядерном тесте Geekbench, продемонстрировав сильные результаты на ранних бенчмарках.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "gizmochina.com"
+      ],
+      "links": [
+        "https://www.gizmochina.com/2026/08/25/xiaomis-xring-o3-impresses-in-early-benchmark-tests-scores-15086-in-geekbench-multi-core/"
+      ],
+      "first_reported": "2026-08-25",
+      "id": "6e5fc81a4bc4"
+    },
+    {
+      "title_ru": "Китай осудил «экономические войны» на фоне кампании США по изоляции Ирана",
+      "title_en": "China denounces 'economic wars' as US starts campaign to cut off Iran",
+      "date": "2026-08-26",
+      "summary": "Китай выступил с осуждением «экономических войн» в связи с началом кампании США по отрезанию Ирана от внешних рынков. Это развитие ранее освещавшейся темы санкционного давления Вашингтона на Иран.",
+      "category": "finance",
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": true,
+      "sources": [
+        "asia.nikkei.com"
+      ],
+      "links": [
+        "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-denounces-economic-wars-as-us-starts-campaign-to-cut-off-iran"
+      ],
+      "first_reported": "2026-08-26",
+      "id": "c9da776e336b"
+    },
+    {
+      "title_ru": "Miller Tripods закрывается почти после 80 лет работы",
+      "title_en": "Miller Tripods is closing down after nearly 80 years of business",
+      "date": "2026-08-26",
+      "summary": "Производитель штативов Miller Tripods объявил о закрытии бизнеса почти после 80 лет работы.",
+      "category": "photo",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/08/26/miller-tripods-is-closing-down-after-nearly-80-years-of-business/"
+      ],
+      "first_reported": "2026-08-26",
+      "id": "574da9b1bdd7"
     }
   ],
   "_stats": {
-    "total_tokens": 1176905,
-    "total_cost": 202.28106299999996
+    "total_tokens": 1199898,
+    "total_cost": 214.75798799999995
   }
 }
