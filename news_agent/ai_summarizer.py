@@ -1,7 +1,7 @@
 ﻿import os, requests, json, time
 
 GPTUNNEL_API = "https://gptunnel.ru/v1/chat/completions"
-MODEL = "deepseek-v4-pro"
+MODEL = "deepseek-3.2"
 MAX_RETRIES = 3
 SYS_PROMPT = (
     "Ты — опытный аналитик, освещающий политику, технологии и науку. Беспристрастен."
