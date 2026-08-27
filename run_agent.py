@@ -284,16 +284,6 @@ def main():
     if not api_key:
         api_key = config.get("gptunnel_api_key", "").strip()
 
-    import urllib.request as _ur
-    try:
-        _req = _ur.Request("https://gptunnel.ru/v1/models", headers={"Authorization": f"Bearer {api_key}"})
-        _mods = json.loads(_ur.urlopen(_req).read()).get("data", [])
-        print("== MODELS ==")
-        for _m in _mods:
-            print("  MODEL:", _m.get("id"))
-    except Exception as _e:
-        print("models endpoint failed:", _e)
-
     print("NewsAgentPT78")
     print("=" * 40)
     if api_key:
