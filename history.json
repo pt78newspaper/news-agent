@@ -1,99 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Трамп приостановил 50-процентные пошлины на товары из Канады на три дня",
-      "title_en": "Trump pauses 50% tariffs on Canadian goods for three days",
-      "date": "2026-08-19",
-      "summary_en": "President Trump said the United States and Canada are close to a deal and paused new 50 percent tariffs on Canadian goods for three days. Reports also said he hinted at reviving the Keystone XL oil pipeline project.",
-      "summary": "Трамп заявил, что США и Канада близки к сделке, и приостановил введение 50-процентных пошлин на канадские товары на три дня. Сообщается также, что он намекнул на возобновление проекта нефтепровода Keystone XL.",
-      "category": "politics",
-      "perspective": "Администрация США подаёт решение как шаг к торговой сделке с Канадой; в Канаде и среди союзников это может восприниматься как временная передышка, не снимающая угрозу тарифного давления.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Kommersant",
-        "TASS",
-        "The New York Times",
-        "BBC News",
-        "The Guardian",
-        "DW"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8892498",
-        "https://tass.ru/mezhdunarodnaya-panorama/28023993",
-        "https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html",
-        "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-        "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
-        "https://www.dw.com/en/us-canada-agree-deal-that-pauses-50-tariffs-trump-says/a-78421098?maca=en-rss-en-all-1573-xml-mrss"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-19",
-      "id": "9866e80777df"
-    },
-    {
-      "title_ru": "Новая волна атак БПЛА: ПВО отчиталась о сбитых дронах над Москвой, Тульской и Ростовской областями",
-      "title_en": "New wave of drone attacks: air defenses report downed UAVs over Moscow, Tula and Rostov regions",
-      "date": "2026-08-19",
-      "summary_en": "Russian authorities reported that air defenses intercepted more drones overnight: 25 UAVs approaching Moscow, 27 over Tula region and about 15 over Rostov region. This follows previous large-scale overnight drone attacks on the Russian capital and regions.",
-      "summary": "Российские власти сообщили о перехвате беспилотников в ночь на 19 августа: 25 БПЛА на подлёте к Москве, 27 — над Тульской областью и около 15 — над Ростовской. Это продолжает серию массированных ночных атак дронов на Москву и регионы.",
-      "category": "politics",
-      "perspective": "Российские официальные источники подчёркивают эффективность работы ПВО; украинская сторона в предоставленной подборке отдельно не цитируется.",
-      "perspective_type": "unclear",
-      "sources": [
-        "TASS",
-        "Kommersant",
-        "Vedomosti",
-        "Lenta.ru"
-      ],
-      "links": [
-        "https://tass.ru/proisshestviya/28024097",
-        "https://tass.ru/proisshestviya/28024093",
-        "https://www.kommersant.ru/doc/8892492",
-        "https://www.vedomosti.ru/politics/news/2026/08/19/1222116-sobyanin-na-podlete",
-        "https://lenta.ru/news/2026/08/19/na-podlete-k-moskve-sbili-esche-desyat-bespilotnikov/"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-19",
-      "id": "a6b2e03c7eb6"
-    },
-    {
-      "title_ru": "Администрация Трампа ввела санкции против президента Международного уголовного суда и старшего юриста",
-      "title_en": "Trump administration sanctions International Criminal Court president and senior lawyer",
-      "date": "2026-08-19",
-      "summary_en": "The Trump administration has sanctioned the president of the International Criminal Court and a senior lawyer, escalating the US confrontation with the ICC. The move was reported as the latest step in a growing row between Washington and the court.",
-      "summary": "Администрация Трампа ввела санкции против президента Международного уголовного суда и старшего юриста, обострив противостояние США с МУС. Это стало очередным шагом в разрастающемся конфликте между Вашингтоном и судом.",
-      "category": "politics",
-      "perspective": "Администрация США, вероятно, оправдывает санкции защитой американского суверенитета; сторонники МУС расценивают это как подрыв международного правосудия.",
-      "perspective_type": "assumed",
-      "sources": [
-        "The Times of India"
-      ],
-      "links": [
-        "https://timesofindia.indiatimes.com/world/us/us-vs-icc-row-escalates-trump-administration-sanctions-international-court-president-senior-lawyer/articleshow/133335289.cms"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-19",
-      "id": "4fb8f0da964a"
-    },
-    {
-      "title_ru": "Xiaomi представила человекоподобного робота на World Robot Conference 2026",
-      "title_en": "Xiaomi debuts humanoid robot at World Robot Conference 2026",
-      "date": "2026-08-19",
-      "summary_en": "Chinese electronics maker Xiaomi presented a humanoid robot at the World Robot Conference 2026. The debut was reported among technology news from the conference.",
-      "summary": "Китайский производитель электроники Xiaomi представил человекоподобного робота на World Robot Conference 2026. Дебют был отмечен в технологических новостях с конференции.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Antara News"
-      ],
-      "links": [
-        "https://otomotif.antaranews.com/berita/5700955/xiaomi-debutkan-robot-humanoid-di-panggung-world-robot-conferece-2026"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-19",
-      "id": "12c1db94ec82"
-    },
-    {
       "title_ru": "Трамп объявил Ирану беспрецедентную экономическую войну и пригрозил последствиями его партнёрам",
       "title_en": "Trump declares unprecedented economic war on Iran and threatens partners with consequences",
       "date": "2026-08-20",
@@ -162,52 +69,6 @@
       "is_development": true,
       "first_reported": "2026-08-20",
       "id": "29d37e0a3d27"
-    },
-    {
-      "title_ru": "Трамп заявил о встрече с Ким Чен Ыном и оценил ядерный арсенал КНДР в 57 зарядов",
-      "title_en": "Trump says he will meet Kim Jong-un and claims North Korea has 57 nuclear weapons",
-      "date": "2026-08-19",
-      "summary_en": "Donald Trump announced that he would meet North Korean leader Kim Jong-un this year and claimed that North Korea possesses 57 'very powerful' nuclear weapons. The statement came shortly after he criticised South Korea, and reports said Washington scaled back military drills to pressure Seoul over the Iran war.",
-      "summary": "Дональд Трамп объявил, что встретится с лидером КНДР Ким Чен Ыном в этом году, и заявил, что Северная Корея обладает 57 «очень мощными» ядерными зарядами. Это прозвучало вскоре после его критики в адрес Южной Кореи; также сообщалось, что Вашингтон сократил военные учения, чтобы оказать давление на Сеул в связи с войной с Ираном.",
-      "category": "politics",
-      "perspective": "Администрация Трампа подаёт встречу как дипломатический шаг; Южная Корея и союзники могут воспринимать сокращение учений и подобные заявления с тревогой за гарантии безопасности; критики отмечают противоречивость сигналов Вашингтона.",
-      "perspective_type": "from_source",
-      "sources": [
-        "France 24",
-        "TASS",
-        "Tehran Times",
-        "Le Monde"
-      ],
-      "links": [
-        "https://www.france24.com/fr/am%C3%A9riques/20260819-donald-trump-annonce-rencontre-kim-jong-un-cette-annee-coree-nord-etats-unis-nucleaire-cor%C3%A9e-sud-exercices-militaires",
-        "https://tass.com/world/2175263",
-        "https://www.tehrantimes.com/news/529226/South-Korea-Trump-scales-back-drills-to-pressure-Seoul-over",
-        "https://www.lemonde.fr/international/article/2026/08/19/donald-trump-affirme-que-la-coree-du-nord-possede-57-armes-nucleaires-apres-avoir-vivement-critique-la-coree-du-sud_6749900_3210.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-19",
-      "id": "321328fea45b"
-    },
-    {
-      "title_ru": "В Бразилии стартовала президентская кампания: TSE получила более тысячи жалоб, Лула претендует на четвёртый срок",
-      "title_en": "Brazil's presidential campaign begins: electoral court receives over 1,000 complaints as Lula seeks fourth term",
-      "date": "2026-08-19",
-      "summary_en": "Brazil's Superior Electoral Court (TSE) received more than 1,000 complaints in the first days of the presidential campaign. Meanwhile, Luiz Inacio Lula da Silva has launched a historic bid for a fourth term, with Flavio Bolsonaro, son of jailed former president Jair Bolsonaro, standing in his way.",
-      "summary": "Высший избирательный суд Бразилии (TSE) получил более тысячи жалоб в первые дни президентской кампании. Тем временем Луис Инасиу Лула да Силва начал историческую борьбу за четвёртый срок, а его оппонентом выступает Флавио Болсонару, сын находящегося в заключении экс-президента Жаира Болсонару.",
-      "category": "politics",
-      "perspective": "Сторонники Лулы подают его выдвижение как историческое продолжение социального курса; лагерь Болсонару делает ставку на оппозиционного избирателя; TSE как арбитр фиксирует рост числа жалоб в начале кампании.",
-      "perspective_type": "from_source",
-      "sources": [
-        "Agência Brasil",
-        "The Guardian"
-      ],
-      "links": [
-        "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-recebe-mais-de-mil-denuncias-nos-primeiros-dias-de-campanha",
-        "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-19",
-      "id": "3b625aee2eeb"
     },
     {
       "title_ru": "Профессор Калифорнийского университета в Беркли признал использование ИИ для редактирования колонки о математике студентов",
@@ -365,24 +226,6 @@
       ],
       "first_reported": "2026-08-20",
       "id": "4e30173e69c9"
-    },
-    {
-      "title_ru": "Meta предстанет перед судом по обвинениям в формировании зависимости у детей от соцсетей",
-      "title_en": "Meta to stand trial over claims it addicted children to social media",
-      "date": "2026-08-19",
-      "summary_en": "Meta is set to stand trial over claims that it addicted children to social media, The New York Times reported.",
-      "summary": "Meta предстанет перед судом по искам о том, что её платформы вызывали зависимость у детей, сообщает The New York Times.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The New York Times"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html"
-      ],
-      "first_reported": "2026-08-19",
-      "id": "4434b41d6aa9"
     },
     {
       "title_ru": "Трамп назвал Ормузский пролив американской территорией",
