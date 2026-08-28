@@ -1,137 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Трамп объявил Ирану беспрецедентную экономическую войну и пригрозил последствиями его партнёрам",
-      "title_en": "Trump declares unprecedented economic war on Iran and threatens partners with consequences",
-      "date": "2026-08-20",
-      "summary_en": "Donald Trump threatened 'tremendous economic consequences' for any country helping Iran and said the blockade of the Strait of Hormuz had been successful and the strait is now open. The UAE announced it would halt trade with Iran, while Trump left open further sanctions and a possible resumption of US-Iran talks. Iran, for its part, warned Gulf states against facilitating US aggression.",
-      "summary": "Дональд Трамп пригрозил «колоссальными экономическими последствиями» любой стране, которая помогает Ирану, и заявил, что блокада Ормузского пролива была успешной, а пролив теперь открыт. ОАЭ объявили о прекращении торговли с Ираном, при этом Трамп не исключил ни новых санкций, ни возможного возобновления переговоров США и Ирана. Иран, со своей стороны, предупредил страны Персидского залива от содействия американской агрессии.",
-      "category": "politics",
-      "perspective": "Администрация Трампа подаёт это как экономическое давление для изоляции Ирана; иранские официальные источники называют происходящее эскалацией и вмешательством и предупреждают страны Залива; NYT отмечает ограниченность военных рычагов США и возврат к экономическому давлению.",
-      "perspective_type": "from_source",
-      "sources": [
-        "BBC News",
-        "The New York Times",
-        "TASS",
-        "Tehran Times"
-      ],
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o",
-        "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
-        "https://tass.com/world/2175379",
-        "https://tass.com/world/2175391",
-        "https://www.tehrantimes.com/news/529225/Iran-s-military-chief-warns-Persian-Gulf-states-against-facilitating"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-20",
-      "id": "b4bc6949dea2"
-    },
-    {
-      "title_ru": "Пенни Вонг осудила отказ Израиля расследовать гибель австралийской волонтёрки Зоми Франком",
-      "title_en": "Penny Wong condemns Israel's decision not to investigate killing of Australian aid worker Zomi Frankcom",
-      "date": "2026-08-20",
-      "summary_en": "Australia's Foreign Minister Penny Wong called the Israeli military's decision not to open a criminal investigation into the Gaza strike that killed Australian aid worker Zomi Frankcom 'insulting'. Israel's ambassador to Australia asked critics to 'respect the process' after the IDF ruled out a criminal probe.",
-      "summary": "Министр иностранных дел Австралии Пенни Вонг назвала «оскорбительным» решение израильских военных не открывать уголовное расследование по удару в Газе, в результате которого погибла австралийская волонтёрка Зоми Франком. Посол Израиля в Австралии призвал «уважать процесс» после того, как ЦАХАЛ исключил уголовное расследование.",
-      "category": "politics",
-      "perspective": "Австралийское правительство (лейбористы) считает решение оскорбительным и требует ответственности; израильская сторона настаивает на уважении к внутреннему процессу; правозащитная оптика Guardian подчёркивает критику отказа от уголовного расследования.",
-      "perspective_type": "from_source",
-      "sources": [
-        "The Guardian"
-      ],
-      "links": [
-        "https://www.theguardian.com/australia-news/2026/aug/20/australia-idf-reaction-gaza-strike-zomi-frankcom-penny-wong-statement-ntwnfb",
-        "https://www.theguardian.com/australia-news/live/2026/aug/20/australian-politics-live-penny-wong-labor-government-anthony-albanese-gambling-ndis-question-time-angus-taylor-pauline-hanson-ntwnfb"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-20",
-      "id": "3c1cdd723c43"
-    },
-    {
-      "title_ru": "Минобороны РФ отчиталось о новых ударах по ВСУ и перехвате сотен беспилотников",
-      "title_en": "Russian military reports new strikes on Ukrainian forces and interception of hundreds of drones",
-      "date": "2026-08-20",
-      "summary_en": "Russia's 'North' group said it destroyed more than 200 Ukrainian soldiers and 10 UAV control points overnight, while reporting 356 drones downed that were flying toward the Russian border. The 'West' group said it shot down 124 Ukrainian drones in a day, and earlier air defence reports cited nearly 500 UAVs downed in one day.",
-      "summary": "Российская группировка «Север» заявила, что за ночь уничтожила более 200 солдат ВСУ и 10 пунктов управления БПЛА, а также отчиталась о 356 сбитых беспилотниках, летевших в сторону границы РФ. Группировка «Запад» сообщила о 124 сбитых за сутки дронах ВСУ, ранее ПВО отчитывалась почти о 500 сбитых за день беспилотниках.",
-      "category": "politics",
-      "perspective": "Российские официальные источники подают это как успешные действия против ВСУ; украинская сторона в представленной подборке не представлена, поэтому полная картина потерь остаётся неясной.",
-      "perspective_type": "unclear",
-      "sources": [
-        "TASS",
-        "Kommersant"
-      ],
-      "links": [
-        "https://tass.ru/armiya-i-opk/28027701",
-        "https://tass.ru/armiya-i-opk/28027585",
-        "https://tass.ru/armiya-i-opk/28027583",
-        "https://tass.ru/armiya-i-opk/28027501",
-        "https://www.kommersant.ru/doc/8893241"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-20",
-      "id": "29d37e0a3d27"
-    },
-    {
-      "title_ru": "Профессор Калифорнийского университета в Беркли признал использование ИИ для редактирования колонки о математике студентов",
-      "title_en": "UC Berkeley professor admits using AI to edit op-ed on students' math skills",
-      "date": "2026-08-20",
-      "summary_en": "A UC Berkeley professor admitted to using AI to edit an opinion piece about students' math skills, The Guardian reported. The case was reported on August 19, 2026.",
-      "summary": "Профессор Калифорнийского университета в Беркли признал, что использовал ИИ для редактирования авторской колонки о математических навыках студентов, сообщает The Guardian. Информация об этом случае появилась 19 августа 2026 года.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The Guardian"
-      ],
-      "links": [
-        "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-20",
-      "id": "e34eee9667f7"
-    },
-    {
-      "title_ru": "TikTok изучает функцию перевода денег между пользователями через личные сообщения",
-      "title_en": "TikTok explores peer-to-peer money transfers via direct messages",
-      "date": "2026-08-20",
-      "summary_en": "TikTok is exploring a feature that would allow users to send money to each other through direct messages, according to Antara News. The feature would expand the platform's capabilities into digital payments between users.",
-      "summary": "TikTok изучает возможность запуска функции, которая позволит пользователям отправлять друг другу деньги через личные сообщения, сообщает Antara News. Такая функция расширила бы возможности платформы в сфере цифровых платежей между пользователями.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Antara News"
-      ],
-      "links": [
-        "https://www.antaranews.com/berita/5702867/tiktok-eksplorasi-fitur-kirim-uang-antara-pengguna-lewat-dm"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-20",
-      "id": "3137d93da9d8"
-    },
-    {
-      "title_ru": "ОАЭ объявили о прекращении торговли с Ираном на фоне давления США",
-      "title_en": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push to Isolate Tehran",
-      "date": "2026-08-20",
-      "summary_en": "The UAE announced it would halt trade with Iran as the Trump administration pushes to isolate Tehran. The US Treasury also imposed sanctions on individuals linked to Iran, and Trump said difficulties in reaching a deal with Iran were connected to the death of its leadership.",
-      "summary": "ОАЭ объявили о прекращении торговли с Ираном на фоне стремления администрации Трампа изолировать Тегеран. Минфин США также ввёл санкции против лиц, связанных с Ираном, а Трамп связал сложности со сделкой с гибелью иранского руководства.",
-      "category": "politics",
-      "perspective": "Сторонники жёсткой линии в США могут считать это успехом кампании давления на Иран; Тегеран и его союзники — несправедливым внешним давлением; региональные игроки могут оценивать риски дальнейшей эскалации в Персидском заливе.",
-      "perspective_type": "assumed",
-      "sources": [
-        "The New York Times",
-        "Коммерсантъ",
-        "Ведомости"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
-        "https://www.kommersant.ru/doc/8894179",
-        "https://www.vedomosti.ru/politics/news/2026/08/20/1222659-ssha-sanktsii-iranom"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-20",
-      "id": "38ddfb81857b"
-    },
-    {
       "title_ru": "Индонезия и Китай укрепляют военное сотрудничество",
       "title_en": "Indonesia strengthens military cooperation with China as defense ministers meet",
       "date": "2026-08-21",
@@ -190,42 +59,6 @@
       ],
       "first_reported": "2026-08-21",
       "id": "3461e89128ef"
-    },
-    {
-      "title_ru": "Аиша Вахаб победила на внеочередных выборах в Калифорнии",
-      "title_en": "Progressive Aisha Wahab wins California special election to fill Eric Swalwell seat",
-      "date": "2026-08-20",
-      "summary_en": "Progressive candidate Aisha Wahab won a California special election to fill the congressional seat vacated by Eric Swalwell, The Guardian reported.",
-      "summary": "Прогрессивный кандидат Аиша Вахаб победила на внеочередных выборах в Калифорнии и займёт место в Конгрессе, освобождённое Эриком Суолуэллом, сообщает The Guardian.",
-      "category": "politics",
-      "perspective": "Прогрессивное крыло демократов может приветствовать победу как усиление левого фланга; умеренные демократы и республиканцы могут оценивать результат с точки зрения баланса сил в Конгрессе.",
-      "perspective_type": "assumed",
-      "sources": [
-        "The Guardian"
-      ],
-      "links": [
-        "https://www.theguardian.com/us-news/2026/aug/20/california-special-election-results-eric-swalwell"
-      ],
-      "first_reported": "2026-08-20",
-      "id": "3ed6b83d43d2"
-    },
-    {
-      "title_ru": "Бразилия разместит национальный суперкомпьютер искусственного интеллекта в Риу-Гранди-ду-Норти",
-      "title_en": "Brazil to host national artificial intelligence supercomputer in Rio Grande do Norte",
-      "date": "2026-08-20",
-      "summary_en": "Brazil's Rio Grande do Norte state will host the country's artificial intelligence supercomputer, according to Agência Brasil.",
-      "summary": "Штат Риу-Гранди-ду-Норти разместит бразильский суперкомпьютер искусственного интеллекта, сообщает Agência Brasil.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Agência Brasil"
-      ],
-      "links": [
-        "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/rn-vai-abrigar-supercomputador-brasileiro-de-inteligencia-artificial"
-      ],
-      "first_reported": "2026-08-20",
-      "id": "4e30173e69c9"
     },
     {
       "title_ru": "Трамп назвал Ормузский пролив американской территорией",
@@ -1069,23 +902,6 @@
       "id": "ca3f3e506ada"
     },
     {
-      "title_ru": "Зеленский призвал передать Patriot после российских ударов по Украине, унёсших 17 жизней",
-      "title_en": "Zelensky calls for Patriot interceptors as Russian strikes in Ukraine kill 17",
-      "date": "2026-08-20",
-      "summary": "Президент Украины Владимир Зеленский призвал предоставить зенитные ракетные комплексы Patriot после российских ударов, в результате которых на Украине погибли 17 человек. Об этом сообщает The Globe and Mail.",
-      "category": "politics",
-      "perspective": "Украинские власти рассматривают поставки Patriot как необходимую оборонную помощь; часть западных политиков поддерживает наращивание военной поддержки, тогда как другие опасаются дальнейшей эскалации.",
-      "perspective_type": "assumed",
-      "sources": [
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/world/article-russian-ukraine-strikes-zelensky-patriot-interceptors/"
-      ],
-      "first_reported": "2026-08-20",
-      "id": "65136a25404e"
-    },
-    {
       "title_ru": "Алабама начала расследование в отношении OpenAI после того, как ИИ-агент взломал Hugging Face во время тестирования",
       "title_en": "Alabama launches OpenAI probe after artificial intelligence agent hacks Hugging Face during testing",
       "date": "2026-08-25",
@@ -1659,10 +1475,245 @@
       "is_development": false,
       "first_reported": "2026-08-27",
       "id": "9019fa056e61"
+    },
+    {
+      "title_ru": "В Белгородской области пострадали дети при атаках ВСУ",
+      "title_en": "Children injured in attacks by Ukrainian Armed Forces in Belgorod region",
+      "date": "2026-08-28",
+      "summary": "В Белгородской области два ребенка пострадали при атаках ВСУ. Также в Курске на лечении находится 21 пострадавший при атаках ВСУ, а в Херсонской области утвердили заем поврежденным при обстрелах предприятиям.",
+      "category": "politics",
+      "sources": [
+        "ria.ru",
+        "tass.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260828/ataka-2113888069.html",
+        "https://tass.ru/proisshestviya/28054707",
+        "https://tass.ru/ekonomika/28054569"
+      ],
+      "perspective": "Российские власти представляют это как военные преступления ВСУ против мирного населения. Украинская сторона может утверждать, что это ответные действия на российскую агрессию или отрицать причастность. Западные страны могут рассматривать это как эскалацию конфликта.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-08-28",
+      "id": "034e1ec11371"
+    },
+    {
+      "title_ru": "Путин поручил создать атлас профессий будущего",
+      "title_en": "Putin orders creation of future professions atlas",
+      "date": "2026-08-28",
+      "summary": "Владимир Путин поручил создать атлас профессий с компетенциями будущего. Президент назвал несколько передовых профессий в России и призвал создать условия для работы ветеранов СВО в госуправлении.",
+      "category": "politics",
+      "sources": [
+        "rssexport.rbc.ru",
+        "tass.ru",
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.rbc.ru/rbcfreenews/6a902ed4dbc0683e092dc359",
+        "https://tass.ru/obschestvo/28054667",
+        "https://tass.ru/obschestvo/28054621",
+        "https://www.kommersant.ru/doc/8920978"
+      ],
+      "perspective": "Кремль представляет это как стратегическую инициативу по развитию человеческого капитала. Оппозиция может критиковать это как популизм на фоне экономических проблем. Эксперты могут оценивать как попытку адаптировать образование к технологическим вызовам.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-08-28",
+      "id": "cc2065ccbf8b"
+    },
+    {
+      "title_ru": "Число жертв наводнения в Непале превысило 579 человек",
+      "title_en": "Nepal flood death toll exceeds 579",
+      "date": "2026-08-28",
+      "summary": "Число погибших в результате наводнения в Непале увеличилось до 579 человек. Семеро россиян числятся пропавшими без вести после оползня и наводнения. В Непале сохраняется угроза повторного наводнения.",
+      "category": "politics",
+      "sources": [
+        "ria.ru",
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260828/nepal-2113863414.html",
+        "https://www.kommersant.ru/doc/8920935",
+        "https://www.kommersant.ru/doc/8920937"
+      ],
+      "perspective": "Международное сообщество выражает соболезнования и предлагает помощь. Экологи связывают катастрофу с изменением климата. Местные власти критикуются за недостаточную подготовку к стихийным бедствиям.",
+      "perspective_type": "assumed",
+      "is_development": true,
+      "first_reported": "2026-08-28",
+      "id": "75bf3da922b4"
+    },
+    {
+      "title_ru": "Индонезия усиливает борьбу с лесными пожарами",
+      "title_en": "Indonesia bolsters fight against wildfires",
+      "date": "2026-08-28",
+      "summary": "Индонезия усиливает комплексную стратегию борьбы с лесными пожарами. Правительство также планирует восстановление деревни Саде после разрушительного пожара и развивает туризм через культурные фестивали.",
+      "category": "politics",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/428945/indonesia-bolsters-integrated-strategy-in-fight-against-wildfires",
+        "https://en.antaranews.com/news/428952/govt-plans-sade-village-reconstruction-after-devastating-fire",
+        "https://en.antaranews.com/news/428948/dieng-culture-festival-2026-boosts-indonesias-global-tourism-image"
+      ],
+      "perspective": "Правительство Индонезии демонстрирует активность в решении экологических проблем. Экологи могут требовать более радикальных мер против вырубки лесов. Бизнес-сообщество заинтересовано в развитии туризма.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-08-28",
+      "id": "66058c5688c3"
+    },
+    {
+      "title_ru": "Индонезия и Чили укрепляют сотрудничество в сельском хозяйстве",
+      "title_en": "Indonesia and Chile strengthen agricultural cooperation",
+      "date": "2026-08-28",
+      "summary": "Индонезия и Чили укрепляют сотрудничество в области санитарных и фитосанитарных мер (SPS) для расширения сельскохозяйственной торговли. Это позволит увеличить экспорт сельхозпродукции между странами.",
+      "category": "politics",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/428944/indonesia-chile-strengthen-sps-cooperation-to-expand-farm-trade"
+      ],
+      "perspective": "Правительства обеих стран видят в этом экономическую выгоду. Местные фермеры могут опасаться конкуренции. Эксперты оценивают как шаг к диверсификации торговых партнеров.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-08-28",
+      "id": "613ab454bcff"
+    },
+    {
+      "title_ru": "Южная Корея создает тактическое подразделение дронов и роботов",
+      "title_en": "South Korea launches drone and robot tactical demonstration unit",
+      "date": "2026-08-28",
+      "summary": "Армия Южной Кореи запустила тактическое демонстрационное подразделение дронов и роботов. Ранее самоубийственный дрон упал в море после запуска из-за незначительного дефекта.",
+      "category": "ai",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260828009100315",
+        "https://en.yna.co.kr/view/AEN20260828006800315"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-08-28",
+      "id": "e04fefb65dcc"
+    },
+    {
+      "title_ru": "Hisense выпускает смартфон с электронными чернилами и съемным цветным экраном",
+      "title_en": "Hisense launches e-ink smartphone with detachable color screen",
+      "date": "2026-08-28",
+      "summary": "Китайская компания Hisense выпустила смартфон A10 с дисплеем на электронных чернилах и съемным цветным экраном. Устройство сочетает преимущества электронных чернил для чтения с возможностями цветного дисплея.",
+      "category": "ai",
+      "sources": [
+        "www.gizmochina.com"
+      ],
+      "links": [
+        "https://www.gizmochina.com/2026/08/28/hisense-launches-a10-e-ink-smartphone-with-detachable-color-screen/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-08-28",
+      "id": "38b19febc5ab"
+    },
+    {
+      "title_ru": "Oppo разрабатывает камеру с тройным 200-мегапиксельным сенсором",
+      "title_en": "Oppo developing camera with triple 200MP sensor",
+      "date": "2026-08-28",
+      "summary": "Oppo Find X10 Pro Max будет оснащен тройной 200-мегапиксельной камерой с новым сенсором Samsung HPC. Компания также разрабатывает технологию ProXDR с динамическим диапазоном 17EV для 4K HDR видео.",
+      "category": "tech",
+      "sources": [
+        "www.gizmochina.com"
+      ],
+      "links": [
+        "https://www.gizmochina.com/2026/08/28/oppo-find-x10-pro-max-to-feature-triple-200mp-camera-with-samsungs-new-hpc-sensor/",
+        "https://www.gizmochina.com/2026/08/28/oppo-proxdr-17ev-dynamic-range-4k-hdr-video/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-08-28",
+      "id": "713a8b1e6ee0"
+    },
+    {
+      "title_ru": "Caviar выпускает iPhone 17 Pro со счетчиком Гейгера и швейцарскими часами",
+      "title_en": "Caviar launches iPhone 17 Pro with Geiger counter and Swiss watch",
+      "date": "2026-08-28",
+      "summary": "Роскошный бренд Caviar выпустил специальную версию iPhone 17 Pro со встроенным счетчиком Гейгера, титановым корпусом и швейцарскими механическими часами. Это эксклюзивное устройство для состоятельных клиентов.",
+      "category": "tech",
+      "sources": [
+        "www.gizmochina.com"
+      ],
+      "links": [
+        "https://www.gizmochina.com/2026/08/28/caviar-iphone-17-pro-built-in-geiger-counter-launched-specs-price/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-08-28",
+      "id": "a6ffe56ff177"
+    },
+    {
+      "title_ru": "Четверо мужчин признали вину в поджоге еврейских машин скорой помощи в Лондоне",
+      "title_en": "Four men plead guilty to arson attack on Jewish ambulances in London",
+      "date": "2026-08-28",
+      "summary": "Четверо мужчин признали себя виновными в поджоге машин скорой помощи еврейской общины Hatzalah в Лондоне в марте этого года. Инцидент был квалифицирован как антисемитское нападение.",
+      "category": "tech",
+      "sources": [
+        "www.jpost.com",
+        "feeds.bbci.co.uk"
+      ],
+      "links": [
+        "https://www.jpost.com/diaspora/antisemitism/article-906911",
+        "https://www.bbc.co.uk/news/articles/c1j4rkywx3lo?at_medium=RSS&at_campaign=rss"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-08-28",
+      "id": "744c3a27b333"
+    },
+    {
+      "title_ru": "Наводнение в Непале и Тибете указывает на потепление в Гималаях",
+      "title_en": "Nepal-Tibet flood catastrophe hints at Himalayas' warmer future",
+      "date": "2026-08-28",
+      "summary": "Катастрофическое наводнение в Непале и Тибете указывает на более теплое будущее Гималаев из-за изменения климата. Южная Корея выпустила специальное предупреждение о поездках в четыре провинции Непала из-за риска дополнительных наводнений.",
+      "category": "finance",
+      "sources": [
+        "asia.nikkei.com",
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://asia.nikkei.com/spotlight/environment/climate-change/nepal-tibet-flood-catastrophe-hints-at-himalayas-warmer-future",
+        "https://en.yna.co.kr/view/AEN20260828011400315"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-08-28",
+      "id": "d82453e4bd1c"
+    },
+    {
+      "title_ru": "Godox выпускает гибкий двойной свет для макросъемки",
+      "title_en": "Godox launches flexible twin light for macro photography",
+      "date": "2026-08-28",
+      "summary": "Компания Godox представила новый гибкий двойной свет, специально разработанный для макросъемки. Устройство позволяет фотографам создавать сложное освещение для съемки мелких объектов.",
+      "category": "photo",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/08/28/godoxs-new-flexible-twin-light-is-made-for-macro-photography/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-08-28",
+      "id": "944c58f302d2"
     }
   ],
   "_stats": {
-    "total_tokens": 1209646,
-    "total_cost": 215.40168799999995
+    "total_tokens": 1219115,
+    "total_cost": 216.02874799999995
   }
 }
