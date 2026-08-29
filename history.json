@@ -1,66 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Индонезия и Китай укрепляют военное сотрудничество",
-      "title_en": "Indonesia strengthens military cooperation with China as defense ministers meet",
-      "date": "2026-08-21",
-      "summary_en": "Indonesia's defense minister received China's defense minister to strengthen military cooperation. Foreign Minister Sugiono said the Indonesia-China Strategic Dialogue guides the bilateral partnership in five pillars.",
-      "summary": "Министр обороны Индонезии принял министра обороны Китая для укрепления военного сотрудничества. Глава МИД Индонезии Сугионо заявил, что стратегический диалог Индонезии и Китая направляет двустороннее партнёрство по пяти направлениям.",
-      "category": "politics",
-      "perspective": "В Джакарте это могут представлять как сбалансированную внешнюю политику; западные столицы могут видеть усиление влияния Китая в Юго-Восточной Азии; региональные игроки — продолжение соперничества США и КНР.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Antara News"
-      ],
-      "links": [
-        "https://www.antaranews.com/berita/5704576/perkuat-kerja-sama-militer-menhan-ri-terima-kedatangan-menhan-china",
-        "https://www.antaranews.com/berita/5704673/sugiono-csd-ri-china-pandu-kemitraan-bilateral-di-lima-pilar"
-      ],
-      "first_reported": "2026-08-21",
-      "id": "2ab9079e8df8"
-    },
-    {
-      "title_ru": "Небензя: России не нужна массовая мобилизация",
-      "title_en": "Russia's UN envoy says no mass mobilization is needed",
-      "date": "2026-08-21",
-      "summary_en": "Russia's Permanent Representative to the UN Vasily Nebenzya stated that Russia does not need a mass mobilization. He also called on the new UN Secretary-General to more actively facilitate a settlement in Ukraine.",
-      "summary": "Постпред России при ООН Василий Небензя заявил, что России не нужна массовая мобилизация. Он также призвал нового генсека ООН активнее содействовать урегулированию на Украине.",
-      "category": "politics",
-      "perspective": "Официальная Москва использует заявление для снятия спекуляций о мобилизации; оппозиционные и западные комментаторы могут воспринимать это как попытку успокоить общество при сохранении неопределённости вокруг хода конфликта.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Коммерсантъ",
-        "Ведомости",
-        "Lenta.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8894156",
-        "https://www.kommersant.ru/doc/8894145",
-        "https://www.vedomosti.ru/politics/news/2026/08/20/1222690-nebenzya-mobilizatsii",
-        "https://lenta.ru/news/2026/08/20/nebenzya-vyskazalsya-o-neobhodimosti-massovoy-mobilizatsii-v-rossii/"
-      ],
-      "first_reported": "2026-08-21",
-      "id": "a5408ab26eff"
-    },
-    {
-      "title_ru": "Израиль превратил школу UNRWA в Иерусалиме в государственную школу",
-      "title_en": "Israel converts UNRWA school in Jerusalem into state school",
-      "date": "2026-08-21",
-      "summary_en": "Israel has converted a UNRWA school in Jerusalem into a state school, Antara reported.",
-      "summary": "Израиль превратил школу UNRWA в Иерусалиме в государственную школу, сообщает Antara.",
-      "category": "politics",
-      "perspective": "Палестинцы и критики Израиля могут осуждать это как подрыв мандата ООН; израильские власти могут обосновывать решение вопросами суверенитета и образования; международные организации — выражать обеспокоенность гуманитарными последствиями.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Antara News"
-      ],
-      "links": [
-        "https://www.antaranews.com/berita/5704600/israel-ubah-sekolah-unrwa-di-yerusalem-jadi-sekolah-negeri"
-      ],
-      "first_reported": "2026-08-21",
-      "id": "3461e89128ef"
-    },
-    {
       "title_ru": "Трамп назвал Ормузский пролив американской территорией",
       "title_en": "Trump declares Strait of Hormuz 'American territory'",
       "date": "2026-08-22",
@@ -110,31 +50,6 @@
       "id": "8f96f1c280bc"
     },
     {
-      "title_ru": "Пезешкиан: Иран готов завершить войну с США, находясь «в позиции силы»",
-      "title_en": "Iran's Pezeshkian says time to end war with US while in 'position of strength'",
-      "date": "2026-08-21",
-      "summary_en": "Iranian President Massoud Pezeshkian said the time has come to end the war with the United States, arguing that Tehran is in a position of strength. The statement came amid US economic pressure and military tensions.",
-      "summary": "Президент Ирана Масуд Пезешкиан заявил, что войну с США пора завершать, поскольку Тегеран находится «в позиции силы». Заявление прозвучало на фоне экономического давления Вашингтона и военной напряжённости в регионе.",
-      "category": "politics",
-      "perspective": "Иранские источники подают заявление как отказ подчиняться давлению и демонстрацию силы; западные наблюдатели могут расценить его как сигнал к деэскалации или попытку зафиксировать статус-кво.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Times of India",
-        "The Hindu",
-        "Le Monde",
-        "DW"
-      ],
-      "links": [
-        "https://timesofindia.indiatimes.com/world/middle-east/we-are-in-a-position-of-power-irans-pezeshkian-seeks-end-to-us-war-claims-victory/articleshow/133415766.cms",
-        "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-economic-sanctions-strait-of-hormuz-ceasefire-deal/article71372035.ece",
-        "https://www.lemonde.fr/international/article/2026/08/21/iran-le-president-massoud-pezeshkian-veut-mettre-fin-a-la-guerre-avec-les-etats-unis-jugeant-teheran-en-position-de-force_6752285_3210.html",
-        "https://www.dw.com/en/iran-s-president-time-to-end-war-in-position-of-strength/a-78460267?maca=en-rss-en-all-1573-xml-mrss"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-21",
-      "id": "1e8c21ab7f2d"
-    },
-    {
       "title_ru": "Удар по ТЦ в Кривом Роге унёс жизни 16 человек; в ЕС назвали атаку «террором по замыслу»",
       "title_en": "Russian strike on Kryvyi Rih shopping centre kills 16; EU calls it 'terror by design'",
       "date": "2026-08-22",
@@ -179,44 +94,6 @@
       "is_development": false,
       "first_reported": "2026-08-22",
       "id": "217e1aa9e581"
-    },
-    {
-      "title_ru": "Мирза Фахрул Ислам Аламгир приведён к присяге как 23-й президент Бангладеш",
-      "title_en": "Mirza Fakhrul Islam Alamgir sworn in as Bangladesh's 23rd president",
-      "date": "2026-08-21",
-      "summary_en": "Mirza Fakhrul Islam Alamgir was sworn in as Bangladesh's 23rd president, according to reports. The inauguration marks a change in the country's top constitutional post.",
-      "summary": "Мирза Фахрул Ислам Аламгир приведён к присяге в качестве 23-го президента Бангладеш. Инаугурация закрепляет смену высшего конституционного поста страны.",
-      "category": "politics",
-      "perspective": "Сторонники нового руководства могут представить это как шаг к политической стабилизации; оппоненты — как укрепление позиций одной из политических сил.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Times of India"
-      ],
-      "links": [
-        "https://timesofindia.indiatimes.com/world/south-asia/mirza-fakhrul-islam-alamgir-sworn-in-as-bangladeshs-23rd-president/articleshow/133407208.cms"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-21",
-      "id": "b5a7cf915eeb"
-    },
-    {
-      "title_ru": "Подросток из Нью-Джерси отозвал знаковый иск о зависимости от соцсетей",
-      "title_en": "New Jersey teenager drops bellwether social media addiction lawsuit",
-      "date": "2026-08-21",
-      "summary_en": "A New Jersey teenager dropped a bellwether lawsuit that alleged social media platforms caused addiction, The New York Times reported. The case was seen as a test for broader litigation over social media's effects on minors.",
-      "summary": "Подросток из Нью-Джерси отозвал знаковый иск, в котором утверждалось, что социальные сети вызывают зависимость. Дело считалось проверочным для более широких судебных разбирательств о влиянии платформ на несовершеннолетних.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "The New York Times"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/08/20/technology/social-media-addiction-lawsuit-dropped.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-21",
-      "id": "326db590fd8d"
     },
     {
       "title_ru": "Иран пригрозил соседям, которые присоединятся к экономической войне США",
@@ -511,25 +388,6 @@
       "is_development": false,
       "first_reported": "2026-08-23",
       "id": "88a0f3ab82ee"
-    },
-    {
-      "title_ru": "Kakao Corp. выделит основной бизнес для усиления ИИ-направления",
-      "title_en": "Kakao Corp. to spin off core business to strengthen AI capabilities",
-      "date": "2026-08-21",
-      "summary_en": "South Korea's Kakao Corp. announced plans to spin off its core business as part of efforts to strengthen its AI capabilities, according to multiple reports. The restructuring is aimed at sharpening the company's focus on artificial intelligence.",
-      "summary": "Южнокорейская Kakao Corp. объявила о планах выделить основной бизнес в отдельную структуру, чтобы усилить свои возможности в сфере искусственного интеллекта. Реструктуризация призвана сфокусировать компанию на ИИ-направлении.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Yonhap News Agency"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260821004200320"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-21",
-      "id": "fb2b785a3146"
     },
     {
       "title_ru": "Ванкувер превращает тепло сточных вод в возобновляемую энергию для зданий",
@@ -1710,10 +1568,234 @@
       "is_development": false,
       "first_reported": "2026-08-28",
       "id": "944c58f302d2"
+    },
+    {
+      "title_ru": "Трамп объявляет о нефтяной сделке США с Венесуэлой на 65 млрд баррелей",
+      "title_en": "Trump announces US oil deal with Venezuela for 65 billion barrels",
+      "date": "2026-08-29",
+      "summary": "Бывший президент США Дональд Трамп заявил о \"исторической\" сделке, по которой США получат контроль над 65 миллиардами баррелей венесуэльской нефти. Соглашение было заключено с правительством Венесуэлы и может значительно изменить энергетический баланс в регионе.",
+      "category": "politics",
+      "sources": [
+        "BBC",
+        "France 24",
+        "Press TV"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+        "https://www.france24.com/fr/vid%C3%A9o/20260829-etats-unis-trump-annonce-un-accord-p%C3%A9trolier-avec-le-venezuela",
+        "https://presstv.ir/Detail/2026/08/29/775274/US-Venezuela-Oil-Deal-Trump"
+      ],
+      "perspective": "Сторонники Трампа могут представлять это как дипломатический успешный возврат к энергетической независимости США. Критики могут видеть в этом возобновление давления на Венесуэлу и вмешательство во внутренние дела суверенного государства. Венесуэльские власти могут позиционировать это как вынужденную меру для получения доступа к рынкам.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-08-29",
+      "id": "c67ae85bc954"
+    },
+    {
+      "title_ru": "Число пострадавших при атаке БПЛА в Ростовской области выросло до 11",
+      "title_en": "Number of victims in UAV attack in Rostov region increased to 11",
+      "date": "2026-08-29",
+      "summary": "В результате атаки беспилотных летательных аппаратов на Ростовскую область пострадали 11 человек. Российские власти обвиняют Вооруженные силы Украины в нападении, которое произошло в приграничном регионе.",
+      "category": "politics",
+      "sources": [
+        "Коммерсант",
+        "ТАСС",
+        "РИА Новости"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8921475",
+        "https://tass.ru/proisshestviya/28056549",
+        "https://ria.ru/20260829/bpla-2113983826.html"
+      ],
+      "perspective": "Российские власти представляют это как террористический акт со стороны Украины. Украинская сторона может отрицать причастность или называть это ответными действиями на российскую агрессию. Западные страны могут выражать озабоченность эскалацией конфликта.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-08-29",
+      "id": "fdd89949a868"
+    },
+    {
+      "title_ru": "В Непале после наводнения спасены более 180 туристов",
+      "title_en": "More than 180 tourists rescued after flood in Nepal",
+      "date": "2026-08-29",
+      "summary": "После масштабного наводнения в Непале были спасены более 180 туристов. При этом сотни рабочих гидроэлектростанции могли застрять под землей после оползня и наводнения, а угроза нового наводнения сохраняется.",
+      "category": "politics",
+      "sources": [
+        "РИА Новости",
+        "РБК",
+        "Коммерсант",
+        "БЕЛТА"
+      ],
+      "links": [
+        "https://ria.ru/20260829/nepal-2113976968.html",
+        "https://www.rbc.ru/rbcfreenews/6a926a267cc37176fd39233a",
+        "https://www.kommersant.ru/doc/8921447",
+        "https://belta.by/world/view/ugroza-novogo-navodnenija-sohranjaetsja-v-nepale-798421-2026/"
+      ],
+      "perspective": "Местные власти сосредоточены на спасательных операциях и минимизации последствий катастрофы. Международное сообщество выражает солидарность и готово оказать помощь. Экологические организации связывают катастрофу с изменением климата и призывают к более ответственной политике в Гималаях.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-08-29",
+      "id": "f3db573f1c30"
+    },
+    {
+      "title_ru": "Индонезия подчеркивает важность грамотности в области ИИ для работы в цифровую эпоху",
+      "title_en": "Indonesia emphasizes importance of AI literacy for work in digital era",
+      "date": "2026-08-29",
+      "summary": "Министерство Индонезии заявило, что грамотность в области искусственного интеллекта стала необходимой для навигации в рабочих процессах цифровой эпохи. Власти призывают к развитию соответствующих навыков среди населения для адаптации к меняющимся условиям труда.",
+      "category": "politics",
+      "sources": [
+        "Antara News"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/428997/ai-literacy-essential-to-navigate-digital-era-work-dynamics-ministry"
+      ],
+      "perspective": "Правительство Индонезии позиционирует это как стратегическую инициативу для повышения конкурентоспособности страны. Оппозиция может критиковать недостаточность конкретных мер или финансирования. Бизнес-сообщество поддерживает инициативу как способ подготовки квалифицированных кадров.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-08-29",
+      "id": "8b7fb0030188"
+    },
+    {
+      "title_ru": "Иран осуждает санкционную политику США в Малайзии",
+      "title_en": "Iran condemns US sanctions policy in Malaysia",
+      "date": "2026-08-29",
+      "summary": "Малайзия осудила санкционную политику США против Ирана. Это происходит на фоне заявлений России о совместных усилиях с Ираном по противодействию американским санкциям и признания бывшего британского премьера Джонсона, что война США против Ирана была \"ошибкой\".",
+      "category": "politics",
+      "sources": [
+        "Press TV"
+      ],
+      "links": [
+        "https://presstv.ir/Detail/2026/08/28/775224/US-sanctions-policy-against-Iran-condemned-in-Malaysia"
+      ],
+      "perspective": "Иран и его союзники представляют это как доказательство несправедливости американской политики и роста международной поддержки. США и их союзники могут настаивать на необходимости санкций для сдерживания иранской ядерной программы. Нейтральные страны могут призывать к диалогу и поиску дипломатических решений.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-08-29",
+      "id": "11b76e04ceea"
+    },
+    {
+      "title_ru": "SK Hynix начинает строительство завода по упаковке чипов HBM в США",
+      "title_en": "SK Hynix starts construction of HBM chip packaging plant in US",
+      "date": "2026-08-29",
+      "summary": "Южнокорейская компания SK Hynix начала строительство своего первого завода по упаковке чипов памяти высокой пропускной способности (HBM) в США, в штате Индиана. Это стратегическое расширение производства ключевых компонентов для искусственного интеллекта.",
+      "category": "ai",
+      "sources": [
+        "Nikkei Asia",
+        "Taipei Times",
+        "Yonhap News"
+      ],
+      "links": [
+        "https://asia.nikkei.com/business/technology/artificial-intelligence/sk-hynix-starts-construction-of-first-hbm-chip-packaging-plant-in-us",
+        "https://www.taipeitimes.com/News/biz/archives/2026/08/29/2003863304",
+        "https://en.yna.co.kr/view/AEN20260828000300315"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-08-29",
+      "id": "d718ff3b1a2f"
+    },
+    {
+      "title_ru": "Индонезия призывает сохранить церковь Blenduk в Семаранге как живое наследие",
+      "title_en": "Indonesia urges preserving Semarang's Blenduk Church as living heritage",
+      "date": "2026-08-29",
+      "summary": "Министр Индонезии призвал сохранить церковь Blenduk в Семаранге как \"живое наследие\". Церковь является историческим памятником, и власти подчеркивают важность сохранения культурного наследия для будущих поколений.",
+      "category": "ai",
+      "sources": [
+        "Antara News"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/429001/minister-urges-preserving-semarangs-blenduk-church-as-living-heritage"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-08-29",
+      "id": "567df84e5747"
+    },
+    {
+      "title_ru": "Наводнение в Непале и Тибете указывает на потепление в Гималаях",
+      "title_en": "Nepal-Tibet flood catastrophe hints at Himalayas' warmer future",
+      "date": "2026-08-29",
+      "summary": "Катастрофическое наводнение в Непале и Тибете указывает на более теплое будущее Гималаев. Эксперты связывают масштабные паводки с изменением климата, которое приводит к таянию ледников и увеличению частоты экстремальных погодных явлений в регионе.",
+      "category": "tech",
+      "sources": [
+        "Nikkei Asia"
+      ],
+      "links": [
+        "https://asia.nikkei.com/spotlight/environment/climate-change/nepal-tibet-flood-catastrophe-hints-at-himalayas-warmer-future"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-08-29",
+      "id": "2715e306a830"
+    },
+    {
+      "title_ru": "Российские лунные роверы смогут исследовать территории на расстоянии до 100 км",
+      "title_en": "Russian lunar rovers to be capable of exploring areas at distances of up to 100 km",
+      "date": "2026-08-29",
+      "summary": "Российские лунные роверы следующего поколения будут способны исследовать территории на расстоянии до 100 километров. Это значительно расширит возможности научных исследований на поверхности Луны по сравнению с предыдущими моделями.",
+      "category": "tech",
+      "sources": [
+        "ТАСС"
+      ],
+      "links": [
+        "https://tass.com/science/2178911"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-08-29",
+      "id": "d4b341476bd4"
+    },
+    {
+      "title_ru": "Наводнение в Непале и Тибете обнажает опасности гималайской авантюры Китая",
+      "title_en": "Nepal-Tibet floods expose dangers of China's Himalayan gamble",
+      "date": "2026-08-29",
+      "summary": "Наводнение в Непале и Тибете обнажает опасности гималайской стратегии Китая. Аналитики указывают на риски масштабных инфраструктурных проектов в уязвимых горных регионах, которые становятся еще более опасными из-за изменения климата.",
+      "category": "tech",
+      "sources": [
+        "Nikkei Asia"
+      ],
+      "links": [
+        "https://asia.nikkei.com/opinion/nepal-tibet-floods-expose-dangers-of-china-s-himalayan-gamble"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-08-29",
+      "id": "ef6589362aed"
+    },
+    {
+      "title_ru": "Смертельные наводнения в Непале: некоторые опасаются, что \"весь Гималайский регион тает\"",
+      "title_en": "As Deadly Flash Flooding Batters Nepal, Some Fear 'the Entire Himalayas Are Melting'",
+      "date": "2026-08-29",
+      "summary": "Смертельные внезапные наводнения в Непале вызывают опасения, что \"весь Гималайский регион тает\". Число погибших достигло 633 человек, более 40 австралийцев находятся среди почти 3000 пропавших без вести. Катастрофа связана с глобальным потеплением в Гималаях.",
+      "category": "finance",
+      "sources": [
+        "The New York Times",
+        "Sydney Morning Herald"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/08/29/travel/flash-flood-nepal-global-warming-himalayas.html",
+        "https://www.smh.com.au/world/asia/nepal-floods-live-updates-chinese-nepalese-authorities-resume-rescues-after-lake-threat-eases-as-death-toll-reaches-579-thirty-eight-australians-remain-unaccounted-for-20260828-p60shg.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-08-29",
+      "id": "9810b39bc896"
+    },
+    {
+      "title_ru": "Победители Minimalist Photography Awards 2026 демонстрируют силу простоты",
+      "title_en": "2026 Minimalist Photography Awards Winners Show the Power of Simplicity",
+      "date": "2026-08-29",
+      "summary": "Победители Minimalist Photography Awards 2026 демонстрируют силу простоты в фотографии. Конкурс отмечает лучшие работы в жанре минимализма, где авторы используют ограниченные средства для создания выразительных и глубоких изображений.",
+      "category": "photo",
+      "sources": [
+        "PetaPixel"
+      ],
+      "links": [
+        "https://petapixel.com/2026/08/27/2026-minimalist-photography-awards-winners-show-the-power-of-simplicity"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-08-29",
+      "id": "c95e9317d783"
     }
   ],
   "_stats": {
-    "total_tokens": 1219115,
-    "total_cost": 216.02874799999995
+    "total_tokens": 1229106,
+    "total_cost": 216.69178799999995
   }
 }
