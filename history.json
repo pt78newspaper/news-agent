@@ -1,101 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Трамп назвал Ормузский пролив американской территорией",
-      "title_en": "Trump declares Strait of Hormuz 'American territory'",
-      "date": "2026-08-22",
-      "summary_en": "US President Donald Trump said he views the Strait of Hormuz as American territory, escalating rhetoric amid the US-Iran confrontation. The claim follows his threats of economic pressure on Tehran and Iran's insistence on defending its interests in the strait.",
-      "summary": "Президент США Дональд Трамп заявил, что считает Ормузский пролив американской территорией. Это заявление усиливает риторику на фоне конфронтации США и Ирана вокруг ключевого нефтяного маршрута.",
-      "category": "politics",
-      "perspective": "Сторонники Трампа могут подать это как защиту свободы судоходства и демонстрацию силы; Иран и критики США, вероятно, сочтут заявление опасной эскалацией и нарушением международного права.",
-      "perspective_type": "assumed",
-      "sources": [
-        "The Guardian",
-        "ТАСС",
-        "Украинская правда",
-        "Antara News"
-      ],
-      "links": [
-        "https://www.theguardian.com/us-news/2026/aug/21/trump-strait-of-hormuz-american-territory",
-        "https://tass.ru/mezhdunarodnaya-panorama/28033865",
-        "https://www.pravda.com.ua/news/2026/08/22/8049774/",
-        "https://www.antaranews.com/berita/5706307/trump-kembali-klaim-selat-hormuz-sebagai-wilayah-as"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-22",
-      "id": "40de9a91a652"
-    },
-    {
-      "title_ru": "Трамп допустил импичмент при поражении республиканцев на выборах в ноябре",
-      "title_en": "Trump says he could face impeachment if Republicans lose Congress in November",
-      "date": "2026-08-22",
-      "summary_en": "Donald Trump predicted that Democrats would try to impeach him if they win control of Congress in November. WSJ reported that Democratic majorities would scrutinize the Trump administration's actions.",
-      "summary": "Дональд Трамп заявил, что демократы попытаются объявить ему импичмент, если получат большинство в Конгрессе по итогам ноябрьских выборов. WSJ сообщала, что демократы при большинстве намерены проверить действия администрации США.",
-      "category": "politics",
-      "perspective": "Республиканцы могут представить это как угрозу политически мотивированного преследования; демократы — как аргумент в пользу парламентского контроля над администрацией.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Коммерсантъ",
-        "ТАСС",
-        "Lenta.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8906106",
-        "https://tass.ru/mezhdunarodnaya-panorama/28034019",
-        "https://tass.ru/mezhdunarodnaya-panorama/28033881",
-        "https://lenta.ru/news/2026/08/22/tramp-predrek-svoy-impichment/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-22",
-      "id": "8f96f1c280bc"
-    },
-    {
-      "title_ru": "Удар по ТЦ в Кривом Роге унёс жизни 16 человек; в ЕС назвали атаку «террором по замыслу»",
-      "title_en": "Russian strike on Kryvyi Rih shopping centre kills 16; EU calls it 'terror by design'",
-      "date": "2026-08-22",
-      "summary_en": "A Russian multi-drone attack on a shopping centre in Kryvyi Rih killed 16 people, according to Ukrainian officials. EU foreign policy chief Kaja Kallas called the strike 'terror by design,' and President Zelenskyy vowed a response.",
-      "summary": "В результате атаки нескольких российских беспилотников на торговый центр в Кривом Роге погибли 16 человек. Глава дипломатии ЕС Кая Каллас назвала удар «террором по замыслу», а Владимир Зеленский пообещал ответ.",
-      "category": "politics",
-      "perspective": "Украина и ЕС характеризуют удар как преднамеренную атаку на гражданскую инфраструктуру; российская сторона обычно отрицает удары по гражданским объектам или заявляет о поражении военных целей.",
-      "perspective_type": "assumed",
-      "sources": [
-        "BBC",
-        "The Guardian",
-        "The Hindu",
-        "CBC"
-      ],
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-        "https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih",
-        "https://www.thehindu.com/news/international/several-killed-injured-russia-drone-strike-in-ukraine-shopping-centre-updates/article71376414.ece",
-        "https://www.cbc.ca/news/world/ukraine-shopping-mall-drone-attack-9.7316016?cmp=rss"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-22",
-      "id": "ed21f7da47d8"
-    },
-    {
-      "title_ru": "Прабово отправился на Калимантан руководить борьбой с лесными пожарами",
-      "title_en": "Prabowo travels to Kalimantan to lead forest fire response",
-      "date": "2026-08-22",
-      "summary_en": "Indonesian President Prabowo Subianto traveled to Kalimantan to lead the handling of forest and land fires. Lawmakers urged the Finance Ministry to release Rp290 billion in emergency funds, and the government made ground operations the main approach.",
-      "summary": "Президент Индонезии Прабово Субианто отправился на Калимантан, чтобы лично руководить борьбой с лесными и земельными пожарами. Депутаты призвали Минфин выделить 290 млрд рупий экстренного бюджета, а правительство сделало ставку на наземные операции.",
-      "category": "politics",
-      "perspective": "Власти подчёркивают решимость и личный контроль президента над ситуацией; парламентарии акцентируют срочность финансирования, что может указывать на критику медленного выделения средств.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Antara News"
-      ],
-      "links": [
-        "https://www.antaranews.com/berita/5706317/prabowo-bertolak-ke-kalimantan-pimpin-penanganan-karhutla",
-        "https://www.antaranews.com/berita/5706273/anggota-dpr-desak-kemenkeu-cairkan-anggaran-darurat-rp290-m-untuk-karhutla",
-        "https://www.antaranews.com/berita/5706220/pemerintah-tetapkan-operasi-darat-ujung-tombak-penanganan-karhutla"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-22",
-      "id": "217e1aa9e581"
-    },
-    {
       "title_ru": "Иран пригрозил соседям, которые присоединятся к экономической войне США",
       "title_en": "Iran warns neighbours who join US economic war will be considered enemies",
       "date": "2026-08-23",
@@ -173,29 +78,6 @@
       "is_development": false,
       "first_reported": "2026-08-23",
       "id": "97ff35e71b7e"
-    },
-    {
-      "title_ru": "Путин на съезде «Единой России» назвал программу партии фундаментальной",
-      "title_en": "Putin backs United Russia at party congress, calls its program fundamental",
-      "date": "2026-08-22",
-      "summary_en": "At the United Russia pre-election congress, Vladimir Putin said the party's program is a fundamental document and that the party lacks populism. He thanked all parliamentary parties for patriotism and said the upcoming elections would confirm the stability of Russia's political system.",
-      "summary": "На предвыборном съезде «Единой России» Владимир Путин заявил, что программа партии — фундаментальный документ, а популизма у неё нет. Он поблагодарил все парламентские партии за патриотизм и заявил, что предстоящие выборы подтвердят устойчивость политической системы России.",
-      "category": "politics",
-      "perspective": "Провластные силы представляют съезд как консолидацию перед выборами; оппозиция и независимые наблюдатели могут расценивать это как укрепление доминирования партии власти.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Kommersant",
-        "Vedomosti",
-        "Lenta"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8906290",
-        "https://www.vedomosti.ru/politics/news/2026/08/22/1223010-putin-programmu-edinoi-rossii",
-        "https://lenta.ru/news/2026/08/22/putin-zayavil-ob-otsutstvii-populizma-u-edinoy-rossii/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-22",
-      "id": "2f767a2ba3f8"
     },
     {
       "title_ru": "Путин: перелома после ударов ВСУ не произошло, Россия продолжила удары по инфраструктуре Украины",
@@ -632,42 +514,6 @@
       "is_development": false,
       "first_reported": "2026-08-23",
       "id": "3d59b4323971"
-    },
-    {
-      "title_ru": "Honor Turbo 5G вышел с батареей 8 560 мА·ч, чипом Snapdragon 6 Gen 4 и AMOLED-экраном 6,79 дюйма",
-      "title_en": "Honor Turbo 5G debuts with 8,560mAh battery, Snapdragon 6 Gen 4, and 6.79-inch AMOLED display",
-      "date": "2026-08-22",
-      "summary": "Honor представила смартфон Turbo 5G с аккумулятором 8 560 мА·ч, процессором Snapdragon 6 Gen 4 и 6,79-дюймовым AMOLED-дисплеем разрешением 1.5K.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Gizmochina"
-      ],
-      "links": [
-        "https://www.gizmochina.com/2026/08/22/honor-turbo-5g-debuts-with-8560mah-battery-snapdragon-6-gen-4-chip-6-79-1-5k-amoled-display/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-22",
-      "id": "9450f7643724"
-    },
-    {
-      "title_ru": "Xiaomi открыла слепое бронирование своего первого телевизора RGB-Mini LED",
-      "title_en": "Xiaomi opens blind reservations for its first RGB-Mini LED TV",
-      "date": "2026-08-22",
-      "summary": "Xiaomi начала принимать предварительные заявки на свой первый телевизор с подсветкой RGB-Mini LED. Подробные характеристики и цена пока не раскрыты.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Gizmochina"
-      ],
-      "links": [
-        "https://www.gizmochina.com/2026/08/22/xiaomi-opens-blind-reservations-for-its-first-rgb-mini-led-tv/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-22",
-      "id": "c19e4dd01930"
     },
     {
       "title_ru": "Нефть дешевеет в преддверии объявления США о новых санкциях против Ирана",
@@ -1792,10 +1638,220 @@
       "perspective_type": "",
       "first_reported": "2026-08-29",
       "id": "c95e9317d783"
+    },
+    {
+      "title_ru": "Россия готовится нанести удары по энергетическим объектам Украины в ответ на атаки по своей инфраструктуре",
+      "title_en": "Russia readies to strike Ukraine's energy sites to retaliate attacks on its infrastructure",
+      "date": "2026-08-30",
+      "summary": "Россия заявила о готовности нанести удары по энергетическим объектам Украины в ответ на атаки ВСУ по российской инфраструктуре. Это заявление прозвучало на фоне продолжающихся взаимных обстрелов и эскалации конфликта.",
+      "category": "politics",
+      "perspective": "Российская сторона представляет это как ответные меры на украинские атаки. Украина и её западные союзники, вероятно, расценят это как эскалацию и военные преступления против гражданской инфраструктуры.",
+      "perspective_type": "assumed",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/defense/2179463"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-30",
+      "id": "687c4c12708c"
+    },
+    {
+      "title_ru": "Российский удар под Киевом убил 38 человек, вызывая опасения по поводу уязвимых городских объектов",
+      "title_en": "Russian strike kills 38 near Kyiv, raising concerns over Ukrainian sensitive urban sites",
+      "date": "2026-08-30",
+      "summary": "Российский удар по складу под Киевом привел к гибели 38 человек. Западные СМИ выражают опасения по поводу уязвимости гражданских и стратегических объектов в городских районах Украины.",
+      "category": "politics",
+      "perspective": "Западные источники осуждают удар как военное преступление против гражданских лиц. Российская сторона, вероятно, заявляет о поражении военных объектов или складов с оружием.",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.lemonde.fr",
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.lemonde.fr/en/international/article/2026/08/30/russian-strike-kills-38-near-kyiv-raising-concerns-over-ukrainian-sensitive-urban-sites_6756984_4.html",
+        "https://www.smh.com.au/world/russian-strike-on-ukraine-warehouse-kills-37-20260830-p60sus.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-30",
+      "id": "febf2701c50a"
+    },
+    {
+      "title_ru": "В Запорожской области от атак ВСУ пострадали восемь человек",
+      "title_en": "Eight people injured in Ukrainian attacks in Zaporozhye region",
+      "date": "2026-08-30",
+      "summary": "В результате атак Вооруженных сил Украины по Запорожской области пострадали восемь человек. Также сообщается о беспилотной атаке на девятиэтажный жилой дом в регионе.",
+      "category": "politics",
+      "perspective": "Российские официальные источники представляют это как украинские атаки по гражданским объектам и населению. Украинская сторона, вероятно, заявляет о поражении военных целей или опровергает информацию.",
+      "perspective_type": "assumed",
+      "sources": [
+        "ria.ru",
+        "tass.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260830/ljudi-2114126764.html",
+        "https://tass.ru/proisshestviya/28058179"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-30",
+      "id": "2cb7c7d82702"
+    },
+    {
+      "title_ru": "Президент Южной Кореи номинировал шесть министров в крупной перестановке кабинета",
+      "title_en": "South Korea's Lee nominates 6 ministers in major Cabinet reshuffle",
+      "date": "2026-08-30",
+      "summary": "Президент Южной Кореи Ли номинировал шесть новых министров в рамках крупной перестановки кабинета, включая министра финансов. Среди новых назначений - министр юстиции, министр гендерного равенства и министр обороны.",
+      "category": "politics",
+      "perspective": "Правящая партия представляет перестановку как обновление и усиление правительства. Оппозиция может критиковать назначения как политически мотивированные или недостаточно квалифицированные.",
+      "perspective_type": "assumed",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260830001652315"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-30",
+      "id": "a7719c7b2564"
+    },
+    {
+      "title_ru": "Число пропавших без вести при наводнении в Непале и Тибете приближается к 3000",
+      "title_en": "Nepal and China flood missing toll nears 3,000",
+      "date": "2026-08-30",
+      "summary": "Число пропавших без вести в результате катастрофического наводнения в Непале и Тибетском автономном районе Китая приближается к 3000 человек, при этом подтвержденная гибель составляет около 750 человек. Событие указывает на опасности изменения климата в Гималаях.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "www.taipeitimes.com",
+        "asia.nikkei.com",
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/front/archives/2026/08/30/2003863362",
+        "https://asia.nikkei.com/spotlight/environment/climate-change/nepal-tibet-flood-catastrophe-hints-at-himalayas-warmer-future",
+        "https://presstv.ir/Detail/2026/08/30/775333/Nepal-Tibet-death-toll-Himalayan-flood-"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-30",
+      "id": "55cda546d0ed"
+    },
+    {
+      "title_ru": "Наводнение в Непале и Тибете обнажает опасности гималайской авантюры Китая",
+      "title_en": "Nepal-Tibet floods expose dangers of China's Himalayan gamble",
+      "date": "2026-08-30",
+      "summary": "Катастрофическое наводнение в Непале и Тибете обнажает опасности инфраструктурных проектов Китая в Гималайском регионе. Аналитики указывают на риски масштабного строительства в экологически уязвимой зоне.",
+      "category": "ai",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "asia.nikkei.com"
+      ],
+      "links": [
+        "https://asia.nikkei.com/opinion/nepal-tibet-floods-expose-dangers-of-china-s-himalayan-gamble"
+      ],
+      "is_development": true,
+      "first_reported": "2026-08-30",
+      "id": "72d1ba5472cb"
+    },
+    {
+      "title_ru": "Смерть военного преступника Младича обнажает незажившие раны Боснии",
+      "title_en": "War criminal Mladic's death lays bare Bosnia's wounds",
+      "date": "2026-08-30",
+      "summary": "Смерть Ратко Младича, бывшего генерала, осужденного за геноцид в Сребренице, вновь обнажила глубокие раны и разделения в боснийском обществе. Сербия заявила о намерении похоронить его с государственными почестями, что вызвало критику.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "www.taipeitimes.com",
+        "www.dailysabah.com",
+        "rss.dw.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/world/archives/2026/08/30/2003863387",
+        "https://www.dailysabah.com/world/europe/serbia-says-war-criminal-mladic-to-be-buried-with-state-honors",
+        "https://www.dw.com/en/ratko-mladic-the-man-behind-srebrenica-massacre-dies-at-84/a-78536491?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-30",
+      "id": "c1c6da5e3550"
+    },
+    {
+      "title_ru": "Япония, Южная Корея и США проведут совместные военные учения",
+      "title_en": "Japan, South Korea and US to hold joint military drills",
+      "date": "2026-08-30",
+      "summary": "Япония, Южная Корея и США договорились о проведении совместных военных учений, как заявили в Сеуле. Это происходит на фоне растущей напряженности в регионе и изменений в военном руководстве Северной Кореи.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "asia.nikkei.com"
+      ],
+      "links": [
+        "https://asia.nikkei.com/politics/defense/japan-south-korea-and-us-to-hold-joint-military-drills-seoul-says"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-30",
+      "id": "13187afef6dd"
+    },
+    {
+      "title_ru": "Ким Чен Ын провел кадровые перестановки в военном руководстве Северной Кореи",
+      "title_en": "Kim Jong Un shakes up North Korea's military, dismisses defence minister",
+      "date": "2026-08-30",
+      "summary": "Лидер Северной Кореи Ким Чен Ын провел масштабные кадровые перестановки в военном руководстве страны, уволив министра обороны Но Кван Чоля. Это указывает на продолжение реорганизации вооруженных сил страны.",
+      "category": "tech",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "timesofindia.indiatimes.com"
+      ],
+      "links": [
+        "https://timesofindia.indiatimes.com/world/rest-of-world/kim-jong-un-shakes-up-north-koreas-military-dismisses-defence-minister-no-kwang-chol/articleshow/133622383.cms"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-30",
+      "id": "f48f809bfd5b"
+    },
+    {
+      "title_ru": "Государственный долг Украины растет на 4-5 миллиардов долларов ежемесячно",
+      "title_en": "Ukraine's national debt grows by $4-5 bln each month",
+      "date": "2026-08-30",
+      "summary": "Государственный долг Украины продолжает стремительно расти, увеличиваясь на 4-5 миллиардов долларов каждый месяц. Это создает серьезные экономические вызовы для страны в условиях продолжающегося военного конфликта.",
+      "category": "finance",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/economy/2179409"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-30",
+      "id": "1e30e9494637"
+    },
+    {
+      "title_ru": "Новый гибкий двусторонний свет Godox создан для макросъемки",
+      "title_en": "Godox's New Flexible Twin Light Is Made for Macro Photography",
+      "date": "2026-08-28",
+      "summary": "Компания Godox представила новый гибкий двусторонний источник света, специально разработанный для макросъемки. Устройство предлагает фотографам новые возможности для освещения мелких объектов и деталей.",
+      "category": "photo",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/08/28/godoxs-new-flexible-twin-light-is-made-for-macro-photography/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-08-28",
+      "id": "e0aad55379dc"
     }
   ],
   "_stats": {
-    "total_tokens": 1229106,
-    "total_cost": 216.69178799999995
+    "total_tokens": 1239051,
+    "total_cost": 217.35044799999994
   }
 }
