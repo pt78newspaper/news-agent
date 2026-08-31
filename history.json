@@ -1,353 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Иран пригрозил соседям, которые присоединятся к экономической войне США",
-      "title_en": "Iran warns neighbours who join US economic war will be considered enemies",
-      "date": "2026-08-23",
-      "summary_en": "Iran's new security chief said neighbouring countries that join the US economic war against Tehran will be treated as enemies. The warning came amid US economic pressure; Iranian officials also said US actions have created global nuclear instability.",
-      "summary": "Новый глава службы безопасности Ирана заявил, что соседние страны, присоединившиеся к экономической войне США против Тегерана, будут считаться врагами. Заявление прозвучало на фоне экономического давления США; иранские официальные лица также заявили, что действия США создали глобальную ядерную нестабильность.",
-      "category": "politics",
-      "perspective": "Иранские власти подают это как предупреждение против участия в «экономической войне» США; в Вашингтоне и у региональных партнёров такие заявления, вероятно, сочтут эскалационными.",
-      "perspective_type": "assumed",
-      "sources": [
-        "The Guardian",
-        "The Times of India",
-        "The Hindu",
-        "DW",
-        "TASS"
-      ],
-      "links": [
-        "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
-        "https://timesofindia.indiatimes.com/world/middle-east/will-target-their-interests-iran-warns-neighbours-against-supporting-us-economic-pressure-tactics/articleshow/133433480.cms",
-        "https://www.thehindu.com/news/international/iran-security-chief-threatens-neighbors-against-new-us-economic-measures/article71380026.ece",
-        "https://www.dw.com/en/iran-warns-countries-against-joining-us-economic-war/a-78473222?maca=en-rss-en-all-1573-xml-mrss",
-        "https://tass.com/world/2176539"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-23",
-      "id": "5b15f7c18265"
-    },
-    {
-      "title_ru": "Канада объявила об ответных пошлинах после провала торговых переговоров с США",
-      "title_en": "Canada vows retaliatory tariffs after US trade talks collapse",
-      "date": "2026-08-23",
-      "summary_en": "Canada promised a dollar-for-dollar response after the United States imposed 50 percent tariffs on some Canadian goods and trade talks failed. Prime Minister Carney called the new US tariffs a miscalculation, while Alberta's premier urged a return to negotiations.",
-      "summary": "Канада пообещала ответ «доллар за доллар» после того, как США ввели 50-процентные пошлины на часть канадских товаров, а торговые переговоры провалились. Премьер-министр Карни назвал новые пошлины США просчётом, а премьер Альберты призвал вернуться к переговорам.",
-      "category": "politics",
-      "perspective": "Канадское правительство называет пошлины США просчётом и обещает симметричный ответ; американская сторона заявляет, что Канада отклонила предложение; часть канадских политиков призывает возобновить диалог.",
-      "perspective_type": "from_source",
-      "sources": [
-        "DW",
-        "The Hindu",
-        "The Guardian",
-        "BBC",
-        "CBC"
-      ],
-      "links": [
-        "https://www.dw.com/en/canada-to-hit-back-with-retaliatory-tariffs-after-us-trade-talks-fail/a-78471618?maca=en-rss-en-all-1573-xml-mrss",
-        "https://www.thehindu.com/news/international/canada-retaliates-as-trade-war-with-us-escalates/article71379056.ece",
-        "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-        "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-        "https://www.cbc.ca/news/canada/edmonton/alberta-premier-tariffs-reaction-9.7317230?cmp=rss"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-23",
-      "id": "73de8a936dcc"
-    },
-    {
-      "title_ru": "На фоне атак БПЛА в России вводили временные ограничения в аэропортах",
-      "title_en": "Russia imposes temporary restrictions at multiple airports amid drone attacks",
-      "date": "2026-08-23",
-      "summary_en": "Russian authorities temporarily restricted arrivals and departures at more than a dozen airports overnight, including Krasnodar, Sochi, Samara, Saratov and Domodedovo; some restrictions were later lifted. A 'Kover' plan was declared in the Penza region, and officials reported downed drones in the Rostov Region and near Moscow.",
-      "summary": "Российские власти ночью вводили временные ограничения на приём и отправку самолётов более чем в десятке аэропортов, включая Краснодар, Сочи, Самару, Саратов и Домодедово; часть ограничений позже сняли. В Пензенской области объявляли план «Ковёр», а официальные лица сообщали о сбитых БПЛА в Ростовской области и на подлёте к Москве.",
-      "category": "politics",
-      "perspective": "Российские власти объясняют ограничения мерами безопасности на фоне атак БПЛА; критики могут рассматривать происходящее как признак уязвимости гражданской инфраструктуры.",
-      "perspective_type": "assumed",
-      "sources": [
-        "TASS",
-        "Kommersant",
-        "Vedomosti"
-      ],
-      "links": [
-        "https://tass.ru/ekonomika/28036399",
-        "https://tass.ru/ekonomika/28036367",
-        "https://www.kommersant.ru/doc/8894190",
-        "https://www.vedomosti.ru/politics/news/2026/08/21/1222707-sili-pvo-sbili",
-        "https://tass.ru/proisshestviya/28036477"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-23",
-      "id": "97ff35e71b7e"
-    },
-    {
-      "title_ru": "Путин: перелома после ударов ВСУ не произошло, Россия продолжила удары по инфраструктуре Украины",
-      "title_en": "Putin says no turning point after Ukrainian strikes as Russia continues hitting infrastructure",
-      "date": "2026-08-23",
-      "summary_en": "Russian officials said Ukraine's strikes on civilian objects are intended to intimidate, while Vladimir Putin said the intensified Ukrainian strikes have not produced a turning point in the war. He called them a new Ukrainian adventure and noted the effectiveness of Russian strikes on Ukraine.",
-      "summary": "Российские официальные лица заявили, что удары Украины по гражданским объектам имеют цель запугивания. Владимир Путин, в свою очередь, заявил, что перелома в ходе боевых действий после ударов ВСУ не произошло, назвал их усиление новой авантюрой и отметил эффективность ударов России по Украине.",
-      "category": "politics",
-      "perspective": "Российские официальные лица характеризуют действия Украины как авантюру и удары по гражданским объектам; украинская сторона и её союзники, вероятно, оценивают такие заявления иначе.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Lenta",
-        "TASS",
-        "Kommersant",
-        "Vedomosti"
-      ],
-      "links": [
-        "https://lenta.ru/news/2026/08/23/v-rossii-nazvali-tsel-udarov-ukrainy-po-grazhdanskim-ob-ektam/",
-        "https://tass.ru/politika/28036439",
-        "https://www.kommersant.ru/doc/8906291",
-        "https://www.vedomosti.ru/politics/news/2026/08/22/1222987-armiya-rossii-udari"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-23",
-      "id": "be3b308be9b9"
-    },
-    {
-      "title_ru": "Nvidia готова конкурировать с китайскими моделями искусственного интеллекта",
-      "title_en": "Nvidia ready to compete with Chinese AI models",
-      "date": "2026-08-23",
-      "summary_en": "Antara reports that Nvidia is ready to compete with Chinese AI models. The report did not provide specifics about products or timelines in the available feed.",
-      "summary": "Агентство Antara сообщает, что Nvidia готова конкурировать с китайскими моделями искусственного интеллекта. Подробности о продуктах и сроках в доступной ленте не приводились.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Antara News"
-      ],
-      "links": [
-        "https://www.antaranews.com/berita/5707448/nvidia-siap-saingi-model-ai-china"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-23",
-      "id": "c9d1a3d63114"
-    },
-    {
-      "title_ru": "В Пекине открылись вторые Всемирные игры гуманоидных роботов",
-      "title_en": "Second World Humanoid Robot Games opens in Beijing",
-      "date": "2026-08-23",
-      "summary_en": "The second World Humanoid Robot Games opened in Beijing. Antara reports that thousands of humanoid robots are set to compete.",
-      "summary": "В Пекине открылись вторые Всемирные игры гуманоидных роботов. По сообщению Antara, в соревнованиях готовы принять участие тысячи роботов-гуманоидов.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Antara News"
-      ],
-      "links": [
-        "https://www.antaranews.com/berita/5707360/pembukaan-world-humanoid-robot-games-ke-2-digelar-di-beijing",
-        "https://www.antaranews.com/video/5707325/ribuan-robot-humanoid-siap-berkompetisi-di-beijing"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-23",
-      "id": "45d4b388be12"
-    },
-    {
-      "title_ru": "В Горловке БПЛА Hornet атаковал кафедральный собор, ранены двое священников",
-      "title_en": "Drone strikes cathedral in Horlivka, wounding two priests",
-      "date": "2026-08-23",
-      "summary_en": "A Ukrainian drone attack targeted a cathedral in Horlivka in Russian-controlled Donbas, wounding two priests; authorities said the cathedral building itself was not damaged. The drone was identified as a Hornet UAV.",
-      "summary": "В Горловке украинский БПЛА Hornet атаковал кафедральный собор: двое священников получили ранения, при этом здание собора, по данным российских источников, не пострадало.",
-      "category": "politics",
-      "perspective": "Российские официальные источники квалифицируют это как удар по религиозному объекту; украинская сторона может оспаривать обстоятельства; международные наблюдатели могут призывать к защите гражданских и религиозных объектов.",
-      "perspective_type": "assumed",
-      "sources": [
-        "TASS",
-        "RBC",
-        "RIA Novosti"
-      ],
-      "links": [
-        "https://tass.ru/proisshestviya/28037503",
-        "https://www.rbc.ru/rbcfreenews/6a816efc9a79470cbfc47c2a",
-        "https://ria.ru/20260823/vsu-2112671063.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-23",
-      "id": "977f73525b47"
-    },
-    {
-      "title_ru": "Индонезия наращивает борьбу с лесными пожарами на Калимантане: 1 000 рейнджеров и иностранная авиация",
-      "title_en": "Indonesia scales up Kalimantan wildfire response with 1,000 rangers and foreign aircraft",
-      "date": "2026-08-23",
-      "summary_en": "Indonesia is expanding its response to forest and peatland fires in Kalimantan, deploying 1,000 rangers, assigning ministers to coordinate regional efforts, fast-tracking foreign firefighting aircraft and intensifying peatland wetting and cloud seeding. The measures follow President Prabowo's visit to lead the response.",
-      "summary": "Индонезия расширяет меры по тушению лесных и торфяных пожаров на Калимантане: министерство направит 1 000 рейнджеров, правительство закрепило министров за регионами, ускорило допуск иностранной авиации и усилило обводнение торфяников и засев облаков. Это развитие реакции, которую ранее возглавил президент Прабово.",
-      "category": "politics",
-      "perspective": "Правительство Индонезии подаёт это как скоординированную мобилизацию ресурсов; экологические организации могут требовать системного решения причин пожаров; соседние страны обеспокоены трансграничным смогом.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Antara News"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/428300/ministry-to-deploy-1000-rangers-to-extinguish-kalimantan-wildfires",
-        "https://en.antaranews.com/news/428284/govt-assigns-ministers-to-handle-regional-forest-fires",
-        "https://en.antaranews.com/news/428280/indonesia-fast-tracks-foreign-aircraft-to-fight-forest-fires"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-23",
-      "id": "c7ed8afcb3bc"
-    },
-    {
-      "title_ru": "Иран отверг «вмешательство» двух французских дипломатов",
-      "title_en": "Iran rejects 'interference' by two French diplomats",
-      "date": "2026-08-23",
-      "summary_en": "Iran's Foreign Ministry condemned what it called unacceptable interference by two French diplomats and said Tehran rejects such actions. The statement followed reports of the diplomats' conduct in Iran.",
-      "summary": "МИД Ирана осудил «неприемлемое вмешательство» двух французских дипломатов и заявил, что Тегеран отвергает подобные действия. Подробности инцидента в иранских источниках не раскрываются.",
-      "category": "politics",
-      "perspective": "Тегеран рассматривает это как нарушение суверенитета; Франция и европейские столицы могут настаивать на соблюдении дипломатических норм; инцидент может усилить напряжённость в отношениях Ирана и ЕС.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Mehr News Agency",
-        "IRNA"
-      ],
-      "links": [
-        "https://en.mehrnews.com/news/247177/Iran-blasts-unacceptable-interference-of-2-French-diplomats",
-        "https://en.irna.ir/news/86243285/Iran-rejects-interference-by-two-French-diplomats"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-23",
-      "id": "896fc51d770a"
-    },
-    {
-      "title_ru": "Организаторов ежегодной гонконгской вахты памяти на площади Тяньаньмэнь осудили за подрывную деятельность",
-      "title_en": "Organizers of Hong Kong's annual Tiananmen vigil convicted of inciting subversion",
-      "date": "2026-08-23",
-      "summary_en": "Organizers of Hong Kong's annual Tiananmen vigil have been convicted in a national security case of inciting subversion, according to reports. The case highlights the continued enforcement of Hong Kong's national security law.",
-      "summary": "Организаторы ежегодной гонконгской вахты памяти на площади Тяньаньмэнь признаны виновными по делу о национальной безопасности — их осудили за подстрекательство к подрывной деятельности. Это решение подчёркивает жёсткое применение закона о нацбезопасности в Гонконге.",
-      "category": "politics",
-      "perspective": "Власти Гонконга и Пекин считают это законным правоприменением; правозащитные организации и западные правительства критикуют приговор как подавление свобод; гонконгские активисты за рубежом называют это репрессиями.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Nikkei Asia",
-        "The Globe and Mail",
-        "Taipei Times"
-      ],
-      "links": [
-        "https://asia.nikkei.com/spotlight/hong-kong-security-law/hong-kong-tiananmen-vigil-organizers-convicted-of-inciting-subversion",
-        "https://www.theglobeandmail.com/world/article-organizers-of-hong-kongs-annual-tiananmen-vigil-convicted-in-national/",
-        "https://www.taipeitimes.com/News/world/archives/2026/08/24/2003863042"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-23",
-      "id": "235908affdae"
-    },
-    {
-      "title_ru": "Индонезия добивается расширения совместных военных учений с Китаем",
-      "title_en": "Indonesia seeks expanded joint military exercises with China",
-      "date": "2026-08-23",
-      "summary_en": "Indonesia is seeking to expand joint military exercises with China, according to a Nikkei Asia report, amid deepening Jakarta-Beijing defense and economic cooperation. The move follows meetings between Indonesian President Prabowo Subianto and Chinese ministers.",
-      "summary": "Индонезия, по данным Nikkei Asia, добивается расширения совместных военных учений с Китаем на фоне углубления оборонного и экономического сотрудничества Джакарты и Пекина. Ранее Прабово принял китайских министров для укрепления двусторонних связей.",
-      "category": "politics",
-      "perspective": "Джакарта может подавать это как диверсификацию оборонных связей; США и региональные партнёры могут видеть в этом сдвиг в сторону Китая; Пекин приветствует углубление сотрудничества.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Nikkei Asia",
-        "Antara News"
-      ],
-      "links": [
-        "https://asia.nikkei.com/politics/defense/indonesia-seeks-expanded-joint-military-exercises-with-china",
-        "https://en.antaranews.com/news/428247/prabowo-hosts-chinese-ministers-to-deepen-bilateral-ties"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-23",
-      "id": "c855e23e27d5"
-    },
-    {
-      "title_ru": "17-летний школьник создал ИИ для расшифровки структур белков и выиграл $90 000",
-      "title_en": "17-year-old builds AI to decode protein structures, wins $90,000",
-      "date": "2026-08-23",
-      "summary_en": "A 17-year-old Massachusetts student named Jerry Xu built an AI program that turns protein structures into strings of numbers and won $90,000. The work applies AI to structural biology.",
-      "summary": "17-летний студент из Массачусетса Джерри Сюй создал ИИ-программу, преобразующую структуры белков в последовательности чисел, и получил за неё приз в размере $90 000.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Times of India"
-      ],
-      "links": [
-        "https://timesofindia.indiatimes.com/science/meet-jerry-xu-the-17-year-old-massachusetts-student-who-built-an-ai-program-that-turns-protein-structures-into-strings-of-numbers-he-won-90000/articleshow/133438450.cms"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-23",
-      "id": "88a0f3ab82ee"
-    },
-    {
-      "title_ru": "Ванкувер превращает тепло сточных вод в возобновляемую энергию для зданий",
-      "title_en": "Vancouver turns sewage heat into renewable energy for buildings",
-      "date": "2026-08-23",
-      "summary_en": "Vancouver is capturing heat that normally disappears down showers, sinks and toilets and sending it back into buildings; sewage now supplies most of one district's renewable heat. The system is highlighted as an example of urban clean-energy innovation.",
-      "summary": "Ванкувер улавливает тепло, которое обычно уходит вместе со сточными водами из душевых, раковин и туалетов, и возвращает его в здания; сточные воды теперь обеспечивают большую часть возобновляемого тепла одного из районов.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Times of India"
-      ],
-      "links": [
-        "https://timesofindia.indiatimes.com/world/rest-of-world/vancouver-captures-heat-that-normally-disappears-down-showers-sinks-and-toilets-and-sends-it-back-into-buildings-sewage-now-supplies-most-of-one-districts-renewable-heat/articleshow/133439185.cms"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-23",
-      "id": "76cbfa0a1352"
-    },
-    {
-      "title_ru": "Первая в Турции школа возобновляемой энергетики вышла в мировой финал",
-      "title_en": "Türkiye's first renewable energy high school reaches global final",
-      "date": "2026-08-23",
-      "summary_en": "Türkiye's first renewable energy high school has reached the final of a global competition, according to Daily Sabah. The school is recognized for its focus on renewable energy education.",
-      "summary": "Первая в Турции старшая школа, специализирующаяся на возобновляемой энергетике, вышла в финал международного конкурса. Учебное заведение отмечено за образовательную программу в области чистой энергетики.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Daily Sabah"
-      ],
-      "links": [
-        "https://www.dailysabah.com/turkiye/education/turkiyes-1st-renewable-energy-high-school-reaches-global-final"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-23",
-      "id": "82ef3bf4be38"
-    },
-    {
-      "title_ru": "Xiaomi показала новый чип Xring и складной MIX Ultra бордового цвета",
-      "title_en": "Xiaomi teases new Xring chip and burgundy-colored Xiaomi MIX Ultra",
-      "date": "2026-08-23",
-      "summary_en": "Xiaomi teased a new Xring chip and a burgundy-colored Xiaomi MIX Ultra foldable, signaling upcoming hardware. The teaser points to new in-house silicon and a foldable flagship.",
-      "summary": "Xiaomi анонсировала новый чип Xring и складной смартфон Xiaomi MIX Ultra в бордовом цвете. Тизер указывает на подготовку нового фирменного чипа и флагманского складного устройства.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Gizmochina"
-      ],
-      "links": [
-        "https://www.gizmochina.com/2026/08/23/xiaomi-xring-o3-burgundy-mix-ultra-foldable-teaser/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-23",
-      "id": "6c953273ee25"
-    },
-    {
-      "title_ru": "Банк Кореи, как ожидается, повысит прогноз роста на 2026 год выше 3%",
-      "title_en": "BOK expected to raise S. Korea's 2026 growth estimate to over 3 pct: experts",
-      "date": "2026-08-23",
-      "summary_en": "The Bank of Korea is expected to raise South Korea's 2026 growth estimate to over 3 percent, according to experts, amid a semiconductor boom. The upgraded outlook reflects strong chip-driven economic momentum.",
-      "summary": "Банк Кореи, по мнению экспертов, повысит прогноз роста экономики Южной Кореи на 2026 год до уровня выше 3% на фоне бума в полупроводниковой отрасли. Улучшенная оценка отражает сильный импульс экономики, связанный с чипами.",
-      "category": "finance",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Yonhap News Agency"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260823000800320"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-23",
-      "id": "8468d6c6a302"
-    },
-    {
       "title_ru": "Прабово распорядился отзывать лицензии у компаний, причастных к лесным пожарам",
       "title_en": "Prabowo orders permit revocation for firms linked to forest fires",
       "date": "2026-08-24",
@@ -496,24 +149,6 @@
       "is_development": false,
       "first_reported": "2026-08-24",
       "id": "a43b815b59f7"
-    },
-    {
-      "title_ru": "Samsung представила первый в мире 16-дюймовый OLED-дисплей с частотой 300 Гц и 20-дюймовый растягиваемый экран",
-      "title_en": "Samsung debuts world's first 16-inch 300Hz OLED for laptops and 20-inch stretchable display",
-      "date": "2026-08-23",
-      "summary": "Samsung показала первый в мире 16-дюймовый OLED-дисплей для ноутбуков с частотой обновления 300 Гц, 7,6-дюймовый OLED с широкими углами обзора для смартфонов и 20-дюймовый растягиваемый дисплей.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Gizmochina"
-      ],
-      "links": [
-        "https://www.gizmochina.com/2026/08/23/samsung-debuts-worlds-first-16-300hz-oled-for-laptops-7-6-wide-viewing-angle-oled-for-phones-and-20-stretchable-display/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-23",
-      "id": "3d59b4323971"
     },
     {
       "title_ru": "Нефть дешевеет в преддверии объявления США о новых санкциях против Ирана",
@@ -1848,10 +1483,253 @@
       "is_development": false,
       "first_reported": "2026-08-28",
       "id": "e0aad55379dc"
+    },
+    {
+      "title_ru": "Атаки БПЛА на Урале: четыре пострадавших в Екатеринбурге, ребенок ранен в Белгородской области",
+      "title_en": "Drone attacks in Urals: four injured in Yekaterinburg, child wounded in Belgorod region",
+      "date": "2026-08-31",
+      "summary": "В результате атак беспилотников на Свердловскую область пострадали четыре человека в Екатеринбурге. Одновременно в Белгородском селе при атаке БПЛА пострадал ребенок. На Урале людей заранее эвакуировали из логистического центра перед атакой.",
+      "category": "politics",
+      "sources": [
+        "rssexport.rbc.ru",
+        "tass.ru",
+        "ria.ru",
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.rbc.ru/politics/31/08/2026/6a94c2339a794709e8d48b91",
+        "https://tass.ru/obschestvo/28060693",
+        "https://ria.ru/20260831/rebenok-2114309887.html",
+        "https://www.kommersant.ru/doc/8922321",
+        "https://ria.ru/20260831/ekaterinburg-2114308891.html"
+      ],
+      "perspective": "Российские власти представляют это как террористические атаки на гражданские объекты. Украина и западные страны могут рассматривать это как ответные действия на российские удары по украинской территории. Нейтральные наблюдатели отмечают эскалацию конфликта с вовлечением гражданского населения.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-08-31",
+      "id": "e166231851d3"
+    },
+    {
+      "title_ru": "Иран сбил американский беспилотник MQ-9 над Ормузским проливом",
+      "title_en": "Iran shoots down US MQ-9 drone over Strait of Hormuz",
+      "date": "2026-08-31",
+      "summary": "Корпус стражей исламской революции Ирана сбил американский беспилотник MQ-9 над Ормузским проливом. Это первая атака такого рода за несколько недель, что свидетельствует об эскалации напряженности в стратегически важном регионе.",
+      "category": "politics",
+      "sources": [
+        "www.presstv.ir",
+        "feeds.bbci.co.uk"
+      ],
+      "links": [
+        "https://presstv.ir/Detail/2026/08/31/775386/IRGC-shots-down-another-US-MQ-9-drone-over-Strait-Hormuz",
+        "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
+      ],
+      "perspective": "Иранские власти представляют это как защиту национального суверенитета. США рассматривают инцидент как провокацию и угрозу свободе судоходства. Аналитики отмечают, что американские заявления о маршрутах транспортировки нефти через Ормузский пролив могут быть попыткой повлиять на цены на нефть.",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-08-31",
+      "id": "48e614619fe5"
+    },
+    {
+      "title_ru": "Индонезия отказалась от кредита МВФ и закрыла 290 государственных предприятий",
+      "title_en": "Indonesia turns down IMF loan offer and closes 290 state-owned enterprises",
+      "date": "2026-08-31",
+      "summary": "Президент Индонезии Прабово Субианто заявил, что страна отказалась от предложения кредита от Международного валютного фонда. Также он сообщил, что закрытие 290 государственных предприятий позволило сэкономить 2,8 миллиарда долларов.",
+      "category": "politics",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/429143/indonesia-turns-down-imf-loan-offer-says-president-prabowo",
+        "https://en.antaranews.com/news/429152/prabowo-says-indonesia-saved-28-billion-by-closing-290-soes"
+      ],
+      "perspective": "Правительство Индонезии представляет это как шаг к экономической независимости и финансовой дисциплине. Оппозиция может критиковать закрытие предприятий как приводящее к потере рабочих мест. Международные финансовые институты могут рассматривать отказ от кредита как признак растущей уверенности в собственных экономических возможностях.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-08-31",
+      "id": "0e8d7f0ebccf"
+    },
+    {
+      "title_ru": "Индонезия возглавила глобальную коалицию мелких производителей пальмового масла",
+      "title_en": "Indonesia takes helm of global oil palm smallholders coalition",
+      "date": "2026-08-31",
+      "summary": "Индонезия взяла на себя руководство глобальной коалицией мелких производителей пальмового масла. Это происходит на фоне регулирования импорта текстиля для балансировки рыночного спроса и запуска исследования прав человека до 2036 года.",
+      "category": "politics",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/429144/indonesia-takes-helm-of-global-oil-palm-smallholders-coalition",
+        "https://en.antaranews.com/news/429139/indonesia-regulates-textile-imports-to-balance-market-demand",
+        "https://en.antaranews.com/news/429135/ministry-launches-human-rights-2036-study-to-map-social-issues"
+      ],
+      "perspective": "Правительство Индонезии позиционирует это как укрепление позиций страны на мировом рынке пальмового масла и защиту интересов мелких производителей. Экологические организации могут выражать опасения по поводу расширения плантаций пальмового масла. Конкурирующие страны-производители могут рассматривать это как усиление индонезийского влияния в отрасли.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-08-31",
+      "id": "8be9c65a023b"
+    },
+    {
+      "title_ru": "Трагедия в Гранд-Каньоне: не менее одного погибшего и 15 пропавших после внезапного наводнения",
+      "title_en": "Grand Canyon tragedy: at least one dead and 15 missing after flash flood",
+      "date": "2026-08-31",
+      "summary": "В национальном парке Гранд-Каньон произошло внезапное наводнение, в результате которого погиб по меньшей мере один человек и пропали около 15 человек. Спасательные операции продолжаются в сложных условиях каньона.",
+      "category": "politics",
+      "sources": [
+        "www.france24.com"
+      ],
+      "links": [
+        "https://www.france24.com/fr/vid%C3%A9o/20260831-grand-canyon-au-moins-un-mort-et-une-quinzaine-de-disparue-apr%C3%A8s-une-crue-%C3%A9clair"
+      ],
+      "perspective": "Власти США представляют это как природную катастрофу и мобилизуют спасательные службы. Экологические организации могут связывать экстремальные погодные явления с изменением климата. Местные жители и туристические компании выражают обеспокоенность по поводу безопасности в национальных парках.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-08-31",
+      "id": "fe9cbe47c173"
+    },
+    {
+      "title_ru": "Суд в Южной Корее требует смертной казни для подозреваемого в убийстве в Кванджу",
+      "title_en": "South Korean court seeks death penalty for Gwangju murder suspect",
+      "date": "2026-08-31",
+      "summary": "Прокуроры в Южной Корее потребовали смертной казни для подозреваемого в убийстве в Кванджу. Одновременно в другом деле прокуратура требует 10 лет тюрьмы для пакистанца по делу об изнасиловании ребенка.",
+      "category": "ai",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260831010000315",
+        "https://en.yna.co.kr/view/AEN20260831008900315"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-08-31",
+      "id": "ff9cc682618c"
+    },
+    {
+      "title_ru": "Южнокорейская вона достигла 13-месячного максимума на фоне продажи доллара",
+      "title_en": "South Korean won reaches 13-month high on dollar selling",
+      "date": "2026-08-31",
+      "summary": "Южнокорейская вона укрепилась до 13-месячного максимума на фоне активной продажи доллара. Несмотря на жесткую позицию главы ФРС, фондовый рынок Сеула закрылся с ростом.",
+      "category": "ai",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260831008600320",
+        "https://en.yna.co.kr/view/AEN20260831007552320",
+        "https://en.yna.co.kr/view/AEN20260831007500320"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-08-31",
+      "id": "8ff45e2db6d8"
+    },
+    {
+      "title_ru": "Утечка характеристик OnePlus 16: глобальная частота обновления 165 Гц и пользовательский чип",
+      "title_en": "OnePlus 16 specs leak: 165Hz global refresh rate and custom chip",
+      "date": "2026-08-31",
+      "summary": "В сеть утекли характеристики смартфона OnePlus 16: экран с глобальной частотой обновления 165 Гц и пользовательский чип. Также появились данные о Huawei Mate XT 2 с оперативной памятью 16 ГБ и накопителем до 2 ТБ.",
+      "category": "tech",
+      "sources": [
+        "www.gizmochina.com"
+      ],
+      "links": [
+        "https://www.gizmochina.com/2026/08/31/oneplus-16-boe-x4-display-165hz-global-refresh-rate/",
+        "https://www.gizmochina.com/2026/08/31/huawei-mate-xt-2-pre-orders-configurations-revealed/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-08-31",
+      "id": "9d065eff16ac"
+    },
+    {
+      "title_ru": "Фондовый рынок Сеула показал устойчивость несмотря на жесткую позицию ФРС",
+      "title_en": "Seoul stock market shows resilience despite hawkish Fed stance",
+      "date": "2026-08-31",
+      "summary": "Фондовый рынок Сеула продемонстрировал устойчивость, закрывшись с ростом несмотря на жесткие заявления главы Федеральной резервной системы США. Ранее индекс открылся с падением на 2,58%, но к закрытию сумел восстановиться.",
+      "category": "tech",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260831007400320",
+        "https://en.yna.co.kr/view/AEN20260831004500320",
+        "https://en.yna.co.kr/view/AEN20260831001851320",
+        "https://en.yna.co.kr/view/AEN20260831001700320"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-08-31",
+      "id": "23871d06824a"
+    },
+    {
+      "title_ru": "Тайвань призывает адаптировать земельную политику к проблеме старения общества",
+      "title_en": "Taiwan calls for adapting land policy to aging society issue",
+      "date": "2026-08-31",
+      "summary": "Тайваньские эксперты призывают адаптировать земельную политику к вызовам стареющего общества. Это происходит на фоне глобального обсуждения демографических проблем, включая анализ последствий отмены политики одного ребенка в Китае.",
+      "category": "tech",
+      "sources": [
+        "www.taipeitimes.com",
+        "www.spiegel.de"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/editorials/archives/2026/08/31/2003863399",
+        "https://www.spiegel.de/international/world/ten-years-after-the-end-of-the-one-child-policy-a-visit-to-ground-zero-of-chinas-aging-population-a-7b669939-a8f8-4af5-9b77-ac9f08bb691d#ref=rss"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-08-31",
+      "id": "6f770e73761f"
+    },
+    {
+      "title_ru": "Лидеры России, Ирана и Китая встретятся на саммите ШОС в Бишкеке",
+      "title_en": "Leaders of Russia, Iran and China to meet at SCO summit in Bishkek",
+      "date": "2026-08-31",
+      "summary": "Президенты России, Ирана и Китая встретятся на полях саммита Шанхайской организации сотрудничества в Бишкеке. Иранский лидер Пезешкиан заявил, что Иран будет решительно реагировать на любую агрессию, направляясь на саммит.",
+      "category": "finance",
+      "sources": [
+        "asia.nikkei.com",
+        "en.mehrnews.com",
+        "en.irna.ir",
+        "tass.com"
+      ],
+      "links": [
+        "https://asia.nikkei.com/politics/international-relations/putin-xi-to-meet-on-sidelines-of-sco-summit-monday-kremlin-says",
+        "https://en.mehrnews.com/news/247333/Pezeshkian-arrives-in-Bishkek-for-SCO-summit-regional-talks",
+        "https://en.irna.ir/news/86250535/Pezeshkian-says-Iran-will-respond-decisively-to-aggression-as",
+        "https://tass.com/politics/2179647"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-08-31",
+      "id": "2f3e2e3c85b3"
+    },
+    {
+      "title_ru": "Новая книга прославляет «опасных» женщин-фотографов с XIX века до наших дней",
+      "title_en": "New book celebrates 'dangerous' women photographers from 19th century to present",
+      "date": "2026-08-30",
+      "summary": "Вышла новая книга, посвященная «опасным» женщинам-фотографам, работавшим с XIX века до наших дней. Издание исследует вклад женщин в развитие фотографии и их борьбу за признание в мужской доминирующей сфере.",
+      "category": "photo",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/08/30/new-book-celebrates-dangerous-women-photographers-from-the-19th-century-to-the-present/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-08-30",
+      "id": "d2c26b670326"
     }
   ],
   "_stats": {
-    "total_tokens": 1239051,
-    "total_cost": 217.35044799999994
+    "total_tokens": 1249506,
+    "total_cost": 218.04808799999995
   }
 }
