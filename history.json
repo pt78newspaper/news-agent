@@ -1,175 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Прабово распорядился отзывать лицензии у компаний, причастных к лесным пожарам",
-      "title_en": "Prabowo orders permit revocation for firms linked to forest fires",
-      "date": "2026-08-24",
-      "summary": "Президент Индонезии Прабово Субианто распорядился отзывать разрешения у компаний, связанных с лесными пожарами; власти усиливают тушение в четырех провинциях, а парламентарии поддержали жесткие меры против организаторов поджогов. По данным «Коммерсанта», дым от пожаров затронул около 3 млн человек.",
-      "category": "politics",
-      "perspective": "Правительство Индонезии представляет меры как защиту населения от дыма и наказание виновных; бизнес может критиковать отзыв лицензий как чрезмерное давление; экологические организации поддерживают жесткость, но требуют системной профилактики пожаров.",
-      "perspective_type": "assumed",
-      "sources": [
-        "ANTARA News",
-        "Kommersant"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/428357/prabowo-orders-permit-revocation-for-firms-linked-to-forest-fires",
-        "https://en.antaranews.com/news/428367/indonesia-intensifies-forest-firefighting-in-four-provinces",
-        "https://en.antaranews.com/news/428323/indonesian-lawmakers-back-crackdown-on-forest-fire-masterminds",
-        "https://www.kommersant.ru/doc/8906702"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-24",
-      "id": "560dcac7003c"
-    },
-    {
-      "title_ru": "США угрожают Ирану «экономическим Днём Д» и новыми санкциями, Тегеран обещает ответ",
-      "title_en": "US warns Iran of 'economic D-Day' and new sanctions, Tehran vows response",
-      "date": "2026-08-24",
-      "summary": "Администрация США предупредила Иран о «самых жестких санкциях в истории», назвав их «экономическим Днём Д»; Тегеран осудил планы новых ограничений и заявил о готовности к противодействию. На этом фоне нефть и акции снижались.",
-      "category": "politics",
-      "perspective": "В США и ряде западных стран санкции подают как способ принудить Иран к переговорам; Тегеран называет их экономической войной и обещает ответные меры; часть наблюдателей предупреждает о рисках эскалации и влиянии на нефтяные рынки.",
-      "perspective_type": "assumed",
-      "sources": [
-        "BBC News",
-        "Financial Times",
-        "TASS",
-        "The Globe and Mail",
-        "The New York Times"
-      ],
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-        "https://www.ft.com/content/cb865200-1a06-40be-86a3-10ee2bb05804",
-        "https://tass.com/world/2176877",
-        "https://www.theglobeandmail.com/world/article-iran-vows-devastating-response-as-us-threatens-to-topple-regime-with-tougher-sanctions/",
-        "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-24",
-      "id": "f12aeaa30400"
-    },
-    {
-      "title_ru": "Путин встретился с главой МИД Индии Джайшанкаром, отмечен рост товарооборота",
-      "title_en": "Putin meets Indian Foreign Minister Jaishankar as trade turnover grows",
-      "date": "2026-08-24",
-      "summary": "Владимир Путин принял в Кремле министра иностранных дел Индии Субраманьяма Джайшанкара. По словам Дениса Мантурова, товарооборот России и Индии в первом полугодии вырос на 8%, число индийских студентов в России приблизилось к 40 тысячам, а Индия проявляет интерес к самолетам SJ-100 и Ил-114-300.",
-      "category": "politics",
-      "perspective": "Москва трактует переговоры как углубление стратегического партнерства с Индией; западные страны могут рассматривать сближение как попытку обхода санкций; Нью-Дели подчеркивает собственную многовекторную внешнюю политику.",
-      "perspective_type": "assumed",
-      "sources": [
-        "RIA Novosti",
-        "TASS",
-        "Kommersant"
-      ],
-      "links": [
-        "https://ria.ru/20260824/putin-2112822930.html",
-        "https://ria.ru/20260824/tovarooborot-2112826200.html",
-        "https://www.kommersant.ru/doc/8907052",
-        "https://tass.ru/ekonomika/28039447",
-        "https://tass.ru/ekonomika/28039455"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-24",
-      "id": "2e974cc47378"
-    },
-    {
-      "title_ru": "Европейские лидеры прибыли в Киев на фоне интенсификации войны",
-      "title_en": "European leaders arrive in Kyiv as war with Russia intensifies",
-      "date": "2026-08-24",
-      "summary": "Премьер-министр Великобритании Энди Бернем прибыл в Украину; Киев принимает европейских лидеров на фоне усиления боевых действий. Ранее сообщалось об обменах ударами между Россией и Украиной, в том числе о жертвах после атак дронов.",
-      "category": "politics",
-      "perspective": "Украина и западные союзники видят в визитах знак солидарности и продолжения поддержки; Россия расценивает наращивание западной вовлеченности как эскалацию; часть наблюдателей указывает на риски дальнейшего затягивания конфликта.",
-      "perspective_type": "assumed",
-      "sources": [
-        "The New York Times",
-        "Daily Sabah",
-        "The Globe and Mail"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
-        "https://www.dailysabah.com/world/europe/ukraine-hosts-european-leaders-as-war-with-russia-intensifies",
-        "https://www.theglobeandmail.com/world/article-russia-and-ukraine-trade-attacks-after-moscow-drones-kill-16-wound-130/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-24",
-      "id": "c086aaa153e5"
-    },
-    {
-      "title_ru": "В Южной Корее спецпрокурор завершил 180-дневное расследование, предъявив обвинения Юну и ещё 57 фигурантам",
-      "title_en": "South Korea special counsel wraps up 180-day probe after indicting Yoon and 57 others",
-      "date": "2026-08-24",
-      "summary": "Специальный прокурор Южной Кореи завершил расследование, длившееся 180 дней, по итогам которого обвинения предъявлены Юн Сок Ёлю и еще 57 лицам. Параллельно лидеры конкурирующих партий провели первые переговоры о двухпартийном сотрудничестве.",
-      "category": "politics",
-      "perspective": "Оппозиция считает итоги расследования подтверждением вины Юна; его сторонники говорят о политически мотивированном преследовании; общественность ожидает независимого и прозрачного судебного процесса.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Yonhap"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260824003800315",
-        "https://en.yna.co.kr/view/AEN20260824006300315"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-24",
-      "id": "d3bd701cae00"
-    },
-    {
-      "title_ru": "Xiaomi представила мини-ПК AI Cube с чипами Xring O3, O100 и D100 для локального запуска LLM",
-      "title_en": "Xiaomi announces AI Cube mini-PC with Xring O3, O100, and D100 to run LLMs locally",
-      "date": "2026-08-24",
-      "summary": "Xiaomi анонсировала компактный компьютер AI Cube на новых чипах Xring O3, O100 и D100, предназначенный для локального запуска больших языковых моделей. Это развитие ранее анонсированной линейки чипов Xring.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Gizmochina"
-      ],
-      "links": [
-        "https://www.gizmochina.com/2026/08/24/xiaomi-announces-ai-cube-mini-pc-with-xring-o3-o100-and-d100-to-run-llms-locally/",
-        "https://www.gizmochina.com/2026/08/24/xiaomi-xring-o3-o100-d100-chipsets-launched-xiaomi-18-fold/"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-24",
-      "id": "360ecdb97ad3"
-    },
-    {
-      "title_ru": "Южнокорейский медиарегулятор заблокировал 64 сайта с порнографическими дипфейками",
-      "title_en": "South Korea media watchdog bans access to 64 websites creating pornographic deepfakes",
-      "date": "2026-08-24",
-      "summary": "Комиссия по стандартам коммуникаций Южной Кореи ограничила доступ к 64 сайтам, распространявшим порнографические дипфейки. Это часть борьбы с нелегальным использованием генеративного ИИ.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Yonhap"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260824006100320"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-24",
-      "id": "a43b815b59f7"
-    },
-    {
-      "title_ru": "Нефть дешевеет в преддверии объявления США о новых санкциях против Ирана",
-      "title_en": "Oil falls ahead of US announcement of new sanctions on Iran",
-      "date": "2026-08-24",
-      "summary": "Цены на нефть снизились, а фондовые индексы в Азии колебались в ожидании объявления США о новых санкциях против Ирана. Инвесторы оценивают возможные последствия для поставок энергоносителей.",
-      "category": "finance",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "links": [
-        "https://finance.yahoo.com/news/oil-falls-1-ahead-us-231835385.html",
-        "https://finance.yahoo.com/news/shares-flat-asia-iran-sanctions-004936320.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-24",
-      "id": "6d446e820330"
-    },
-    {
       "title_ru": "В Гаити при нападении банды на церковное убежище в Кенскоффе погибли не менее 47 человек",
       "title_en": "Haiti Gang Attack Kills at Least 47 in Kenscoff Church Shelter",
       "date": "2026-08-25",
@@ -275,23 +106,6 @@
       "id": "9b448c46aec8"
     },
     {
-      "title_ru": "Учёные Университета Гвадалахары открыли шесть «зомби-грибов», убивающих муравьёв",
-      "title_en": "University of Guadalajara scientists discover 6 ant-killing 'zombie fungi'",
-      "date": "2026-08-24",
-      "summary": "Исследователи из Университета Гвадалахары обнаружили шесть видов грибов, поражающих муравьёв. Открытие сделано в штате Халиско, Мексика.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "mexiconewsdaily.com"
-      ],
-      "links": [
-        "https://mexiconewsdaily.com/news/ant-killing-zombie-fungi-dicovered-jalisco/"
-      ],
-      "first_reported": "2026-08-24",
-      "id": "fac02d5db9d3"
-    },
-    {
       "title_ru": "Космическое агентство Южной Кореи разработает пятиместный гибридный самолёт вертикального взлёта",
       "title_en": "Space agency to develop 5-seat hybrid VTOL aircraft",
       "date": "2026-08-25",
@@ -341,23 +155,6 @@
       ],
       "first_reported": "2026-08-25",
       "id": "3133c0d2d269"
-    },
-    {
-      "title_ru": "Известный фотограф Джей Мейзел умер в возрасте 95 лет",
-      "title_en": "Celebrated Photographer Jay Maisel Dies at 95",
-      "date": "2026-08-24",
-      "summary": "Известный фотограф Джей Мейзел скончался в возрасте 95 лет. Об этом сообщает PetaPixel.",
-      "category": "photo",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/08/24/celebrated-photographer-jay-maisel-dies-at-95/"
-      ],
-      "first_reported": "2026-08-24",
-      "id": "6db29238afbb"
     },
     {
       "title_ru": "Трамп прокомментировал визит главы ЦРУ в Москву",
@@ -1726,10 +1523,234 @@
       "is_development": false,
       "first_reported": "2026-08-30",
       "id": "d2c26b670326"
+    },
+    {
+      "title_ru": "Саммит ШОС в Бишкеке: лидеры подписали декларацию о реформе финансовой архитектуры",
+      "title_en": "SCO Summit in Bishkek: leaders sign declaration on financial architecture reform",
+      "date": "2026-09-01",
+      "summary": "Лидеры стран Шанхайской организации сотрудничества подписали Бишкекскую декларацию на саммите в Кыргызстане. В документе выражена поддержка реформе международной финансовой архитектуры, что отражает стремление стран-участниц к созданию более справедливой мировой финансовой системы.",
+      "category": "politics",
+      "sources": [
+        "tass.com",
+        "en.mehrnews.com"
+      ],
+      "links": [
+        "https://tass.com/economy/2180259",
+        "https://tass.com/world/2180277",
+        "https://en.mehrnews.com/news/247367/Pezeshkian-Xi-meet-in-Bishkek-on-sidelines-of-SCO-Summit"
+      ],
+      "perspective": "Для России, Китая и Ирана это возможность продемонстрировать альтернативный западному подход к мировой финансовой системе. Западные страны могут рассматривать это как вызов существующему порядку и попытку создать параллельные институты.",
+      "perspective_type": "assumed",
+      "is_development": true,
+      "first_reported": "2026-09-01",
+      "id": "45b2b449d1ea"
+    },
+    {
+      "title_ru": "Наводнение в Непале: число погибших превысило 1000, спасатели ищут 900 рабочих в тоннелях",
+      "title_en": "Nepal floods: death toll exceeds 1000, rescuers search for 900 workers in tunnels",
+      "date": "2026-09-01",
+      "summary": "Число жертв катастрофического наводнения на границе Непала и Китая превысило 1000 человек. Спасательные команды пытаются добраться до примерно 900 рабочих, которые могли оказаться заблокированными в тоннелях гидроэлектростанции, заполненных грязью и водой.",
+      "category": "politics",
+      "sources": [
+        "feeds.bbci.co.uk",
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+        "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html"
+      ],
+      "perspective": "Международное сообщество выражает солидарность с Непалом и оказывает гуманитарную помощь. Китай и Непал сотрудничают в спасательных операциях, что демонстрирует региональное взаимодействие в кризисной ситуации.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-01",
+      "id": "107826e3b36f"
+    },
+    {
+      "title_ru": "Южная Корея отправляет команду по ликвидации последствий стихийных бедствий в Непал",
+      "title_en": "South Korea dispatches disaster relief team to Nepal",
+      "date": "2026-09-01",
+      "summary": "Южная Корея объявила о направлении команды по ликвидации последствий стихийных бедствий в Непал для поддержки восстановительных работ после катастрофического наводнения. Решение принято в рамках международной гуманитарной помощи пострадавшей стране.",
+      "category": "politics",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260901003553315"
+      ],
+      "perspective": "Для Южной Кореи это возможность продемонстрировать свою роль ответственного члена международного сообщества. Решение может быть воспринято как часть дипломатических усилий по укреплению региональных связей в Азии.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-01",
+      "id": "b9514d2b634e"
+    },
+    {
+      "title_ru": "Атаки на Белгородскую и Самарскую области: пострадали мирные жители",
+      "title_en": "Attacks on Belgorod and Samara regions: civilians injured",
+      "date": "2026-09-01",
+      "summary": "В результате атак на Белгородскую область пострадали четыре человека, в Самарской области повреждены несколько жилых объектов. Глава Самарской области заявил об атаках ВСУ на гражданские объекты, что свидетельствует об эскалации конфликта в приграничных регионах России.",
+      "category": "politics",
+      "sources": [
+        "ria.ru",
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260901/belgorod-2114564084.html",
+        "https://www.kommersant.ru/doc/8922922",
+        "https://www.kommersant.ru/doc/8922903"
+      ],
+      "perspective": "Российские власти представляют это как атаки на гражданское население, обвиняя Украину в нарушении международного гуманитарного права. Украина и её западные союзники могут оспаривать эти обвинения или рассматривать их как часть информационной войны.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-01",
+      "id": "2e4f30ce2465"
+    },
+    {
+      "title_ru": "Индонезия готовит правила для регулирования грузовых и пассажирских дронов",
+      "title_en": "Indonesia prepares regulations for cargo and passenger drones",
+      "date": "2026-09-01",
+      "summary": "Индонезия разрабатывает нормативные правила для регулирования использования грузовых и пассажирских дронов. Это часть усилий страны по созданию правовой базы для развивающейся отрасли беспилотных авиационных систем и интеграции новых технологий в транспортную инфраструктуру.",
+      "category": "politics",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/429297/indonesia-prepares-regulations-rules-for-cargo-passenger-drones"
+      ],
+      "perspective": "Для правительства Индонезии это шаг к технологической модернизации и привлечению инвестиций. Оппозиция может критиковать недостаточную проработанность правил или выражать опасения по поводу безопасности и приватности.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-01",
+      "id": "ed273e3cf0e7"
+    },
+    {
+      "title_ru": "Трамп угрожает наказать Южную Корею за отказ участвовать в войне против Ирана",
+      "title_en": "Trump threatens to punish South Korea for refusing to participate in war on Iran",
+      "date": "2026-09-01",
+      "summary": "Бывший президент США Дональд Трамп заявил, что накажет Южную Корею за отказ участвовать в войне против Ирана. Это заявление сделано на фоне эскалации напряжённости на Ближнем Востоке и отражает давление на союзников США по участию в конфликте.",
+      "category": "ai",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.ir/Detail/2026/08/31/775404/-Trump-threatens-to-punish-South-Korea-for-refusing-to-participate-in-US-Israeli-war-on-Iran"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-01",
+      "id": "fce4c5ae1983"
+    },
+    {
+      "title_ru": "ВВП Индии показал неожиданный рост 7,8% на фоне войны в Иране",
+      "title_en": "India's GDP records surprise growth of 7.8% amid Iran war",
+      "date": "2026-09-01",
+      "summary": "Экономика Индии продемонстрировала неожиданный рост ВВП на 7,8% на фоне продолжающейся войны в Иране. Этот показатель превысил ожидания аналитиков и свидетельствует о устойчивости индийской экономики к геополитическим потрясениям в регионе.",
+      "category": "ai",
+      "sources": [
+        "asia.nikkei.com"
+      ],
+      "links": [
+        "https://asia.nikkei.com/economy/india-s-gdp-records-surprise-growth-of-7.8-amid-iran-war"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-01",
+      "id": "01ecc2481049"
+    },
+    {
+      "title_ru": "Индонезия разрабатывает систему мониторинга уровня грунтовых вод для предотвращения лесных пожаров",
+      "title_en": "Indonesia develops groundwater level monitoring system to curb wildfires",
+      "date": "2026-09-01",
+      "summary": "Национальное агентство исследований и инноваций Индонезии (BRIN) разработало систему мониторинга уровня грунтовых вод для предотвращения лесных пожаров. Технология позволяет прогнозировать пожароопасные условия и принимать превентивные меры по защите лесов.",
+      "category": "tech",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/429303/brin-develops-groundwater-level-monitoring-system-to-curb-wildfires"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-01",
+      "id": "a398e5e0964b"
+    },
+    {
+      "title_ru": "Археологи изучают фигуративное искусство возрастом 67 800 лет на Сулавеси",
+      "title_en": "Archaeologists study 67,800-year-old figurative art in Sulawesi",
+      "date": "2026-09-01",
+      "summary": "Археологи проводят исследование фигуративного искусства возрастом 67 800 лет, обнаруженного на индонезийском острове Сулавеси. Находка представляет собой одно из древнейших свидетельств художественного творчества человека и проливает свет на ранние этапы развития культуры.",
+      "category": "tech",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/429301/archaeologists-study-67800-year-old-figurative-art-in-sulawesi"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-01",
+      "id": "7d2c9b851100"
+    },
+    {
+      "title_ru": "Instagram осознаёт, что пользователям не нравится, когда их обманывают создатели ИИ",
+      "title_en": "Instagram is waking up to the fact that people don't like being tricked by AI creators",
+      "date": "2026-09-01",
+      "summary": "Социальная сеть Instagram начинает осознавать, что пользователям не нравится, когда их вводят в заблуждение создатели контента с использованием искусственного интеллекта. Платформа рассматривает меры по маркировке и регулированию ИИ-генерируемого контента для повышения прозрачности.",
+      "category": "tech",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/01/instagram-is-waking-up-to-the-fact-that-people-dont-like-being-tricked-by-ai-creators/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-01",
+      "id": "0fb0976c400d"
+    },
+    {
+      "title_ru": "Доходность японских облигаций достигла 30-летнего максимума в 3% на фоне глобальной распродажи долга",
+      "title_en": "Japan benchmark bond yield hits 30-year high of 3% amid global debt selloff",
+      "date": "2026-09-01",
+      "summary": "Доходность эталонных японских государственных облигаций достигла 30-летнего максимума в 3% на фоне глобальной распродажи долговых инструментов. Это отражает давление на рынки облигаций после заседаний центральных банков и изменения монетарной политики.",
+      "category": "finance",
+      "sources": [
+        "asia.nikkei.com"
+      ],
+      "links": [
+        "https://asia.nikkei.com/business/markets/bonds/japan-benchmark-bond-yield-hits-30-year-high-of-3-amid-global-debt-selloff"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-01",
+      "id": "993cb0a488b5"
+    },
+    {
+      "title_ru": "Бывшие инженеры DJI собрали $250 000 на создание «первой в мире роботизированной камеры с экстремальным зумом»",
+      "title_en": "Former DJI engineers raise $250,000 for 'world's first robotic extreme zoom camera'",
+      "date": "2026-09-01",
+      "summary": "Бывшие инженеры китайской компании DJI собрали 250 000 долларов на краудфандинговой платформе для разработки того, что они называют «первой в мире роботизированной камерой с экстремальным зумом». Проект направлен на создание инновационного оборудования для профессиональной фотографии и видеосъёмки.",
+      "category": "photo",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/08/31/former-dji-engineers-raise-250000-for-worlds-first-robotic-extreme-zoom-camera/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-01",
+      "id": "fb710c1cfbd8"
     }
   ],
   "_stats": {
-    "total_tokens": 1249506,
-    "total_cost": 218.04808799999995
+    "total_tokens": 1259143,
+    "total_cost": 218.68818799999994
   }
 }
