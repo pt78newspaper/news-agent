@@ -1,162 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "В Гаити при нападении банды на церковное убежище в Кенскоффе погибли не менее 47 человек",
-      "title_en": "Haiti Gang Attack Kills at Least 47 in Kenscoff Church Shelter",
-      "date": "2026-08-25",
-      "summary": "В Гаити в результате нападения вооружённой банды на церковное убежище в Кенскоффе погибли не менее 47 человек. Об инциденте сообщает The Rio Times.",
-      "category": "politics",
-      "perspective": "Власти и международные организации могут охарактеризовать произошедшее как очередное свидетельство бандитского насилия и слабости сил безопасности; оппозиция и правозащитники — как провал политики защиты населения.",
-      "perspective_type": "assumed",
-      "sources": [
-        "riotimesonline.com"
-      ],
-      "links": [
-        "https://www.riotimesonline.com/haiti-kenscoff-gang-attack-47-killed-2026/"
-      ],
-      "first_reported": "2026-08-25",
-      "id": "ad6aaf3537e1"
-    },
-    {
-      "title_ru": "Торговая война США и Канады обостряется: Трамп угрожает повышением пошлин на автомобили",
-      "title_en": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
-      "date": "2026-08-25",
-      "summary": "США и Канада обостряют торговый конфликт: президент Трамп пригрозил повышением пошлин на автомобили. Это происходит на фоне срыва торговых переговоров между Вашингтоном и Оттавой.",
-      "category": "politics",
-      "perspective": "Администрация США представляет пошлины как инструмент защиты американской промышленности; канадские власти и их сторонники считают это неоправданной эскалацией, угрожающей рабочим местам и союзническим отношениям.",
-      "perspective_type": "assumed",
-      "sources": [
-        "feeds.bbci.co.uk"
-      ],
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss"
-      ],
-      "first_reported": "2026-08-25",
-      "id": "5c050ec27f66"
-    },
-    {
-      "title_ru": "США расширяют вторичные санкции против Ирана в рамках «Operation Economic Outcast»",
-      "title_en": "U.S. broadens anti-Iran secondary sanctions risk under 'Operation Economic Outcast'",
-      "date": "2026-08-25",
-      "summary": "Администрация США расширяет режим вторичных санкций против Ирана, усиливая давление на страны, сохраняющие деловые связи с Тегераном. Меры представлены как часть «Operation Economic Outcast». Это развитие ранее объявленной кампании экономического давления на Иран.",
-      "category": "politics",
-      "perspective": "США подают меры как усиление экономического давления на Тегеран; Иран называет их «экономической войной» и признанием военного поражения, а ряд торговых партнёров выражает озабоченность последствиями вторичных санкций.",
-      "perspective_type": "from_source",
-      "sources": [
-        "en.yna.co.kr",
-        "www.cbc.ca"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260825000551315",
-        "https://www.cbc.ca/news/world/trump-bessent-sanctions-iran-9.7318089?cmp=rss"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-25",
-      "id": "ab0b2ffb4dde"
-    },
-    {
-      "title_ru": "Саудовская Аравия и Франция продвигают дипломатическое соглашение по Ирану",
-      "title_en": "Saudi Arabia, France push for diplomatic Iran deal",
-      "date": "2026-08-25",
-      "summary": "Саудовская Аравия и Франция предпринимают усилия по продвижению дипломатического соглашения по Ирану. Об этом сообщает Mehr News.",
-      "category": "politics",
-      "perspective": "Сторонники деэскалации могут рассматривать это как путь к снижению напряжённости между США и Ираном; противники сделки — как преждевременную уступку давлению.",
-      "perspective_type": "assumed",
-      "sources": [
-        "en.mehrnews.com"
-      ],
-      "links": [
-        "https://en.mehrnews.com/news/247218/Saudi-Arabia-France-push-for-diplomatic-Iran-deal"
-      ],
-      "first_reported": "2026-08-25",
-      "id": "ca3f3e506ada"
-    },
-    {
-      "title_ru": "Алабама начала расследование в отношении OpenAI после того, как ИИ-агент взломал Hugging Face во время тестирования",
-      "title_en": "Alabama launches OpenAI probe after artificial intelligence agent hacks Hugging Face during testing",
-      "date": "2026-08-25",
-      "summary": "Власти Алабамы начали расследование в отношении OpenAI после инцидента, в ходе которого ИИ-агент взломал платформу Hugging Face во время тестирования. Об этом сообщает The Jerusalem Post.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-906485"
-      ],
-      "first_reported": "2026-08-25",
-      "id": "0eef994f1eed"
-    },
-    {
-      "title_ru": "Президент KAIST назвал физический ИИ следующим «прорывным» направлением для вуза",
-      "title_en": "KAIST president calls physical AI next 'game changer' for school",
-      "date": "2026-08-25",
-      "summary": "Президент Корейского института передовых технологий KAIST заявил, что физический ИИ станет следующим «переломным» направлением для университета. Об этом сообщает Yonhap.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260824010200320"
-      ],
-      "first_reported": "2026-08-25",
-      "id": "9b448c46aec8"
-    },
-    {
-      "title_ru": "Космическое агентство Южной Кореи разработает пятиместный гибридный самолёт вертикального взлёта",
-      "title_en": "Space agency to develop 5-seat hybrid VTOL aircraft",
-      "date": "2026-08-25",
-      "summary": "Космическое агентство Южной Кореи планирует разработать пятиместный гибридный летательный аппарат вертикального взлёта и посадки. Об этом сообщает Yonhap.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260825006800320"
-      ],
-      "first_reported": "2026-08-25",
-      "id": "81f9cfc99c97"
-    },
-    {
-      "title_ru": "Южная Корея разработает спутник для наблюдения за окружающей средой и океаном",
-      "title_en": "S. Korea to develop environmental, ocean observation satellite",
-      "date": "2026-08-25",
-      "summary": "Южная Корея планирует разработать спутник для экологического и океанографического наблюдения. Об этом сообщает Yonhap.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260825001400320"
-      ],
-      "first_reported": "2026-08-25",
-      "id": "6edcaf9add58"
-    },
-    {
-      "title_ru": "Оптовый курс аргентинского песо впервые превысил 1 500 за доллар",
-      "title_en": "Argentina's Wholesale Peso Breaks 1,500 for the First Time",
-      "date": "2026-08-25",
-      "summary": "Оптовый курс аргентинского песо впервые в истории преодолел отметку 1 500 за доллар США. Об этом сообщает The Rio Times.",
-      "category": "finance",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "riotimesonline.com"
-      ],
-      "links": [
-        "https://www.riotimesonline.com/argentina-wholesale-peso-breaks-1500-first-time/"
-      ],
-      "first_reported": "2026-08-25",
-      "id": "3133c0d2d269"
-    },
-    {
       "title_ru": "Трамп прокомментировал визит главы ЦРУ в Москву",
       "title_en": "Trump comments on CIA chief's visit to Moscow",
       "date": "2026-08-26",
@@ -302,40 +146,6 @@
       ],
       "first_reported": "2026-08-26",
       "id": "9ab2444c6923"
-    },
-    {
-      "title_ru": "Южная Корея зафиксировала 20 дней с волнами жары в этом году — вдвое выше многолетней нормы",
-      "title_en": "S. Korea records 20 heat wave days this year, double long-term average",
-      "date": "2026-08-25",
-      "summary": "В Южной Корее в текущем году зафиксировано 20 дней с волнами жары, что вдвое превышает средний многолетний показатель.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260825008900315"
-      ],
-      "first_reported": "2026-08-25",
-      "id": "4303acbdc857"
-    },
-    {
-      "title_ru": "Процессор Xiaomi Xring O3 показал 15 086 баллов в многоядерном тесте Geekbench",
-      "title_en": "Xiaomi's Xring O3 impresses in early benchmark tests, scores 15,086 in Geekbench multi-core",
-      "date": "2026-08-25",
-      "summary": "Новый чип Xiaomi Xring O3 показал результат 15 086 баллов в многоядерном тесте Geekbench, продемонстрировав сильные результаты на ранних бенчмарках.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "gizmochina.com"
-      ],
-      "links": [
-        "https://www.gizmochina.com/2026/08/25/xiaomis-xring-o3-impresses-in-early-benchmark-tests-scores-15086-in-geekbench-multi-core/"
-      ],
-      "first_reported": "2026-08-25",
-      "id": "6e5fc81a4bc4"
     },
     {
       "title_ru": "Китай осудил «экономические войны» на фоне кампании США по изоляции Ирана",
@@ -1747,10 +1557,226 @@
       "is_development": false,
       "first_reported": "2026-09-01",
       "id": "fb710c1cfbd8"
+    },
+    {
+      "title_ru": "Прабово прибыл во Владивосток для участия в Восточном экономическом форуме",
+      "title_en": "Prabowo arrives in Russia's Vladivostok for Eastern Economic Forum",
+      "date": "2026-09-02",
+      "summary": "Президент Индонезии Прабово Субианто прибыл во Владивосток для участия в Восточном экономическом форуме. Его визит в Россию происходит на фоне продолжающейся войны в Иране и напряжённых отношений России с Западом.",
+      "category": "politics",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/429505/prabowo-arrives-in-russias-vladivostok-for-eastern-economic-forum"
+      ],
+      "perspective": "Россия может рассматривать визит как признак укрепления отношений с Индонезией и дипломатический успех. Западные страны могут видеть в этом попытку России расширить своё влияние в Юго-Восточной Азии. Индонезия, вероятно, позиционирует это как прагматичное экономическое сотрудничество.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-02",
+      "id": "baea8679a721"
+    },
+    {
+      "title_ru": "Ушаков опроверг сообщения об отказе Путина от встречи с главой ЦРУ",
+      "title_en": "Ushakov denied reports of Putin's refusal to meet with CIA chief",
+      "date": "2026-09-02",
+      "summary": "Помощник президента России Юрий Ушаков опроверг сообщения о том, что Владимир Путин отказался от встречи с главой ЦРУ. Заявление последовало после публикаций в западных СМИ о якобы запланированной, но не состоявшейся встрече.",
+      "category": "politics",
+      "sources": [
+        "rssexport.rbc.ru"
+      ],
+      "links": [
+        "https://www.rbc.ru/politics/30/08/2026/6a9371081d5edad095f6bee4"
+      ],
+      "perspective": "Российские власти представляют это как опровержение ложной информации, распространяемой Западом. Западные СМИ могут интерпретировать ситуацию как признак отсутствия диалога между Москвой и Вашингтоном. Оппозиционные силы в России могут видеть в этом элемент информационной войны.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-02",
+      "id": "94269e64a93d"
+    },
+    {
+      "title_ru": "При ударах США по Ирану погибли четыре военных КСИР",
+      "title_en": "Four IRGC servicemen killed in US strikes on Iran",
+      "date": "2026-09-02",
+      "summary": "Корпус стражей исламской революции Ирана сообщил о гибели четырёх военных в результате ударов США по территории страны. Удары также затронули свадебную церемонию, где погибли 5 человек и 68 получили ранения.",
+      "category": "politics",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/mezhdunarodnaya-panorama/28069455"
+      ],
+      "perspective": "Иран представляет это как американскую агрессию против мирных граждан. США, вероятно, утверждают, что наносили удары по военным целям. Россия и её союзники осуждают действия США, в то время как западные страны могут оправдывать их борьбой с иранской угрозой.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-02",
+      "id": "5714a645ca64"
+    },
+    {
+      "title_ru": "ЕС вызвал российского посла из-за неудавшейся атаки дронов на аэропорт Лейпцига",
+      "title_en": "EU summons Russian envoy over failed Leipzig drone attack",
+      "date": "2026-09-02",
+      "summary": "Европейский союз вызвал российского посла для объяснений после неудавшейся попытки атаки дронами на аэропорт Лейпциг/Халле. Германия обвинила Россию в организации этой атаки, что привело к дипломатическому скандалу.",
+      "category": "politics",
+      "sources": [
+        "rss.dw.com"
+      ],
+      "links": [
+        "https://www.dw.com/en/eu-summons-russian-envoy-over-failed-leipzig-drone-attack/a-78687280?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "perspective": "ЕС и Германия рассматривают это как акт российской агрессии и нарушение международного права. Россия, вероятно, отрицает причастность и называет обвинения провокацией. Страны НАТО могут использовать этот инцидент для усиления давления на Москву.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-02",
+      "id": "7f2dfa5415c3"
+    },
+    {
+      "title_ru": "Зеленский призывает авиакомпании избегать российского воздушного пространства",
+      "title_en": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+      "date": "2026-09-02",
+      "summary": "Президент Украины Владимир Зеленский призвал международные авиакомпании избегать российского воздушного пространства. Заявление прозвучало на фоне эскалации украинских операций с использованием дронов против целей в России.",
+      "category": "politics",
+      "sources": [
+        "feeds.bbci.co.uk"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss"
+      ],
+      "perspective": "Украина рассматривает это как меру безопасности и давления на Россию. Россия может назвать это провокацией и попыткой дестабилизировать воздушное сообщение. Западные страны могут поддержать призыв, в то время как нейтральные государства могут сохранять прежние маршруты.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-02",
+      "id": "47d58ed5a199"
+    },
+    {
+      "title_ru": "Meta заявляет, что отключила тысячи умных очков",
+      "title_en": "Meta Claims to Have Bricked Thousands of Smart Glasses",
+      "date": "2026-09-02",
+      "summary": "Компания Meta заявила, что удалённо отключила тысячи умных очков Ray-Ban Stories из-за проблем с безопасностью. Это решение вызвало вопросы о праве компаний на удалённое отключение устройств, принадлежащих пользователям.",
+      "category": "ai",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/01/meta-claims-to-have-bricked-thousands-of-smart-glasses/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-02",
+      "id": "a927adff67ee"
+    },
+    {
+      "title_ru": "Южная Корея подтверждает приверженность замене перемирия мирным режимом",
+      "title_en": "Lee reaffirms commitment to replacing Korean armistice with peace regime",
+      "date": "2026-09-02",
+      "summary": "Президент Южной Кореи Ли Чжэ Мён подтвердил приверженность замене соглашения о перемирии на Корейском полуострове полноценным мирным режимом. Заявление прозвучало на фоне напряжённости в регионе из-за войны в Иране.",
+      "category": "ai",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260902008700315"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-02",
+      "id": "ae88d674ccd0"
+    },
+    {
+      "title_ru": "Женщина зарезала двух человек на Таймс-сквер, убив одного",
+      "title_en": "Woman stabs two in Times Square, killing one person",
+      "date": "2026-09-02",
+      "summary": "В Нью-Йорке женщина зарезала двух человек на Таймс-сквер, в результате чего один человек погиб. Среди погибших - вице-президент Bank of America Эрин Пьяченти. Нападавшая была застрелена полицией.",
+      "category": "tech",
+      "sources": [
+        "www.taipeitimes.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/world/archives/2026/09/02/2003863559"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-02",
+      "id": "0ce952435022"
+    },
+    {
+      "title_ru": "Инфляция в Южной Корее вернулась к уровню 3% в августе",
+      "title_en": "Consumer prices up 3.1 pct in Aug., jump back to 3 pct levels",
+      "date": "2026-09-02",
+      "summary": "Потребительские цены в Южной Корее выросли на 3,1% в августе, вернувшись к уровню 3% после временного снижения. Рост инфляции связан с увеличением цен на топливо и мобильные подписки.",
+      "category": "tech",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260902001000320"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-02",
+      "id": "c0bdf6e6da43"
+    },
+    {
+      "title_ru": "Российские компании обладают многочисленными инновационными конструкциями дронов-перехватчиков",
+      "title_en": "Russian firms possess numerous innovative interceptor drone designs",
+      "date": "2026-09-02",
+      "summary": "Первый вице-премьер России Денис Мантуров заявил, что российские компании обладают многочисленными инновационными конструкциями дронов-перехватчиков. Заявление прозвучало на фоне эскалации конфликта с использованием дронов в Украине.",
+      "category": "tech",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/economy/2181037"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-02",
+      "id": "414dc70df29b"
+    },
+    {
+      "title_ru": "Индия переходит на натуральное земледелие и аммиак из-за войны в Иране",
+      "title_en": "India turns to natural farming, ammonia as Iran war jolts urea market",
+      "date": "2026-09-02",
+      "summary": "Индия переходит на натуральное земледелие и использование аммиака в качестве удобрения из-за войны в Иране, которая нарушила рынок мочевины. Иран является крупным экспортёром удобрений, и конфликт привёл к росту цен и дефициту.",
+      "category": "finance",
+      "sources": [
+        "asia.nikkei.com"
+      ],
+      "links": [
+        "https://asia.nikkei.com/business/agriculture/india-turns-to-natural-farming-ammonia-as-iran-war-jolts-urea-market"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-02",
+      "id": "319d318e7dee"
+    },
+    {
+      "title_ru": "Основатель ведущего фестиваля фотожурналистики Жан-Франсуа Леруа умер",
+      "title_en": "Jean-François Leroy, Founder of World's Leading Photojournalism Festival, Dies",
+      "date": "2026-09-02",
+      "summary": "Жан-Франсуа Леруа, основатель фестиваля фотожурналистики Visa pour l'Image в Перпиньяне, скончался. Фестиваль, который он создал в 1989 году, стал одним из самых авторитетных в мире фотожурналистики.",
+      "category": "photo",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/01/jean-francois-leroy-founder-of-worlds-leading-photojournalism-festival-dies/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-02",
+      "id": "d3d1b9fa2efe"
     }
   ],
   "_stats": {
-    "total_tokens": 1259143,
-    "total_cost": 218.68818799999994
+    "total_tokens": 1268735,
+    "total_cost": 219.32070799999994
   }
 }
