@@ -1,188 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Трамп прокомментировал визит главы ЦРУ в Москву",
-      "title_en": "Trump comments on CIA chief's visit to Moscow",
-      "date": "2026-08-26",
-      "summary": "Президент США Дональд Трамп заявил, что визит главы ЦРУ в Москву не связан с Ираном или эскалацией с НАТО, и отметил, что поездка может принести результаты.",
-      "category": "politics",
-      "perspective": "Одни политические силы могут рассматривать визит как сигнал к деэскалации и возможному диалогу Москвы и Вашингтона; другие — как непрозрачные контакты спецслужб, требующие парламентского контроля.",
-      "perspective_type": "assumed",
-      "sources": [
-        "kommersant.ru",
-        "tass.ru",
-        "ria.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8908955",
-        "https://tass.ru/mezhdunarodnaya-panorama/28047059",
-        "https://ria.ru/20260826/tramp-2113331307.html"
-      ],
-      "first_reported": "2026-08-26",
-      "id": "1239692b8622"
-    },
-    {
-      "title_ru": "Пасечник: девять человек погибли при ударе ВСУ по автобусу Лисичанск-Стаханов",
-      "title_en": "Nine killed in Ukrainian drone attack on bus in LPR",
-      "date": "2026-08-26",
-      "summary": "Глава ЛНР Леонид Пасечник сообщил, что украинский дрон атаковал автобус, следовавший из Лисичанска в Стаханов; погибли девять человек.",
-      "category": "politics",
-      "perspective": "Власти ЛНР и российские источники квалифицируют произошедшее как удар по гражданскому транспорту; с другой стороны, возможны иные трактовки обстоятельств и контекста атаки.",
-      "perspective_type": "assumed",
-      "sources": [
-        "tass.ru",
-        "ria.ru"
-      ],
-      "links": [
-        "https://tass.ru/proisshestviya/28047173",
-        "https://ria.ru/20260826/lnr-2113338225.html"
-      ],
-      "first_reported": "2026-08-26",
-      "id": "ffe91e944b28"
-    },
-    {
-      "title_ru": "Число жертв пожара на Амурском ГХК выросло до восьми",
-      "title_en": "Death toll in fire at Amur Gas Chemical Complex rises to eight",
-      "date": "2026-08-26",
-      "summary": "Спасатели обнаружили тело восьмого погибшего при пожаре на Амурском газохимическом комплексе. Ранее сообщалось о семи погибших и девяти пропавших без вести.",
-      "category": "politics",
-      "perspective": "Экстренные службы акцентируют ход спасательной операции; профсоюзы и оппозиция могут поднимать вопросы охраны труда и ответственности за промышленную безопасность.",
-      "perspective_type": "assumed",
-      "sources": [
-        "rbc.ru",
-        "kommersant.ru"
-      ],
-      "links": [
-        "https://www.rbc.ru/society/26/08/2026/6a8e77549a794701606cb0b3",
-        "https://www.kommersant.ru/doc/8908611",
-        "https://www.kommersant.ru/doc/8908385"
-      ],
-      "first_reported": "2026-08-26",
-      "id": "d7cf17b4c405"
-    },
-    {
-      "title_ru": "Склад Wildberries в Котовске полностью сгорел после атаки БПЛА",
-      "title_en": "Wildberries warehouse in Kotovsk completely burned after drone attack",
-      "date": "2026-08-26",
-      "summary": "После атаки беспилотника склад Wildberries в Котовске полностью сгорел, пострадали два человека. По факту атаки возбуждено дело о теракте.",
-      "category": "politics",
-      "perspective": "Российские власти рассматривают атаку как теракт и угрозу объектам экономики; независимые наблюдатели могут обращать внимание на безопасность гражданских объектов и последствия для работников.",
-      "perspective_type": "assumed",
-      "sources": [
-        "kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8908562",
-        "https://www.kommersant.ru/doc/8908583",
-        "https://www.kommersant.ru/doc/8908596"
-      ],
-      "first_reported": "2026-08-26",
-      "id": "bbd77fbed7c1"
-    },
-    {
-      "title_ru": "Прабово поручил BRIN разработать технологии опреснения для удалённых районов",
-      "title_en": "Prabowo orders BRIN to develop desalination tech for remote areas",
-      "date": "2026-08-26",
-      "summary": "Президент Индонезии Прабово Субианто поручил Национальному агентству исследований и инноваций BRIN разработать технологии опреснения воды для удалённых районов страны.",
-      "category": "politics",
-      "perspective": "Власти подают инициативу как решение проблемы доступа к чистой воде в удалённых районах; оппозиция и эксперты могут оценивать реализуемость и достаточность финансирования.",
-      "perspective_type": "assumed",
-      "sources": [
-        "en.antaranews.com"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/428589/prabowo-orders-brin-to-develop-desalination-tech-for-remote-areas"
-      ],
-      "first_reported": "2026-08-26",
-      "id": "25b34ebe6525"
-    },
-    {
-      "title_ru": "Делегация Южной Кореи приняла участие в церемонии открытия инициативы ATLAS",
-      "title_en": "S. Korea delegation attends inauguration ceremony of ATLAS initiative",
-      "date": "2026-08-26",
-      "summary": "Южная Корея направила делегацию для участия в церемонии запуска инициативы ATLAS. Детали инициативы в сообщении не раскрываются.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260826005400320"
-      ],
-      "first_reported": "2026-08-26",
-      "id": "b5076bfe3ab0"
-    },
-    {
-      "title_ru": "Полиция Южной Кореи заново проверит 310 000 закрытых за три года дел о пропавших без вести",
-      "title_en": "Police to reexamine 310,000 missing person cases closed in past 3 yrs",
-      "date": "2026-08-26",
-      "summary": "Южнокорейская полиция намерена повторно изучить около 310 тысяч дел о пропавших без вести, закрытых за последние три года.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260826009100320"
-      ],
-      "first_reported": "2026-08-26",
-      "id": "3dc30a8614e6"
-    },
-    {
-      "title_ru": "В Европе зафиксировано как минимум на 35 000 больше смертей от жары",
-      "title_en": "Europe records at least 35,000 more deaths from heat",
-      "date": "2026-08-26",
-      "summary": "Согласно сообщению Taipei Times, в Европе зарегистрировано по меньшей мере на 35 тысяч больше смертей, связанных с жарой.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "taipeitimes.com"
-      ],
-      "links": [
-        "https://www.taipeitimes.com/News/front/archives/2026/08/26/2003863141"
-      ],
-      "first_reported": "2026-08-26",
-      "id": "9ab2444c6923"
-    },
-    {
-      "title_ru": "Китай осудил «экономические войны» на фоне кампании США по изоляции Ирана",
-      "title_en": "China denounces 'economic wars' as US starts campaign to cut off Iran",
-      "date": "2026-08-26",
-      "summary": "Китай выступил с осуждением «экономических войн» в связи с началом кампании США по отрезанию Ирана от внешних рынков. Это развитие ранее освещавшейся темы санкционного давления Вашингтона на Иран.",
-      "category": "finance",
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": true,
-      "sources": [
-        "asia.nikkei.com"
-      ],
-      "links": [
-        "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-denounces-economic-wars-as-us-starts-campaign-to-cut-off-iran"
-      ],
-      "first_reported": "2026-08-26",
-      "id": "c9da776e336b"
-    },
-    {
-      "title_ru": "Miller Tripods закрывается почти после 80 лет работы",
-      "title_en": "Miller Tripods is closing down after nearly 80 years of business",
-      "date": "2026-08-26",
-      "summary": "Производитель штативов Miller Tripods объявил о закрытии бизнеса почти после 80 лет работы.",
-      "category": "photo",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/08/26/miller-tripods-is-closing-down-after-nearly-80-years-of-business/"
-      ],
-      "first_reported": "2026-08-26",
-      "id": "574da9b1bdd7"
-    },
-    {
       "title_ru": "В Германии два человека погибли при нападении на частную школу",
       "title_en": "Two killed in attack on private school in Germany",
       "date": "2026-08-27",
@@ -1773,10 +1591,243 @@
       "is_development": false,
       "first_reported": "2026-09-02",
       "id": "d3d1b9fa2efe"
+    },
+    {
+      "title_ru": "Массированная атака дронов на Москву: сбито более 86 беспилотников",
+      "title_en": "Massive drone attack on Moscow: over 86 drones shot down",
+      "date": "2026-09-03",
+      "summary": "Российские силы ПВО отразили масштабную атаку беспилотников на Москву. По данным разных источников, было сбито от 8 до более 86 дронов, причем количество перехваченных целей увеличивалось в течение дня.",
+      "category": "politics",
+      "sources": [
+        "ria.ru",
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260903/sobjanin-2115116879.html",
+        "https://www.kommersant.ru/doc/8924772",
+        "https://www.kommersant.ru/doc/8924730",
+        "https://www.kommersant.ru/doc/8924698",
+        "https://www.kommersant.ru/doc/8924651"
+      ],
+      "perspective": "Российские власти представят это как успех системы ПВО, в то время как украинская сторона может рассматривать атаку как демонстрацию уязвимости российской обороны. Западные аналитики могут обсуждать эскалацию конфликта.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-03",
+      "id": "fe4a0fc5731f"
+    },
+    {
+      "title_ru": "Путин заявил о контактах с представителями администрации Трампа",
+      "title_en": "Putin says contacts with Trump administration representatives are ongoing",
+      "date": "2026-09-03",
+      "summary": "Президент России Владимир Путин сообщил, что контакты с назначенными Дональдом Трампом представителями США продолжаются. Он также отметил, что Трамп настроен на позитивную и конструктивную работу, а у России много друзей в США.",
+      "category": "politics",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260903/putin-2115137686.html",
+        "https://ria.ru/20260903/druzya-2115136079.html",
+        "https://ria.ru/20260903/putin-2115135499.html"
+      ],
+      "perspective": "Российские власти представят это как признак нормализации отношений с США. Западные критики могут выражать обеспокоенность по поводу сближения России и США. Оппоненты Трампа могут использовать это как доказательство его пророссийской позиции.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-03",
+      "id": "ea2b715fb5cd"
+    },
+    {
+      "title_ru": "Путин обвинил Киев в осложнении мирного урегулирования",
+      "title_en": "Putin accuses Kyiv of complicating peaceful settlement",
+      "date": "2026-09-03",
+      "summary": "Президент России Владимир Путин заявил, что действия Киева осложняют возможности мирного урегулирования конфликта. При этом он подтвердил, что контакты России с Украиной продолжаются.",
+      "category": "politics",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260903/putin-2115138093.html",
+        "https://ria.ru/20260903/putin-2115137190.html"
+      ],
+      "perspective": "Российская сторона представит это как доказательство нежелания Украины идти на мирные переговоры. Украина и её западные союзники могут обвинять Россию в попытке переложить ответственность за продолжение конфликта. Нейтральные наблюдатели могут рассматривать это как риторику в рамках информационной войны.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-03",
+      "id": "592ede09b941"
+    },
+    {
+      "title_ru": "Иран противостоит E3 по вопросу восстановления санкций при поддержке России и Китая",
+      "title_en": "Iran faces off with E3 over snapback sanctions as Russia and China back Tehran",
+      "date": "2026-09-03",
+      "summary": "Иран вступил в противостояние с европейской тройкой (Великобритания, Франция, Германия) по вопросу восстановления санкций против Тегерана. Россия и Китай поддержали Иран в этом споре, что указывает на укрепление антизападного альянса.",
+      "category": "politics",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.ir/Detail/2025/08/29/753991/Iran-faces-off-with-E3-over-snapback-sanctions-as-Russia-and-China-back-Tehran"
+      ],
+      "perspective": "Иран и его союзники представят это как сопротивление несправедливому давлению Запада. Западные страны могут рассматривать это как попытку Ирана избежать ответственности за нарушение ядерной сделки. Страны E3 могут обвинять Россию и Китай в подрыве международных усилий по нераспространению.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-03",
+      "id": "c11c531a36c2"
+    },
+    {
+      "title_ru": "Президент Индонезии Прабово и Путин подчеркнули укрепление партнерства",
+      "title_en": "Prabowo, Putin highlight stronger Indonesia-Russia partnership",
+      "date": "2026-09-03",
+      "summary": "Президент Индонезии Прабово Субианто и российский лидер Владимир Путин провели переговоры, в ходе которых подчеркнули укрепление стратегического партнерства между двумя странами. Это свидетельствует о расширении российского влияния в Юго-Восточной Азии.",
+      "category": "politics",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/429689/prabowo-putin-highlight-stronger-indonesia-russia-partnership"
+      ],
+      "perspective": "Россия и Индонезия представят это как взаимовыгодное сотрудничество. Западные страны могут выражать обеспокоенность по поводу расширения российского влияния в регионе. Китай может внимательно следить за развитием отношений, учитывая свои интересы в Юго-Восточной Азии.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-03",
+      "id": "763397f5d2c4"
+    },
+    {
+      "title_ru": "Биткоин стабилен около $77 300; углубляется переход на стейблкоины в Латинской Америке",
+      "title_en": "Bitcoin Steady Near $77,300; LatAm Stablecoin Shift Deepens",
+      "date": "2026-09-03",
+      "summary": "Криптовалюта биткоин демонстрирует стабильность в районе $77 300. Одновременно в странах Латинской Америки углубляется переход на стейблкоины (стабильные криптовалюты), что отражает растущее принятие цифровых активов в регионе.",
+      "category": "ai",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-thursday-september-3-2026/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-03",
+      "id": "f29b2d1e56c1"
+    },
+    {
+      "title_ru": "Южнокорейский президент Ли встречается с главой Hyundai Motor для переговоров об инвестициях",
+      "title_en": "Lee meets Hyundai Motor chief for possible investment talks",
+      "date": "2026-09-03",
+      "summary": "Президент Южной Кореи Ли встретился с председателем Hyundai Motor для обсуждения возможных инвестиций. Встреча свидетельствует о тесном взаимодействии правительства с крупнейшими промышленными конгломератами страны для стимулирования экономического роста.",
+      "category": "ai",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260903009400315"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-03",
+      "id": "12538f1715c0"
+    },
+    {
+      "title_ru": "Взлом данных Tving: скомпрометированы почти 40 миллионов аккаунтов",
+      "title_en": "Nearly 40 mln Tving accounts compromised in massive data breach: probe",
+      "date": "2026-09-03",
+      "summary": "В Южной Корее произошел масштабный взлом данных стримингового сервиса Tving, в результате которого были скомпрометированы учетные записи почти 40 миллионов пользователей. Расследование показало, что это одна из крупнейших утечек данных в истории страны.",
+      "category": "tech",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260903006152320",
+        "https://en.yna.co.kr/view/AEN20260903006151320",
+        "https://en.yna.co.kr/view/AEN20260903006100320"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-03",
+      "id": "e53b390a773a"
+    },
+    {
+      "title_ru": "Гонконгский активист Джошуа Вонг признал себя виновным в сговоре с иностранными силами",
+      "title_en": "Hong Kong activist Joshua Wong pleads guilty to foreign collusion",
+      "date": "2026-09-03",
+      "summary": "Известный гонконгский про-демократический активист Джошуа Вонг признал себя виновным в сговоре с иностранными силами по новым обвинениям в соответствии с законом о национальной безопасности. Это знаковое дело в рамках ужесточения контроля Пекина над Гонконгом.",
+      "category": "tech",
+      "sources": [
+        "www.taipeitimes.com",
+        "asia.nikkei.com",
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/world/archives/2026/09/03/2003863620",
+        "https://asia.nikkei.com/spotlight/hong-kong-security-law/hong-kong-activist-joshua-wong-pleads-guilty-to-foreign-collusion",
+        "https://www.nytimes.com/2026/09/02/world/asia/hong-kong-joshua-wong-activist-guilty.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-03",
+      "id": "b149c21f0d80"
+    },
+    {
+      "title_ru": "Новая открытая камера со сменными сенсорами и креплениями для объективов",
+      "title_en": "This New Open-Source Camera Has Swappable Sensors and Lens Mounts",
+      "date": "2026-09-02",
+      "summary": "Представлена новая открытая камера с модульной архитектурой, позволяющей пользователям менять сенсоры и крепления для объективов. Это инновационное решение предоставляет фотографам беспрецедентную гибкость и контроль над оборудованием.",
+      "category": "photo",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/02/this-new-open-source-camera-has-swappable-sensors-and-lens-mounts/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-02",
+      "id": "d320cb5f7f0b"
+    },
+    {
+      "title_ru": "Иена укрепляется на фоне ожиданий повышения процентных ставок в Японии",
+      "title_en": "Yen strengthens as traders bet on Japan interest rate rises",
+      "date": "2026-09-03",
+      "summary": "Японская иена укрепляется на мировых рынках, поскольку трейдеры ожидают повышения процентных ставок Банком Японии. Это происходит на фоне продаж японских облигаций и пересмотра банками ипотечных стратегий в условиях роста ставок.",
+      "category": "finance",
+      "sources": [
+        "www.ft.com",
+        "asia.nikkei.com"
+      ],
+      "links": [
+        "https://www.ft.com/content/22abbb77-1344-4871-9692-97a779b1ba77?syn-25a6b1a6=1",
+        "https://asia.nikkei.com/spotlight/comment/as-bonds-sell-off-japan-needs-the-discipline-of-high-interest-rates",
+        "https://asia.nikkei.com/business/finance/rising-interest-rates-spur-japanese-banks-to-rethink-mortgages"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-03",
+      "id": "c73a33e86abc"
+    },
+    {
+      "title_ru": "Подводная камера впервые зафиксировала рыбу, идущую задом наперед",
+      "title_en": "Underwater Camera Captures a Fish Walking Backward for the First Time",
+      "date": "2026-09-02",
+      "summary": "С помощью подводной камеры ученые впервые зафиксировали уникальное поведение рыбы, похожей на креветку, которая ходит задом наперед. Это открытие проливает свет на ранее неизвестные адаптации морских организмов.",
+      "category": "photo",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/02/underwater-camera-captures-shrimp-like-fish-walking-backward-for-the-first-time/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-02",
+      "id": "9b4f4a1ea303"
     }
   ],
   "_stats": {
-    "total_tokens": 1268735,
-    "total_cost": 219.32070799999994
+    "total_tokens": 1278412,
+    "total_cost": 219.96398799999994
   }
 }
