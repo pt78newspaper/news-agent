@@ -1,246 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "В Германии два человека погибли при нападении на частную школу",
-      "title_en": "Two killed in attack on private school in Germany",
-      "date": "2026-08-27",
-      "summary": "В результате нападения на частную школу в пригороде Берлина погибли два человека. Инцидент произошёл в районе Потсдама, подробности обстоятельств нападения и личности нападавших пока не раскрываются.",
-      "category": "politics",
-      "sources": [
-        "Belta.by",
-        "Коммерсантъ",
-        "РИА Новости"
-      ],
-      "links": [
-        "https://belta.by/world/view/pri-napadenii-v-shkole-pod-berlinom-pogibli-dva-cheloveka-798155-2026/",
-        "https://www.kommersant.ru/doc/8909923",
-        "https://ria.ru/20260827/germaniya-2113621822.html"
-      ],
-      "perspective": "Западные СМИ могут акцентировать вопросы безопасности школ и доступности оружия. Российские источники могут использовать инцидент для критики миграционной политики Германии и проблем с безопасностью в ЕС.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-08-27",
-      "id": "d552e602f04b"
-    },
-    {
-      "title_ru": "В Белгородской области при атаках ВСУ пострадали два мирных жителя",
-      "title_en": "Two civilians injured in attacks by Ukrainian Armed Forces in Belgorod region",
-      "date": "2026-08-27",
-      "summary": "В результате атак Вооружённых сил Украины по Белгородской области пострадали два мирных жителя. Российские власти сообщают о повреждениях инфраструктуры и жилых домов в приграничных районах.",
-      "category": "politics",
-      "sources": [
-        "РИА Новости",
-        "ТАСС"
-      ],
-      "links": [
-        "https://ria.ru/20260827/ataki-2113616544.html",
-        "https://tass.ru/proisshestviya/28050889"
-      ],
-      "perspective": "Российские власти представят это как доказательство агрессии Украины против мирного населения. Украинская сторона может утверждать, что это ответные удары по военным объектам или отрицать причастность.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-08-27",
-      "id": "7a29ae794a09"
-    },
-    {
-      "title_ru": "Китай выступает против санкций США за торговлю с Ираном",
-      "title_en": "China opposes US sanctions threats against countries trading with Iran",
-      "date": "2026-08-27",
-      "summary": "Китай заявил о решительном противодействии угрозам санкций со стороны США в отношении стран, торгующих с Ираном. Пекин подчеркнул, что сотрудничество с Тегераном не должно нарушаться под внешним давлением.",
-      "category": "politics",
-      "sources": [
-        "PressTV",
-        "Le Monde"
-      ],
-      "links": [
-        "https://presstv.ir/Detail/2026/08/25/775041/China-says-cooperation-Iran-should-not-be-disrupted",
-        "https://www.lemonde.fr/en/international/article/2026/08/27/facing-us-sanctions-china-stands-firm-on-iran_6756888_4.html"
-      ],
-      "perspective": "Китай и Россия представят это как защиту суверенитета и международного права. США и их союзники могут рассматривать это как поддержку иранского режима и подрыв санкционного режима.",
-      "perspective_type": "from_source",
-      "is_development": false,
-      "first_reported": "2026-08-27",
-      "id": "fca3fbf9b5ba"
-    },
-    {
-      "title_ru": "Индонезия будет использовать ИИ и дроны для мониторинга иностранцев",
-      "title_en": "Indonesia to use AI, drones to monitor foreign nationals",
-      "date": "2026-08-27",
-      "summary": "Индонезия планирует внедрить систему мониторинга иностранных граждан с использованием искусственного интеллекта и беспилотников. Технология будет применяться для контроля за соблюдением визового режима и предотвращения нелегальной миграции.",
-      "category": "politics",
-      "sources": [
-        "Antara News"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/428775/indonesia-to-use-ai-drones-to-monitor-foreign-nationals"
-      ],
-      "perspective": "Правительство представит это как меру по укреплению национальной безопасности. Правозащитники могут критиковать усиление слежки и потенциальные нарушения приватности иностранных граждан.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-08-27",
-      "id": "48198a2b2974"
-    },
-    {
-      "title_ru": "Прабово оптимистичен по поводу будущего Индонезии",
-      "title_en": "Prabowo optimistic Indonesia to emerge stronger, more self-reliant",
-      "date": "2026-08-27",
-      "summary": "Президент Индонезии Прабово Субианто выразил уверенность в том, что страна станет сильнее и более самодостаточной. Он подчеркнул важность экономической устойчивости и технологического развития для будущего нации.",
-      "category": "politics",
-      "sources": [
-        "Antara News"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/428768/prabowo-optimistic-indonesia-to-emerge-stronger-more-self-reliant"
-      ],
-      "perspective": "Правительство представит это как видение национального развития. Оппозиция может критиковать риторику без конкретных планов или указывать на экономические проблемы.",
-      "perspective_type": "from_source",
-      "is_development": false,
-      "first_reported": "2026-08-27",
-      "id": "99f646212a9f"
-    },
-    {
-      "title_ru": "В Непале пропавшими без вести после паводка числятся более 900 человек",
-      "title_en": "Over 900 people missing after flash floods in Nepal",
-      "date": "2026-08-27",
-      "summary": "После разрушительных паводков на границе Непала и Китая пропавшими без вести числятся более 900 человек. Спасательные операции продолжаются, уже спасены 27 иностранных туристов, включая двух россиян.",
-      "category": "ai",
-      "sources": [
-        "ТАСС",
-        "Коммерсантъ",
-        "Taipei Times",
-        "PressTV",
-        "Yonhap"
-      ],
-      "links": [
-        "https://tass.ru/proisshestviya/28050965",
-        "https://www.kommersant.ru/doc/8909809",
-        "https://www.taipeitimes.com/News/world/archives/2026/08/27/2003863230",
-        "https://presstv.ir/Detail/2026/08/27/775150/Aerial-footage-shows-massive-floods-in-Nepal-Rasuwa-district",
-        "https://en.yna.co.kr/view/AEN20260827001055315"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-08-27",
-      "id": "268560b526bf"
-    },
-    {
-      "title_ru": "США приостановили собеседования по иммиграционным визам по всему миру",
-      "title_en": "US pauses immigrant visa appointments worldwide for consular training",
-      "date": "2026-08-27",
-      "summary": "Госдепартамент США временно приостановил собеседования по иммиграционным визам по всему миру для проведения обучения консульских сотрудников. Мера затронет тысячи заявителей и продлится в течение нескольких недель.",
-      "category": "ai",
-      "sources": [
-        "Rio Times Online"
-      ],
-      "links": [
-        "https://www.riotimesonline.com/us-immigrant-visa-appointments-pause-consular-training-2026/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-08-27",
-      "id": "0cbe3e08d21c"
-    },
-    {
-      "title_ru": "Пожар в пакистанском роддоме унёс жизни 14 новорождённых",
-      "title_en": "Pakistan maternity ward fire kills 14 infants",
-      "date": "2026-08-27",
-      "summary": "В результате пожара в родильном отделении больницы в Исламабаде погибли 14 новорождённых. Трагедия произошла из-за короткого замыкания в системе кондиционирования воздуха, Иран выразил соболезнования Пакистану.",
-      "category": "tech",
-      "sources": [
-        "Taipei Times",
-        "Mehr News",
-        "IRNA",
-        "New York Times"
-      ],
-      "links": [
-        "https://www.taipeitimes.com/News/front/archives/2026/08/27/2003863202",
-        "https://en.mehrnews.com/news/247269/Iran-offers-condolences-to-Pakistan-over-hospital-fire",
-        "https://en.irna.ir/news/86247242/Iran-offers-condolences-to-Pakistan-after-14-newborns-killed",
-        "https://www.nytimes.com/2026/08/26/world/asia/pakistan-islamabad-hospital-fire.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-08-27",
-      "id": "c021417844d6"
-    },
-    {
-      "title_ru": "FDA США одобрило революционный препарат от рака поджелудочной железы",
-      "title_en": "U.S. FDA approves landmark pancreatic cancer drug",
-      "date": "2026-08-27",
-      "summary": "Управление по санитарному надзору за качеством пищевых продуктов и медикаментов США одобрило прорывной препарат для лечения рака поджелудочной железы. Это первое лекарство такого типа, показавшее значительное увеличение выживаемости пациентов.",
-      "category": "tech",
-      "sources": [
-        "The Globe and Mail"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/business/article-us-fda-revolution-pancreatic-cancer-drug/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-08-27",
-      "id": "5a53db1612f6"
-    },
-    {
-      "title_ru": "Стюардесса выиграла прецедентное дело о раке груди",
-      "title_en": "Flight attendant wins landmark breast cancer ruling",
-      "date": "2026-08-27",
-      "summary": "Стюардесса выиграла историческое судебное дело, связанное с раком груди, признанное профессиональным заболеванием. Решение суда создаёт прецедент для работников авиационной отрасли и может повлиять на трудовое законодательство.",
-      "category": "tech",
-      "sources": [
-        "Taipei Times"
-      ],
-      "links": [
-        "https://www.taipeitimes.com/News/world/archives/2026/08/27/2003863231"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-08-27",
-      "id": "fd5b6bd4b81c"
-    },
-    {
-      "title_ru": "Акции Nvidia резко выросли после рекордной квартальной отчётности",
-      "title_en": "Nvidia stock jumps on bullish quarterly report, outlook",
-      "date": "2026-08-27",
-      "summary": "Акции компании Nvidia показали резкий рост после публикации исключительно сильной квартальной отчётности и оптимистичного прогноза. Инвесторы положительно оценили результаты компании на фоне продолжающегося бума искусственного интеллекта.",
-      "category": "finance",
-      "sources": [
-        "Yahoo Finance",
-        "Investor's Business Daily"
-      ],
-      "links": [
-        "https://finance.yahoo.com/markets/stocks/articles/nvidia-blowout-earnings-high-stock-143028461.html",
-        "https://www.investors.com/news/technology/nvidia-stock-jumps-on-bullish-quarterly-report-outlook/?src=A00220&yptr=yahoo"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-08-27",
-      "id": "d3416b0d2334"
-    },
-    {
-      "title_ru": "Гавайская рубашка обманывает системы видеонаблюдения с ИИ",
-      "title_en": "This Hawaiian shirt tricks AI surveillance cameras into thinking you're not human",
-      "date": "2026-08-27",
-      "summary": "Исследователи создали гавайскую рубашку с особым узором, который сбивает с толку системы видеонаблюдения с искусственным интеллектом. Узор заставляет алгоритмы компьютерного зрения ошибочно классифицировать человека как нечеловеческий объект.",
-      "category": "photo",
-      "sources": [
-        "PetaPixel"
-      ],
-      "links": [
-        "https://petapixel.com/2026/08/27/this-hawaiian-shirt-tricks-ai-surveillance-cameras-into-thinking-youre-not-human/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-08-27",
-      "id": "9019fa056e61"
-    },
-    {
       "title_ru": "В Белгородской области пострадали дети при атаках ВСУ",
       "title_en": "Children injured in attacks by Ukrainian Armed Forces in Belgorod region",
       "date": "2026-08-28",
@@ -1824,10 +1584,216 @@
       "is_development": false,
       "first_reported": "2026-09-02",
       "id": "9b4f4a1ea303"
+    },
+    {
+      "title_ru": "Иранская армия сообщает об ударах по базам США в Кувейте и ОАЭ",
+      "title_en": "Iran Army says US bases in Kuwait, UAE hit, communication systems and hangars targeted",
+      "date": "2026-09-04",
+      "summary": "Иранская армия заявила о нанесении ударов по американским базам в Кувейте и Объединенных Арабских Эмиратах. По данным иранских источников, были поражены системы связи и ангары на военных объектах США.",
+      "category": "politics",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.ir/Detail/2026/09/03/775589/Army-Saeqeh-Operation-wave-31-US-bases-Kuwait-UAE"
+      ],
+      "perspective": "Иранские власти представляют это как ответ на американскую агрессию, в то время как США и их союзники, вероятно, расценят это как эскалацию конфликта и нарушение международного права.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-04",
+      "id": "55d492be8f49"
+    },
+    {
+      "title_ru": "Анализ Reuters подтверждает прямое попадание американского боеприпаса в свадебную процессию в Иране",
+      "title_en": "Reuters analysis confirms US munition directly hit wedding party in Iran",
+      "date": "2026-09-04",
+      "summary": "Международное агентство Reuters провело анализ, который подтвердил, что американский боеприпас напрямую попал в свадебную процессию в иранском городе Сирик. Расследование выявило военное преступление США.",
+      "category": "politics",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.ir/Detail/2026/09/04/775627/Reuters-analysis-confirms-US-munition-directly-hit-wedding-party-in-Sirik--Probe-exposes-American-war-crime"
+      ],
+      "perspective": "Иранские власти используют это как доказательство военных преступлений США, в то время как американская сторона может отрицать преднамеренность или ссылаться на ошибки разведки.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-04",
+      "id": "71f3856ada82"
+    },
+    {
+      "title_ru": "Россия и Китай укрепляют сотрудничество в энергетике и Арктике",
+      "title_en": "Russia, China develop LNG project in Arctic — Russian deputy premier",
+      "date": "2026-09-04",
+      "summary": "Россия и Китай развивают проект по производству сжиженного природного газа в Арктике. Также стороны обсуждают ускорение соглашений по проекту \"Мощь Байкала\" и новые проекты в атомной энергетике.",
+      "category": "politics",
+      "sources": [
+        "tass.com",
+        "tass.com",
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/economy/2182459",
+        "https://tass.com/economy/2182461",
+        "https://tass.com/economy/2182457"
+      ],
+      "perspective": "Российские власти представляют это как успешное развитие стратегического партнерства с Китаем, в то время как западные страны могут видеть в этом угрозу своим интересам в Арктике и усиление антизападного альянса.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-04",
+      "id": "3817aa847389"
+    },
+    {
+      "title_ru": "Силы ПВО России за ночь сбили 490 беспилотников над регионами страны",
+      "title_en": "Russian air defense forces shot down 490 drones over Russian regions overnight",
+      "date": "2026-09-04",
+      "summary": "Российские силы противовоздушной обороны за ночь сбили 490 беспилотных летательных аппаратов над различными регионами России. Это свидетельствует о масштабных атаках дронов на российскую территорию.",
+      "category": "politics",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8925525"
+      ],
+      "perspective": "Российские власти представляют это как успешное отражение атак, в то время как украинская сторона может рассматривать такие атаки как законные военные действия в рамках обороны своей территории.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-04",
+      "id": "55c6ac59bcf9"
+    },
+    {
+      "title_ru": "Банк России купил юани на 5,9 млрд рублей",
+      "title_en": "Bank of Russia bought yuan for 5.9 billion rubles",
+      "date": "2026-09-04",
+      "summary": "Центральный банк России приобрел китайские юани на сумму 5,9 млрд рублей в ходе операций 3 сентября. Это продолжает тенденцию дедолларизации и усиления использования китайской валюты в российской экономике.",
+      "category": "politics",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/ekonomika/28079367"
+      ],
+      "perspective": "Российские власти видят в этом шаг к финансовой независимости от западных санкций, в то время как западные аналитики могут рассматривать это как свидетельство изоляции России от мировой финансовой системы.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-04",
+      "id": "aa6e2f07a3e4"
+    },
+    {
+      "title_ru": "Основатель Naver и глава Brookfield обсуждают создание AI-фабрики",
+      "title_en": "Naver founder, Brookfield chief meet for follow-up talks on AI factory",
+      "date": "2026-09-04",
+      "summary": "Основатель южнокорейской компании Naver и руководитель канадской инвестиционной компании Brookfield провели переговоры о создании \"AI-фабрики\". Это продолжение ранее начатых обсуждений по развитию искусственного интеллекта.",
+      "category": "ai",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260904010100320"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-04",
+      "id": "c7e7a3d19281"
+    },
+    {
+      "title_ru": "Боливия направляет пакет МВФ на рассмотрение в конгресс",
+      "title_en": "Bolivia Sends Its IMF Package to Congress",
+      "date": "2026-09-04",
+      "summary": "Правительство Боливии направило пакет реформ, согласованный с Международным валютным фондом, на рассмотрение национального конгресса. Это важный шаг в реализации экономической программы страны.",
+      "category": "ai",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/bolivia-imf-package-congress-reform-2026/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-04",
+      "id": "146933ae1777"
+    },
+    {
+      "title_ru": "Центробанк Бразилии ликвидировал 17 компаний в этом году",
+      "title_en": "Brazil's Central Bank Has Wound Up 17 Firms This Year",
+      "date": "2026-09-04",
+      "summary": "Центральный банк Бразилии в текущем году завершил процедуры ликвидации 17 компаний. Это часть усилий регулятора по очистке финансового сектора и борьбе с проблемными финансовыми организациями.",
+      "category": "tech",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/brazil-central-bank-liquidations-2026/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-04",
+      "id": "7fd4053cddde"
+    },
+    {
+      "title_ru": "Судья, вынесший пожизненный приговор президенту Южной Кореи, обвинен в коррупции",
+      "title_en": "Judge who handed Yoon life sentence indicted for corruption",
+      "date": "2026-09-04",
+      "summary": "Судья, который вынес пожизненный приговор бывшему президенту Южной Кореи Йону Сок Ёлю, сам был обвинен в коррупции. Это создает серьезный прецедент в южнокорейской судебной системе.",
+      "category": "tech",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260904003851315"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-04",
+      "id": "a5bad9243f3c"
+    },
+    {
+      "title_ru": "Японские растущие доходности влияют на рынок США",
+      "title_en": "Japan's rising yields are impacting US market: senior Treasury official",
+      "date": "2026-09-04",
+      "summary": "Высокопоставленный чиновник Министерства финансов США заявил, что растущие доходности японских государственных облигаций оказывают влияние на американский рынок. Это свидетельствует о взаимосвязи глобальных финансовых рынков.",
+      "category": "finance",
+      "sources": [
+        "asia.nikkei.com"
+      ],
+      "links": [
+        "https://asia.nikkei.com/editor-s-picks/interview/japan-s-rising-yields-are-impacting-us-market-senior-treasury-official"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-04",
+      "id": "5d658ff247b7"
+    },
+    {
+      "title_ru": "Новый SSD от Lexar настолько тонкий, что у него нет обычного USB-C порта",
+      "title_en": "Lexar's New SSD Is So Thin It Doesn't Even Have a Regular USB-C Port",
+      "date": "2026-09-04",
+      "summary": "Компания Lexar представила новый твердотельный накопитель, который настолько тонкий, что в нем отсутствует стандартный порт USB-C. Это инновационное решение для ультратонких устройств и мобильных пользователей.",
+      "category": "photo",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/04/lexars-new-ssd-is-so-thin-it-doesnt-even-have-a-regular-usb-c-port/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-04",
+      "id": "8c14f58e0d50"
+    },
+    {
+      "title_ru": "Теперь можно использовать Gemini Spark для управления Google Фото",
+      "title_en": "You Can Now Use Gemini Spark to Manage Your Google Photos",
+      "date": "2026-09-04",
+      "summary": "Google представила интеграцию своего ИИ-ассистента Gemini Spark с сервисом Google Фото. Теперь пользователи могут использовать голосовые команды и ИИ-функции для управления своими фотографиями и видео.",
+      "category": "tech",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/03/you-can-now-use-gemini-spark-to-manage-your-google-photos/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-04",
+      "id": "532b7c63740c"
     }
   ],
   "_stats": {
-    "total_tokens": 1278412,
-    "total_cost": 219.96398799999994
+    "total_tokens": 1287549,
+    "total_cost": 220.56296799999996
   }
 }
