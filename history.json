@@ -1,241 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "В Белгородской области пострадали дети при атаках ВСУ",
-      "title_en": "Children injured in attacks by Ukrainian Armed Forces in Belgorod region",
-      "date": "2026-08-28",
-      "summary": "В Белгородской области два ребенка пострадали при атаках ВСУ. Также в Курске на лечении находится 21 пострадавший при атаках ВСУ, а в Херсонской области утвердили заем поврежденным при обстрелах предприятиям.",
-      "category": "politics",
-      "sources": [
-        "ria.ru",
-        "tass.ru"
-      ],
-      "links": [
-        "https://ria.ru/20260828/ataka-2113888069.html",
-        "https://tass.ru/proisshestviya/28054707",
-        "https://tass.ru/ekonomika/28054569"
-      ],
-      "perspective": "Российские власти представляют это как военные преступления ВСУ против мирного населения. Украинская сторона может утверждать, что это ответные действия на российскую агрессию или отрицать причастность. Западные страны могут рассматривать это как эскалацию конфликта.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-08-28",
-      "id": "034e1ec11371"
-    },
-    {
-      "title_ru": "Путин поручил создать атлас профессий будущего",
-      "title_en": "Putin orders creation of future professions atlas",
-      "date": "2026-08-28",
-      "summary": "Владимир Путин поручил создать атлас профессий с компетенциями будущего. Президент назвал несколько передовых профессий в России и призвал создать условия для работы ветеранов СВО в госуправлении.",
-      "category": "politics",
-      "sources": [
-        "rssexport.rbc.ru",
-        "tass.ru",
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.rbc.ru/rbcfreenews/6a902ed4dbc0683e092dc359",
-        "https://tass.ru/obschestvo/28054667",
-        "https://tass.ru/obschestvo/28054621",
-        "https://www.kommersant.ru/doc/8920978"
-      ],
-      "perspective": "Кремль представляет это как стратегическую инициативу по развитию человеческого капитала. Оппозиция может критиковать это как популизм на фоне экономических проблем. Эксперты могут оценивать как попытку адаптировать образование к технологическим вызовам.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-08-28",
-      "id": "cc2065ccbf8b"
-    },
-    {
-      "title_ru": "Число жертв наводнения в Непале превысило 579 человек",
-      "title_en": "Nepal flood death toll exceeds 579",
-      "date": "2026-08-28",
-      "summary": "Число погибших в результате наводнения в Непале увеличилось до 579 человек. Семеро россиян числятся пропавшими без вести после оползня и наводнения. В Непале сохраняется угроза повторного наводнения.",
-      "category": "politics",
-      "sources": [
-        "ria.ru",
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://ria.ru/20260828/nepal-2113863414.html",
-        "https://www.kommersant.ru/doc/8920935",
-        "https://www.kommersant.ru/doc/8920937"
-      ],
-      "perspective": "Международное сообщество выражает соболезнования и предлагает помощь. Экологи связывают катастрофу с изменением климата. Местные власти критикуются за недостаточную подготовку к стихийным бедствиям.",
-      "perspective_type": "assumed",
-      "is_development": true,
-      "first_reported": "2026-08-28",
-      "id": "75bf3da922b4"
-    },
-    {
-      "title_ru": "Индонезия усиливает борьбу с лесными пожарами",
-      "title_en": "Indonesia bolsters fight against wildfires",
-      "date": "2026-08-28",
-      "summary": "Индонезия усиливает комплексную стратегию борьбы с лесными пожарами. Правительство также планирует восстановление деревни Саде после разрушительного пожара и развивает туризм через культурные фестивали.",
-      "category": "politics",
-      "sources": [
-        "en.antaranews.com"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/428945/indonesia-bolsters-integrated-strategy-in-fight-against-wildfires",
-        "https://en.antaranews.com/news/428952/govt-plans-sade-village-reconstruction-after-devastating-fire",
-        "https://en.antaranews.com/news/428948/dieng-culture-festival-2026-boosts-indonesias-global-tourism-image"
-      ],
-      "perspective": "Правительство Индонезии демонстрирует активность в решении экологических проблем. Экологи могут требовать более радикальных мер против вырубки лесов. Бизнес-сообщество заинтересовано в развитии туризма.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-08-28",
-      "id": "66058c5688c3"
-    },
-    {
-      "title_ru": "Индонезия и Чили укрепляют сотрудничество в сельском хозяйстве",
-      "title_en": "Indonesia and Chile strengthen agricultural cooperation",
-      "date": "2026-08-28",
-      "summary": "Индонезия и Чили укрепляют сотрудничество в области санитарных и фитосанитарных мер (SPS) для расширения сельскохозяйственной торговли. Это позволит увеличить экспорт сельхозпродукции между странами.",
-      "category": "politics",
-      "sources": [
-        "en.antaranews.com"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/428944/indonesia-chile-strengthen-sps-cooperation-to-expand-farm-trade"
-      ],
-      "perspective": "Правительства обеих стран видят в этом экономическую выгоду. Местные фермеры могут опасаться конкуренции. Эксперты оценивают как шаг к диверсификации торговых партнеров.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-08-28",
-      "id": "613ab454bcff"
-    },
-    {
-      "title_ru": "Южная Корея создает тактическое подразделение дронов и роботов",
-      "title_en": "South Korea launches drone and robot tactical demonstration unit",
-      "date": "2026-08-28",
-      "summary": "Армия Южной Кореи запустила тактическое демонстрационное подразделение дронов и роботов. Ранее самоубийственный дрон упал в море после запуска из-за незначительного дефекта.",
-      "category": "ai",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260828009100315",
-        "https://en.yna.co.kr/view/AEN20260828006800315"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-08-28",
-      "id": "e04fefb65dcc"
-    },
-    {
-      "title_ru": "Hisense выпускает смартфон с электронными чернилами и съемным цветным экраном",
-      "title_en": "Hisense launches e-ink smartphone with detachable color screen",
-      "date": "2026-08-28",
-      "summary": "Китайская компания Hisense выпустила смартфон A10 с дисплеем на электронных чернилах и съемным цветным экраном. Устройство сочетает преимущества электронных чернил для чтения с возможностями цветного дисплея.",
-      "category": "ai",
-      "sources": [
-        "www.gizmochina.com"
-      ],
-      "links": [
-        "https://www.gizmochina.com/2026/08/28/hisense-launches-a10-e-ink-smartphone-with-detachable-color-screen/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-08-28",
-      "id": "38b19febc5ab"
-    },
-    {
-      "title_ru": "Oppo разрабатывает камеру с тройным 200-мегапиксельным сенсором",
-      "title_en": "Oppo developing camera with triple 200MP sensor",
-      "date": "2026-08-28",
-      "summary": "Oppo Find X10 Pro Max будет оснащен тройной 200-мегапиксельной камерой с новым сенсором Samsung HPC. Компания также разрабатывает технологию ProXDR с динамическим диапазоном 17EV для 4K HDR видео.",
-      "category": "tech",
-      "sources": [
-        "www.gizmochina.com"
-      ],
-      "links": [
-        "https://www.gizmochina.com/2026/08/28/oppo-find-x10-pro-max-to-feature-triple-200mp-camera-with-samsungs-new-hpc-sensor/",
-        "https://www.gizmochina.com/2026/08/28/oppo-proxdr-17ev-dynamic-range-4k-hdr-video/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-08-28",
-      "id": "713a8b1e6ee0"
-    },
-    {
-      "title_ru": "Caviar выпускает iPhone 17 Pro со счетчиком Гейгера и швейцарскими часами",
-      "title_en": "Caviar launches iPhone 17 Pro with Geiger counter and Swiss watch",
-      "date": "2026-08-28",
-      "summary": "Роскошный бренд Caviar выпустил специальную версию iPhone 17 Pro со встроенным счетчиком Гейгера, титановым корпусом и швейцарскими механическими часами. Это эксклюзивное устройство для состоятельных клиентов.",
-      "category": "tech",
-      "sources": [
-        "www.gizmochina.com"
-      ],
-      "links": [
-        "https://www.gizmochina.com/2026/08/28/caviar-iphone-17-pro-built-in-geiger-counter-launched-specs-price/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-08-28",
-      "id": "a6ffe56ff177"
-    },
-    {
-      "title_ru": "Четверо мужчин признали вину в поджоге еврейских машин скорой помощи в Лондоне",
-      "title_en": "Four men plead guilty to arson attack on Jewish ambulances in London",
-      "date": "2026-08-28",
-      "summary": "Четверо мужчин признали себя виновными в поджоге машин скорой помощи еврейской общины Hatzalah в Лондоне в марте этого года. Инцидент был квалифицирован как антисемитское нападение.",
-      "category": "tech",
-      "sources": [
-        "www.jpost.com",
-        "feeds.bbci.co.uk"
-      ],
-      "links": [
-        "https://www.jpost.com/diaspora/antisemitism/article-906911",
-        "https://www.bbc.co.uk/news/articles/c1j4rkywx3lo?at_medium=RSS&at_campaign=rss"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-08-28",
-      "id": "744c3a27b333"
-    },
-    {
-      "title_ru": "Наводнение в Непале и Тибете указывает на потепление в Гималаях",
-      "title_en": "Nepal-Tibet flood catastrophe hints at Himalayas' warmer future",
-      "date": "2026-08-28",
-      "summary": "Катастрофическое наводнение в Непале и Тибете указывает на более теплое будущее Гималаев из-за изменения климата. Южная Корея выпустила специальное предупреждение о поездках в четыре провинции Непала из-за риска дополнительных наводнений.",
-      "category": "finance",
-      "sources": [
-        "asia.nikkei.com",
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://asia.nikkei.com/spotlight/environment/climate-change/nepal-tibet-flood-catastrophe-hints-at-himalayas-warmer-future",
-        "https://en.yna.co.kr/view/AEN20260828011400315"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-08-28",
-      "id": "d82453e4bd1c"
-    },
-    {
-      "title_ru": "Godox выпускает гибкий двойной свет для макросъемки",
-      "title_en": "Godox launches flexible twin light for macro photography",
-      "date": "2026-08-28",
-      "summary": "Компания Godox представила новый гибкий двойной свет, специально разработанный для макросъемки. Устройство позволяет фотографам создавать сложное освещение для съемки мелких объектов.",
-      "category": "photo",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/08/28/godoxs-new-flexible-twin-light-is-made-for-macro-photography/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-08-28",
-      "id": "944c58f302d2"
-    },
-    {
       "title_ru": "Трамп объявляет о нефтяной сделке США с Венесуэлой на 65 млрд баррелей",
       "title_en": "Trump announces US oil deal with Venezuela for 65 billion barrels",
       "date": "2026-08-29",
@@ -650,24 +415,6 @@
       "is_development": false,
       "first_reported": "2026-08-30",
       "id": "1e30e9494637"
-    },
-    {
-      "title_ru": "Новый гибкий двусторонний свет Godox создан для макросъемки",
-      "title_en": "Godox's New Flexible Twin Light Is Made for Macro Photography",
-      "date": "2026-08-28",
-      "summary": "Компания Godox представила новый гибкий двусторонний источник света, специально разработанный для макросъемки. Устройство предлагает фотографам новые возможности для освещения мелких объектов и деталей.",
-      "category": "photo",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/08/28/godoxs-new-flexible-twin-light-is-made-for-macro-photography/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-28",
-      "id": "e0aad55379dc"
     },
     {
       "title_ru": "Атаки БПЛА на Урале: четыре пострадавших в Екатеринбурге, ребенок ранен в Белгородской области",
@@ -1790,10 +1537,249 @@
       "is_development": false,
       "first_reported": "2026-09-04",
       "id": "532b7c63740c"
+    },
+    {
+      "title_ru": "Путин присвоил Собянину звание Героя Труда",
+      "title_en": "Putin awards Sobyanin Hero of Labor title",
+      "date": "2026-09-05",
+      "summary": "Президент России Владимир Путин присвоил мэру Москвы Сергею Собянину звание Героя Труда Российской Федерации. Награждение произошло в ходе официальной церемонии в Кремле.",
+      "category": "politics",
+      "sources": [
+        "РБК",
+        "РИА Новости",
+        "ТАСС"
+      ],
+      "links": [
+        "https://www.rbc.ru/society/05/09/2026/6a9bc1c925a8e74f541e06f6",
+        "https://ria.ru/20260905/sobyanin-2115619170.html",
+        "https://tass.ru/politika/28082411"
+      ],
+      "perspective": "Официальные власти России позиционируют это как признание заслуг Собянина в развитии Москвы. Оппозиция может критиковать награждение как политический жест в рамках укрепления вертикали власти.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-05",
+      "id": "1520c38e3184"
+    },
+    {
+      "title_ru": "Иран и западные страны конфликтуют по поводу санкций в Совете Безопасности ООН",
+      "title_en": "Iran faces off with E3 over snapback sanctions as Russia and China back Tehran",
+      "date": "2026-09-05",
+      "summary": "Иран и страны Е3 (Великобритания, Франция, Германия) конфликтуют в Совете Безопасности ООН по вопросу восстановления санкций против Тегерана. Россия и Китай поддерживают Иран, называя действия Запада \"провалом иллюзии санкционного щелчка\".",
+      "category": "politics",
+      "sources": [
+        "PressTV",
+        "Mehr News Agency",
+        "IRNA"
+      ],
+      "links": [
+        "https://presstv.ir/Detail/2025/08/29/753991/Iran-faces-off-with-E3-over-snapback-sanctions-as-Russia-and-China-back-Tehran",
+        "https://presstv.ir/Detail/2026/09/04/775677/Iran-E3-US-IAEA-BoG-snapback-illusion",
+        "https://en.mehrnews.com/news/247447/West-s-push-for-IAEA-anti-Iran-res-snapback-illusion-failure",
+        "https://en.irna.ir/news/86255121/New-US-E3-push-for-IAEA-anti-Iran-resolution-a-sign-of-failure"
+      ],
+      "perspective": "Иран и его союзники (Россия, Китай) рассматривают это как давление Запада и нарушение международного права. Западные страны видят необходимость в санкциях из-за ядерной программы Ирана.",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-09-05",
+      "id": "de6a192a0df4"
+    },
+    {
+      "title_ru": "Индонезия борется с лесными пожарами и дымовой завесой в регионе",
+      "title_en": "Indonesia coordinates with ASEAN allies as regional haze spreads",
+      "date": "2026-09-05",
+      "summary": "Индонезия координирует действия с партнерами по АСЕАН в борьбе с лесными пожарами на торфяниках, которые создают дымовую завесу в регионе. Власти сосредоточены на наземных операциях и призывают население не паниковать из-за извержения вулкана Анак-Кракатау.",
+      "category": "politics",
+      "sources": [
+        "Antara News"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/430001/indonesia-coordinates-with-asean-allies-as-regional-haze-spreads",
+        "https://en.antaranews.com/news/430012/govt-focuses-on-ground-operations-fighting-peatland-fires",
+        "https://en.antaranews.com/news/430005/bnpb-urges-public-not-to-panic-over-mount-anak-krakatau-eruption"
+      ],
+      "perspective": "Индонезийские власти демонстрируют активность в решении экологических проблем. Соседние страны АСЕАН могут быть обеспокоены трансграничным загрязнением воздуха.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-05",
+      "id": "e6a723fb4c78"
+    },
+    {
+      "title_ru": "США отправляют эмиссаров в Россию и Украину с планом прекращения войны",
+      "title_en": "US envoys to visit Russia, Ukraine with plan 'to end war'",
+      "date": "2026-09-05",
+      "summary": "США направляют эмиссаров в Россию и Украину с планом по прекращению конфликта. Одновременно Россия и Иран заявляют, что США должны учитывать реальности на местах при урегулировании украинского конфликта.",
+      "category": "politics",
+      "sources": [
+        "Deutsche Welle",
+        "TASS",
+        "Mehr News Agency"
+      ],
+      "links": [
+        "https://www.dw.com/en/us-envoys-to-visit-russia-ukraine-with-plan-to-end-war/a-79040773?maca=en-rss-en-all-1573-xml-mrss",
+        "https://tass.com/politics/2183015",
+        "https://en.mehrnews.com/news/247441/US-must-consider-realities-on-ground-in-regarding-Ukraine-war"
+      ],
+      "perspective": "Западные страны видят в этом дипломатическую инициативу по мирному урегулированию. Россия и её союзники настаивают на учете \"реалий на местах\", что может означать признание территориальных изменений.",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-09-05",
+      "id": "afaffec9b455"
+    },
+    {
+      "title_ru": "Израильские министры предлагают выселить палестинцев из Газы",
+      "title_en": "Minister wants all Palestinians out of Gaza",
+      "date": "2026-09-05",
+      "summary": "Израильские министры предлагают выселить всех палестинцев из сектора Газа, что вызывает растущее возмущение в арабском мире. Палестинцы осуждают эти призывы как нарушение международного права.",
+      "category": "politics",
+      "sources": [
+        "Taipei Times",
+        "Daily Sabah"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/world/archives/2026/09/05/2003863741",
+        "https://www.dailysabah.com/world/mid-east/palestinians-condemn-israeli-ministers-calls-for-gaza-expulsions",
+        "https://www.dailysabah.com/world/mid-east/fury-grows-as-israel-plans-to-displace-186m-palestinians-from-gaza"
+      ],
+      "perspective": "Израильские правые политики рассматривают это как решение проблемы безопасности. Палестинцы и арабские страны видят в этом этническую чистку и нарушение прав человека.",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-09-05",
+      "id": "f288800ad5b4"
+    },
+    {
+      "title_ru": "Южная Корея ограничивает влияние профсоюзов в AI-индустрии",
+      "title_en": "South Korea curbs union leverage over AI, chip windfalls",
+      "date": "2026-09-05",
+      "summary": "Южная Корея принимает меры по ограничению влияния профсоюзов в сфере искусственного интеллекта и производства чипов. Это связано с ростом прибылей в этих отраслях и желанием правительства сохранить конкурентные преимущества.",
+      "category": "ai",
+      "sources": [
+        "Nikkei Asia"
+      ],
+      "links": [
+        "https://asia.nikkei.com/business/technology/south-korea-curbs-union-leverage-over-ai-chip-windfalls2"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-05",
+      "id": "f152a6cbca00"
+    },
+    {
+      "title_ru": "Южная Корея рассматривает военное присутствие в Ормузском проливе",
+      "title_en": "South Korea considers 'military contributions' in Strait of Hormuz",
+      "date": "2026-09-05",
+      "summary": "Южная Корея рассматривает возможность военного присутствия в Ормузском проливе под растущим давлением со стороны США. Это происходит на фоне напряженности между Ираном и западными странами.",
+      "category": "ai",
+      "sources": [
+        "Nikkei Asia",
+        "PressTV"
+      ],
+      "links": [
+        "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/south-korea-considers-military-contributions-in-strait-of-hormuz",
+        "https://presstv.ir/Detail/2026/09/04/775644/South-Korea-military-deployment-Hormuz-Strait"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-05",
+      "id": "32c533e148e9"
+    },
+    {
+      "title_ru": "Tesla Cybercab официально запущен и уже находится под расследованием",
+      "title_en": "Tesla's Cybercab Officially Launches Today. It's Already Under Investigation",
+      "date": "2026-09-05",
+      "summary": "Tesla официально запустила свой автономный таксомотор Cybercab, но федеральные власти США уже начали расследование в связи с его развертыванием. Компания также предлагает частным лицам покупать и управлять парками этих транспортных средств.",
+      "category": "tech",
+      "sources": [
+        "Wired",
+        "TechCrunch"
+      ],
+      "links": [
+        "https://www.wired.com/story/tesla-cybercab-officially-launches-today-its-already-under-investigation/",
+        "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
+        "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-05",
+      "id": "5ae91d695c00"
+    },
+    {
+      "title_ru": "Взрыв на военном объекте в Боливии: десятки погибших и раненых",
+      "title_en": "Dozens killed, injured in Bolivia military facility blast",
+      "date": "2026-09-05",
+      "summary": "На военном объекте в Боливии произошел мощный взрыв, в результате которого погибли и получили ранения десятки людей. Точные причины инцидента пока не установлены.",
+      "category": "tech",
+      "sources": [
+        "Mehr News Agency"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/247438/Dozens-killed-injured-in-Bolivia-military-facility-blast"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-05",
+      "id": "be5319630f09"
+    },
+    {
+      "title_ru": "Израильские удары по Ливану: трое погибших, 23 раненых",
+      "title_en": "Israeli strikes on Lebanon kill three, wound 23",
+      "date": "2026-09-05",
+      "summary": "Израиль нанес удары по территории Ливана, в результате которых погибли три человека и 23 получили ранения. Инцидент обострил и без того напряженную ситуацию на границе между Израилем и Ливаном.",
+      "category": "tech",
+      "sources": [
+        "Mehr News Agency"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/247437/Israeli-strikes-on-Lebanon-kill-three-wound-23"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-05",
+      "id": "f2883138f72c"
+    },
+    {
+      "title_ru": "Южная Корея достигла рекордного уровня экспорта",
+      "title_en": "Lee touts record-high exports after surpassing 2025 annual record",
+      "date": "2026-09-05",
+      "summary": "Южная Корея достигла рекордного уровня экспорта, превысив годовой показатель 2025 года уже к сентябрю 2026 года. Президент Ли продвигает это достижение как признак экономической устойчивости страны.",
+      "category": "finance",
+      "sources": [
+        "Yonhap News Agency"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260905001900315"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-05",
+      "id": "b892d71f3e94"
+    },
+    {
+      "title_ru": "Vimeo может изменить условия подписки и заставить платить в 5 раз больше",
+      "title_en": "Vimeo Can Decide To Change Your Plan and Force You to Pay 5x More",
+      "date": "2026-09-05",
+      "summary": "Видеохостинг Vimeo оставляет за собой право изменять условия подписок пользователей и заставлять их платить в пять раз больше. Это вызвало обеспокоенность среди профессиональных видеографов и создателей контента.",
+      "category": "photo",
+      "sources": [
+        "PetaPixel"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/04/vimeo-can-decide-to-change-your-plan-and-force-you-to-pay-5x-more/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-05",
+      "id": "145840b07455"
     }
   ],
   "_stats": {
-    "total_tokens": 1287549,
-    "total_cost": 220.56296799999996
+    "total_tokens": 1297347,
+    "total_cost": 221.21314799999996
   }
 }
