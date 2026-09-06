@@ -1,230 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Трамп объявляет о нефтяной сделке США с Венесуэлой на 65 млрд баррелей",
-      "title_en": "Trump announces US oil deal with Venezuela for 65 billion barrels",
-      "date": "2026-08-29",
-      "summary": "Бывший президент США Дональд Трамп заявил о \"исторической\" сделке, по которой США получат контроль над 65 миллиардами баррелей венесуэльской нефти. Соглашение было заключено с правительством Венесуэлы и может значительно изменить энергетический баланс в регионе.",
-      "category": "politics",
-      "sources": [
-        "BBC",
-        "France 24",
-        "Press TV"
-      ],
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-        "https://www.france24.com/fr/vid%C3%A9o/20260829-etats-unis-trump-annonce-un-accord-p%C3%A9trolier-avec-le-venezuela",
-        "https://presstv.ir/Detail/2026/08/29/775274/US-Venezuela-Oil-Deal-Trump"
-      ],
-      "perspective": "Сторонники Трампа могут представлять это как дипломатический успешный возврат к энергетической независимости США. Критики могут видеть в этом возобновление давления на Венесуэлу и вмешательство во внутренние дела суверенного государства. Венесуэльские власти могут позиционировать это как вынужденную меру для получения доступа к рынкам.",
-      "perspective_type": "assumed",
-      "first_reported": "2026-08-29",
-      "id": "c67ae85bc954"
-    },
-    {
-      "title_ru": "Число пострадавших при атаке БПЛА в Ростовской области выросло до 11",
-      "title_en": "Number of victims in UAV attack in Rostov region increased to 11",
-      "date": "2026-08-29",
-      "summary": "В результате атаки беспилотных летательных аппаратов на Ростовскую область пострадали 11 человек. Российские власти обвиняют Вооруженные силы Украины в нападении, которое произошло в приграничном регионе.",
-      "category": "politics",
-      "sources": [
-        "Коммерсант",
-        "ТАСС",
-        "РИА Новости"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8921475",
-        "https://tass.ru/proisshestviya/28056549",
-        "https://ria.ru/20260829/bpla-2113983826.html"
-      ],
-      "perspective": "Российские власти представляют это как террористический акт со стороны Украины. Украинская сторона может отрицать причастность или называть это ответными действиями на российскую агрессию. Западные страны могут выражать озабоченность эскалацией конфликта.",
-      "perspective_type": "assumed",
-      "first_reported": "2026-08-29",
-      "id": "fdd89949a868"
-    },
-    {
-      "title_ru": "В Непале после наводнения спасены более 180 туристов",
-      "title_en": "More than 180 tourists rescued after flood in Nepal",
-      "date": "2026-08-29",
-      "summary": "После масштабного наводнения в Непале были спасены более 180 туристов. При этом сотни рабочих гидроэлектростанции могли застрять под землей после оползня и наводнения, а угроза нового наводнения сохраняется.",
-      "category": "politics",
-      "sources": [
-        "РИА Новости",
-        "РБК",
-        "Коммерсант",
-        "БЕЛТА"
-      ],
-      "links": [
-        "https://ria.ru/20260829/nepal-2113976968.html",
-        "https://www.rbc.ru/rbcfreenews/6a926a267cc37176fd39233a",
-        "https://www.kommersant.ru/doc/8921447",
-        "https://belta.by/world/view/ugroza-novogo-navodnenija-sohranjaetsja-v-nepale-798421-2026/"
-      ],
-      "perspective": "Местные власти сосредоточены на спасательных операциях и минимизации последствий катастрофы. Международное сообщество выражает солидарность и готово оказать помощь. Экологические организации связывают катастрофу с изменением климата и призывают к более ответственной политике в Гималаях.",
-      "perspective_type": "assumed",
-      "first_reported": "2026-08-29",
-      "id": "f3db573f1c30"
-    },
-    {
-      "title_ru": "Индонезия подчеркивает важность грамотности в области ИИ для работы в цифровую эпоху",
-      "title_en": "Indonesia emphasizes importance of AI literacy for work in digital era",
-      "date": "2026-08-29",
-      "summary": "Министерство Индонезии заявило, что грамотность в области искусственного интеллекта стала необходимой для навигации в рабочих процессах цифровой эпохи. Власти призывают к развитию соответствующих навыков среди населения для адаптации к меняющимся условиям труда.",
-      "category": "politics",
-      "sources": [
-        "Antara News"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/428997/ai-literacy-essential-to-navigate-digital-era-work-dynamics-ministry"
-      ],
-      "perspective": "Правительство Индонезии позиционирует это как стратегическую инициативу для повышения конкурентоспособности страны. Оппозиция может критиковать недостаточность конкретных мер или финансирования. Бизнес-сообщество поддерживает инициативу как способ подготовки квалифицированных кадров.",
-      "perspective_type": "assumed",
-      "first_reported": "2026-08-29",
-      "id": "8b7fb0030188"
-    },
-    {
-      "title_ru": "Иран осуждает санкционную политику США в Малайзии",
-      "title_en": "Iran condemns US sanctions policy in Malaysia",
-      "date": "2026-08-29",
-      "summary": "Малайзия осудила санкционную политику США против Ирана. Это происходит на фоне заявлений России о совместных усилиях с Ираном по противодействию американским санкциям и признания бывшего британского премьера Джонсона, что война США против Ирана была \"ошибкой\".",
-      "category": "politics",
-      "sources": [
-        "Press TV"
-      ],
-      "links": [
-        "https://presstv.ir/Detail/2026/08/28/775224/US-sanctions-policy-against-Iran-condemned-in-Malaysia"
-      ],
-      "perspective": "Иран и его союзники представляют это как доказательство несправедливости американской политики и роста международной поддержки. США и их союзники могут настаивать на необходимости санкций для сдерживания иранской ядерной программы. Нейтральные страны могут призывать к диалогу и поиску дипломатических решений.",
-      "perspective_type": "assumed",
-      "first_reported": "2026-08-29",
-      "id": "11b76e04ceea"
-    },
-    {
-      "title_ru": "SK Hynix начинает строительство завода по упаковке чипов HBM в США",
-      "title_en": "SK Hynix starts construction of HBM chip packaging plant in US",
-      "date": "2026-08-29",
-      "summary": "Южнокорейская компания SK Hynix начала строительство своего первого завода по упаковке чипов памяти высокой пропускной способности (HBM) в США, в штате Индиана. Это стратегическое расширение производства ключевых компонентов для искусственного интеллекта.",
-      "category": "ai",
-      "sources": [
-        "Nikkei Asia",
-        "Taipei Times",
-        "Yonhap News"
-      ],
-      "links": [
-        "https://asia.nikkei.com/business/technology/artificial-intelligence/sk-hynix-starts-construction-of-first-hbm-chip-packaging-plant-in-us",
-        "https://www.taipeitimes.com/News/biz/archives/2026/08/29/2003863304",
-        "https://en.yna.co.kr/view/AEN20260828000300315"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "first_reported": "2026-08-29",
-      "id": "d718ff3b1a2f"
-    },
-    {
-      "title_ru": "Индонезия призывает сохранить церковь Blenduk в Семаранге как живое наследие",
-      "title_en": "Indonesia urges preserving Semarang's Blenduk Church as living heritage",
-      "date": "2026-08-29",
-      "summary": "Министр Индонезии призвал сохранить церковь Blenduk в Семаранге как \"живое наследие\". Церковь является историческим памятником, и власти подчеркивают важность сохранения культурного наследия для будущих поколений.",
-      "category": "ai",
-      "sources": [
-        "Antara News"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/429001/minister-urges-preserving-semarangs-blenduk-church-as-living-heritage"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "first_reported": "2026-08-29",
-      "id": "567df84e5747"
-    },
-    {
-      "title_ru": "Наводнение в Непале и Тибете указывает на потепление в Гималаях",
-      "title_en": "Nepal-Tibet flood catastrophe hints at Himalayas' warmer future",
-      "date": "2026-08-29",
-      "summary": "Катастрофическое наводнение в Непале и Тибете указывает на более теплое будущее Гималаев. Эксперты связывают масштабные паводки с изменением климата, которое приводит к таянию ледников и увеличению частоты экстремальных погодных явлений в регионе.",
-      "category": "tech",
-      "sources": [
-        "Nikkei Asia"
-      ],
-      "links": [
-        "https://asia.nikkei.com/spotlight/environment/climate-change/nepal-tibet-flood-catastrophe-hints-at-himalayas-warmer-future"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "first_reported": "2026-08-29",
-      "id": "2715e306a830"
-    },
-    {
-      "title_ru": "Российские лунные роверы смогут исследовать территории на расстоянии до 100 км",
-      "title_en": "Russian lunar rovers to be capable of exploring areas at distances of up to 100 km",
-      "date": "2026-08-29",
-      "summary": "Российские лунные роверы следующего поколения будут способны исследовать территории на расстоянии до 100 километров. Это значительно расширит возможности научных исследований на поверхности Луны по сравнению с предыдущими моделями.",
-      "category": "tech",
-      "sources": [
-        "ТАСС"
-      ],
-      "links": [
-        "https://tass.com/science/2178911"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "first_reported": "2026-08-29",
-      "id": "d4b341476bd4"
-    },
-    {
-      "title_ru": "Наводнение в Непале и Тибете обнажает опасности гималайской авантюры Китая",
-      "title_en": "Nepal-Tibet floods expose dangers of China's Himalayan gamble",
-      "date": "2026-08-29",
-      "summary": "Наводнение в Непале и Тибете обнажает опасности гималайской стратегии Китая. Аналитики указывают на риски масштабных инфраструктурных проектов в уязвимых горных регионах, которые становятся еще более опасными из-за изменения климата.",
-      "category": "tech",
-      "sources": [
-        "Nikkei Asia"
-      ],
-      "links": [
-        "https://asia.nikkei.com/opinion/nepal-tibet-floods-expose-dangers-of-china-s-himalayan-gamble"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "first_reported": "2026-08-29",
-      "id": "ef6589362aed"
-    },
-    {
-      "title_ru": "Смертельные наводнения в Непале: некоторые опасаются, что \"весь Гималайский регион тает\"",
-      "title_en": "As Deadly Flash Flooding Batters Nepal, Some Fear 'the Entire Himalayas Are Melting'",
-      "date": "2026-08-29",
-      "summary": "Смертельные внезапные наводнения в Непале вызывают опасения, что \"весь Гималайский регион тает\". Число погибших достигло 633 человек, более 40 австралийцев находятся среди почти 3000 пропавших без вести. Катастрофа связана с глобальным потеплением в Гималаях.",
-      "category": "finance",
-      "sources": [
-        "The New York Times",
-        "Sydney Morning Herald"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/08/29/travel/flash-flood-nepal-global-warming-himalayas.html",
-        "https://www.smh.com.au/world/asia/nepal-floods-live-updates-chinese-nepalese-authorities-resume-rescues-after-lake-threat-eases-as-death-toll-reaches-579-thirty-eight-australians-remain-unaccounted-for-20260828-p60shg.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "first_reported": "2026-08-29",
-      "id": "9810b39bc896"
-    },
-    {
-      "title_ru": "Победители Minimalist Photography Awards 2026 демонстрируют силу простоты",
-      "title_en": "2026 Minimalist Photography Awards Winners Show the Power of Simplicity",
-      "date": "2026-08-29",
-      "summary": "Победители Minimalist Photography Awards 2026 демонстрируют силу простоты в фотографии. Конкурс отмечает лучшие работы в жанре минимализма, где авторы используют ограниченные средства для создания выразительных и глубоких изображений.",
-      "category": "photo",
-      "sources": [
-        "PetaPixel"
-      ],
-      "links": [
-        "https://petapixel.com/2026/08/27/2026-minimalist-photography-awards-winners-show-the-power-of-simplicity"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "first_reported": "2026-08-29",
-      "id": "c95e9317d783"
-    },
-    {
       "title_ru": "Россия готовится нанести удары по энергетическим объектам Украины в ответ на атаки по своей инфраструктуре",
       "title_en": "Russia readies to strike Ukraine's energy sites to retaliate attacks on its infrastructure",
       "date": "2026-08-30",
@@ -1776,10 +1552,260 @@
       "is_development": false,
       "first_reported": "2026-09-05",
       "id": "145840b07455"
+    },
+    {
+      "title_ru": "Извержение вулкана Анак-Кракатау парализует воздушное сообщение в Индонезии",
+      "title_en": "Anak Krakatau eruption paralyzes air traffic in Indonesia",
+      "date": "2026-09-06",
+      "summary": "Извержение вулкана Анак-Кракатау привело к массовым отменам авиарейсов в Индонезии. Аэропорты Бали, Батама и еще трех городов продлили временное закрытие из-за вулканической активности. Власти активировали Центр оперативного реагирования на чрезвычайные ситуации в сфере здравоохранения и подготовили медикаменты.",
+      "category": "politics",
+      "sources": [
+        "en.antaranews.com",
+        "en.antaranews.com",
+        "en.antaranews.com",
+        "en.antaranews.com",
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/430123/kai-adds-extra-semarang-jakarta-train-amid-anak-krakatau-eruption",
+        "https://en.antaranews.com/news/430120/minister-activates-heoc-prepares-medicines-for-anak-krakatau-eruption",
+        "https://en.antaranews.com/news/430119/bali-airport-cancels-flights-amid-anak-krakatau-volcanic-activity",
+        "https://en.antaranews.com/news/430117/batam-airport-cancels-five-flights-amid-anak-krakatau-eruption",
+        "https://en.antaranews.com/news/430115/three-airports-extend-temporary-closures-over-anak-krakatau-eruption"
+      ],
+      "perspective": "Правительство демонстрирует оперативное реагирование на природную катастрофу, что может повысить его рейтинг. Оппозиция может критиковать недостаточную подготовку к вулканической активности. Экологические организации могут связывать усиление вулканической активности с климатическими изменениями.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-06",
+      "id": "c3018ae751f8"
+    },
+    {
+      "title_ru": "Массовые атаки дронов на российские регионы",
+      "title_en": "Massive drone attacks on Russian regions",
+      "date": "2026-09-06",
+      "summary": "В Рязанской области за ночь и утро сбили более 50 беспилотных летательных аппаратов. В Курской области за сутки уничтожили 145 дронов ВСУ. В Ростовской области при атаке БПЛА поврежден локомотив поезда.",
+      "category": "politics",
+      "sources": [
+        "ria.ru",
+        "tass.ru",
+        "tass.ru",
+        "ria.ru",
+        "tass.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260906/bpla-2115821776.html",
+        "https://tass.ru/proisshestviya/28084429",
+        "https://tass.ru/proisshestviya/28084319",
+        "https://ria.ru/20260906/poezd-2115813162.html",
+        "https://tass.ru/proisshestviya/28084305"
+      ],
+      "perspective": "Российские власти представляют это как успешную работу систем ПВО и угрозу со стороны Украины. Украинская сторона может рассматривать это как эффективное использование дронов против военной инфраструктуры. Западные аналитики могут видеть в этом эскалацию конфликта и новые тактики ведения войны.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-06",
+      "id": "bc3f8652bbe4"
+    },
+    {
+      "title_ru": "Иран укрепляет дипломатические связи с Саудовской Аравией и Турцией",
+      "title_en": "Iran strengthens diplomatic ties with Saudi Arabia and Turkey",
+      "date": "2026-09-06",
+      "summary": "Министр иностранных дел Ирана провел телефонные переговоры с саудовским и турецким коллегами. Это происходит на фоне заявлений иранских военных о значительном усилении сдерживающей мощи страны.",
+      "category": "politics",
+      "sources": [
+        "en.irna.ir",
+        "en.mehrnews.com"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86256017/Iran-FM-holds-phone-talks-with-Saudi-Turkish-counterparts",
+        "https://en.mehrnews.com/news/247484/Iran-s-deterrence-power-has-significantly-increase-Sayyari"
+      ],
+      "perspective": "Иранское руководство демонстрирует укрепление региональных связей и военную мощь. Саудовская Аравия и Турция могут рассматривать это как возможность для диалога и снижения напряженности. США и Израиль могут видеть в этом угрозу своим интересам в регионе.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-06",
+      "id": "2e2a6cb226e9"
+    },
+    {
+      "title_ru": "Иранские спортсмены добиваются успехов на международных соревнованиях",
+      "title_en": "Iranian athletes achieve success in international competitions",
+      "date": "2026-09-06",
+      "summary": "Иранские спортсменки завоевали золотые медали на чемпионате мира по тхэквондо среди женщин и Всемирных играх кочевников. Мужская сборная U17 по волейболу выиграла чемпионат мира, а женская команда впервые заняла четвертое место на Азиатском чемпионате.",
+      "category": "politics",
+      "sources": [
+        "www.presstv.ir",
+        "www.presstv.ir",
+        "www.presstv.ir",
+        "www.presstv.ir",
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.ir/Detail/2026/08/30/775334/Iranian-president,-parliament-speaker-hail-Iran-U17-volleyball-world-championship",
+        "https://presstv.ir/Detail/2026/08/30/775342/Iran-women-historic-fourth-place-Asian-Championships",
+        "https://presstv.ir/Detail/2026/08/30/775343/Moradi-gold-2026-World-taekwondo-women-open",
+        "https://presstv.ir/Detail/2026/09/02/775560/Iran-s-Gheitasi-wins-gold-in-mas-wrestling-at-2026-World-Nomad-Games",
+        "https://presstv.ir/Detail/2026/09/04/775659/two-more-gold-medals-World-Nomad-Games-2026"
+      ],
+      "perspective": "Иранские власти используют спортивные успехи для демонстрации достижений страны и поднятия национального духа. Оппозиция может критиковать использование спорта в пропагандистских целях. Международное сообщество может видеть в этом позитивный аспект, способствующий культурному обмену.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-06",
+      "id": "86c478c7fe4a"
+    },
+    {
+      "title_ru": "Израиль атаковал больницу в Ливане",
+      "title_en": "Israel attacks hospital in Lebanon",
+      "date": "2026-09-06",
+      "summary": "Израильские силы атаковали больницу в Набатии, Ливан. Это происходит на фоне продолжающейся напряженности в регионе и иранских заявлений об усилении сдерживающей мощи.",
+      "category": "politics",
+      "sources": [
+        "en.mehrnews.com"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/247478/Israel-attacks-a-hospital-in-Nabatieh-Lebanon"
+      ],
+      "perspective": "Иранские и ливанские источники осуждают атаку как военное преступление. Израиль может утверждать, что больница использовалась для военных целей. Международные правозащитные организации призывают к расследованию инцидента и защите гражданских объектов.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-06",
+      "id": "1996fabf7b9f"
+    },
+    {
+      "title_ru": "Гражданские группы Южной Кореи требуют включения документов о женщинах для утешения в список ЮНЕСКО",
+      "title_en": "South Korean civic groups call for UNESCO listing of comfort women documents",
+      "date": "2026-09-06",
+      "summary": "Гражданские группы в Южной Корее призывают включить документы о женщинах для утешения (жертвах сексуального рабства во время Второй мировой войны) в реестр ЮНЕСКО \"Память мира\". Это происходит в контексте исторических споров между Южной Кореей и Японией.",
+      "category": "ai",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260906002600315"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-06",
+      "id": "a36b84b21203"
+    },
+    {
+      "title_ru": "Полиция Южной Кореи создает специальный орган для реформ",
+      "title_en": "South Korean police to launch dedicated body for reform",
+      "date": "2026-09-06",
+      "summary": "Полиция Южной Кореи создает специальный орган для проведения реформ, который начнет работу на этой неделе. Это часть усилий по модернизации правоохранительной системы и повышению ее эффективности.",
+      "category": "ai",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260906001900315"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-06",
+      "id": "ced35b410c28"
+    },
+    {
+      "title_ru": "Vivo X500 Pro Max показывает рекордные результаты в тесте Geekbench",
+      "title_en": "Vivo X500 Pro Max shows record results in Geekbench test",
+      "date": "2026-09-06",
+      "summary": "Смартфон Vivo X500 Pro Max показал рекордные результаты в тесте производительности Geekbench: более 4000 баллов в однопоточном режиме и 13000 баллов в многопоточном. Это демонстрирует прогресс в производительности мобильных процессоров.",
+      "category": "tech",
+      "sources": [
+        "www.gizmochina.com"
+      ],
+      "links": [
+        "https://www.gizmochina.com/2026/09/06/vivo-x500-pro-max-geekbench-4000-single-core-13000-multi-core-score/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-06",
+      "id": "4d6c44585c8e"
+    },
+    {
+      "title_ru": "Oppo Find X10 и X10 Pro Max появятся с разными чипсетами Dimensity",
+      "title_en": "Oppo Find X10 and X10 Pro Max to feature different Dimensity chipsets",
+      "date": "2026-09-06",
+      "summary": "Будущие смартфоны Oppo Find X10 и X10 Pro Max были замечены в тесте Geekbench с разными чипсетами серии Dimensity 9. Это указывает на дифференциацию модельного ряда по производительности.",
+      "category": "tech",
+      "sources": [
+        "www.gizmochina.com"
+      ],
+      "links": [
+        "https://www.gizmochina.com/2026/09/06/oppo-find-x10-x10-pro-max-geekbench-dimensity-chipsets/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-06",
+      "id": "57375425c508"
+    },
+    {
+      "title_ru": "Nubia выпускает магнитный кулер для смартфонов мощностью 25 Вт",
+      "title_en": "Nubia launches 25W magnetic phone cooler",
+      "date": "2026-09-05",
+      "summary": "Компания Nubia выпустила магнитный кулер для смартфонов мощностью 25 Вт, который выглядит как мороженое и охлаждает до температуры -18°C. Устройство предназначено для геймеров и пользователей, требующих максимальной производительности от смартфонов.",
+      "category": "tech",
+      "sources": [
+        "www.gizmochina.com"
+      ],
+      "links": [
+        "https://www.gizmochina.com/2026/09/05/nubia-ice-cream-magnetic-smartphone-cooler-launched-specs-price/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-05",
+      "id": "6d47beb879c8"
+    },
+    {
+      "title_ru": "Джим Крамер обсуждает перспективы MP Materials и других компаний",
+      "title_en": "Jim Cramer discusses prospects of MP Materials and other companies",
+      "date": "2026-09-04",
+      "summary": "Известный финансовый аналитик Джим Крамер выразил оптимизм по поводу акций MP Materials, но предупредил инвесторов не ожидать быстрых результатов. Он также обсуждал перспективы Gap, Ross Stores и возможные скрытые акции в ядерной отрасли.",
+      "category": "finance",
+      "sources": [
+        "finance.yahoo.com",
+        "finance.yahoo.com",
+        "finance.yahoo.com",
+        "finance.yahoo.com",
+        "finance.yahoo.com"
+      ],
+      "links": [
+        "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-bullish-mp-materials-231441735.html",
+        "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discussed-big-excitement-225936569.html",
+        "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-thinks-struggling-stock-225833944.html",
+        "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-revealed-why-ross-225741526.html",
+        "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-might-revealed-major-225607734.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-04",
+      "id": "21c6a3765a8b"
+    },
+    {
+      "title_ru": "10 победителей конкурса подводной фотографии Australasia 2026",
+      "title_en": "10 winning photographs from Underwater Awards Australasia 2026",
+      "date": "2026-09-05",
+      "summary": "Опубликованы 10 фотографий-победителей конкурса Underwater Awards Australasia 2026. Конкурс демонстрирует лучшие работы в области подводной фотографии из региона Австралазии.",
+      "category": "photo",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/05/10-winning-photographs-from-the-underwater-awards-australasia-2026/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-05",
+      "id": "d71b3cb417f2"
     }
   ],
   "_stats": {
-    "total_tokens": 1297347,
-    "total_cost": 221.21314799999996
+    "total_tokens": 1307228,
+    "total_cost": 221.87476799999996
   }
 }
