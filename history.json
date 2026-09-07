@@ -3520,7 +3520,8 @@
       "perspective": "Правительство Аргентины может представлять это как успех в обеспечении финансовой стабильности. Оппозиция может критиковать усиление зависимости от Китая и геополитические последствия такого сотрудничества.",
       "perspective_type": "assumed",
       "first_reported": "2026-09-07",
-      "id": "188cf1c9c51f"
+      "id": "188cf1c9c51f",
+      "last_reported": "2026-09-07"
     },
     {
       "title_ru": "Цена на нефть Brent превысила $98 за баррель",
@@ -3538,7 +3539,8 @@
       "perspective": "",
       "perspective_type": "",
       "first_reported": "2026-09-07",
-      "id": "ea14a41760bd"
+      "id": "ea14a41760bd",
+      "last_reported": "2026-09-07"
     },
     {
       "title_ru": "ИИ-производство в Мексике демонстрирует бум",
@@ -3970,7 +3972,8 @@
       "perspective_type": "",
       "is_development": false,
       "first_reported": "2026-09-07",
-      "id": "a1770ce0d1de"
+      "id": "a1770ce0d1de",
+      "last_reported": "2026-09-07"
     },
     {
       "title_ru": "Массовые похороны Ратко Младича в Сербии",
@@ -4221,7 +4224,8 @@
       "perspective_type": "assumed",
       "is_development": false,
       "first_reported": "2026-09-07",
-      "id": "1db8f21a3307"
+      "id": "1db8f21a3307",
+      "last_reported": "2026-09-07"
     },
     {
       "title_ru": "Лавров заявляет о начале реальной войны России с Западом",
@@ -4243,7 +4247,8 @@
       "perspective_type": "assumed",
       "is_development": false,
       "first_reported": "2026-09-07",
-      "id": "b567394147cc"
+      "id": "b567394147cc",
+      "last_reported": "2026-09-07"
     },
     {
       "title_ru": "Азиатско-Тихоокеанские СМИ отстаивают собственный голос в эпоху ИИ",
@@ -4263,7 +4268,8 @@
       "perspective_type": "",
       "is_development": false,
       "first_reported": "2026-09-07",
-      "id": "46bff56ae136"
+      "id": "46bff56ae136",
+      "last_reported": "2026-09-07"
     },
     {
       "title_ru": "Нетаньяху пропустил дедлайн по публикации списка кандидатов Ликуда",
@@ -4540,10 +4546,635 @@
       ],
       "first_reported": "2026-09-07",
       "id": "258cf7b8f7c5"
+    },
+    {
+      "title_ru": "Путин поручил создать комиссию по ограничениям против релокантов",
+      "title_en": "Putin ordered to create commission for restrictions against relocants",
+      "date": "2026-09-07",
+      "summary": "Президент России Владимир Путин поручил создать комиссию по применению ограничений против релокантов - граждан, покинувших страну после начала военной операции. Это решение направлено на регулирование правового статуса и возможных ограничений для россиян, уехавших за границу.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8938282"
+      ],
+      "perspective": "Власти могут представлять эту меру как необходимую для защиты национальных интересов и предотвращения утечки капитала. Оппозиционные силы и правозащитники могут критиковать это как ограничение прав граждан и создание дискриминационных механизмов. Международные наблюдатели могут рассматривать это как ужесточение контроля над гражданами.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "3922339e72c8"
+    },
+    {
+      "title_ru": "Программа развития Дальнего Востока России до 2036 года",
+      "title_en": "Far East development program until 2036",
+      "date": "2026-09-07",
+      "summary": "Правительство России утвердило программу развития Дальнего Востока до 2036 года. Планируется увеличить долю занятых в креативной экономике ДФО до 15%, повысить продолжительность жизни до 81 года, обеспечить коренным народам доступ к телемедицине и высокоскоростному интернету, упростить визовые процедуры для туризма и соединить мощности портов с инфраструктурой Восточного полигона.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "tass.ru",
+        "ria.ru"
+      ],
+      "links": [
+        "https://tass.ru/ekonomika/28088769",
+        "https://ria.ru/20260907/dfo-2116171633.html",
+        "https://tass.ru/obschestvo/28088721",
+        "https://tass.ru/obschestvo/28088709",
+        "https://tass.ru/ekonomika/28088679"
+      ],
+      "perspective": "Власти представляют эту программу как стратегическое развитие отдаленных регионов и улучшение качества жизни. Оппозиция может скептически относиться к выполнению таких амбициозных планов, учитывая исторические проблемы с реализацией подобных программ. Местные жители могут положительно оценить обещания улучшения инфраструктуры и услуг.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "7812b3b5347a"
+    },
+    {
+      "title_ru": "«Росатом» построит завод по сборке ветрогенераторов в Амурской области",
+      "title_en": "Rosatom to build wind turbine assembly plant in Amur region",
+      "date": "2026-09-07",
+      "summary": "Госкорпорация «Росатом» планирует построить завод по сборке элементов ветрогенераторов в Амурской области. Это часть программы развития возобновляемой энергетики на Дальнем Востоке России и диверсификации деятельности атомной корпорации.",
+      "category": "energy",
+      "area": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/column/vetrogeneratory-in-amur"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-07",
+      "id": "23af221dacca"
+    },
+    {
+      "title_ru": "Tesla запустила «Кибертакси» без приглашения прессы",
+      "title_en": "Tesla launched \"CyberTaxi\" without inviting press",
+      "date": "2026-09-07",
+      "summary": "Компания Tesla запустила сервис «Кибертакси» на базе электромобиля Cybertruck, но не пригласила прессу на презентацию. Наблютели выражают сомнения в успехе проекта, учитывая нестандартный дизайн автомобиля и специфику рынка такси.",
+      "category": "tech",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/hi-tech/tesla-zapustila-kibertaksi"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-07",
+      "id": "0d46adcd62ed"
+    },
+    {
+      "area": "Ближний Восток",
+      "category": "politics",
+      "date": "2026-09-07",
+      "is_development": false,
+      "links": [
+        "https://www.nytimes.com/2026/09/07/world/middleeast/britain-sanctions-israeli-settlers.html",
+        "https://www.jpost.com/middle-east/article-907844"
+      ],
+      "perspective": "Великобритания позиционирует это как меру давления на Израиль для прекращения поселенческой деятельности. Израиль рассматривает это как односторонний шаг, подрывающий двусторонние отношения и легитимность израильского присутствия на Западном берегу. Палестинские власти могут приветствовать этот шаг как международное давление на Израиль.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The New York Times",
+        "The Jerusalem Post"
+      ],
+      "summary": "Великобритания планирует ввести запрет на торговлю с израильскими поселениями на Западном берегу реки Иордан. Мера направлена против поселенческой деятельности, которую Лондон считает незаконной.",
+      "title_en": "Britain Set to Target Israeli West Bank Settlements With Trade Ban",
+      "title_ru": "Великобритания введёт запрет на торговлю с израильскими поселениями на Западном берегу",
+      "first_reported": "2026-09-07",
+      "id": "676ca94375d3"
+    },
+    {
+      "area": "Европа",
+      "category": "politics",
+      "date": "2026-09-07",
+      "is_development": false,
+      "links": [
+        "https://www.nytimes.com/2026/09/07/world/europe/ratko-mladic-funeral-serbia.html",
+        "https://tass.com/society/2183767",
+        "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
+        "https://www.dw.com/en/serbia-how-the-funeral-of-ratko-mladic-is-dividing-a-nation/a-78948890?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "perspective": "Сербские националисты и сторонники Младича видят в нём героя и защитника сербского народа. Западные страны и жертвы преступлений в Сребренице рассматривают его как военного преступника, осуждённого за геноцид. Сербское правительство балансирует между внутренними националистическими настроениями и международным давлением.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The New York Times",
+        "ТАСС",
+        "BBC",
+        "Deutsche Welle"
+      ],
+      "summary": "В Белграде прошли похороны Ратко Младича, бывшего командующего армией боснийских сербов, осуждённого за геноцид и военные преступления. Тысячи сербов собрались почтить его память, что вызвало раскол в сербском обществе и международную критику.",
+      "title_en": "Thousands of Serbs Gather to Mourn Ratko Mladic, the 'Butcher of Bosnia'",
+      "title_ru": "Тысячи сербов собрались на похороны Ратко Младича, 'мясника Боснии'",
+      "first_reported": "2026-09-07",
+      "id": "d17b4f4deb49"
+    },
+    {
+      "area": "Европа",
+      "category": "politics",
+      "date": "2026-09-07",
+      "is_development": false,
+      "links": [
+        "https://www.theglobeandmail.com/world/article-drones-missing-canadian-skyrunner-kalie-mccrystal/"
+      ],
+      "perspective": "Власти Италии и Канады заинтересованы в эффективном поиске и демонстрации готовности использовать современные технологии. Экологические организации могут выражать озабоченность по поводу использования дронов в природных зонах. Родственники пропавшей надеются на успешный исход поисков.",
+      "perspective_type": "assumed",
+      "sources": [
+        "The Globe and Mail"
+      ],
+      "summary": "Итальянские спасатели используют дроны для поиска пропавшей канадской скайраннер Кейли МакКристал на итальянской стороне горы Маттерхорн. 31-летняя спортсменка пропала во время тренировочного забега.",
+      "title_en": "Drones to be used in search for missing Canadian skyrunner Kalie McCrystal",
+      "title_ru": "Дроны будут использованы для поиска пропавшей канадской скайраннер Кейли МакКристал",
+      "first_reported": "2026-09-07",
+      "id": "027d3acc70f2"
+    },
+    {
+      "area": "Мир",
+      "category": "tech",
+      "date": "2026-09-07",
+      "is_development": false,
+      "links": [
+        "https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Wired"
+      ],
+      "summary": "Новое научное исследование предполагает, что тёмная материя и тёмная энергия могут существовать в собственном измерении пространства-времени. Эта гипотеза пытается объяснить две величайшие загадки Вселенной, которые составляют около 95% её массы и энергии.",
+      "title_en": "Two of the Universe's Great Mysteries May Have Their Own Dimension",
+      "title_ru": "Две величайшие загадки Вселенной могут иметь собственное измерение",
+      "first_reported": "2026-09-07",
+      "id": "b0da4143aae6"
+    },
+    {
+      "area": "Северная и Центральная Америка",
+      "category": "tech",
+      "date": "2026-09-04",
+      "is_development": false,
+      "links": [
+        "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
+        "https://www.wired.com/story/tesla-cybercab-officially-launches-today-its-already-under-investigation/",
+        "https://www.wired.com/story/tesla-cybercab-had-a-quiet-debut/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "TechCrunch",
+        "Wired"
+      ],
+      "summary": "Tesla официально запустила свой автономный такси-сервис Cybercab, который уже находится под расследованием регулирующих органов. Сервис имеет ограничения, включая запрет на перевозку маленьких детей, и его запуск прошёл относительно тихо.",
+      "title_en": "Tesla's Cybercab Officially Launches, Already Under Investigation",
+      "title_ru": "Tesla официально запустила Cybercab, который уже находится под расследованием",
+      "first_reported": "2026-09-04",
+      "id": "076ee90db1d3"
+    },
+    {
+      "title_ru": "Чили: экономический показатель Imacec упал на 1,5% из-за снижения экспорта меди",
+      "title_en": "Chile Imacec Falls 1.5% as Copper Shipments Drop for First Time Since 2023",
+      "date": "2026-09-07",
+      "summary": "Экономический показатель Imacec в Чили упал на 1,5% в июле 2026 года. Это произошло из-за снижения экспорта меди впервые с 2023 года.",
+      "category": "politics",
+      "area": "Южная Америка",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/chile-imacec-july-copper-exports-2026/"
+      ],
+      "perspective": "Правительство Чили может рассматривать это как временное снижение, связанное с колебаниями мирового спроса на медь. Оппозиция может критиковать экономическую политику, указывая на зависимость экономики от сырьевого экспорта.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "d5d78ad04ebd"
+    },
+    {
+      "title_ru": "МЕРКОСУР запускает торговый блок с ЕС на фоне стагнации Тихоокеанского альянса",
+      "title_en": "Mercosur Launches EU Trade Pillar as Pacific Alliance Stagnation Widens Bloc Gap",
+      "date": "2026-09-07",
+      "summary": "Южноамериканский торговый блок МЕРКОСУР запускает торговый компонент с Европейским союзом. Это происходит на фоне стагнации Тихоокеанского альянса, что увеличивает разрыв между региональными блоками.",
+      "category": "politics",
+      "area": "Южная Америка",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/pacific-alliance-mercosur-2026/"
+      ],
+      "perspective": "Страны МЕРКОСУР могут рассматривать это как успех региональной интеграции и доступ к европейскому рынку. Страны Тихоокеанского альянса могут выражать озабоченность по поводу усиления конкуренции и изменения баланса сил в регионе.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "60362545d7a7"
+    },
+    {
+      "title_ru": "ИИ-производство в Мексике переживает бум",
+      "title_en": "El Jalapeño: AI-driven manufacturing is booming in Mexico, says AI",
+      "date": "2026-09-06",
+      "summary": "Производство на основе искусственного интеллекта в Мексике переживает бум, согласно анализу ИИ. Технологии искусственного интеллекта активно внедряются в мексиканскую промышленность.",
+      "category": "ai",
+      "area": "Южная Америка",
+      "sources": [
+        "mexiconewsdaily.com"
+      ],
+      "links": [
+        "https://mexiconewsdaily.com/el-jalapeno/el-jalapeno-ai-driven-manufacturing-booming-mexico-says-ai/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-06",
+      "id": "bbdec4f92aa8"
+    },
+    {
+      "title_ru": "Победа правой партии AfD на выборах в Саксонии-Анхальт",
+      "title_en": "Right-wing AfD party wins election in Saxony-Anhalt",
+      "date": "2026-09-07",
+      "summary": "Партия \"Альтернатива для Германии\" (AfD) одержала победу на выборах в земле Саксония-Анхальт. Лидер партии связал успех с недовольством населения помощью Украине. Иностранцы в Германии выражают опасения по поводу возможного поворота страны вправо.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "France24",
+        "TASS",
+        "France24",
+        "France24"
+      ],
+      "links": [
+        "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260907-afd-l-allemagne-bascule-t-elle",
+        "https://www.france24.com/fr/europe/20260907-vent-panique-victoire-afd-saxe-anhalt-%C3%A9trangers-redoutent-tournant-extr%C3%AAme-droite",
+        "https://tass.com/world/2183771",
+        "https://www.france24.com/fr/vid%C3%A9o/20260907-allemagne-%C3%A9lection-de-l-afd-un-parti-russophile-et-pro-trump"
+      ],
+      "perspective": "Победа AfD оценивается как тревожный сигнал для европейских либералов и сторонников поддержки Украины, в то время как правые и евроскептические силы видят в этом выражение народной воли против миграционной политики и помощи Киеву.",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "f7ccccfef90d"
+    },
+    {
+      "title_ru": "Генпрокурор Украины Андрей Кравченко подал в отставку",
+      "title_en": "Ukrainian Prosecutor General Andriy Kravchenko resigns",
+      "date": "2026-09-07",
+      "summary": "Генеральный прокурор Украины Андрей Кравченко подал заявление об отставке. Решение связано с коррупционным скандалом. Сам Кравченко назвал свою отставку политическим решением.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "БелТА",
+        "РИА Новости",
+        "Укринформ",
+        "ТАСС",
+        "РБК"
+      ],
+      "links": [
+        "https://belta.by/world/view/genprokuror-ukrainy-podal-v-otstavku-799897-2026/",
+        "https://ria.ru/20260907/ukrainy-2116181847.html",
+        "https://www.ukrinform.ua/rubric-polytics/4161813-kravcenko-podav-zaavu-pro-vidstavku-z-posadi-generalnogo-prokurora.html",
+        "https://tass.ru/mezhdunarodnaya-panorama/28088849",
+        "https://www.rbc.ru/politics/05/09/2026/6a9c36ae9a79475f9f684309"
+      ],
+      "perspective": "Отставка оценивается как попытка украинских властей продемонстрировать борьбу с коррупцией, в то время как оппозиция может рассматривать это как признак внутренних конфликтов в правящей элите.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "501f1076baaf"
+    },
+    {
+      "title_ru": "Куба заявляет о рекордном ущербе от американской блокады",
+      "title_en": "Cuba reports record damage from US blockade",
+      "date": "2026-09-07",
+      "summary": "Министерство иностранных дел Кубы оценило годовой ущерб от экономической блокады США в более чем 8,83 миллиарда долларов. Это рекордный показатель за всю историю санкций. Ущерб охватывает различные секторы кубинской экономики.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "БелТА",
+        "Коммерсантъ",
+        "ТАСС",
+        "РИА Новости"
+      ],
+      "links": [
+        "https://belta.by/world/view/mid-kuby-otsenil-godovoj-uscherb-ot-blokady-ssha-v-bolee-chem-v-883-mlrd-799892-2026/",
+        "https://www.kommersant.ru/doc/8938518",
+        "https://tass.ru/ekonomika/28088615",
+        "https://ria.ru/20260907/kuba-2116164103.html"
+      ],
+      "perspective": "Куба и её союзники рассматривают блокаду как несправедливое давление, в то время как США и их сторонники считают санкции необходимым инструментом для защиты демократических ценностей и прав человека.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "c2916b1e2e8f"
+    },
+    {
+      "title_ru": "Рекордная жара в Европе летом 2026 года",
+      "title_en": "Record heat in Europe in summer 2026",
+      "date": "2026-09-07",
+      "summary": "Лето 2026 года в Европе стало рекордно жарким с экстремальными температурами. Установлены новые температурные рекорды во многих регионах. Явление связано с климатическими изменениями.",
+      "category": "tech",
+      "area": "Европа",
+      "sources": [
+        "France24"
+      ],
+      "links": [
+        "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260907-chaleurs-extr%C3%AAmes-l-%C3%A9t%C3%A9-de-tous-les-records"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "849ca54cc193"
+    },
+    {
+      "title_ru": "Глобальные инвесторы активно вкладывают в гособлигации США",
+      "title_en": "Global investors actively invest in US government bonds",
+      "date": "2026-09-06",
+      "summary": "С начала 2026 года глобальные инвесторы вложили в государственные облигации США более 150 миллиардов долларов. Это свидетельствует о сохраняющемся доверии к американским финансовым инструментам. Инвестиции поступают несмотря на геополитическую нестабильность.",
+      "category": "finance",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "Коммерсантъ"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8937620"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-06",
+      "id": "5bc7a9fa6769"
+    },
+    {
+      "title_ru": "Израильский военный министр приказал армии готовиться к 'тотальной войне' с Палестинской администрацией",
+      "title_en": "Israeli war minister orders army to prepare for 'all-out war' on Palestinian Authority",
+      "date": "2026-09-07",
+      "summary": "Израильский военный министр отдал приказ армии подготовиться к 'тотальной войне' против Палестинской администрации. Это происходит на фоне внутренних политических разногласий в Израиле, где главный соперник Нетаньяху обвиняет его в приоритете политики над безопасностью.",
+      "category": "politics",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.presstv.ir",
+        "www.dailysabah.com"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/07/775858/Israeli-military-ordered-to-prepare-for--all-out-war--on-Palestinian-Authority",
+        "https://www.dailysabah.com/world/mid-east/netanyahus-main-rival-accuses-him-of-putting-politics-over-security"
+      ],
+      "perspective": "Израильские власти представляют эти меры как необходимые для национальной безопасности. Палестинские и международные правозащитные организации могут рассматривать это как эскалацию насилия и нарушение международного права.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "b081780c2192"
+    },
+    {
+      "title_ru": "27 иранских аэропортов повреждены во время агрессии США и Израиля",
+      "title_en": "27 Iranian airports damaged during US-Israeli aggression",
+      "date": "2026-09-07",
+      "summary": "27 иранских аэропортов получили повреждения во время агрессии США и Израиля. Это свидетельствует о масштабных разрушениях транспортной инфраструктуры страны в результате военных действий.",
+      "category": "tech",
+      "area": "Ближний Восток",
+      "sources": [
+        "en.mehrnews.com"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/247525/27-Iranian-airports-damaged-during-US-Israeli-aggression"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "45306d48b068"
+    },
+    {
+      "title_ru": "Тайвань против перезапуска АЭС, Россия восстанавливает линии электропередач на Запорожской АЭС",
+      "title_en": "Taiwan opposes nuclear plant restart, Russia restores power lines at Zaporizhzhia NPP",
+      "date": "2026-09-07",
+      "summary": "На Тайване звучат призывы не перезапускать атомные электростанции из-за соображений безопасности. В то же время Запорожская АЭС в России планирует восстановить вторую линию электропередач для повышения ядерной безопасности станции.",
+      "category": "energy",
+      "area": "Мир",
+      "sources": [
+        "www.taipeitimes.com",
+        "tass.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/editorials/archives/2026/09/08/2003863856",
+        "https://tass.com/economy/2183819"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "56bb350badcf"
+    },
+    {
+      "title_ru": "Давление Трампа на ФРС и инвестиции ЕС в Гренландию",
+      "title_en": "Trump's pressure on Fed and EU investments in Greenland",
+      "date": "2026-09-07",
+      "summary": "Бывший президент США Дональд Трамп продолжает оказывать давление на Федеральную резервную систему в преддверии возможного повышения процентных ставок. Одновременно Европейский союз объявил о инвестициях в размере 232 миллионов долларов в Гренландию на фоне давления со стороны Трампа.",
+      "category": "tech",
+      "area": "Мир",
+      "sources": [
+        "www.taipeitimes.com",
+        "www.dailysabah.com",
+        "www.cnbc.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/editorials/archives/2026/09/08/2003863853",
+        "https://www.dailysabah.com/business/economy/eu-pledges-232m-in-greenlandinvestments-amid-trump-pressure",
+        "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "d23904312327"
+    },
+    {
+      "title_ru": "Визит президента Южной Кореи во Францию и заявление министра обороны КНДР",
+      "title_en": "South Korean President's visit to France and North Korean defense minister's statement",
+      "date": "2026-09-08",
+      "summary": "Президент Южной Кореи Ли прибыл в Париж для саммита с президентом Франции Макроном, где призвал к партнерству, связывающему местный контент с глобальными платформами. Одновременно министр обороны Северной Кореи раскритиковал совместные военные учения США и заявил о готовности принять необходимые меры.",
+      "category": "ai",
+      "area": "Дальний Восток",
+      "sources": [
+        "en.yna.co.kr",
+        "en.yna.co.kr",
+        "en.yna.co.kr",
+        "en.yna.co.kr",
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260907009600315",
+        "https://en.yna.co.kr/view/AEN20260907009500315",
+        "https://en.yna.co.kr/view/AEN20260907010051315",
+        "https://en.yna.co.kr/view/AEN20260907010000315",
+        "https://en.yna.co.kr/view/AEN20260907009951320"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "6dea1797797c"
+    },
+    {
+      "title_ru": "Активность вулкана Анак-Кракатау парализует авиасообщение в Индонезии",
+      "title_en": "Anak Krakatau volcanic activity paralyzes air traffic in Indonesia",
+      "date": "2026-09-07",
+      "summary": "Извержение вулкана Анак-Кракатау привело к выбросу пепла, который закрыл 8 аэропортов в Индонезии, включая главный аэропорт Сукарно-Хатта в Джакарте. Власти открыли 5 альтернативных аэропортов и организовали бесплатный транспорт для пассажиров, а в провинции Бантен все медицинские учреждения приведены в состояние повышенной готовности.",
+      "category": "politics",
+      "area": "Южная и Юго-Восточная Азия",
+      "sources": [
+        "en.antaranews.com",
+        "en.antaranews.com",
+        "en.antaranews.com",
+        "en.antaranews.com",
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/430287/anak-krakatau-ash-banten-puts-all-health-facilities-on-high-alert",
+        "https://en.antaranews.com/news/430269/free-meals-halted-at-schools-in-west-java-amid-volcanic-ash-risks",
+        "https://en.antaranews.com/news/430207/three-regions-face-anak-krakatau-ash-as-government-bolsters-mitigation",
+        "https://en.antaranews.com/news/430199/free-transports-ready-as-anak-krakatau-ash-shuts-soekarnohatta-airport",
+        "https://en.antaranews.com/news/430183/indonesia-opens-5-alternative-airports-as-krakatau-ash-closes-8-hubs"
+      ],
+      "perspective": "Власти демонстрируют оперативное реагирование на природное бедствие, что может повысить их рейтинг. Оппозиция может критиковать недостаточную готовность к таким событиям.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "96f5eb5a410c"
+    },
+    {
+      "title_ru": "Крушение грузового самолета Amazon в аэропорту Майами",
+      "title_en": "Amazon cargo plane crash at Miami airport",
+      "date": "2026-09-06",
+      "summary": "Грузовой самолет Amazon потерпел крушение в аэропорту Майами, съехав с взлетно-посадочной полосы. В результате аварии погибли 5 человек, еще 5 были госпитализированы.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "feeds.washingtonpost.com",
+        "www.theglobeandmail.com",
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.washingtonpost.com/nation/2026/09/06/amazon-cargo-plane-crashes-after-veering-off-runway-miami-airport/",
+        "https://www.theglobeandmail.com/world/video-miami-officials-say-five-dead-five-in-hospital-after-amazon-plane/",
+        "https://www.theglobeandmail.com/world/article-amazon-cargo-plane-crash-miami-airport/"
+      ],
+      "perspective": "Трагедия привлечет внимание к безопасности авиаперевозок и регулированию грузовых рейсов. Профсоюзы могут требовать ужесточения контроля за условиями труда пилотов.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-06",
+      "id": "68dee6f3ab33"
+    },
+    {
+      "title_ru": "Президент Индонезии хочет, чтобы у каждого индонезийца был банковский счет",
+      "title_en": "Indonesian President wants every citizen to have a bank account",
+      "date": "2026-09-07",
+      "summary": "Президент Индонезии Прабово Субианто заявил о намерении обеспечить каждого гражданина страны банковским счетом. Это часть усилий по повышению финансовой инклюзивности и развитию экономики.",
+      "category": "politics",
+      "area": "Южная и Юго-Восточная Азия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/430296/president-prabowo-wants-every-indonesian-to-have-a-bank-account"
+      ],
+      "perspective": "Инициатива поддерживается как шаг к финансовой демократизации, но оппозиция может критиковать реалистичность и стоимость программы.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "1a093eda4a7c"
+    },
+    {
+      "title_ru": "Лесопосадки в Уругвае привели к сокращению водности рек",
+      "title_en": "Uruguay's forest plantations led to reduced river water flow",
+      "date": "2026-09-07",
+      "summary": "Уругвай посадил эвкалиптовые и сосновые леса на пастбищах 20 лет назад. Теперь ученые обнаружили, что реки в этих районах несут значительно меньше воды, что демонстрирует непредвиденные экологические последствия масштабных лесопосадок.",
+      "category": "tech",
+      "area": "Южная Америка",
+      "sources": [
+        "timesofindia.indiatimes.com"
+      ],
+      "links": [
+        "https://timesofindia.indiatimes.com/world/rest-of-world/uruguay-planted-eucalyptus-and-pine-forests-across-grasslands-20-years-later-scientists-found-rivers-were-carrying-much-less-water/articleshow/133880812.cms"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "00afdaeaa43f"
+    },
+    {
+      "title_ru": "Крупные университетские фонды США превзошли индекс S&P 500",
+      "title_en": "Big US university endowments outperform S&P 500 index",
+      "date": "2026-09-07",
+      "summary": "Крупные университетские фонды США показали доходность выше индекса S&P 500. Это демонстрирует успешность инвестиционных стратегий ведущих американских университетов в условиях текущих рыночных условий.",
+      "category": "finance",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "www.ft.com"
+      ],
+      "links": [
+        "https://www.ft.com/content/9aa8805c-8b6a-4dfc-9e61-f5181ce07fc8?syn-25a6b1a6=1"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "3fd03f827641"
+    },
+    {
+      "title_ru": "Важность голосования для молодёжи ЮАР как экономически разумный шаг",
+      "title_en": "Empowering South Africa's youth: Why voting is a money-smart economic act",
+      "date": "2026-09-07",
+      "summary": "В ЮАР обсуждается важность участия молодёжи в выборах как экономически разумного действия. Автор утверждает, что голосование позволяет молодым людям влиять на экономическую политику, которая напрямую затрагивает их финансовое будущее.",
+      "category": "politics",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/thought-leader/2026-09-07-empowering-south-africa-s-youth-why-voting-is-a-money-smart-economic-act/"
+      ],
+      "perspective": "Правящая партия может поддерживать такой подход как способ повышения политической активности молодёжи. Оппозиционные силы могут критиковать это как попытку манипуляции или указывать на более глубокие системные проблемы, мешающие молодёжи участвовать в политике.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "fbb91bad68c2"
+    },
+    {
+      "title_ru": "Традиция пролётов самолётов над стадионами в ЮАР как предмет гордости",
+      "title_en": "South Africa's stadium flyovers: A proud tradition of precision that should be defended",
+      "date": "2026-09-04",
+      "summary": "В ЮАР защищают традицию пролётов самолётов над стадионами во время спортивных мероприятий как предмет национальной гордости. Автор утверждает, что это демонстрирует точность и мастерство южноафриканских пилотов и должно сохраняться.",
+      "category": "politics",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/thought-leader/2026-09-04-south-africa-s-stadium-flyovers-a-proud-tradition-of-precision-that-should-be-defended/"
+      ],
+      "perspective": "Сторонники традиции видят в этом проявление национальной гордости и технического мастерства. Критики могут указывать на вопросы безопасности, затраты и экологические последствия таких мероприятий.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-04",
+      "id": "9ef68e94a6f9"
+    },
+    {
+      "area": "Мир",
+      "category": "photo",
+      "date": "2026-09-07",
+      "is_development": false,
+      "links": [
+        "https://petapixel.com/2026/09/07/how-this-photographers-stock-images-of-her-dog-became-a-viral-meme/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "petapixel.com"
+      ],
+      "summary": "Фотограф из США рассказала, как её стоковые изображения собаки породы корги превратились в вирусный мем. История началась с того, что она загрузила фотографии своего питомца на стоковый сайт, а затем они неожиданно стали использоваться в интернет-мемах по всему миру.",
+      "title_en": "How This Photographer’s Stock Images of Her Dog Became a Viral Meme",
+      "title_ru": "Как стоковые изображения собаки фотографа стали вирусным мемом",
+      "first_reported": "2026-09-07",
+      "id": "32666b87eda2"
     }
   ],
   "_stats": {
-    "total_tokens": 1551729,
-    "total_cost": 237.76496799999995
+    "total_tokens": 1611076,
+    "total_cost": 241.62476799999996
   }
 }
