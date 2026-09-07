@@ -1,198 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Россия готовится нанести удары по энергетическим объектам Украины в ответ на атаки по своей инфраструктуре",
-      "title_en": "Russia readies to strike Ukraine's energy sites to retaliate attacks on its infrastructure",
-      "date": "2026-08-30",
-      "summary": "Россия заявила о готовности нанести удары по энергетическим объектам Украины в ответ на атаки ВСУ по российской инфраструктуре. Это заявление прозвучало на фоне продолжающихся взаимных обстрелов и эскалации конфликта.",
-      "category": "politics",
-      "perspective": "Российская сторона представляет это как ответные меры на украинские атаки. Украина и её западные союзники, вероятно, расценят это как эскалацию и военные преступления против гражданской инфраструктуры.",
-      "perspective_type": "assumed",
-      "sources": [
-        "tass.com"
-      ],
-      "links": [
-        "https://tass.com/defense/2179463"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-30",
-      "id": "687c4c12708c"
-    },
-    {
-      "title_ru": "Российский удар под Киевом убил 38 человек, вызывая опасения по поводу уязвимых городских объектов",
-      "title_en": "Russian strike kills 38 near Kyiv, raising concerns over Ukrainian sensitive urban sites",
-      "date": "2026-08-30",
-      "summary": "Российский удар по складу под Киевом привел к гибели 38 человек. Западные СМИ выражают опасения по поводу уязвимости гражданских и стратегических объектов в городских районах Украины.",
-      "category": "politics",
-      "perspective": "Западные источники осуждают удар как военное преступление против гражданских лиц. Российская сторона, вероятно, заявляет о поражении военных объектов или складов с оружием.",
-      "perspective_type": "assumed",
-      "sources": [
-        "www.lemonde.fr",
-        "www.smh.com.au"
-      ],
-      "links": [
-        "https://www.lemonde.fr/en/international/article/2026/08/30/russian-strike-kills-38-near-kyiv-raising-concerns-over-ukrainian-sensitive-urban-sites_6756984_4.html",
-        "https://www.smh.com.au/world/russian-strike-on-ukraine-warehouse-kills-37-20260830-p60sus.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-30",
-      "id": "febf2701c50a"
-    },
-    {
-      "title_ru": "В Запорожской области от атак ВСУ пострадали восемь человек",
-      "title_en": "Eight people injured in Ukrainian attacks in Zaporozhye region",
-      "date": "2026-08-30",
-      "summary": "В результате атак Вооруженных сил Украины по Запорожской области пострадали восемь человек. Также сообщается о беспилотной атаке на девятиэтажный жилой дом в регионе.",
-      "category": "politics",
-      "perspective": "Российские официальные источники представляют это как украинские атаки по гражданским объектам и населению. Украинская сторона, вероятно, заявляет о поражении военных целей или опровергает информацию.",
-      "perspective_type": "assumed",
-      "sources": [
-        "ria.ru",
-        "tass.ru"
-      ],
-      "links": [
-        "https://ria.ru/20260830/ljudi-2114126764.html",
-        "https://tass.ru/proisshestviya/28058179"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-30",
-      "id": "2cb7c7d82702"
-    },
-    {
-      "title_ru": "Президент Южной Кореи номинировал шесть министров в крупной перестановке кабинета",
-      "title_en": "South Korea's Lee nominates 6 ministers in major Cabinet reshuffle",
-      "date": "2026-08-30",
-      "summary": "Президент Южной Кореи Ли номинировал шесть новых министров в рамках крупной перестановки кабинета, включая министра финансов. Среди новых назначений - министр юстиции, министр гендерного равенства и министр обороны.",
-      "category": "politics",
-      "perspective": "Правящая партия представляет перестановку как обновление и усиление правительства. Оппозиция может критиковать назначения как политически мотивированные или недостаточно квалифицированные.",
-      "perspective_type": "assumed",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260830001652315"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-30",
-      "id": "a7719c7b2564"
-    },
-    {
-      "title_ru": "Число пропавших без вести при наводнении в Непале и Тибете приближается к 3000",
-      "title_en": "Nepal and China flood missing toll nears 3,000",
-      "date": "2026-08-30",
-      "summary": "Число пропавших без вести в результате катастрофического наводнения в Непале и Тибетском автономном районе Китая приближается к 3000 человек, при этом подтвержденная гибель составляет около 750 человек. Событие указывает на опасности изменения климата в Гималаях.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "www.taipeitimes.com",
-        "asia.nikkei.com",
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://www.taipeitimes.com/News/front/archives/2026/08/30/2003863362",
-        "https://asia.nikkei.com/spotlight/environment/climate-change/nepal-tibet-flood-catastrophe-hints-at-himalayas-warmer-future",
-        "https://presstv.ir/Detail/2026/08/30/775333/Nepal-Tibet-death-toll-Himalayan-flood-"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-30",
-      "id": "55cda546d0ed"
-    },
-    {
-      "title_ru": "Наводнение в Непале и Тибете обнажает опасности гималайской авантюры Китая",
-      "title_en": "Nepal-Tibet floods expose dangers of China's Himalayan gamble",
-      "date": "2026-08-30",
-      "summary": "Катастрофическое наводнение в Непале и Тибете обнажает опасности инфраструктурных проектов Китая в Гималайском регионе. Аналитики указывают на риски масштабного строительства в экологически уязвимой зоне.",
-      "category": "ai",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "asia.nikkei.com"
-      ],
-      "links": [
-        "https://asia.nikkei.com/opinion/nepal-tibet-floods-expose-dangers-of-china-s-himalayan-gamble"
-      ],
-      "is_development": true,
-      "first_reported": "2026-08-30",
-      "id": "72d1ba5472cb"
-    },
-    {
-      "title_ru": "Смерть военного преступника Младича обнажает незажившие раны Боснии",
-      "title_en": "War criminal Mladic's death lays bare Bosnia's wounds",
-      "date": "2026-08-30",
-      "summary": "Смерть Ратко Младича, бывшего генерала, осужденного за геноцид в Сребренице, вновь обнажила глубокие раны и разделения в боснийском обществе. Сербия заявила о намерении похоронить его с государственными почестями, что вызвало критику.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "www.taipeitimes.com",
-        "www.dailysabah.com",
-        "rss.dw.com"
-      ],
-      "links": [
-        "https://www.taipeitimes.com/News/world/archives/2026/08/30/2003863387",
-        "https://www.dailysabah.com/world/europe/serbia-says-war-criminal-mladic-to-be-buried-with-state-honors",
-        "https://www.dw.com/en/ratko-mladic-the-man-behind-srebrenica-massacre-dies-at-84/a-78536491?maca=en-rss-en-all-1573-xml-mrss"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-30",
-      "id": "c1c6da5e3550"
-    },
-    {
-      "title_ru": "Япония, Южная Корея и США проведут совместные военные учения",
-      "title_en": "Japan, South Korea and US to hold joint military drills",
-      "date": "2026-08-30",
-      "summary": "Япония, Южная Корея и США договорились о проведении совместных военных учений, как заявили в Сеуле. Это происходит на фоне растущей напряженности в регионе и изменений в военном руководстве Северной Кореи.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "asia.nikkei.com"
-      ],
-      "links": [
-        "https://asia.nikkei.com/politics/defense/japan-south-korea-and-us-to-hold-joint-military-drills-seoul-says"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-30",
-      "id": "13187afef6dd"
-    },
-    {
-      "title_ru": "Ким Чен Ын провел кадровые перестановки в военном руководстве Северной Кореи",
-      "title_en": "Kim Jong Un shakes up North Korea's military, dismisses defence minister",
-      "date": "2026-08-30",
-      "summary": "Лидер Северной Кореи Ким Чен Ын провел масштабные кадровые перестановки в военном руководстве страны, уволив министра обороны Но Кван Чоля. Это указывает на продолжение реорганизации вооруженных сил страны.",
-      "category": "tech",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "timesofindia.indiatimes.com"
-      ],
-      "links": [
-        "https://timesofindia.indiatimes.com/world/rest-of-world/kim-jong-un-shakes-up-north-koreas-military-dismisses-defence-minister-no-kwang-chol/articleshow/133622383.cms"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-30",
-      "id": "f48f809bfd5b"
-    },
-    {
-      "title_ru": "Государственный долг Украины растет на 4-5 миллиардов долларов ежемесячно",
-      "title_en": "Ukraine's national debt grows by $4-5 bln each month",
-      "date": "2026-08-30",
-      "summary": "Государственный долг Украины продолжает стремительно расти, увеличиваясь на 4-5 миллиардов долларов каждый месяц. Это создает серьезные экономические вызовы для страны в условиях продолжающегося военного конфликта.",
-      "category": "finance",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "tass.com"
-      ],
-      "links": [
-        "https://tass.com/economy/2179409"
-      ],
-      "is_development": false,
-      "first_reported": "2026-08-30",
-      "id": "1e30e9494637"
-    },
-    {
       "title_ru": "Атаки БПЛА на Урале: четыре пострадавших в Екатеринбурге, ребенок ранен в Белгородской области",
       "title_en": "Drone attacks in Urals: four injured in Yekaterinburg, child wounded in Belgorod region",
       "date": "2026-08-31",
@@ -416,24 +224,6 @@
       "is_development": false,
       "first_reported": "2026-08-31",
       "id": "2f3e2e3c85b3"
-    },
-    {
-      "title_ru": "Новая книга прославляет «опасных» женщин-фотографов с XIX века до наших дней",
-      "title_en": "New book celebrates 'dangerous' women photographers from 19th century to present",
-      "date": "2026-08-30",
-      "summary": "Вышла новая книга, посвященная «опасным» женщинам-фотографам, работавшим с XIX века до наших дней. Издание исследует вклад женщин в развитие фотографии и их борьбу за признание в мужской доминирующей сфере.",
-      "category": "photo",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/08/30/new-book-celebrates-dangerous-women-photographers-from-the-19th-century-to-the-present/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-08-30",
-      "id": "d2c26b670326"
     },
     {
       "title_ru": "Саммит ШОС в Бишкеке: лидеры подписали декларацию о реформе финансовой архитектуры",
@@ -1802,10 +1592,234 @@
       "is_development": false,
       "first_reported": "2026-09-05",
       "id": "d71b3cb417f2"
+    },
+    {
+      "title_ru": "Турция повышает прогноз инфляции до 28,4% к концу года",
+      "title_en": "Turkey raises year-end inflation forecast to 28.4 percent",
+      "date": "2026-09-07",
+      "summary": "Турецкие власти значительно повысили прогноз инфляции на конец года с 16% до 28,4%. Это свидетельствует о серьёзных экономических проблемах в стране и может повлиять на политическую стабильность.",
+      "category": "politics",
+      "sources": [
+        "Turkish Minute"
+      ],
+      "links": [
+        "https://www.turkishminute.com/2026/09/07/turkey-raises-year-end-inflation-forecast-to-28-4-percent-from-16-percent/"
+      ],
+      "perspective": "Правительство может представлять это как вынужденную меру в сложных экономических условиях, оппозиция — как провал экономической политики властей. Международные наблюдатели могут выражать обеспокоенность стабильностью турецкой экономики.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "138cd2061c1f"
+    },
+    {
+      "title_ru": "Рейтинг президента Чили Каста упал до 30%",
+      "title_en": "Chile President Kast Approval Falls to 30% in New Poll",
+      "date": "2026-09-07",
+      "summary": "Уровень поддержки президента Чили Хосе Антонио Каста снизился до 30% согласно новому опросу. Падение популярности связано с протестами студентов и другими социальными проблемами в стране.",
+      "category": "politics",
+      "sources": [
+        "Riotimesonline"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/chile-kast-approval-30-percent-criteria-student-protests-2026/"
+      ],
+      "perspective": "Оппозиция рассматривает это как свидетельство неэффективности правого правительства. Сторонники Каста могут объяснять падение рейтингов временными трудностями и внешними факторами. Международные наблюдатели следят за политической стабильностью в Чили.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "cf21777eba3b"
+    },
+    {
+      "title_ru": "Рауль Кастро появился на публике после слухов о проблемах со здоровьем",
+      "title_en": "Cuba: Raul Castro, 95, Appears in Havana After Health Rumours",
+      "date": "2026-09-07",
+      "summary": "95-летний Рауль Кастро появился на военном мероприятии в Гаване, опровергнув слухи о проблемах со здоровьем. Бывший лидер Кубы продемонстрировал свою активность и участие в политической жизни страны.",
+      "category": "politics",
+      "sources": [
+        "Riotimesonline"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/cuba-raul-castro-appears-havana-military-event-2026/"
+      ],
+      "perspective": "Кубинское правительство использует это для демонстрации стабильности и преемственности власти. Оппозиционные силы могут сомневаться в реальном состоянии здоровья Кастро. Международные наблюдатели следят за вопросами преемственности на Кубе.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "a3c8e5d25c4b"
+    },
+    {
+      "title_ru": "Иран угрожает 'болезненным ответом' на санкции США",
+      "title_en": "Iran vows 'painful response' as US sanctions squeeze economy",
+      "date": "2026-09-07",
+      "summary": "Иран пообещал 'болезненный ответ' на американские санкции, которые оказывают давление на экономику страны. Заявление сделано на фоне продолжающегося противостояния с Западом по ядерной программе.",
+      "category": "politics",
+      "sources": [
+        "Daily Sabah"
+      ],
+      "links": [
+        "https://www.dailysabah.com/world/mid-east/iran-vows-painful-response-as-us-sanctions-squeeze-economy"
+      ],
+      "perspective": "Иранские власти представляют это как защиту национального суверенитета. США и их союзники рассматривают санкции как инструмент давления. Страны, поддерживающие Иран (Россия, Китай), могут критиковать американскую политику.",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "6b860a5ea187"
+    },
+    {
+      "title_ru": "Иранская делегация направляется в Китай для расширения торговли",
+      "title_en": "Iran delegation heads to China for trade expansion",
+      "date": "2026-09-07",
+      "summary": "Иранская делегация отправилась в Китай для расширения торговых отношений между двумя странами. Визит происходит на фоне усилий Тегерана по диверсификации экономических связей в условиях санкций.",
+      "category": "politics",
+      "sources": [
+        "IRNA"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86257145/Iran-delegation-heads-to-China-for-trade-expansion"
+      ],
+      "perspective": "Иран рассматривает это как стратегическое партнёрство для преодоления санкций. Китай видит возможность расширения своего влияния на Ближнем Востоке. США и их союзники могут выражать обеспокоенность укреплением ирано-китайских связей.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "1a70924f31c7"
+    },
+    {
+      "title_ru": "Крайне правая партия AfD побеждает на выборах в Саксонии-Анхальт",
+      "title_en": "Far-right AfD surges to victory in German state election",
+      "date": "2026-09-07",
+      "summary": "Крайне правая партия 'Альтернатива для Германии' (AfD) одержала победу на региональных выборах в Саксонии-Анхальт. Это исторический результат для партии, вызвавший обеспокоенность европейских лидеров.",
+      "category": "ai",
+      "sources": [
+        "Financial Times",
+        "Le Monde",
+        "DW",
+        "Jerusalem Post"
+      ],
+      "links": [
+        "https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd?syn-25a6b1a6=1",
+        "https://www.lemonde.fr/en/international/article/2026/09/07/far-right-achieves-historic-result-in-germany-s-saxony-anhalt-regional-elections_6757237_4.html",
+        "https://www.dw.com/en/saxony-anhalt-germany-wakes-up-to-unsettling-afd-victory/live-78754934?maca=en-rss-en-all-1573-xml-mrss",
+        "https://www.jpost.com/international/article-907779"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "f19b0961b00b"
+    },
+    {
+      "title_ru": "Южная Корея и Франция создают канал сотрудничества по стратегическим отраслям",
+      "title_en": "S. Korea, France to set up cooperation channel on strategic industries, trade",
+      "date": "2026-09-07",
+      "summary": "Южная Корея и Франция договорились создать канал сотрудничества по стратегическим отраслям промышленности и торговле. Соглашение направлено на укрепление экономических и технологических связей между двумя странами.",
+      "category": "ai",
+      "sources": [
+        "Yonhap News Agency"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260907008800320"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "4c775bef0c9c"
+    },
+    {
+      "title_ru": "Китай вливает $54 млрд в государственные банки и страховые компании",
+      "title_en": "China pumps $53bn into banks and insurers",
+      "date": "2026-09-07",
+      "summary": "Китайские власти выделили $54 млрд на поддержку государственных банков и страховых компаний. Несмотря на масштабную финансовую инъекцию, акции этих учреждений продолжили снижение.",
+      "category": "tech",
+      "sources": [
+        "Financial Times",
+        "Nikkei Asia"
+      ],
+      "links": [
+        "https://www.ft.com/content/8012b60e-c74e-49bc-9200-d37f13b4a135?syn-25a6b1a6=1",
+        "https://asia.nikkei.com/business/finance/china-s-state-bank-and-insurer-shares-slide-after-54bn-injection-plan"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "1637a135aed6"
+    },
+    {
+      "title_ru": "Южная Корея объединяет 5 энергокомпаний для подготовки к спросу на энергию для ИИ и чипов",
+      "title_en": "South Korea to combine 5 utilities to prepare for AI, chip power demand",
+      "date": "2026-09-07",
+      "summary": "Южная Корея планирует объединить пять энергетических компаний для подготовки к растущему спросу на электроэнергию со стороны индустрии искусственного интеллекта и производства чипов. Реструктуризация направлена на обеспечение стабильного энергоснабжения для высокотехнологичных отраслей.",
+      "category": "tech",
+      "sources": [
+        "Nikkei Asia"
+      ],
+      "links": [
+        "https://asia.nikkei.com/politics/south-korea-to-combine-5-utilities-to-prepare-for-ai-chip-power-demand"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "06023cba8360"
+    },
+    {
+      "title_ru": "Университет Сан-Франциско получает $25 млн в криптовалюте XRP",
+      "title_en": "San Francisco State gets $25M in XRP, one of U.S. higher education's largest crypto gifts",
+      "date": "2026-09-07",
+      "summary": "Государственный университет Сан-Франциско получил пожертвование в размере $25 миллионов в криптовалюте XRP от пары миллиардеров. Это одно из крупнейших криптопожертвований в истории американского высшего образования.",
+      "category": "tech",
+      "sources": [
+        "Times of India"
+      ],
+      "links": [
+        "https://timesofindia.indiatimes.com/world/us/a-self-made-billionaire-couple-gave-san-francisco-state-university-25-million-in-xrp-one-of-the-largest-crypto-donations-to-us-higher-education/articleshow/133866456.cms"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "eef2a0020bd7"
+    },
+    {
+      "title_ru": "Бум ETF в Южной Корее теряет силу из-за усталости инвесторов от волатильности",
+      "title_en": "South Korea's ETF boom loses steam as investors tire of volatility",
+      "date": "2026-09-07",
+      "summary": "Бум биржевых инвестиционных фондов (ETF) в Южной Корее теряет силу, поскольку инвесторы устали от высокой волатильности рынка. Это свидетельствует о изменении настроений на финансовом рынке страны.",
+      "category": "finance",
+      "sources": [
+        "Nikkei Asia"
+      ],
+      "links": [
+        "https://asia.nikkei.com/business/markets/trading-asia/south-korea-s-etf-boom-loses-steam-as-investors-tire-of-volatility"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "b4f2c68b7b58"
+    },
+    {
+      "title_ru": "Tecno представляет ультратонкий смартфон со стилем, вдохновлённым известными художниками",
+      "title_en": "Tecno's Ultra-Slim Smartphone Borrows its Style From Famous Artists",
+      "date": "2026-09-07",
+      "summary": "Компания Tecno представила ультратонкий смартфон, дизайн которого вдохновлён работами известных художников. Устройство сочетает современные технологии с элементами художественного оформления.",
+      "category": "photo",
+      "sources": [
+        "Petapixel"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/06/tecnos-ultra-slim-smartphone-borrows-its-style-from-famous-artists/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "44b76ddfaefb"
     }
   ],
   "_stats": {
-    "total_tokens": 1307228,
-    "total_cost": 221.87476799999996
+    "total_tokens": 1317158,
+    "total_cost": 222.52888799999997
   }
 }
