@@ -1816,10 +1816,105 @@
       "is_development": false,
       "first_reported": "2026-09-07",
       "id": "44b76ddfaefb"
+    },
+    {
+      "area": "Россия",
+      "category": "politics",
+      "date": "2026-09-07",
+      "is_development": false,
+      "links": [
+        "https://www.kommersant.ru/doc/8938282"
+      ],
+      "perspective": "Власти позиционируют это как меру по защите национальных интересов, в то время как оппозиция может критиковать как ограничение прав граждан",
+      "perspective_type": "assumed",
+      "sources": [
+        "Коммерсантъ"
+      ],
+      "summary": "Президент Владимир Путин поручил создать комиссию по применению ограничений против релокантов - граждан, покинувших страну после начала специальной военной операции. Комиссия будет рассматривать вопросы применения ограничительных мер в отношении таких лиц.",
+      "title_en": "Putin orders commission on restrictions against relocants",
+      "title_ru": "Путин поручил создать комиссию по применению ограничений против релокантов",
+      "first_reported": "2026-09-07",
+      "id": "0cb7bb0bd6ec"
+    },
+    {
+      "area": "Россия",
+      "category": "politics",
+      "date": "2026-09-07",
+      "is_development": false,
+      "links": [
+        "https://www.kommersant.ru/doc/8938072"
+      ],
+      "perspective": "Россия рассматривает встречу как возможность укрепить влияние в регионе, в то время как Армения может искать баланс между российскими и западными интересами",
+      "perspective_type": "assumed",
+      "sources": [
+        "Коммерсантъ"
+      ],
+      "summary": "Пресс-секретарь президента Дмитрий Песков заявил, что Владимир Путин и премьер-министр Армении Никол Пашинян на встрече в Москве обсудят направление развития Армении. Встреча запланирована на 9 сентября.",
+      "title_en": "Putin and Pashinyan to discuss Armenia's development direction at Moscow meeting",
+      "title_ru": "Путин и Пашинян обсудят направление развития Армении на встрече в Москве",
+      "first_reported": "2026-09-07",
+      "id": "8cbdc6ad159b"
+    },
+    {
+      "area": "Россия",
+      "category": "politics",
+      "date": "2026-09-07",
+      "is_development": false,
+      "links": [
+        "https://tass.com/economy/2183773"
+      ],
+      "perspective": "Россия рассматривает мост как важный инфраструктурный проект для развития сотрудничества с КНДР, в то время как западные страны могут видеть в этом усиление военно-технического сотрудничества",
+      "perspective_type": "assumed",
+      "sources": [
+        "ТАСС"
+      ],
+      "summary": "Премьер-министр России Михаил Мишустин заявил, что открытие моста на границе с КНДР будет способствовать развитию сотрудничества между двумя странами. Мост станет первым автомобильным переходом между Россией и Северной Кореей.",
+      "title_en": "Bridge on DPRK border to boost cooperation — Russian prime minister",
+      "title_ru": "Мост на границе с КНДР укрепит сотрудничество — российский премьер",
+      "first_reported": "2026-09-07",
+      "id": "e46c08710d0a"
+    },
+    {
+      "area": "Россия",
+      "category": "energy",
+      "date": "2026-09-07",
+      "is_development": false,
+      "links": [
+        "https://naked-science.ru/article/column/vetrogeneratory-in-amur"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Naked Science"
+      ],
+      "summary": "«Росатом» планирует построить завод по сборке элементов ветрогенераторов в Амурской области. Проект направлен на развитие возобновляемой энергетики на Дальнем Востоке России.",
+      "title_en": "Rosatom to build wind turbine assembly plant in Amur region",
+      "title_ru": "«Росатом» построит завод по сборке элементов ветрогенераторов в Амурской области",
+      "first_reported": "2026-09-07",
+      "id": "f6958d9be6cf"
+    },
+    {
+      "area": "Россия",
+      "category": "tech",
+      "date": "2026-09-07",
+      "is_development": false,
+      "links": [
+        "https://naked-science.ru/article/hi-tech/tesla-zapustila-kibertaksi"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Naked Science"
+      ],
+      "summary": "Tesla запустила сервис «Кибертакси» без приглашения прессы на официальное мероприятие. Наблютели выражают сомнения в успехе проекта, учитывая проблемы с автономным вождением и регуляторные вызовы.",
+      "title_en": "Tesla launches Cybercab without press invitation, observers doubt its success",
+      "title_ru": "Tesla запустила «Кибертакси» без приглашения прессы, наблюдатели сомневаются в успехе",
+      "first_reported": "2026-09-07",
+      "id": "a6a6094765dd"
     }
   ],
   "_stats": {
-    "total_tokens": 1317158,
-    "total_cost": 222.52888799999997
+    "total_tokens": 1335047,
+    "total_cost": 223.62524799999997
   }
 }
