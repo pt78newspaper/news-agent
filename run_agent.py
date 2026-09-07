@@ -83,6 +83,18 @@ def sort_events(events):
     ))
 
 
+def dedup_events(events):
+    seen_links = set()
+    out = []
+    for e in events:
+        links = set(e.get("links", []))
+        if links & seen_links:
+            continue
+        seen_links |= links
+        out.append(e)
+    return out
+
+
 def looks_like_ai(cluster):
     kw = ("ai", "artificial intelligence", "openai", "chatgpt", "gpt-", "llm",
           "neural network", "machine learning", "deepseek", "gemini", "claude",
@@ -94,13 +106,17 @@ def looks_like_ai(cluster):
 
 
 def looks_like_energy(cluster):
-    kw = ("energy", "oil", "gas", "coal", "nuclear", "power plant", "renewable",
+    kw = ("energy", "oil", "gas", "coal", "nuclear power", "power plant", "renewable",
           "wind", "solar", "electricity", "grid", "нефт", "газ", "энерг", "атом",
           "уголь", "ветер", "солнечн", "электроэнерг", "топлив", "нефтегаз",
           "opec", "санкции на энергосектор", "lng", "дизел", "бензин")
+    nk = ("naval", "destroyer", "missile", "submarine", "warship", "nuclear weapon",
+          "nuclear-capable", "atomic bomb", "военн", "ракет")
     text = ""
     for a in cluster:
         text += (a.get("title", "") + " " + a.get("summary", ""))[:400].lower()
+    if any(k in text for k in nk):
+        return False
     return any(k in text for k in kw)
 
 
@@ -380,7 +396,7 @@ def main():
         events = []
 
     save_history(events, usage)
-    events = sort_events(events)
+    events = dedup_events(sort_events(events))
     generate_html(events, config, usage, api_key)
 
 
