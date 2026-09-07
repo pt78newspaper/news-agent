@@ -71,6 +71,16 @@ def hash_event(e):
 AREAS_ORDER = ["Россия", "Северная и Центральная Америка", "Южная Америка", "Европа", "Ближний Восток", "Дальний Восток", "Южная и Юго-Восточная Азия", "Океания и Австралия", "Африка"]
 PER_AREA = {"politics": 3, "energy": 1, "tech": 1, "ai": 1}
 GLOBAL = {"finance": 1, "photo": 1}
+CAT_ORDER = ["politics", "energy", "tech", "ai", "finance", "photo"]
+
+
+def sort_events(events):
+    area_idx = {a: i for i, a in enumerate(AREAS_ORDER)}
+    cat_idx = {c: i for i, c in enumerate(CAT_ORDER)}
+    return sorted(events, key=lambda e: (
+        area_idx.get(e.get("area", ""), len(area_idx)),
+        cat_idx.get(e.get("category", "politics"), 99)
+    ))
 
 
 def looks_like_ai(cluster):
@@ -160,6 +170,8 @@ def generate_html(events, config, usage=None, api_key=None):
 
         cat_label = {"politics": "Политика", "ai": "AI", "tech": "Техно/Наука", "energy": "Энергетика", "finance": "Финансы", "photo": "Фото"}.get(cat, "")
         cat_badge = f'<span class="cat-badge cat-{cat}">{cat_label}</span>' if cat_label else ""
+        area = ev.get("area", "")
+        area_badge = f'<span class="area-badge">{area}</span>' if area else ""
 
         perspective = ev.get("perspective", "").strip()
         perspective_type = ev.get("perspective_type", "").strip()
@@ -188,7 +200,7 @@ def generate_html(events, config, usage=None, api_key=None):
     <div class="story-header">
       <div class="story-number">{idx}</div>
       <div class="story-titles">
-        <div class="title-en">{ev.get("title_en", "")} {cat_badge}</div>
+        <div class="title-en">{ev.get("title_en", "")} {area_badge}{cat_badge}</div>
         <div class="title-ru">{ev.get("title_ru", "")}</div>
       </div>
     </div>
@@ -283,6 +295,10 @@ def generate_html(events, config, usage=None, api_key=None):
             day_events = by_date[date_key]
             archive_html += f'<div class="archive-day"><div class="archive-day-header" onclick="this.classList.toggle(\'open\');this.nextElementSibling.classList.toggle(\'open\')"><span>{date_key} ({len(day_events)})</span><span class="arrow">▶</span></div><div class="archive-day-body">'
             for pe in day_events:
+                cat = pe.get("category", "politics")
+                cat_label = {"politics": "Политика", "ai": "AI", "tech": "Техно/Наука", "energy": "Энергетика", "finance": "Финансы", "photo": "Фото"}.get(cat, "")
+                cat_badge = f'<span class="cat-badge cat-{cat}">{cat_label}</span>' if cat_label else ""
+                area_badge = f'<span class="area-badge">{pe.get("area", "")}</span>' if pe.get("area") else ""
                 summ_en = pe.get("summary_en", "")
                 summ_ru = pe.get("summary", "")
                 if summ_en:
@@ -294,7 +310,7 @@ def generate_html(events, config, usage=None, api_key=None):
                     f'<a href="{l}" target="_blank" rel="noopener">{l.split("/")[2] if "//" in l else l}</a>'
                     for l in pe.get("links", [])[:3]
                 )
-                archive_html += f'<div class="story"><div class="story-card"><div class="story-header"><div class="story-titles"><div class="title-en">{pe.get("title_en", "")}</div><div class="title-ru">{pe.get("title_ru", "")}</div></div></div><div class="story-body"><div class="summary">{summ_en_html}{summ_ru_html}</div></div><div class="story-footer"><span class="tag">{pe.get("date", "")}</span><span>{links}</span></div></div></div>'
+                archive_html += f'<div class="story"><div class="story-card"><div class="story-header"><div class="story-titles"><div class="title-en">{pe.get("title_en", "")} {area_badge}{cat_badge}</div><div class="title-ru">{pe.get("title_ru", "")}</div></div></div><div class="story-body"><div class="summary">{summ_en_html}{summ_ru_html}</div></div><div class="story-footer"><span class="tag">{pe.get("date", "")}</span><span>{links}</span></div></div></div>'
             archive_html += '</div></div>'
         archive_html += '</div>'
     html = html.replace("__ARCHIVE__", archive_html)
@@ -364,6 +380,7 @@ def main():
         events = []
 
     save_history(events, usage)
+    events = sort_events(events)
     generate_html(events, config, usage, api_key)
 
 
