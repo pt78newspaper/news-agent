@@ -2024,7 +2024,8 @@
       "perspective_type": "from_source",
       "is_development": false,
       "first_reported": "2026-09-07",
-      "id": "ab90b0cfb49b"
+      "id": "ab90b0cfb49b",
+      "last_reported": "2026-09-07"
     },
     {
       "title_ru": "Судья объявляет неправильный суд в деле Линдси Клэнси после тупика в жюри",
@@ -2068,7 +2069,8 @@
       "perspective_type": "",
       "is_development": true,
       "first_reported": "2026-09-04",
-      "id": "33332e5ee1b1"
+      "id": "33332e5ee1b1",
+      "last_reported": "2026-09-04"
     },
     {
       "title_ru": "Тёмная энергия и материя могут иметь своё собственное измерение",
@@ -2144,7 +2146,8 @@
       "perspective_type": "assumed",
       "is_development": false,
       "first_reported": "2026-09-07 15:39:40+00:00",
-      "id": "827d711ae325"
+      "id": "827d711ae325",
+      "last_reported": "2026-09-07 15:39:40+00:00"
     },
     {
       "title_ru": "Король Карл III подтвердил статус Гарри и Меган как частных лиц",
@@ -2352,7 +2355,8 @@
       "perspective_type": "assumed",
       "is_development": false,
       "first_reported": "2026-09-06",
-      "id": "e1812d11546f"
+      "id": "e1812d11546f",
+      "last_reported": "2026-09-06"
     },
     {
       "title_ru": "Извержение вулкана Анак-Кракатау в Индонезии парализовало авиасообщение и закрыло школы",
@@ -2525,7 +2529,8 @@
       "perspective": "Правительство может использовать это для обоснования усиления регулирования интернета, в то время как правозащитники могут опасаться ограничения свобод. Технологические компании могут поддерживать идеи саморегулирования, а гражданское общество - требовать большей прозрачности.",
       "perspective_type": "assumed",
       "first_reported": "2026-09-04",
-      "id": "04d1e924fe8f"
+      "id": "04d1e924fe8f",
+      "last_reported": "2026-09-04"
     },
     {
       "title_ru": "Традиция пролётов над стадионами ЮАР: гордость за точность, которую нужно защищать",
@@ -2561,7 +2566,8 @@
       "perspective": "",
       "perspective_type": "",
       "first_reported": "2026-09-04",
-      "id": "0a573eb51f4f"
+      "id": "0a573eb51f4f",
+      "last_reported": "2026-09-04"
     },
     {
       "title_ru": "ФРС США готовится к возможному повышению ставок на фоне роста инфляции",
@@ -2606,10 +2612,703 @@
       "is_development": false,
       "first_reported": "2026-09-05",
       "id": "79b8b86925af"
+    },
+    {
+      "title_ru": "Атаки дронов в Белгородской области и Татарстане",
+      "title_en": "Drone attacks in Belgorod region and Tatarstan",
+      "date": "2026-09-07",
+      "summary": "В Белгородской области при атаке БПЛА пострадал мужчина, дрон ВСУ ударил по микроавтобусу. В Татарстане беспилотники ударили по Закамской зоне, повреждены гражданские и промышленные объекты. Также в Оренбургской области сгорели 15 домов в СНТ «Заря».",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "tass.ru",
+        "ria.ru",
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/28088603",
+        "https://ria.ru/20260907/vsu-2116163408.html",
+        "https://www.kommersant.ru/doc/8937997",
+        "https://www.kommersant.ru/doc/8937915"
+      ],
+      "perspective": "Российские власти представляют это как атаки ВСУ на гражданские объекты. Украинская сторона может рассматривать это как ответные удары по военной инфраструктуре. Местные жители обеспокоены безопасностью.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "54eab3da2b36"
+    },
+    {
+      "title_ru": "Политические поручения и встречи Владимира Путина",
+      "title_en": "Vladimir Putin's political assignments and meetings",
+      "date": "2026-09-07",
+      "summary": "Владимир Путин поручил создать комиссию по применению ограничений против релокантов. Также он проведет встречу с премьер-министром Армении Николом Пашиняном для обсуждения развития Армении и созвонился с президентом Азербайджана Ильхамом Алиевым для активизации контактов. Ранее Путин поддержал идею допустить к службе в регионах добровольцев с категорией «Д» и пообещал обсудить с военными улучшение систем защиты от атак.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8938282",
+        "https://www.kommersant.ru/doc/8938072",
+        "https://www.kommersant.ru/doc/8937992",
+        "https://www.kommersant.ru/doc/8937343",
+        "https://www.kommersant.ru/doc/8937334"
+      ],
+      "perspective": "Власти представляют это как меры по укреплению безопасности и развитию международных отношений. Оппозиция может критиковать ужесточение контроля над релокантами. Эксперты отмечают активизацию дипломатии на постсоветском пространстве.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "c5c8799803e1"
+    },
+    {
+      "title_ru": "Программа развития Дальнего Востока России",
+      "title_en": "Russian Far East development program",
+      "date": "2026-09-07",
+      "summary": "Правительство России утвердило программу развития Дальнего Востока до 2036 года. Доля занятых в креативной экономике ДФО должна вырасти до 15%, продолжительность жизни достичь 81 года. Коренным народам Севера обеспечат доступ к телемедицине и высокоскоростной сети, упростят визовые процедуры для развития туризма, а также соединят мощности портов и подводящей инфраструктуры для Восточного полигона.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "tass.ru",
+        "ria.ru"
+      ],
+      "links": [
+        "https://tass.ru/ekonomika/28088769",
+        "https://ria.ru/20260907/dfo-2116171633.html",
+        "https://tass.ru/obschestvo/28088721",
+        "https://tass.ru/obschestvo/28088709",
+        "https://tass.ru/ekonomika/28088679"
+      ],
+      "perspective": "Власти представляют это как стратегическое развитие отдаленных регионов. Эксперты могут сомневаться в реалистичности поставленных целей. Местные жители надеются на улучшение качества жизни и экономических возможностей.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "56b2ce4e1e3d"
+    },
+    {
+      "title_ru": "«Росатом» построит завод по сборке элементов ветрогенераторов в Амурской области",
+      "title_en": "Rosatom to build wind turbine component assembly plant in Amur region",
+      "date": "2026-09-07",
+      "summary": "Госкорпорация «Росатом» планирует построить завод по сборке элементов ветрогенераторов в Амурской области. Это часть программы развития возобновляемой энергетики на Дальнем Востоке России.",
+      "category": "energy",
+      "area": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/column/vetrogeneratory-in-amur"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "46217c8ae2b3"
+    },
+    {
+      "title_ru": "Tesla запустила «Кибертакси» без приглашения прессы",
+      "title_en": "Tesla launched CyberTaxi without inviting press",
+      "date": "2026-09-07",
+      "summary": "Компания Tesla запустила сервис «Кибертакси», но не пригласила на презентацию представителей прессы. Наблютели выражают сомнения в успехе данного проекта, учитывая предыдущие проблемы компании с автономным вождением.",
+      "category": "tech",
+      "area": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/hi-tech/tesla-zapustila-kibertaksi"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "87b923773895"
+    },
+    {
+      "title_ru": "Великобритания готовится запретить торговлю с израильскими поселениями на Западном берегу",
+      "title_en": "Britain Set to Target Israeli West Bank Settlements With Trade Ban",
+      "date": "2026-09-07",
+      "summary": "Великобритания планирует ввести запрет на торговлю с израильскими поселениями на Западном берегу реки Иордан, что станет значительным шагом в политике санкций против израильской поселенческой деятельности. Решение ожидается во вторник и вызвало обеспокоенность в Израиле.",
+      "category": "politics",
+      "area": "Ближний Восток",
+      "sources": [
+        "The New York Times",
+        "The Jerusalem Post"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/09/07/world/middleeast/britain-sanctions-israeli-settlers.html",
+        "https://www.jpost.com/middle-east/article-907844"
+      ],
+      "perspective": "Для палестинцев и их сторонников это шаг к справедливости и давлению на Израиль. Для израильского правительства и поселенцев - недружественный акт, подрывающий израильский суверенитет. Для британских властей - выполнение международных обязательств по защите прав человека.",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "cf55e9d90c7f"
+    },
+    {
+      "title_ru": "Дроны будут использованы для поиска пропавшей канадской скайраннер на Маттерхорне",
+      "title_en": "Drones to be used in search for missing Canadian skyrunner Kalie McCrystal",
+      "date": "2026-09-07",
+      "summary": "Спасательные службы используют дроны для поиска пропавшей канадской скайраннер Кали Маккристал на итальянской стороне горы Маттерхорн. Спортсменка пропала во время тренировочного забега, поисковые операции продолжаются уже несколько дней.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "The Globe and Mail"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/article-drones-missing-canadian-skyrunner-kalie-mccrystal/"
+      ],
+      "perspective": "Для канадских властей и семьи - это гуманитарная операция по спасению жизни. Для итальянских спасательных служб - стандартная процедура поиска пропавших в горах. Для общественности - трагический случай, поднимающий вопросы безопасности экстремальных видов спорта.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "87fb5811326a"
+    },
+    {
+      "title_ru": "Тёмная энергия и тёмная материя могут иметь собственное измерение",
+      "title_en": "Two of the Universe's Great Mysteries May Have Their Own Dimension",
+      "date": "2026-09-07",
+      "summary": "Новое научное исследование предполагает, что тёмная энергия и тёмная материя - две величайшие загадки Вселенной - могут существовать в собственном измерении. Эта гипотеза может объяснить, почему эти составляющие Вселенной остаются невидимыми для современных методов наблюдения.",
+      "category": "tech",
+      "area": "Мир",
+      "sources": [
+        "Wired"
+      ],
+      "links": [
+        "https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "c556a262c3a5"
+    },
+    {
+      "title_ru": "Ожидания от предстоящего запуска Apple: возможны сюрпризы помимо нового iPhone",
+      "title_en": "What we expect from the upcoming Apple launch",
+      "date": "2026-09-07",
+      "summary": "Технологическое сообщество ожидает сентябрьского мероприятия Apple, которое может принести сюрпризы, выходящие за рамки традиционного анонса нового iPhone. Аналитики предполагают, что компания может представить значительные инновации в области искусственного интеллекта и других технологий.",
+      "category": "ai",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "TechCrunch",
+        "Wired",
+        "Yahoo Finance"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+        "https://www.wired.com/story/how-to-watch-apple-iphone-september-event-2026/",
+        "https://finance.yahoo.com/markets/stocks/articles/apple-stock-september-surprise-could-130002154.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "caef86206462"
+    },
+    {
+      "title_ru": "Колумбия назначает Ордоньеса послом в ОАГ",
+      "title_en": "Colombia Names Ordóñez as OAS Ambassador Again",
+      "date": "2026-09-07 15:40:06+00:00",
+      "summary": "Колумбия повторно назначила Луиса Альфонсо Ордоньеса послом в Организации американских государств. Это назначение происходит в контексте дипломатических отношений Колумбии с региональными организациями.",
+      "category": "politics",
+      "area": "Южная Америка",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/colombia-names-ordonez-oas-ambassador-2026/"
+      ],
+      "perspective": "Правительство Колумбии может рассматривать это как укрепление дипломатических позиций страны. Оппозиция может критиковать назначение как политическое решение без учёта профессиональных качеств кандидата.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07 15:40:06+00:00",
+      "id": "38b4bccff812"
+    },
+    {
+      "title_ru": "МЕРКОСУР запускает торговый компонент с ЕС",
+      "title_en": "Mercosur Launches EU Trade Pillar as Pacific Alliance Stagnation Widens Bloc Gap",
+      "date": "2026-09-07 16:07:16+00:00",
+      "summary": "Торговый блок МЕРКОСУР запускает торговый компонент с Европейским союзом на фоне стагнации Тихоокеанского альянса. Это усиливает разрыв между двумя основными региональными блоками Латинской Америки.",
+      "category": "politics",
+      "area": "Южная Америка",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/pacific-alliance-mercosur-2026/"
+      ],
+      "perspective": "Страны МЕРКОСУР рассматривают это как укрепление экономических связей с Европой. Страны Тихоокеанского альянса могут видеть в этом угрозу своему влиянию в регионе.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07 16:07:16+00:00",
+      "id": "75d5e7da7b94"
+    },
+    {
+      "title_ru": "Кибератаки Gunra поразили три компании в Уругвае",
+      "title_en": "Gunra Ransomware Hits Three Uruguayan Firms in Three Months",
+      "date": "2026-09-07 15:41:05+00:00",
+      "summary": "Вредоносное ПО Gunra атаковало три компании в Уругвае в течение трёх месяцев. Это свидетельствует о растущей угрозе кибербезопасности для бизнеса в регионе.",
+      "category": "tech",
+      "area": "Южная Америка",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/gunra-ransomware-uruguay-firms-2026/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07 15:41:05+00:00",
+      "id": "401587e268cd"
+    },
+    {
+      "title_ru": "Победа правой партии AfD в Саксонии-Анхальт вызывает опасения в Германии",
+      "title_en": "AfD victory in Saxony-Anhalt raises concerns in Germany",
+      "date": "2026-09-07",
+      "summary": "Правая партия \"Альтернатива для Германии\" (AfD) одержала победу на выборах в земле Саксония-Анхальт. Лидер партии связал успех с недовольством населения помощью Украине. Иностранные граждане в Германии выражают опасения по поводу возможного поворота страны вправо.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "France 24",
+        "TASS"
+      ],
+      "links": [
+        "https://www.france24.com/fr/europe/20260907-vent-panique-victoire-afd-saxe-anhalt-%C3%A9trangers-redoutent-tournant-extr%C3%AAme-droite",
+        "https://tass.com/world/2183771"
+      ],
+      "perspective": "Левые и центристские партии рассматривают победу AfD как угрозу демократическим ценностям и европейской интеграции. Консервативные круги могут видеть в этом выражение народного недовольства миграционной и внешней политикой. Сама AfD позиционирует победу как ответ на недовольство поддержкой Украины.",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "cd4eb1ec3fab"
+    },
+    {
+      "title_ru": "Эскалация торгового конфликта между Канадой и США",
+      "title_en": "Canada-US trade conflict escalates",
+      "date": "2026-09-07",
+      "summary": "Канада ввела ответные тарифы на американские товары в ответ на торговые ограничения со стороны США. Переговоры между странами зашли в тупик, что негативно сказывается на экономических отношениях. Конфликт также затрагивает сельскохозяйственный сектор, включая пчеловодство.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "Daily Sabah",
+        "The Globe and Mail",
+        "The New York Times"
+      ],
+      "links": [
+        "https://www.dailysabah.com/business/economy/canada-hits-back-at-us-with-new-tariffs-as-trade-row-escalates",
+        "https://www.theglobeandmail.com/world/us-politics/article-canada-us-trade-talks-reach-an-impasse/",
+        "https://www.nytimes.com/2026/09/06/world/canada/trump-tariffs-canada-bees-honey.html"
+      ],
+      "perspective": "Канадское правительство рассматривает свои действия как необходимую защиту национальных экономических интересов. Американская администрация может считать тарифы ответом на несправедливую торговую практику. Бизнес-сообщества обеих стран выступают за скорейшее разрешение конфликта.",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "8267978076d3"
+    },
+    {
+      "title_ru": "Россия закрывает немецкое консульство в Санкт-Петербурге",
+      "title_en": "Russia orders closure of German consulate in St. Petersburg",
+      "date": "2026-09-07",
+      "summary": "Россия распорядилась закрыть генеральное консульство Германии в Санкт-Петербурге. Это решение принимается на фоне ухудшения российско-германских отношений. Одновременно Никарагуа оспаривает экспорт немецкого оружия в Израиль в Международном суде ООН.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "Daily Sabah",
+        "DW"
+      ],
+      "links": [
+        "https://www.dailysabah.com/world/europe/russia-orders-german-consulate-in-st-petersburg-to-close",
+        "https://www.dw.com/en/nicaragua-challenges-german-arms-exports-to-israel-at-icj/a-79148044?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "perspective": "Российские власти рассматривают закрытие консульства как ответную меру на действия Запада. Германия и её союзники могут расценивать это как эскалацию напряжённости. Никарагуа использует международные институты для давления на немецкую политику в отношении Израиля.",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "58afc7198199"
+    },
+    {
+      "title_ru": "Tesla Cybercab сталкивается с проблемами на дорогах",
+      "title_en": "Tesla Cybercab hits the road — and a snag",
+      "date": "2026-09-06",
+      "summary": "Автономное такси Tesla Cybercab начало тестовые поездки, но столкнулось с техническими проблемами. Это событие представляет собой важный этап в развитии автономного транспорта. Новость освещает технологические вызовы, с которыми сталкиваются компании при внедрении беспилотных транспортных средств.",
+      "category": "tech",
+      "area": "Европа",
+      "sources": [
+        "TechCrunch"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-06",
+      "id": "e5cbededd3b2"
+    },
+    {
+      "title_ru": "Иран сохранил экспорт нефти несмотря на 550 ударов по Харгу",
+      "title_en": "Iran kept oil exports flowing during war despite 550 strikes on Kharg",
+      "date": "2026-09-07",
+      "summary": "Министр Ирана заявил, что страна смогла сохранить экспорт нефти во время войны, несмотря на 550 ударов по нефтяному терминалу Харг. Это демонстрирует устойчивость иранской энергетической инфраструктуры в условиях конфликта.",
+      "category": "energy",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/07/775818/Iran-kept-oil-exports-flowing-during-war-despite-550-strikes-on-Kharg--Minister"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "ee4f67397227"
+    },
+    {
+      "title_ru": "Лавров заявил о начале реальной войны России с Западом",
+      "title_en": "Lavrov says Russia at 'start of real war' with West",
+      "date": "2026-09-06",
+      "summary": "Министр иностранных дел России Сергей Лавров заявил, что Россия находится в начале реальной войны с Западом. Это заявление сделано на фоне продолжающегося конфликта и напряжённости в отношениях России с западными странами.",
+      "category": "politics",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/06/775803/Lavrov-Russia-Germany-start-of-real-war-with-West"
+      ],
+      "perspective": "Российские власти представляют это как оборонительную позицию против западной агрессии, в то время как западные страны могут рассматривать такие заявления как эскалацию риторики и подтверждение своих опасений относительно российской внешней политики.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-06",
+      "id": "56d03f2a1d85"
+    },
+    {
+      "title_ru": "Большинство израильтян против уступок ультраортодоксам в вопросах религии и государства",
+      "title_en": "Majority of Israelis want government to refuse haredi demands on religion-and-state policies",
+      "date": "2026-09-07",
+      "summary": "Согласно опросу, большинство израильтян выступают против удовлетворения требований ультраортодоксальных партий в вопросах религии и государства. Это отражает растущее напряжение между светским большинством и религиозными группами в Израиле.",
+      "category": "politics",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/israel-news/politics-and-diplomacy/article-907870"
+      ],
+      "perspective": "Светские и либеральные политические силы могут приветствовать результаты опроса как подтверждение своей позиции, в то время как религиозные партии могут считать это угрозой своим традиционным правам и влиянию в государственных делах.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "10fe4b9365c5"
+    },
+    {
+      "title_ru": "Израильский военный министр приказал подготовиться к полномасштабной войне с Палестинской администрацией",
+      "title_en": "Israeli war minister orders army to prepare for 'all-out war' on Palestinian Authority",
+      "date": "2026-09-07",
+      "summary": "Израильский министр обороны отдал приказ армии подготовиться к полномасштабной войне против Палестинской администрации. Это указывает на эскалацию напряжённости в регионе и возможность нового крупного военного конфликта.",
+      "category": "politics",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/07/775858/Israeli-military-ordered-to-prepare-for--all-out-war--on-Palestinian-Authority"
+      ],
+      "perspective": "Израильские власти могут представлять это как необходимую меру безопасности, в то время как палестинские и международные организации могут рассматривать такие заявления как угрозу миру и нарушение международного права.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "c050afa127c2"
+    },
+    {
+      "title_ru": "СМИ Азиатско-Тихоокеанского региона отстаивают собственный голос в эпоху ИИ",
+      "title_en": "Asia-Pacific media champion own voice in AI era",
+      "date": "2026-09-07",
+      "summary": "На Азиатско-Тихоокеанском медиафоруме обсуждалась необходимость сохранения собственного голоса медиа региона в эпоху искусственного интеллекта. Участники форума подчеркнули важность региональной повестки и противодействия доминированию западных медиатехнологий.",
+      "category": "ai",
+      "area": "Ближний Восток",
+      "sources": [
+        "en.mehrnews.com"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/247530/Asia-Pacific-media-champion-own-voice-in-AI-era"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "ba3382672bf8"
+    },
+    {
+      "title_ru": "Северная Корея вводит в строй ядерно-способный эсминец",
+      "title_en": "North Korea commissions nuclear-capable naval destroyer",
+      "date": "2026-09-07",
+      "summary": "Северная Корея ввела в состав своего флота второй эсминец, способный нести ядерное оружие. Корабль назван 'Кан Кон' и представляет собой усиление военно-морских сил страны.",
+      "category": "energy",
+      "area": "Дальний Восток",
+      "sources": [
+        "www.taipeitimes.com",
+        "en.yna.co.kr",
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/front/archives/2026/09/08/2003863867",
+        "https://en.yna.co.kr/view/AEN20260907001151315",
+        "https://en.yna.co.kr/view/AEN20260907001100315"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "12d07814064f"
+    },
+    {
+      "title_ru": "Трамп усиливает давление на ФРС перед возможным повышением ставок",
+      "title_en": "Trump increases pressure on Fed ahead of possible rate hike",
+      "date": "2026-09-07",
+      "summary": "Бывший президент США Дональд Трамп усиливает давление на Федеральную резервную систему в преддверии возможного повышения процентных ставок. Одновременно ЕС объявил о инвестициях в Гренландию на 232 миллиона долларов на фоне давления со стороны Трампа.",
+      "category": "tech",
+      "area": "Дальний Восток",
+      "sources": [
+        "www.taipeitimes.com",
+        "www.dailysabah.com",
+        "www.cnbc.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/editorials/archives/2026/09/08/2003863853",
+        "https://www.dailysabah.com/business/economy/eu-pledges-232m-in-greenlandinvestments-amid-trump-pressure",
+        "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "a05fcc419691"
+    },
+    {
+      "title_ru": "Президент Южной Кореи прибыл в Париж для встречи с Макроном",
+      "title_en": "South Korean President arrives in Paris for summit with Macron",
+      "date": "2026-09-08",
+      "summary": "Президент Южной Кореи Ли прибыл в Париж для проведения саммита с французским президентом Эмманюэлем Макроном. В ходе визита он призвал к партнерству, связывающему местный контент с глобальными платформами.",
+      "category": "ai",
+      "area": "Дальний Восток",
+      "sources": [
+        "en.yna.co.kr",
+        "en.yna.co.kr",
+        "en.yna.co.kr",
+        "en.yna.co.kr",
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260907009600315",
+        "https://en.yna.co.kr/view/AEN20260907009500315",
+        "https://en.yna.co.kr/view/AEN20260907010051315",
+        "https://en.yna.co.kr/view/AEN20260907010000315",
+        "https://en.yna.co.kr/view/AEN20260907009951320"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "0513cf2e7dd8"
+    },
+    {
+      "title_ru": "Пожар на рынке в Центральной Папуа унес жизни 11 человек",
+      "title_en": "Market Fire in Central Papua's Paniai killed 11, probe ongoing",
+      "date": "2026-09-07",
+      "summary": "В результате пожара на рынке в округе Паниаи провинции Центральная Папуа в Индонезии погибли 11 человек. Расследование причин возгорания продолжается, власти изучают обстоятельства трагедии.",
+      "category": "politics",
+      "area": "Южная и Юго-Восточная Азия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/430297/market-fire-in-central-papuas-paniai-killed-11-probe-ongoing"
+      ],
+      "perspective": "Трагедия может быть использована оппозицией для критики властей за недостаточные меры пожарной безопасности. Правящая коалиция будет подчеркивать оперативное расследование и помощь пострадавшим.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "ee9a56e07fac"
+    },
+    {
+      "title_ru": "Индонезия усиливает меры реагирования на извержения нескольких вулканов",
+      "title_en": "Indonesia ramps up response as multiple volcanoes erupt",
+      "date": "2026-09-07",
+      "summary": "Индонезия активизирует меры реагирования на одновременные извержения нескольких вулканов по всей стране. Власти мобилизуют ресурсы для эвакуации населения и минимизации последствий природного бедствия.",
+      "category": "politics",
+      "area": "Южная и Юго-Восточная Азия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/430292/indonesia-ramps-up-response-as-multiple-volcanoes-erupt"
+      ],
+      "perspective": "Оппозиция может критиковать правительство за недостаточную готовность к стихийным бедствиям. Власти будут демонстрировать оперативность реагирования и координацию действий различных ведомств.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "39efba71f918"
+    },
+    {
+      "title_ru": "Правительство Австралии планирует допросить крупные технологические компании",
+      "title_en": "Australian government plans to grill big tech companies",
+      "date": "2026-09-08",
+      "summary": "Австралийское правительство готовится к серьёзному допросу крупных технологических компаний. Это политическое решение направлено на усиление контроля над деятельностью IT-гигантов в стране.",
+      "category": "politics",
+      "area": "Океания и Австралия",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/national/government-plans-to-grill-big-tech-companies-20260908-p60va4.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "perspective": "Либеральные силы могут критиковать это как излишнее вмешательство государства в бизнес, в то время как левые и профсоюзные организации поддержат усиление контроля над корпорациями.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-08",
+      "id": "e03b8b85b481"
+    },
+    {
+      "title_ru": "Латвия предлагает 300% тариф на зерно из России и Беларуси",
+      "title_en": "Latvia floats 300% tariff on grain arriving from Russia, Belarus",
+      "date": "2026-09-07",
+      "summary": "Латвия рассматривает введение 300% тарифа на зерно, поступающее из России и Беларуси. Это предложение является частью экономических мер в ответ на продолжающийся конфликт в регионе.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "www.dailysabah.com"
+      ],
+      "links": [
+        "https://www.dailysabah.com/business/economy/latvia-floats-300-tariff-on-grain-arriving-from-russia-belarus"
+      ],
+      "perspective": "Сторонники жёсткой линии против России поддержат эту меру как экономическое давление, в то время как фермеры и торговые организации могут выразить обеспокоенность ростом цен на зерно.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "d9798be3edd5"
+    },
+    {
+      "title_ru": "Творческий потенциал Африки - следующая золотая жила для ИИ",
+      "title_en": "Africa's creativity is AI's next gold rush",
+      "date": "2026-09-07",
+      "summary": "Африканский творческий потенциал рассматривается как следующая большая возможность для развития искусственного интеллекта. Статья анализирует, как культурное и художественное наследие континента может стать основой для инноваций в сфере ИИ.",
+      "category": "ai",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/thought-leader/2026-09-07-africa-s-creativity-is-ai-s-next-gold-rush/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-07",
+      "id": "5960d2404057"
+    },
+    {
+      "title_ru": "Компании по производству пластика пишут учебные планы",
+      "title_en": "Plastics Companies Are Writing Lesson Plans",
+      "date": "2026-09-07",
+      "summary": "Компании по производству пластика активно участвуют в создании учебных материалов для школ. Эта практика вызывает вопросы о потенциальном влиянии корпоративных интересов на образование детей.",
+      "category": "tech",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "www.wired.com"
+      ],
+      "links": [
+        "https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-07",
+      "id": "fd84836f638f"
+    },
+    {
+      "title_ru": "Рост цен на нефть и их политические последствия",
+      "title_en": "Oil prices rise and political speculation",
+      "date": "2026-09-08",
+      "summary": "Рост цен на нефть влияет на финансовые рынки, вызывая обеспокоенность инвесторов. Одновременно иранский политик Галибаф высмеивает прогнозы о падении цен на нефть перед промежуточными выборами в США.",
+      "category": "energy",
+      "area": "Мир",
+      "sources": [
+        "www.smh.com.au",
+        "en.irna.ir"
+      ],
+      "links": [
+        "https://www.smh.com.au/business/markets/asx-set-to-slide-as-oil-prices-rise-a-stronger-20260908-p60v9u.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+        "https://en.irna.ir/news/86256805/Ghalibaf-mocks-Bessent-for-speculating-drop-in-oil-prices-before"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-08",
+      "id": "d324dbcbc703"
+    },
+    {
+      "title_ru": "Суд снял ордер на арест Jub Jub после его явки в суд",
+      "title_en": "Jub Jub's arrest warrant struck off the roll after he appears in court",
+      "date": "2026-09-07",
+      "summary": "Суд в ЮАР снял ордер на арест известной медийной личности Jub Jub после того, как он явился в суд. Дело связано с обвинениями в нападении и других правонарушениях, которые привлекли значительное общественное внимание.",
+      "category": "politics",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-09-07-jub-jub-s-arrest-warrant-struck-off-the-roll-after-he-appears-in-court/"
+      ],
+      "perspective": "Правозащитники могут приветствовать соблюдение правовых процедур, в то время как критики могут считать это проявлением неравенства в правосудии для знаменитостей.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "e9405b1a6679"
+    },
+    {
+      "title_ru": "Важность финансовой грамотности для владельцев малого бизнеса",
+      "title_en": "Why financial literacy matters for small business owners",
+      "date": "2026-09-07",
+      "summary": "Эксперты подчёркивают важность финансовой грамотности для владельцев малого бизнеса в ЮАР. Отсутствие знаний в области управления финансами часто приводит к неудачам предпринимательских инициатив, особенно в условиях экономической нестабильности.",
+      "category": "politics",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/thought-leader/2026-09-07-why-financial-literacy-matters-for-small-business-owners/"
+      ],
+      "perspective": "Правительственные структуры могут рассматривать это как важный элемент экономического развития, в то время как оппозиционные силы могут критиковать недостаточность государственных программ поддержки предпринимательства.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "163b3bd2832e"
+    },
+    {
+      "title_ru": "Финансовые ставки на рынке: CD до 4,35% APY, ипотечные ставки выше недельной давности",
+      "title_en": "Financial market rates: CDs up to 4.35% APY, mortgage rates higher week-over-week",
+      "date": "2026-09-07",
+      "summary": "На финансовом рынке предлагаются депозитные сертификаты (CD) с доходностью до 4,35% годовых. Ипотечные ставки на покупку жилья ниже, чем на рефинансирование, но при этом значительно выше по сравнению с предыдущей неделей. Также наблюдается разница в 19 базисных пунктов между ставками по кредитам под залог недвижимости (HELOC) и обычным ипотечным кредитам.",
+      "category": "finance",
+      "area": "Мир",
+      "sources": [
+        "finance.yahoo.com",
+        "finance.yahoo.com",
+        "finance.yahoo.com",
+        "finance.yahoo.com",
+        "finance.yahoo.com"
+      ],
+      "links": [
+        "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-7-2026-lock-in-up-to-435-apy-100000332.html",
+        "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-7-2026-fixed-purchase-rates-lower-than-refi-rates-100000677.html",
+        "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-7-2026-a-19-basis-point-differential-100000340.html",
+        "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-september-6-2026-rates-much-higher-week-over-week-100000794.html",
+        "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-september-6-2026-lock-in-up-to-435-apy-100000219.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "7abb25309ea6"
     }
   ],
   "_stats": {
-    "total_tokens": 1385683,
-    "total_cost": 226.95406799999998
+    "total_tokens": 1442946,
+    "total_cost": 230.70798799999997
   }
 }
