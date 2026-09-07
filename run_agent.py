@@ -68,7 +68,9 @@ def hash_event(e):
     return hashlib.md5(raw.encode("utf-8")).hexdigest()[:12]
 
 
-QUOTA = {"politics": 5, "ai": 2, "tech": 3, "finance": 1, "photo": 1}
+AREAS_ORDER = ["Россия", "Северная и Центральная Америка", "Южная Америка", "Европа", "Ближний Восток", "Дальний Восток", "Южная и Юго-Восточная Азия", "Океания и Австралия", "Африка"]
+PER_AREA = {"politics": 3, "energy": 1, "tech": 1, "ai": 1}
+GLOBAL = {"finance": 1, "photo": 1}
 
 
 def looks_like_ai(cluster):
@@ -81,34 +83,62 @@ def looks_like_ai(cluster):
     return any(k in text for k in kw)
 
 
-def select_clusters(clusters):
-    total = sum(QUOTA.values())
-    buckets = {}
+def looks_like_energy(cluster):
+    kw = ("energy", "oil", "gas", "coal", "nuclear", "power plant", "renewable",
+          "wind", "solar", "electricity", "grid", "нефт", "газ", "энерг", "атом",
+          "уголь", "ветер", "солнечн", "электроэнерг", "топлив", "нефтегаз",
+          "opec", "санкции на энергосектор", "lng", "дизел", "бензин")
+    text = ""
+    for a in cluster:
+        text += (a.get("title", "") + " " + a.get("summary", ""))[:400].lower()
+    return any(k in text for k in kw)
+
+
+def _get_area(cluster):
+    for a in cluster:
+        area = a.get("area")
+        if area:
+            return area
+    return ""
+
+
+def select_clusters(clusters, config=None):
+    areas = {conf.get("area") for conf in (config.get("sources", {}).values() if config else {})} if config else set()
+    if not areas:
+        areas = set(AREAS_ORDER)
+
+    by_area_cat = {}
     for c in clusters:
         cat = c[0].get("category", "politics") if c else "politics"
+        for a in c:
+            a["category"] = cat
+        area = _get_area(c) or "Неизвестный регион"
+        cat_map = {"tech": "ai" if looks_like_ai(c) else ("energy" if looks_like_energy(c) else "tech")}
         if cat == "tech":
-            cat = "ai" if looks_like_ai(c) else "tech"
-        elif cat not in ("finance", "ai", "photo"):
+            cat = cat_map["tech"]
+        elif cat not in ("finance", "ai", "photo", "energy"):
             cat = "politics"
         for a in c:
             a["category"] = cat
-        buckets.setdefault(cat, []).append(c)
+        by_area_cat.setdefault(area, {}).setdefault(cat, []).append(c)
 
     selected = []
     chosen = set()
-    for cat, n in QUOTA.items():
-        take = buckets.get(cat, [])[:n]
-        selected.extend(take)
-        chosen.update(id(c) for c in take)
-    if len(selected) < total:
-        for c in clusters:
-            if id(c) in chosen:
-                continue
-            selected.append(c)
-            chosen.add(id(c))
-            if len(selected) >= total:
-                break
-    return selected[:total]
+    for area in sorted(areas):
+        area_clusters = by_area_cat.get(area, {})
+        for cat, n in PER_AREA.items():
+            take = area_clusters.get(cat, [])[:n]
+            for c in take:
+                if id(c) not in chosen:
+                    selected.append(c)
+                    chosen.add(id(c))
+    for cat, n in GLOBAL.items():
+        take = by_area_cat.get("Мир", {}).get(cat, [])[:n]
+        for c in take:
+            if id(c) not in chosen:
+                selected.append(c)
+                chosen.add(id(c))
+    return selected
 
 
 def generate_html(events, config, usage=None, api_key=None):
@@ -116,7 +146,7 @@ def generate_html(events, config, usage=None, api_key=None):
     with open(tpl_path, encoding="utf-8") as f:
         html = f.read()
 
-    cat_counts = {"politics": 0, "ai": 0, "tech": 0, "finance": 0, "photo": 0}
+    cat_counts = {"politics": 0, "ai": 0, "tech": 0, "energy": 0, "finance": 0, "photo": 0}
     stories_html = ""
     for idx, ev in enumerate(events, 1):
         cat = ev.get("category", "politics")
@@ -128,7 +158,7 @@ def generate_html(events, config, usage=None, api_key=None):
             for l in ev.get("links", [])[:3]
         )
 
-        cat_label = {"politics": "Политика", "ai": "AI", "tech": "Техно/Наука", "finance": "Финансы", "photo": "Фото"}.get(cat, "")
+        cat_label = {"politics": "Политика", "ai": "AI", "tech": "Техно/Наука", "energy": "Энергетика", "finance": "Финансы", "photo": "Фото"}.get(cat, "")
         cat_badge = f'<span class="cat-badge cat-{cat}">{cat_label}</span>' if cat_label else ""
 
         perspective = ev.get("perspective", "").strip()
@@ -222,7 +252,7 @@ def generate_html(events, config, usage=None, api_key=None):
     html = html.replace("__USAGE_INFO__", usage_text)
     html = html.replace("__TOTAL_STORIES__", str(len(events)))
     html = html.replace("__TOTAL_SOURCES__", str(sum(len(e.get("sources", [])) for e in events)))
-    cat_display = " | ".join(f'{l}: {cat_counts.get(k,0)}' for k,l in [("politics","Политика"),("ai","AI"),("tech","Техно"),("finance","Финансы"),("photo","Фото")] if cat_counts.get(k,0))
+    cat_display = " | ".join(f'{l}: {cat_counts.get(k,0)}' for k,l in [("politics","Политика"),("ai","AI"),("tech","Техно"),("energy","Энергетика"),("finance","Финансы"),("photo","Фото")] if cat_counts.get(k,0))
     html = html.replace("__REGIONS_COVERED__", cat_display)
     html = html.replace("__STORIES__", stories_html)
     from news_agent.ai_summarizer import MODEL as AI_MODEL_NAME
@@ -301,7 +331,7 @@ def main():
     clusters = cluster_news(articles)
     print(f"Total clusters: {len(clusters)}")
 
-    selected = select_clusters(clusters)
+    selected = select_clusters(clusters, config)
     from collections import Counter
     sel_cats = Counter(c[0].get("category", "politics") for c in selected)
     print(f"  Selected for AI: {len(selected)} clusters ({dict(sel_cats)})")
