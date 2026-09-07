@@ -1911,10 +1911,705 @@
       "title_ru": "Tesla запустила «Кибертакси» без приглашения прессы, наблюдатели сомневаются в успехе",
       "first_reported": "2026-09-07",
       "id": "a6a6094765dd"
+    },
+    {
+      "title_ru": "Атаки БПЛА в Белгородской области и Горловке",
+      "title_en": "Drone attacks in Belgorod region and Gorlovka",
+      "date": "2026-09-07",
+      "summary": "В Белгородской области при атаке БПЛА пострадал мужчина, также дрон ВСУ ударил по микроавтобусу. В Горловке при ударе БПЛА ВСУ повреждена машина коммунального предприятия. Одновременно в Ливане при атаке Израиля пострадала съемочная группа местного телеканала.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "tass.ru",
+        "ria.ru",
+        "tass.ru",
+        "ria.ru"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/28088603",
+        "https://ria.ru/20260907/vsu-2116163408.html",
+        "https://tass.ru/proisshestviya/28088619",
+        "https://ria.ru/20260907/livan-2116161270.html"
+      ],
+      "perspective": "Российские власти представляют это как террористические атаки ВСУ на гражданские объекты. Украинская сторона может рассматривать это как ответные удары по военным целям в приграничных регионах.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "578f391ac9a9"
+    },
+    {
+      "title_ru": "Сокращение производства водки и алкоголя в России",
+      "title_en": "Reduction of vodka and alcohol production in Russia",
+      "date": "2026-09-07",
+      "summary": "Производство водки в России сократилось с начала года на 12%, а общее производство алкоголя за восемь месяцев 2026 года снизилось на 7,2%. Одновременно глава МВД Григоренко сообщил о сокращении киберпреступлений в России с начала года почти на треть.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "www.kommersant.ru",
+        "www.kommersant.ru",
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8938481",
+        "https://www.kommersant.ru/doc/8938462",
+        "https://www.kommersant.ru/doc/8938459"
+      ],
+      "perspective": "Власти могут представлять сокращение производства алкоголя как положительную тенденцию в борьбе с алкоголизацией населения. Оппозиция может связывать это с экономическим спадом и снижением покупательной способности населения.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "9932a988c53f"
+    },
+    {
+      "title_ru": "Путин присвоил вокзалу Грозного имя Ахмата Кадырова",
+      "title_en": "Putin named Grozny railway station after Akhmat Kadyrov",
+      "date": "2026-09-07",
+      "summary": "Президент России Владимир Путин присвоил вокзалу Грозного имя первого президента Чеченской Республики Ахмата Кадырова. Это решение следует за другими указами президента, включая создание комиссии по ограничениям для релокантов и поддержку идеи допуска к службе добровольцев с категорией «Д» в регионах.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8938206"
+      ],
+      "perspective": "Власти представляют это как дань уважения памяти Ахмата Кадырова и укрепление единства России. Критики могут рассматривать это как продолжение политики усиления влияния семьи Кадыровых в Чечне и в целом по стране.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "a89bc364a211"
+    },
+    {
+      "title_ru": "Ученые выяснили причину набора льда в Антарктиде",
+      "title_en": "Scientists discovered the reason for ice gain in Antarctica",
+      "date": "2026-09-07",
+      "summary": "Ученые выяснили, почему Антарктида неожиданно набрала 695 миллиардов тонн льда. Исследование показало, что это связано с изменениями в атмосферной циркуляции и переносом влаги. Отдельно ученые развеяли 70-летний миф о «рептильном мозге» человека, показав, что эта теория не соответствует современным научным данным.",
+      "category": "ai",
+      "area": "Россия",
+      "sources": [
+        "naked-science.ru",
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/climate/antarktida-nabrala-lda",
+        "https://naked-science.ru/article/biology/mif-o-reptilnom-mozge"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "d8feab2bdd04"
+    },
+    {
+      "title_ru": "Тысячи сербов собрались на похороны Ратко Младича, осуждённого за военные преступления",
+      "title_en": "Thousands of Serbs Gather to Mourn Ratko Mladic, the 'Butcher of Bosnia'",
+      "date": "2026-09-07",
+      "summary": "Тысячи людей собрались в Белграде на похороны бывшего военного лидера боснийских сербов Ратко Младича, осуждённого Международным трибуналом по бывшей Югославии за геноцид и военные преступления. Событие вызвало раскол в сербском обществе, где одни считают Младича героем, а другие — военным преступником. Похороны стали поводом для размышлений о незавершённом процессе примирения в регионе.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "The New York Times",
+        "ТАСС",
+        "BBC",
+        "Deutsche Welle"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/09/07/world/europe/ratko-mladic-funeral-serbia.html",
+        "https://tass.com/society/2183767",
+        "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
+        "https://www.dw.com/en/serbia-how-the-funeral-of-ratko-mladic-is-dividing-a-nation/a-78948890?maca=en-rss-en-all-1573-xml-mrss",
+        "https://www.dw.com/en/mladic-s-death-bosnia-and-serbia-s-unfinished-reckoning/a-78602733?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "perspective": "Националистические и консервативные круги в Сербии могут рассматривать Младича как национального героя и защитника сербского народа. Либеральные и проевропейские силы, а также международное сообщество видят в нём военного преступника, чьи похороны демонстрируют нежелание Сербии полностью признать преступления 1990-х годов.",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "ab90b0cfb49b"
+    },
+    {
+      "title_ru": "Судья объявляет неправильный суд в деле Линдси Клэнси после тупика в жюри",
+      "title_en": "Judge declares mistrial in Lindsay Clancy murder case after jury deadlock",
+      "date": "2026-09-04",
+      "summary": "Судья объявил неправильный суд в деле Линдси Клэнси, обвиняемой в убийстве своих детей, после того как жюри присяжных не смогло прийти к единому вердикту. Жюри оставалось в тупике в течение пяти дней, несмотря на неоднократные попытки достичь консенсуса. Это решение означает, что дело может быть пересмотрено в новом судебном процессе.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "The Globe and Mail"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/article-judge-in-lindsay-clancy-trial-to-hold-off-on-formally-declaring-a/",
+        "https://www.theglobeandmail.com/world/article-lindsay-clancy-trial-deadlocked-jury-as-risk-of-mistrial-grows/",
+        "https://www.theglobeandmail.com/world/article-lindsay-clancy-murder-trial-what-happens-if-jury-cant-reach-verdict/",
+        "https://www.theglobeandmail.com/world/article-lindsay-clancy-murder-trial-jury-3/"
+      ],
+      "perspective": "Сторона защиты может рассматривать это как свидетельство недостаточности доказательств или сложности дела, требующей более тщательного рассмотрения. Обвинение и сторонники жёсткого наказания могут видеть в этом неудачу судебной системы и необходимость более эффективного представления доказательств в будущем процессе.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-04",
+      "id": "1155fcd21a01"
+    },
+    {
+      "title_ru": "Tesla официально запускает Cybercab, который уже находится под расследованием",
+      "title_en": "Tesla's Cybercab Officially Launches Today. It's Already Under Investigation",
+      "date": "2026-09-04",
+      "summary": "Tesla официально запустила свой автономный такси-сервис Cybercab, но запуск прошёл без особого внимания прессы и уже находится под расследованием регулирующих органов. Компания представила новые детали о сервисе, включая запрет на перевозку маленьких детей. Наблюдатели сомневаются в успехе проекта, который считается решающим для будущего компании.",
+      "category": "tech",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "Wired",
+        "TechCrunch"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
+        "https://www.wired.com/story/tesla-cybercab-officially-launches-today-its-already-under-investigation/",
+        "https://www.wired.com/story/tesla-cybercab-had-a-quiet-debut/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": true,
+      "first_reported": "2026-09-04",
+      "id": "33332e5ee1b1"
+    },
+    {
+      "title_ru": "Тёмная энергия и материя могут иметь своё собственное измерение",
+      "title_en": "Two of the Universe's Great Mysteries May Have Their Own Dimension",
+      "date": "2026-09-07",
+      "summary": "Учёные выдвинули гипотезу, что тёмная энергия и тёмная материя — две величайшие загадки Вселенной — могут существовать в своём собственном измерении. Эта теория предлагает новое объяснение природы этих невидимых компонентов, составляющих большую часть массы и энергии Вселенной. Исследование может привести к пересмотру фундаментальных принципов физики и космологии.",
+      "category": "energy",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "Wired"
+      ],
+      "links": [
+        "https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "159ac2b3a0c4"
+    },
+    {
+      "title_ru": "Аргентина продлевает кредитную линию с Китаем на $19 млрд на фоне роста порта Чанкай",
+      "title_en": "Argentina Renews $19 Billion China Swap Line as Chancay Port Tops 500,000 TEUs",
+      "date": "2026-09-07 16:07:28+00:00",
+      "summary": "Аргентина продлила кредитную линию своп с Китаем на $19 млрд, что свидетельствует о продолжении тесного экономического сотрудничества между странами. Одновременно с этим порт Чанкай в Перу, ключевой проект китайской инфраструктурной инициативы в регионе, превысил отметку в 500 000 TEU (двадцатифутовых эквивалентов), демонстрируя рост китайского влияния в транспортной инфраструктуре Южной Америки.",
+      "category": "politics",
+      "area": "Южная Америка",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/china-latin-america-infrastructure-loans-2026/"
+      ],
+      "perspective": "Левые и про-китайские силы в регионе могут рассматривать это как укрепление стратегического партнёрства и альтернативу традиционному влиянию США. Консервативные и проамериканские круги могут видеть в этом усиление зависимости от Китая и угрозу суверенитету.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07 16:07:28+00:00",
+      "id": "553e561de0f4"
+    },
+    {
+      "title_ru": "МЕРКОСУР запускает торговый блок с ЕС на фоне стагнации Тихоокеанского альянса",
+      "title_en": "Mercosur Launches EU Trade Pillar as Pacific Alliance Stagnation Widens Bloc Gap",
+      "date": "2026-09-07 16:07:16+00:00",
+      "summary": "Южноамериканский торговый блок МЕРКОСУР запускает отдельное торговое направление с Европейским союзом, что знаменует новый этап в экономической интеграции. Это происходит в то время, как Тихоокеанский альянс (включающий Мексику, Колумбию, Перу и Чили) переживает стагнацию, что увеличивает разрыв между двумя основными региональными блоками Латинской Америки.",
+      "category": "politics",
+      "area": "Южная Америка",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/pacific-alliance-mercosur-2026/"
+      ],
+      "perspective": "Сторонники МЕРКОСУРа и проевропейские силы увидят в этом шаг к диверсификации торговых партнёров и снижению зависимости от США и Китая. Критики могут опасаться, что это ослабит позиции Тихоокеанского альянса и усугубит раскол в регионе.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07 16:07:16+00:00",
+      "id": "187a80a7e994"
+    },
+    {
+      "title_ru": "Панамский канал назначает первую женщину-администратора",
+      "title_en": "Panama Canal Names Ilya Espino de Marotta First Woman Administrator",
+      "date": "2026-09-07 15:39:40+00:00",
+      "summary": "Панамский канал, имеющий стратегическое значение для мировой торговли, назначил Илью Эспино де Маротту своим новым администратором. Это историческое решение, так как она становится первой женщиной, возглавившей это ключевое учреждение с момента его создания.",
+      "category": "politics",
+      "area": "Южная Америка",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/panama-canal-first-woman-administrator-2026/"
+      ],
+      "perspective": "Прогрессивные и феминистские движения в регионе могут приветствовать это назначение как шаг к гендерному равенству в руководстве стратегическими объектами. Консервативные круги могут скептически относиться к подобным кадровым решениям, хотя официальная позиция, вероятно, будет положительной.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07 15:39:40+00:00",
+      "id": "827d711ae325"
+    },
+    {
+      "title_ru": "Король Карл III подтвердил статус Гарри и Меган как частных лиц",
+      "title_en": "King Charles classes Harry and Meghan as 'private citizens'",
+      "date": "2026-09-07",
+      "summary": "Король Карл III официально подтвердил, что принц Гарри и Меган Маркл остаются неработающими членами королевской семьи и сохраняют статус частных лиц. Это решение означает, что они не будут выполнять королевские обязанности, несмотря на возвращение в Великобританию.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "Le Monde",
+        "Times of India",
+        "BBC",
+        "Daily Sabah",
+        "The Globe and Mail"
+      ],
+      "links": [
+        "https://www.lemonde.fr/en/international/article/2026/09/07/king-charles-classes-harry-and-meghan-as-private-citizens_6757260_4.html",
+        "https://timesofindia.indiatimes.com/world/uk/no-royal-duties-king-charles-clarifies-harry-and-meghan-remain-private-citizens-after-uk-return/articleshow/133889823.cms",
+        "https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&at_campaign=rss",
+        "https://www.dailysabah.com/world/europe/prince-harry-meghan-remain-non-working-royals-king-charles-says",
+        "https://www.theglobeandmail.com/world/article-harry-and-meghan-to-remain-non-working-royals-king-charles-says/"
+      ],
+      "perspective": "Консервативные круги могут поддерживать решение как сохранение традиций монархии, в то время как прогрессивные силы могут критиковать его как недостаточную интеграцию современных членов королевской семьи. Медиа могут рассматривать это как продолжение конфликта между королевской семьей и герцогом и герцогиней Сассекскими.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "79df83a9664e"
+    },
+    {
+      "title_ru": "Канада вводит ответные пошлины в торговой войне с США",
+      "title_en": "Canada hits back at US with new tariffs as trade row escalates",
+      "date": "2026-09-07",
+      "summary": "Канада ввела ответные тарифы на американские товары в ответ на торговые ограничения со стороны США. Торговый конфликт обострился после угроз президента Трампа ужесточить меры, что негативно сказалось на канадских отраслях, включая пчеловодство.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "Daily Sabah",
+        "The New York Times"
+      ],
+      "links": [
+        "https://www.dailysabah.com/business/economy/canada-hits-back-at-us-with-new-tariffs-as-trade-row-escalates",
+        "https://www.nytimes.com/2026/09/07/world/canada/tariffs-trade-war-carney-trump.html",
+        "https://www.nytimes.com/2026/09/06/world/canada/trump-tariffs-canada-bees-honey.html"
+      ],
+      "perspective": "Протекционистские силы в США могут поддерживать жесткую позицию Трампа как защиту американских рабочих, в то время как сторонники свободной торговли критикуют эскалацию конфликта. В Канаде ответные меры могут получить поддержку как защита национальных интересов, но бизнес-сообщество может опасаться негативных последствий для экономики.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "5676a9bb284f"
+    },
+    {
+      "title_ru": "Антимигрантские протесты в Портсмуте и реакция правительства Великобритании",
+      "title_en": "Anti-migrant protests in Portsmouth and UK government response",
+      "date": "2026-09-07",
+      "summary": "В британском Портсмуте прошли антимигрантские протесты, организованные активистом Дэнни Томасом. Правительство Великобритании осудило эти акции как \"хулиганские\", в то время как продолжаются расследования о маршрутах мигрантских лодок.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "BBC",
+        "Deutsche Welle"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/news/videos/ce8xz6p23dno?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&at_campaign=rss",
+        "https://www.dw.com/en/uk-government-condemns-thuggish-anti-migrant-protests-in-portsmouth/a-79134048?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "perspective": "Правые и националистические группы могут поддерживать протесты как выражение недовольства миграционной политикой, в то время как левые и либеральные силы осуждают их как ксенофобские. Правительство консерваторов пытается балансировать между контролем миграции и соблюдением прав человека.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "6a78f8984587"
+    },
+    {
+      "title_ru": "Лавров заявляет о начале 'настоящей войны' России с Западом",
+      "title_en": "Lavrov says Russia at 'start of real war' with West",
+      "date": "2026-09-07",
+      "summary": "Министр иностранных дел России Сергей Лавров заявил, что Россия находится в начале 'настоящей войны' с Западом. Он также прокомментировал попытки Запада сорвать российские выборы и 'ограбление' российских активов.",
+      "category": "politics",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.presstv.ir",
+        "tass.com"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/06/775803/Lavrov-Russia-Germany-start-of-real-war-with-West",
+        "https://tass.com/politics/2183719"
+      ],
+      "perspective": "Российские власти представляют это как ответ на агрессивную политику Запада. Западные страны могут рассматривать такие заявления как эскалацию риторики и оправдание собственных действий России. Нейтральные наблюдатели видят в этом продолжение информационной войны.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "a2abd803a7c2"
+    },
+    {
+      "title_ru": "Россия закрывает генконсульство Германии в Санкт-Петербурге после спора о дронах",
+      "title_en": "Russia closes German consulate in St Petersburg after drone dispute",
+      "date": "2026-09-07",
+      "summary": "Россия объявила о закрытии генерального консульства Германии в Санкт-Петербурге и центров Гёте в ответ на дипломатический спор. Это решение представлено как ответная мера после инцидента с дронами.",
+      "category": "politics",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.jpost.com",
+        "tass.com",
+        "rss.dw.com"
+      ],
+      "links": [
+        "https://www.jpost.com/international/article-907852",
+        "https://tass.com/politics/2183787",
+        "https://www.dw.com/en/russia-announces-it-is-closing-germany-s-consulate-in-st-petersburg/a-79149908?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "perspective": "Россия представляет это как вынужденную ответную меру на действия Германии. Германия и её союзники могут рассматривать это как дальнейшую эскалацию напряжённости. Нейтральные аналитики видят в этом продолжение дипломатической конфронтации между Россией и Западом.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "23823a8fdd64"
+    },
+    {
+      "title_ru": "Иран ликвидировал три террористические ячейки, связанные с США и Израилем",
+      "title_en": "Intel. Min. dismantles 3 US-Israel-linked terrorist cells",
+      "date": "2026-09-07",
+      "summary": "Министерство разведки Ирана заявило о ликвидации трёх террористических ячеек, связанных с США и Израилем. Операция проведена иранскими спецслужбами на территории страны.",
+      "category": "politics",
+      "area": "Ближний Восток",
+      "sources": [
+        "en.mehrnews.com"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/247521/Intel-Min-dismantles-3-US-Israel-linked-terrorist-cells"
+      ],
+      "perspective": "Иранские власти представляют это как успех в борьбе с терроризмом и внешними угрозами. США и Израиль могут отрицать свою причастность к этим ячейкам или рассматривать заявление как пропаганду. Региональные наблюдатели видят в этом продолжение информационной войны между Ираном и его противниками.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "362607bcdda5"
+    },
+    {
+      "title_ru": "Министр образования Израиля просит Верховный суд сохранить пропорциональное финансирование школ харедим",
+      "title_en": "Education Minister Kisch asks High Court to preserve proportional funding for haredi schools",
+      "date": "2026-09-07",
+      "summary": "Министр образования Израиля Йоав Киш обратился в Верховный суд с просьбой сохранить пропорциональное финансирование ультраортодоксальных (харедим) школ. Это связано с продолжающимися дебатами о государственном финансировании религиозного образования.",
+      "category": "tech",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/israel-news/article-907846"
+      ],
+      "first_reported": "2026-09-07",
+      "id": "1f3305bfba2c"
+    },
+    {
+      "title_ru": "Тайвань выступает против перезапуска атомных электростанций",
+      "title_en": "Taiwan opposes restart of nuclear power plants",
+      "date": "2026-09-07",
+      "summary": "На Тайване звучат призывы не перезапускать атомные электростанции. Редакционная статья в Taipei Times выступает против возобновления работы АЭС. Эта позиция отражает продолжающиеся дебаты о будущем атомной энергетики на острове.",
+      "category": "energy",
+      "area": "Дальний Восток",
+      "sources": [
+        "www.taipeitimes.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/editorials/archives/2026/09/08/2003863856"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "c6509086ca2a"
+    },
+    {
+      "title_ru": "Тайвань обсуждает ограничения доступа детей к социальным сетям",
+      "title_en": "Taiwan debates restrictions on children's access to social media",
+      "date": "2026-09-07",
+      "summary": "На Тайване обсуждаются меры по ограничению доступа детей к социальным сетям. Редакционная статья в Taipei Times утверждает, что простой запрет является лишь частичным решением проблемы. Эта дискуссия происходит на фоне глобальных дебатов о регулировании социальных сетей и защите детей в цифровой среде.",
+      "category": "tech",
+      "area": "Дальний Восток",
+      "sources": [
+        "www.taipeitimes.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/editorials/archives/2026/09/08/2003863859"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "bfea6a4e4e5e"
+    },
+    {
+      "title_ru": "Грузовой самолет Amazon разбился в аэропорту Майами, погибли 5 человек",
+      "title_en": "Amazon cargo plane crashes at Miami airport, killing five people",
+      "date": "2026-09-06",
+      "summary": "Грузовой самолет Amazon выкатился за пределы взлетно-посадочной полосы в аэропорту Майами и врезался в автомобили. В результате катастрофы погибли пять человек, еще пять пострадали и были госпитализированы. Инцидент произошел при посадке самолета Boeing 767.",
+      "category": "politics",
+      "area": "Южная и Юго-Восточная Азия",
+      "sources": [
+        "The Washington Post",
+        "CBC",
+        "The Globe and Mail"
+      ],
+      "links": [
+        "https://www.washingtonpost.com/nation/2026/09/06/amazon-cargo-plane-crashes-after-veering-off-runway-miami-airport/",
+        "https://www.cbc.ca/news/world/amazon-cargo-plan-overrun-runway-in-miami-9.7334414?cmp=rss",
+        "https://www.theglobeandmail.com/world/article-amazon-cargo-plane-crash-miami-airport/"
+      ],
+      "perspective": "Политические силы могут использовать катастрофу для критики системы безопасности авиаперевозок и регулирования грузовых авиакомпаний. Либеральные силы могут требовать ужесточения контроля за безопасностью полетов, консервативные - подчеркивать важность существующих мер безопасности.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-06",
+      "id": "e1812d11546f"
+    },
+    {
+      "title_ru": "Извержение вулкана Анак-Кракатау в Индонезии парализовало авиасообщение и закрыло школы",
+      "title_en": "Anak Krakatau volcano eruption in Indonesia halts flights, schools, fishing",
+      "date": "2026-09-06",
+      "summary": "Извержение вулкана Анак-Кракатау в Индонезии привело к закрытию международного аэропорта Сукарно-Хатта в Джакарте из-за вулканического пепла. Власти провинции Бантен привели все медицинские учреждения в состояние повышенной готовности. Три региона столкнулись с пеплопадом, правительство усиливает меры по смягчению последствий.",
+      "category": "politics",
+      "area": "Южная и Юго-Восточная Азия",
+      "sources": [
+        "Antara News",
+        "The Globe and Mail"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/430287/anak-krakatau-ash-banten-puts-all-health-facilities-on-high-alert",
+        "https://en.antaranews.com/news/430207/three-regions-face-anak-krakatau-ash-as-government-bolsters-mitigation",
+        "https://en.antaranews.com/news/430199/free-transports-ready-as-anak-krakatau-ash-shuts-soekarnohatta-airport",
+        "https://www.theglobeandmail.com/world/article-anak-krakatau-volcano-eruption-in-indonesia-halts-flights-schools/"
+      ],
+      "perspective": "Политические силы могут оценивать действия правительства по реагированию на природную катастрофу. Оппозиция может критиковать недостаточную подготовку к чрезвычайным ситуациям, правящая партия - подчеркивать оперативность принятых мер и готовность системы здравоохранения.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-06",
+      "id": "3d781b5e2505"
+    },
+    {
+      "title_ru": "Пассажир American Airlines был привязан скотчем во время полета",
+      "title_en": "Arizona man duct-taped on American Airlines flight",
+      "date": "2026-09-07",
+      "summary": "Пассажир из Аризоны был привязан скотчем к своему креслу во время полета American Airlines. Мужчина ранее занимал должность вице-президента в риэлторской компании, но компания заявила, что он больше не связан с ней. Инцидент привлек внимание к вопросам безопасности на борту и методам сдерживания неадекватных пассажиров.",
+      "category": "politics",
+      "area": "Южная и Юго-Восточная Азия",
+      "sources": [
+        "Times of India"
+      ],
+      "links": [
+        "https://timesofindia.indiatimes.com/world/us/arizona-man-who-got-duct-taped-on-an-american-airlines-flight-was-vp-of-realty-firm-company-says-he-is-no-longer-associated/articleshow/133885469.cms"
+      ],
+      "perspective": "Политические силы могут обсуждать баланс между безопасностью полетов и правами пассажиров. Либеральные силы могут критиковать чрезмерное применение силы, консервативные - защищать меры безопасности авиакомпаний для защиты экипажа и других пассажиров.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "8e3307444ae6"
+    },
+    {
+      "title_ru": "Квинсленд усложняет строительство более дешёвой электроэнергии",
+      "title_en": "Queensland is making cheaper power harder to build",
+      "date": "2026-09-08",
+      "summary": "Власти Квинсленда принимают меры, которые затрудняют строительство более дешёвых источников электроэнергии. Это может негативно сказаться на энергетической безопасности региона и привести к росту цен на электроэнергию для потребителей.",
+      "category": "energy",
+      "area": "Океания и Австралия",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/national/queensland/queensland-is-making-cheaper-power-harder-to-build-20260907-p60v6l.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "3b05f417811d"
+    },
+    {
+      "title_ru": "Уход Фила Шиллера из App Store связан с опасениями по поводу будущих планов",
+      "title_en": "Phil Schiller's App Store exit reportedly driven by wariness over future plans",
+      "date": "2026-09-06",
+      "summary": "Фил Шиллер, один из ключевых руководителей Apple, покидает пост главы App Store. По сообщениям, его уход связан с опасениями по поводу будущих планов компании и возможными изменениями в стратегии развития магазина приложений.",
+      "category": "tech",
+      "area": "Океания и Австралия",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-06",
+      "id": "99f582ecbb96"
+    },
+    {
+      "title_ru": "Гас неожиданно расспрашивает Клири о будущем Фаулера",
+      "title_en": "Gus unexpectedly probes Cleary on Fowler future",
+      "date": "2026-09-07",
+      "summary": "Гас Гулд, влиятельная фигура в австралийском регби, неожиданно задал вопросы тренеру Клири о будущем игрока Фаулера. Это событие вызвало дискуссии в спортивных кругах и может повлиять на трансферную политику клубов.",
+      "category": "politics",
+      "area": "Океания и Австралия",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/sport/nrl/gus-unexpectedly-probes-cleary-on-fowler-future-20260907-p60v9b.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "perspective": "Событие может оцениваться как обычное спортивное обсуждение или как вмешательство в дела клуба. Критики могут увидеть в этом нарушение этики спортивных отношений, в то время как сторонники сочтут это проявлением здорового интереса к развитию спорта.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "048903e1cabf"
+    },
+    {
+      "title_ru": "Натан объясняет причину перехода Джетта в Уорриорз",
+      "title_en": "Nathan explains reason behind Jett's Warriors stint",
+      "date": "2026-09-07",
+      "summary": "Натан Кливс, тренер регбийной команды, объяснил причины перехода игрока Джетта в команду Уорриорз. Это объяснение проливает свет на трансферную политику клуба и стратегию развития молодых талантов в австралийском регби.",
+      "category": "politics",
+      "area": "Океания и Австралия",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/sport/nrl/nathan-explains-reason-behind-jetts-warriors-stint-20260907-p60v9c.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "perspective": "Объяснение может рассматриваться как прозрачность в спортивной политике или как попытка оправдать спорное решение. Болельщики могут оценивать это положительно как открытость руководства, в то время как критики могут усмотреть в этом манипуляцию общественным мнением.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "882a87faa42f"
+    },
+    {
+      "title_ru": "Венгрия закрывает подготовку учителей в университете госслужбы из-за политического вмешательства",
+      "title_en": "Government axes public service university's teacher training, citing political meddling",
+      "date": "2026-09-07",
+      "summary": "Венгерское правительство закрывает программу подготовки учителей в Университете государственной службы, ссылаясь на политическое вмешательство в образовательный процесс. Это решение затрагивает вопросы академической свободы и политического влияния на систему образования.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/hungary/government-axes-public-service-universitys-teacher-training-citing-political-meddling/"
+      ],
+      "perspective": "Правительство представляет это как борьбу с политизацией образования, в то время как оппозиция и академическое сообщество могут рассматривать это как политическую цензуру и ограничение академических свобод. Левые силы могут видеть в этом авторитарную тенденцию, правые - защиту образования от идеологического давления.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "d94aeaf17119"
+    },
+    {
+      "title_ru": "Молодёжь ЮАР: голосование как экономически разумный акт",
+      "title_en": "Empowering South Africa's youth: Why voting is a money-smart economic act",
+      "date": "2026-09-07",
+      "summary": "В ЮАР обсуждается важность участия молодёжи в выборах как экономически разумного действия. Авторы утверждают, что политический выбор напрямую влияет на экономические возможности и финансовое благополучие молодого поколения. Подчёркивается связь между политической активностью и экономическими результатами.",
+      "category": "politics",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/thought-leader/2026-09-07-empowering-south-africa-s-youth-why-voting-is-a-money-smart-economic-act/"
+      ],
+      "perspective": "Правящие партии могут представлять это как важность участия в демократическом процессе, в то время как оппозиция может критиковать за упрощение сложных экономических проблем. Молодёжные движения могут видеть в этом призыв к большей политической ответственности.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "d833e40b575b"
+    },
+    {
+      "title_ru": "Необходимость коллективных действий для восстановления доверия к цифровой коммуникации",
+      "title_en": "Collective action needed to rebuild trust in digital communication",
+      "date": "2026-09-04",
+      "summary": "В ЮАР обсуждается кризис доверия к цифровой коммуникации и необходимость коллективных действий для его восстановления. Авторы подчёркивают, что проблемы с дезинформацией, кибербезопасностью и приватностью требуют совместных усилий государства, бизнеса и гражданского общества. Предлагаются меры по созданию более безопасной и доверительной цифровой среды.",
+      "category": "politics",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/partner-content/2026-09-04-collective-action-needed-to-rebuild-trust-in-digital-communication/"
+      ],
+      "perspective": "Правительство может использовать это для обоснования усиления регулирования интернета, в то время как правозащитники могут опасаться ограничения свобод. Технологические компании могут поддерживать идеи саморегулирования, а гражданское общество - требовать большей прозрачности.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-04",
+      "id": "04d1e924fe8f"
+    },
+    {
+      "title_ru": "Традиция пролётов над стадионами ЮАР: гордость за точность, которую нужно защищать",
+      "title_en": "South Africa's stadium flyovers: A proud tradition of precision that should be defended",
+      "date": "2026-09-04",
+      "summary": "В ЮАР защищают традицию военных пролётов над стадионами во время спортивных мероприятий как символ национальной гордости и точности. Авторы утверждают, что эта практика демонстрирует профессиональные навыки военных и служит патриотическим жестом. Критики безопасности и затрат встречают сопротивление сторонников традиции.",
+      "category": "politics",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/thought-leader/2026-09-04-south-africa-s-stadium-flyovers-a-proud-tradition-of-precision-that-should-be-defended/"
+      ],
+      "perspective": "Правительство и военные могут защищать традицию как важный элемент национальной идентичности, в то время как оппозиционные партии могут критиковать за ненужные расходы и риски безопасности. Гражданские активисты могут требовать перераспределения ресурсов на социальные нужды.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-04",
+      "id": "524aec5dcc14"
+    },
+    {
+      "title_ru": "Технологии меняют опыт онлайн-казино в ЮАР",
+      "title_en": "How technology is changing South Africa's online casino experience",
+      "date": "2026-09-04",
+      "summary": "Технологические инновации трансформируют индустрию онлайн-гемблинга в ЮАР. Внедрение виртуальной реальности, искусственного интеллекта для персонализации и блокчейна для безопасности платежей создаёт новый пользовательский опыт. Эти изменения также поднимают вопросы регулирования и защиты потребителей в цифровую эпоху.",
+      "category": "tech",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/partner-content/2026-09-04-how-technology-is-changing-south-africa-s-online-casino-experience/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-04",
+      "id": "0a573eb51f4f"
+    },
+    {
+      "title_ru": "ФРС США готовится к возможному повышению ставок на фоне роста инфляции",
+      "title_en": "Fed prepares for possible rate hikes amid inflation concerns",
+      "date": "2026-09-07",
+      "summary": "Федеральная резервная система США рассматривает возможность повышения процентных ставок на фоне сохраняющейся инфляции. Ключевой показатель инфляции PCE показал рост на 3,3% в июле, а председатель ФРС Кевин Уорш выразил обеспокоенность и выступил за более \"тихий\" подход центрального банка. При этом рынок труда остаётся сильным - в августе создано 162 тысячи рабочих мест, что превысило ожидания.",
+      "category": "finance",
+      "area": "Мир",
+      "sources": [
+        "finance.yahoo.com",
+        "www.cnbc.com",
+        "www.cnbc.com",
+        "www.cnbc.com"
+      ],
+      "links": [
+        "https://finance.yahoo.com/economy/policy/articles/fed-rate-hike-threat-heats-171100344.html",
+        "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html",
+        "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html",
+        "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "cb81bab42173"
+    },
+    {
+      "title_ru": "Фотографы запечатлели коати с необычной шерстью в Андах",
+      "title_en": "Photographers capture coati with unusual coat in the Andes",
+      "date": "2026-09-05",
+      "summary": "Фотографы обнаружили и сфотографировали коати с необычным окрасом шерсти в Андах. Животное, известное как южноамериканский енот, демонстрирует уникальные особенности меха, что представляет интерес для исследователей и фотографов дикой природы.",
+      "category": "photo",
+      "area": "Мир",
+      "sources": [
+        "photographylife.com"
+      ],
+      "links": [
+        "https://photographylife.com/a-coati-in-an-odd-coat-photographing-a-mystery-in-the-andes"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-05",
+      "id": "79b8b86925af"
     }
   ],
   "_stats": {
-    "total_tokens": 1335047,
-    "total_cost": 223.62524799999997
+    "total_tokens": 1385683,
+    "total_cost": 226.95406799999998
   }
 }
