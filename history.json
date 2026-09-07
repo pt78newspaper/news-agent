@@ -2701,7 +2701,8 @@
       "perspective_type": "",
       "is_development": false,
       "first_reported": "2026-09-07",
-      "id": "46217c8ae2b3"
+      "id": "46217c8ae2b3",
+      "last_reported": "2026-09-07"
     },
     {
       "title_ru": "Tesla запустила «Кибертакси» без приглашения прессы",
@@ -2720,7 +2721,8 @@
       "perspective_type": "",
       "is_development": false,
       "first_reported": "2026-09-07",
-      "id": "87b923773895"
+      "id": "87b923773895",
+      "last_reported": "2026-09-07"
     },
     {
       "title_ru": "Великобритания готовится запретить торговлю с израильскими поселениями на Западном берегу",
@@ -2741,7 +2743,8 @@
       "perspective_type": "from_source",
       "is_development": false,
       "first_reported": "2026-09-07",
-      "id": "cf55e9d90c7f"
+      "id": "cf55e9d90c7f",
+      "last_reported": "2026-09-07"
     },
     {
       "title_ru": "Дроны будут использованы для поиска пропавшей канадской скайраннер на Маттерхорне",
@@ -2880,7 +2883,8 @@
       "perspective_type": "from_source",
       "is_development": false,
       "first_reported": "2026-09-07",
-      "id": "cd4eb1ec3fab"
+      "id": "cd4eb1ec3fab",
+      "last_reported": "2026-09-07"
     },
     {
       "title_ru": "Эскалация торгового конфликта между Канадой и США",
@@ -3038,7 +3042,8 @@
       "perspective_type": "",
       "is_development": false,
       "first_reported": "2026-09-07",
-      "id": "ba3382672bf8"
+      "id": "ba3382672bf8",
+      "last_reported": "2026-09-07"
     },
     {
       "title_ru": "Северная Корея вводит в строй ядерно-способный эсминец",
@@ -3305,10 +3310,564 @@
       "is_development": false,
       "first_reported": "2026-09-07",
       "id": "7abb25309ea6"
+    },
+    {
+      "title_ru": "Атаки БПЛА в Белгородской области и Татарстане",
+      "title_en": "Drone attacks in Belgorod region and Tatarstan",
+      "date": "2026-09-07",
+      "summary": "В Белгородской области при атаке БПЛА пострадал мужчина, дрон ВСУ ударил по микроавтобусу. В Татарстане беспилотники повредили гражданские и промышленные объекты в Закамской зоне. Также в Оренбургской области сгорели 15 домов в СНТ «Заря».",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "tass.ru",
+        "ria.ru",
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/28088603",
+        "https://ria.ru/20260907/vsu-2116163408.html",
+        "https://www.kommersant.ru/doc/8937997",
+        "https://www.kommersant.ru/doc/8937915"
+      ],
+      "perspective": "Власти России представят это как эскалацию конфликта со стороны Украины, в то время как украинская сторона может рассматривать это как ответные действия на российские удары. Либеральные критики могут указывать на неэффективность системы ПВО.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "fe07fa1455f7"
+    },
+    {
+      "title_ru": "Путин поручил создать комиссию по ограничениям против релокантов и обсудил международные контакты",
+      "title_en": "Putin orders commission on restrictions against relocants and discusses international contacts",
+      "date": "2026-09-07",
+      "summary": "Владимир Путин поручил создать комиссию по применению ограничений против релокантов. Также он обсудил с премьер-министром Армении Никола Пашиняном направление развития Армении и договорился с президентом Азербайджана Ильхамом Алиевым об активизации контактов Москвы и Баку.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8938282",
+        "https://www.kommersant.ru/doc/8938072",
+        "https://www.kommersant.ru/doc/8937992"
+      ],
+      "perspective": "Правительственные силы представят это как укрепление государственного суверенитета и развитие международных связей. Оппозиция может критиковать ограничения для релокантов как нарушение прав граждан, а также выражать скепсис по поводу эффективности международных переговоров.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "27e87a8c0acb"
+    },
+    {
+      "title_ru": "Программа развития Дальнего Востока до 2036 года",
+      "title_en": "Far East development program until 2036",
+      "date": "2026-09-07",
+      "summary": "Власти планируют увеличить долю занятых в креативной экономике Дальневосточного федерального округа до 15% к 2036 году, а продолжительность жизни - до 81 года. Также коренным народам Севера обеспечат доступ к телемедицине и высокоскоростной сети, упростят визовые процедуры для развития туризма и соединят мощности портов с инфраструктурой для Восточного полигона.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "tass.ru",
+        "ria.ru"
+      ],
+      "links": [
+        "https://tass.ru/ekonomika/28088769",
+        "https://ria.ru/20260907/dfo-2116171633.html",
+        "https://tass.ru/obschestvo/28088721",
+        "https://tass.ru/obschestvo/28088709",
+        "https://tass.ru/ekonomika/28088679"
+      ],
+      "perspective": "Правительство представит это как амбициозную программу развития отдаленных регионов. Критики могут сомневаться в реалистичности поставленных целей и указывать на недостаточное финансирование подобных программ в прошлом.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "b4d13dc2b4c8"
+    },
+    {
+      "title_ru": "Ученые выяснили причины неожиданного набора льда в Антарктиде",
+      "title_en": "Scientists discovered reasons for unexpected ice gain in Antarctica",
+      "date": "2026-09-07",
+      "summary": "Ученые установили, почему Антарктида неожиданно набрала 695 миллиардов тонн льда. Это важное открытие для понимания климатических процессов в регионе.",
+      "category": "ai",
+      "area": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/climate/antarktida-nabrala-lda"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "aef0c600d978"
+    },
+    {
+      "title_ru": "Тысячи сербов собрались на похороны Ратко Младича в Белграде",
+      "title_en": "Thousands of Serbs Gather to Mourn Ratko Mladic in Belgrade",
+      "date": "2026-09-07",
+      "summary": "В Белграде тысячи людей собрались на похороны бывшего командующего армией боснийских сербов Ратко Младича, осуждённого за военные преступления. Событие вызвало полярные реакции в сербском обществе и стало символом незавершённого процесса примирения в регионе.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "The New York Times",
+        "ТАСС",
+        "BBC",
+        "Deutsche Welle"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/09/07/world/europe/ratko-mladic-funeral-serbia.html",
+        "https://tass.com/society/2183767",
+        "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
+        "https://www.dw.com/en/serbia-how-the-funeral-of-ratko-mladic-is-dividing-a-nation/a-78948890?maca=en-rss-en-all-1573-xml-mrss",
+        "https://www.dw.com/en/mladic-s-death-bosnia-and-serbia-s-unfinished-reckoning/a-78602733?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "perspective": "Для сербских националистов Младич остаётся героем и защитником сербского народа, в то время как международное сообщество и жертвы военных преступлений видят в нём военного преступника. Событие раскрывает глубокий раскол в сербском обществе по вопросу отношения к событиям 1990-х годов.",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "ca22136693ec"
+    },
+    {
+      "title_ru": "Дроны будут использованы в поисках пропавшей канадской скайраннер Кейли МакКристал",
+      "title_en": "Drones to be used in search for missing Canadian skyrunner Kalie McCrystal",
+      "date": "2026-09-07",
+      "summary": "В поисках пропавшей канадской скайраннер Кейли МакКристал на итальянской стороне Маттерхорна будут использованы дроны. Спортсменка пропала во время восхождения, и поисковые операции продолжаются.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "The Globe and Mail"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/article-drones-missing-canadian-skyrunner-kalie-mccrystal/",
+        "https://www.theglobeandmail.com/world/article-kalie-mccrystal-skyrunner-missing-italy-matterhorn/"
+      ],
+      "perspective": "Местные власти и спасательные службы сосредоточены на поисково-спасательной операции. Международное сообщество следит за развитием событий, выражая поддержку поисковым усилиям и обеспокоенность безопасностью альпинистов.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "23cb28f46499"
+    },
+    {
+      "title_ru": "Тайны тёмной материи и тёмной энергии могут иметь собственное измерение",
+      "title_en": "Two of the Universe's Great Mysteries May Have Their Own Dimension",
+      "date": "2026-09-07",
+      "summary": "Учёные выдвигают гипотезу, что тёмная материя и тёмная энергия — две величайшие загадки Вселенной — могут существовать в собственном измерении. Это теоретическое исследование предлагает новый подход к пониманию фундаментальных космологических явлений.",
+      "category": "tech",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "Wired"
+      ],
+      "links": [
+        "https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "5321f05069ae"
+    },
+    {
+      "title_ru": "Чилийский экономический показатель Imacec упал на 1,5% из-за снижения экспорта меди",
+      "title_en": "Chile Imacec Falls 1.5% as Copper Shipments Drop for First Time Since 2023",
+      "date": "2026-09-07",
+      "summary": "Экономический показатель Imacec в Чили упал на 1,5% в июле 2026 года. Это произошло из-за снижения экспорта меди впервые с 2023 года, что указывает на проблемы в ключевом секторе экономики страны.",
+      "category": "politics",
+      "area": "Южная Америка",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/chile-imacec-july-copper-exports-2026/"
+      ],
+      "perspective": "Правительство Чили может рассматривать это как временное явление, требующее экономических мер поддержки. Оппозиционные силы могут критиковать экономическую политику властей, указывая на зависимость от сырьевого экспорта.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "40994c429367"
+    },
+    {
+      "title_ru": "Панамский канал назначил первую женщину-администратора",
+      "title_en": "Panama Canal Names Ilya Espino de Marotta First Woman Administrator",
+      "date": "2026-09-07",
+      "summary": "Панамский канал назначил Илью Эспино де Маротту первой женщиной-администратором в своей истории. Это историческое назначение для одного из важнейших мировых морских путей.",
+      "category": "politics",
+      "area": "Южная Америка",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/panama-canal-first-woman-administrator-2026/"
+      ],
+      "perspective": "Прогрессивные силы могут приветствовать это назначение как шаг к гендерному равенству. Консервативные круги могут скептически относиться к изменению традиционного руководства стратегическим объектом.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "a92d8d37201c"
+    },
+    {
+      "title_ru": "Аргентина продлила кредитную линию с Китаем на $19 млрд",
+      "title_en": "Argentina Renews $19 Billion China Swap Line as Chancay Port Tops 500,000 TEUs",
+      "date": "2026-09-07",
+      "summary": "Аргентина продлила кредитную линию своп с Китаем на сумму $19 млрд. Одновременно порт Чанкай в Перу превысил отметку в 500 000 TEU (двадцатифутовых эквивалентов), демонстрируя рост китайской инфраструктурной активности в регионе.",
+      "category": "politics",
+      "area": "Южная Америка",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/china-latin-america-infrastructure-loans-2026/"
+      ],
+      "perspective": "Правительство Аргентины может представлять это как успех в обеспечении финансовой стабильности. Оппозиция может критиковать усиление зависимости от Китая и геополитические последствия такого сотрудничества.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "188cf1c9c51f"
+    },
+    {
+      "title_ru": "Цена на нефть Brent превысила $98 за баррель",
+      "title_en": "Brent crude tops $98 per barrel on ICE for first time since July 24",
+      "date": "2026-09-07",
+      "summary": "Цена на нефть марки Brent превысила $98 за баррель на бирже ICE впервые с 24 июля. Это значительный рост цен на энергоносители, влияющий на мировую экономику.",
+      "category": "energy",
+      "area": "Южная Америка",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/economy/2183759"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-07",
+      "id": "ea14a41760bd"
+    },
+    {
+      "title_ru": "ИИ-производство в Мексике демонстрирует бум",
+      "title_en": "El Jalapeño: AI-driven manufacturing is booming in Mexico, says AI",
+      "date": "2026-09-06",
+      "summary": "Производство с использованием искусственного интеллекта в Мексике переживает бум, согласно данным ИИ-анализа. Это указывает на технологическую трансформацию промышленного сектора страны.",
+      "category": "ai",
+      "area": "Южная Америка",
+      "sources": [
+        "mexiconewsdaily.com"
+      ],
+      "links": [
+        "https://mexiconewsdaily.com/el-jalapeno/el-jalapeno-ai-driven-manufacturing-booming-mexico-says-ai/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-06",
+      "id": "cd230fddcf95"
+    },
+    {
+      "title_ru": "Торговый конфликт между Канадой и США обостряется",
+      "title_en": "Trade conflict between Canada and US escalates",
+      "date": "2026-09-07",
+      "summary": "Канада ввела ответные тарифы на американские товары в ответ на торговые ограничения со стороны США. Торговые переговоры между двумя странами зашли в тупик. Конфликт негативно сказывается на канадских пчеловодах и производителях мёда.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "www.dailysabah.com",
+        "www.theglobeandmail.com",
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.dailysabah.com/business/economy/canada-hits-back-at-us-with-new-tariffs-as-trade-row-escalates",
+        "https://www.theglobeandmail.com/world/us-politics/article-canada-us-trade-talks-reach-an-impasse/",
+        "https://www.nytimes.com/2026/09/06/world/canada/trump-tariffs-canada-bees-honey.html"
+      ],
+      "perspective": "Канадское правительство рассматривает свои действия как необходимую защиту национальных интересов. Американская администрация настаивает на защите внутреннего рынка. Бизнес-сообщества обеих стран страдают от торговой войны.",
+      "perspective_type": "from_source",
+      "first_reported": "2026-09-07",
+      "id": "12e5ebccb00e"
+    },
+    {
+      "title_ru": "Украина планирует возобновить переговорный процесс по урегулированию конфликта",
+      "title_en": "Ukraine plans to resume negotiation process on conflict settlement",
+      "date": "2026-09-07",
+      "summary": "Украина намерена использовать сентябрь и октябрь для восстановления переговорного процесса по урегулированию конфликта. Возвращение США к переговорам рассматривается экспертами как демонстрация формы, а не содержания.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "www.ukrinform.ua"
+      ],
+      "links": [
+        "https://www.ukrinform.ua/rubric-polytics/4161809-ukraina-hoce-vikoristati-veresen-i-zovten-dla-vidnovlenna-peregovornogo-procesu-prezident.html"
+      ],
+      "perspective": "Украинское руководство видит в этом возможность для дипломатического решения. Российская сторона может рассматривать это как признак ослабления позиций Запада. Западные союзники расходятся в оценках эффективности переговоров.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "c1221990471a"
+    },
+    {
+      "title_ru": "Экстремальная жара установила рекорды в Европе",
+      "title_en": "Extreme heat sets records in Europe",
+      "date": "2026-09-07",
+      "summary": "Лето 2026 года стало рекордным по экстремальным температурам в Европе. Установлены новые температурные максимумы, что свидетельствует об усилении климатических изменений на континенте.",
+      "category": "tech",
+      "area": "Европа",
+      "sources": [
+        "www.france24.com"
+      ],
+      "links": [
+        "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260907-chaleurs-extr%C3%AAmes-l-%C3%A9t%C3%A9-de-tous-les-records"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-07",
+      "id": "8ffb7d2b3fbd"
+    },
+    {
+      "title_ru": "Tesla Cybercab столкнулся с проблемами на дорогах",
+      "title_en": "Tesla Cybercab hits the road and encounters problems",
+      "date": "2026-09-06",
+      "summary": "Автономное такси Tesla Cybercab начало тестовые поездки, но столкнулось с техническими проблемами. Это первое публичное тестирование новой модели автономного транспортного средства компании.",
+      "category": "tech",
+      "area": "Европа",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-06",
+      "id": "edba06349540"
+    },
+    {
+      "title_ru": "Лавров заявляет о начале реальной войны России с Западом",
+      "title_en": "Lavrov says Russia at 'start of real war' with West",
+      "date": "2026-09-06",
+      "summary": "Министр иностранных дел России Сергей Лавров заявил, что Россия находится в начале реальной войны с Западом. Это заявление прозвучало в контексте обвинений Запада в попытках сорвать выборы в России и конфискации российских активов.",
+      "category": "politics",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/06/775803/Lavrov-Russia-Germany-start-of-real-war-with-West"
+      ],
+      "perspective": "Российские власти представляют это как вынужденную оборонительную позицию против агрессии Запада. Западные страны, вероятно, расценят это как эскалацию риторики и оправдание собственных действий России.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-06",
+      "id": "a05ea1d9eadf"
+    },
+    {
+      "title_ru": "Иран сохранил экспорт нефти несмотря на 550 ударов по острову Харг",
+      "title_en": "Iran kept oil exports flowing during war despite 550 strikes on Kharg: Minister",
+      "date": "2026-09-07",
+      "summary": "Иранский министр заявил, что страна смогла сохранить экспорт нефти во время войны, несмотря на 550 ударов по острову Харг, ключевому нефтяному терминалу. Это демонстрирует устойчивость иранской энергетической инфраструктуры в условиях конфликта.",
+      "category": "energy",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/07/775818/Iran-kept-oil-exports-flowing-during-war-despite-550-strikes-on-Kharg--Minister"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-07",
+      "id": "95d8582a440d"
+    },
+    {
+      "title_ru": "Большинство израильтян против уступок ультраортодоксам по вопросам религии и государства",
+      "title_en": "Majority of Israelis want government to refuse haredi demands on religion-and-state policies - poll",
+      "date": "2026-09-07",
+      "summary": "Согласно опросу, большинство израильтян хотят, чтобы правительство отказалось от требований ультраортодоксальных партий по вопросам религии и государства. Это отражает растущее напряжение между светским большинством и религиозными группами в Израиле.",
+      "category": "politics",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/israel-news/politics-and-diplomacy/article-907870"
+      ],
+      "perspective": "Светские израильтяне видят в этом защиту демократических принципов и отделения религии от государства. Ультраортодоксальные партии, вероятно, воспримут это как угрозу своим традиционным правам и влиянию в политике.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "868e8b4ab193"
+    },
+    {
+      "title_ru": "Израильский военный министр приказал армии готовиться к полномасштабной войне с Палестинской администрацией",
+      "title_en": "Israeli war minister orders army to prepare for 'all-out war' on Palestinian Authority",
+      "date": "2026-09-07",
+      "summary": "Израильский военный министр отдал приказ армии готовиться к полномасштабной войне с Палестинской администрацией. Это заявление свидетельствует о резкой эскалации напряженности в израильско-палестинском конфликте.",
+      "category": "politics",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/07/775858/Israeli-military-ordered-to-prepare-for--all-out-war--on-Palestinian-Authority"
+      ],
+      "perspective": "Израильские власти могут представлять это как необходимую меру безопасности против угроз. Палестинская сторона и международное сообщество, вероятно, расценят это как опасную эскалацию, угрожающую мирному процессу.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "8b3face784c4"
+    },
+    {
+      "title_ru": "Тайвань выступает против перезапуска атомных электростанций",
+      "title_en": "Do not restart nuclear power plants",
+      "date": "2026-09-07",
+      "summary": "Тайвань выступает против перезапуска атомных электростанций. Редакционная статья в Taipei Times призывает не возобновлять работу АЭС, выражая обеспокоенность вопросами безопасности.",
+      "category": "energy",
+      "area": "Дальний Восток",
+      "sources": [
+        "www.taipeitimes.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/editorials/archives/2026/09/08/2003863856"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-07",
+      "id": "161ddff5b8cf"
+    },
+    {
+      "title_ru": "Трамп оказывает давление на ФРС перед повышением процентных ставок",
+      "title_en": "Trump turns up the heat on Warsh as Fed rate hike looms",
+      "date": "2026-09-05",
+      "summary": "Бывший президент США Дональд Трамп оказывает давление на председателя ФРС Кевина Варша перед ожидаемым повышением процентных ставок. Это происходит на фоне экономической неопределенности и дебатов о монетарной политике.",
+      "category": "tech",
+      "area": "Дальний Восток",
+      "sources": [
+        "www.cnbc.com"
+      ],
+      "links": [
+        "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-05",
+      "id": "7d09948b5417"
+    },
+    {
+      "title_ru": "Президент Южной Кореи прибыл в Париж для саммита с Макроном",
+      "title_en": "S. Korean President Lee arrives in Paris for summit with Macron",
+      "date": "2026-09-08",
+      "summary": "Президент Южной Кореи Ли прибыл в Париж для проведения саммита с французским президентом Эмманюэлем Макроном. Встреча направлена на укрепление двусторонних отношений и обсуждение международных вопросов.",
+      "category": "ai",
+      "area": "Дальний Восток",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260907009600315"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-08",
+      "id": "f755df250b42"
+    },
+    {
+      "title_ru": "Смерть старейшей женщины Австралии",
+      "title_en": "Australia's oldest woman dies",
+      "date": "2026-09-08",
+      "summary": "В Австралии скончалась старейшая женщина страны. Её возраст и личность не уточняются в предоставленной информации.",
+      "category": "politics",
+      "area": "Океания и Австралия",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/national/australias-oldest-woman-dies-20260908-p60va6.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "perspective": "Событие может восприниматься как печальная веха в истории страны, подчеркивающая ценность долголетия и уважение к старшему поколению.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "ae24ca7c49b4"
+    },
+    {
+      "title_ru": "Смерть американского дипломата Тимоти Карни",
+      "title_en": "Timothy Carney, Diplomat Who Went Places Others Avoided, Dies at 82",
+      "date": "2026-09-04",
+      "summary": "Американский дипломат Тимоти Карни, известный работой в сложных регионах, скончался в возрасте 82 лет. Он работал в местах, которых другие дипломаты избегали.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/09/04/obituaries/timothy-carney-dead.html"
+      ],
+      "perspective": "Дипломатические круги могут оценивать его как смелого профессионала, работавшего в сложных условиях, в то время как критики внешней политики США могут видеть в нём инструмент американского влияния.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-04",
+      "id": "6d1325ac1bd0"
+    },
+    {
+      "title_ru": "Смерть активиста-пирогометальщика Ноэля Годена",
+      "title_en": "Noël Godin, Prankster Who Threw Pies at the Powerful, Dies at 80",
+      "date": "2026-09-07",
+      "summary": "Бельгийский активист Ноэль Годен, известный как 'пирогометальщик', скончался в возрасте 80 лет. Он прославился тем, что бросал пироги в известных политиков и знаменитостей.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/09/07/world/europe/noel-godin-dead.html"
+      ],
+      "perspective": "Левые активисты могут видеть в нём символ протеста против власти, в то время как консерваторы могут считать его действия вандализмом и неуважением к общественным фигурам.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "30746f477b6a"
+    },
+    {
+      "title_ru": "Важность голосования для молодежи ЮАР как экономически разумный шаг",
+      "title_en": "Empowering South Africa's youth: Why voting is a money-smart economic act",
+      "date": "2026-09-07",
+      "summary": "В ЮАР обсуждается важность участия молодежи в выборах как экономически разумного действия. Автор утверждает, что голосование позволяет молодым людям влиять на экономическую политику, которая напрямую затрагивает их финансовое будущее и возможности трудоустройства.",
+      "category": "politics",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/thought-leader/2026-09-07-empowering-south-africa-s-youth-why-voting-is-a-money-smart-economic-act/"
+      ],
+      "perspective": "Правящие партии могут поддерживать эту позицию как способ повышения политической активности молодежи, в то время как оппозиционные силы могут критиковать ее как попытку манипуляции электоратом. Молодежные организации могут видеть в этом возможность для реального влияния на политику.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "6f546500ee25"
+    },
+    {
+      "title_ru": "Традиция пролетов над стадионами в ЮАР как предмет гордости",
+      "title_en": "South Africa's stadium flyovers: A proud tradition of precision that should be defended",
+      "date": "2026-09-04",
+      "summary": "В ЮАР защищают традицию проведения авиационных пролетов над стадионами во время спортивных мероприятий. Автор описывает эту практику как демонстрацию точности и мастерства пилотов, которая стала частью национальной культуры и должна сохраняться, несмотря на возможные возражения по соображениям безопасности или экологии.",
+      "category": "politics",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/thought-leader/2026-09-04-south-africa-s-stadium-flyovers-a-proud-tradition-of-precision-that-should-be-defended/"
+      ],
+      "perspective": "Консервативные и патриотические силы могут поддерживать сохранение этой традиции как часть национального наследия, в то время как экологические активисты и группы безопасности могут выступать против из-за рисков для окружающей среды и общественной безопасности. Военные могут видеть в этом возможность для демонстрации своих возможностей.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-04",
+      "id": "3f22079f2e3c"
+    },
+    {
+      "title_ru": "Стоковые фото собаки стали вирусным мемом",
+      "title_en": "How This Photographer's Stock Images of Her Dog Became a Viral Meme",
+      "date": "2026-09-07",
+      "summary": "Фотограф из Австралии создала серию стоковых изображений своей собаки, которые неожиданно стали вирусным мемом в интернете. История показывает, как обычные стоковые фото могут превратиться в культурный феномен.",
+      "category": "photo",
+      "area": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/07/how-this-photographers-stock-images-of-her-dog-became-a-viral-meme/"
+      ],
+      "first_reported": "2026-09-07",
+      "id": "b64fb19515c3"
     }
   ],
   "_stats": {
-    "total_tokens": 1442946,
-    "total_cost": 230.70798799999997
+    "total_tokens": 1492652,
+    "total_cost": 233.92196799999996
   }
 }
