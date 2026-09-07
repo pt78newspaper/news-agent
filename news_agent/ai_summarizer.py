@@ -296,5 +296,27 @@ def summarize_news(clusters, api_key, history=None):
             total_tokens += usage.get("tokens", 0)
             total_cost += usage.get("cost", 0)
 
+    area_aliases = {
+        "Израиль": "Ближний Восток",
+        "США": "Северная и Центральная Америка",
+        "Канада": "Северная и Центральная Америка",
+        "Мексика": "Северная и Центральная Америка",
+        "Куба": "Северная и Центральная Америка",
+        "РФ": "Россия",
+        "России": "Россия",
+        "ЕС": "Европа",
+        "Европы": "Европа",
+        "Китай": "Дальний Восток",
+        "КНР": "Дальний Восток",
+        "Индия": "Южная и Юго-Восточная Азия",
+        "Индонезия": "Южная и Юго-Восточная Азия",
+        "Австралия": "Океания и Австралия",
+        "ЮАР": "Африка",
+    }
+    for ev in all_events:
+        a = (ev.get("area") or "").strip()
+        if a not in areas:
+            ev["area"] = area_aliases.get(a, "Мир")
+
     print(f"  Total AI: {len(all_events)} событий, {total_tokens} tokens, cost {total_cost:.4f}")
     return all_events, {"tokens": total_tokens, "cost": total_cost}
