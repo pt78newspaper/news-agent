@@ -17,20 +17,12 @@ if os.path.exists(PROMPT_OVERRIDE_FILE):
             SYS_PROMPT = custom
 
 USER_PROMPT_TEMPLATE = (
-    "Вот текущая подборка новостей из RSS-лент, сгруппированных по событиям.\n"
-    "Каждое событие помечено ареалом (в квадратных скобках, например [Россия], [Европа], [Ближний Восток]) и категорией (politics/tech/ai).\n"
+    "Вот подборка новостей из RSS-лент, сгруппированная по событиям.\n"
+    "Каждое событие помечено меткой источника (в квадратных скобках), категорией (politics/tech/ai) и ареалом.\n"
     "{news_block}\n"
     "Инструкция:\n"
-    "1. Отбери события ПО АРЕАЛАМ. Ареалы: Россия, Северная и Центральная Америка, Южная Америка, Европа, Ближний Восток, Дальний Восток, Южная и Юго-Восточная Азия, Океания и Австралия, Африка.\n"
-    "   Для КАЖДОГО ареала выбери:\n"
-    "   - 3 политических события (category='politics');\n"
-    "   - 1 событие об энергетике (category='energy') — нефть, газ, электроэнергия, атомная энергетика, возобновляемые источники, энергетическая инфраструктура;\n"
-    "   - 1 технологическое событие на любую тему (category='tech'), НО без рекламных новостей о гаджетах;\n"
-    "   - 1 событие об искусственном интеллекте (category='ai'), если таковое есть.\n"
-    "   Дополнительно на весь мир:\n"
-    "   - 1 финансовое событие (category='finance');\n"
-    "   - 1 событие о фотографии (category='photo').\n"
-    "2. Если в каком-либо ареале нет новостей нужной категории — пропусти эту категорию для этого ареала. Не придумывай и не дозаполняй её другими категориями.\n"
+    "{task_scope}"
+    "2. Если нет новостей нужной категории — пропусти эту категорию. Не придумывай и не дозаполняй её другими категориями.\n"
     "3. Для каждого события используй ТОЛЬКО факты из предоставленных новостей. Не придумывай события и не используй свои знания вне этого списка.\n"
     "4. Сверься со списком ранее опубликованных событий (если есть). Если событие уже было в прошлом выпуске и нет новых важных подробностей — пропусти его. Если есть существенное развитие — включи, укажи это.\n"
     "5. Категорически НЕ включай маркетингово-рекламные новости о потребительских гаджетах, особенно смартфонах. Это НЕ новости, а реклама. Всегда пропускай (даже если тема связана с tech/ai):\n"
@@ -40,7 +32,7 @@ USER_PROMPT_TEMPLATE = (
     "   - даты начала продаж, предзаказы, бронирования, «поступил в продажу», «цена в России»;\n"
     "   - слухи/утечки о ещё не вышедших устройствах.\n"
     "   Исключения: (1) в категории 'ai' допустима ОДНА такая новость, только если это единственная значимая новость об ИИ за день; (2) в категории 'photo' маркетинговые новости допустимы без ограничений; (3) если речь о массовом индустриальном событии (например закрытие завода, массовые увольнения, санкции, банкротство производителя) — это можно включить в 'tech'.\n"
-    "6. В поле area укажи ареал, откуда новость (Россия, Северная и Центральная Америка, Южная Америка, Европа, Ближний Восток, Дальний Восток, Южная и Юго-Восточная Азия, Океания и Австралия, Африка). Для finance и photo — 'Мир'.\n"
+    "6. В поле area укажи ареал события.\n"
     "7. Для каждого события напиши краткую суть (2-3 предложения) только на русском (поле summary).\n"
     "8. Для каждого события обязательно укажи ссылки на источники (только из списка выше).\n"
     "9. В поле category укажи 'politics' для политических событий, 'energy' для энергетики, 'ai' для новостей об ИИ, 'tech' для технологий/науки, 'finance' для финансов и экономики, 'photo' для фотографии.\n"
@@ -55,7 +47,7 @@ def get_system_prompt():
     return "Системная роль: " + SYS_PROMPT + "\n\nПромт пользователя:\n" + prompt
 
 
-def summarize_news(clusters, api_key, history=None):
+def _build_news_block(clusters, max_per=5):
     news_block = ""
     for idx, cluster in enumerate(clusters, 1):
         area = ""
@@ -64,7 +56,7 @@ def summarize_news(clusters, api_key, history=None):
                 area = a["area"]
                 break
         news_block += f"\n=== Событие {idx} ===\n"
-        for a in cluster[:5]:
+        for a in cluster[:max_per]:
             kw = a.get("keywords", [])
             kw_str = f" [ключевые слова: {', '.join(kw[:4])}]" if kw else ""
             cat = a.get("category", "politics")
@@ -73,19 +65,12 @@ def summarize_news(clusters, api_key, history=None):
                 f"  Ареал: {area} | Источник: {a['source_name']} — {a['link']}\n"
                 f"  Дата: {a.get('published', 'неизвестно')}\n"
             )
+    return news_block
 
-    history_block = ""
-    if history:
-        history_block = "\n\n=== Ранее опубликованные события ===\n"
-        for ev in history[-10:]:
-            history_block += (
-                f"- {ev.get('title_ru', '')} ({ev.get('date', '')})\n"
-                f"  Первый раз: {ev.get('first_reported', '')}\n"
-            )
 
-    prompt = USER_PROMPT_TEMPLATE.format(news_block=news_block, history_block=history_block)
-
-    payload = {
+def _build_payload(news_block, history_block, task_scope):
+    prompt = USER_PROMPT_TEMPLATE.format(news_block=news_block, history_block=history_block, task_scope=task_scope)
+    return {
         "model": MODEL,
         "messages": [
             {"role": "system", "content": SYS_PROMPT},
@@ -153,8 +138,8 @@ def summarize_news(clusters, api_key, history=None):
                                         "description": "True если это развитие ранее освещённого события"
                                     }
                                 },
-"required": ["title_ru", "title_en", "date", "summary",
-                                         "category", "area", "sources", "links"]
+                                "required": ["title_ru", "title_en", "date", "summary",
+                                             "category", "area", "sources", "links"]
                             }
                         }
                     },
@@ -167,6 +152,20 @@ def summarize_news(clusters, api_key, history=None):
         "max_tokens": 16384
     }
 
+
+def _history_block(history):
+    history_block = ""
+    if history:
+        history_block = "\n\n=== Ранее опубликованные события ===\n"
+        for ev in history[-10:]:
+            history_block += (
+                f"- {ev.get('title_ru', '')} ({ev.get('date', '')})\n"
+                f"  Первый раз: {ev.get('first_reported', '')}\n"
+            )
+    return history_block
+
+
+def _call_ai(payload, api_key):
     resp = None
     for attempt in range(MAX_RETRIES):
         try:
@@ -227,3 +226,63 @@ def summarize_news(clusters, api_key, history=None):
         print(f"  AI: модель вернула текст ({len(text)} символов), tool_calls не обнаружен")
 
     return None, None
+
+
+def summarize_news(clusters, api_key, history=None):
+    areas = ["Россия", "Северная и Центральная Америка", "Южная Америка", "Европа",
+             "Ближний Восток", "Дальний Восток", "Южная и Юго-Восточная Азия",
+             "Океания и Австралия", "Африка", "Мир"]
+
+    by_area = {}
+    for c in clusters:
+        area = ""
+        for a in c:
+            if a.get("area"):
+                area = a["area"]
+                break
+        area = area or "Мир"
+        by_area.setdefault(area, []).append(c)
+
+    all_events = []
+    total_tokens = 0
+    total_cost = 0.0
+
+    for area in areas:
+        cls = by_area.get(area, [])
+        if not cls:
+            continue
+        determine_area = ""
+        for a in cls[0]:
+            if a.get("area"):
+                determine_area = a["area"]
+                break
+        if area == "Мир":
+            task_scope = (
+                "1. Выбери из представленных новостей:\n"
+                "   - 1 финансовое событие (category='finance') — глобальные финансы и экономика;\n"
+                "   - 1 событие о фотографии (category='photo') — фотоиндустрия, фотографы, камеры, выставки;\n"
+            )
+        else:
+            task_scope = (
+                f"1. Выбери из новостей ареала '{area}' (все события ниже относятся к этому ареалу):\n"
+                "   - 3 политических события (category='politics');\n"
+                "   - 1 событие об энергетике (category='energy') — нефть, газ, электроэнергия, атомная энергетика, возобновляемые источники, энергетическая инфраструктура;\n"
+                "   - 1 технологическое событие на любую тему (category='tech'), НО без рекламных новостей о гаджетах;\n"
+                "   - 1 событие об искусственном интеллекте (category='ai'), если таковое есть.\n"
+                "   Если каких-то из этих категорий в новостях нет — пропусти их.\n"
+            )
+        news_block = _build_news_block(cls, max_per=5)
+        hb = _history_block(history)
+        payload = _build_payload(news_block, hb, task_scope)
+        events, usage = _call_ai(payload, api_key)
+        if events:
+            for ev in events:
+                if not ev.get("area") and determine_area:
+                    ev["area"] = determine_area
+            all_events.extend(events)
+        if usage:
+            total_tokens += usage.get("tokens", 0)
+            total_cost += usage.get("cost", 0)
+
+    print(f"  Total AI: {len(all_events)} событий, {total_tokens} tokens, cost {total_cost:.4f}")
+    return all_events, {"tokens": total_tokens, "cost": total_cost}
