@@ -2985,7 +2985,8 @@
       "perspective_type": "assumed",
       "is_development": false,
       "first_reported": "2026-09-06",
-      "id": "56d03f2a1d85"
+      "id": "56d03f2a1d85",
+      "last_reported": "2026-09-06"
     },
     {
       "title_ru": "Большинство израильтян против уступок ультраортодоксам в вопросах религии и государства",
@@ -3783,7 +3784,8 @@
       "perspective_type": "assumed",
       "is_development": false,
       "first_reported": "2026-09-08",
-      "id": "ae24ca7c49b4"
+      "id": "ae24ca7c49b4",
+      "last_reported": "2026-09-08"
     },
     {
       "title_ru": "Смерть американского дипломата Тимоти Карни",
@@ -4019,7 +4021,8 @@
       "perspective_type": "assumed",
       "is_development": false,
       "first_reported": "2026-09-07",
-      "id": "23ecfe446494"
+      "id": "23ecfe446494",
+      "last_reported": "2026-09-07"
     },
     {
       "title_ru": "Поиски пропавшей канадской скайраннер в Италии с использованием дронов",
@@ -4878,7 +4881,8 @@
       "perspective_type": "",
       "is_development": false,
       "first_reported": "2026-09-07",
-      "id": "849ca54cc193"
+      "id": "849ca54cc193",
+      "last_reported": "2026-09-07"
     },
     {
       "title_ru": "Глобальные инвесторы активно вкладывают в гособлигации США",
@@ -5171,10 +5175,589 @@
       "title_ru": "Как стоковые изображения собаки фотографа стали вирусным мемом",
       "first_reported": "2026-09-07",
       "id": "32666b87eda2"
+    },
+    {
+      "title_ru": "Атаки БПЛА на российские регионы: пострадавшие в Белгородской области и Татарстане",
+      "title_en": "Drone attacks on Russian regions: casualties in Belgorod region and Tatarstan",
+      "date": "2026-09-07",
+      "summary": "В Белгородской области при атаке БПЛА пострадал мужчина, дрон ВСУ ударил по микроавтобусу. Одновременно беспилотники ударили по Закамской зоне Татарстана, повредив гражданские и промышленные объекты.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "tass.ru",
+        "ria.ru",
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/28088603",
+        "https://ria.ru/20260907/vsu-2116163408.html",
+        "https://www.kommersant.ru/doc/8937997"
+      ],
+      "perspective": "Российские власти представляют это как атаки ВСУ на гражданские объекты, что может использоваться для обоснования военных действий. Украинская сторона, вероятно, рассматривает это как ответные удары по военной инфраструктуре.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "e66d7c8f2d88"
+    },
+    {
+      "title_ru": "Минобороны России сообщает об ударах по Украине и окружении военных ВСУ",
+      "title_en": "Russian Defense Ministry reports strikes on Ukraine and encirclement of Ukrainian troops",
+      "date": "2026-09-07",
+      "summary": "Минобороны России сообщило об ударах по стоянкам автоцистерн на Украине и порту Измаил. Также заявлено, что 1,7 тыс. военных ВСУ окружены в Харьковской области. Российские силы сбили 20 БПЛА над Ростовской областью.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8938377",
+        "https://www.kommersant.ru/doc/8938034",
+        "https://www.kommersant.ru/doc/8937774",
+        "https://www.kommersant.ru/doc/8937752"
+      ],
+      "perspective": "Российское военное командование представляет это как успешные операции. Украинская сторона, вероятно, оспаривает эти заявления или представляет их как пропаганду. Западные аналитики могут скептически относиться к таким сообщениям без независимого подтверждения.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "17c9d4a1887e"
+    },
+    {
+      "title_ru": "Путин поручил создать комиссию по ограничениям для релокантов и провёл дипломатические контакты",
+      "title_en": "Putin ordered creation of commission for restrictions on relocants and held diplomatic contacts",
+      "date": "2026-09-07",
+      "summary": "Владимир Путин поручил создать комиссию по применению ограничений против релокантов. Также он провёл телефонный разговор с президентом Азербайджана Ильхамом Алиевым и договорился активизировать контакты Москвы и Баку.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8938282",
+        "https://www.kommersant.ru/doc/8937992"
+      ],
+      "perspective": "Решение о комиссии по релокантам может оцениваться как ужесточение контроля над гражданами, покинувшими страну. Дипломатические контакты с Азербайджаном рассматриваются как укрепление российского влияния в регионе. Оппозиционные силы могут критиковать эти шаги как авторитарные.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "9bb0eb11ddf9"
+    },
+    {
+      "title_ru": "«Росатом» построит завод по сборке элементов ветрогенераторов в Амурской области",
+      "title_en": "Rosatom will build a plant for assembling wind turbine components in Amur region",
+      "date": "2026-09-07",
+      "summary": "Госкорпорация «Росатом» планирует построить в Амурской области завод по сборке элементов ветрогенераторов. Это часть развития возобновляемой энергетики в России.",
+      "category": "energy",
+      "area": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/column/vetrogeneratory-in-amur"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-07",
+      "id": "9ffbf0c72ed0"
+    },
+    {
+      "title_ru": "Учёные выяснили причины неожиданного набора льда в Антарктиде",
+      "title_en": "Scientists have discovered the reasons for unexpected ice gain in Antarctica",
+      "date": "2026-09-07",
+      "summary": "Исследователи установили, почему Антарктида неожиданно набрала 695 миллиардов тонн льда. Это важное открытие для понимания климатических процессов и изменения уровня мирового океана.",
+      "category": "tech",
+      "area": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/climate/antarktida-nabrala-lda"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-07",
+      "id": "34842714200d"
+    },
+    {
+      "title_ru": "Тысячи сербов собрались на похороны Ратко Младича в Белграде",
+      "title_en": "Thousands of Serbs Gather to Mourn Ratko Mladic, the 'Butcher of Bosnia'",
+      "date": "2026-09-07",
+      "summary": "Тысячи сербов собрались в Белграде на похороны Ратко Младича, бывшего военного лидера боснийских сербов, осуждённого за военные преступления. Мероприятие вызвало глубокие разногласия в сербском обществе и стало символом нерешённых проблем, связанных с балканскими войнами 1990-х годов.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "The New York Times",
+        "ТАСС",
+        "BBC",
+        "Deutsche Welle"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/09/07/world/europe/ratko-mladic-funeral-serbia.html",
+        "https://tass.com/society/2183767",
+        "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
+        "https://www.dw.com/en/serbia-how-the-funeral-of-ratko-mladic-is-dividing-a-nation/a-78948890?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "perspective": "Сербские националисты и консервативные круги видят в Младиче героя, защищавшего сербский народ, в то время как либеральные силы, правозащитники и международное сообщество осуждают его как военного преступника, ответственного за геноцид в Сребренице.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "bb34e1c6ccb1"
+    },
+    {
+      "title_ru": "Учёные предполагают, что тёмная энергия и материя могут иметь собственное измерение",
+      "title_en": "Two of the Universe's Great Mysteries May Have Their Own Dimension",
+      "date": "2026-09-07",
+      "summary": "Новое научное исследование предполагает, что тёмная энергия и тёмная материя, составляющие большую часть Вселенной, могут существовать в собственном измерении. Эта гипотеза может помочь объяснить фундаментальные загадки космологии и природы Вселенной.",
+      "category": "tech",
+      "area": "Мир",
+      "sources": [
+        "Wired"
+      ],
+      "links": [
+        "https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-07",
+      "id": "7530518414b4"
+    },
+    {
+      "title_ru": "Чилийский экономический индекс Imacec упал на 1,5% из-за снижения экспорта меди",
+      "title_en": "Chile Imacec Falls 1.5% as Copper Shipments Drop for First Time Since 2023",
+      "date": "2026-09-07",
+      "summary": "Экономический индекс Imacec в Чили снизился на 1,5% в июле 2026 года. Это произошло из-за падения экспорта меди, которое впервые с 2023 года показало отрицательную динамику.",
+      "category": "politics",
+      "area": "Южная Америка",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/chile-imacec-july-copper-exports-2026/"
+      ],
+      "perspective": "Правительство Чили может рассматривать это как временное явление, связанное с колебаниями мировых цен на медь. Оппозиция может критиковать экономическую политику, указывая на зависимость от сырьевого экспорта.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "570ef3bfd07a"
+    },
+    {
+      "title_ru": "МЕРКОСУР запустил торговый блок с ЕС, Тихоокеанский альянс отстаёт",
+      "title_en": "Mercosur Launches EU Trade Pillar as Pacific Alliance Stagnation Widens Bloc Gap",
+      "date": "2026-09-07",
+      "summary": "Южноамериканский торговый блок МЕРКОСУР запустил торговый компонент с Европейским союзом. При этом Тихоокеанский альянс продолжает стагнировать, что увеличивает разрыв между двумя региональными объединениями.",
+      "category": "politics",
+      "area": "Южная Америка",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/pacific-alliance-mercosur-2026/"
+      ],
+      "perspective": "Страны МЕРКОСУР могут рассматривать это как успех региональной интеграции. Страны Тихоокеанского альянса могут выражать озабоченность по поводу своего отставания в торговых переговорах.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "39593d26798e"
+    },
+    {
+      "title_ru": "Нефть Brent превысила $98 за баррель впервые с июля",
+      "title_en": "Brent crude tops $98 per barrel on ICE for first time since July 24",
+      "date": "2026-09-07",
+      "summary": "Цена на нефть марки Brent превысила $98 за баррель на бирже ICE. Это произошло впервые с 24 июля, что указывает на продолжающийся рост цен на энергоносители.",
+      "category": "energy",
+      "area": "Мир",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/economy/2183759"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "09700af2c4a9"
+    },
+    {
+      "title_ru": "ИИ-драйверное производство активно развивается в Мексике",
+      "title_en": "El Jalapeño: AI-driven manufacturing is booming in Mexico, says AI",
+      "date": "2026-09-06",
+      "summary": "Производство на основе искусственного интеллекта активно развивается в Мексике. Согласно анализу ИИ, страна переживает бум внедрения искусственного интеллекта в промышленные процессы.",
+      "category": "ai",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "mexiconewsdaily.com"
+      ],
+      "links": [
+        "https://mexiconewsdaily.com/el-jalapeno/el-jalapeno-ai-driven-manufacturing-booming-mexico-says-ai/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-06",
+      "id": "85179aefd79e"
+    },
+    {
+      "title_ru": "Победа партии AfD на выборах в Саксонии-Анхальт",
+      "title_en": "AfD victory in Saxony-Anhalt elections",
+      "date": "2026-09-07",
+      "summary": "Партия \"Альтернатива для Германии\" (AfD) одержала победу на выборах в земле Саксония-Анхальт. Лидер партии связал успех с недовольством населения помощью Германии Украине. Иностранцы в Германии выражают опасения по поводу возможного политического поворота вправо.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "www.france24.com",
+        "tass.com",
+        "www.france24.com",
+        "www.france24.com"
+      ],
+      "links": [
+        "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260907-afd-l-allemagne-bascule-t-elle",
+        "https://www.france24.com/fr/europe/20260907-vent-panique-victoire-afd-saxe-anhalt-%C3%A9trangers-redoutent-tournant-extr%C3%AAme-droite",
+        "https://tass.com/world/2183771",
+        "https://www.france24.com/fr/vid%C3%A9o/20260907-allemagne-%C3%A9lection-de-l-afd-un-parti-russophile-et-pro-trump"
+      ],
+      "perspective": "Правые силы рассматривают победу как выражение народного недовольства политикой правительства. Левые и центристские партии видят в этом угрозу демократическим ценностям и международным отношениям. Иностранные общины в Германии выражают тревогу по поводу возможного ужесточения миграционной политики.",
+      "perspective_type": "from_source",
+      "first_reported": "2026-09-07",
+      "id": "6f946f76a40c"
+    },
+    {
+      "title_ru": "Отставка генерального прокурора Украины",
+      "title_en": "Ukrainian Prosecutor General resigns",
+      "date": "2026-09-07",
+      "summary": "Генеральный прокурор Украины Андрей Кравченко подал заявление об отставке. По данным СМИ, его решение связано с коррупционным скандалом. Сам Кравченко назвал свою отставку политическим решением.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "www.belta.by",
+        "ria.ru",
+        "www.ukrinform.ua",
+        "tass.ru",
+        "rssexport.rbc.ru"
+      ],
+      "links": [
+        "https://belta.by/world/view/genprokuror-ukrainy-podal-v-otstavku-799897-2026/",
+        "https://ria.ru/20260907/ukrainy-2116181847.html",
+        "https://www.ukrinform.ua/rubric-polytics/4161813-kravcenko-podav-zaavu-pro-vidstavku-z-posadi-generalnogo-prokurora.html",
+        "https://tass.ru/mezhdunarodnaya-panorama/28088849",
+        "https://www.rbc.ru/politics/05/09/2026/6a9c36ae9a79475f9f684309"
+      ],
+      "perspective": "Оппозиционные силы могут рассматривать отставку как признак кризиса в правоохранительной системе. Правительственные круги могут представлять это как шаг по борьбе с коррупцией. Международные наблюдатели следят за развитием ситуации в контексте антикоррупционных реформ.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "68f60097c569"
+    },
+    {
+      "title_ru": "Заявление МИД Кубы об ущербе от блокады США",
+      "title_en": "Cuban Foreign Ministry statement on US blockade damage",
+      "date": "2026-09-07",
+      "summary": "Министерство иностранных дел Кубы оценило годовой ущерб от американской блокады в более чем 8,83 миллиарда долларов. Это рекордный показатель за всю историю экономических санкций. Заявление сделано на фоне продолжающегося противостояния между Кубой и США.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "www.belta.by",
+        "www.kommersant.ru",
+        "tass.ru",
+        "ria.ru"
+      ],
+      "links": [
+        "https://belta.by/world/view/mid-kuby-otsenil-godovoj-uscherb-ot-blokady-ssha-v-bolee-chem-v-883-mlrd-799892-2026/",
+        "https://www.kommersant.ru/doc/8938518",
+        "https://tass.ru/ekonomika/28088615",
+        "https://ria.ru/20260907/kuba-2116164103.html"
+      ],
+      "perspective": "Кубинское правительство использует эти данные для критики американской политики и привлечения международной поддержки. США могут оспаривать методику расчётов и подчёркивать политическую природу заявления. Страны, выступающие против санкций, могут использовать эту информацию для давления на Вашингтон.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "d1d6e352a03b"
+    },
+    {
+      "title_ru": "Иранский министр: нефтяные экспорты продолжались несмотря на 550 ударов по Харгу",
+      "title_en": "Iran kept oil exports flowing during war despite 550 strikes on Kharg: Minister",
+      "date": "2026-09-07",
+      "summary": "Иранский министр нефти заявил, что страна смогла поддерживать экспорт нефти во время войны, несмотря на 550 ударов по нефтяному терминалу Харг. Это демонстрирует устойчивость иранской нефтяной инфраструктуры.",
+      "category": "energy",
+      "area": "Мир",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/07/775818/Iran-kept-oil-exports-flowing-during-war-despite-550-strikes-on-Kharg--Minister"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "08e480f8d09c"
+    },
+    {
+      "title_ru": "Митинг сторонников исламского строя в иранском городе Гармсар",
+      "title_en": "Pro-Islamic Establishment rallies in Garmsar",
+      "date": "2026-09-07",
+      "summary": "В иранском городе Гармсар прошли массовые митинги в поддержку исламского строя. Участники выразили поддержку руководству страны и осудили внешнее вмешательство во внутренние дела Ирана.",
+      "category": "politics",
+      "area": "Мир",
+      "sources": [
+        "en.mehrnews.com"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/247534/Pro-Islamic-Establishment-rallies-in-Garmsar"
+      ],
+      "perspective": "Митинг демонстрирует поддержку действующего режима его сторонниками, в то время как оппозиционные силы могут рассматривать это как организованную акцию властей.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "2f3b51403a9e"
+    },
+    {
+      "title_ru": "Израильский военный министр приказал армии готовиться к полномасштабной войне с Палестинской автономией",
+      "title_en": "Israeli war minister orders army to prepare for 'all-out war' on Palestinian Authority",
+      "date": "2026-09-07",
+      "summary": "Израильский министр обороны отдал приказ армии подготовиться к полномасштабной войне против Палестинской автономии. Это указывает на эскалацию напряженности в регионе.",
+      "category": "politics",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/07/775858/Israeli-military-ordered-to-prepare-for--all-out-war--on-Palestinian-Authority"
+      ],
+      "perspective": "Израильские власти могут рассматривать это как необходимую меру безопасности, в то время как палестинские и международные наблюдатели могут видеть в этом угрозу эскалации конфликта.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "c322d78b9807"
+    },
+    {
+      "title_ru": "Тайвань отказывается от перезапуска АЭС, Россия восстанавливает линию на Запорожской АЭС",
+      "title_en": "Taiwan rejects nuclear plant restart, Russia restores Zaporozhye NPP power line",
+      "date": "2026-09-07",
+      "summary": "На Тайване принято решение не перезапускать атомные электростанции, что отражает осторожный подход к ядерной энергетике. Одновременно на Запорожской АЭС в России планируется восстановление второй линии электропередачи для повышения ядерной безопасности станции.",
+      "category": "energy",
+      "area": "Мир",
+      "sources": [
+        "www.taipeitimes.com",
+        "tass.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/editorials/archives/2026/09/08/2003863856",
+        "https://tass.com/economy/2183819"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "530da7ef5dba"
+    },
+    {
+      "title_ru": "Пожар на рынке в Центральном Папуа унес жизни 11 человек",
+      "title_en": "Market Fire in Central Papua's Paniai killed 11, probe ongoing",
+      "date": "2026-09-07",
+      "summary": "Пожар на рынке в округе Паниай провинции Центральное Папуа в Индонезии привел к гибели 11 человек. Расследование причин возгорания продолжается, власти изучают обстоятельства трагедии.",
+      "category": "politics",
+      "area": "Южная и Юго-Восточная Азия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/430297/market-fire-in-central-papuas-paniai-killed-11-probe-ongoing"
+      ],
+      "perspective": "Трагедия может использоваться оппозицией для критики работы местных властей по обеспечению пожарной безопасности. Правящая коалиция будет подчеркивать оперативность расследования и меры по предотвращению подобных инцидентов.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "a50bad1d4eba"
+    },
+    {
+      "title_ru": "Футбольные команды из районов лесных пожаров провели матч единства на Гавайях",
+      "title_en": "Paradise and Lahainaluna football teams unite after devastating wildfires",
+      "date": "2026-09-08",
+      "summary": "Футбольные команды Paradise High из Калифорнии и Lahainaluna из Гавайев, чьи города пострадали от разрушительных лесных пожаров в 2018 и 2023 годах соответственно, впервые встретились на Гавайях для проведения матча \"Чаши единства\". Это символическое событие демонстрирует солидарность сообществ, переживших природные катастрофы.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "timesofindia.indiatimes.com"
+      ],
+      "links": [
+        "https://timesofindia.indiatimes.com/world/us/californias-paradise-high-lost-its-town-to-fire-in-2018-and-lahainaluna-endured-the-lahaina-fire-in-2023-their-football-teams-have-now-met-in-hawaii-for-the-first-unity-bowl/articleshow/133881322.cms"
+      ],
+      "perspective": "Левые и экологические активисты могут использовать это событие для привлечения внимания к проблеме изменения климата и усиления лесных пожаров. Консерваторы могут подчеркивать важность местной солидарности и восстановления сообществ без политизации природных катастроф.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-08",
+      "id": "c6b2a97422b2"
+    },
+    {
+      "title_ru": "Техасское ранчо площадью 2500 акров стало частью заповедника дикой природы",
+      "title_en": "Texas family's 2,500-acre ranch joins 17,500-acre wildlife refuge",
+      "date": "2026-09-07",
+      "summary": "Семья из Техаса, владевшая прибрежным ранчо площадью 2500 акров на протяжении нескольких поколений, передала его для включения в заповедник дикой природы общей площадью 17500 акров. Это решение способствует сохранению природных экосистем и биоразнообразия региона.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "timesofindia.indiatimes.com"
+      ],
+      "links": [
+        "https://timesofindia.indiatimes.com/world/us/a-texas-family-held-this-coastal-ranch-for-generations-now-2500-acres-have-become-part-of-a-17500-acre-wildlife-refuge/articleshow/133879375.cms"
+      ],
+      "perspective": "Экологические организации и демократы будут приветствовать это решение как важный шаг в сохранении природы. Консервативные землевладельцы могут выражать опасения по поводу ограничения прав частной собственности, хотя некоторые могут видеть в этом пример ответственного землепользования.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "98e220eddb62"
+    },
+    {
+      "title_ru": "Правительство Австралии планирует допросить крупные технологические компании",
+      "title_en": "Government plans to grill big tech companies",
+      "date": "2026-09-08",
+      "summary": "Австралийское правительство готовится к допросам руководителей крупных технологических компаний. Цель - усиление регулирования технологического сектора и защита интересов потребителей.",
+      "category": "politics",
+      "area": "Океания и Австралия",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/national/government-plans-to-grill-big-tech-companies-20260908-p60va4.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "perspective": "Левые и правые политические силы могут по-разному оценивать это решение: левые могут поддерживать усиление регулирования для защиты потребителей, правые могут опасаться чрезмерного вмешательства государства в бизнес. Технологические компании могут рассматривать это как угрозу своей деятельности.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-08",
+      "id": "8eadb2b60f70"
+    },
+    {
+      "title_ru": "Креативность Африки - следующий золотой рудник для искусственного интеллекта",
+      "title_en": "Africa's creativity is AI's next gold rush",
+      "date": "2026-09-07",
+      "summary": "Африканская креативность рассматривается как следующая большая возможность для развития искусственного интеллекта. Статья анализирует потенциал африканского культурного и творческого наследия для тренировки и развития ИИ-систем.",
+      "category": "ai",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/thought-leader/2026-09-07-africa-s-creativity-is-ai-s-next-gold-rush/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-07",
+      "id": "47d7bf1407e3"
+    },
+    {
+      "title_ru": "Пластмассовые компании пишут учебные планы",
+      "title_en": "Plastics Companies Are Writing Lesson Plans. What Could Go Wrong?",
+      "date": "2026-09-07",
+      "summary": "Компании по производству пластмасс разрабатывают учебные планы для школ. Статья исследует потенциальные риски и конфликты интересов, когда промышленные компании влияют на образовательный контент.",
+      "category": "tech",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "www.wired.com"
+      ],
+      "links": [
+        "https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-07",
+      "id": "e9348f43a776"
+    },
+    {
+      "title_ru": "Ордер на арест Jub Jub отменён после его явки в суд",
+      "title_en": "Jub Jub's arrest warrant struck off the roll after he appears in court",
+      "date": "2026-09-07",
+      "summary": "Суд в ЮАР отменил ордер на арест известного медийного деятеля Jub Jub после того, как он явился в суд. Дело связано с обвинениями в нападении и других правонарушениях.",
+      "category": "politics",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-09-07-jub-jub-s-arrest-warrant-struck-off-the-roll-after-he-appears-in-court/"
+      ],
+      "perspective": "Сторонники правосудия могут приветствовать соблюдение судебных процедур, в то время как критики могут выражать озабоченность по поводу особого отношения к знаменитостям в судебной системе.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "92badd58ce84"
+    },
+    {
+      "title_ru": "Полиция Южной Кореи требует ордер на арест бывшего депутата правящей партии по обвинениям в коррупции",
+      "title_en": "Police seek arrest warrant for ex-ruling party lawmaker over corruption allegations",
+      "date": "2026-09-07",
+      "summary": "Полиция Южной Кореи подала запрос на ордер на арест бывшего депутата правящей партии по обвинениям в коррупции. Расследование связано с предполагаемыми финансовыми нарушениями.",
+      "category": "politics",
+      "area": "Дальний Восток",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260907006900315"
+      ],
+      "perspective": "Оппозиционные силы могут использовать это дело для критики правящей партии, в то время как сторонники правительства могут подчеркивать независимость следственных органов.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "aeef6cfa5fc0"
+    },
+    {
+      "title_ru": "Финансовая грамотность важна для владельцев малого бизнеса",
+      "title_en": "Why financial literacy matters for small business owners",
+      "date": "2026-09-07",
+      "summary": "Эксперты подчеркивают важность финансовой грамотности для успеха малого бизнеса в ЮАР. Правильное управление финансами помогает предпринимателям выживать в сложных экономических условиях.",
+      "category": "politics",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/thought-leader/2026-09-07-why-financial-literacy-matters-for-small-business-owners/"
+      ],
+      "perspective": "Правительственные структуры могут поддерживать такие инициативы как способ стимулирования экономического роста, в то время как оппозиция может критиковать недостаточность государственной поддержки малого бизнеса.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "e7a113d39ac2"
+    },
+    {
+      "title_ru": "Лучшие ставки по депозитам и ипотечным кредитам на начало сентября 2026 года",
+      "title_en": "Best CD and mortgage rates in early September 2026",
+      "date": "2026-09-07",
+      "summary": "Финансовые учреждения предлагают ставки по депозитным сертификатам до 4,35% годовых. При этом ставки по ипотечным кредитам на покупку жилья ниже, чем ставки по рефинансированию, а разница между ставками по кредитам под залог недвижимости составляет 19 базисных пунктов. По сравнению с предыдущей неделей ипотечные ставки значительно выросли.",
+      "category": "finance",
+      "area": "Мир",
+      "sources": [
+        "finance.yahoo.com",
+        "finance.yahoo.com",
+        "finance.yahoo.com",
+        "finance.yahoo.com",
+        "finance.yahoo.com"
+      ],
+      "links": [
+        "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-7-2026-lock-in-up-to-435-apy-100000332.html",
+        "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-7-2026-fixed-purchase-rates-lower-than-refi-rates-100000677.html",
+        "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-7-2026-a-19-basis-point-differential-100000340.html",
+        "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-september-6-2026-rates-much-higher-week-over-week-100000794.html",
+        "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-september-6-2026-lock-in-up-to-435-apy-100000219.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "c99f088729d6"
+    },
+    {
+      "title_ru": "Новый принтер EufyMake для печати фотографий на ткани",
+      "title_en": "New EufyMake printer puts photos onto fabric",
+      "date": "2026-09-07",
+      "summary": "Компания анонсировала новый принтер EufyMake, который позволяет печатать фотографии непосредственно на ткани. Устройство предназначено для создания персонализированных текстильных изделий с фотографиями.",
+      "category": "photo",
+      "area": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/07/this-upcoming-eufymake-printer-puts-your-photos-onto-fabric/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "b696881b0977"
     }
   ],
   "_stats": {
-    "total_tokens": 1611076,
-    "total_cost": 241.62476799999996
+    "total_tokens": 1672965,
+    "total_cost": 245.65806799999996
   }
 }
