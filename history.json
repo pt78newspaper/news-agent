@@ -8730,7 +8730,8 @@
       "perspective": "Трагедия привлечет внимание к вопросам безопасности авиаперевозок и регулированию грузовых рейсов. Оппозиционные политики могут использовать инцидент для критики корпоративных практик Amazon и требований усиления контроля.",
       "perspective_type": "assumed",
       "first_reported": "2026-09-06",
-      "id": "dd435041136a"
+      "id": "dd435041136a",
+      "last_reported": "2026-09-06"
     },
     {
       "title_ru": "Полиция Южной Кореи ужесточает правила расследования дел с участием родственников офицеров",
@@ -8748,7 +8749,8 @@
       "perspective": "Реформа может получить поддержку общественности как шаг к большей прозрачности, но встретить сопротивление внутри полицейских структур. Оппозиционные партии могут использовать это для критики существующей системы и требований более радикальных изменений.",
       "perspective_type": "assumed",
       "first_reported": "2026-09-08",
-      "id": "07979a70e9b8"
+      "id": "07979a70e9b8",
+      "last_reported": "2026-09-08"
     },
     {
       "title_ru": "Извержение вулкана Анак-Кракатау в Индонезии парализовало авиасообщение и рыболовство",
@@ -8785,7 +8787,8 @@
       "perspective_type": "assumed",
       "is_development": false,
       "first_reported": "2026-09-08",
-      "id": "122c33a2756d"
+      "id": "122c33a2756d",
+      "last_reported": "2026-09-08"
     },
     {
       "title_ru": "Смерть Анеле Тембе: свидетели слышали крики и громкий хлопок перед падением с 10-го этажа отеля",
@@ -8862,10 +8865,532 @@
       "is_development": false,
       "first_reported": "2026-09-08",
       "id": "554a88383858"
+    },
+    {
+      "title_ru": "Взрывы в подконтрольной ВСУ части Запорожской области и Николаеве",
+      "title_en": "Explosions in Ukrainian-controlled part of Zaporizhzhia region and Mykolaiv",
+      "date": "2026-09-08",
+      "summary": "В подконтрольной ВСУ части Запорожской области прогремели взрывы. Также взрывы произошли в Николаеве, где они повторились вновь. В Брянской области один человек погиб и четверо ранены при атаках ВСУ.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "ria.ru",
+        "tass.ru",
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260908/vzryvy-2116419131.html",
+        "https://tass.ru/proisshestviya/28092291",
+        "https://tass.ru/proisshestviya/28092285",
+        "https://ria.ru/20260908/nikolaev-2116407924.html",
+        "https://www.kommersant.ru/doc/8938928"
+      ],
+      "perspective": "Российские власти представляют эти события как атаки ВСУ на российские территории. Украинская сторона, вероятно, рассматривает их как действия в рамках обороны или контрнаступления. Западные страны могут оценивать ситуацию как эскалацию конфликта.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "92dacb820341"
+    },
+    {
+      "title_ru": "Трагическая гибель 12 альпинистов под лавиной в Кабардино-Балкарии",
+      "title_en": "Tragic death of 12 climbers in avalanche in Kabardino-Balkaria",
+      "date": "2026-09-08",
+      "summary": "В Кабардино-Балкарии спасатели эвакуировали тела 12 альпинистов, погибших под лавиной в ущелье Безенги. Поисковые работы возобновились после перерыва. Священники окажут поддержку родственникам погибших.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "ria.ru",
+        "tass.ru",
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260908/alpinisty-2116399780.html",
+        "https://tass.ru/proisshestviya/28092219",
+        "https://tass.ru/obschestvo/28092113",
+        "https://www.kommersant.ru/doc/8938772",
+        "https://www.kommersant.ru/doc/8938705"
+      ],
+      "perspective": "Власти России представляют это как трагедию, требующую усиления мер безопасности в горах. Оппозиционные силы могут критиковать недостаточность спасательных служб и инфраструктуры. Общественность скорбит о погибших и требует расследования причин.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "3ccd287558b2"
+    },
+    {
+      "title_ru": "Трамп пообещал Путину 'колоссальные выгоды' при завершении конфликта на Украине",
+      "title_en": "Trump promised Putin 'colossal benefits' upon ending conflict in Ukraine",
+      "date": "2026-09-08",
+      "summary": "Помощник президента России Юрий Ушаков озвучил позицию Дональда Трампа по восстановлению отношений России и США. Трамп пообещал Путину 'колоссальные выгоды' при завершении конфликта на Украине и заинтересован в скорейшем его прекращении. Путин поддержал настрой Трампа на конструктивное партнерство.",
+      "category": "politics",
+      "area": "Мир",
+      "sources": [
+        "ria.ru",
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260908/tramp-2116387848.html",
+        "https://www.kommersant.ru/doc/8939256",
+        "https://www.kommersant.ru/doc/8939241",
+        "https://www.kommersant.ru/doc/8939227",
+        "https://ria.ru/20260908/putin-2116377813.html"
+      ],
+      "perspective": "Российские власти позитивно оценивают заявления Трампа как возможность для нормализации отношений. Украина и европейские союзники могут опасаться, что это ослабит поддержку Киева. В США республиканцы поддержат такой подход, а демократы могут критиковать его как уступку России.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "c5edb5b0f166"
+    },
+    {
+      "title_ru": "Tesla запустила «Кибертакси» без приглашения прессы",
+      "title_en": "Tesla launched 'Cybertaxi' without inviting press",
+      "date": "2026-09-07",
+      "summary": "Компания Tesla запустила сервис «Кибертакси», не приглашая прессу на презентацию. Наблютели сомневаются в успехе этого проекта.",
+      "category": "tech",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/hi-tech/tesla-zapustila-kibertaksi"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "231be92718f6"
+    },
+    {
+      "title_ru": "Военные США сообщили о 75-процентном падении активности дронов после развертывания боевых лазеров",
+      "title_en": "US military reports 75% drop in drone activity after deployment of combat lasers",
+      "date": "2026-09-08",
+      "summary": "Военные США сообщили о 75-процентном падении активности дронов после развертывания боевых лазерных систем. Это демонстрирует эффективность новых технологий противодействия беспилотникам.",
+      "category": "tech",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/tech/padenii-aktivnosti-dronov"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "87825a03e3b5"
+    },
+    {
+      "title_ru": "Забастовка работников Эйфелевой башни из-за исключения женщин во время визита индуистской группы",
+      "title_en": "Eiffel Tower Workers Strike, Saying Women Were Excluded From Hindu Group's Visit",
+      "date": "2026-09-08",
+      "summary": "Работники Эйфелевой башни в Париже объявили забастовку после того, как женский персонал был заменён мужчинами во время визита индуистской делегации. Мэр Парижа объявил о начале расследования этого инцидента, который вызвал протесты против дискриминации по гендерному признаку. Башня была временно закрыта, но затем вновь открылась после завершения протеста.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "The New York Times",
+        "BBC",
+        "CBC",
+        "Le Monde"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/09/08/world/europe/paris-eiffel-tower-closed-strike-hindu-temple.html",
+        "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+        "https://www.cbc.ca/news/world/eiffel-tower-strike-hindu-delegation-visit-9.7335469?cmp=rss",
+        "https://www.lemonde.fr/en/france/article/2026/09/08/eiffel-tower-set-to-reopen-following-protest-over-removal-of-women-staff_6757276_7.html"
+      ],
+      "perspective": "Левые и феминистские движения осуждают гендерную дискриминацию и требуют расследования, в то время как консервативные религиозные группы могут оправдывать практику культурными традициями. Власти Франции, придерживающиеся светских принципов, рассматривают инцидент как нарушение трудовых прав и равенства.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "a106d75a42fe"
+    },
+    {
+      "title_ru": "Агент ICE обвинён во лжи о стрельбе по венесуэльцу в Миннеаполисе",
+      "title_en": "ICE officer charged with lying about shooting of Venezuelan in Minneapolis",
+      "date": "2026-09-08",
+      "summary": "Агент иммиграционной и таможенной полиции США (ICE) обвинён во лжи о стрельбе по венесуэльцу в Миннеаполисе. Это редкое обвинение против сотрудника ICE подчёркивает более широкий отход Министерства юстиции от расследований стрельб с участием сотрудников иммиграционных служб.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "The Washington Post",
+        "The Globe and Mail"
+      ],
+      "links": [
+        "https://www.washingtonpost.com/politics/2026/09/08/rare-charges-against-agent-highlight-broader-retreat-ice-shooting-probes/",
+        "https://www.theglobeandmail.com/world/article-ice-minneapolis-lying-investigation-venezuela-shooting/"
+      ],
+      "perspective": "Правозащитные организации и иммиграционные активисты видят в этом случае системную проблему безнаказанности сотрудников ICE, в то время как консервативные политики могут защищать правоохранительные органы и критиковать чрезмерное внимание к действиям агентов. Администрация может рассматривать это как единичный инцидент, а не системную проблему.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "b9f0cf170122"
+    },
+    {
+      "title_ru": "Mistral AI привлёк €3 млрд на развитие суверенного искусственного интеллекта",
+      "title_en": "Mistral raises €3B as sovereign AI becomes big business",
+      "date": "2026-09-08",
+      "summary": "Французская компания Mistral AI привлекла €3 миллиарда в рамках раунда финансирования, что подчёркивает растущее значение суверенного искусственного интеллекта как крупного бизнеса. Финансирование было получено в ответ на сомнения относительно стратегического направления компании и укрепляет её позиции на конкурентном рынке ИИ.",
+      "category": "ai",
+      "area": "Европа",
+      "sources": [
+        "TechCrunch",
+        "Le Monde"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+        "https://www.lemonde.fr/en/economy/article/2026/09/08/mistral-ai-raises-3-billion-in-response-to-doubts-over-its-strategic-direction_6757278_19.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "0d3d79d85231"
+    },
+    {
+      "title_ru": "Результаты PISA 2025: худшие показатели Аргентины с 2006 года, снижение результатов в Чили",
+      "title_en": "PISA 2025: Argentina's Worst Result Since 2006, Chile Slips",
+      "date": "2026-09-08",
+      "summary": "Результаты международного исследования PISA 2025 показали, что Аргентина продемонстрировала худшие показатели с 2006 года. Чили также показало снижение результатов по сравнению с предыдущими годами.",
+      "category": "politics",
+      "area": "Южная Америка",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/pisa-2025-latin-america-results-2026/"
+      ],
+      "perspective": "Правительства стран могут рассматривать эти результаты как вызов для системы образования, оппозиционные силы могут критиковать текущую образовательную политику.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-08",
+      "id": "9972f00c0ce2"
+    },
+    {
+      "title_ru": "Тест PISA выявил тревожное падение навыков чтения и математики",
+      "title_en": "PISA test reveals alarming drop in reading and math skills",
+      "date": "2026-09-08",
+      "summary": "Международное исследование PISA показало тревожное снижение навыков чтения и математики среди учащихся. Результаты свидетельствуют о системных проблемах в образовании.",
+      "category": "politics",
+      "area": "Мир",
+      "sources": [
+        "rss.dw.com"
+      ],
+      "links": [
+        "https://www.dw.com/en/pisa-test-reveals-alarming-drop-in-reading-and-math-skills/a-79147293?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "perspective": "Политические силы могут использовать эти данные для критики текущей образовательной политики или для обоснования реформ в системе образования.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-08",
+      "id": "a1863c039c22"
+    },
+    {
+      "title_ru": "Telxius открывает шлюз в Канкуне до завершения прокладки кабеля Tikal",
+      "title_en": "Telxius Opens Cancún Gateway Ahead of Its Unfinished Cable",
+      "date": "2026-09-08",
+      "summary": "Телекоммуникационная компания Telxius открыла шлюз в Канкуне, Мексика, до завершения прокладки подводного кабеля Tikal. Это инфраструктурный проект, который улучшит связь в регионе.",
+      "category": "tech",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/telxius-cancun-landing-gateway-tikal-cable-2026/"
+      ],
+      "first_reported": "2026-09-08",
+      "id": "d79790f94896"
+    },
+    {
+      "title_ru": "Путин и Трамп провели телефонный разговор, оценили визит американских переговорщиков в Москву",
+      "title_en": "Putin and Trump held a phone call, assessed visit of American negotiators to Moscow",
+      "date": "2026-09-08",
+      "summary": "Президент России Владимир Путин и президент США Дональд Трамп провели телефонный разговор, пятый с начала года. Лидеры оценили визит американских переговорщиков Уиткоффа и Кушнера в Москву со знаком плюс и договорились продолжать работу по гуманитарным вопросам.",
+      "category": "politics",
+      "area": "Мир",
+      "sources": [
+        "www.belta.by",
+        "www.kommersant.ru",
+        "ria.ru",
+        "rssexport.rbc.ru"
+      ],
+      "links": [
+        "https://belta.by/world/view/putin-i-tramp-proveli-telefonnyj-razgovor-800026-2026/",
+        "https://www.kommersant.ru/doc/8939248",
+        "https://ria.ru/20260908/putin-2116383503.html",
+        "https://ria.ru/20260908/putin-2116382576.html",
+        "https://www.rbc.ru/politics/08/09/2026/6aa01aaa2dfdb9d224b73187"
+      ],
+      "perspective": "В российских официальных источниках разговор представлен как конструктивный и продуктивный. В США, вероятно, будут оценивать его с точки зрения национальных интересов и возможных уступок. Европейские союзники могут выражать озабоченность по поводу возможного сближения России и США без их участия.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "f6cfeaedfb0b"
+    },
+    {
+      "title_ru": "Премьер-министр Венгрии обвиняет Орбана в разорении страны и называет это предательством",
+      "title_en": "Hungarian PM declares Orbán left Hungary in ruins and names it treason",
+      "date": "2026-09-08",
+      "summary": "Премьер-министр Венгрии заявил, что бывший премьер Виктор Орбан оставил страну в руинах, назвав это предательством. В то же время правительство сообщает о ремонте 700 километров дорог, росте промышленного производства и увеличении розничных продаж.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/hungary/pm-declares-orban-left-hungary-in-ruins-and-names-it-treason/",
+        "https://www.budapesttimes.hu/hungary/road-to-recovery-700-kilometres-of-repairs-and-counting/",
+        "https://www.budapesttimes.hu/economy/transport-and-electronics-power-a-strong-july-for-industry/",
+        "https://www.budapesttimes.hu/economy/shoppers-spend-more-as-retail-sales-climb-nearly-5/"
+      ],
+      "perspective": "Правящая партия представляет ситуацию как восстановление после разрушительного правления Орбана. Сторонники Орбана и партии Фидес, вероятно, отвергают эти обвинения как политическую пропаганду. Европейские партнёры могут внимательно следить за политической борьбой в Венгрии, которая является членом ЕС.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "e04ab68e5666"
+    },
+    {
+      "title_ru": "Иран объявляет о закрытии Ормузского пролива и создании новой ограниченной зоны",
+      "title_en": "Iran declares Hormuz Strait closed and establishes new restricted zone",
+      "date": "2026-09-08",
+      "summary": "Иранский высший руководитель по безопасности заявил, что Ормузский пролив полностью закрыт. Одновременно Иран объявляет о создании новой 'ограниченной зоны' за пределами пролива. Командующий Корпусом стражей исламской революции заявил, что пролив находится под управлением Ирана.",
+      "category": "politics",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/06/775804/Iran-to-declare-new-restricted-zone-outside-Strait-of-Hormuz--Top-security-official-",
+        "https://presstv.co.uk/Detail/2026/09/06/775777/Iran-IRGC-Hormuz-Strait-control-",
+        "https://presstv.co.uk/Detail/2026/09/07/775813/News-Review--Iran%E2%80%99s-top-security-official-says-Hormuz-Strait-totally-closed-"
+      ],
+      "perspective": "Иранские власти позиционируют это как меру по обеспечению безопасности и суверенитета. Международное сообщество, особенно страны, зависящие от нефтяных поставок через пролив, могут рассматривать это как эскалацию напряженности и угрозу свободе судоходства.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-08",
+      "id": "dc6c741e8e41"
+    },
+    {
+      "title_ru": "Израиль закрывает консульство Великобритании в Восточном Иерусалиме из-за санкций",
+      "title_en": "Israel to close UK consulate in east Jerusalem, expel representatives over sanctions",
+      "date": "2026-09-08",
+      "summary": "Министр иностранных дел Израиля Гидеон Саар объявил о закрытии британского консульства в Восточном Иерусалиме и высылке представителей из Центра мониторинга и координации западного берега. Это ответная мера на введение Великобританией санкций против Израиля.",
+      "category": "politics",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/israel-news/article-907974"
+      ],
+      "perspective": "Израильские власти рассматривают это как необходимый ответ на вмешательство во внутренние дела. Великобритания и другие западные страны могут расценивать это как эскалацию дипломатического конфликта и ухудшение двусторонних отношений.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-08",
+      "id": "fd9695c2c654"
+    },
+    {
+      "title_ru": "Возрождение Арабского газопровода: Иордания одобряет поставки газа в Ливан через Сирию",
+      "title_en": "Arab Gas Pipeline revival: Jordan approves strategic natural gas supply route to Lebanon via Syria",
+      "date": "2026-09-08",
+      "summary": "Иордания одобрила стратегический маршрут поставок природного газа в Ливан через Сирию в рамках возрождения Арабского газопровода. Это решение направлено на обеспечение энергетической безопасности Ливана и восстановление региональной энергетической инфраструктуры.",
+      "category": "energy",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/middle-east/article-907983"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-08",
+      "id": "17e57cf838e3"
+    },
+    {
+      "title_ru": "Политика израильских поселений вызывает торговые ограничения от 13 стран",
+      "title_en": "Israel's settlement policy triggers trade restrictions from 13 nations, including UK, Ireland, France",
+      "date": "2026-09-08",
+      "summary": "Политика израильских поселений привела к введению торговых ограничений со стороны 13 стран, включая Великобританию, Ирландию и Францию. Эти меры являются ответом на продолжающееся строительство поселений на оккупированных территориях.",
+      "category": "tech",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/international/article-907989"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-08",
+      "id": "372ce6cec805"
+    },
+    {
+      "title_ru": "Комиссия ООН по Сирии предупреждает, что действия израильской армии могут быть военными преступлениями",
+      "title_en": "UN Syria commission warns Israeli military activity may amount to war crimes",
+      "date": "2026-09-08",
+      "summary": "Комиссия ООН по расследованию событий в Сирии предупредила, что военная деятельность Израиля может быть квалифицирована как военные преступления. Комиссия указывает на необходимость расследования действий израильских вооруженных сил в регионе.",
+      "category": "ai",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/israel-news/article-907985"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-08",
+      "id": "92c0074528b2"
+    },
+    {
+      "title_ru": "Северная Корея завершила строительство моста через реку Тумань совместно с Россией",
+      "title_en": "North Korea and Russia complete construction of road bridge over Tumen River",
+      "date": "2026-09-08",
+      "summary": "Северная Корея и Россия завершили строительство автомобильного моста через реку Тумань. Об этом сообщило Центральное телеграфное агентство Кореи (KCNA). Мост соединяет территории двух стран и является частью инфраструктурного сотрудничества.",
+      "category": "tech",
+      "area": "Дальний Восток",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260908001151315"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "93cb8802cf5f"
+    },
+    {
+      "title_ru": "Северная Корея обвиняет Японию в наращивании военного потенциала и предупреждает о 'огромном несчастье'",
+      "title_en": "North Korea accuses Japan of building war capability, warns of 'enormous misfortune'",
+      "date": "2026-09-08",
+      "summary": "Северная Корея обвинила Японию в наращивании военного потенциала и предупредила о 'огромном несчастье'. Заявление было сделано в ответ на совместные военные учения Японии, Южной Кореи и США, которые, по мнению КНДР, доводят региональную нестабильность до предела.",
+      "category": "politics",
+      "area": "Дальний Восток",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260908008900315"
+      ],
+      "perspective": "Северная Корея рассматривает действия Японии как угрозу национальной безопасности и милитаризацию региона. Япония и её союзники могут считать свои учения оборонительными мерами в ответ на ракетные испытания КНДР.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "7b53939c2342"
+    },
+    {
+      "title_ru": "Ультраправая партия АдГ одержала победу на выборах в Германии и оказывает давление на канцлера Мерца",
+      "title_en": "Germany's far-right AfD triumphs, aims fire at chancellor",
+      "date": "2026-09-08",
+      "summary": "Ультраправая партия 'Альтернатива для Германии' (АдГ) одержала победу на выборах в Германии и оказывает давление на канцлера Фридриха Мерца. Партия критикует действующего канцлера и укрепляет свои позиции в немецкой политике.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "www.taipeitimes.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/front/archives/2026/09/08/2003863866"
+      ],
+      "perspective": "Победа АдГ рассматривается её сторонниками как демократический выбор граждан, недовольных миграционной политикой и экономическими проблемами. Оппоненты видят в этом угрозу демократическим ценностям и стабильности ЕС.",
+      "perspective_type": "assumed",
+      "is_development": true,
+      "first_reported": "2026-09-08",
+      "id": "94ec8b04f650"
+    },
+    {
+      "title_ru": "Ультраправый союзник поддерживает Эрдогана на выборах 2028 года несмотря на конституционные ограничения",
+      "title_en": "Far-right ally backs Erdoğan for 2028 presidential election despite constitutional term limit",
+      "date": "2026-09-08",
+      "summary": "Ультраправый союзник президента Турции Реджепа Тайипа Эрдогана поддержал его кандидатуру на президентских выборах 2028 года, несмотря на конституционные ограничения по срокам. Это создаёт политическую напряжённость вокруг возможности Эрдогана баллотироваться вновь.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "www.turkishminute.com"
+      ],
+      "links": [
+        "https://www.turkishminute.com/2026/09/08/far-right-ally-backs-erdogan-for-2028-presidential-election-despite-constitutional-term-limit/"
+      ],
+      "perspective": "Сторонники Эрдогана рассматривают его как необходимого лидера для стабильности Турции, оппоненты видят в этом попытку обойти демократические нормы и укрепить авторитарную власть.",
+      "perspective_type": "assumed",
+      "is_development": true,
+      "first_reported": "2026-09-08",
+      "id": "ce587bf6bea8"
+    },
+    {
+      "title_ru": "Скрытые популяции кишечных бактерий связаны со старением, раком и диабетом 2 типа",
+      "title_en": "Hidden gut bacteria populations linked to ageing, cancer and type 2 diabetes may spread worldwide",
+      "date": "2026-09-08",
+      "summary": "Ученые обнаружили скрытые популяции в распространенных кишечных бактериях, которые могут распространяться по всему миру в течение десятилетий. Эти бактериальные штаммы связаны с процессами старения, колоректальным раком, воспалительными заболеваниями кишечника и диабетом 2 типа.",
+      "category": "tech",
+      "area": "Мир",
+      "sources": [
+        "timesofindia.indiatimes.com"
+      ],
+      "links": [
+        "https://timesofindia.indiatimes.com/science/discovery/scientists-found-hidden-populations-within-common-gut-bacteria-that-can-spread-internationally-within-decades-and-are-associated-with-ageing-colorectal-cancer-ibd-and-type-2-diabetes/articleshow/133918079.cms"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "3fdd6f7b419f"
+    },
+    {
+      "title_ru": "Борьба за Йоханнесбург накаляется",
+      "title_en": "Battle for Joburg heats up",
+      "date": "2026-09-03",
+      "summary": "Политическая борьба за контроль над Йоханнесбургом усиливается. Различные политические силы конкурируют за влияние в крупнейшем городе Южной Африки.",
+      "category": "politics",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/politics/2026-09-03-battle-for-joburg-heats-up/"
+      ],
+      "perspective": "Правящая партия АНК рассматривает это как угрозу своему влиянию в экономическом центре страны, в то время как оппозиционные партии видят возможность усилить свои позиции. Местные жители могут быть обеспокоены политической нестабильностью.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-03",
+      "id": "96ab99eed94e"
+    },
+    {
+      "title_ru": "В ЮАР четыре человека получили профилактическую вакцину против ВИЧ",
+      "title_en": "Four people in South Africa received HIV prevention vaccine",
+      "date": "2026-09-08",
+      "summary": "В Южной Африке четыре человека получили профилактическую вакцину против ВИЧ. Это медицинское достижение демонстрирует прогресс в борьбе с эпидемией ВИЧ/СПИДа в регионе.",
+      "category": "tech",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/health/2026-09-08-meet-four-people-who-got-the-hiv-prevention-jab/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "6d12284b4b1e"
+    },
+    {
+      "title_ru": "Мошенники вымогают деньги у пользователей Instagram с помощью ложных жалоб на нарушение авторских прав",
+      "title_en": "Scammers Are Extorting Instagram Users With Bogus Copyright Strikes",
+      "date": "2026-09-08",
+      "summary": "Мошенники используют систему защиты авторских прав Instagram для вымогательства денег у пользователей. Они подают ложные жалобы на нарушение авторских прав, а затем требуют оплаты за снятие этих жалоб, угрожая удалением аккаунтов.",
+      "category": "photo",
+      "area": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/08/scammers-are-extorting-instagram-users-with-bogus-copyright-strikes/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "f33295a6da13"
     }
   ],
   "_stats": {
-    "total_tokens": 1965404,
-    "total_cost": 264.444888
+    "total_tokens": 2027877,
+    "total_cost": 268.406528
   }
 }
