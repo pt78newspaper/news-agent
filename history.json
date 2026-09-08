@@ -2558,7 +2558,8 @@
       "perspective_type": "",
       "is_development": false,
       "first_reported": "2026-09-07",
-      "id": "c556a262c3a5"
+      "id": "c556a262c3a5",
+      "last_reported": "2026-09-07"
     },
     {
       "title_ru": "Ожидания от предстоящего запуска Apple: возможны сюрпризы помимо нового iPhone",
@@ -5889,7 +5890,8 @@
       "perspective_type": "",
       "is_development": false,
       "first_reported": "2026-09-08",
-      "id": "9d029c94935b"
+      "id": "9d029c94935b",
+      "last_reported": "2026-09-08"
     },
     {
       "title_ru": "Запорожская АЭС планирует восстановить вторую линию электропередачи для повышения безопасности",
@@ -6005,7 +6007,8 @@
       "perspective_type": "assumed",
       "is_development": false,
       "first_reported": "2026-09-08",
-      "id": "fbd418d32d46"
+      "id": "fbd418d32d46",
+      "last_reported": "2026-09-08"
     },
     {
       "title_ru": "Спикер парламента Индонезии призывает к единому руководству в управлении стихийными бедствиями",
@@ -6246,10 +6249,739 @@
       "is_development": false,
       "first_reported": "2026-09-08",
       "id": "0f590d43d217"
+    },
+    {
+      "title_ru": "Лавров рассказал о контактах России и США по Украине",
+      "title_en": "Lavrov speaks about Russia-US contacts on Ukraine",
+      "date": "2026-09-08",
+      "summary": "Министр иностранных дел России Сергей Лавров заявил, что Россия готова продолжать диалог с США по украинскому урегулированию. По его словам, США признают базовые вещи по украинскому урегулированию, а суть обсуждений с американскими эмиссарами в Москве опирается на позицию президента Трампа.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "ria.ru",
+        "tass.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260908/lavrov-2116243910.html",
+        "https://ria.ru/20260908/lavrov-2116243656.html",
+        "https://ria.ru/20260908/lavrov-2116243459.html",
+        "https://tass.ru/politika/28090253",
+        "https://tass.ru/politika/28090247"
+      ],
+      "perspective": "Российские власти позитивно оценивают диалог с США, в то время как украинские власти могут рассматривать эти контакты как попытку обойти Киев в переговорном процессе. Западные страны могут видеть в этом признак возможных изменений в подходе США к конфликту.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "e5478bfa8a5a"
+    },
+    {
+      "title_ru": "Российские войска расширяют кольцо окружения в Харьковской области",
+      "title_en": "Russian troops expand encirclement ring in Kharkiv region",
+      "date": "2026-09-08",
+      "summary": "Российские военные расширили внешнее кольцо котла в Харьковской области и заняли два села. По данным российского Минобороны, ВСУ потеряли до 30 военных в этом районе и до 380 военных в зоне действий группировки 'Центр' за сутки.",
+      "category": "politics",
+      "area": "Мир",
+      "sources": [
+        "ria.ru",
+        "rssexport.rbc.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260908/vsu-2116243268.html",
+        "https://ria.ru/20260908/svo-2116241712.html",
+        "https://ria.ru/20260908/tsentr-2116240320.html",
+        "https://www.rbc.ru/politics/08/09/2026/6a9fbf129a79479758dedea2",
+        "https://ria.ru/20260908/sever-2116238856.html"
+      ],
+      "perspective": "Российские власти представляют это как успешное наступление и значительные потери противника. Украинская сторона может оспаривать эти данные или подчеркивать сопротивление своих войск. Западные страны могут рассматривать это как эскалацию конфликта.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "00a59025f188"
+    },
+    {
+      "title_ru": "Лавров заявил о невозможности мониторинга моратория на удары по судам в Чёрном море",
+      "title_en": "Lavrov says monitoring moratorium on strikes against ships in Black Sea impossible",
+      "date": "2026-09-08",
+      "summary": "Министр иностранных дел России Сергей Лавров заявил, что невозможно контролировать соблюдение моратория на удары по судам в Чёрном море. Он также отметил, что ответные удары России за украинские атаки несут более серьёзные последствия, а Запад хочет прекращения огня в Украине только для подготовки к новой эскалации.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/politics/2183995",
+        "https://tass.com/politics/2183983",
+        "https://tass.com/politics/2183981",
+        "https://tass.com/politics/2183973",
+        "https://tass.com/politics/2183963"
+      ],
+      "perspective": "Российская позиция представляет себя как защищающуюся сторону, в то время как Запад и Украина могут рассматривать эти заявления как оправдание дальнейших военных действий. Международное сообщество может видеть в этом отказ от дипломатических решений.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "63de31c5f150"
+    },
+    {
+      "title_ru": "Tesla запустила «Кибертакси» без приглашения прессы",
+      "title_en": "Tesla launches Cybertaxi without inviting press",
+      "date": "2026-09-07",
+      "summary": "Компания Tesla запустила сервис «Кибертакси» без традиционного приглашения прессы на презентацию. Наблютели выражают сомнения в успехе этого проекта, учитывая нестандартный подход к запуску и потенциальные технические сложности.",
+      "category": "tech",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/hi-tech/tesla-zapustila-kibertaksi"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "2bfe2136f871"
+    },
+    {
+      "title_ru": "Ученые выяснили причину неожиданного набора льда в Антарктиде",
+      "title_en": "Scientists discover reason for unexpected ice gain in Antarctica",
+      "date": "2026-09-07",
+      "summary": "Ученые установили, почему Антарктида неожиданно набрала 695 миллиардов тонн льда. Это открытие важно для понимания климатических процессов и прогнозирования изменений уровня мирового океана.",
+      "category": "tech",
+      "area": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/climate/antarktida-nabrala-lda"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "244861ed4516"
+    },
+    {
+      "title_ru": "Похороны Ратко Младича раскололи Сербию",
+      "title_en": "Thousands of Serbs Gather to Mourn Ratko Mladic, the 'Butcher of Bosnia'",
+      "date": "2026-09-07",
+      "summary": "Тысячи сербов собрались на похороны Ратко Младича, бывшего военного командира, осуждённого за геноцид и военные преступления во время Боснийской войны. Событие раскололо нацию: для одних Младич - герой, для других - преступник, ответственный за резню в Сребренице.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "The New York Times",
+        "DW"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/09/07/world/europe/ratko-mladic-funeral-serbia.html",
+        "https://www.dw.com/en/serbia-how-the-funeral-of-ratko-mladic-is-dividing-a-nation/a-78948890?maca=en-rss-en-all-1573-xml-mrss",
+        "https://www.dw.com/en/mladic-s-death-bosnia-and-serbia-s-unfinished-reckoning/a-78602733?maca=en-rss-en-all-1573-xml-mrss",
+        "https://www.dw.com/en/ratko-mladic-the-man-behind-srebrenica-massacre-dies-at-84/a-78536491?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "perspective": "Для сербских националистов Младич - герой, защищавший сербский народ. Для международного сообщества и жертв войны - военный преступник, осуждённый за геноцид. Для умеренных сил в Сербии - символ нерешённых проблем прошлого.",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "fdcdc2aebb51"
+    },
+    {
+      "title_ru": "Торговая война США и Канады осложняет строительство в Америке",
+      "title_en": "To build in America, developers need to navigate the trade war",
+      "date": "2026-09-08",
+      "summary": "Торговая война между США и Канадой создаёт серьёзные препятствия для строительных проектов в Северной Америке. Разработчикам приходится преодолевать новые тарифные барьеры и политическое давление, включая требование Дональда Трампа к Apple изменить название озера Онтарио на 'Озеро Америка'.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "The Globe and Mail",
+        "CNBC"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/article-to-build-in-america-developers-need-to-navigate-the-trade-war/",
+        "https://www.theglobeandmail.com/business/article-donald-trump-asks-apple-to-change-name-of-lake-ontario-to-lake-america/",
+        "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html"
+      ],
+      "perspective": "Для администрации Трампа это часть стратегии 'Америка прежде всего' и давления на союзников. Для Канады - угроза экономическим интересам и суверенитету. Для бизнеса - дополнительные издержки и неопределённость.",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "a2c2e8740e8d"
+    },
+    {
+      "title_ru": "Китай остаётся главной угрозой для энтузиастов дата-центров",
+      "title_en": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
+      "date": "2026-09-06",
+      "summary": "Китай продолжает оставаться главной угрозой в восприятии энтузиастов дата-центров и специалистов по кибербезопасности. Опасения связаны с возможностью китайского вмешательства в инфраструктуру данных и технологическую независимость других стран.",
+      "category": "politics",
+      "area": "Мир",
+      "sources": [
+        "Wired"
+      ],
+      "links": [
+        "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/"
+      ],
+      "perspective": "Для западных стран и технологических компаний Китай представляет угрозу безопасности данных и технологическому суверенитету. Для Китая такие обвинения - часть антикитайской риторики и попытка ограничить его технологическое развитие. Для нейтральных наблюдателей - отражение геополитической конкуренции в цифровой сфере.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-06",
+      "id": "cac5c041edc9"
+    },
+    {
+      "title_ru": "DocuSign открывает доступ к своим ИИ-инструментам для всех агентов",
+      "title_en": "Docusign Is Opening Its AI Tools to Every Agent. What It Means for Salesforce",
+      "date": "2026-09-07",
+      "summary": "Компания DocuSign открывает доступ к своим инструментам искусственного интеллекта для всех агентов, что может изменить конкурентную ситуацию на рынке. Это решение имеет значение для таких компаний, как Salesforce, и может повлиять на развитие ИИ-технологий в сфере электронных подписей и документооборота.",
+      "category": "ai",
+      "area": "Мир",
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "links": [
+        "https://finance.yahoo.com/technology/ai/articles/docusign-opening-ai-tools-every-033727068.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "bef9855da961"
+    },
+    {
+      "title_ru": "Мексиканский нефтеперерабатывающий завод Olmeca сообщает о рекордном месяце производства",
+      "title_en": "Olmeca Refinery reports its best production month",
+      "date": "2026-09-07",
+      "summary": "Мексиканский нефтеперерабатывающий завод Olmeca, спустя два года после начала работы, сообщил о рекордном месяце производства. Это достижение демонстрирует успешное развитие энергетической инфраструктуры Мексики.",
+      "category": "energy",
+      "area": "Южная Америка",
+      "sources": [
+        "mexiconewsdaily.com"
+      ],
+      "links": [
+        "https://mexiconewsdaily.com/news/olmeca-refinery-best-production-month/"
+      ],
+      "first_reported": "2026-09-07",
+      "id": "70a77aac88b9"
+    },
+    {
+      "title_ru": "В Мексике арестованы 16 предполагаемых членов картеля Los Ardillos",
+      "title_en": "16 presumed Los Ardillos cartel members arrested in Guerrero",
+      "date": "2026-09-07",
+      "summary": "В мексиканском штате Герреро арестованы 16 предполагаемых членов наркокартеля Los Ardillos. Эта операция является частью продолжающейся борьбы мексиканских властей с организованной преступностью.",
+      "category": "politics",
+      "area": "Южная Америка",
+      "sources": [
+        "mexiconewsdaily.com"
+      ],
+      "links": [
+        "https://mexiconewsdaily.com/news/los-ardillos-cartel-members-guerrero/"
+      ],
+      "perspective": "Правительство Мексики представит это как успех в борьбе с преступностью, в то время как оппозиция может критиковать недостаточную эффективность антинаркотической политики. Международные наблюдатели будут следить за соблюдением прав человека при задержаниях.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "1e814ac75495"
+    },
+    {
+      "title_ru": "Взрыв пиротехники в Мексике унёс жизни 10 человек",
+      "title_en": "Fireworks blast in México state kills 10, injures dozens more",
+      "date": "2026-09-07",
+      "summary": "Взрыв на складе пиротехники в штате Мехико привёл к гибели 10 человек и ранениям десятков других. Инцидент произошёл на фабрике по производству фейерверков, что поднимает вопросы о безопасности в этой отрасли.",
+      "category": "politics",
+      "area": "Южная Америка",
+      "sources": [
+        "mexiconewsdaily.com"
+      ],
+      "links": [
+        "https://mexiconewsdaily.com/news/10-dead-fireworks-explosion-mexico/"
+      ],
+      "perspective": "Трагедия вызовет критику в адрес властей за недостаточный контроль за безопасностью производства пиротехники. Оппозиция может использовать этот случай для обвинений в халатности регулирующих органов.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "72f33cd74f5c"
+    },
+    {
+      "title_ru": "Косово присоединяется к силам по стабилизации в Газе",
+      "title_en": "Kosovo signs deal to join Gaza stabilization force",
+      "date": "2026-09-07",
+      "summary": "Косово подписало соглашение о присоединении к международным силам по стабилизации в секторе Газа. Это решение демонстрирует участие балканского государства в международных миротворческих миссиях.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "www.dailysabah.com"
+      ],
+      "links": [
+        "https://www.dailysabah.com/world/europe/kosovo-signs-deal-to-join-gaza-stabilization-force"
+      ],
+      "perspective": "Решение Косово поддержат западные союзники как вклад в стабилизацию Ближнего Востока. Сербия может критиковать это как попытку укрепить международное признание Косово. Палестинские власти могут приветствовать дополнительную международную поддержку.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-07",
+      "id": "c10b6d5474cd"
+    },
+    {
+      "title_ru": "Медные рудники в Конго строят электростанции, которые государство не смогло создать",
+      "title_en": "Congo's Copper Mines Are Building the Power Stations the State Never Could",
+      "date": "2026-09-08",
+      "summary": "Медные рудники в Демократической Республике Конго строят собственные солнечные электростанции для обеспечения энергией своих операций. Этот частный подход компенсирует недостатки государственной энергетической инфраструктуры.",
+      "category": "tech",
+      "area": "Африка",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/dr-congo-solar-mining-power-2026/"
+      ],
+      "first_reported": "2026-09-08",
+      "id": "aea92a000b33"
+    },
+    {
+      "title_ru": "При ударе по АЗС в Брянской области погиб один человек и трое пострадали",
+      "title_en": "One killed and three injured in attack on gas station in Bryansk region",
+      "date": "2026-09-08",
+      "summary": "В результате удара по автозаправочной станции в Брянской области погиб один человек, еще трое получили ранения. Инцидент произошел в ходе продолжающегося конфликта, губернатор региона Александр Ковальчук подтвердил информацию о жертвах.",
+      "category": "energy",
+      "area": "Европа",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8938675"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "87584367d266"
+    },
+    {
+      "title_ru": "Товарооборот России и Китая за восемь месяцев вырос на 28,4%",
+      "title_en": "Russia-China trade turnover increased by 28.4% in eight months",
+      "date": "2026-09-08",
+      "summary": "Товарооборот между Россией и Китаем за первые восемь месяцев 2026 года вырос на 28,4% по сравнению с аналогичным периодом прошлого года. Это свидетельствует об укреплении экономических связей между двумя странами на фоне международных санкций.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8938598"
+      ],
+      "perspective": "Российские власти представят это как успех дедолларизации и укрепления восточного вектора. Западные аналитики увидят в этом результат изоляции России и переориентации на Китай. Украина может рассматривать это как усиление поддержки России со стороны Китая.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "4572d7aeacce"
+    },
+    {
+      "title_ru": "При крушении самолета в Калифорнии погибли два человека",
+      "title_en": "Two killed in California plane crash",
+      "date": "2026-09-08",
+      "summary": "Два человека погибли в результате крушения частного самолета в Калифорнии. Инцидент произошел на западе США, подробности авиакатастрофы расследуются местными властями.",
+      "category": "tech",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "www.belta.by"
+      ],
+      "links": [
+        "https://belta.by/world/view/pri-krushenii-samoleta-v-kalifornii-pogibli-dva-cheloveka-799907-2026/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "44b334296140"
+    },
+    {
+      "title_ru": "Russia pummels Kyiv after three-day halt",
+      "title_en": "Russia pummels Kyiv after three-day halt",
+      "date": "2026-09-08",
+      "summary": "Российские войска возобновили удары по Киеву после трехдневного перемирия. В результате атак погибли как минимум два человека, что подтверждают украинские власти и международные источники.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "www.lemonde.fr"
+      ],
+      "links": [
+        "https://www.lemonde.fr/en/international/article/2026/09/08/russia-pummels-kyiv-after-three-day-halt_6757273_4.html"
+      ],
+      "perspective": "Российская сторона может представлять это как ответ на действия ВСУ. Украина и западные страны осудят атаки как нарушение гуманитарных пауз. Нейтральные наблюдатели отметят эскалацию после временного затишья.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "1c4d572aca1d"
+    },
+    {
+      "title_ru": "При атаке беспилотников на Саратов пострадали 10 человек",
+      "title_en": "10 injured in drone attack on Saratov",
+      "date": "2026-09-08",
+      "summary": "В результате атаки беспилотников на город Саратов пострадали 10 человек. Губернатор региона Роман Бусаргин подтвердил информацию о раненых в ходе инцидента.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8938617"
+      ],
+      "perspective": "Российские власти представят это как террористический акт. Украинская сторона, если признает ответственность, может назвать это ответом на российские удары. Западные страны могут осудить атаку на гражданские объекты.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "8263bf4d893e"
+    },
+    {
+      "title_ru": "Иран сохранил экспорт нефти несмотря на 550 ударов по Харгу",
+      "title_en": "Iran kept oil exports flowing during war despite 550 strikes on Kharg",
+      "date": "2026-09-08",
+      "summary": "Иранский министр заявил, что страна смогла сохранить экспорт нефти во время войны с США, несмотря на 550 ударов по острову Харг. Это демонстрирует устойчивость иранской нефтяной инфраструктуры в условиях военного конфликта.",
+      "category": "energy",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/07/775818/Iran-kept-oil-exports-flowing-during-war-despite-550-strikes-on-Kharg--Minister"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "c0965957eab2"
+    },
+    {
+      "title_ru": "Лавров заявил о начале реальной войны России с Западом",
+      "title_en": "Lavrov says Russia at 'start of real war' with West",
+      "date": "2026-09-08",
+      "summary": "Министр иностранных дел России Сергей Лавров заявил, что Россия находится в начале реальной войны с Западом. Это заявление сделано на фоне продолжающегося конфликта в Украине и напряжённости в отношениях с западными странами.",
+      "category": "politics",
+      "area": "Мир",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/06/775803/Lavrov-Russia-Germany-start-of-real-war-with-West"
+      ],
+      "perspective": "Западные страны могут рассматривать это как эскалацию риторики, в то время как в России это может восприниматься как констатация реального положения дел в международных отношениях.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "60d3abce5de7"
+    },
+    {
+      "title_ru": "Канада вводит ответные тарифы на $20 млрд товаров США",
+      "title_en": "Canada's retaliatory tariffs take effects on $20bn of US goods",
+      "date": "2026-09-08",
+      "summary": "Канада ввела ответные тарифы на американские товары стоимостью $20 млрд. Эти меры являются ответом на ранее введённые США торговые ограничения и представляют собой эскалацию торговой войны между двумя странами.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "en.mehrnews.com"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/247547/Canada-s-retaliatory-tariffs-take-effects-on-20bn-of-US-good"
+      ],
+      "perspective": "Канадские власти представляют это как необходимую защитную меру, в то время как США могут рассматривать это как недружественный шаг, усугубляющий торговые противоречия.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "d1af4db26ddf"
+    },
+    {
+      "title_ru": "Массовый пожар охватил Анталью в Турции",
+      "title_en": "Massive fire engulfed Antalya, Turkey",
+      "date": "2026-09-08",
+      "summary": "Крупный пожар охватил турецкий курортный город Анталью. Видеозаписи показывают масштабные разрушения, вызванные огнём, который распространился на значительную территорию.",
+      "category": "politics",
+      "area": "Ближний Восток",
+      "sources": [
+        "en.mehrnews.com"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/247549/VIDEO-Massive-fire-engulfed-Antalya-Turkey"
+      ],
+      "perspective": "Турецкие власти могут представлять это как природное бедствие, требующее международной помощи, в то время как оппозиционные силы могут критиковать эффективность мер по предотвращению пожаров.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "958eb8f797b3"
+    },
+    {
+      "title_ru": "ОАЭ предупреждали Нетаньяху о нападении ХАМАС за несколько дней до 7 октября",
+      "title_en": "UAE warned Netanyahu of major Hamas attack days before October 7 massacre",
+      "date": "2026-09-08",
+      "summary": "Объединённые Арабские Эмираты предупредили премьер-министра Израиля Биньямина Нетаньяху о крупном нападении ХАМАС за несколько дней до событий 7 октября 2023 года. Эта информация была опубликована израильской газетой Haaretz.",
+      "category": "tech",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/israel-news/defense-news/article-907896"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "5fb3a2cbfa5a"
+    },
+    {
+      "title_ru": "Иран объявляет новую ограниченную зону вне Ормузского пролива",
+      "title_en": "Iran to declare new 'restricted zone' outside Strait of Hormuz",
+      "date": "2026-09-08",
+      "summary": "Высокопоставленный иранский представитель службы безопасности заявил, что Иран объявит новую ограниченную зону за пределами Ормузского пролива. Это решение связано с предупреждениями об уязвимости энергетической инфраструктуры в Персидском заливе.",
+      "category": "ai",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/06/775804/Iran-to-declare-new-restricted-zone-outside-Strait-of-Hormuz--Top-security-official-"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "d548ce2ab641"
+    },
+    {
+      "title_ru": "Запорожская АЭС планирует восстановить вторую линию электропередачи",
+      "title_en": "Zaporozhye NPP plans to restore its second power line",
+      "date": "2026-09-07",
+      "summary": "Запорожская атомная электростанция хочет восстановить вторую линию электропередачи для повышения ядерной безопасности. Это позволит улучшить надежность энергоснабжения станции.",
+      "category": "energy",
+      "area": "Дальний Восток",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/economy/2183819"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "2fb997cee6cb"
+    },
+    {
+      "title_ru": "В Южной Корее назначен первый глава нового следственного агентства",
+      "title_en": "South Korea appoints first head of new investigation agency",
+      "date": "2026-09-07",
+      "summary": "Бывший старший прокурор назначен первым руководителем нового следственного агентства в Южной Корее. Это назначение связано с реформой правоохранительной системы страны.",
+      "category": "politics",
+      "area": "Дальний Восток",
+      "perspective": "Правящая партия может рассматривать это как важный шаг в реформе правоохранительной системы, в то время как оппозиция может критиковать назначение как недостаточно прозрачное или как сохранение старой системы.",
+      "perspective_type": "assumed",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260907007900315"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "d7d05f8fb76e"
+    },
+    {
+      "title_ru": "Xiaomi 18 Fold демонстрирует взрывной рост спроса в Китае",
+      "title_en": "Xiaomi 18 Fold shows explosive demand surge in China",
+      "date": "2026-09-08",
+      "summary": "Складной смартфон Xiaomi 18 Fold показал рост спроса на 310% в первый день продаж в Китае. Это свидетельствует о высокой популярности устройства среди потребителей.",
+      "category": "ai",
+      "area": "Дальний Восток",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "www.gizmochina.com"
+      ],
+      "links": [
+        "https://www.gizmochina.com/2026/09/08/xiaomi-18-fold-sales-surge-310-percent-first-sale-demand/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "8579641896b7"
+    },
+    {
+      "title_ru": "Воры похитили картины Ренуара на 9 миллионов евро в музее на Французской Ривьере",
+      "title_en": "Thieves steal Renoir works worth €9 million in French Riviera museum break-in",
+      "date": "2026-09-08",
+      "summary": "Воры совершили ограбление музея Ренуара на Французской Ривьере, похитив три картины художника общей стоимостью около 9 миллионов евро. Преступники сбежали, уронив одну из картин во время бегства.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "www.lemonde.fr"
+      ],
+      "links": [
+        "https://www.lemonde.fr/en/france/article/2026/09/08/thieves-steal-works-worth-9-million-in-renoir-art-museum-break-in_6757277_7.html"
+      ],
+      "perspective": "Власти Франции рассматривают это как серьезное преступление против культурного наследия, в то время как общественность выражает обеспокоенность безопасностью музеев.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-08",
+      "id": "43bb14347951"
+    },
+    {
+      "title_ru": "Извержение вулкана Анак-Кракатау в Индонезии привело к остановке полетов, школ и рыболовства",
+      "title_en": "Anak Krakatau volcano eruption in Indonesia halts flights, schools, fishing",
+      "date": "2026-09-06",
+      "summary": "Извержение вулкана Анак-Кракатау в Индонезии вызвало серьезные нарушения: приостановлены авиарейсы, закрыты школы и остановлено рыболовство. Власти провинции Бантен привели все медицинские учреждения в состояние повышенной готовности.",
+      "category": "politics",
+      "area": "Южная и Юго-Восточная Азия",
+      "sources": [
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/article-anak-krakatau-volcano-eruption-in-indonesia-halts-flights-schools/"
+      ],
+      "perspective": "Правительство демонстрирует оперативные меры реагирования на стихийное бедствие, в то время как местные жители испытывают экономические трудности из-за остановки деятельности.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-06",
+      "id": "354b25f9bbb4"
+    },
+    {
+      "title_ru": "KONE Indonesia стала первой компанией в отрасли, получившей платиновый сертификат Green Product",
+      "title_en": "KONE Indonesia Sets New Industry Benchmark as First to Achieve Platinum Green Product Certification",
+      "date": "2026-09-08",
+      "summary": "Индонезийское подразделение компании KONE стало первым в отрасли, получившим платиновый сертификат Green Product. Это достижение устанавливает новый отраслевой стандарт в области экологической сертификации продукции.",
+      "category": "tech",
+      "area": "Южная и Юго-Восточная Азия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/430344/kone-indonesia-sets-new-industry-benchmark-as-first-to-achieve-platinum-green-product-certification"
+      ],
+      "first_reported": "2026-09-08",
+      "id": "a7140b4d45a6"
+    },
+    {
+      "title_ru": "Сооснователь Graya предлагает решения жилищного кризиса в австралийских городах",
+      "title_en": "Graya's co-founder on how to tackle the city's housing crisis",
+      "date": "2026-09-08",
+      "summary": "Сооснователь строительной компании Graya Роб Грей делится взглядами на решение жилищного кризиса в австралийских городах. Он обсуждает подходы к увеличению доступности жилья и преодолению текущих проблем на рынке недвижимости.",
+      "category": "politics",
+      "area": "Океания и Австралия",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/national/queensland/graya-s-co-founder-on-how-to-tackle-the-city-s-housing-crisis-20260907-p60v4a.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "perspective": "Предприниматели и строительный сектор могут поддержать предложенные меры как практические решения, в то время как левые политики могут критиковать их как недостаточные для решения системных проблем доступности жилья.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "9f779d037c54"
+    },
+    {
+      "title_ru": "Мексиканские власти решают водный кризис в Гвадалахаре на фоне отключений электроэнергии",
+      "title_en": "Sheinbaum and Lemus tackle water crisis amid power outages in Guadalajara",
+      "date": "2026-09-07",
+      "summary": "Президент Мексики Клаудия Шейнбаум и губернатор Халиско Энрике Лемус работают над решением водного кризиса в Гвадалахаре. Их действия происходят на фоне проблем с отключениями электроэнергии в регионе.",
+      "category": "politics",
+      "area": "Южная Америка",
+      "sources": [
+        "mexiconewsdaily.com"
+      ],
+      "links": [
+        "https://mexiconewsdaily.com/water-in-mexico/mnd-local-sheinbaum-lemus-tackle-water-crisis-power-outages-guadalajara/"
+      ],
+      "perspective": "Правящая партия MORENA представит это как активные действия правительства по решению кризиса, в то время как оппозиция может критиковать недостаточную эффективность мер и указывать на системные проблемы инфраструктуры.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "11c8dee4cc92"
+    },
+    {
+      "area": "Африка",
+      "category": "politics",
+      "date": "2026-09-07",
+      "is_development": false,
+      "links": [
+        "https://mg.co.za/thought-leader/2026-09-07-empowering-south-africa-s-youth-why-voting-is-a-money-smart-economic-act/"
+      ],
+      "perspective": "Правительство ЮАР может рассматривать это как важный шаг для вовлечения молодёжи в политический процесс и экономическое развитие. Оппозиционные силы могут критиковать подход как недостаточный для решения реальных экономических проблем молодёжи.",
+      "perspective_type": "assumed",
+      "sources": [
+        "mg.co.za"
+      ],
+      "summary": "В ЮАР обсуждается важность участия молодёжи в выборах как экономически выгодного действия. Автор утверждает, что голосование позволяет молодым людям влиять на экономическую политику, которая напрямую затрагивает их финансовое будущее. Подчёркивается связь между политической активностью и экономическими результатами для молодого поколения.",
+      "title_en": "Empowering South Africa's youth: Why voting is a money-smart economic act",
+      "title_ru": "Расширение прав и возможностей молодёжи ЮАР: Почему голосование — это экономически выгодное действие",
+      "first_reported": "2026-09-07",
+      "id": "288b301b2213"
+    },
+    {
+      "area": "Африка",
+      "category": "finance",
+      "date": "2026-09-07",
+      "is_development": false,
+      "links": [
+        "https://mg.co.za/thought-leader/2026-09-07-why-financial-literacy-matters-for-small-business-owners/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "mg.co.za"
+      ],
+      "summary": "В ЮАР подчёркивается важность финансовой грамотности для владельцев малого бизнеса. Отмечается, что понимание финансовых основ помогает предпринимателям принимать более обоснованные решения и повышает устойчивость бизнеса. Финансовая грамотность рассматривается как ключевой фактор успеха малых предприятий в условиях экономической нестабильности.",
+      "title_en": "Why financial literacy matters for small business owners",
+      "title_ru": "Почему финансовая грамотность важна для владельцев малого бизнеса",
+      "first_reported": "2026-09-07",
+      "id": "97d00a20a24e"
+    },
+    {
+      "area": "Африка",
+      "category": "politics",
+      "date": "2026-09-07",
+      "is_development": false,
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-09-07-jub-jub-s-arrest-warrant-struck-off-the-roll-after-he-appears-in-court/"
+      ],
+      "perspective": "Судебная система ЮАР демонстрирует соблюдение процессуальных норм и прав обвиняемых. Общественные активисты могут критиковать решение как проявление неэффективности системы правосудия в отношении известных лиц. Правозащитники могут рассматривать это как пример надлежащей правовой процедуры.",
+      "perspective_type": "assumed",
+      "sources": [
+        "mg.co.za"
+      ],
+      "summary": "В ЮАР ордер на арест музыканта Jub Jub был снят после того, как он явился в суд. Судья постановил отменить ордер, поскольку обвиняемый выполнил требование о явке в суд. Дело связано с обвинениями в покушении на убийство и других преступлениях.",
+      "title_en": "Jub Jub's arrest warrant struck off the roll after he appears in court",
+      "title_ru": "Ордер на арест Jub Jub снят после его явки в суд",
+      "first_reported": "2026-09-07",
+      "id": "f91c58f4ce03"
+    },
+    {
+      "area": "Дальний Восток",
+      "category": "politics",
+      "date": "2026-09-07",
+      "is_development": false,
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260907006900315"
+      ],
+      "perspective": "Правящая партия Южной Кореи может позиционировать это как доказательство своей приверженности борьбе с коррупцией. Оппозиция может использовать дело для критики системы, допускающей коррупцию среди высокопоставленных чиновников. Общественность может рассматривать это как тест на эффективность антикоррупционных мер в стране.",
+      "perspective_type": "assumed",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "summary": "В Южной Корее полиция запросила ордер на арест бывшего депутата правящей партии по обвинению в коррупции. Экс-парламентария подозревают в получении взяток и других коррупционных преступлениях. Расследование является частью антикоррупционной кампании в стране.",
+      "title_en": "Police seek arrest warrant for ex-ruling party lawmaker over corruption allegations",
+      "title_ru": "Полиция запросила ордер на арест бывшего депутата правящей партии по обвинению в коррупции",
+      "first_reported": "2026-09-07",
+      "id": "eb339027fb7f"
+    },
+    {
+      "title_ru": "Fujifilm представила специальный видоискатель для камеры GFX Eterna 55",
+      "title_en": "The Fujifilm GFX Eterna 55 Is Getting a Very Nice Dedicated Viewfinder",
+      "date": "2026-09-08",
+      "summary": "Компания Fujifilm анонсировала выпуск специального видоискателя для своей среднеформатной камеры GFX Eterna 55. Новый видоискатель предлагает улучшенные характеристики для профессиональной фотографии.",
+      "category": "photo",
+      "area": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/07/the-fujifilm-gfx-eterna-55-is-getting-a-very-nice-dedicated-viewfinder/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "c3dc81f62ae8"
     }
   ],
   "_stats": {
-    "total_tokens": 1726482,
-    "total_cost": 249.13562799999997
+    "total_tokens": 1784185,
+    "total_cost": 252.86464799999996
   }
 }
