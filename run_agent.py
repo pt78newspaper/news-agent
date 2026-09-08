@@ -253,7 +253,9 @@ def generate_html(events, config, usage=None, api_key=None):
             f'<span class="area-name">{area_name}</span>'
             f'<span class="area-count">{idx}</span>'
             f'</div>'
-            f'<div class="area-body">{inner}</div>'
+            f'<div class="area-body">{inner}'
+            f'<div class="area-close-row"><button class="area-close" onclick="var s=this.closest(\'.area-section\');s.querySelector(\'.area-header\').classList.remove(\'open\');s.querySelector(\'.area-body\').classList.remove(\'open\')">Свернуть</button></div>'
+            f'</div>'
             f'</div>'
         )
 
