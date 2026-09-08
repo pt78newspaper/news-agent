@@ -212,15 +212,20 @@ def _call_ai(payload, api_key):
         for tc in msg["tool_calls"]:
             if tc["function"]["name"] == "report_news":
                 try:
-                    events = json.loads(tc["function"]["arguments"]).get("events", [])
+                    parsed = json.loads(tc["function"]["arguments"])
+                    events = parsed.get("events", []) if isinstance(parsed, dict) else parsed
                 except json.JSONDecodeError:
                     args_raw = tc["function"]["arguments"]
                     fixed = args_raw.rsplit("}", 1)[0] + "}]}"
                     try:
-                        events = json.loads(fixed).get("events", [])
+                        parsed = json.loads(fixed)
+                        events = parsed.get("events", []) if isinstance(parsed, dict) else parsed
                     except Exception:
                         print(f"  AI: обрезанный JSON ({len(args_raw)} символов), fallback")
                         events = []
+                if isinstance(events, dict):
+                    events = list(events.values())
+                events = [e for e in events if isinstance(e, dict) and e.get("title_ru")]
                 print(f"  AI: {len(events)} событий")
                 return events, {"tokens": total_tokens, "cost": total_cost}
 
@@ -292,7 +297,7 @@ def summarize_news(clusters, api_key, history=None):
         events, usage = _call_ai(payload, api_key)
         if events:
             for ev in events:
-                if not ev.get("area") and determine_area:
+                if isinstance(ev, dict) and not ev.get("area") and determine_area:
                     ev["area"] = determine_area
             all_events.extend(events)
         if usage:
