@@ -6250,7 +6250,8 @@
       "perspective_type": "",
       "is_development": false,
       "first_reported": "2026-09-08",
-      "id": "0f590d43d217"
+      "id": "0f590d43d217",
+      "last_reported": "2026-09-08"
     },
     {
       "title_ru": "Лавров рассказал о контактах России и США по Украине",
@@ -7524,10 +7525,729 @@
       "is_development": false,
       "first_reported": "2026-09-04",
       "id": "7c141a73090b"
+    },
+    {
+      "title_ru": "Администрация Трампа видит причины конфликта на Украине, заявил Лавров",
+      "title_en": "Trump administration sees reasons for conflict in Ukraine, Lavrov says",
+      "date": "2026-09-08",
+      "summary": "Министр иностранных дел России Сергей Лавров заявил, что администрация Трампа видит причины конфликта на Украине. Он также отметил, что ЕС пытается не допустить надежного урегулирования на Украине, а участие ЕС в контактах может осложнить переговоры.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260908/ukraina-2116314724.html"
+      ],
+      "perspective": "Российская сторона представляет это как признание администрацией Трампа причин конфликта, что может использоваться для оправдания российской позиции. Западные страны могут рассматривать такие заявления как попытку легитимизировать российские действия на Украине.",
+      "perspective_type": "from_source",
+      "first_reported": "2026-09-08",
+      "id": "1e9d9730f711"
+    },
+    {
+      "title_ru": "В Севастополе при атаке ВСУ пострадала женщина",
+      "title_en": "Woman injured in Sevastopol during AFU attack",
+      "date": "2026-09-08",
+      "summary": "В результате атаки Вооруженных сил Украины на Севастополь пострадала женщина. Российские власти сообщают о ранениях гражданских лиц в результате украинских обстрелов.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "ria.ru",
+        "tass.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260908/sevastopol-2116300003.html",
+        "https://tass.ru/proisshestviya/28090937"
+      ],
+      "perspective": "Российские власти представляют это как нападение на гражданское население, что используется для обвинения Украины в военных преступлениях. Украинская сторона может рассматривать такие удары как ответные действия на российскую агрессию или как часть военных операций против военных объектов.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-08",
+      "id": "872f014bcdda"
+    },
+    {
+      "title_ru": "При ударе по АЗС в Брянской области погиб один человек и трое пострадали",
+      "title_en": "One killed, three injured in strike on gas station in Bryansk region",
+      "date": "2026-09-08",
+      "summary": "В результате удара по автозаправочной станции в Брянской области погиб один человек и трое получили ранения. Губернатор Брянской области Александр Ковальчук сообщил, что удар был нанесен Вооруженными силами Украины.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8938675"
+      ],
+      "perspective": "Российские власти используют такие инциденты для демонстрации жертв среди гражданского населения и обвинения Украины в нарушении международного гуманитарного права. Украинская сторона может заявлять о нанесении ударов по военным объектам или инфраструктуре, используемой для военных целей.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-08",
+      "id": "61e8ed0e1f5d"
+    },
+    {
+      "title_ru": "Ученые выяснили, почему Антарктида неожиданно набрала 695 миллиардов тонн льда",
+      "title_en": "Scientists have discovered why Antarctica unexpectedly gained 695 billion tons of ice",
+      "date": "2026-09-07",
+      "summary": "Исследователи установили причины, по которым Антарктида неожиданно набрала 695 миллиардов тонн льда. Открытие имеет важное значение для понимания климатических изменений и динамики ледяного покрова континента.",
+      "category": "tech",
+      "area": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/climate/antarktida-nabrala-lda"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-07",
+      "id": "6978083daa30"
+    },
+    {
+      "title_ru": "Астрофизик предложил новое объяснение необычному «поведению» звезды Табби",
+      "title_en": "Astrophysicist proposes new explanation for unusual behavior of Tabby's Star",
+      "date": "2026-09-08",
+      "summary": "Астрофизик выдвинул новую гипотезу, объясняющую необычные колебания яркости звезды Табби (KIC 8462852). Ранее предполагалось, что эти изменения могут быть связаны с инопланетными мегаструктурами, но новое исследование предлагает альтернативное объяснение.",
+      "category": "ai",
+      "area": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/astronomy/the-dimmings-of-boyajians-star"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-08",
+      "id": "4fb40aa98737"
+    },
+    {
+      "title_ru": "Россия возобновляет удары по Киеву после трехдневной паузы",
+      "title_en": "Russia resumes attacks on Kyiv after three-day halt",
+      "date": "2026-09-08",
+      "summary": "Российские войска возобновили ракетные удары по Киеву после трехдневной паузы, в результате чего погибли два человека. Атаки последовали вскоре после отъезда американских эмиссаров Виткоффа и Кушнера, которые находились в украинской столице с визитом.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "The New York Times",
+        "The Globe and Mail",
+        "Daily Sabah",
+        "Le Monde",
+        "DW"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/09/08/world/europe/russia-ukraine-kyiv-attacks.html",
+        "https://www.theglobeandmail.com/world/article-russia-ukraine-war-us-envoys-visit/",
+        "https://www.dailysabah.com/world/europe/russia-hits-kyiv-ukraine-strikes-occupied-crimea-to-end-3-day-lull",
+        "https://www.lemonde.fr/en/international/article/2026/09/08/russia-pummels-kyiv-after-three-day-halt_6757273_4.html",
+        "https://www.dw.com/en/ukraine-updates-two-killed-in-kyiv-as-3-day-truce-ends/live-79153168?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "perspective": "Украина и западные союзники осуждают атаки как военное преступление, в то время как Россия может представлять это как ответ на действия Украины. Пауза в ударах во время визита американских эмиссаров может рассматриваться как демонстрация силы или тактический ход.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-08",
+      "id": "20c49bc25256"
+    },
+    {
+      "title_ru": "Трамп угрожает запретить продажи самолетов Bombardier в ответ на канадские тарифы",
+      "title_en": "Trump threatens to ban Bombardier jet sales as Canada's tariffs take effect",
+      "date": "2026-09-08",
+      "summary": "Президент США Дональд Трамп пригрозил запретить продажи самолетов канадской компании Bombardier на американском рынке в ответ на введение Канадой ответных тарифов на сумму 27,6 млрд долларов. Торговый спор угрожает дальнейшим обострением отношений между двумя странами.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "The Washington Post",
+        "DW",
+        "CNBC"
+      ],
+      "links": [
+        "https://www.washingtonpost.com/business/2026/09/08/trump-threatens-ban-bombardier-jet-sales-canadas-tariffs-take-effect/",
+        "https://www.dw.com/en/us-canada-tariff-dispute-weighs-on-cross-border-ties/a-78815803?maca=en-rss-en-all-1573-xml-mrss",
+        "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html"
+      ],
+      "perspective": "Администрация Трампа рассматривает канадские тарифы как несправедливые торговые меры, требующие жесткого ответа. Канадское правительство и бизнес-сообщество видят в этом эскалацию торговой войны, угрожающую экономическим интересам обеих стран.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-08",
+      "id": "a40813cbf2f2"
+    },
+    {
+      "title_ru": "Новые подробности о крушении грузового самолета Amazon в Майами",
+      "title_en": "New details emerge about Amazon cargo plane crash in Miami",
+      "date": "2026-09-08",
+      "summary": "Национальный совет по безопасности на транспорте (NTSB) назвал крушение грузового самолета Amazon Prime Air в аэропорту Майами \"разрушительным\". По последним данным, в результате инцидента погибли пять человек, еще пять госпитализированы, среди жертв - семь человек в фургоне, раздавленном самолетом.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "The Washington Post",
+        "The Globe and Mail"
+      ],
+      "links": [
+        "https://feeds.washingtonpost.com/transportation/2026/09/07/van-carrying-seven-people-among-two-vehicles-crushed-by-amazon-cargo-plane-miami/",
+        "https://www.theglobeandmail.com/world/video-ntsb-calls-deadly-amazon-prime-air-cargo-plane-crash-devastating/"
+      ],
+      "perspective": "Общественность и регуляторы требуют тщательного расследования безопасности грузовых авиаперевозок, в то время как Amazon и авиакомпании стремятся минимизировать репутационный ущерб. Родственники погибших ожидают справедливости и компенсаций.",
+      "perspective_type": "assumed",
+      "is_development": true,
+      "first_reported": "2026-09-08",
+      "id": "bd47d1808da0"
+    },
+    {
+      "title_ru": "Ученые предполагают, что темная энергия и материя могут иметь собственное измерение",
+      "title_en": "Two of the Universe's Great Mysteries May Have Their Own Dimension",
+      "date": "2026-09-07",
+      "summary": "Новое научное исследование предполагает, что темная энергия и темная материя - две величайшие загадки Вселенной - могут существовать в собственном измерении. Эта гипотеза может объяснить, почему эти явления остаются невидимыми и не поддаются прямому обнаружению современными инструментами.",
+      "category": "tech",
+      "area": "Мир",
+      "sources": [
+        "Wired"
+      ],
+      "links": [
+        "https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-07",
+      "id": "0ba8128f823d"
+    },
+    {
+      "title_ru": "Украина-Россия: возобновление переговоров о перемирии на зиму",
+      "title_en": "Ukraine-Russia: resumption of negotiations, a truce for winter?",
+      "date": "2026-09-08",
+      "summary": "Россия и Украина возобновили переговоры о возможном перемирии на зимний период. Это происходит на фоне продолжающихся боевых действий и дипломатических усилий международных посредников.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "www.france24.com"
+      ],
+      "links": [
+        "https://www.france24.com/fr/vid%C3%A9o/20260908-ukraine-russie-reprise-des-n%C3%A9gociations-une-tr%C3%AAve-pour-l-hiver"
+      ],
+      "perspective": "Украина и западные союзники рассматривают переговоры как возможность снизить эскалацию и защитить гражданское население зимой. Россия может использовать переговоры для закрепления территориальных завоеваний. Страны ЕС разделены между поддержкой Украины и желанием прекратить энергетический кризис.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-08",
+      "id": "8d2b841e558d"
+    },
+    {
+      "title_ru": "Россия наносит удары по Киеву после визита американских эмиссаров",
+      "title_en": "Ukraine: Russia strikes Kyiv again after visit of American emissaries",
+      "date": "2026-09-08",
+      "summary": "Российские вооруженные силы нанесли новые удары по Киеву вскоре после визита американских дипломатических представителей в украинскую столицу. Атаки произошли несмотря на дипломатические контакты.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "www.france24.com"
+      ],
+      "links": [
+        "https://www.france24.com/fr/vid%C3%A9o/20260908-ukraine-la-russie-frappe-de-nouveau-kiev-apr%C3%A8s-la-visite-des-%C3%A9missaires-am%C3%A9ricains"
+      ],
+      "perspective": "Украина и США расценивают удары как демонстрацию силы и пренебрежение дипломатическими усилиями. Россия может оправдывать атаки военной необходимостью. Европейские страны выражают обеспокоенность эскалацией на фоне переговоров.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-08",
+      "id": "229c6e736412"
+    },
+    {
+      "title_ru": "Открытие суда над 14 предполагаемыми контрабандистами мигрантов в Париже",
+      "title_en": "Immigration: deadly shipwreck, opening of trial of 14 alleged smugglers in Paris",
+      "date": "2026-09-08",
+      "summary": "В Париже начался судебный процесс над 14 предполагаемыми контрабандистами мигрантов, связанный с гибелью людей при кораблекрушении. Процесс привлекает внимание к проблеме нелегальной миграции через Средиземное море.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "www.france24.com"
+      ],
+      "links": [
+        "https://www.france24.com/fr/vid%C3%A9o/20260908-immigration-naufrage-meurtrier-ouverture-du-proc%C3%A8s-des-passeurs-pr%C3%A9sum%C3%A9s"
+      ],
+      "perspective": "Правые партии используют процесс для ужесточения миграционной политики. Левые и правозащитные организации подчеркивают необходимость гуманного подхода к мигрантам. Правительство Франции балансирует между безопасностью и соблюдением прав человека.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-08",
+      "id": "e9e1c702fdd4"
+    },
+    {
+      "title_ru": "Идеи молодежи для устойчивой энергетики обсуждаются на форуме ООН",
+      "title_en": "We hope that youth ideas will become part of solutions for sustainable energy - UNDP representative on SDG implementation",
+      "date": "2026-09-08",
+      "summary": "Постоянный представитель ПРООН в Беларуси заявил, что рассчитывает на включение идей молодежи в решения для устойчивой энергетики. Обсуждение проходит в рамках реализации Целей устойчивого развития ООН.",
+      "category": "energy",
+      "area": "Европа",
+      "sources": [
+        "www.belta.by"
+      ],
+      "links": [
+        "https://belta.by/politics/view/rasschityvaem-chto-idei-molodezhi-stanut-chastjju-reshenij-dlja-ustojchivoj-energetiki-postpred-proon-799954-2026/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-08",
+      "id": "58654d8b1244"
+    },
+    {
+      "title_ru": "Четыре человека делятся опытом получения профилактической прививки от ВИЧ",
+      "title_en": "Meet four people who got the HIV prevention jab",
+      "date": "2026-09-08",
+      "summary": "Четыре человека рассказали о своем опыте получения профилактической прививки от ВИЧ. История показывает развитие медицинских технологий в области профилактики вирусных заболеваний.",
+      "category": "tech",
+      "area": "Европа",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/health/2026-09-08-meet-four-people-who-got-the-hiv-prevention-jab/"
+      ],
+      "first_reported": "2026-09-08",
+      "id": "1ac326b73c10"
+    },
+    {
+      "title_ru": "Лавров заявил о начале «настоящей войны» России с Западом",
+      "title_en": "Lavrov says Russia at 'start of real war' with West",
+      "date": "2026-09-08",
+      "summary": "Министр иностранных дел России Сергей Лавров заявил, что Россия находится в начале «настоящей войны» с Западом. Это заявление прозвучало в контексте продолжающегося конфликта на Украине и напряжённых отношений с западными странами.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/06/775803/Lavrov-Russia-Germany-start-of-real-war-with-West"
+      ],
+      "perspective": "Российские власти представляют ситуацию как вынужденное противостояние с враждебным Западом. Западные страны рассматривают действия России как агрессию, требующую сдерживания и санкций.",
+      "perspective_type": "from_source",
+      "first_reported": "2026-09-08",
+      "id": "ad66e35abe62"
+    },
+    {
+      "title_ru": "Венгрия высылает 10 сотрудников российского посольства за «неприемлемую деятельность»",
+      "title_en": "Hungary expels 10 Russian diplomatic staff for 'unacceptable activities'",
+      "date": "2026-09-08",
+      "summary": "Венгрия приняла решение выслать 10 сотрудников российского посольства за «неприемлемую деятельность». Это решение было подтверждено как венгерскими, так и российскими источниками.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "www.lemonde.fr",
+        "tass.com"
+      ],
+      "links": [
+        "https://www.lemonde.fr/en/international/article/2026/09/08/hungary-expels-10-russian-diplomatic-staff-for-unacceptable-activities_6757285_4.html",
+        "https://tass.com/world/2184081"
+      ],
+      "perspective": "Венгрия и её союзники по ЕС рассматривают это как меру защиты национальной безопасности. Россия может расценивать высылку как недружественный шаг, усугубляющий двусторонние отношения.",
+      "perspective_type": "from_source",
+      "first_reported": "2026-09-08",
+      "id": "b10a1fff1cb6"
+    },
+    {
+      "title_ru": "Иран объявляет новую «ограниченную зону» за пределами Ормузского пролива",
+      "title_en": "Iran to declare new 'restricted zone' outside Strait of Hormuz: Top security official",
+      "date": "2026-09-08",
+      "summary": "Высокопоставленный иранский представитель в сфере безопасности заявил, что Иран объявит новую «ограниченную зону» за пределами Ормузского пролива. Ранее иранские военные заявляли, что пролив находится под контролем Ирана.",
+      "category": "politics",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/06/775804/Iran-to-declare-new-restricted-zone-outside-Strait-of-Hormuz--Top-security-official-"
+      ],
+      "perspective": "Иран позиционирует это как меру по защите своих суверенных прав и безопасности в стратегически важном регионе. Западные страны и их союзники могут рассматривать такие действия как эскалацию напряжённости и угрозу свободе судоходства.",
+      "perspective_type": "from_source",
+      "first_reported": "2026-09-08",
+      "id": "b7030a9ef128"
+    },
+    {
+      "title_ru": "Рубль принимается в торговле Ирана с Россией, Беларусью и Арменией",
+      "title_en": "Ruble accepted in Iran's trade with Russia, Belarus, Armenia",
+      "date": "2026-09-08",
+      "summary": "Иран начал принимать российский рубль в торговых операциях с Россией, Беларусью и Арменией. Это решение направлено на развитие экономических связей и обход санкций.",
+      "category": "finance",
+      "area": "Ближний Восток",
+      "sources": [
+        "en.mehrnews.com"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/247551/Ruble-accepted-in-Iran-s-trade-with-Russia-Belarus-Armenia"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-08",
+      "id": "724c6ed7f4fd"
+    },
+    {
+      "title_ru": "Конгрессмен США предупреждает, что бойкот Израиля может стоить британскому бизнесу миллиарды",
+      "title_en": "FL Congressman Randy Fine warns UK Israel boycott could cost British businesses billions",
+      "date": "2026-09-08",
+      "summary": "Конгрессмен США Рэнди Файн предупредил, что бойкот Израиля со стороны Великобритании может обойтись британским компаниям в миллиарды долларов. Это заявление сделано в контексте антиизраильских настроений и движений за бойкот.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/diaspora/antisemitism/article-907948"
+      ],
+      "perspective": "Израиль и его сторонники рассматривают бойкот как форму антисемитизма и угрозу экономическим связям. Сторонники движения BDS видят в бойкоте законное средство давления на политику Израиля.",
+      "perspective_type": "from_source",
+      "first_reported": "2026-09-08",
+      "id": "44b90b4afa2c"
+    },
+    {
+      "title_ru": "Иран сохранил экспорт нефти во время войны, несмотря на 550 ударов по Харгу",
+      "title_en": "Iran kept oil exports flowing during war despite 550 strikes on Kharg: Minister",
+      "date": "2026-09-08",
+      "summary": "Иранский министр заявил, что страна смогла сохранить экспорт нефти во время войны, несмотря на 550 ударов по нефтяному терминалу на острове Харг. Это свидетельствует о способности Ирана поддерживать критически важную энергетическую инфраструктуру в условиях конфликта.",
+      "category": "energy",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/07/775818/Iran-kept-oil-exports-flowing-during-war-despite-550-strikes-on-Kharg--Minister"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "first_reported": "2026-09-08",
+      "id": "378603505a82"
+    },
+    {
+      "title_ru": "Тайвань не будет перезапускать атомные электростанции",
+      "title_en": "Taiwan will not restart nuclear power plants",
+      "date": "2026-09-08",
+      "summary": "Тайвань отказывается от перезапуска атомных электростанций, несмотря на энергетические вызовы. Решение принято в рамках энергетической политики страны.",
+      "category": "energy",
+      "area": "Дальний Восток",
+      "sources": [
+        "www.taipeitimes.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/editorials/archives/2026/09/08/2003863856"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "96551e28dd0b"
+    },
+    {
+      "title_ru": "Шесть угольных электростанций в Индонезии будут преобразованы в солнечные",
+      "title_en": "Six coal plants in Indonesia to be converted into solar power plants",
+      "date": "2026-09-08",
+      "summary": "В индонезийской провинции Западная Нуса Тенгара шесть угольных электростанций будут преобразованы в солнечные электростанции. Это часть программы перехода на возобновляемые источники энергии.",
+      "category": "energy",
+      "area": "Южная и Юго-Восточная Азия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/430429/six-ntb-coal-plants-to-be-converted-into-solar-power-plants"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "524bceace567"
+    },
+    {
+      "title_ru": "Запорожская АЭС хочет восстановить вторую линию электропередачи для повышения безопасности",
+      "title_en": "Zaporozhye NPP wants to restore its second power line to enhance nuclear safety",
+      "date": "2026-09-07",
+      "summary": "Запорожская атомная электростанция планирует восстановить вторую линию электропередачи для повышения ядерной безопасности. Это позволит улучшить энергоснабжение станции и снизить риски.",
+      "category": "energy",
+      "area": "Россия",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/economy/2183819"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "e2e7edc8ed8d"
+    },
+    {
+      "title_ru": "Трамп оказывает давление на ФРС перед повышением процентных ставок",
+      "title_en": "Trump keeps pressure on Fed ahead of rate hike",
+      "date": "2026-09-08",
+      "summary": "Бывший президент США Дональд Трамп продолжает оказывать давление на Федеральную резервную систему в преддверии ожидаемого повышения процентных ставок. Это создает напряженность в финансовой системе.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "www.taipeitimes.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/editorials/archives/2026/09/08/2003863853"
+      ],
+      "perspective": "Республиканцы могут поддерживать давление Трампа на ФРС как способ влияния на экономическую политику, в то время как демократы и независимые эксперты могут критиковать это как политическое вмешательство в независимость центрального банка.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "ec579f5a3274"
+    },
+    {
+      "title_ru": "ЕС выделяет 232 млн долларов на инвестиции в Гренландию на фоне давления Трампа",
+      "title_en": "EU pledges $232M in Greenland investments amid Trump pressure",
+      "date": "2026-09-07",
+      "summary": "Европейский союз выделяет 232 миллиона долларов на инвестиции в Гренландию на фоне давления со стороны администрации Трампа. Это часть стратегического противостояния за влияние в Арктическом регионе.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "www.dailysabah.com"
+      ],
+      "links": [
+        "https://www.dailysabah.com/business/economy/eu-pledges-232m-in-greenlandinvestments-amid-trump-pressure"
+      ],
+      "perspective": "ЕС рассматривает инвестиции как защиту своих интересов в Арктике, в то время как администрация Трампа может видеть в этом попытку ограничить американское влияние в регионе.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "1c8f469a8dd1"
+    },
+    {
+      "title_ru": "Трамп усиливает давление на председателя ФРС Варша перед повышением ставок",
+      "title_en": "Trump turns up the heat on Warsh as Fed rate hike looms",
+      "date": "2026-09-05",
+      "summary": "Дональд Трамп усиливает давление на председателя Федеральной резервной системы Кевина Варша в преддверии сентябрьского повышения процентных ставок. Это создает напряженность между администрацией и независимым центральным банком.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "www.cnbc.com"
+      ],
+      "links": [
+        "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html"
+      ],
+      "perspective": "Республиканцы могут поддерживать давление Трампа как способ влияния на монетарную политику, в то время как демократы и финансовые эксперты могут рассматривать это как угрозу независимости ФРС и стабильности финансовой системы.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-05",
+      "id": "731fab81520e"
+    },
+    {
+      "title_ru": "Вулкан Анак-Кракатау вернулся к стромболианской фазе извержения",
+      "title_en": "Mount Anak Krakatau's eruption returns to Strombolian phase: govt",
+      "date": "2026-09-08",
+      "summary": "Вулкан Анак-Кракатау в Индонезии вернулся к стромболианской фазе извержения, о чем сообщило правительство страны. Это изменение в активности вулкана представляет интерес для мониторинга сейсмической ситуации в регионе.",
+      "category": "politics",
+      "area": "Южная и Юго-Восточная Азия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/430455/mount-anak-krakatauseruption-returns-to-strombolianphasegovt"
+      ],
+      "perspective": "Правительство Индонезии представляет это как стандартное изменение вулканической активности, требующее мониторинга. Экологи и местные жители могут выражать обеспокоенность по поводу потенциальных рисков для окружающей среды и безопасности.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "7509f8f91add"
+    },
+    {
+      "title_ru": "Индонезия ускоряет трансформацию управления трудовой миграцией",
+      "title_en": "Indonesia expedites transformation of migrant worker governance",
+      "date": "2026-09-08",
+      "summary": "Индонезия ускоряет трансформацию системы управления трудовыми мигрантами. Это включает реформы, направленные на улучшение защиты прав индонезийских граждан, работающих за рубежом.",
+      "category": "politics",
+      "area": "Южная и Юго-Восточная Азия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/430457/indonesia-expedites-transformation-of-migrant-worker-governance"
+      ],
+      "perspective": "Правительство Индонезии позиционирует это как прогрессивную реформу для защиты граждан. Правозащитные организации могут приветствовать усиление защиты мигрантов, в то время как некоторые работодатели в странах-реципиентах могут выражать опасения по поводу увеличения бюрократии.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "8bdb8080d77c"
+    },
+    {
+      "title_ru": "Индонезия готовит массовые банковские счета для повышения финансовой доступности",
+      "title_en": "Indonesia prepares mass bank accounts to boost financial inclusion",
+      "date": "2026-09-08",
+      "summary": "Индонезия готовит создание массовых банковских счетов для повышения финансовой доступности населения. Эта инициатива направлена на вовлечение большего числа граждан в формальную финансовую систему.",
+      "category": "politics",
+      "area": "Южная и Юго-Восточная Азия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/430448/indonesia-prepares-mass-bank-accounts-to-boost-financial-inclusion"
+      ],
+      "perspective": "Правительство представляет это как важный шаг к финансовой инклюзии и экономическому развитию. Банковский сектор может видеть в этом возможность для роста клиентской базы, в то время как некоторые могут выражать опасения по поводу рисков, связанных с массовым открытием счетов.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "4594acb2e134"
+    },
+    {
+      "title_ru": "Nuix расширяет возможности генеративного ИИ для юридического анализа",
+      "title_en": "Nuix Expands Generative AI for Legal Review, Debuts AI Chat for Case Data",
+      "date": "2026-09-08",
+      "summary": "Компания Nuix расширяет возможности генеративного искусственного интеллекта для юридического анализа и представляет AI Chat для работы с данными по делам. Это развитие технологий ИИ в юридической сфере.",
+      "category": "ai",
+      "area": "Мир",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/430349/nuix-expands-generative-ai-for-legal-review-debuts-ai-chat-for-case-data"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": true,
+      "first_reported": "2026-09-08",
+      "id": "55ba538e9296"
+    },
+    {
+      "title_ru": "Борьба за Йоханнесбург обостряется",
+      "title_en": "Battle for Joburg heats up",
+      "date": "2026-09-03",
+      "summary": "Политическая борьба за контроль над Йоханнесбургом набирает обороты. Город становится ареной ожесточённого противостояния между различными политическими силами.",
+      "category": "politics",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/politics/2026-09-03-battle-for-joburg-heats-up/"
+      ],
+      "perspective": "Правящая партия АНК может рассматривать это как угрозу своему контролю над крупнейшим городом страны. Оппозиционные партии видят возможность усилить своё влияние в стратегически важном регионе.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-03",
+      "id": "a4a791aea1ba"
+    },
+    {
+      "title_ru": "Спецкомитет в тупике из-за предполагаемых связей Мчуну с картелями",
+      "title_en": "Ad hoc committee at loggerheads over Mchunu's alleged links to cartels",
+      "date": "2026-09-08",
+      "summary": "Специальный комитет парламента ЮАР зашёл в тупик из-за расследования предполагаемых связей члена правительства Сензо Мчуну с преступными картелями. Депутаты не могут прийти к согласию по дальнейшим действиям.",
+      "category": "politics",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-09-08-ad-hoc-committee-at-loggerheads-over-mchunu-s-alleged-links-to-cartels/"
+      ],
+      "perspective": "Оппозиция может использовать это для давления на правительство и демонстрации коррупции в правящей партии. Сторонники АНК могут пытаться минимизировать скандал и защитить члена правительства.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "7d51c96b0d87"
+    },
+    {
+      "title_ru": "Выборы в футбольной ассоциации ЮАР взрываются скандалом",
+      "title_en": "Safa election erupts as Zungu cries foul",
+      "date": "2026-09-08",
+      "summary": "Выборы в Футбольной ассоциации ЮАР (SAFA) омрачены скандалом. Кандидат Зунгу заявляет о нарушениях и фальсификациях в избирательном процессе.",
+      "category": "politics",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/sport/2026-09-08-safa-election-erupts-as-zungu-cries-foul/"
+      ],
+      "perspective": "Сторонники Зунгу могут рассматривать это как попытку недопущения честного кандидата к власти в спортивной организации. Противники могут обвинять его в попытке оспорить легитимные результаты выборов.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "43f24deca637"
+    },
+    {
+      "title_ru": "Акции Best Buy упали после понижения рейтинга до нейтрального",
+      "title_en": "Best Buy Shares Fall After DA Davidson Downgrades Stock to Neutral",
+      "date": "2026-09-08",
+      "summary": "Акции сети электроники Best Buy упали после того, как аналитики DA Davidson понизили рейтинг акций компании с 'покупать' до 'нейтральный'. Это решение отражает изменение оценки перспектив компании на рынке.",
+      "category": "finance",
+      "area": "Мир",
+      "sources": [
+        "finance.yahoo.com"
+      ],
+      "links": [
+        "https://finance.yahoo.com/markets/stocks/articles/best-buy-shares-fall-da-105647798.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "9e66b4fa3b0d"
+    },
+    {
+      "title_ru": "Акции Ionis Pharmaceuticals упали после неудачи в клиническом испытании",
+      "title_en": "Ionis Pharmaceuticals Shares Fall After Pelacarsen Phase 3 Trial Misses Primary Endpoint",
+      "date": "2026-09-08",
+      "summary": "Акции биотехнологической компании Ionis Pharmaceuticals упали после того, как препарат Pelacarsen не достиг первичной конечной точки в клиническом исследовании третьей фазы. Это неудача в разработке лекарственного средства.",
+      "category": "finance",
+      "area": "Мир",
+      "sources": [
+        "finance.yahoo.com"
+      ],
+      "links": [
+        "https://finance.yahoo.com/healthcare/articles/ionis-pharmaceuticals-shares-fall-pelacarsen-105436737.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "baaf3aa07183"
+    },
+    {
+      "title_ru": "Акции Biohaven упали после понижения рейтинга RBC Capital Markets",
+      "title_en": "Biohaven Shares Fall After RBC Downgrades Stock and Cuts Price Target",
+      "date": "2026-09-08",
+      "summary": "Акции фармацевтической компании Biohaven упали после того, как аналитики RBC Capital Markets понизили рейтинг акций и снизили целевую цену. Это отражает пересмотр инвестиционной оценки компании.",
+      "category": "finance",
+      "area": "Мир",
+      "sources": [
+        "finance.yahoo.com"
+      ],
+      "links": [
+        "https://finance.yahoo.com/markets/stocks/articles/biohaven-shares-fall-rbc-downgrades-105323020.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "615b52fdec07"
+    },
+    {
+      "title_ru": "Акции Amgen упали на фоне оценки результатов испытаний Novartis",
+      "title_en": "Amgen Shares Fall as Investors Assess Novartis Lp(a) Trial Result and BMO Downgrade",
+      "date": "2026-09-08",
+      "summary": "Акции биотехнологической компании Amgen упали, поскольку инвесторы оценивают результаты клинических испытаний препарата Novartis для снижения уровня липопротеина (а) и понижение рейтинга от BMO Capital Markets. Это создало давление на акции компании.",
+      "category": "finance",
+      "area": "Мир",
+      "sources": [
+        "finance.yahoo.com"
+      ],
+      "links": [
+        "https://finance.yahoo.com/healthcare/articles/amgen-shares-fall-investors-assess-105208691.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "788ac4eb7e5e"
+    },
+    {
+      "title_ru": "Акции Dyne Therapeutics упали на 31% в предрыночных торгах",
+      "title_en": "Dyne Therapeutics Shares Fall 31% Premarket With No Catalyst Confirmed",
+      "date": "2026-09-08",
+      "summary": "Акции биотехнологической компании Dyne Therapeutics упали на 31% в предрыночных торгах без подтверждённого катализатора. Резкое падение произошло на фоне неопределённости относительно причин снижения.",
+      "category": "finance",
+      "area": "Мир",
+      "sources": [
+        "finance.yahoo.com"
+      ],
+      "links": [
+        "https://finance.yahoo.com/healthcare/articles/dyne-therapeutics-shares-fall-31-105055998.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "69d662ab7972"
     }
   ],
   "_stats": {
-    "total_tokens": 1846515,
-    "total_cost": 256.844948
+    "total_tokens": 1905126,
+    "total_cost": 260.60508799999997
   }
 }
