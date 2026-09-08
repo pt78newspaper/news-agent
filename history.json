@@ -8244,10 +8244,628 @@
       "is_development": false,
       "first_reported": "2026-09-08",
       "id": "69d662ab7972"
+    },
+    {
+      "title_ru": "Путин и Трамп провели телефонный разговор, оценили визит американских переговорщиков в Москву",
+      "title_en": "Putin and Trump held phone conversation, assessed visit of American negotiators to Moscow",
+      "date": "2026-09-08",
+      "summary": "Президент России Владимир Путин и президент США Дональд Трамп провели телефонный разговор. Лидеры оценили визит американских переговорщиков в Москву со знаком плюс и условились продолжить работу по гуманитарным вопросам.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "tass.ru",
+        "www.belta.by",
+        "www.kommersant.ru",
+        "ria.ru"
+      ],
+      "links": [
+        "https://tass.ru/politika/28092289",
+        "https://belta.by/world/view/putin-i-tramp-proveli-telefonnyj-razgovor-800026-2026/",
+        "https://www.kommersant.ru/doc/8939248",
+        "https://ria.ru/20260908/putin-2116383503.html"
+      ],
+      "perspective": "Российские власти позитивно оценивают диалог как шаг к укреплению мировой безопасности. Западные критики могут рассматривать это как попытку нормализации отношений без уступок по украинскому вопросу.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "8feaf6278ea1"
+    },
+    {
+      "title_ru": "Трамп заинтересован в скорейшем прекращении конфликта на Украине, обсуждается мирное урегулирование",
+      "title_en": "Trump interested in quick end to Ukraine conflict, peaceful settlement discussed",
+      "date": "2026-09-08",
+      "summary": "Помощник президента России Юрий Ушаков озвучил позицию Трампа по восстановлению отношений России и США. Американский президент заинтересован в скорейшем прекращении конфликта на Украине, обсуждаются 'ингредиенты' для мирного урегулирования.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "ria.ru",
+        "www.belta.by",
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260908/tramp-2116387848.html",
+        "https://belta.by/world/view/ingredienty-dlja-mira-est-chto-govorjat-v-ssha-rossii-i-ukraine-o-mirnom-uregulirovanii-800014-2026/",
+        "https://www.kommersant.ru/doc/8939227"
+      ],
+      "perspective": "Российская сторона видит в этом возможность для нормализации отношений. Украина и её союзники могут опасаться, что мирные переговоры пойдут в обход их интересов.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "00708edb22a0"
+    },
+    {
+      "title_ru": "Объявлены номинанты на «Золотой мяч», Кварацхелия в третий раз вошел в число претендентов",
+      "title_en": "Golden Ball nominees announced, Kvaratskhelia enters contenders for third time",
+      "date": "2026-09-08",
+      "summary": "Стали известны все номинанты на престижную футбольную награду «Золотой мяч». Грузинский футболист Хвича Кварацхелия в третий раз вошел в число претендентов на получение трофея.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "tass.ru",
+        "rssexport.rbc.ru",
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://tass.ru/sport/28092195",
+        "https://www.rbc.ru/sport/08/09/2026/6a9ff1fb9a794711e91362c9",
+        "https://www.kommersant.ru/doc/8939277"
+      ],
+      "perspective": "Для российских болельщиков это важное спортивное событие, хотя российские футболисты не вошли в число номинантов. В Грузии успех Кварацхелии воспринимается как национальное достижение.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "7f3bca1d67e2"
+    },
+    {
+      "title_ru": "Tesla запустила «Кибертакси» без приглашения прессы, наблюдатели сомневаются в его успехе",
+      "title_en": "Tesla launched 'CyberTaxi' without inviting press, observers doubt its success",
+      "date": "2026-09-07",
+      "summary": "Компания Tesla запустила сервис «Кибертакси», не приглашая представителей прессы на презентацию. Наблютели выражают сомнения в успехе данного проекта, учитывая предыдущие проблемы компании с автономным вождением.",
+      "category": "tech",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/hi-tech/tesla-zapustila-kibertaksi"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "8654cdd75e26"
+    },
+    {
+      "title_ru": "В России разработали технологию получения особо чистого германия для детекторов гамма-излучения",
+      "title_en": "Russia developed technology for obtaining ultra-pure germanium for gamma-ray detectors",
+      "date": "2026-09-08",
+      "summary": "Российские ученые разработали технологию получения особо чистого германия, который используется в детекторах гамма-излучения. Это важное достижение для научных исследований и промышленности.",
+      "category": "tech",
+      "area": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/column/osobo-chist-germaniy"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "ceda72a02231"
+    },
+    {
+      "title_ru": "Забастовка на Эйфелевой башне из-за замены женщин-сотрудниц во время визита индуистской группы",
+      "title_en": "Eiffel Tower Workers Strike Over Replacement of Female Staff During Hindu Group Visit",
+      "date": "2026-09-08",
+      "summary": "Работники Эйфелевой башни объявили забастовку после того, как женский персонал был заменён мужчинами во время визита индуистской делегации. Мэр Парижа инициировал расследование этого инцидента. Башня была временно закрыта, но затем возобновила работу после протестов.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "The New York Times",
+        "BBC",
+        "CBC",
+        "Le Monde"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/09/08/world/europe/paris-eiffel-tower-closed-strike-hindu-temple.html",
+        "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+        "https://www.cbc.ca/news/world/eiffel-tower-strike-hindu-delegation-visit-9.7335469?cmp=rss",
+        "https://www.lemonde.fr/en/france/article/2026/09/08/eiffel-tower-set-to-reopen-following-protest-over-removal-of-women-staff_6757276_7.html"
+      ],
+      "perspective": "Феминистские и левые группы осуждают гендерную дискриминацию, в то время как религиозные консерваторы могут оправдывать это традиционными нормами. Власти Франции сталкиваются с противоречием между светскими принципами и религиозными практиками.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "9fccd55d9b71"
+    },
+    {
+      "title_ru": "Агент ICE обвинён во лжи о стрельбе по венесуэльцу в Миннеаполисе",
+      "title_en": "ICE Agent Charged With Lying About Shooting of Venezuelan in Minneapolis",
+      "date": "2026-09-08",
+      "summary": "Агент иммиграционной и таможенной полиции США обвинён во лжи о стрельбе по венесуэльцу в Миннеаполисе. Это редкое уголовное преследование сотрудника ICE подчёркивает более широкий отход Министерства юстиции от расследований стрельб с участием агентов.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "The Washington Post",
+        "The Globe and Mail"
+      ],
+      "links": [
+        "https://www.washingtonpost.com/politics/2026/09/08/rare-charges-against-agent-highlight-broader-retreat-ice-shooting-probes/",
+        "https://www.theglobeandmail.com/world/article-ice-minneapolis-lying-investigation-venezuela-shooting/"
+      ],
+      "perspective": "Правозащитные организации видят в этом признак системных проблем с подотчётностью правоохранительных органов. Консервативные круги могут рассматривать это как чрезмерное давление на сотрудников ICE, выполняющих свои обязанности.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "39260e3da325"
+    },
+    {
+      "title_ru": "Французская компания Mistral AI привлекла 3 миллиарда евро на развитие суверенного ИИ",
+      "title_en": "French Company Mistral AI Raises €3 Billion for Sovereign AI Development",
+      "date": "2026-09-08",
+      "summary": "Французская компания Mistral AI привлекла 3 миллиарда евро в рамках раунда финансирования. Это происходит на фоне сомнений относительно стратегического направления компании и отражает растущий бизнес в сфере суверенного искусственного интеллекта.",
+      "category": "ai",
+      "area": "Европа",
+      "sources": [
+        "TechCrunch",
+        "Le Monde"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+        "https://www.lemonde.fr/en/economy/article/2026/09/08/mistral-ai-raises-3-billion-in-response-to-doubts-over-its-strategic-direction_6757278_19.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "787d360d2d19"
+    },
+    {
+      "title_ru": "В Гватемале предложили ограничение цен на дизель на фоне продолжающихся блокировок дорог",
+      "title_en": "Guatemala Diesel Cap Proposed as Road Blockades Continue",
+      "date": "2026-09-08 15:31:13+00:00",
+      "summary": "В Гватемале предложено ввести ограничение цен на дизельное топливо на фоне продолжающихся протестов и блокировок дорог. Это решение обсуждается как ответ на социальное напряжение, вызванное ростом цен на топливо.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/guatemala-diesel-price-cap-fuel-protests-2026/"
+      ],
+      "perspective": "Правительство может рассматривать это как меру социальной поддержки населения, в то время как оппозиция может критиковать вмешательство в рыночные механизмы. Протестующие требуют более радикальных мер по снижению стоимости жизни.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08 15:31:13+00:00",
+      "id": "5b43e12216c0"
+    },
+    {
+      "title_ru": "США ввели санкции против 35 компаний за поддержку авиационной отрасли Ирана",
+      "title_en": "US imposes sanctions on 35 companies for supporting Iran's aviation industry",
+      "date": "2026-09-08",
+      "summary": "Администрация США ввела санкции против 35 компаний, обвинив их в поддержке авиационной отрасли Ирана. Меры направлены на ограничение возможностей Тегерана в авиационном секторе.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "www.belta.by",
+        "tass.ru"
+      ],
+      "links": [
+        "https://belta.by/world/view/ssha-vveli-sanktsii-protiv-35-kompanij-za-podderzhku-aviatsionnoj-otrasli-irana-800034-2026/",
+        "https://tass.ru/mezhdunarodnaya-panorama/28092233"
+      ],
+      "perspective": "США рассматривают санкции как меру давления на Иран и ограничение его возможностей. Иран и поддерживающие его страны могут расценивать это как несправедливое вмешательство во внутренние дела и экономическую войну.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "3925beb62ba5"
+    },
+    {
+      "title_ru": "Великобритания ввела санкции против финансового подразделения \"Хезболлах\"",
+      "title_en": "UK imposes sanctions against Hezbollah's financial unit",
+      "date": "2026-09-08",
+      "summary": "Великобритания ввела санкции против финансового подразделения ливанской организации \"Хезболлах\". Меры направлены на ограничение финансовых потоков и деятельности группы.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/mezhdunarodnaya-panorama/28092175"
+      ],
+      "perspective": "Великобритания и её союзники рассматривают это как меру борьбы с терроризмом и финансированием экстремистских групп. \"Хезболлах\" и её сторонники могут расценивать санкции как несправедливые и политически мотивированные.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "4d6889f3d27d"
+    },
+    {
+      "title_ru": "В аэропорту Краснодара ввели ограничения на полеты",
+      "title_en": "Flight restrictions introduced at Krasnodar airport",
+      "date": "2026-09-08",
+      "summary": "В аэропорту Краснодара введены ограничения на полеты. Причины и сроки действия ограничений не уточняются.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260908/krasnodar-2116383357.html"
+      ],
+      "perspective": "Российские власти могут объяснять ограничения соображениями безопасности или техническими причинами. Пассажиры и авиакомпании могут испытывать неудобства из-за изменения расписания рейсов.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "45ce624a205e"
+    },
+    {
+      "title_ru": "ВМС США перехватили 94 судна после возобновления морской блокады Ирана",
+      "title_en": "US Navy intercepts 94 vessels after resuming maritime blockade of Iran",
+      "date": "2026-09-08",
+      "summary": "Военно-морские силы США перехватили 94 судна после возобновления морской блокады Ирана. Операция направлена на контроль морских путей и предотвращение контрабанды.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8938558"
+      ],
+      "perspective": "США рассматривают блокаду как меру обеспечения региональной безопасности и предотвращения незаконных поставок. Иран и его союзники могут расценивать это как акт агрессии и нарушение международного морского права.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "8e4e86caf7ee"
+    },
+    {
+      "title_ru": "Премьер-министр Венгрии заявил, что Орбан оставил страну в руинах",
+      "title_en": "Hungarian PM declares Orbán left Hungary in ruins",
+      "date": "2026-09-08",
+      "summary": "Премьер-министр Венгрии заявил, что его предшественник Виктор Орбан оставил страну в руинах, назвав это предательством. Заявление сделано в контексте оценки состояния страны после смены власти.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/hungary/pm-declares-orban-left-hungary-in-ruins-and-names-it-treason/"
+      ],
+      "perspective": "Новое правительство Венгрии использует это заявление для критики предыдущей администрации и обоснования своих реформ. Сторонники Орбана и его партии \"Фидес\" могут отвергать эти обвинения как политически мотивированные.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "3eba4e4607a2"
+    },
+    {
+      "area": "Ближний Восток",
+      "category": "politics",
+      "date": "2026-09-08",
+      "is_development": false,
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/06/775804/Iran-to-declare-new-restricted-zone-outside-Strait-of-Hormuz--Top-security-official-",
+        "https://presstv.co.uk/Detail/2026/09/06/775777/Iran-IRGC-Hormuz-Strait-control-",
+        "https://presstv.co.uk/Detail/2026/09/07/775813/News-Review--Iran%E2%80%99s-top-security-official-says-Hormuz-Strait-totally-closed-"
+      ],
+      "perspective": "Иран позиционирует это как защиту своих суверенных прав и ответ на внешнее давление. Западные страны и страны региона могут рассматривать эти действия как эскалацию напряжённости и угрозу свободе судоходства в стратегически важном проливе.",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.presstv.ir",
+        "www.presstv.ir",
+        "www.presstv.ir"
+      ],
+      "summary": "Иран объявляет о создании новой \"ограниченной зоны\" за пределами Ормузского пролива. Высший советник по безопасности страны заявил, что Ормузский пролив полностью закрыт и находится под управлением Ирана. Корпус стражей исламской революции подтвердил контроль над стратегическим водным путём.",
+      "title_en": "Iran declares new restricted zone outside Strait of Hormuz, announces complete closure",
+      "title_ru": "Иран объявляет новую ограниченную зону за пределами Ормузского пролива и полное его закрытие",
+      "first_reported": "2026-09-08",
+      "id": "d45fa56b7acc"
+    },
+    {
+      "area": "Ближний Восток",
+      "category": "politics",
+      "date": "2026-09-08",
+      "is_development": false,
+      "links": [
+        "https://www.jpost.com/international/article-907989"
+      ],
+      "perspective": "Израиль рассматривает эти меры как несправедливое давление и вмешательство во внутренние дела. Страны, вводящие ограничения, позиционируют их как ответ на нарушение международного права и политику поселений на оккупированных территориях.",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "summary": "13 стран, включая Великобританию, Ирландию и Францию, вводят торговые ограничения против Израиля. Эти меры являются ответом на политику израильских поселений на оккупированных территориях.",
+      "title_en": "13 countries impose trade restrictions on Israel over settlement policy",
+      "title_ru": "13 стран вводят торговые ограничения против Израиля из-за политики поселений",
+      "first_reported": "2026-09-08",
+      "id": "78351804fdd5"
+    },
+    {
+      "area": "Ближний Восток",
+      "category": "energy",
+      "date": "2026-09-08",
+      "is_development": false,
+      "links": [
+        "https://www.jpost.com/middle-east/article-907983"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "summary": "Иордания одобрила стратегический маршрут поставок природного газа в Ливан через Сирию. Речь идёт о возрождении Арабского газопровода, который обеспечит энергетические потребности Ливана.",
+      "title_en": "Jordan approves Arab Gas Pipeline revival for natural gas supply to Lebanon via Syria",
+      "title_ru": "Иордания одобрила возрождение Арабского газопровода для поставок газа в Ливан через Сирию",
+      "first_reported": "2026-09-08",
+      "id": "a1c6bf9b1f0d"
+    },
+    {
+      "area": "Ближний Восток",
+      "category": "tech",
+      "date": "2026-09-08",
+      "is_development": false,
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/08/775883/Washington-received-clear-warning-from-Iran-new-missiles-Top-security-official"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "summary": "Высший советник по безопасности Ирана заявил, что США получили \"ясное предупреждение\" от новых иранских ракет. Это заявление сделано в контексте демонстрации военных технологических возможностей страны.",
+      "title_en": "Iran's top security official: US received 'clear warning' from Iran's new missiles",
+      "title_ru": "Высший советник по безопасности Ирана: США получили \"ясное предупреждение\" от новых иранских ракет",
+      "first_reported": "2026-09-08",
+      "id": "78bf37516ab3"
+    },
+    {
+      "area": "Ближний Восток",
+      "category": "ai",
+      "date": "2026-09-08",
+      "is_development": false,
+      "links": [
+        "https://presstv.co.uk/Detail/2026/08/24/774955/Humanoid-games-showcase-China-AI-rise-raising-US-concerns"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "summary": "Игры с участием человекоподобных роботов демонстрируют рост искусственного интеллекта в Китае, что вызывает обеспокоенность в США. Это событие подчёркивает технологическую конкуренцию между двумя странами в области ИИ.",
+      "title_en": "Humanoid games showcase China's AI rise, raising US concerns",
+      "title_ru": "Игры с человекоподобными роботами демонстрируют рост ИИ в Китае, вызывая обеспокоенность США",
+      "first_reported": "2026-09-08",
+      "id": "d89d6a9074d2"
+    },
+    {
+      "title_ru": "Северная Корея обвиняет Японию в наращивании военного потенциала",
+      "title_en": "North Korea accuses Japan of building war capability",
+      "date": "2026-09-08",
+      "summary": "Северная Корея обвинила Японию в наращивании военного потенциала и предупредила о возможных 'огромных несчастьях'. Заявление сделано на фоне растущей напряжённости в регионе.",
+      "category": "politics",
+      "area": "Дальний Восток",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260908008900315"
+      ],
+      "perspective": "Северная Корея рассматривает действия Японии как угрозу своей безопасности. Япония и её союзники могут считать это очередной пропагандистской риторикой КНДР для оправдания собственного военного строительства.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "90c477fb78f7"
+    },
+    {
+      "title_ru": "Северная Корея и Россия завершили строительство дорожного моста через реку Туманган",
+      "title_en": "North Korea, Russia complete construction of road bridge over Tumen River",
+      "date": "2026-09-08",
+      "summary": "Северная Корея и Россия завершили строительство дорожного моста через реку Туманган. Проект реализован в рамках развития транспортной инфраструктуры между двумя странами.",
+      "category": "tech",
+      "area": "Дальний Восток",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260908001151315"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "c6aae12a98c1"
+    },
+    {
+      "title_ru": "Победа ультраправой партии АдГ в Германии создаёт давление на канцлера Мерца",
+      "title_en": "AfD's Far Right Win Puts New Pressure on Germany's Leader Merz",
+      "date": "2026-09-08",
+      "summary": "Ультраправая партия 'Альтернатива для Германии' (АдГ) одержала победу на выборах, что создаёт серьёзное давление на канцлера Фридриха Мерца. Политическая ситуация в Германии становится всё более напряжённой.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/09/08/world/europe/germany-merz-pressure-afd.html"
+      ],
+      "perspective": "Победа АдГ рассматривается её сторонниками как торжество национальных интересов и ответ на миграционную политику. Оппозиционные партии и либеральные круги видят в этом угрозу демократическим институтам Германии и европейской стабильности.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "bcd532bda5b2"
+    },
+    {
+      "title_ru": "Ультраправый союзник Эрдогана поддерживает его на выборах 2028 года",
+      "title_en": "Far-right ally backs Erdoğan for 2028 presidential election",
+      "date": "2026-09-08",
+      "summary": "Ультраправый союзник президента Турции Реджепа Тайипа Эрдогана заявил о поддержке его кандидатуры на президентских выборах 2028 года, несмотря на конституционные ограничения по срокам.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "www.turkishminute.com"
+      ],
+      "links": [
+        "https://www.turkishminute.com/2026/09/08/far-right-ally-backs-erdogan-for-2028-presidential-election-despite-constitutional-term-limit/"
+      ],
+      "perspective": "Сторонники Эрдогана рассматривают это как подтверждение его популярности и политического влияния. Оппозиция и критики видят в этом попытку обойти конституционные ограничения и укрепить авторитарные тенденции в турецкой политике.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "3c35dd0ea685"
+    },
+    {
+      "title_ru": "Самолет Amazon разбился в аэропорту Майами, погибли пять человек",
+      "title_en": "Amazon cargo plane crashes at Miami airport, killing five people",
+      "date": "2026-09-06",
+      "summary": "Грузовой самолет компании Amazon потерпел крушение в аэропорту Майами, выкатившись за пределы взлетно-посадочной полосы. В результате авиакатастрофы погибли пять человек, еще пять были госпитализированы с травмами.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "feeds.washingtonpost.com",
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.washingtonpost.com/nation/2026/09/06/amazon-cargo-plane-crashes-after-veering-off-runway-miami-airport/",
+        "https://www.theglobeandmail.com/world/article-amazon-cargo-plane-crash-miami-airport/"
+      ],
+      "perspective": "Трагедия привлечет внимание к вопросам безопасности авиаперевозок и регулированию грузовых рейсов. Оппозиционные политики могут использовать инцидент для критики корпоративных практик Amazon и требований усиления контроля.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-06",
+      "id": "dd435041136a"
+    },
+    {
+      "title_ru": "Полиция Южной Кореи ужесточает правила расследования дел с участием родственников офицеров",
+      "title_en": "Police strengthen rules on cases involving officer family members",
+      "date": "2026-09-08",
+      "summary": "Полиция Южной Кореи вводит новые, более строгие правила расследования дел, в которых участвуют родственники сотрудников правоохранительных органов. Реформа направлена на повышение прозрачности и предотвращение конфликта интересов в полицейской системе.",
+      "category": "politics",
+      "area": "Дальний Восток",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260908006700315"
+      ],
+      "perspective": "Реформа может получить поддержку общественности как шаг к большей прозрачности, но встретить сопротивление внутри полицейских структур. Оппозиционные партии могут использовать это для критики существующей системы и требований более радикальных изменений.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-08",
+      "id": "07979a70e9b8"
+    },
+    {
+      "title_ru": "Извержение вулкана Анак-Кракатау в Индонезии парализовало авиасообщение и рыболовство",
+      "title_en": "Anak Krakatau volcano eruption in Indonesia halts flights, schools, fishing",
+      "date": "2026-09-06",
+      "summary": "Извержение вулкана Анак-Кракатау в Индонезии привело к масштабным последствиям: отмене авиарейсов, закрытию школ и приостановке рыболовной деятельности. Вулканический пепел создал серьезные проблемы для транспортной системы и экономики региона.",
+      "category": "politics",
+      "area": "Южная и Юго-Восточная Азия",
+      "sources": [
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/article-anak-krakatau-volcano-eruption-in-indonesia-halts-flights-schools/"
+      ],
+      "perspective": "Правительство демонстрирует оперативное реагирование на природное бедствие, что может повысить его рейтинги. Оппозиция может критиковать недостаточную подготовку к таким событиям и требовать улучшения системы раннего предупреждения.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-06",
+      "id": "23bedcec53d2"
+    },
+    {
+      "title_ru": "Министр финансов Австралии предупреждает об 'экзистенциальной угрозе' в политической битве",
+      "title_en": "Super-sized political battle: Chalmers issues warning on 'existential threat'",
+      "date": "2026-09-08",
+      "summary": "Министр финансов Австралии Джим Чалмерс предупредил о 'экзистенциальной угрозе' в рамках крупной политической битвы. Его заявление связано с обострением политической борьбы на федеральном уровне в Австралии.",
+      "category": "politics",
+      "area": "Океания и Австралия",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/politics/federal/super-sized-political-battle-chalmers-issues-warning-on-existential-threat-20260908-p60vjy.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "perspective": "Правящая партия может рассматривать это как предупреждение о серьёзных политических вызовах, в то время как оппозиция может считать это попыткой запугивания или преувеличением угроз для достижения политических целей.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "122c33a2756d"
+    },
+    {
+      "title_ru": "Смерть Анеле Тембе: свидетели слышали крики и громкий хлопок перед падением с 10-го этажа отеля",
+      "title_en": "Witnesses heard screams, an argument and a loud bang before Anele Tembe's fatal fall from the hotel's 10th floor",
+      "date": "2026-09-07",
+      "summary": "Свидетели сообщили, что слышали крики, спор и громкий хлопок перед тем, как Анеле Тембе упала с 10-го этажа отеля в ЮАР. Инцидент произошёл при загадочных обстоятельствах, что вызывает вопросы о возможных криминальных аспектах происшествия.",
+      "category": "politics",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-09-07-witnesses-heard-screams-an-argument-and-a-loud-bang-before-anele-tembe-s-fatal-fall-from-the-hotel-s-10th-floor/"
+      ],
+      "perspective": "Оппозиционные силы могут использовать эту трагедию для критики правоохранительных органов и обвинений в нераскрытых преступлениях. Правящая партия, вероятно, будет подчёркивать необходимость тщательного расследования и избегать преждевременных выводов.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "c8f77c18a0f1"
+    },
+    {
+      "title_ru": "Африканским сообществам нужны климатические услуги, сочетающие науку и местные знания",
+      "title_en": "African communities need climate services that combine science and local knowledge",
+      "date": "2026-09-08",
+      "summary": "Африканские сообщества нуждаются в климатических услугах, которые сочетают научные данные с местными знаниями для эффективной адаптации к изменению климата. Такой подход позволит лучше учитывать локальные особенности и повысить устойчивость к климатическим изменениям на континенте.",
+      "category": "ecology",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/the-green-guardian/2026-09-08-african-communities-need-climate-services-that-combine-science-and-local-knowledge/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "81c7cef5608f"
+    },
+    {
+      "title_ru": "Бессент готовит крупную операцию на фоне роста цен на нефть и колебаний доходности казначейских облигаций",
+      "title_en": "Bessent Loads Bazooka As Oil Prices Rise, Treasury Yields Waver",
+      "date": "2026-09-08",
+      "summary": "Министр финансов США Кит Бессент готовит крупную операцию по выкупу облигаций на фоне роста цен на нефть и колебаний доходности казначейских облигаций. Это происходит в условиях опасений по поводу поставок нефти с Ближнего Востока, что оказывает давление на мировые финансовые рынки.",
+      "category": "finance",
+      "area": "Мир",
+      "sources": [
+        "finance.yahoo.com"
+      ],
+      "links": [
+        "https://www.investors.com/news/treasury-yields-bessent-buyback-oil-prices-sp-500/?src=A00220&yptr=yahoo"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "f77a67df7189"
+    },
+    {
+      "title_ru": "Sony выпустила первый за 20 лет полнокадровый фишай-объектив FE 8-14mm f/3.5 Fisheye G",
+      "title_en": "The 8-14mm f/3.5 Fisheye G Is Sony's First Full-Frame Fisheye in 20 Years",
+      "date": "2026-09-08",
+      "summary": "Компания Sony представила свой первый за 20 лет полнокадровый фишай-объектив FE 8-14mm f/3.5 Fisheye G. Новый объект получил положительные оценки в обзорах за свои оптические характеристики и качество изображения, что знаменует возвращение Sony к производству фишай-объективов для полнокадровых камер.",
+      "category": "photo",
+      "area": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/08/the-8-14mm-f-3-5-fisheye-g-is-sonys-first-full-frame-fisheye-in-20-years/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "554a88383858"
     }
   ],
   "_stats": {
-    "total_tokens": 1905126,
-    "total_cost": 260.60508799999997
+    "total_tokens": 1965404,
+    "total_cost": 264.444888
   }
 }
