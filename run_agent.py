@@ -173,50 +173,63 @@ def generate_html(events, config, usage=None, api_key=None):
         html = f.read()
 
     cat_counts = {"politics": 0, "ai": 0, "tech": 0, "energy": 0, "finance": 0, "photo": 0}
-    stories_html = ""
-    for idx, ev in enumerate(events, 1):
+    area_events = {}
+    area_order = []
+    for ev in events:
         cat = ev.get("category", "politics")
         cat_counts[cat] = cat_counts.get(cat, 0) + 1
+        area = ev.get("area", "Мир")
+        if area not in area_events:
+            area_events[area] = []
+            area_order.append(area)
+        area_events[area].append(ev)
 
-        sources_str = ", ".join(ev.get("sources", []))
-        links_html = " | ".join(
-            f'<a href="{l}" target="_blank" rel="noopener">{l.split("/")[2] if "//" in l else l}</a>'
-            for l in ev.get("links", [])[:3]
-        )
+    stories_html = ""
+    for area_name in area_order:
+        area_evs = area_events[area_name]
+        inner = ""
+        for idx, ev in enumerate(area_evs, 1):
+            cat = ev.get("category", "politics")
 
-        cat_label = {"politics": "Политика", "ai": "AI", "tech": "Техно/Наука", "energy": "Энергетика", "finance": "Финансы", "photo": "Фото"}.get(cat, "")
-        cat_badge = f'<span class="cat-badge cat-{cat}">{cat_label}</span>' if cat_label else ""
-        area = ev.get("area", "")
-        area_badge = f'<span class="area-badge">{area}</span>' if area else ""
+            sources_str = ", ".join(ev.get("sources", []))
+            links_html = " | ".join(
+                f'<a href="{l}" target="_blank" rel="noopener">{l.split("/")[2] if "//" in l else l}</a>'
+                for l in ev.get("links", [])[:3]
+            )
 
-        perspective = ev.get("perspective", "").strip()
-        perspective_type = ev.get("perspective_type", "").strip()
-        perspective_label = {
-            "from_source": "из источника",
-            "assumed": "предположительно",
-            "unclear": "неясно"
-        }.get(perspective_type, "")
+            cat_label = {"politics": "Политика", "ai": "AI", "tech": "Техно/Наука", "energy": "Энергетика", "finance": "Финансы", "photo": "Фото"}.get(cat, "")
+            cat_badge = f'<span class="cat-badge cat-{cat}">{cat_label}</span>' if cat_label else ""
+            area = ev.get("area", "")
+            area_badge = f'<span class="area-badge">{area}</span>' if area else ""
 
-        summ_en = ev.get("summary_en", "")
-        summ_ru = ev.get("summary", "")
-        if summ_en:
-            summ_en_html = f'<div class="summ-en"><span class="summ-label">English</span>{summ_en}</div>'
-        else:
-            summ_en_html = ""
-        summ_ru_html = f'<div class="summ-ru">{summ_ru}</div>' if summ_ru else ""
+            perspective = ev.get("perspective", "").strip()
+            perspective_type = ev.get("perspective_type", "").strip()
+            perspective_label = {
+                "from_source": "из источника",
+                "assumed": "предположительно",
+                "unclear": "неясно"
+            }.get(perspective_type, "")
 
-        if perspective:
-            comparison_html = f'<div class="comparison"><div class="compare-title">Оценки {'(' + perspective_label + ')' if perspective_label else ''}</div><div class="compare-item">{perspective}</div></div>'
-        else:
-            comparison_html = ""
+            summ_en = ev.get("summary_en", "")
+            summ_ru = ev.get("summary", "")
+            if summ_en:
+                summ_en_html = f'<div class="summ-en"><span class="summ-label">English</span>{summ_en}</div>'
+            else:
+                summ_en_html = ""
+            summ_ru_html = f'<div class="summ-ru">{summ_ru}</div>' if summ_ru else ""
 
-        story = f"""
+            if perspective:
+                comparison_html = f'<div class="comparison"><div class="compare-title">Оценки {'(' + perspective_label + ')' if perspective_label else ''}</div><div class="compare-item">{perspective}</div></div>'
+            else:
+                comparison_html = ""
+
+            story = f"""
 <div class="story">
   <div class="story-card">
     <div class="story-header">
       <div class="story-number">{idx}</div>
       <div class="story-titles">
-        <div class="title-en">{ev.get("title_en", "")} {area_badge}{cat_badge}</div>
+        <div class="title-en">{ev.get("title_en", "")} {cat_badge}</div>
         <div class="title-ru">{ev.get("title_ru", "")}</div>
       </div>
     </div>
@@ -231,7 +244,18 @@ def generate_html(events, config, usage=None, api_key=None):
     </div>
   </div>
 </div>"""
-        stories_html += story
+            inner += story
+
+        stories_html += (
+            f'<div class="area-section">'
+            f'<div class="area-header" onclick="this.classList.toggle(\'open\');this.nextElementSibling.classList.toggle(\'open\')">'
+            f'<span class="area-plus"></span>'
+            f'<span class="area-name">{area_name}</span>'
+            f'<span class="area-count">{idx}</span>'
+            f'</div>'
+            f'<div class="area-body">{inner}</div>'
+            f'</div>'
+        )
 
     if not stories_html:
         stories_html = '<div class="no-news"><h2>Новостей нет</h2><p>Попробуйте позже</p></div>'
