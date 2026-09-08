@@ -8976,7 +8976,8 @@
       "perspective_type": "",
       "is_development": false,
       "first_reported": "2026-09-08",
-      "id": "87825a03e3b5"
+      "id": "87825a03e3b5",
+      "last_reported": "2026-09-08"
     },
     {
       "title_ru": "Забастовка работников Эйфелевой башни из-за исключения женщин во время визита индуистской группы",
@@ -9235,7 +9236,8 @@
       "perspective": "",
       "perspective_type": "",
       "first_reported": "2026-09-08",
-      "id": "92c0074528b2"
+      "id": "92c0074528b2",
+      "last_reported": "2026-09-08"
     },
     {
       "title_ru": "Северная Корея завершила строительство моста через реку Тумань совместно с Россией",
@@ -9387,10 +9389,400 @@
       "is_development": false,
       "first_reported": "2026-09-08",
       "id": "f33295a6da13"
+    },
+    {
+      "title_ru": "В горах Кабардино-Балкарии приостановили поиски альпинистов",
+      "title_en": "Search for climbers suspended in Kabardino-Balkaria mountains",
+      "date": "2026-09-08",
+      "summary": "В горах Кабардино-Балкарии приостановлены поисково-спасательные работы по альпинистам из-за плохих погодных условий. Спасатели уже эвакуировали тела 12 погибших альпинистов в ущелье Безенги. Поиски возобновятся утром следующего дня.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "rssexport.rbc.ru",
+        "ria.ru",
+        "tass.ru"
+      ],
+      "links": [
+        "https://www.rbc.ru/rbcfreenews/6a9d81a1711dd2d55ec8e18a",
+        "https://ria.ru/20260908/kbr-2116401386.html",
+        "https://tass.ru/proisshestviya/28092223"
+      ],
+      "perspective": "Трагедия воспринимается как национальное горе, требующее усиления мер безопасности в горном туризме. Власти демонстрируют оперативность спасательных работ, но могут столкнуться с критикой за недостаточную профилактику таких инцидентов.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "c15f219b4bcb"
+    },
+    {
+      "title_ru": "Минобороны России сообщило об ударах по Киевскому радиозаводу и складам ВСУ",
+      "title_en": "Russian Defense Ministry reports strikes on Kyiv radio plant and Ukrainian Armed Forces warehouses",
+      "date": "2026-09-08",
+      "summary": "Минобороны России заявило о нанесении ударов по Киевскому радиозаводу и складам Вооруженных сил Украины. Также ведомство сообщило об ударах по стоянкам автоцистерн на Украине и о том, что за ночь над российскими регионами было сбито 384 украинских беспилотника.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8938762"
+      ],
+      "perspective": "Российская сторона представляет эти действия как ответ на украинские атаки и как легитимные военные операции. Украина и её союзники, вероятно, осудят удары по гражданской инфраструктуре и расценят их как эскалацию конфликта.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "415878fc5718"
+    },
+    {
+      "title_ru": "Восемь человек из экипажа арестованного судна 'Профессор Молчанов' вернулись на родину",
+      "title_en": "Eight crew members of arrested ship 'Professor Molchanov' returned to homeland",
+      "date": "2026-09-08",
+      "summary": "Восемь членов экипажа российского научно-исследовательского судна 'Профессор Молчанов', арестованного норвежскими властями, вернулись на родину. Российское посольство оказывает содействие в этом деле, а компания 'Арктикуголь' оценивает нанесенный арестом ущерб и запустила альтернативные пути снабжения Шпицбергена.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "tass.ru",
+        "ria.ru"
+      ],
+      "links": [
+        "https://tass.ru/obschestvo/28092207",
+        "https://ria.ru/20260908/posolstvo-2116418867.html"
+      ],
+      "perspective": "Россия рассматривает арест судна как недружественный акт Норвегии и демонстрирует защиту интересов своих граждан. Норвежская сторона, вероятно, обосновывает арест юридическими нарушениями. Ситуация может обострить отношения двух стран в Арктике.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "e420e53aca40"
+    },
+    {
+      "title_ru": "«Росатом» построит завод по сборке элементов ветрогенераторов в Амурской области",
+      "title_en": "Rosatom will build a wind turbine component assembly plant in Amur Region",
+      "date": "2026-09-07",
+      "summary": "Госкорпорация «Росатом» планирует построить завод по сборке элементов ветрогенераторов в Амурской области. Это проект по развитию возобновляемой энергетики в России.",
+      "category": "energy",
+      "area": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/column/vetrogeneratory-in-amur"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "843952b8a593"
+    },
+    {
+      "title_ru": "Tesla запустила «Кибертакси», не приглашая прессу",
+      "title_en": "Tesla launched 'CyberTaxi' without inviting press",
+      "date": "2026-09-07",
+      "summary": "Компания Tesla запустила сервис «Кибертакси» без традиционной презентации для прессы. Наблютели выражают сомнения в успехе этого проекта.",
+      "category": "tech",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/hi-tech/tesla-zapustila-kibertaksi"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "a07d3ee9b3b1"
+    },
+    {
+      "title_ru": "Забастовка на Эйфелевой башне из-за исключения женщин при визите индуистской группы",
+      "title_en": "Eiffel Tower Workers Strike, Saying Women Were Excluded From Hindu Group's Visit",
+      "date": "2026-09-08",
+      "summary": "Работники Эйфелевой башни объявили забастовку после того, как женский персонал был заменён мужчинами для визита индуистской делегации. Мэр Парижа инициировал расследование этого инцидента, который вызвал протесты и привёл к временному закрытию башни.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "The New York Times",
+        "BBC",
+        "CBC",
+        "Le Monde"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/09/08/world/europe/paris-eiffel-tower-closed-strike-hindu-temple.html",
+        "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+        "https://www.cbc.ca/news/world/eiffel-tower-strike-hindu-delegation-visit-9.7335469?cmp=rss",
+        "https://www.lemonde.fr/en/france/article/2026/09/08/eiffel-tower-set-to-reopen-following-protest-over-removal-of-women-staff_6757276_7.html"
+      ],
+      "perspective": "Феминистские и левые группы критикуют гендерную дискриминацию и религиозный патриархат, в то время как консервативные религиозные круги могут оправдывать практику традиционными нормами. Либералы видят нарушение принципов равенства и светскости государства.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "1984e0099132"
+    },
+    {
+      "title_ru": "Агент ICE обвинён во лжи о расстреле венесуэльца в Миннеаполисе",
+      "title_en": "ICE officer charged with lying about shooting of Venezuelan in Minneapolis, source says",
+      "date": "2026-09-03",
+      "summary": "Агент иммиграционной и таможенной полиции США (ICE) обвинён во лжи о стрельбе в отношении венесуэльского гражданина в Миннеаполисе. Этот случай подчёркивает более широкий отход Министерства юстиции от расследований стрельб с участием сотрудников ICE.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "The Washington Post",
+        "The Globe and Mail"
+      ],
+      "links": [
+        "https://www.washingtonpost.com/politics/2026/09/08/rare-chargings-against-agent-highlight-broader-retreat-ice-shooting-probes/",
+        "https://www.theglobeandmail.com/world/article-ice-minneapolis-lying-investigation-venezuela-shooting/"
+      ],
+      "perspective": "Правозащитные организации и демократы видят в этом системную проблему безнаказанности в правоохранительных органах, в то время как республиканцы могут рассматривать обвинение как изолированный инцидент или даже как чрезмерное давление на сотрудников правоохранительных органов.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-03",
+      "id": "03b9bc0b72c9"
+    },
+    {
+      "title_ru": "Совет Samsung для Apple по складному iPhone и вызовы ИИ для нового CEO",
+      "title_en": "Here's Samsung's Advice for Apple and Its Upcoming Folding iPhone",
+      "date": "2026-09-08",
+      "summary": "Samsung даёт советы Apple по выпуску складного iPhone, в то время как новый CEO Apple Тернус сталкивается с вызовами в области искусственного интеллекта. Ожидается, что предстоящий запуск Apple будет включать новые технологии, но iPhone 18 может не появиться в этом году.",
+      "category": "ai",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "Wired",
+        "Daily Sabah",
+        "TechCrunch"
+      ],
+      "links": [
+        "https://www.wired.com/story/samsung-advice-for-apple-and-its-upcoming-folding-iphone/",
+        "https://www.dailysabah.com/business/economy/apples-new-ceo-ternus-faces-ai-challenge-as-foldable-iphone-debuts",
+        "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "f7d7856bf58a"
+    },
+    {
+      "title_ru": "В Гватемале предложили ограничить цены на дизельное топливо на фоне продолжающихся дорожных блокировок",
+      "title_en": "Guatemala Diesel Cap Proposed as Road Blockades Continue",
+      "date": "2026-09-08",
+      "summary": "В Гватемале предложено ввести ограничение цен на дизельное топливо в ответ на продолжающиеся протесты и дорожные блокировки. Протестующие требуют снижения цен на топливо, что привело к перекрытию ключевых транспортных артерий страны.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/guatemala-diesel-price-cap-fuel-protests-2026/"
+      ],
+      "perspective": "Правительство рассматривает ценовые ограничения как способ успокоить протестующих и восстановить транспортное сообщение. Оппозиция и протестующие могут считать эти меры недостаточными, требуя более радикального снижения цен на топливо.",
+      "perspective_type": "assumed",
+      "first_reported": "2026-09-08",
+      "id": "16838080a67c"
+    },
+    {
+      "title_ru": "Иран объявляет новую ограниченную зону за пределами Ормузского пролива и полностью закрывает его",
+      "title_en": "Iran declares new restricted zone outside Strait of Hormuz and completely closes it",
+      "date": "2026-09-08",
+      "summary": "Иран объявил о создании новой ограниченной зоны за пределами Ормузского пролива. Одновременно высшее руководство страны заявило о полном закрытии пролива, который находится под управлением Ирана. Это решение было принято после предупреждений США о новых иранских ракетах.",
+      "category": "politics",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/06/775804/Iran-to-declare-new-restricted-zone-outside-Strait-of-Hormuz--Top-security-official-",
+        "https://presstv.co.uk/Detail/2026/09/06/775777/Iran-IRGC-Hormuz-Strait-control-",
+        "https://presstv.co.uk/Detail/2026/09/07/775813/News-Review--Iran%E2%80%99s-top-security-official-says-Hormuz-Strait-totally-closed-",
+        "https://presstv.co.uk/Detail/2026/09/08/775883/Washington-received-clear-warning-from-Iran-new-missiles-Top-security-official"
+      ],
+      "perspective": "Иранские власти позиционируют это как меру национальной безопасности и суверенитета над стратегическим водным путем. Международное сообщество, особенно страны, зависящие от нефтяных поставок через пролив, могут рассматривать это как эскалацию напряженности и угрозу свободе судоходства.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "c63383f82d61"
+    },
+    {
+      "title_ru": "Южная Корея: фондовый рынок Сеула прервал трехдневный рост из-за опасений повышения ставок",
+      "title_en": "South Korea: Seoul stock market snaps 3-day rise amid rate hike concerns",
+      "date": "2026-09-08",
+      "summary": "Фондовый рынок Сеула прервал трехдневный рост на фоне опасений инвесторов относительно возможного повышения процентных ставок. Падение корейского фондового индекса отражает растущую неопределенность на финансовых рынках региона.",
+      "category": "politics",
+      "area": "Дальний Восток",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260908006952320",
+        "https://en.yna.co.kr/view/AEN20260908006951320",
+        "https://en.yna.co.kr/view/AEN20260908006900320",
+        "https://en.yna.co.kr/view/AEN20260908006800320"
+      ],
+      "perspective": "Финансовые аналитики могут рассматривать это как естественную коррекцию рынка после роста. Инвесторы опасаются ужесточения денежно-кредитной политики, что может негативно сказаться на экономическом росте и корпоративных прибылях.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "1342f5b87998"
+    },
+    {
+      "title_ru": "Возрождение Арабского газопровода: Иордания одобрила стратегический маршрут поставок газа в Ливан через Сирию",
+      "title_en": "Arab Gas Pipeline revival: Jordan approves strategic natural gas supply route to Lebanon via Syria",
+      "date": "2026-09-08",
+      "summary": "Иордания одобрила стратегический маршрут поставок природного газа в Ливан через Сирию, что означает возрождение Арабского газопровода. Это решение позволит Ливану получить доступ к энергоресурсам через региональную инфраструктуру.",
+      "category": "energy",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/middle-east/article-907983"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "05d08d17de6d"
+    },
+    {
+      "title_ru": "Политика израильских поселений вызывает торговые ограничения от 13 стран, включая Великобританию, Ирландию и Францию",
+      "title_en": "Israel's settlement policy triggers trade restrictions from 13 nations, incl. UK, Ireland, France",
+      "date": "2026-09-08",
+      "summary": "Политика израильских поселений на оккупированных территориях привела к введению торговых ограничений со стороны 13 стран, включая Великобританию, Ирландию и Францию. Это решение является ответом международного сообщества на продолжающееся строительство поселений.",
+      "category": "tech",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/international/article-907989"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "3e18ee88e179"
+    },
+    {
+      "title_ru": "Грузовой самолёт Amazon разбился в аэропорту Майами, погибли пять человек",
+      "title_en": "Amazon cargo plane crashes at Miami airport, killing five people",
+      "date": "2026-09-06",
+      "summary": "Грузовой самолёт компании Amazon потерпел крушение в международном аэропорту Майами, съехав с взлётно-посадочной полосы. В результате аварии погибли пять человек, ещё пять были доставлены в больницу. Происшествие вызвало расследование авиационных властей.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "feeds.washingtonpost.com",
+        "www.theglobeandmail.com",
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.washingtonpost.com/nation/2026/09/06/amazon-cargo-plane-crashes-after-veering-off-runway-miami-airport/",
+        "https://www.theglobeandmail.com/world/article-amazon-cargo-plane-crash-miami-airport/",
+        "https://www.theglobeandmail.com/world/video-miami-officials-say-five-dead-five-in-hospital-after-amazon-plane/"
+      ],
+      "perspective": "Трагедия привлечёт внимание к безопасности грузовых авиаперевозок и может привести к ужесточению регулирования. Критики могут обвинять Amazon в давлении на логистические цепочки, в то время как компания будет подчёркивать соблюдение всех стандартов безопасности.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-06",
+      "id": "54890b530e56"
+    },
+    {
+      "area": "Океания и Австралия",
+      "category": "politics",
+      "date": "2026-09-08",
+      "is_development": false,
+      "links": [
+        "https://www.smh.com.au/politics/federal/super-sized-political-battle-chalmers-issues-warning-on-existential-threat-20260908-p60vjy.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "perspective": "Правительство Австралии рассматривает это как угрозу национальным интересам и финансовой стабильности, в то время как оппозиция может критиковать подход кабинета министров к регулированию суперфондов. Бизнес-сообщество вероятно обеспокоено возможным ужесточением регулирования.",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "summary": "Министр финансов Австралии Джим Чалмерс предупредил о 'экзистенциальной угрозе' в связи с политической битвой вокруг суперфондов. Он заявил, что правительство столкнулось с серьёзными вызовами в регулировании пенсионной системы страны.",
+      "title_en": "Super-sized political battle: Chalmers issues warning on 'existential threat'",
+      "title_ru": "Крупная политическая битва: Чалмерс предупреждает об 'экзистенциальной угрозе'",
+      "first_reported": "2026-09-08",
+      "id": "679c6d3687bb"
+    },
+    {
+      "title_ru": "Свидетели слышали крики и громкий хлопок перед смертельным падением Анеле Тембе с 10-го этажа отеля",
+      "title_en": "Witnesses heard screams, an argument and a loud bang before Anele Tembe's fatal fall from the hotel's 10th floor",
+      "date": "2026-09-07",
+      "summary": "В ЮАР продолжается расследование смерти Анеле Тембе, которая погибла, упав с 10-го этажа отеля. Свидетели сообщили, что перед инцидентом слышали крики, спор и громкий хлопок. Обстоятельства смерти вызывают вопросы у общественности и правоохранительных органов.",
+      "category": "politics",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-09-07-witnesses-heard-screams-an-argument-and-a-loud-bang-before-anele-tembe-s-fatal-fall-from-the-hotel-s-10th-floor/"
+      ],
+      "perspective": "Смерть молодой женщины вызывает общественный резонанс и вопросы о возможном криминальном характере происшествия. Правоохранительные органы рассматривают разные версии, включая несчастный случай и насильственную смерть.",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "9ffda6d805c3"
+    },
+    {
+      "title_ru": "Технологии меняют опыт онлайн-казино в Южной Африке",
+      "title_en": "How technology is changing South Africa's online casino experience",
+      "date": "2026-09-04",
+      "summary": "Технологические инновации трансформируют индустрию онлайн-гемблинга в Южной Африке. Новые технологии улучшают пользовательский опыт, безопасность и доступность азартных игр в интернете. Это отражает общую тенденцию цифровизации развлекательной индустрии в стране.",
+      "category": "tech",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/partner-content/2026-09-04-how-technology-is-changing-south-africa-s-online-casino-experience/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-04",
+      "id": "51187fd0816d"
+    },
+    {
+      "title_ru": "Фондовые рынки падают на фоне роста цен на нефть и эскалации торговой войны США-Канада",
+      "title_en": "Stock markets fall as oil prices rise, US-Canada trade war escalates",
+      "date": "2026-09-08",
+      "summary": "Американские фондовые индексы Dow, S&P 500 и Nasdaq снизились на фоне роста цен на нефть и эскалации торговой войны между США и Канадой. Рост цен на нефть связан с опасениями по поводу поставок с Ближнего Востока, что оказывает давление на мировые рынки.",
+      "category": "finance",
+      "area": "Мир",
+      "sources": [
+        "finance.yahoo.com",
+        "en.mehrnews.com"
+      ],
+      "links": [
+        "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-8-dow-sp-500-nasdaq-080440338.html",
+        "https://en.mehrnews.com/news/247539/Oil-prices-climb-on-mounting-Middle-East-supply-fears"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "547617f74588"
+    },
+    {
+      "title_ru": "Sony представила первое за 20 лет полнокадровое фишайе-объектив",
+      "title_en": "Sony launches first full-frame fisheye lens in 20 years",
+      "date": "2026-09-08",
+      "summary": "Компания Sony выпустила объектив FE 8-14mm f/3.5 Fisheye G - первое полнокадровое фишайе-объектив от производителя за последние 20 лет. Новый объектив предназначен для профессиональных фотографов и предлагает широкий угол обзора с характерными дисторсиями фишайе-оптики.",
+      "category": "photo",
+      "area": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/08/the-8-14mm-f-3-5-fisheye-g-is-sonys-first-full-frame-fisheye-in-20-years/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "dc5a91ae0552"
     }
   ],
   "_stats": {
-    "total_tokens": 2027877,
-    "total_cost": 268.406528
+    "total_tokens": 2090062,
+    "total_cost": 272.35454799999997
   }
 }
