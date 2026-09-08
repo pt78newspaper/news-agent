@@ -69,9 +69,11 @@ def hash_event(e):
 
 
 AREAS_ORDER = ["Россия", "Северная и Центральная Америка", "Южная Америка", "Европа", "Ближний Восток", "Дальний Восток", "Южная и Юго-Восточная Азия", "Океания и Австралия", "Африка"]
-PER_AREA = {"politics": 3, "energy": 1, "tech": 1, "ai": 1}
-GLOBAL = {"finance": 1, "photo": 1}
-CAT_ORDER = ["politics", "energy", "tech", "ai", "finance", "photo"]
+RUSSIA_AREA = "Россия"
+PER_AREA_RU = {"politics": 3, "energy": 1, "tech": 1, "ai": 1, "finance": 1}
+PER_AREA = {"politics": 2, "energy": 1, "tech": 1, "ai": 1}
+GLOBAL = {"photo": 1, "culture": 1, "finance": 1, "ecology": 1}
+CAT_ORDER = ["politics", "energy", "tech", "ai", "finance", "photo", "culture", "ecology"]
 
 
 def sort_events(events):
@@ -120,6 +122,30 @@ def looks_like_energy(cluster):
     return any(k in text for k in kw)
 
 
+def _cluster_text(cluster):
+    text = ""
+    for a in cluster:
+        text += (a.get("title", "") + " " + a.get("summary", ""))[:400].lower()
+    return text
+
+
+def looks_like_culture(cluster):
+    kw = ("art", "artist", "museum", "exhibition", "film", "cinema", "movie", "actor",
+          "music", "concert", "festival", "theater", "theatre", "literature", "book",
+          "writer", "opera", "architecture", "культур", "искусств", "музе", "выстав",
+          "кино", "фильм", "актёр", "актер", "концерт", "фестивал", "театр", "книг",
+          "писател", "архитектур", "премиа")
+    return any(k in _cluster_text(cluster) for k in kw)
+
+
+def looks_like_ecology(cluster):
+    kw = ("climate", "emission", "carbon", "greenhouse", "pollution", "recycl", "waste",
+          "environment", "deforestation", "wildfire", "flood", "экологи", "климат",
+          "выброс", "углерод", "отход", "загрязн", "переработ", "природ", "лес",
+          "биоразнообраз", "наводнени", "пожар", "мусор")
+    return any(k in _cluster_text(cluster) for k in kw)
+
+
 def _get_area(cluster):
     for a in cluster:
         area = a.get("area")
@@ -139,11 +165,22 @@ def select_clusters(clusters, config=None):
         for a in c:
             a["category"] = cat
         area = _get_area(c) or "Неизвестный регион"
-        cat_map = {"tech": "ai" if looks_like_ai(c) else ("energy" if looks_like_energy(c) else "tech")}
         if cat == "tech":
-            cat = cat_map["tech"]
-        elif cat not in ("finance", "ai", "photo", "energy"):
-            cat = "politics"
+            if looks_like_ai(c):
+                cat = "ai"
+            elif looks_like_energy(c):
+                cat = "energy"
+            elif looks_like_ecology(c):
+                cat = "ecology"
+            elif looks_like_culture(c):
+                cat = "culture"
+        elif cat not in ("finance", "ai", "photo", "energy", "culture", "ecology"):
+            if looks_like_culture(c):
+                cat = "culture"
+            elif looks_like_ecology(c):
+                cat = "ecology"
+            else:
+                cat = "politics"
         for a in c:
             a["category"] = cat
         by_area_cat.setdefault(area, {}).setdefault(cat, []).append(c)
@@ -152,14 +189,19 @@ def select_clusters(clusters, config=None):
     chosen = set()
     for area in sorted(areas):
         area_clusters = by_area_cat.get(area, {})
-        for cat, n in PER_AREA.items():
+        quota = PER_AREA_RU if area == RUSSIA_AREA else PER_AREA
+        for cat, n in quota.items():
             take = area_clusters.get(cat, [])[:n]
             for c in take:
                 if id(c) not in chosen:
                     selected.append(c)
                     chosen.add(id(c))
     for cat, n in GLOBAL.items():
-        take = by_area_cat.get("Мир", {}).get(cat, [])[:n]
+        pool = list(by_area_cat.get("Мир", {}).get(cat, []))
+        for area in sorted(areas):
+            if area != "Мир":
+                pool.extend(by_area_cat.get(area, {}).get(cat, []))
+        take = pool[:n]
         for c in take:
             if id(c) not in chosen:
                 selected.append(c)
@@ -172,7 +214,7 @@ def generate_html(events, config, usage=None, api_key=None):
     with open(tpl_path, encoding="utf-8") as f:
         html = f.read()
 
-    cat_counts = {"politics": 0, "ai": 0, "tech": 0, "energy": 0, "finance": 0, "photo": 0}
+    cat_counts = {"politics": 0, "ai": 0, "tech": 0, "energy": 0, "finance": 0, "photo": 0, "culture": 0, "ecology": 0}
     area_events = {}
     area_order = []
     for ev in events:
@@ -197,7 +239,7 @@ def generate_html(events, config, usage=None, api_key=None):
                 for l in ev.get("links", [])[:3]
             )
 
-            cat_label = {"politics": "Политика", "ai": "AI", "tech": "Техно/Наука", "energy": "Энергетика", "finance": "Финансы", "photo": "Фото"}.get(cat, "")
+            cat_label = {"politics": "Политика", "ai": "AI", "tech": "Техно/Наука", "energy": "Энергетика", "finance": "Финансы", "photo": "Фото", "culture": "Культура", "ecology": "Экология"}.get(cat, "")
             cat_badge = f'<span class="cat-badge cat-{cat}">{cat_label}</span>' if cat_label else ""
             area = ev.get("area", "")
             area_badge = f'<span class="area-badge">{area}</span>' if area else ""
@@ -306,7 +348,7 @@ def generate_html(events, config, usage=None, api_key=None):
     html = html.replace("__USAGE_INFO__", usage_text)
     html = html.replace("__TOTAL_STORIES__", str(len(events)))
     html = html.replace("__TOTAL_SOURCES__", str(sum(len(e.get("sources", [])) for e in events)))
-    cat_display = " | ".join(f'{l}: {cat_counts.get(k,0)}' for k,l in [("politics","Политика"),("ai","AI"),("tech","Техно"),("energy","Энергетика"),("finance","Финансы"),("photo","Фото")] if cat_counts.get(k,0))
+    cat_display = " | ".join(f'{l}: {cat_counts.get(k,0)}' for k,l in [("politics","Политика"),("ai","AI"),("tech","Техно"),("energy","Энергетика"),("finance","Финансы"),("photo","Фото"),("culture","Культура"),("ecology","Экология")] if cat_counts.get(k,0))
     html = html.replace("__REGIONS_COVERED__", cat_display)
     html = html.replace("__STORIES__", stories_html)
     from news_agent.ai_summarizer import MODEL as AI_MODEL_NAME
@@ -338,7 +380,7 @@ def generate_html(events, config, usage=None, api_key=None):
             archive_html += f'<div class="archive-day"><div class="archive-day-header" onclick="this.classList.toggle(\'open\');this.nextElementSibling.classList.toggle(\'open\')"><span>{date_key} ({len(day_events)})</span><span class="arrow">▶</span></div><div class="archive-day-body">'
             for pe in day_events:
                 cat = pe.get("category", "politics")
-                cat_label = {"politics": "Политика", "ai": "AI", "tech": "Техно/Наука", "energy": "Энергетика", "finance": "Финансы", "photo": "Фото"}.get(cat, "")
+                cat_label = {"politics": "Политика", "ai": "AI", "tech": "Техно/Наука", "energy": "Энергетика", "finance": "Финансы", "photo": "Фото", "culture": "Культура", "ecology": "Экология"}.get(cat, "")
                 cat_badge = f'<span class="cat-badge cat-{cat}">{cat_label}</span>' if cat_label else ""
                 area_badge = f'<span class="area-badge">{pe.get("area", "")}</span>' if pe.get("area") else ""
                 summ_en = pe.get("summary_en", "")
