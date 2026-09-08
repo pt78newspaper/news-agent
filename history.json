@@ -1,231 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Атаки БПЛА на Урале: четыре пострадавших в Екатеринбурге, ребенок ранен в Белгородской области",
-      "title_en": "Drone attacks in Urals: four injured in Yekaterinburg, child wounded in Belgorod region",
-      "date": "2026-08-31",
-      "summary": "В результате атак беспилотников на Свердловскую область пострадали четыре человека в Екатеринбурге. Одновременно в Белгородском селе при атаке БПЛА пострадал ребенок. На Урале людей заранее эвакуировали из логистического центра перед атакой.",
-      "category": "politics",
-      "sources": [
-        "rssexport.rbc.ru",
-        "tass.ru",
-        "ria.ru",
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.rbc.ru/politics/31/08/2026/6a94c2339a794709e8d48b91",
-        "https://tass.ru/obschestvo/28060693",
-        "https://ria.ru/20260831/rebenok-2114309887.html",
-        "https://www.kommersant.ru/doc/8922321",
-        "https://ria.ru/20260831/ekaterinburg-2114308891.html"
-      ],
-      "perspective": "Российские власти представляют это как террористические атаки на гражданские объекты. Украина и западные страны могут рассматривать это как ответные действия на российские удары по украинской территории. Нейтральные наблюдатели отмечают эскалацию конфликта с вовлечением гражданского населения.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-08-31",
-      "id": "e166231851d3"
-    },
-    {
-      "title_ru": "Иран сбил американский беспилотник MQ-9 над Ормузским проливом",
-      "title_en": "Iran shoots down US MQ-9 drone over Strait of Hormuz",
-      "date": "2026-08-31",
-      "summary": "Корпус стражей исламской революции Ирана сбил американский беспилотник MQ-9 над Ормузским проливом. Это первая атака такого рода за несколько недель, что свидетельствует об эскалации напряженности в стратегически важном регионе.",
-      "category": "politics",
-      "sources": [
-        "www.presstv.ir",
-        "feeds.bbci.co.uk"
-      ],
-      "links": [
-        "https://presstv.ir/Detail/2026/08/31/775386/IRGC-shots-down-another-US-MQ-9-drone-over-Strait-Hormuz",
-        "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
-      ],
-      "perspective": "Иранские власти представляют это как защиту национального суверенитета. США рассматривают инцидент как провокацию и угрозу свободе судоходства. Аналитики отмечают, что американские заявления о маршрутах транспортировки нефти через Ормузский пролив могут быть попыткой повлиять на цены на нефть.",
-      "perspective_type": "from_source",
-      "is_development": false,
-      "first_reported": "2026-08-31",
-      "id": "48e614619fe5"
-    },
-    {
-      "title_ru": "Индонезия отказалась от кредита МВФ и закрыла 290 государственных предприятий",
-      "title_en": "Indonesia turns down IMF loan offer and closes 290 state-owned enterprises",
-      "date": "2026-08-31",
-      "summary": "Президент Индонезии Прабово Субианто заявил, что страна отказалась от предложения кредита от Международного валютного фонда. Также он сообщил, что закрытие 290 государственных предприятий позволило сэкономить 2,8 миллиарда долларов.",
-      "category": "politics",
-      "sources": [
-        "en.antaranews.com"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/429143/indonesia-turns-down-imf-loan-offer-says-president-prabowo",
-        "https://en.antaranews.com/news/429152/prabowo-says-indonesia-saved-28-billion-by-closing-290-soes"
-      ],
-      "perspective": "Правительство Индонезии представляет это как шаг к экономической независимости и финансовой дисциплине. Оппозиция может критиковать закрытие предприятий как приводящее к потере рабочих мест. Международные финансовые институты могут рассматривать отказ от кредита как признак растущей уверенности в собственных экономических возможностях.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-08-31",
-      "id": "0e8d7f0ebccf"
-    },
-    {
-      "title_ru": "Индонезия возглавила глобальную коалицию мелких производителей пальмового масла",
-      "title_en": "Indonesia takes helm of global oil palm smallholders coalition",
-      "date": "2026-08-31",
-      "summary": "Индонезия взяла на себя руководство глобальной коалицией мелких производителей пальмового масла. Это происходит на фоне регулирования импорта текстиля для балансировки рыночного спроса и запуска исследования прав человека до 2036 года.",
-      "category": "politics",
-      "sources": [
-        "en.antaranews.com"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/429144/indonesia-takes-helm-of-global-oil-palm-smallholders-coalition",
-        "https://en.antaranews.com/news/429139/indonesia-regulates-textile-imports-to-balance-market-demand",
-        "https://en.antaranews.com/news/429135/ministry-launches-human-rights-2036-study-to-map-social-issues"
-      ],
-      "perspective": "Правительство Индонезии позиционирует это как укрепление позиций страны на мировом рынке пальмового масла и защиту интересов мелких производителей. Экологические организации могут выражать опасения по поводу расширения плантаций пальмового масла. Конкурирующие страны-производители могут рассматривать это как усиление индонезийского влияния в отрасли.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-08-31",
-      "id": "8be9c65a023b"
-    },
-    {
-      "title_ru": "Трагедия в Гранд-Каньоне: не менее одного погибшего и 15 пропавших после внезапного наводнения",
-      "title_en": "Grand Canyon tragedy: at least one dead and 15 missing after flash flood",
-      "date": "2026-08-31",
-      "summary": "В национальном парке Гранд-Каньон произошло внезапное наводнение, в результате которого погиб по меньшей мере один человек и пропали около 15 человек. Спасательные операции продолжаются в сложных условиях каньона.",
-      "category": "politics",
-      "sources": [
-        "www.france24.com"
-      ],
-      "links": [
-        "https://www.france24.com/fr/vid%C3%A9o/20260831-grand-canyon-au-moins-un-mort-et-une-quinzaine-de-disparue-apr%C3%A8s-une-crue-%C3%A9clair"
-      ],
-      "perspective": "Власти США представляют это как природную катастрофу и мобилизуют спасательные службы. Экологические организации могут связывать экстремальные погодные явления с изменением климата. Местные жители и туристические компании выражают обеспокоенность по поводу безопасности в национальных парках.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-08-31",
-      "id": "fe9cbe47c173"
-    },
-    {
-      "title_ru": "Суд в Южной Корее требует смертной казни для подозреваемого в убийстве в Кванджу",
-      "title_en": "South Korean court seeks death penalty for Gwangju murder suspect",
-      "date": "2026-08-31",
-      "summary": "Прокуроры в Южной Корее потребовали смертной казни для подозреваемого в убийстве в Кванджу. Одновременно в другом деле прокуратура требует 10 лет тюрьмы для пакистанца по делу об изнасиловании ребенка.",
-      "category": "ai",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260831010000315",
-        "https://en.yna.co.kr/view/AEN20260831008900315"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-08-31",
-      "id": "ff9cc682618c"
-    },
-    {
-      "title_ru": "Южнокорейская вона достигла 13-месячного максимума на фоне продажи доллара",
-      "title_en": "South Korean won reaches 13-month high on dollar selling",
-      "date": "2026-08-31",
-      "summary": "Южнокорейская вона укрепилась до 13-месячного максимума на фоне активной продажи доллара. Несмотря на жесткую позицию главы ФРС, фондовый рынок Сеула закрылся с ростом.",
-      "category": "ai",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260831008600320",
-        "https://en.yna.co.kr/view/AEN20260831007552320",
-        "https://en.yna.co.kr/view/AEN20260831007500320"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-08-31",
-      "id": "8ff45e2db6d8"
-    },
-    {
-      "title_ru": "Утечка характеристик OnePlus 16: глобальная частота обновления 165 Гц и пользовательский чип",
-      "title_en": "OnePlus 16 specs leak: 165Hz global refresh rate and custom chip",
-      "date": "2026-08-31",
-      "summary": "В сеть утекли характеристики смартфона OnePlus 16: экран с глобальной частотой обновления 165 Гц и пользовательский чип. Также появились данные о Huawei Mate XT 2 с оперативной памятью 16 ГБ и накопителем до 2 ТБ.",
-      "category": "tech",
-      "sources": [
-        "www.gizmochina.com"
-      ],
-      "links": [
-        "https://www.gizmochina.com/2026/08/31/oneplus-16-boe-x4-display-165hz-global-refresh-rate/",
-        "https://www.gizmochina.com/2026/08/31/huawei-mate-xt-2-pre-orders-configurations-revealed/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-08-31",
-      "id": "9d065eff16ac"
-    },
-    {
-      "title_ru": "Фондовый рынок Сеула показал устойчивость несмотря на жесткую позицию ФРС",
-      "title_en": "Seoul stock market shows resilience despite hawkish Fed stance",
-      "date": "2026-08-31",
-      "summary": "Фондовый рынок Сеула продемонстрировал устойчивость, закрывшись с ростом несмотря на жесткие заявления главы Федеральной резервной системы США. Ранее индекс открылся с падением на 2,58%, но к закрытию сумел восстановиться.",
-      "category": "tech",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260831007400320",
-        "https://en.yna.co.kr/view/AEN20260831004500320",
-        "https://en.yna.co.kr/view/AEN20260831001851320",
-        "https://en.yna.co.kr/view/AEN20260831001700320"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-08-31",
-      "id": "23871d06824a"
-    },
-    {
-      "title_ru": "Тайвань призывает адаптировать земельную политику к проблеме старения общества",
-      "title_en": "Taiwan calls for adapting land policy to aging society issue",
-      "date": "2026-08-31",
-      "summary": "Тайваньские эксперты призывают адаптировать земельную политику к вызовам стареющего общества. Это происходит на фоне глобального обсуждения демографических проблем, включая анализ последствий отмены политики одного ребенка в Китае.",
-      "category": "tech",
-      "sources": [
-        "www.taipeitimes.com",
-        "www.spiegel.de"
-      ],
-      "links": [
-        "https://www.taipeitimes.com/News/editorials/archives/2026/08/31/2003863399",
-        "https://www.spiegel.de/international/world/ten-years-after-the-end-of-the-one-child-policy-a-visit-to-ground-zero-of-chinas-aging-population-a-7b669939-a8f8-4af5-9b77-ac9f08bb691d#ref=rss"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-08-31",
-      "id": "6f770e73761f"
-    },
-    {
-      "title_ru": "Лидеры России, Ирана и Китая встретятся на саммите ШОС в Бишкеке",
-      "title_en": "Leaders of Russia, Iran and China to meet at SCO summit in Bishkek",
-      "date": "2026-08-31",
-      "summary": "Президенты России, Ирана и Китая встретятся на полях саммита Шанхайской организации сотрудничества в Бишкеке. Иранский лидер Пезешкиан заявил, что Иран будет решительно реагировать на любую агрессию, направляясь на саммит.",
-      "category": "finance",
-      "sources": [
-        "asia.nikkei.com",
-        "en.mehrnews.com",
-        "en.irna.ir",
-        "tass.com"
-      ],
-      "links": [
-        "https://asia.nikkei.com/politics/international-relations/putin-xi-to-meet-on-sidelines-of-sco-summit-monday-kremlin-says",
-        "https://en.mehrnews.com/news/247333/Pezeshkian-arrives-in-Bishkek-for-SCO-summit-regional-talks",
-        "https://en.irna.ir/news/86250535/Pezeshkian-says-Iran-will-respond-decisively-to-aggression-as",
-        "https://tass.com/politics/2179647"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-08-31",
-      "id": "2f3e2e3c85b3"
-    },
-    {
       "title_ru": "Саммит ШОС в Бишкеке: лидеры подписали декларацию о реформе финансовой архитектуры",
       "title_en": "SCO Summit in Bishkek: leaders sign declaration on financial architecture reform",
       "date": "2026-09-01",
@@ -2511,7 +2286,8 @@
       "perspective": "Правящие партии могут представлять это как важность участия в демократическом процессе, в то время как оппозиция может критиковать за упрощение сложных экономических проблем. Молодёжные движения могут видеть в этом призыв к большей политической ответственности.",
       "perspective_type": "assumed",
       "first_reported": "2026-09-07",
-      "id": "d833e40b575b"
+      "id": "d833e40b575b",
+      "last_reported": "2026-09-07"
     },
     {
       "title_ru": "Необходимость коллективных действий для восстановления доверия к цифровой коммуникации",
@@ -5754,10 +5530,726 @@
       "is_development": false,
       "first_reported": "2026-09-07",
       "id": "b696881b0977"
+    },
+    {
+      "title_ru": "Россия заявляет о расширении окружения ВСУ в Харьковской области",
+      "title_en": "Russia claims expansion of encirclement of Ukrainian forces in Kharkiv region",
+      "date": "2026-09-08",
+      "summary": "Российские военные сообщают о расширении кольца окружения украинских войск в Харьковской области. По данным Минобороны РФ, под контроль взяты населенные пункты Долгенькое и Березники.",
+      "category": "politics",
+      "area": "Россия",
+      "perspective": "Российская сторона представляет это как успешное наступление и укрепление позиций. Украинская сторона, вероятно, оценивает ситуацию как тяжелую и требует дополнительной военной помощи от Запада.",
+      "perspective_type": "assumed",
+      "sources": [
+        "ria.ru",
+        "kommersant.ru",
+        "rbc.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260908/svo-2116241712.html",
+        "https://www.kommersant.ru/doc/8938768",
+        "https://www.rbc.ru/politics/08/09/2026/6a9fbf129a79479758dedea2"
+      ],
+      "first_reported": "2026-09-08",
+      "id": "774dd1d5d1a8"
+    },
+    {
+      "title_ru": "Лавров заявляет о невозможности мониторинга моратория по ударам по судам в Черном море",
+      "title_en": "Lavrov says monitoring of moratorium on strikes against ships in Black Sea is impossible",
+      "date": "2026-09-08",
+      "summary": "Министр иностранных дел России Сергей Лавров заявил, что невозможно обеспечить мониторинг моратория на удары по судам в Черном море. Он также отметил, что ответные удары России за атаки Украины имеют более серьезные последствия.",
+      "category": "politics",
+      "area": "Россия",
+      "perspective": "Россия представляет свою позицию как реалистичную оценку ситуации в Черном море. Западные страны и Украина, вероятно, рассматривают это как отказ от международных обязательств и угрозу морской безопасности.",
+      "perspective_type": "assumed",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/politics/2183981",
+        "https://tass.com/politics/2183995"
+      ],
+      "first_reported": "2026-09-08",
+      "id": "62f9bf0fbbb2"
+    },
+    {
+      "title_ru": "Росатом построит завод по сборке элементов ветрогенераторов в Амурской области",
+      "title_en": "Rosatom to build wind turbine component assembly plant in Amur region",
+      "date": "2026-09-07",
+      "summary": "Госкорпорация \"Росатом\" планирует построить завод по сборке элементов ветрогенераторов в Амурской области. Это часть развития возобновляемой энергетики в России.",
+      "category": "energy",
+      "area": "Россия",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/column/vetrogeneratory-in-amur"
+      ],
+      "first_reported": "2026-09-07",
+      "id": "730132d961b3"
+    },
+    {
+      "title_ru": "Tesla запустила \"Кибертакси\" без приглашения прессы",
+      "title_en": "Tesla launched \"CyberTaxi\" without inviting press",
+      "date": "2026-09-07",
+      "summary": "Компания Tesla запустила сервис \"Кибертакси\" без традиционного приглашения прессы на презентацию. Наблютели выражают сомнения в успехе данного проекта.",
+      "category": "tech",
+      "area": "Северная и Центральная Америка",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/hi-tech/tesla-zapustila-kibertaksi"
+      ],
+      "first_reported": "2026-09-07",
+      "id": "8d15357b7cca"
+    },
+    {
+      "title_ru": "Ученые выяснили причину неожиданного набора льда Антарктидой",
+      "title_en": "Scientists discovered the reason for Antarctica's unexpected ice gain",
+      "date": "2026-09-07",
+      "summary": "Исследователи установили, почему Антарктида неожиданно набрала 695 миллиардов тонн льда. Это научное открытие связано с климатическими процессами в регионе.",
+      "category": "tech",
+      "area": "Мир",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/climate/antarktida-nabrala-lda"
+      ],
+      "first_reported": "2026-09-07",
+      "id": "4b0274271b69"
+    },
+    {
+      "title_ru": "Тысячи сербов собрались на похороны Ратко Младича, осуждённого за геноцид в Сребренице",
+      "title_en": "Thousands of Serbs Gather to Mourn Ratko Mladic, Convicted of Srebrenica Genocide",
+      "date": "2026-09-07",
+      "summary": "Тысячи сербов собрались на похороны бывшего генерала Ратко Младича, осуждённого Международным трибуналом за геноцид в Сребренице. Событие раскололо нацию: для одних он военный герой, для других - военный преступник, ответственный за массовые убийства боснийских мусульман.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "The New York Times",
+        "Deutsche Welle"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/09/07/world/europe/ratko-mladic-funeral-serbia.html",
+        "https://www.dw.com/en/serbia-how-the-funeral-of-ratko-mladic-is-dividing-a-nation/a-78948890?maca=en-rss-en-all-1573-xml-mrss",
+        "https://www.dw.com/en/mladic-s-death-bosnia-and-serbia-s-unfinished-reckoning/a-78602733?maca=en-rss-en-all-1573-xml-mrss",
+        "https://www.dw.com/en/ratko-mladic-the-man-behind-srebrenica-massacre-dies-at-84/a-78536491?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "perspective": "Для сербских националистов Младич - герой, защищавший сербский народ. Для международного сообщества и жертв Сребреницы - военный преступник, осуждённый за геноцид. Событие обнажает незажившие раны балканских войн 1990-х годов.",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "c7e3640e1a5d"
+    },
+    {
+      "title_ru": "Ямайка подаёт петицию королю Карлу III с требованием репараций от Британии за рабство",
+      "title_en": "Jamaica Files Petition to King Charles III for Britain to Pay Reparations for Role in Slavery",
+      "date": "2026-09-07",
+      "summary": "Ямайка официально подала петицию королю Великобритании Карлу III с требованием выплаты репараций за роль Британии в трансатлантической работорговле. Это происходит на фоне визита французского президента Макрона в Лондон, где он вместе с королём осматривал гобелен из Байё.",
+      "category": "politics",
+      "area": "Южная Америка",
+      "sources": [
+        "The Globe and Mail",
+        "Deutsche Welle"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/article-jamaica-files-petition-to-king-charles-iii-for-britain-to-pay/",
+        "https://www.dw.com/en/macron-visits-bayeux-tapestry-with-king-charles-pm-andy-burnham/a-78772317?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "perspective": "Для бывших британских колоний это шаг к исторической справедливости и признанию преступлений колониализма. Для британского правительства - сложный политический вопрос, требующий баланса между исторической ответственностью и финансовыми обязательствами. Консервативные круги могут выступать против выплат.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "d3411a56bc2b"
+    },
+    {
+      "title_ru": "Эскалация торговой войны между США и Канадой: Трамп требует от Apple переименовать озеро Онтарио",
+      "title_en": "Escalation of US-Canada Trade War: Trump Pressures Apple to Rename Lake Ontario",
+      "date": "2026-09-08",
+      "summary": "Торговая война между США и Канадой обострилась: Дональд Трамп потребовал от компании Apple изменить название озера Онтарио на 'Озеро Америка'. Канадский доллар падает на фоне растущих торговых напряжений, а девелоперы сталкиваются с трудностями при строительстве в США из-за торговых барьеров.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "The Globe and Mail",
+        "CNBC"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/article-to-build-in-america-developers-need-to-navigate-the-trade-war/",
+        "https://www.theglobeandmail.com/business/article-donald-trump-asks-apple-to-change-name-of-lake-ontario-to-lake-america/",
+        "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html"
+      ],
+      "perspective": "Для администрации Трампа это демонстрация жёсткой переговорной позиции и защиты американских интересов. Для Канады - угроза экономической стабильности и суверенитету. Бизнес-сообщество обеих стран опасается негативных последствий для торговли и инвестиций.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "dbf1917ea15c"
+    },
+    {
+      "title_ru": "Docusign открывает свои ИИ-инструменты для всех агентов, бросая вызов Salesforce",
+      "title_en": "Docusign Opens Its AI Tools to Every Agent, Challenging Salesforce",
+      "date": "2026-09-07",
+      "summary": "Компания Docusign объявила об открытии своих инструментов искусственного интеллекта для всех агентов, что может изменить конкурентный ландшафт в сфере управления взаимоотношениями с клиентами. Этот шаг представляет прямую угрозу позициям Salesforce на рынке ИИ-решений для бизнеса.",
+      "category": "ai",
+      "area": "Мир",
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "links": [
+        "https://finance.yahoo.com/technology/ai/articles/docusign-opening-ai-tools-every-033727068.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "2e5d65ca2e88"
+    },
+    {
+      "title_ru": "Сингапур повысил зарплату премьер-министра на $1 млн",
+      "title_en": "Singapore raises prime minister's pay by $1mn",
+      "date": "2026-09-08",
+      "summary": "Правительство Сингапура повысило зарплату премьер-министра на 1 миллион долларов. Это решение было принято в рамках пересмотра системы оплаты труда высших государственных должностных лиц.",
+      "category": "politics",
+      "area": "Южная и Юго-Восточная Азия",
+      "sources": [
+        "Financial Times"
+      ],
+      "links": [
+        "https://www.ft.com/content/f06ee0ea-adcf-44ec-80c9-bb616885d8de?syn-25a6b1a6=1"
+      ],
+      "perspective": "Либеральные критики могут рассматривать это как чрезмерное повышение зарплаты государственного служащего, в то время как сторонники могут аргументировать необходимость конкурентоспособных зарплат для привлечения лучших кадров в государственный сектор.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "d2589454b418"
+    },
+    {
+      "title_ru": "Россия возобновила удары по Киеву после трёхдневного перемирия",
+      "title_en": "Russia pummels Kyiv after three-day halt",
+      "date": "2026-09-08",
+      "summary": "Российские вооружённые силы возобновили удары по Киеву после истечения трёхдневного моратория на атаки. В результате обстрелов погибли как минимум два человека.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "Le Monde",
+        "Deutsche Welle",
+        "ТАСС"
+      ],
+      "links": [
+        "https://www.lemonde.fr/en/international/article/2026/09/08/russia-pummels-kyiv-after-three-day-halt_6757273_4.html",
+        "https://www.dw.com/en/ukraine-updates-two-killed-in-kyiv-as-3-day-truce-ends/live-79153168?maca=en-rss-en-all-1573-xml-mrss",
+        "https://tass.com/politics/2183855"
+      ],
+      "perspective": "Украинская сторона и её союзники осуждают возобновление атак как нарушение гуманитарных норм, в то время как российская сторона может оправдывать это военной необходимостью после истечения моратория.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "6dff9fe52253"
+    },
+    {
+      "title_ru": "Судья объявил аннулирование процесса по делу Линдси Клэнси",
+      "title_en": "Judge declares mistrial in Lindsay Clancy murder case after jury deadlock",
+      "date": "2026-09-04",
+      "summary": "Судья объявил аннулирование судебного процесса по делу об убийстве Линдси Клэнси после того, как присяжные не смогли прийти к единому вердикту. Защите было предоставлено время для подачи апелляции.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "The Globe and Mail"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/article-judge-in-lindsay-clancy-trial-to-hold-off-on-formally-declaring-a/"
+      ],
+      "perspective": "Сторонники обвинения могут критиковать судебную систему за неспособность добиться справедливости, в то время как защита может рассматривать это как подтверждение слабости обвинительных доказательств.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-04",
+      "id": "537efd574335"
+    },
+    {
+      "title_ru": "Иран сохранил экспорт нефти несмотря на 550 ударов по Харгу в ходе войны с США",
+      "title_en": "Iran kept oil exports flowing during war despite 550 strikes on Kharg: Minister",
+      "date": "2026-09-08",
+      "summary": "Министр Ирана заявил, что страна сохранила экспорт нефти несмотря на 550 ударов по острову Харг в ходе войны с США. Российский министр иностранных дел Сергей Лавров охарактеризовал ситуацию как \"начало реальной войны\" с Западом, в то время как президент США Дональд Трамп назвал конфликт \"мелочью\".",
+      "category": "politics",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/07/775818/Iran-kept-oil-exports-flowing-during-war-despite-550-strikes-on-Kharg--Minister",
+        "https://presstv.co.uk/Detail/2026/09/06/775803/Lavrov-Russia-Germany-start-of-real-war-with-West",
+        "https://presstv.co.uk/Detail/2026/09/05/775747/News-Review--US-president-downplays-war-on-Iran,-calling-it-%E2%80%9Csmall-potatoes%E2%80%9D"
+      ],
+      "perspective": "Иранские власти представляют конфликт как успешное сопротивление агрессии, в то время как российские официальные лица используют его для обоснования своей конфронтации с Западом. Западные страны, вероятно, рассматривают заявления Ирана как пропаганду, а комментарии Трампа - как попытку минимизировать масштабы конфликта.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "a77a0010d294"
+    },
+    {
+      "title_ru": "Фильмы о геноциде в Газе показаны на Венецианском кинофестивале",
+      "title_en": "Two films on Israeli regime's genocide in Gaza screened at Venice Film Festival",
+      "date": "2026-09-08",
+      "summary": "На Венецианском кинофестивале были показаны два фильма о геноциде в Газе, совершенном израильским режимом. Одновременно в Венецию прибыла \"Глобальная суммированная флотилия\", а коалиция \"Флотилия свободы\" объявила о новой миссии в Газу.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/07/775822/Two-films-on-Israeli-regime-s-genocide-in-Gaza-screened-at-Venice-Film-Festival",
+        "https://presstv.co.uk/Detail/2026/09/08/775892/Global-Summed-Flotilla-arrives-in-Venice-as-freedom-flotilla-coalition-announces-new-Gaza-mission"
+      ],
+      "perspective": "Палестинские активисты и их сторонники рассматривают это как важный шаг в привлечении международного внимания к ситуации в Газе. Израиль и его союзники, вероятно, осуждают такие фильмы как пропаганду и одностороннее представление конфликта.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "a532333a3b60"
+    },
+    {
+      "title_ru": "ОАЭ предупредили Нетаньяху о крупной атаке ХАМАС за несколько дней до резни 7 октября",
+      "title_en": "UAE warned Netanyahu of major Hamas attack days before October 7 massacre, Haaretz reports",
+      "date": "2026-09-08",
+      "summary": "Объединенные Арабские Эмираты предупредили премьер-министра Израиля Биньямина Нетаньяху о крупной атаке ХАМАС за несколько дней до резни 7 октября 2023 года, согласно отчету газеты Haaretz.",
+      "category": "politics",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/israel-news/defense-news/article-907896"
+      ],
+      "perspective": "Это заявление может использоваться для критики израильского руководства за недостаточную подготовку к атаке. Сторонники Нетаньяху, вероятно, будут оспаривать достоверность информации или утверждать, что предупреждение было недостаточно конкретным.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "b50c96bccbfe"
+    },
+    {
+      "title_ru": "Трафик в Ормузском проливе снижается на фоне угроз Ирана энергетической инфраструктуре",
+      "title_en": "Hormuz shipping traffic dips as Iran warns Gulf energy infrastructure is vulnerable",
+      "date": "2026-09-08",
+      "summary": "Морской трафик в Ормузском проливе снижается, поскольку Иран предупреждает, что энергетическая инфраструктура в Персидском заливе уязвима. Иранский высокопоставленный чиновник по безопасности заявил, что страна объявит новую \"ограниченную зону\" за пределами пролива.",
+      "category": "energy",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.jpost.com",
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://www.jpost.com/middle-east/iran-news/article-907900",
+        "https://presstv.co.uk/Detail/2026/09/06/775804/Iran-to-declare-new-restricted-zone-outside-Strait-of-Hormuz--Top-security-official-"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "42e27b911ce2"
+    },
+    {
+      "title_ru": "Мощные извержения вулкана Кракатау в Индонезии",
+      "title_en": "Powerful eruptions of Krakatau volcano in Indonesia",
+      "date": "2026-09-08",
+      "summary": "В Индонезии произошли мощные извержения вулкана Кракатау. Событие зафиксировано на видео, демонстрирующем масштаб вулканической активности.",
+      "category": "tech",
+      "area": "Дальний Восток",
+      "sources": [
+        "en.mehrnews.com"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/247545/VIDEO-Powerful-eruptions-of-Krakatau-volcano-in-Indonesia"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "6462942f78f9"
+    },
+    {
+      "title_ru": "Тайвань отказывается от перезапуска атомных электростанций",
+      "title_en": "Taiwan refuses to restart nuclear power plants",
+      "date": "2026-09-08",
+      "summary": "Тайваньское правительство подтвердило решение не перезапускать атомные электростанции, несмотря на дебаты об энергетической безопасности. Решение основано на соображениях безопасности и экологических рисках.",
+      "category": "energy",
+      "area": "Дальний Восток",
+      "sources": [
+        "www.taipeitimes.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/editorials/archives/2026/09/08/2003863856"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "9d029c94935b"
+    },
+    {
+      "title_ru": "Запорожская АЭС планирует восстановить вторую линию электропередачи для повышения безопасности",
+      "title_en": "Zaporozhye NPP plans to restore second power line to enhance nuclear safety",
+      "date": "2026-09-07",
+      "summary": "Запорожская атомная электростанция работает над восстановлением второй линии электропередачи для повышения безопасности объекта. Это позволит улучшить энергоснабжение станции и снизить риски.",
+      "category": "energy",
+      "area": "Европа",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/economy/2183819"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "cd9057921dd3"
+    },
+    {
+      "title_ru": "Токио рассматривает возможность допуска северокорейской делегации на Азиатские игры",
+      "title_en": "Tokyo considering allowing entry of North Korean delegation to Asian Games",
+      "date": "2026-09-07",
+      "summary": "Японские власти обсуждают возможность разрешить въезд делегации из Северной Кореи для участия в Азиатских играх 2026 года. Решение имеет политическое значение в контексте международных отношений.",
+      "category": "politics",
+      "area": "Дальний Восток",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260907009700320"
+      ],
+      "perspective": "Японские власти могут рассматривать это как гуманитарный жест и возможность диалога, в то время как консервативные силы могут критиковать решение за уступки режиму. Международное сообщество может видеть в этом шаг к нормализации отношений.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "836f5692cfd7"
+    },
+    {
+      "title_ru": "Полиция Южной Кореи ужесточает правила расследования дел с участием родственников сотрудников",
+      "title_en": "South Korean police strengthen rules on cases involving officer family members",
+      "date": "2026-09-08",
+      "summary": "Полиция Южной Кореи вводит более строгие правила для расследования дел, в которых участвуют родственники сотрудников правоохранительных органов. Это мера направлена на повышение прозрачности и предотвращение конфликта интересов.",
+      "category": "politics",
+      "area": "Дальний Восток",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260908006700315"
+      ],
+      "perspective": "Реформа может получить поддержку общественности как шаг к большей подотчетности полиции, но внутри правоохранительных органов могут быть опасения по поводу бюрократических сложностей. Оппозиционные партии могут использовать это для критики существующей системы.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "1684f9d3e502"
+    },
+    {
+      "title_ru": "Samsung и ASML объединяются для разработки технологии производства полупроводников следующего поколения",
+      "title_en": "Samsung and ASML team up on next-generation semiconductor manufacturing technology",
+      "date": "2026-09-08",
+      "summary": "Южнокорейская компания Samsung и голландская ASML объявили о партнерстве в разработке передовых технологий производства полупроводников. Сотрудничество направлено на создание следующего поколения микрочипов.",
+      "category": "tech",
+      "area": "Мир",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260908007500320"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "1923e7069251"
+    },
+    {
+      "title_ru": "Извержение вулкана Анак-Кракатау в Индонезии нарушает авиасообщение и закрывает школы",
+      "title_en": "Anak Krakatau volcano eruption in Indonesia halts flights, schools, fishing",
+      "date": "2026-09-06",
+      "summary": "Извержение вулкана Анак-Кракатау в Индонезии привело к приостановке полётов, закрытию школ и прекращению рыболовства в регионе. Власти провинции Бантен перевели все медицинские учреждения в режим повышенной готовности из-за вулканического пепла.",
+      "category": "politics",
+      "area": "Южная и Юго-Восточная Азия",
+      "sources": [
+        "www.theglobeandmail.com",
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/article-anak-krakatau-volcano-eruption-in-indonesia-halts-flights-schools/",
+        "https://en.antaranews.com/news/430287/anak-krakatau-ash-banten-puts-all-health-facilities-on-high-alert"
+      ],
+      "perspective": "Правительство демонстрирует оперативность в реагировании на стихийное бедствие, что может повысить его рейтинг. Оппозиция может критиковать недостаточную подготовку к таким событиям.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-06",
+      "id": "65daf4d70203"
+    },
+    {
+      "title_ru": "Индонезия подтверждает наличие средств для покрытия долговых обязательств по высокоскоростной железной дороге",
+      "title_en": "Indonesia confirms funds to cover high-speed rail debt obligations",
+      "date": "2026-09-08",
+      "summary": "Индонезия подтвердила наличие финансовых средств для выполнения долговых обязательств по проекту высокоскоростной железной дороги. Это важный шаг для продолжения реализации крупного инфраструктурного проекта.",
+      "category": "politics",
+      "area": "Южная и Юго-Восточная Азия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/430317/indonesia-confirms-funds-to-cover-high-speed-rail-debt-obligations"
+      ],
+      "perspective": "Правительство демонстрирует финансовую ответственность и приверженность инфраструктурным проектам. Оппозиция может ставить под сомнение эффективность расходования средств на этот проект.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "fbd418d32d46"
+    },
+    {
+      "title_ru": "Спикер парламента Индонезии призывает к единому руководству в управлении стихийными бедствиями",
+      "title_en": "House Speaker calls for unified leadership in disaster handling",
+      "date": "2026-09-08",
+      "summary": "Спикер парламента Индонезии призвал к созданию единой системы руководства для координации действий при стихийных бедствиях. Это предложение связано с необходимостью улучшения реагирования на природные катастрофы.",
+      "category": "politics",
+      "area": "Южная и Юго-Восточная Азия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/430404/house-speaker-calls-for-unified-leadership-in-disaster-handling"
+      ],
+      "perspective": "Предложение направлено на усиление координации между различными ведомствами, что может повысить эффективность управления кризисами. Оппозиция может рассматривать это как централизацию власти.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "81a570fde184"
+    },
+    {
+      "title_ru": "KONE Indonesia становится первой компанией, получившей платиновый сертификат экологичных продуктов",
+      "title_en": "KONE Indonesia Sets New Industry Benchmark as First to Achieve Platinum Green Product Certification",
+      "date": "2026-09-08",
+      "summary": "Компания KONE Indonesia установила новый отраслевой стандарт, став первой в стране, получившей платиновый сертификат экологичных продуктов. Это достижение демонстрирует прогресс в области устойчивого развития промышленности.",
+      "category": "tech",
+      "area": "Южная и Юго-Восточная Азия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/430344/kone-indonesia-sets-new-industry-benchmark-as-first-to-achieve-platinum-green-product-certification"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "ec77589dd172"
+    },
+    {
+      "title_ru": "Nuix расширяет возможности генеративного ИИ для юридического анализа и представляет чат-бота для работы с данными дел",
+      "title_en": "Nuix Expands Generative AI for Legal Review, Debuts AI Chat for Case Data",
+      "date": "2026-09-08",
+      "summary": "Компания Nuix расширила возможности генеративного искусственного интеллекта для юридического анализа документов и представила чат-бота на основе ИИ для работы с данными судебных дел. Это развитие технологий в юридической сфере.",
+      "category": "ai",
+      "area": "Южная и Юго-Восточная Азия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/430349/nuix-expands-generative-ai-for-legal-review-debuts-ai-chat-for-case-data"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "6014c4380b89"
+    },
+    {
+      "title_ru": "Результаты австралийских школьников упали в международных рейтингах",
+      "title_en": "Australian students' reading and maths results plunge in global rankings",
+      "date": "2026-09-08",
+      "summary": "Австралийские школьники показали значительное падение результатов по чтению и математике в международных рейтингах. Исследования также указывают на негативное влияние экранного времени в классах на успеваемость учащихся в Виктории.",
+      "category": "politics",
+      "area": "Океания и Австралия",
+      "sources": [
+        "www.smh.com.au",
+        "www.smh.com.au",
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/national/nsw/our-tower-of-learning-is-leaning-improving-results-is-difficult-but-possible-20260908-p60vez.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+        "https://www.smh.com.au/national/victoria/classroom-screen-time-quietly-driving-down-victorian-student-results-20260906-p60usp.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+        "https://www.smh.com.au/national/nsw/australian-students-reading-and-maths-results-plunge-in-global-rankings-20260907-p60v66.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "perspective": "Правительство может столкнуться с критикой за состояние системы образования, в то время как оппозиция может использовать эти данные для атаки на образовательную политику властей. Родители и педагоги могут требовать реформ и увеличения финансирования школ.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "549ff2c6fab8"
+    },
+    {
+      "title_ru": "Начался суд по делу об убийстве австралийских сёрферов в Мексике",
+      "title_en": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
+      "date": "2026-09-08",
+      "summary": "В Мексике начался судебный процесс по делу об убийстве двух братьев-сёрферов из Австралии. Процесс привлёк международное внимание к вопросам безопасности туристов в стране.",
+      "category": "politics",
+      "area": "Южная Америка",
+      "sources": [
+        "www.smh.com.au",
+        "feeds.bbci.co.uk"
+      ],
+      "links": [
+        "https://www.smh.com.au/world/mexico-murder-trial-begins-20260908-p60va0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+        "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss"
+      ],
+      "perspective": "Мексиканские власти могут стремиться продемонстрировать эффективность правосудия, в то время как австралийское правительство может испытывать давление с требованием усилить защиту граждан за рубежом. Правозащитники могут использовать дело для критики уровня безопасности в Мексике.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "e79243016d1c"
+    },
+    {
+      "title_ru": "Бизнесмен оправдан по делу об убийстве журналистки Дафны Каруаны Галиции на Мальте",
+      "title_en": "Jury in Malta acquits businessman in killing of journalist Daphne Caruana Galizia",
+      "date": "2026-09-02",
+      "summary": "Суд присяжных на Мальте оправдал бизнесмена по делу об убийстве журналистки-расследовательницы Дафны Каруаны Галиции. Журналистка была убита в 2017 году в результате взрыва автомобиля.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/article-daphne-caruana-galizia-killing-murder-malta-journalist/"
+      ],
+      "perspective": "Оправдательный приговор может вызвать разочарование у сторонников свободы прессы и правозащитников, ожидавших наказания виновных. Власти Мальты могут столкнуться с критикой за ход расследования, в то время как защита может утверждать о торжестве правосудия.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-02",
+      "id": "ca0d99cf0dea"
+    },
+    {
+      "title_ru": "Отец и дочь погибли в авиакатастрофе в Австралии",
+      "title_en": "Father and daughter killed in plane crash in Australia",
+      "date": "2026-09-08",
+      "summary": "Отец и дочь погибли в результате авиакатастрофы в Квинсленде, Австралия. Местная община выражает соболезнования семье, описывая погибших как тёплых, щедрых и заботливых людей.",
+      "category": "politics",
+      "area": "Океания и Австралия",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/national/queensland/father-and-daughter-identified-as-plane-crash-victims-20260908-p60vau.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "perspective": "Трагедия может привести к обсуждению вопросов безопасности авиаперевозок в регионе. Местные власти могут столкнуться с требованиями усилить контроль за частной авиацией, в то время как авиационные регуляторы могут начать проверки.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "d17aa9d184f8"
+    },
+    {
+      "title_ru": "Коллективные действия для восстановления доверия к цифровой коммуникации",
+      "title_en": "Collective action needed to rebuild trust in digital communication",
+      "date": "2026-09-04",
+      "summary": "В ЮАР обсуждается необходимость коллективных действий для восстановления доверия к цифровой коммуникации. Авторы подчёркивают растущие проблемы с доверием в онлайн-пространстве и предлагают совместные усилия различных заинтересованных сторон. Вопрос касается как социальной, так и технологической сферы.",
+      "category": "politics",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/partner-content/2026-09-04-collective-action-needed-to-rebuild-trust-in-digital-communication/"
+      ],
+      "perspective": "Правительственные структуры могут видеть в этом необходимость регулирования цифрового пространства, в то время как правозащитники могут опасаться ограничения свобод. Технологические компании могут поддерживать идею саморегулирования, а гражданское общество - требовать прозрачности.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-04",
+      "id": "f63b701c9841"
+    },
+    {
+      "title_ru": "Пролёты над стадионами ЮАР: традиция точности, которую нужно защищать",
+      "title_en": "South Africa's stadium flyovers: A proud tradition of precision that should be defended",
+      "date": "2026-09-04",
+      "summary": "В ЮАР защищают традицию точных пролётов самолётов над стадионами во время спортивных мероприятий. Автор описывает эту практику как гордую традицию, требующую высокой точности и профессионализма пилотов. Подчёркивается культурное и символическое значение этих пролётов для страны.",
+      "category": "politics",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/thought-leader/2026-09-04-south-africa-s-stadium-flyovers-a-proud-tradition-of-precision-that-should-be-defended/"
+      ],
+      "perspective": "Правительство и военные могут поддерживать эту традицию как демонстрацию национальной гордости и технического мастерства. Критики могут указывать на затраты и риски безопасности, в то время как консервативные круги видят в этом важный элемент национальной идентичности.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-04",
+      "id": "2538b30d6593"
+    },
+    {
+      "title_ru": "Канада вводит ответные тарифы на $27,6 млрд в торговой войне с США",
+      "title_en": "Canada's retaliatory tariffs worth $27.6 billion take effect as trade rift with U.S. deepens",
+      "date": "2026-09-08",
+      "summary": "Канада ввела ответные тарифы на американские товары стоимостью $27,6 млрд в ответ на торговые ограничения со стороны США. Торговый конфликт между двумя странами углубляется, президент США Дональд Трамп угрожает дальнейшей эскалацией. Бывший премьер-министр Канады Жан Кретьен дал резкую оценку ситуации, назвав её серьёзным вызовом для двусторонних отношений.",
+      "category": "finance",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "www.cnbc.com",
+        "feeds.bbci.co.uk",
+        "rss.nytimes.com",
+        "www.cbc.ca"
+      ],
+      "links": [
+        "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
+        "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+        "https://www.nytimes.com/2026/09/07/world/canada/tariffs-trade-war-carney-trump.html",
+        "https://www.cbc.ca/player/play/9.7335107?cmp=rss"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "31ee6460573a"
+    },
+    {
+      "title_ru": "Куба заявляет о рекордных потерях $8 млрд из-за американского эмбарго",
+      "title_en": "Cuba says US embargo cost 'record' $8B in damage as crisis deepens",
+      "date": "2026-09-07",
+      "summary": "Кубинские власти сообщили, что американское эмбарго нанесло стране рекордный ущерб в размере $8 млрд. Экономический кризис на острове углубляется, что создаёт дополнительные трудности для населения и правительства. Заявление было сделано на фоне продолжающегося многолетнего торгового эмбарго со стороны США.",
+      "category": "finance",
+      "area": "Южная Америка",
+      "sources": [
+        "www.dailysabah.com"
+      ],
+      "links": [
+        "https://www.dailysabah.com/business/economy/cuba-says-us-embargo-cost-record-8b-in-damage-as-crisis-deepens"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "ca6be6f41475"
+    },
+    {
+      "title_ru": "Leica завершила четырёхлетнюю серию рекордных доходов",
+      "title_en": "Leica's Impressive Four-Year Streak of Record-Setting Revenue Just Ended",
+      "date": "2026-09-08",
+      "summary": "Немецкий производитель фототехники Leica завершил четырёхлетнюю серию рекордных доходов. Компания, известная своими премиальными камерами и объективами, столкнулась с изменением рыночной ситуации. Это событие знаменует конец периода устойчивого роста для одного из самых уважаемых брендов в фотопромышленности.",
+      "category": "photo",
+      "area": "Европа",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/07/leicas-impressive-four-year-streak-of-record-setting-revenue-just-ended/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "0f590d43d217"
     }
   ],
   "_stats": {
-    "total_tokens": 1672965,
-    "total_cost": 245.65806799999996
+    "total_tokens": 1726482,
+    "total_cost": 249.13562799999997
   }
 }
