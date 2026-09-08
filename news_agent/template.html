@@ -194,6 +194,14 @@
   }
   .area-body { display: none; padding: 16px 16px 0; }
   .area-body.open { display: block; }
+  .area-close-row { text-align: center; padding: 10px 0 20px; }
+  .area-close {
+    background: transparent; color: var(--text-dim);
+    border: 1px solid var(--border); border-radius: 20px;
+    padding: 6px 22px; cursor: pointer; font-size: 12px;
+    transition: all 0.2s;
+  }
+  .area-close:hover { color: var(--accent); border-color: var(--accent); background: rgba(108,76,245,0.05); }
   .no-news {
     text-align: center; padding: 60px 20px;
     color: var(--text-dim);
