@@ -367,11 +367,7 @@ def summarize_news(clusters, api_key, history=None):
             for ev in events:
                 if isinstance(ev, dict) and not ev.get("area") and determine_area:
                     ev["area"] = determine_area
-            quota = QUOTA_MIR if area == "Мир" else (QUOTA_RU if area == "Россия" else QUOTA_AREA)
-            events2, add_tok, add_cost, _ = _quota_trim(events, quota, area, api_key)
-            all_events.extend(events2)
-            total_tokens += add_tok
-            total_cost += add_cost
+            all_events.extend(events)
         if usage:
             total_tokens += usage.get("tokens", 0)
             total_cost += usage.get("cost", 0)
@@ -397,6 +393,23 @@ def summarize_news(clusters, api_key, history=None):
         a = (ev.get("area") or "").strip()
         if a not in areas:
             ev["area"] = area_aliases.get(a, "Мир")
+
+    # Финальная ревизия по фактическим ареалам (после нормализации): если где-то
+    # превышена квота категории — модель сама отранжирует события по значимости.
+    final = []
+    by_final_area = {}
+    for ev in all_events:
+        by_final_area.setdefault(ev.get("area") or "Мир", []).append(ev)
+    for fin_area, evs in by_final_area.items():
+        if fin_area not in areas:
+            final.extend(evs)
+            continue
+        quota = QUOTA_RU if fin_area == "Россия" else (QUOTA_MIR if fin_area == "Мир" else QUOTA_AREA)
+        evs2, add_tok, add_cost, _ = _quota_trim(evs, quota, fin_area, api_key)
+        final.extend(evs2)
+        total_tokens += add_tok
+        total_cost += add_cost
+    all_events = final
 
     print(f"  Total AI: {len(all_events)} событий, {total_tokens} tokens, cost {total_cost:.4f}")
     return all_events, {"tokens": total_tokens, "cost": total_cost}
