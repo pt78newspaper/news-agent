@@ -3,6 +3,11 @@
 GPTUNNEL_API = "https://gptunnel.ru/v1/chat/completions"
 MODEL = "deepseek-v3.2"
 MAX_RETRIES = 3
+
+QUOTA_RU = {"politics": 3, "energy": 1, "ai": 1, "tech": 1, "finance": 1}
+QUOTA_AREA = {"politics": 2, "energy": 1, "tech": 1, "ai": 1}
+QUOTA_MIR = {"photo": 1, "culture": 1, "finance": 1, "ecology": 1}
+
 SYS_PROMPT = (
     "Ты — опытный аналитик, освещающий политику, технологии и науку. Беспристрастен."
 )
@@ -252,6 +257,49 @@ def _call_ai(payload, api_key):
     return None, None
 
 
+def _quota_stats(events, quota):
+    counts = {}
+    for ev in events:
+        cat = ev.get("category", "politics")
+        counts[cat] = counts.get(cat, 0) + 1
+    over = {}
+    for cat, n in counts.items():
+        if counts[cat] > quota.get(cat, 0):
+            over[cat] = counts[cat] - quota.get(cat, 0)
+    return counts, over
+
+
+def _quota_trim(events, quota, area, api_key):
+    """Если лимиты превышены — дать модели переранжировать и оставить самые значимые."""
+    counts, over = _quota_stats(events, quota)
+    if not over:
+        return events, 0, 0.0, None
+    lines = []
+    for i, ev in enumerate(events, 1):
+        lines.append(f"{i}. [{ev.get('category')}] {ev.get('title_ru', '')} | {ev.get('date', '')} | {'; '.join(ev.get('links', [])[:2])}")
+    allowed = " | ".join(f"{cat}={n}" for cat, n in quota.items())
+    prompt_lines = (
+        "Ниже черновик событий для ареала. Для каждой категории есть ЖЁСТКИЙ МАКСИМУМ, превышать нельзя.\n"
+        f"Допустимые категории и лимиты: {allowed}. Категории вне списка разрешать нельзя (или измени category события на допустимую, если это соответствует его содержанию).\n"
+        f"Текущее количество: {dict(counts)}. Превышены: {dict(over)}.\n"
+        "Задача: верни не более лимита по каждой категории. Где событий больше лимита — выбери САМЫЕ ЗНАЧИМЫЕ (затрагивающие больше всего людей, серьёзные события важнее заявлений и бытовых тем) и выбрось остальные. Незначительное повышение значимости не должно заменять более важные события других категорий — сохраняй баланс.\n"
+        "Верни команду report_news с итоговым списком событий (поля целиком, как в черновике, у оставленных событий сохрани ссылки и summary).\n"
+        "Черновик:\n" + "\n".join(lines)
+    )
+    payload = _build_payload(prompt_lines, _history_block(None), "")
+    events2, usage = _call_ai(payload, api_key)
+    if events2:
+        for ev in events2:
+            if not ev.get("area"):
+                ev["area"] = area
+            if ev.get("category") not in quota:
+                ev["category"] = "politics"
+        n2, over2 = _quota_stats(events2, quota)
+        print(f"  Ревизия ({area}): {len(events2)} событий -> {n2}, ещё превышено: {dict(over2) if over2 else 'нет'}")
+        return events2, usage.get("tokens", 0), usage.get("cost", 0.0), None
+    return events, 0, 0.0, None
+
+
 def summarize_news(clusters, api_key, history=None):
     areas = ["Россия", "Северная и Центральная Америка", "Южная Америка", "Европа",
              "Ближний Восток", "Дальний Восток", "Южная и Юго-Восточная Азия",
@@ -287,6 +335,7 @@ def summarize_news(clusters, api_key, history=None):
                 "   - 1 событие о фотографии (category='photo') — фотоиндустрия, фотографы, камеры, выставки;\n"
                 "   - 1 событие о культуре (category='culture') — искусство, музеи, кино, музыка, литература, фестивали;\n"
                 "   - 1 событие об экологии (category='ecology') — климат, загрязнение, отходы, природа.\n"
+                "   Итого не более 4 событий (по одной на указанную категорию). Другие категории (politics/tech/energy/ai) в этот ответ не включай.\n"
                 "   Если каких-то из этих категорий в новостях нет — пропусти их.\n"
             )
         elif area == "Россия":
@@ -297,6 +346,7 @@ def summarize_news(clusters, api_key, history=None):
                 "   - 1 технологическое событие на любую тему (category='tech'), НО без рекламных новостей о гаджетах;\n"
                 "   - 1 событие об искусственном интеллекте (category='ai'), если таковое есть;\n"
                 "   - 1 финансовое событие (category='finance') — финансы и экономика.\n"
+                "   Итого не более 7 событий.\n"
                 "   Если каких-то из этих категорий в новостях нет — пропусти их.\n"
             )
         else:
@@ -306,6 +356,7 @@ def summarize_news(clusters, api_key, history=None):
                 "   - 1 событие об энергетике (category='energy') — нефть, газ, электроэнергия, атомная энергетика, возобновляемые источники, энергетическая инфраструктура;\n"
                 "   - 1 технологическое событие на любую тему (category='tech'), НО без рекламных новостей о гаджетах;\n"
                 "   - 1 событие об искусственном интеллекте (category='ai'), если таковое есть.\n"
+                "   Итого не более 5 событий.\n"
                 "   Если каких-то из этих категорий в новостях нет — пропусти их.\n"
             )
         news_block = _build_news_block(cls, max_per=5)
@@ -316,7 +367,11 @@ def summarize_news(clusters, api_key, history=None):
             for ev in events:
                 if isinstance(ev, dict) and not ev.get("area") and determine_area:
                     ev["area"] = determine_area
-            all_events.extend(events)
+            quota = QUOTA_MIR if area == "Мир" else (QUOTA_RU if area == "Россия" else QUOTA_AREA)
+            events2, add_tok, add_cost, _ = _quota_trim(events, quota, area, api_key)
+            all_events.extend(events2)
+            total_tokens += add_tok
+            total_cost += add_cost
         if usage:
             total_tokens += usage.get("tokens", 0)
             total_cost += usage.get("cost", 0)
