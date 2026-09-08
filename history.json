@@ -8653,7 +8653,8 @@
       "perspective_type": "assumed",
       "is_development": false,
       "first_reported": "2026-09-08",
-      "id": "90c477fb78f7"
+      "id": "90c477fb78f7",
+      "last_reported": "2026-09-08"
     },
     {
       "title_ru": "Северная Корея и Россия завершили строительство дорожного моста через реку Туманган",
@@ -8672,7 +8673,8 @@
       "perspective_type": "",
       "is_development": false,
       "first_reported": "2026-09-08",
-      "id": "c6aae12a98c1"
+      "id": "c6aae12a98c1",
+      "last_reported": "2026-09-08"
     },
     {
       "title_ru": "Победа ультраправой партии АдГ в Германии создаёт давление на канцлера Мерца",
@@ -9779,10 +9781,416 @@
       "is_development": false,
       "first_reported": "2026-09-08",
       "id": "dc5a91ae0552"
+    },
+    {
+      "title_ru": "Росгвардия сообщила о гибели сотрудников при сходе лавины в Кабардино-Балкарии",
+      "title_en": "Russian National Guard reports death of employees in avalanche in Kabardino-Balkaria",
+      "date": "2026-09-08",
+      "summary": "Росгвардия сообщила о гибели своих сотрудников при сходе лавины в Кабардино-Балкарии. Часть погибших альпинистов являлись сотрудниками ведомства, при этом ранее появлялись противоречивые сообщения о гибели военных.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "rssexport.rbc.ru",
+        "ria.ru",
+        "tass.ru"
+      ],
+      "links": [
+        "https://www.rbc.ru/society/08/09/2026/6aa035223e8a6d64ab810b67",
+        "https://ria.ru/20260908/rosgvardija-2116425057.html",
+        "https://ria.ru/20260908/chp-2116424146.html",
+        "https://tass.ru/proisshestviya/28092385",
+        "https://ria.ru/20260908/kbr-2116422249.html"
+      ],
+      "perspective": "Трагическое событие, которое может вызвать вопросы о безопасности альпинистских мероприятий для сотрудников силовых структур. Власти подчеркивают оказание помощи семьям погибших.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "17d62a00106a"
+    },
+    {
+      "title_ru": "Минобороны России сообщило о ночных ударах по объектам на Украине",
+      "title_en": "Russian Defense Ministry reports night strikes on targets in Ukraine",
+      "date": "2026-09-08",
+      "summary": "Минобороны России сообщило о ночных ударах по объектам на Украине, включая Киевский радиозавод и склады ВСУ. Также ведомство заявило о сбитии 384 украинских беспилотников над российскими регионами.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8938762",
+        "https://www.kommersant.ru/doc/8938632",
+        "https://www.kommersant.ru/doc/8938623"
+      ],
+      "perspective": "Российская сторона представляет это как успешные операции против военной инфраструктуры Украины. Украинская сторона и западные страны, вероятно, осудят эти удары как эскалацию конфликта.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "0ea740dfd24a"
+    },
+    {
+      "title_ru": "Поиски альпинистов в Кабардино-Балкарии приостановлены из-за погоды",
+      "title_en": "Search for climbers in Kabardino-Balkaria suspended due to weather",
+      "date": "2026-09-08",
+      "summary": "Поисково-спасательные работы в горах Кабардино-Балкарии приостановлены из-за неблагоприятных погодных условий. К этому моменту спасатели уже эвакуировали тела 12 погибших альпинистов.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "rssexport.rbc.ru",
+        "ria.ru",
+        "tass.ru"
+      ],
+      "links": [
+        "https://www.rbc.ru/rbcfreenews/6a9d81a1711dd2d55ec8e18a",
+        "https://ria.ru/20260908/kbr-2116401386.html",
+        "https://ria.ru/20260908/alpinisty-2116399780.html",
+        "https://tass.ru/proisshestviya/28092223",
+        "https://tass.ru/proisshestviya/28092219"
+      ],
+      "perspective": "Органы власти и спасательные службы действуют в сложных условиях, что может вызвать критику со стороны родственников погибших. Общественность ожидает продолжения поисковых работ при улучшении погоды.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "664c8ee47eb6"
+    },
+    {
+      "title_ru": "Российского химика Артема Оганова избрали иностранным членом Академии наук Армении",
+      "title_en": "Russian chemist Artem Oganov elected foreign member of Armenian Academy of Sciences",
+      "date": "2026-09-08",
+      "summary": "Российского химика Артема Оганова избрали иностранным членом Национальной академии наук Армении. Это признание его научных достижений на международном уровне.",
+      "category": "ai",
+      "area": "Россия",
+      "sources": [
+        "naked-science.ru",
+        "tass.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/media/oganov-i-akadem-nauk-armenii",
+        "https://tass.ru/nauka/28092305"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "9ab1f46d182f"
+    },
+    {
+      "area": "Северная и Центральная Америка",
+      "category": "tech",
+      "date": "2026-09-07",
+      "is_development": false,
+      "links": [
+        "https://naked-science.ru/article/hi-tech/tesla-zapustila-kibertaksi"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "Naked Science"
+      ],
+      "summary": "Tesla запустила сервис «Кибертакси», который позволяет владельцам электромобилей компании сдавать их в аренду для поездок по городу. Запуск состоялся без традиционной презентации для прессы, что указывает на новый подход компании к внедрению услуг.",
+      "title_en": "Tesla launches 'CyberTaxi' without press invitation",
+      "title_ru": "Tesla запустила «Кибертакси» без приглашения прессы",
+      "first_reported": "2026-09-07",
+      "id": "a8457a215aad"
+    },
+    {
+      "area": "Северная и Центральная Америка",
+      "category": "politics",
+      "date": "2026-09-08",
+      "is_development": false,
+      "links": [
+        "https://www.dw.com/en/us-canada-tariff-dispute-weighs-on-cross-border-ties/a-78815803?maca=en-rss-en-all-1573-xml-mrss",
+        "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html"
+      ],
+      "perspective": "Канадские власти рассматривают это как необходимую меру защиты национальных интересов, в то время как США могут воспринимать это как эскалацию торгового конфликта. Оппозиционные силы в Канаде могут критиковать правительство за ухудшение отношений с ключевым торговым партнёром.",
+      "perspective_type": "assumed",
+      "sources": [
+        "DW",
+        "CNBC"
+      ],
+      "summary": "Канада ввела ответные тарифы на американские товары общей стоимостью 27,6 миллиарда долларов в рамках эскалации торгового спора с США. Эти меры стали ответом на ранее введённые США пошлины на канадские товары и могут серьёзно повлиять на двусторонние торговые отношения.",
+      "title_en": "Canada imposes retaliatory tariffs of $27.6 billion in trade dispute with US",
+      "title_ru": "Канада вводит ответные тарифы на $27,6 млрд в торговом споре с США",
+      "first_reported": "2026-09-08",
+      "id": "ef9680135763"
+    },
+    {
+      "area": "Северная и Центральная Америка",
+      "category": "politics",
+      "date": "2026-09-06",
+      "is_development": false,
+      "links": [
+        "https://www.washingtonpost.com/nation/2026/09/06/amazon-cargo-plane-crashes-after-veering-off-runway-miami-airport/",
+        "https://www.theglobeandmail.com/world/article-amazon-cargo-plane-crash-miami-airport/"
+      ],
+      "perspective": "Власти США и авиационные регуляторы рассматривают это как серьёзный инцидент, требующий тщательного расследования. Компания Amazon может столкнуться с критикой за безопасность своих логистических операций, в то время как профсоюзы и правозащитники могут требовать усиления контроля за условиями труда в авиаперевозках.",
+      "perspective_type": "assumed",
+      "sources": [
+        "Washington Post",
+        "The Globe and Mail"
+      ],
+      "summary": "Грузовой самолёт компании Amazon разбился в аэропорту Майами после того, как сошёл с взлётно-посадочной полосы. В результате катастрофы погибли пять человек, что стало одним из самых серьёзных инцидентов в истории логистических операций компании.",
+      "title_en": "Amazon cargo plane crashes at Miami airport, killing five",
+      "title_ru": "Грузовой самолёт Amazon разбился в аэропорту Майами, погибли пять человек",
+      "first_reported": "2026-09-06",
+      "id": "c8767fd8ec7c"
+    },
+    {
+      "title_ru": "Победа ультраправой партии AfD на выборах в Германии",
+      "title_en": "Ultra-right AfD party wins elections in Germany",
+      "date": "2026-09-08",
+      "summary": "Ультраправая партия \"Альтернатива для Германии\" (AfD) одержала победу на парламентских выборах в Германии. Это событие может привести к значительным изменениям в политическом курсе страны и повлиять на европейскую политику в целом.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "Taipei Times",
+        "New York Times"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/front/archives/2026/09/08/2003863866",
+        "https://www.nytimes.com/2026/09/07/world/germany-election-afd-indonesia-microplastics.html"
+      ],
+      "perspective": "Левые и центристские силы могут оценивать это как угрозу демократии и стабильности в Европе, в то время как правые националистические движения могут видеть в этом признак роста консервативных настроений в обществе.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "e8b332f9d2a0"
+    },
+    {
+      "title_ru": "Венгрия высылает 10 российских дипломатов",
+      "title_en": "Hungary expels 10 Russian diplomats",
+      "date": "2026-09-08",
+      "summary": "Венгрия приняла решение выслать 10 российских дипломатов со своей территории. Этот шаг может свидетельствовать об ухудшении отношений между двумя странами и является частью более широкого дипломатического конфликта.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "New York Times",
+        "TASS"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/09/08/world/europe/hungary-russia-diplomats-expulsion.html",
+        "https://tass.com/politics/2184329"
+      ],
+      "perspective": "Западные страны могут рассматривать это как шаг в сторону сближения Венгрии с европейской политикой, в то время как Россия может воспринимать это как недружественный акт, ухудшающий двусторонние отношения.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "d3f4667a3485"
+    },
+    {
+      "title_ru": "Учёные предполагают, что тёмная энергия и материя могут иметь своё измерение",
+      "title_en": "Scientists suggest dark energy and matter may have their own dimension",
+      "date": "2026-09-07",
+      "summary": "Учёные выдвинули гипотезу, что тёмная энергия и тёмная материя, составляющие большую часть Вселенной, могут существовать в отдельном измерении. Это объясняет, почему эти компоненты не взаимодействуют с обычной материей так же, как гравитация. Новое исследование предлагает альтернативное объяснение природы этих загадочных космических явлений.",
+      "category": "politics",
+      "area": "Мир",
+      "sources": [
+        "Wired"
+      ],
+      "links": [
+        "https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "527522d028e8"
+    },
+    {
+      "title_ru": "Компания-производитель роботов-пылесосов запускает экшн-камеру 8K",
+      "title_en": "Robot vacuum company launches 8K action camera",
+      "date": "2026-09-08",
+      "summary": "Компания, известная производством роботов-пылесосов, выходит на рынок экшн-камер с новой моделью, поддерживающей съёмку в разрешении 8K. Устройство позиционируется как конкурент существующим решениям на рынке спортивных камер. Запуск представляет собой диверсификацию бизнеса производителя в смежную область потребительской электроники.",
+      "category": "photo",
+      "area": "Мир",
+      "sources": [
+        "Petapixel"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/08/a-robot-vacuum-company-is-launching-an-8k-action-camera/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "5cebc4468d17"
+    },
+    {
+      "title_ru": "Великобритания и 12 стран вводят санкции против израильских поселений на Западном берегу",
+      "title_en": "UK and 12 countries impose sanctions against Israeli settlements in West Bank",
+      "date": "2026-09-08",
+      "summary": "Великобритания и 12 других стран, включая Францию, объявили о введении санкций против торговли из израильских поселений на Западном берегу. Это решение направлено на ограничение экономической деятельности в поселениях, которые международное сообщество считает незаконными.",
+      "category": "politics",
+      "area": "Ближний Восток",
+      "sources": [
+        "Le Monde",
+        "New York Times"
+      ],
+      "links": [
+        "https://www.lemonde.fr/en/international/article/2026/09/08/12-countries-including-france-uk-say-to-sanction-trade-from-israeli-settlements_6757291_4.html",
+        "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html"
+      ],
+      "perspective": "Западные страны рассматривают это как меру давления на Израиль для прекращения расширения поселений, в то время как Израиль может воспринимать это как вмешательство во внутренние дела и односторонние действия против его суверенитета.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "334b20db25ac"
+    },
+    {
+      "title_ru": "Иран объявляет новую ограниченную зону за пределами Ормузского пролива",
+      "title_en": "Iran declares new restricted zone outside Strait of Hormuz",
+      "date": "2026-09-08",
+      "summary": "Иран объявил о создании новой ограниченной зоны для судоходства за пределами Ормузского пролива. Это решение принято высшим руководством страны по соображениям безопасности и может повлиять на международное судоходство в стратегически важном регионе.",
+      "category": "energy",
+      "area": "Ближний Восток",
+      "sources": [
+        "Press TV"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/06/775804/Iran-to-declare-new-restricted-zone-outside-Strait-of-Hormuz--Top-security-official-"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "22a4b88ca30e"
+    },
+    {
+      "title_ru": "Катарский чиновник: война в Газе стала 'ядром' для иранских атак в Персидском заливе",
+      "title_en": "Qatari official: Gaza war has become 'core' for Iranian attacks in Persian Gulf",
+      "date": "2026-09-08",
+      "summary": "Высокопоставленный катарский чиновник заявил, что война в секторе Газа превратилась в 'ядро' для иранских атак в регионе Персидского залива. Это заявление отражает опасения арабских государств по поводу эскалации регионального конфликта.",
+      "category": "politics",
+      "area": "Ближний Восток",
+      "sources": [
+        "The Jerusalem Post"
+      ],
+      "links": [
+        "https://www.jpost.com/middle-east/article-907980"
+      ],
+      "perspective": "Арабские государства могут рассматривать это как предупреждение об опасности расширения конфликта, в то время как Иран может отрицать такие обвинения и считать их частью антииранской пропаганды.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "f8ce42190508"
+    },
+    {
+      "title_ru": "17-летний студент из Дубая создал бесплатный сервис карпулинга после наблюдения за долгими поездками брата в школу",
+      "title_en": "17-year-old Dubai student creates free carpool service after watching brother's long school commute",
+      "date": "2026-09-08",
+      "summary": "17-летний студент из Дубая Анивт Яламанчили разработал бесплатный сервис карпулинга после того, как заметил, что поездки его брата в школу увеличились до 45 минут. Сервис уже привлек более 1000 регистраций и решает проблему транспортной загруженности в городе.",
+      "category": "tech",
+      "area": "Ближний Восток",
+      "sources": [
+        "Times of India"
+      ],
+      "links": [
+        "https://timesofindia.indiatimes.com/world/middle-east/meet-anvith-yalamanchili-the-17-year-old-dubai-student-who-watched-his-brothers-school-commute-triple-to-45-minutes-and-built-a-free-carpool-service-that-drew-1000-sign-ups/articleshow/133931767.cms"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "6ffc9f6c4b35"
+    },
+    {
+      "title_ru": "Полиция Южной Кореи ужесточила правила расследования дел с участием родственников сотрудников",
+      "title_en": "Police strengthen rules on cases involving officer family members",
+      "date": "2026-09-08",
+      "summary": "Полиция Южной Кореи ввела новые, более строгие правила для расследования дел, в которых участвуют члены семей полицейских. Это решение направлено на повышение прозрачности и предотвращение конфликтов интересов в правоохранительных органах.",
+      "category": "politics",
+      "area": "Дальний Восток",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260908006700315"
+      ],
+      "perspective": "Реформа может быть воспринята как позитивный шаг к укреплению доверия к полиции и борьбе с коррупцией. Однако консервативные круги могут выражать опасения по поводу излишнего бюрократизма и сложности новых процедур.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "7f9d5d00e0ed"
+    },
+    {
+      "title_ru": "В ЮАР представили истории четырёх людей, получивших прививку для профилактики ВИЧ",
+      "title_en": "Meet four people who got the HIV prevention jab",
+      "date": "2026-09-08",
+      "summary": "В Южно-Африканской Республике представлены истории четырёх человек, которые получили профилактическую прививку от ВИЧ. Эти персональные истории демонстрируют опыт людей, использующих новейшие методы профилактики ВИЧ-инфекции в регионе с высоким уровнем заболеваемости.",
+      "category": "tech",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/health/2026-09-08-meet-four-people-who-got-the-hiv-prevention-jab/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "9b3fef824eac"
+    },
+    {
+      "area": "Африка",
+      "category": "politics",
+      "date": "2026-09-03",
+      "is_development": false,
+      "links": [
+        "https://mg.co.za/politics/2026-09-03-battle-for-joburg-heats-up/"
+      ],
+      "perspective": "Правящая партия АНК представит это как демократический процесс, в то время как оппозиционные партии могут обвинять власти в манипуляциях и недостаточной прозрачности выборов. Местные жители Йоханнесбурга могут выражать разочарование политическими играми на фоне социально-экономических проблем.",
+      "perspective_type": "assumed",
+      "sources": [
+        "mg.co.za"
+      ],
+      "summary": "В ЮАР накаляется политическая борьба за контроль над Йоханнесбургом. Различные политические силы активизировали кампании в преддверии важных выборов, которые определят будущее крупнейшего города страны.",
+      "title_en": "Battle for Joburg heats up",
+      "title_ru": "В ЮАР накаляется борьба за контроль над Йоханнесбургом",
+      "first_reported": "2026-09-03",
+      "id": "277b9c353e7f"
+    },
+    {
+      "area": "Океания и Австралия",
+      "category": "politics",
+      "date": "2026-09-08",
+      "is_development": false,
+      "links": [
+        "https://www.smh.com.au/national/victoria/manhunt-ends-after-police-arrest-man-suspected-of-triple-axe-attack-20260908-p60vlm.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "perspective": "Власти Австралии представят это как успешную операцию по обеспечению общественной безопасности, в то время как оппозиция может критиковать систему правопорядка за недостаточную эффективность профилактики насилия.",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "summary": "В Австралии завершилась масштабная операция по поиску мужчины, подозреваемого в тройном нападении с топором. Полиция задержала подозреваемого после интенсивного розыска, что положило конец опасениям местных жителей о безопасности.",
+      "title_en": "Manhunt ends after police arrest man suspected of triple axe attack",
+      "title_ru": "В Австралии завершилась операция по задержанию подозреваемого в тройном нападении с топором",
+      "first_reported": "2026-09-08",
+      "id": "e31df1efea9b"
+    },
+    {
+      "area": "Океания и Австралия",
+      "category": "politics",
+      "date": "2026-09-08",
+      "is_development": false,
+      "links": [
+        "https://www.smh.com.au/politics/federal/super-sized-political-battle-chalmers-issues-warning-on-existential-threat-20260908-p60vjy.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "perspective": "Правительство Австралии и министр финансов Джим Чалмерс представят это как необходимую меру для защиты экономики страны. Оппозиция и бизнес-сообщество могут критиковать предложения как излишне регулирующие и угрожающие инвестиционной привлекательности.",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "summary": "Министр финансов Австралии Джим Чалмерс предупредил о 'экзистенциальной угрозе' в связи с политической битвой вокруг суперфондов. Он заявил, что текущие дебаты представляют серьёзную опасность для экономической стабильности страны.",
+      "title_en": "Super-sized political battle: Chalmers issues warning on 'existential threat'",
+      "title_ru": "Министр финансов Австралии предупреждает об 'экзистенциальной угрозе' в политической битве вокруг суперфондов",
+      "first_reported": "2026-09-08",
+      "id": "c174a3ee2eef"
     }
   ],
   "_stats": {
-    "total_tokens": 2090062,
-    "total_cost": 272.35454799999997
+    "total_tokens": 2174400,
+    "total_cost": 277.75390799999997
   }
 }
