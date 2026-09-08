@@ -3837,7 +3837,8 @@
       "perspective_type": "",
       "is_development": false,
       "first_reported": "2026-09-07",
-      "id": "853b4213af69"
+      "id": "853b4213af69",
+      "last_reported": "2026-09-07"
     },
     {
       "title_ru": "Запуск Tesla Cybercab и начало расследования",
@@ -6210,7 +6211,8 @@
       "perspective_type": "",
       "is_development": false,
       "first_reported": "2026-09-08",
-      "id": "31ee6460573a"
+      "id": "31ee6460573a",
+      "last_reported": "2026-09-08"
     },
     {
       "title_ru": "Куба заявляет о рекордных потерях $8 млрд из-за американского эмбарго",
@@ -6810,7 +6812,8 @@
       "perspective": "Власти Франции рассматривают это как серьезное преступление против культурного наследия, в то время как общественность выражает обеспокоенность безопасностью музеев.",
       "perspective_type": "assumed",
       "first_reported": "2026-09-08",
-      "id": "43bb14347951"
+      "id": "43bb14347951",
+      "last_reported": "2026-09-08"
     },
     {
       "title_ru": "Извержение вулкана Анак-Кракатау в Индонезии привело к остановке полетов, школ и рыболовства",
@@ -6901,7 +6904,8 @@
       "title_en": "Empowering South Africa's youth: Why voting is a money-smart economic act",
       "title_ru": "Расширение прав и возможностей молодёжи ЮАР: Почему голосование — это экономически выгодное действие",
       "first_reported": "2026-09-07",
-      "id": "288b301b2213"
+      "id": "288b301b2213",
+      "last_reported": "2026-09-07"
     },
     {
       "area": "Африка",
@@ -6939,7 +6943,8 @@
       "title_en": "Jub Jub's arrest warrant struck off the roll after he appears in court",
       "title_ru": "Ордер на арест Jub Jub снят после его явки в суд",
       "first_reported": "2026-09-07",
-      "id": "f91c58f4ce03"
+      "id": "f91c58f4ce03",
+      "last_reported": "2026-09-07"
     },
     {
       "area": "Дальний Восток",
@@ -6958,7 +6963,8 @@
       "title_en": "Police seek arrest warrant for ex-ruling party lawmaker over corruption allegations",
       "title_ru": "Полиция запросила ордер на арест бывшего депутата правящей партии по обвинению в коррупции",
       "first_reported": "2026-09-07",
-      "id": "eb339027fb7f"
+      "id": "eb339027fb7f",
+      "last_reported": "2026-09-07"
     },
     {
       "title_ru": "Fujifilm представила специальный видоискатель для камеры GFX Eterna 55",
@@ -6978,10 +6984,550 @@
       "is_development": false,
       "first_reported": "2026-09-08",
       "id": "c3dc81f62ae8"
+    },
+    {
+      "title_ru": "Конфликт на Украине мог закончиться уже давно, заявил Песков",
+      "title_en": "Kremlin spokesman says Ukraine conflict could have ended long ago",
+      "date": "2026-09-08",
+      "summary": "Пресс-секретарь президента России Дмитрий Песков заявил, что конфликт на Украине мог завершиться уже давно. Он также отметил, что США отрезали Россию от доллара, а Россия выступает против любой агрессии на Ближнем Востоке.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260908/peskov-2116272536.html"
+      ],
+      "perspective": "Российские власти представляют конфликт как результат действий Запада, в то время как Украина и её союзники обвиняют Россию в агрессии. Заявление о возможности давнего завершения конфликта может рассматриваться как попытка переложить ответственность на другую сторону.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "544798c32514"
+    },
+    {
+      "title_ru": "В Белгородской области при атаках дронов ВСУ пострадали четыре мирных жителя",
+      "title_en": "Four civilians injured in UAV attacks by Ukrainian forces in Belgorod region",
+      "date": "2026-09-08",
+      "summary": "В Белгородской области России в результате атак беспилотников Вооруженных сил Украины пострадали четыре мирных жителя. Российские власти сообщают о жертвах среди гражданского населения в приграничных регионах.",
+      "category": "politics",
+      "area": "Россия",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/28090639"
+      ],
+      "perspective": "Российские власти используют такие инциденты для обвинения Украины в нанесении ударов по гражданским объектам. Украина и её союзники могут утверждать, что это ответные действия на российские удары по украинским городам или что информация преувеличена.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "9eb285091eb3"
+    },
+    {
+      "title_ru": "Песков рассказал о значимости зерновой биржи БРИКС",
+      "title_en": "Peskov speaks about importance of BRICS grain exchange",
+      "date": "2026-09-08",
+      "summary": "Пресс-секретарь президента России Дмитрий Песков заявил о значимости зерновой биржи БРИКС. Он также отметил, что 90% расчетов России со странами БРИКС производится в национальных валютах, и подчеркнул, что БРИКС не выступает против кого-либо.",
+      "category": "politics",
+      "area": "Мир",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260908/birzha-2116272908.html"
+      ],
+      "perspective": "Россия позиционирует БРИКС как альтернативу западным экономическим структурам, что поддерживается другими странами-участницами. Западные страны могут рассматривать это как попытку создания параллельной системы для обхода санкций и ослабления доллара.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "f3a6fd181f7d"
+    },
+    {
+      "title_ru": "Tesla запустила «Кибертакси», не приглашая прессу: наблюдатели сомневаются в его успехе",
+      "title_en": "Tesla launches 'Cybertaxi' without inviting press: observers doubt its success",
+      "date": "2026-09-07",
+      "summary": "Компания Tesla запустила сервис «Кибертакси» без приглашения прессы на презентацию. Наблюдатели выражают сомнения в успехе этого проекта, учитывая предыдущие проблемы компании с автономным вождением.",
+      "category": "tech",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/hi-tech/tesla-zapustila-kibertaksi"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "13856f06abf9"
+    },
+    {
+      "title_ru": "В России разработали технологию получения особо чистого германия для детекторов гамма-излучения",
+      "title_en": "Russia develops technology for producing ultra-pure germanium for gamma-ray detectors",
+      "date": "2026-09-08",
+      "summary": "Российские ученые разработали технологию получения особо чистого германия для использования в детекторах гамма-излучения. Это достижение в области материаловедения и ядерной физики.",
+      "category": "tech",
+      "area": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/column/osobo-chist-germaniy"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "b0222586d5a0"
+    },
+    {
+      "title_ru": "Тысячи сербов собрались на похороны Ратко Младича, осуждённого за геноцид",
+      "title_en": "Thousands of Serbs gather for funeral of Ratko Mladic, convicted of genocide",
+      "date": "2026-09-07",
+      "summary": "Тысячи сербов собрались в Белграде на похороны Ратко Младича, бывшего военного командира, осуждённого за геноцид в Сребренице. Событие раскололо общество: одни считают Младича героем, другие — военным преступником.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "The New York Times"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/09/07/world/europe/ratko-mladic-funeral-serbia.html"
+      ],
+      "perspective": "Сербские националисты и консервативные силы считают Младича национальным героем, в то время как либеральные круги и международное сообщество осуждают его как военного преступника. Страны Запада видят в этом событии признаки неполного примирения с прошлым.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "32088f599b9e"
+    },
+    {
+      "title_ru": "НЛМК-Калуга запустил новую линию по производству гнутых профилей",
+      "title_en": "NLMK-Kaluga launched new bent profile production line",
+      "date": "2026-09-08",
+      "summary": "НЛМК-Калуга запустил новую линию по производству гнутых профилей мощностью 120 тысяч тонн в год. Это позволит расширить ассортимент продукции и удовлетворить растущий спрос на рынке строительных материалов.",
+      "category": "tech",
+      "area": "Россия",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/royal-air-mayotte-comoros-flights-2026/"
+      ],
+      "first_reported": "2026-09-08",
+      "id": "88e88e0b6871",
+      "last_reported": "2026-09-08"
+    },
+    {
+      "title_ru": "Россия возобновляет удары по Киеву после трехдневного перерыва",
+      "title_en": "Russia resumes strikes on Kyiv after three-day halt",
+      "date": "2026-09-08",
+      "summary": "Россия возобновила ракетные удары по Киеву после трехдневного перерыва в боевых действиях. В результате атак погибли как минимум два человека. Переговоры о возможном перемирии на зиму продолжаются, но боевые действия не прекращаются.",
+      "category": "politics",
+      "area": "Европа",
+      "sources": [
+        "France24",
+        "Le Monde",
+        "DW"
+      ],
+      "links": [
+        "https://www.france24.com/fr/europe/20260908-en-direct-ukraine-russie-reprend-frappes-kiev-apres-trois-jours-treve",
+        "https://www.lemonde.fr/en/international/article/2026/09/08/russia-pummels-kyiv-after-three-day-halt_6757273_4.html",
+        "https://www.dw.com/en/ukraine-updates-two-killed-in-kyiv-as-3-day-truce-ends/live-79153168?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "perspective": "Украина и западные союзники рассматривают это как продолжение агрессии России. Россия может представлять удары как ответ на военные действия Украины. Некоторые политические силы могут видеть в этом препятствие для мирных переговоров.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "14939f17e322"
+    },
+    {
+      "title_ru": "Хуситы совершили масштабную атаку на Саудовскую Аравию",
+      "title_en": "Houthis claim large-scale attack on Saudi Arabia",
+      "date": "2026-09-08",
+      "summary": "Йеменские повстанцы-хуситы заявили о проведении масштабной атаки с использованием дронов против Саудовской Аравии. Одновременно сообщается о гибели как минимум двух человек в результате ракетной атаки хуситов на лагерь беженцев.",
+      "category": "politics",
+      "area": "Ближний Восток",
+      "sources": [
+        "France24",
+        "TASS"
+      ],
+      "links": [
+        "https://www.france24.com/fr/moyen-orient/20260908-y%C3%A9men-houthis-revendiquent-attaque-arabie-saoudite-drones",
+        "https://tass.com/world/2183845"
+      ],
+      "perspective": "Саудовская Аравия и ее союзники рассматривают это как террористическую атаку. Хуситы и их сторонники представляют это как законный ответ на саудовскую интервенцию в Йемене. Нейтральные наблюдатели могут видеть в этом эскалацию регионального конфликта.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "a1c7b14d6f93"
+    },
+    {
+      "title_ru": "Судья объявил неправильный суд в деле Линдси Клэнси",
+      "title_en": "Judge declares mistrial in Lindsay Clancy case",
+      "date": "2026-09-04",
+      "summary": "Судья объявил неправильный суд в деле Линдси Клэнси, обвиняемой в убийстве своих детей, после того как жюри присяжных не смогло прийти к единому вердикту. Защите дали один час на подачу апелляции. Этот случай вызвал раскол в американском обществе.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "BBC",
+        "The Globe and Mail"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/sounds/play/p0p8g14s?at_medium=RSS&at_campaign=rss",
+        "https://www.theglobeandmail.com/world/video-judge-says-he-must-declare-mistrial-in-lindsay-clancy-trial-gives/"
+      ],
+      "perspective": "Сторонники обвинения могут считать это несправедливостью для жертв. Защита и сторонники Клэнси могут видеть в этом возможность для нового суда. Общественные активисты могут обсуждать вопросы психического здоровья и систему правосудия.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-04",
+      "id": "0496373ae054"
+    },
+    {
+      "title_ru": "Иран принял рубль в торговле с Россией, Беларусью и Арменией",
+      "title_en": "Ruble accepted in Iran's trade with Russia, Belarus, Armenia",
+      "date": "2026-09-08",
+      "summary": "Иран объявил о принятии российского рубля в торговых операциях с Россией, Беларусью и Арменией. Это решение направлено на укрепление экономических связей и снижение зависимости от доллара в региональной торговле.",
+      "category": "politics",
+      "area": "Ближний Восток",
+      "sources": [
+        "en.mehrnews.com"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/247551/Ruble-accepted-in-Iran-s-trade-with-Russia-Belarus-Armenia"
+      ],
+      "perspective": "Россия и её союзники приветствуют это решение как шаг к дедолларизации и укреплению экономического суверенитета. Западные страны могут рассматривать это как попытку обойти санкции и усилить антизападный экономический блок.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "9881ea769799"
+    },
+    {
+      "title_ru": "Йемен предупредил Саудовскую Аравию о законности своих энергетических объектов",
+      "title_en": "Yemen warns S Arabia all energy facilities legitimate rights",
+      "date": "2026-09-08",
+      "summary": "Йемен предупредил Саудовскую Аравию, что все его энергетические объекты являются законными правами страны. Это заявление прозвучало на фоне продолжающегося конфликта в регионе и угроз в отношении энергетической инфраструктуры.",
+      "category": "politics",
+      "area": "Ближний Восток",
+      "sources": [
+        "en.mehrnews.com"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/247548/Yemen-warns-S-Arabia-all-energy-facilities-legitimate-rights"
+      ],
+      "perspective": "Йеменские власти и их союзники (Иран) рассматривают это как защиту суверенных прав. Саудовская Аравия и её западные партнёры могут считать такие заявления угрожающими региональной энергетической безопасности.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "63a3d67e1e8b"
+    },
+    {
+      "title_ru": "Канада ввела ответные пошлины на американские товары на $20 млрд",
+      "title_en": "Canada's retaliatory tariffs take effects on $20bn of US goods",
+      "date": "2026-09-08",
+      "summary": "Канада ввела ответные тарифы на американские товары стоимостью $20 млрд. Эти меры являются ответом на действия США и могут серьёзно повлиять на торговые отношения между двумя странами.",
+      "category": "politics",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "en.mehrnews.com"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/247547/Canada-s-retaliatory-tariffs-take-effects-on-20bn-of-US-good"
+      ],
+      "perspective": "Канадское правительство представляет это как необходимую защиту национальных экономических интересов. США могут рассматривать такие меры как эскалацию торгового конфликта, в то время как сторонники протекционизма в обеих странах могут поддерживать жёсткую позицию.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "8790e547b1e2"
+    },
+    {
+      "title_ru": "Иран сохранил экспорт нефти во время войны несмотря на 550 ударов по Харгу",
+      "title_en": "Iran kept oil exports flowing during war despite 550 strikes on Kharg: Minister",
+      "date": "2026-09-08",
+      "summary": "Министр Ирана заявил, что страна сохранила экспорт нефти во время войны, несмотря на 550 ударов по нефтяному терминалу Харг. Это свидетельствует о способности Ирана поддерживать критически важную энергетическую инфраструктуру в условиях конфликта.",
+      "category": "energy",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/07/775818/Iran-kept-oil-exports-flowing-during-war-despite-550-strikes-on-Kharg--Minister"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "2a934a88ab19"
+    },
+    {
+      "title_ru": "США не примут 'прагматичное' руководство Ирана без реальных изменений",
+      "title_en": "US won't accept 'pragmatic' Iran leadership without real change, Huckabee tells 'Post' - interview",
+      "date": "2026-09-08",
+      "summary": "Бывший губернатор Арканзаса Майк Хакаби заявил в интервью Jerusalem Post, что США не примут 'прагматичное' руководство Ирана без реальных изменений в его политике. Это отражает жёсткую позицию американских политиков в отношении Тегерана.",
+      "category": "tech",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/middle-east/iran-news/article-901095"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "0be44736e8ca"
+    },
+    {
+      "title_ru": "Йеменские силы сбили саудовский дрон над Таизом",
+      "title_en": "Yemeni forces shoot down 'hostile' Saudi drone over Ta'izz",
+      "date": "2026-09-08",
+      "summary": "Йеменские вооружённые силы заявили о сбитии 'враждебного' саудовского беспилотника над провинцией Таиз. Это событие произошло на фоне эскалации конфликта в Йемене и использования беспилотных технологий сторонами противостояния.",
+      "category": "ai",
+      "area": "Ближний Восток",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/06/775795/Yemen-armed-forces-shoot-down-Saudi-drone-Ta-izz-Saudi-backed-mercenaries-fighting"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "6351236ee35f"
+    },
+    {
+      "title_ru": "Запорожская АЭС планирует восстановить вторую линию электропередачи для повышения безопасности",
+      "title_en": "Zaporozhye NPP wants to restore its second power line to enhance its nuclear safety",
+      "date": "2026-09-07",
+      "summary": "Запорожская атомная электростанция планирует восстановить вторую линию электропередачи для повышения ядерной безопасности. Это позволит улучшить энергоснабжение и стабильность работы АЭС.",
+      "category": "energy",
+      "area": "Европа",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/economy/2183819"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-07",
+      "id": "e9b19ec98ecd"
+    },
+    {
+      "title_ru": "Тайваньская газета призывает не перезапускать атомные электростанции",
+      "title_en": "Do not restart nuclear power plants",
+      "date": "2026-09-08",
+      "summary": "Тайваньская газета Taipei Times в редакционной статье призывает не перезапускать атомные электростанции. Издание аргументирует это соображениями безопасности и необходимостью перехода на возобновляемые источники энергии.",
+      "category": "energy",
+      "area": "Дальний Восток",
+      "sources": [
+        "www.taipeitimes.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/editorials/archives/2026/09/08/2003863856"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "a743bb408097"
+    },
+    {
+      "title_ru": "ЕС обсуждает запрет социальных сетей для детей до 15 лет при поддержке Макрона",
+      "title_en": "EU debate takes shape as Macron backs under-15 social media ban",
+      "date": "2026-09-08",
+      "summary": "В Европейском союзе формируется дискуссия о запрете социальных сетей для детей младше 15 лет. Президент Франции Эмманюэль Макрон поддержал эту инициативу, что придало новый импульс обсуждению регулирования цифрового пространства для несовершеннолетних.",
+      "category": "tech",
+      "area": "Европа",
+      "sources": [
+        "timesofindia.indiatimes.com"
+      ],
+      "links": [
+        "https://timesofindia.indiatimes.com/world/europe/eu-debate-takes-shape-as-macron-backs-under-15-social-media-ban/articleshow/133910676.cms"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "a7f107eeec6d"
+    },
+    {
+      "title_ru": "Министерство МСП Индонезии выделяет 350,2 млрд рупий на восстановление после стихийного бедствия в Ачехе",
+      "title_en": "MSME Ministry earmarks Rp350.2 billion for Aceh disaster recovery",
+      "date": "2026-09-08",
+      "summary": "Министерство малого и среднего предпринимательства Индонезии выделило 350,2 млрд индонезийских рупий на восстановление после стихийного бедствия в провинции Ачех. Средства предназначены для поддержки пострадавших предприятий и восстановления экономической активности в регионе.",
+      "category": "politics",
+      "area": "Южная и Юго-Восточная Азия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/430419/msme-ministry-earmarks-rp3502-billion-for-aceh-disaster-recovery"
+      ],
+      "perspective": "Правительство демонстрирует заботу о восстановлении регионов после стихийных бедствий, что может повысить его поддержку среди населения. Оппозиция может критиковать эффективность распределения средств и прозрачность процесса.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "cbf24add013b"
+    },
+    {
+      "title_ru": "Министерство окружающей среды Индонезии готовит дорожную карту по отходам и обновляет правила для производителей",
+      "title_en": "Environment Ministry prepares waste roadmap, updates producer rules",
+      "date": "2026-09-08",
+      "summary": "Министерство окружающей среды и лесного хозяйства Индонезии разрабатывает национальную дорожную карту по управлению отходами и обновляет правила для производителей. Эти меры направлены на усиление ответственности производителей за утилизацию отходов и улучшение системы переработки в стране.",
+      "category": "politics",
+      "area": "Южная и Юго-Восточная Азия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/430413/environment-ministry-prepares-waste-roadmap-updates-producer-rules"
+      ],
+      "perspective": "Экологические инициативы могут получить поддержку от зелёных партий и экологических активистов. Промышленные лоббисты могут выступать против ужесточения правил, ссылаясь на увеличение затрат для бизнеса.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "8a4f509ccee8"
+    },
+    {
+      "title_ru": "Авиакомпаниям Индонезии предписано проверять самолеты после извержения вулкана Анак-Кракатау",
+      "title_en": "Airlines told to inspect aircraft after Anak Krakatau's eruption",
+      "date": "2026-09-08",
+      "summary": "Власти Индонезии обязали авиакомпании проводить дополнительные проверки самолетов после извержения вулкана Анак-Кракатау. Это связано с риском повреждения авиационной техники вулканическим пеплом, который может представлять угрозу безопасности полетов.",
+      "category": "politics",
+      "area": "Южная и Юго-Восточная Азия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/430411/airlines-told-to-inspect-aircraft-after-anak-krakataus-eruption"
+      ],
+      "perspective": "Меры безопасности могут быть восприняты как ответственное управление кризисной ситуацией. Авиакомпании могут выражать обеспокоенность дополнительными затратами и задержками рейсов.",
+      "perspective_type": "assumed",
+      "is_development": true,
+      "first_reported": "2026-09-08",
+      "id": "15542a611c48"
+    },
+    {
+      "title_ru": "Nuix расширяет возможности генеративного ИИ для юридического анализа и представляет AI Chat для данных по делам",
+      "title_en": "Nuix Expands Generative AI for Legal Review, Debuts AI Chat for Case Data",
+      "date": "2026-09-08",
+      "summary": "Компания Nuix расширила возможности генеративного искусственного интеллекта для анализа юридических документов и представила чат-бот с ИИ для работы с данными судебных дел. Новые инструменты предназначены для ускорения обработки юридической документации и повышения эффективности работы юристов.",
+      "category": "ai",
+      "area": "Южная и Юго-Восточная Азия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/430349/nuix-expands-generative-ai-for-legal-review-debuts-ai-chat-for-case-data"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "fe9af7c78f1f"
+    },
+    {
+      "title_ru": "Премьер Австралии отвечает на критику олимпийской гребли",
+      "title_en": "Premier hits back at Olympic rowing criticism",
+      "date": "2026-09-08",
+      "summary": "Премьер Австралии ответил на критику, связанную с подготовкой к Олимпийским играм в области гребли. Он защитил подход правительства к поддержке спорта и подготовки спортсменов к международным соревнованиям.",
+      "category": "politics",
+      "area": "Океания и Австралия",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/national/premier-hits-back-at-olympic-rowing-criticism-20260908-p60vl6.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "perspective": "Правящая партия защищает свою спортивную политику как адекватную и эффективную. Оппозиция и спортивные критики могут обвинять правительство в недостаточном финансировании или плохой организации подготовки. Спортивные организации разделятся в оценках в зависимости от получаемой поддержки.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "8abbe160310e"
+    },
+    {
+      "title_ru": "Грузовой самолет Amazon разбился в аэропорту Майами, погибли пять человек",
+      "title_en": "Amazon cargo plane crashes at Miami airport, killing five people",
+      "date": "2026-09-06",
+      "summary": "Грузовой самолет компании Amazon потерпел крушение в аэропорту Майами, выкатившись за пределы взлетно-посадочной полосы. В результате авиакатастрофы погибли пять человек, еще пять были доставлены в больницу с травмами.",
+      "category": "tech",
+      "area": "Северная и Центральная Америка",
+      "sources": [
+        "feeds.washingtonpost.com",
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.washingtonpost.com/nation/2026/09/06/amazon-cargo-plane-crashes-after-veering-off-runway-miami-airport/",
+        "https://www.theglobeandmail.com/world/article-amazon-cargo-plane-crash-miami-airport/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-06",
+      "id": "b2a37a6b89e0"
+    },
+    {
+      "title_ru": "Пассажирский самолет Qantas эвакуирован из-за задымления в салоне",
+      "title_en": "Qantas plane evacuated as smoke fills cabin",
+      "date": "2026-09-08",
+      "summary": "Пассажирский самолет авиакомпании Qantas был экстренно эвакуирован после того, как в салоне появился дым. Все пассажиры и члены экипажа благополучно покинули воздушное судно, инцидент расследуется.",
+      "category": "tech",
+      "area": "Океания и Австралия",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/national/qantas-plane-evacuated-as-smoke-fills-cabin-20260908-p60vjr.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-08",
+      "id": "cd6186a8be94"
+    },
+    {
+      "title_ru": "United Airlines готовится к влиянию ИИ на авиационную отрасль",
+      "title_en": "United Airlines's Kirby Wants Back into JFK and is Already Bracing for What AI Does to the Industry",
+      "date": "2026-09-06",
+      "summary": "Генеральный директор United Airlines Скотт Кирби заявил о намерении вернуть авиакомпанию в аэропорт JFK и одновременно готовится к трансформационному влиянию искусственного интеллекта на авиационную отрасль. Он обсуждает стратегические планы по адаптации к технологическим изменениям.",
+      "category": "ai",
+      "area": "Мир",
+      "sources": [
+        "finance.yahoo.com"
+      ],
+      "links": [
+        "https://finance.yahoo.com/markets/stocks/articles/united-airlines-ual-kirby-wants-235155529.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-06",
+      "id": "9b60119b8bf8"
+    },
+    {
+      "title_ru": "Необходимы коллективные действия для восстановления доверия к цифровой коммуникации",
+      "title_en": "Collective action needed to rebuild trust in digital communication",
+      "date": "2026-09-04",
+      "summary": "В статье обсуждается необходимость коллективных действий для восстановления доверия к цифровой коммуникации. Автор подчёркивает важность совместных усилий правительств, компаний и граждан для создания безопасной цифровой среды.",
+      "category": "tech",
+      "area": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/partner-content/2026-09-04-collective-action-needed-to-rebuild-trust-in-digital-communication/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-04",
+      "id": "7c141a73090b"
     }
   ],
   "_stats": {
-    "total_tokens": 1784185,
-    "total_cost": 252.86464799999996
+    "total_tokens": 1846515,
+    "total_cost": 256.844948
   }
 }
