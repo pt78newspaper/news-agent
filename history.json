@@ -1,230 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Саммит ШОС в Бишкеке: лидеры подписали декларацию о реформе финансовой архитектуры",
-      "title_en": "SCO Summit in Bishkek: leaders sign declaration on financial architecture reform",
-      "date": "2026-09-01",
-      "summary": "Лидеры стран Шанхайской организации сотрудничества подписали Бишкекскую декларацию на саммите в Кыргызстане. В документе выражена поддержка реформе международной финансовой архитектуры, что отражает стремление стран-участниц к созданию более справедливой мировой финансовой системы.",
-      "category": "politics",
-      "sources": [
-        "tass.com",
-        "en.mehrnews.com"
-      ],
-      "links": [
-        "https://tass.com/economy/2180259",
-        "https://tass.com/world/2180277",
-        "https://en.mehrnews.com/news/247367/Pezeshkian-Xi-meet-in-Bishkek-on-sidelines-of-SCO-Summit"
-      ],
-      "perspective": "Для России, Китая и Ирана это возможность продемонстрировать альтернативный западному подход к мировой финансовой системе. Западные страны могут рассматривать это как вызов существующему порядку и попытку создать параллельные институты.",
-      "perspective_type": "assumed",
-      "is_development": true,
-      "first_reported": "2026-09-01",
-      "id": "45b2b449d1ea"
-    },
-    {
-      "title_ru": "Наводнение в Непале: число погибших превысило 1000, спасатели ищут 900 рабочих в тоннелях",
-      "title_en": "Nepal floods: death toll exceeds 1000, rescuers search for 900 workers in tunnels",
-      "date": "2026-09-01",
-      "summary": "Число жертв катастрофического наводнения на границе Непала и Китая превысило 1000 человек. Спасательные команды пытаются добраться до примерно 900 рабочих, которые могли оказаться заблокированными в тоннелях гидроэлектростанции, заполненных грязью и водой.",
-      "category": "politics",
-      "sources": [
-        "feeds.bbci.co.uk",
-        "rss.nytimes.com"
-      ],
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-        "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html"
-      ],
-      "perspective": "Международное сообщество выражает солидарность с Непалом и оказывает гуманитарную помощь. Китай и Непал сотрудничают в спасательных операциях, что демонстрирует региональное взаимодействие в кризисной ситуации.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-01",
-      "id": "107826e3b36f"
-    },
-    {
-      "title_ru": "Южная Корея отправляет команду по ликвидации последствий стихийных бедствий в Непал",
-      "title_en": "South Korea dispatches disaster relief team to Nepal",
-      "date": "2026-09-01",
-      "summary": "Южная Корея объявила о направлении команды по ликвидации последствий стихийных бедствий в Непал для поддержки восстановительных работ после катастрофического наводнения. Решение принято в рамках международной гуманитарной помощи пострадавшей стране.",
-      "category": "politics",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260901003553315"
-      ],
-      "perspective": "Для Южной Кореи это возможность продемонстрировать свою роль ответственного члена международного сообщества. Решение может быть воспринято как часть дипломатических усилий по укреплению региональных связей в Азии.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-01",
-      "id": "b9514d2b634e"
-    },
-    {
-      "title_ru": "Атаки на Белгородскую и Самарскую области: пострадали мирные жители",
-      "title_en": "Attacks on Belgorod and Samara regions: civilians injured",
-      "date": "2026-09-01",
-      "summary": "В результате атак на Белгородскую область пострадали четыре человека, в Самарской области повреждены несколько жилых объектов. Глава Самарской области заявил об атаках ВСУ на гражданские объекты, что свидетельствует об эскалации конфликта в приграничных регионах России.",
-      "category": "politics",
-      "sources": [
-        "ria.ru",
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://ria.ru/20260901/belgorod-2114564084.html",
-        "https://www.kommersant.ru/doc/8922922",
-        "https://www.kommersant.ru/doc/8922903"
-      ],
-      "perspective": "Российские власти представляют это как атаки на гражданское население, обвиняя Украину в нарушении международного гуманитарного права. Украина и её западные союзники могут оспаривать эти обвинения или рассматривать их как часть информационной войны.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-01",
-      "id": "2e4f30ce2465"
-    },
-    {
-      "title_ru": "Индонезия готовит правила для регулирования грузовых и пассажирских дронов",
-      "title_en": "Indonesia prepares regulations for cargo and passenger drones",
-      "date": "2026-09-01",
-      "summary": "Индонезия разрабатывает нормативные правила для регулирования использования грузовых и пассажирских дронов. Это часть усилий страны по созданию правовой базы для развивающейся отрасли беспилотных авиационных систем и интеграции новых технологий в транспортную инфраструктуру.",
-      "category": "politics",
-      "sources": [
-        "en.antaranews.com"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/429297/indonesia-prepares-regulations-rules-for-cargo-passenger-drones"
-      ],
-      "perspective": "Для правительства Индонезии это шаг к технологической модернизации и привлечению инвестиций. Оппозиция может критиковать недостаточную проработанность правил или выражать опасения по поводу безопасности и приватности.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-01",
-      "id": "ed273e3cf0e7"
-    },
-    {
-      "title_ru": "Трамп угрожает наказать Южную Корею за отказ участвовать в войне против Ирана",
-      "title_en": "Trump threatens to punish South Korea for refusing to participate in war on Iran",
-      "date": "2026-09-01",
-      "summary": "Бывший президент США Дональд Трамп заявил, что накажет Южную Корею за отказ участвовать в войне против Ирана. Это заявление сделано на фоне эскалации напряжённости на Ближнем Востоке и отражает давление на союзников США по участию в конфликте.",
-      "category": "ai",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.ir/Detail/2026/08/31/775404/-Trump-threatens-to-punish-South-Korea-for-refusing-to-participate-in-US-Israeli-war-on-Iran"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-01",
-      "id": "fce4c5ae1983"
-    },
-    {
-      "title_ru": "ВВП Индии показал неожиданный рост 7,8% на фоне войны в Иране",
-      "title_en": "India's GDP records surprise growth of 7.8% amid Iran war",
-      "date": "2026-09-01",
-      "summary": "Экономика Индии продемонстрировала неожиданный рост ВВП на 7,8% на фоне продолжающейся войны в Иране. Этот показатель превысил ожидания аналитиков и свидетельствует о устойчивости индийской экономики к геополитическим потрясениям в регионе.",
-      "category": "ai",
-      "sources": [
-        "asia.nikkei.com"
-      ],
-      "links": [
-        "https://asia.nikkei.com/economy/india-s-gdp-records-surprise-growth-of-7.8-amid-iran-war"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-01",
-      "id": "01ecc2481049"
-    },
-    {
-      "title_ru": "Индонезия разрабатывает систему мониторинга уровня грунтовых вод для предотвращения лесных пожаров",
-      "title_en": "Indonesia develops groundwater level monitoring system to curb wildfires",
-      "date": "2026-09-01",
-      "summary": "Национальное агентство исследований и инноваций Индонезии (BRIN) разработало систему мониторинга уровня грунтовых вод для предотвращения лесных пожаров. Технология позволяет прогнозировать пожароопасные условия и принимать превентивные меры по защите лесов.",
-      "category": "tech",
-      "sources": [
-        "en.antaranews.com"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/429303/brin-develops-groundwater-level-monitoring-system-to-curb-wildfires"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-01",
-      "id": "a398e5e0964b"
-    },
-    {
-      "title_ru": "Археологи изучают фигуративное искусство возрастом 67 800 лет на Сулавеси",
-      "title_en": "Archaeologists study 67,800-year-old figurative art in Sulawesi",
-      "date": "2026-09-01",
-      "summary": "Археологи проводят исследование фигуративного искусства возрастом 67 800 лет, обнаруженного на индонезийском острове Сулавеси. Находка представляет собой одно из древнейших свидетельств художественного творчества человека и проливает свет на ранние этапы развития культуры.",
-      "category": "tech",
-      "sources": [
-        "en.antaranews.com"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/429301/archaeologists-study-67800-year-old-figurative-art-in-sulawesi"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-01",
-      "id": "7d2c9b851100"
-    },
-    {
-      "title_ru": "Instagram осознаёт, что пользователям не нравится, когда их обманывают создатели ИИ",
-      "title_en": "Instagram is waking up to the fact that people don't like being tricked by AI creators",
-      "date": "2026-09-01",
-      "summary": "Социальная сеть Instagram начинает осознавать, что пользователям не нравится, когда их вводят в заблуждение создатели контента с использованием искусственного интеллекта. Платформа рассматривает меры по маркировке и регулированию ИИ-генерируемого контента для повышения прозрачности.",
-      "category": "tech",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/09/01/instagram-is-waking-up-to-the-fact-that-people-dont-like-being-tricked-by-ai-creators/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-01",
-      "id": "0fb0976c400d"
-    },
-    {
-      "title_ru": "Доходность японских облигаций достигла 30-летнего максимума в 3% на фоне глобальной распродажи долга",
-      "title_en": "Japan benchmark bond yield hits 30-year high of 3% amid global debt selloff",
-      "date": "2026-09-01",
-      "summary": "Доходность эталонных японских государственных облигаций достигла 30-летнего максимума в 3% на фоне глобальной распродажи долговых инструментов. Это отражает давление на рынки облигаций после заседаний центральных банков и изменения монетарной политики.",
-      "category": "finance",
-      "sources": [
-        "asia.nikkei.com"
-      ],
-      "links": [
-        "https://asia.nikkei.com/business/markets/bonds/japan-benchmark-bond-yield-hits-30-year-high-of-3-amid-global-debt-selloff"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-01",
-      "id": "993cb0a488b5"
-    },
-    {
-      "title_ru": "Бывшие инженеры DJI собрали $250 000 на создание «первой в мире роботизированной камеры с экстремальным зумом»",
-      "title_en": "Former DJI engineers raise $250,000 for 'world's first robotic extreme zoom camera'",
-      "date": "2026-09-01",
-      "summary": "Бывшие инженеры китайской компании DJI собрали 250 000 долларов на краудфандинговой платформе для разработки того, что они называют «первой в мире роботизированной камерой с экстремальным зумом». Проект направлен на создание инновационного оборудования для профессиональной фотографии и видеосъёмки.",
-      "category": "photo",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/08/31/former-dji-engineers-raise-250000-for-worlds-first-robotic-extreme-zoom-camera/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-01",
-      "id": "fb710c1cfbd8"
-    },
-    {
       "title_ru": "Прабово прибыл во Владивосток для участия в Восточном экономическом форуме",
       "title_en": "Prabowo arrives in Russia's Vladivostok for Eastern Economic Forum",
       "date": "2026-09-02",
@@ -10187,10 +9963,390 @@
       "title_ru": "Министр финансов Австралии предупреждает об 'экзистенциальной угрозе' в политической битве вокруг суперфондов",
       "first_reported": "2026-09-08",
       "id": "c174a3ee2eef"
+    },
+    {
+      "category": "tech",
+      "date": "2026-09-07 08:15:55+00:00",
+      "is_development": false,
+      "links": [
+        "https://naked-science.ru/article/column/vetrogeneratory-in-amur"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "summary": "«Росатом» построит завод по сборке элементов ветрогенераторов в Амурской области. Это расширение производства возобновляемой энергетики в регионе, где ранее уже были запущены проекты по ветроэнергетике.",
+      "title_en": "Rosatom to build wind turbine component assembly plant in Amur region",
+      "title_ru": "«Росатом» построит завод по сборке элементов ветрогенераторов в Амурской области",
+      "first_reported": "2026-09-07 08:15:55+00:00",
+      "id": "b2e5885a0fd3"
+    },
+    {
+      "category": "tech",
+      "date": "2026-09-09 07:05:18.862982+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.taipeitimes.com/News/biz/archives/2026/09/09/2003863916"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Тайвань",
+      "sources": [
+        "www.taipeitimes.com"
+      ],
+      "summary": "Полупроводниковые компании на Тайване увеличивают набор персонала и расширяют поиск талантов. Это связано с ростом спроса на чипы и необходимостью укрепления кадрового потенциала в ключевой отрасли экономики.",
+      "title_en": "Semiconductor firms boost hiring, broaden talent search: 104 Job Bank",
+      "title_ru": "Полупроводниковые компании увеличивают набор персонала и расширяют поиск талантов",
+      "first_reported": "2026-09-09 07:05:18.862982+00:00",
+      "id": "eb0fc67deb41"
+    },
+    {
+      "category": "tech",
+      "date": "2026-09-08 17:41:44+07:00",
+      "is_development": false,
+      "links": [
+        "https://en.antaranews.com/news/430448/indonesia-prepares-mass-bank-accounts-to-boost-financial-inclusion"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Индонезия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "summary": "Индонезия готовит массовое открытие банковских счетов для повышения финансовой доступности. Правительство планирует упростить доступ к банковским услугам для населения, что должно стимулировать экономическую активность.",
+      "title_en": "Indonesia prepares mass bank accounts to boost financial inclusion",
+      "title_ru": "Индонезия готовит массовое открытие банковских счетов для повышения финансовой доступности",
+      "first_reported": "2026-09-08 17:41:44+07:00",
+      "id": "7ba7f4d59196"
+    },
+    {
+      "category": "ai",
+      "date": "2026-09-08 12:58:01+00:00",
+      "is_development": false,
+      "links": [
+        "https://naked-science.ru/article/tech/padenii-aktivnosti-dronov"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "США",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "summary": "Военные США сообщили о 75-процентном падении активности дронов после развертывания боевых лазеров. Это демонстрирует эффективность новых систем противодействия беспилотникам в зонах конфликтов.",
+      "title_en": "US military reports 75% drop in drone activity after deployment of combat lasers",
+      "title_ru": "Военные США сообщили о 75-процентном падении активности дронов после развертывания боевых лазеров",
+      "first_reported": "2026-09-08 12:58:01+00:00",
+      "id": "3b986bb56272"
+    },
+    {
+      "category": "life",
+      "date": "2026-09-09 10:29:16+05:30",
+      "is_development": false,
+      "links": [
+        "https://timesofindia.indiatimes.com/world/us/amazon-cargo-jet-pilots-tried-to-abort-unstable-landing-before-plane-overran-miami-runway/articleshow/133953303.cms"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "США",
+      "sources": [
+        "timesofindia.indiatimes.com"
+      ],
+      "summary": "Пилоты грузового самолёта Amazon пытались прервать неустойчивую посадку перед тем, как самолёт выкатился за пределы взлётно-посадочной полосы в Майами. Инцидент привёл к гибели людей и разрушению транспортных средств.",
+      "title_en": "Amazon jet pilots tried to abort unstable landing before plane overran Miami runway",
+      "title_ru": "Пилоты самолёта Amazon пытались прервать неустойчивую посадку перед выкатыванием за пределы ВПП в Майами",
+      "first_reported": "2026-09-09 10:29:16+05:30",
+      "id": "d1c22adc0fad"
+    },
+    {
+      "category": "life",
+      "date": "2026-09-09 10:01:08+05:30",
+      "is_development": false,
+      "links": [
+        "https://timesofindia.indiatimes.com/world/us/toxic-air-after-9/11-mamdani-releases-documents-showing-how-new-yorkers-were-misled/articleshow/133952461.cms"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "США",
+      "sources": [
+        "timesofindia.indiatimes.com"
+      ],
+      "summary": "Обнародованы документы, показывающие, как жителей Нью-Йорка вводили в заблуждение относительно токсичности воздуха после терактов 11 сентября 2001 года. Тысячи документов раскрывают масштабы проблемы с загрязнением воздуха после катастрофы.",
+      "title_en": "Toxic air after 9/11: Mamdani releases documents showing how New Yorkers were misled",
+      "title_ru": "Токсичный воздух после 11 сентября: обнародованы документы о введении в заблуждение жителей Нью-Йорка",
+      "first_reported": "2026-09-09 10:01:08+05:30",
+      "id": "5d2de6624145"
+    },
+    {
+      "category": "life",
+      "date": "2026-09-08 17:38:13+00:00",
+      "is_development": false,
+      "links": [
+        "https://mexiconewsdaily.com/politics/daily-homicides-down-security-report-tuesday-mananera/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Мексика",
+      "sources": [
+        "mexiconewsdaily.com"
+      ],
+      "summary": "Ежедневное количество убийств в Мексике снизилось на 53% согласно последнему отчёту о безопасности. Это значительное улучшение криминогенной ситуации в стране.",
+      "title_en": "Daily homicides down 53% in latest security report: Tuesday's mañanera recapped",
+      "title_ru": "Ежедневные убийства снизились на 53% в последнем отчёте о безопасности в Мексике",
+      "first_reported": "2026-09-08 17:38:13+00:00",
+      "id": "c7d9ef3d273d"
+    },
+    {
+      "category": "conflicts",
+      "date": "2026-09-09 07:05:13.495515+00:00",
+      "is_development": true,
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/08/775909/Iran-shot-down-US-MQ-1-drone-over-Strait-of-Hormuz"
+      ],
+      "perspective": "Иран заявляет о защите своего суверенитета, США могут рассматривать это как эскалацию напряжённости в стратегически важном регионе",
+      "perspective_type": "assumed",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "summary": "Иран сбил американский беспилотник MQ-1 над Ормузским проливом. Это произошло на фоне заявлений Ирана о полном контроле над проливом и захвате американского подводного аппарата.",
+      "title_en": "Iran shoots down US MQ-1 drone over Strait of Hormuz",
+      "title_ru": "Иран сбил американский беспилотник MQ-1 над Ормузским проливом",
+      "first_reported": "2026-09-09 07:05:13.495515+00:00",
+      "id": "0d5d0145abd6"
+    },
+    {
+      "category": "conflicts",
+      "date": "2026-09-09 07:05:13.495487+00:00",
+      "is_development": true,
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/08/775917/IRGC-Navy-US-unmanned-underwater-vessel-Hormuz"
+      ],
+      "perspective": "Иран демонстрирует военные возможности, США могут рассматривать захват как нарушение международного права",
+      "perspective_type": "assumed",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "summary": "ВМС Корпуса стражей исламской революции Ирана захватили передовой американский беспилотный подводный аппарат в Ормузском проливе. Иран заявляет, что это демонстрирует его возможности по наблюдению в регионе.",
+      "title_en": "IRGC Navy seizes cutting-edge US unmanned submersible in Strait of Hormuz",
+      "title_ru": "ВМС КСИР захватили передовой американский беспилотный подводный аппарат в Ормузском проливе",
+      "first_reported": "2026-09-09 07:05:13.495487+00:00",
+      "id": "cc2c593a3bbb"
+    },
+    {
+      "category": "conflicts",
+      "date": "2026-09-09 09:58:21+03:00",
+      "is_development": false,
+      "links": [
+        "https://tass.ru/armiya-i-opk/28093953"
+      ],
+      "perspective": "Россия заявляет о поражении военных целей, Украина может рассматривать это как атаки на гражданскую инфраструктуру",
+      "perspective_type": "assumed",
+      "region": "Украина",
+      "sources": [
+        "tass.ru"
+      ],
+      "summary": "Вооружённые силы РФ нанесли удар по военным складам ВСУ в Николаеве и области. Также сообщается о поражении резервуаров с топливом в порту Николаев.",
+      "title_en": "Russian Armed Forces strike Ukrainian military warehouses in Mykolaiv and region",
+      "title_ru": "ВС РФ ударили по военным складам ВСУ в Николаеве и области",
+      "first_reported": "2026-09-09 09:58:21+03:00",
+      "id": "85d870811cd6"
+    },
+    {
+      "category": "economy",
+      "date": "2026-09-08 17:11:11+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Канада",
+      "sources": [
+        "www.cnbc.com"
+      ],
+      "summary": "Ответные тарифы Канады на сумму 27,6 млрд канадских долларов вступили в силу, углубляя торговый разрыв с США. Это ответ на ранее введённые американские ограничения.",
+      "title_en": "Canada's retaliatory tariffs worth CA$27.6 billion take effect as trade rift with U.S. deepens",
+      "title_ru": "Ответные тарифы Канады на 27,6 млрд канадских долларов вступили в силу, углубляя торговый разрыв с США",
+      "first_reported": "2026-09-08 17:11:11+00:00",
+      "id": "f7d59811d0f2"
+    },
+    {
+      "category": "economy",
+      "date": "2026-09-09 07:05:18.862870+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.taipeitimes.com/News/front/archives/2026/09/09/2003863933"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Саудовская Аравия",
+      "sources": [
+        "www.taipeitimes.com"
+      ],
+      "summary": "Саудовская Аравия пообещала ответить после атак хуситов на нефтяные объекты. Конфликт в Йемене продолжает угрожать энергетической инфраструктуре королевства.",
+      "title_en": "Saudi Arabia vows response as Houthis hit oil sites",
+      "title_ru": "Саудовская Аравия пообещала ответить после атак хуситов на нефтяные объекты",
+      "first_reported": "2026-09-09 07:05:18.862870+00:00",
+      "id": "4abb7d9b15b0"
+    },
+    {
+      "category": "politics",
+      "date": "2026-09-08 16:52:00+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.dw.com/en/eu-uk-express-dismay-over-mladic-funeral-in-serbia/a-79190233?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "perspective": "ЕС и Великобритания осуждают чествование военного преступника, Сербия может рассматривать это как внутреннее дело и уважение к национальным чувствам",
+      "perspective_type": "assumed",
+      "region": "Сербия",
+      "sources": [
+        "rss.dw.com"
+      ],
+      "summary": "ЕС и Великобритания выразили сожаление по поводу похорон Ратко Младича в Сербии. Похороны военного преступника с воинскими почестями в Белграде вызвали международную критику.",
+      "title_en": "EU, UK express dismay over Mladic funeral in Serbia",
+      "title_ru": "ЕС и Великобритания выразили сожаление по поводу похорон Младича в Сербии",
+      "first_reported": "2026-09-08 16:52:00+00:00",
+      "id": "e668005e0c18"
+    },
+    {
+      "category": "politics",
+      "date": "2026-09-09 09:22:36+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.jpost.com/middle-east/article-908022"
+      ],
+      "perspective": "США продвигают ядерное сотрудничество с Саудовской Аравией, Израиль может выражать озабоченность по поводу региональной безопасности",
+      "perspective_type": "assumed",
+      "region": "США",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "summary": "Опубликовано письмо Трампа Конгрессу о ядерном соглашении между Саудовской Аравией и США. Это часть усилий администрации по укреплению сотрудничества в области ядерной энергетики.",
+      "title_en": "Trump's letter to Congress on Saudi Arabia-United States nuclear agreement released",
+      "title_ru": "Опубликовано письмо Трампа Конгрессу о ядерном соглашении Саудовской Аравии и США",
+      "first_reported": "2026-09-09 09:22:36+00:00",
+      "id": "4508a7e92006"
+    },
+    {
+      "category": "politics",
+      "date": "2026-09-09 09:17:03+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.jpost.com/israel-news/article-908026"
+      ],
+      "perspective": "Таиланд выражает озабоченность поведением израильских туристов, Израиль может рассматривать это как дипломатический инцидент",
+      "perspective_type": "assumed",
+      "region": "Таиланд",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "summary": "Министр иностранных дел Таиланда вызвал израильского посла из-за поведения туристов и призвал принять более решительные меры. Это указывает на напряжённость в двусторонних отношениях.",
+      "title_en": "Thailand's FM summons Israeli ambassador over tourist behavior, calls for taking stronger actions",
+      "title_ru": "МИД Таиланда вызвал израильского посла из-за поведения туристов и призвал к решительным мерам",
+      "first_reported": "2026-09-09 09:17:03+00:00",
+      "id": "c58baa149975"
+    },
+    {
+      "category": "politics",
+      "date": "2026-09-09 08:24:05+03:00",
+      "is_development": false,
+      "links": [
+        "https://www.rbc.ru/politics/08/09/2026/6aa02e3e24a37030db749760"
+      ],
+      "perspective": "Россия критикует позицию Запада, Запад настаивает на территориальной целостности Украины",
+      "perspective_type": "assumed",
+      "region": "Россия",
+      "sources": [
+        "rssexport.rbc.ru"
+      ],
+      "summary": "Сергей Лавров заявил, что Запад «озверело» требует вернуть границы 1991 года. Это часть дипломатической риторики России в контексте украинского конфликта.",
+      "title_en": "Lavrov says West 'frenziedly' demands return to 1991 borders",
+      "title_ru": "Лавров: Запад «озверело» требует вернуть границы 1991 года",
+      "first_reported": "2026-09-09 08:24:05+03:00",
+      "id": "20b557da73ae"
+    },
+    {
+      "category": "statement",
+      "date": "2026-09-09 07:05:13.495786+00:00",
+      "is_development": false,
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/07/775873/Iran-possesses-full-capability-to-strike-US-warships--Mminister"
+      ],
+      "perspective": "Иран демонстрирует военную мощь и готовность к конфронтации, США могут рассматривать это как угрозу региональной стабильности",
+      "perspective_type": "assumed",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "summary": "Министр Ирана заявил, что страна обладает полной возможностью поражать американские военные корабли. Это заявление сделано на фоне эскалации напряжённости в Ормузском проливе.",
+      "title_en": "Iran possesses full capability to strike US warships: Minister",
+      "title_ru": "Иран обладает полной возможностью поражать американские военные корабли: министр",
+      "first_reported": "2026-09-09 07:05:13.495786+00:00",
+      "id": "e163d836a6d4"
+    },
+    {
+      "category": "culture",
+      "date": "2026-09-08 10:47:03+00:00",
+      "is_development": false,
+      "links": [
+        "https://mg.co.za/news/health/2026-09-08-meet-four-people-who-got-the-hiv-prevention-jab/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "summary": "Представлены истории четырёх людей, получивших прививку для профилактики ВИЧ в ЮАР. Это часть усилий по борьбе с эпидемией ВИЧ/СПИДа в стране с помощью новых медицинских технологий.",
+      "title_en": "Meet four people who got the HIV prevention jab",
+      "title_ru": "Представлены истории четырёх людей, получивших прививку для профилактики ВИЧ",
+      "first_reported": "2026-09-08 10:47:03+00:00",
+      "id": "3e0ffa756626"
+    },
+    {
+      "category": "photo",
+      "date": "2026-09-09 06:00:35+00:00",
+      "is_development": false,
+      "links": [
+        "https://petapixel.com/2026/09/08/om-systems-updated-14-42mm-kit-lens-is-splashproof-and-focuses-closer/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "summary": "OM System представила обновлённый китовый объектив 14-42mm, который теперь защищён от брызг и фокусируется ближе. Это улучшение популярного объектива для системных камер.",
+      "title_en": "OM System's Updated 14-42mm Kit Lens Is Splashproof and Focuses Closer",
+      "title_ru": "Обновлённый китовый объектив OM System 14-42mm теперь защищён от брызг и фокусируется ближе",
+      "first_reported": "2026-09-09 06:00:35+00:00",
+      "id": "acab3e5fceae"
+    },
+    {
+      "category": "ecology",
+      "date": "2026-09-08 14:23:01+00:00",
+      "is_development": false,
+      "links": [
+        "https://mg.co.za/the-green-guardian/2026-09-08-african-communities-need-climate-services-that-combine-science-and-local-knowledge/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "summary": "Африканские сообщества нуждаются в климатических услугах, которые сочетают науку и местные знания. Это необходимо для эффективной адаптации к изменению климата и снижения рисков стихийных бедствий.",
+      "title_en": "African communities need climate services that combine science and local knowledge",
+      "title_ru": "Африканские сообщества нуждаются в климатических услугах, сочетающих науку и местные знания",
+      "first_reported": "2026-09-08 14:23:01+00:00",
+      "id": "d2b64a85f688"
     }
   ],
   "_stats": {
-    "total_tokens": 2174400,
-    "total_cost": 277.75390799999997
+    "total_tokens": 2193101,
+    "total_cost": 278.96934799999997
   }
 }
