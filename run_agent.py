@@ -73,12 +73,13 @@ RUSSIA_AREA = "Россия"
 PER_AREA_RU = {"politics": 3, "energy": 1, "tech": 1, "ai": 1, "finance": 1}
 PER_AREA = {"politics": 2, "energy": 1, "tech": 1, "ai": 1}
 GLOBAL = {"photo": 1, "culture": 1, "finance": 1, "ecology": 1}
-CAT_ORDER = ["tech", "ai", "life", "conflicts", "economy", "politics", "statement", "culture", "photo", "ecology"]
+CAT_ORDER = ["tech", "ai", "life", "conflicts", "svo", "economy", "politics", "statement", "culture", "photo", "ecology"]
 CAT_LABELS = {
     "tech": "Технологический рост",
     "ai": "Искусственный интеллект",
     "life": "Жизнь людей",
     "conflicts": "Конфликты",
+    "svo": "СВО",
     "economy": "Экономика стран",
     "politics": "Внутренняя и внешняя политика",
     "statement": "Заявление дня",
@@ -91,6 +92,7 @@ CAT_LABELS_SHORT = {
     "ai": "ИИ",
     "life": "Жизнь людей",
     "conflicts": "Конфликты",
+    "svo": "СВО",
     "economy": "Экономика",
     "politics": "Политика",
     "statement": "Заявление",
