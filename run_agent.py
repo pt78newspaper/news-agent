@@ -73,15 +73,38 @@ RUSSIA_AREA = "Россия"
 PER_AREA_RU = {"politics": 3, "energy": 1, "tech": 1, "ai": 1, "finance": 1}
 PER_AREA = {"politics": 2, "energy": 1, "tech": 1, "ai": 1}
 GLOBAL = {"photo": 1, "culture": 1, "finance": 1, "ecology": 1}
-CAT_ORDER = ["politics", "energy", "tech", "ai", "finance", "photo", "culture", "ecology"]
+CAT_ORDER = ["tech", "ai", "life", "conflicts", "economy", "politics", "statement", "culture", "photo", "ecology"]
+CAT_LABELS = {
+    "tech": "Технологический рост",
+    "ai": "Искусственный интеллект",
+    "life": "Жизнь людей",
+    "conflicts": "Конфликты",
+    "economy": "Экономика стран",
+    "politics": "Внутренняя и внешняя политика",
+    "statement": "Заявление дня",
+    "culture": "Культура",
+    "photo": "Фото",
+    "ecology": "Экология",
+}
+CAT_LABELS_SHORT = {
+    "tech": "Технологии",
+    "ai": "ИИ",
+    "life": "Жизнь людей",
+    "conflicts": "Конфликты",
+    "economy": "Экономика",
+    "politics": "Политика",
+    "statement": "Заявление",
+    "culture": "Культура",
+    "photo": "Фото",
+    "ecology": "Экология",
+}
 
 
 def sort_events(events):
-    area_idx = {a: i for i, a in enumerate(AREAS_ORDER)}
     cat_idx = {c: i for i, c in enumerate(CAT_ORDER)}
     return sorted(events, key=lambda e: (
-        area_idx.get(e.get("area", ""), len(area_idx)),
-        cat_idx.get(e.get("category", "politics"), 99)
+        cat_idx.get(e.get("category", "politics"), 99),
+        (e.get("region") or e.get("area") or "").lower()
     ))
 
 
@@ -214,23 +237,22 @@ def generate_html(events, config, usage=None, api_key=None):
     with open(tpl_path, encoding="utf-8") as f:
         html = f.read()
 
-    cat_counts = {"politics": 0, "ai": 0, "tech": 0, "energy": 0, "finance": 0, "photo": 0, "culture": 0, "ecology": 0}
-    area_events = {}
-    area_order = []
+    cat_counts = {k: 0 for k in CAT_ORDER}
+    cat_events = {}
+    cat_order = []
     for ev in events:
         cat = ev.get("category", "politics")
         cat_counts[cat] = cat_counts.get(cat, 0) + 1
-        area = ev.get("area", "Мир")
-        if area not in area_events:
-            area_events[area] = []
-            area_order.append(area)
-        area_events[area].append(ev)
+        if cat not in cat_events:
+            cat_events[cat] = []
+            cat_order.append(cat)
+        cat_events[cat].append(ev)
 
     stories_html = ""
-    for area_name in area_order:
-        area_evs = area_events[area_name]
+    for cat_name in ([c for c in CAT_ORDER if c in cat_order] + [c for c in cat_order if c not in CAT_ORDER]):
+        cat_evs = cat_events[cat_name]
         inner = ""
-        for idx, ev in enumerate(area_evs, 1):
+        for idx, ev in enumerate(cat_evs, 1):
             cat = ev.get("category", "politics")
 
             sources_str = ", ".join(ev.get("sources", []))
@@ -239,10 +261,10 @@ def generate_html(events, config, usage=None, api_key=None):
                 for l in ev.get("links", [])[:3]
             )
 
-            cat_label = {"politics": "Политика", "ai": "AI", "tech": "Техно/Наука", "energy": "Энергетика", "finance": "Финансы", "photo": "Фото", "culture": "Культура", "ecology": "Экология"}.get(cat, "")
+            cat_label = CAT_LABELS_SHORT.get(cat, cat)
             cat_badge = f'<span class="cat-badge cat-{cat}">{cat_label}</span>' if cat_label else ""
-            area = ev.get("area", "")
-            area_badge = f'<span class="area-badge">{area}</span>' if area else ""
+            region = ev.get("region") or ev.get("area") or ""
+            region_badge = f'<span class="area-badge">{region}</span>' if region else ""
 
             perspective = ev.get("perspective", "").strip()
             perspective_type = ev.get("perspective_type", "").strip()
@@ -271,7 +293,7 @@ def generate_html(events, config, usage=None, api_key=None):
     <div class="story-header">
       <div class="story-number">{idx}</div>
       <div class="story-titles">
-        <div class="title-en">{ev.get("title_en", "")} {cat_badge}</div>
+        <div class="title-en">{ev.get("title_en", "")} {region_badge}{cat_badge}</div>
         <div class="title-ru">{ev.get("title_ru", "")}</div>
       </div>
     </div>
@@ -292,7 +314,7 @@ def generate_html(events, config, usage=None, api_key=None):
             f'<div class="area-section">'
             f'<div class="area-header" onclick="this.classList.toggle(\'open\');this.nextElementSibling.classList.toggle(\'open\')">'
             f'<span class="area-plus"></span>'
-            f'<span class="area-name">{area_name}</span>'
+            f'<span class="area-name">{CAT_LABELS.get(cat_name, cat_name)}</span>'
             f'<span class="area-count">{idx}</span>'
             f'</div>'
             f'<div class="area-body">{inner}'
@@ -348,7 +370,7 @@ def generate_html(events, config, usage=None, api_key=None):
     html = html.replace("__USAGE_INFO__", usage_text)
     html = html.replace("__TOTAL_STORIES__", str(len(events)))
     html = html.replace("__TOTAL_SOURCES__", str(sum(len(e.get("sources", [])) for e in events)))
-    cat_display = " | ".join(f'{l}: {cat_counts.get(k,0)}' for k,l in [("politics","Политика"),("ai","AI"),("tech","Техно"),("energy","Энергетика"),("finance","Финансы"),("photo","Фото"),("culture","Культура"),("ecology","Экология")] if cat_counts.get(k,0))
+    cat_display = " | ".join(f'{l}: {cat_counts.get(k,0)}' for k,l in [(k, CAT_LABELS_SHORT[k]) for k in CAT_ORDER] if cat_counts.get(k,0))
     html = html.replace("__REGIONS_COVERED__", cat_display)
     html = html.replace("__STORIES__", stories_html)
     from news_agent.ai_summarizer import MODEL as AI_MODEL_NAME
@@ -380,9 +402,13 @@ def generate_html(events, config, usage=None, api_key=None):
             archive_html += f'<div class="archive-day"><div class="archive-day-header" onclick="this.classList.toggle(\'open\');this.nextElementSibling.classList.toggle(\'open\')"><span>{date_key} ({len(day_events)})</span><span class="arrow">▶</span></div><div class="archive-day-body">'
             for pe in day_events:
                 cat = pe.get("category", "politics")
-                cat_label = {"politics": "Политика", "ai": "AI", "tech": "Техно/Наука", "energy": "Энергетика", "finance": "Финансы", "photo": "Фото", "culture": "Культура", "ecology": "Экология"}.get(cat, "")
+                cat_label = (CAT_LABELS_SHORT.get(cat) or {
+                    "politics": "Политика", "ai": "AI", "tech": "Техно/Наука",
+                    "energy": "Энергетика", "finance": "Финансы",
+                }.get(cat, ""))
                 cat_badge = f'<span class="cat-badge cat-{cat}">{cat_label}</span>' if cat_label else ""
-                area_badge = f'<span class="area-badge">{pe.get("area", "")}</span>' if pe.get("area") else ""
+                region = pe.get("region") or pe.get("area", "")
+                region_badge = f'<span class="area-badge">{region}</span>' if region else ""
                 summ_en = pe.get("summary_en", "")
                 summ_ru = pe.get("summary", "")
                 if summ_en:
@@ -394,7 +420,7 @@ def generate_html(events, config, usage=None, api_key=None):
                     f'<a href="{l}" target="_blank" rel="noopener">{l.split("/")[2] if "//" in l else l}</a>'
                     for l in pe.get("links", [])[:3]
                 )
-                archive_html += f'<div class="story"><div class="story-card"><div class="story-header"><div class="story-titles"><div class="title-en">{pe.get("title_en", "")} {area_badge}{cat_badge}</div><div class="title-ru">{pe.get("title_ru", "")}</div></div></div><div class="story-body"><div class="summary">{summ_en_html}{summ_ru_html}</div></div><div class="story-footer"><span class="tag">{pe.get("date", "")}</span><span>{links}</span></div></div></div>'
+                archive_html += f'<div class="story"><div class="story-card"><div class="story-header"><div class="story-titles"><div class="title-en">{pe.get("title_en", "")} {region_badge}{cat_badge}</div><div class="title-ru">{pe.get("title_ru", "")}</div></div></div><div class="story-body"><div class="summary">{summ_en_html}{summ_ru_html}</div></div><div class="story-footer"><span class="tag">{pe.get("date", "")}</span><span>{links}</span></div></div></div>'
             archive_html += '</div></div>'
         archive_html += '</div>'
     html = html.replace("__ARCHIVE__", archive_html)
