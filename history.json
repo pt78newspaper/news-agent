@@ -10209,7 +10209,8 @@
       "title_en": "EU, UK express dismay over Mladic funeral in Serbia",
       "title_ru": "ЕС и Великобритания выразили сожаление по поводу похорон Младича в Сербии",
       "first_reported": "2026-09-08 16:52:00+00:00",
-      "id": "e668005e0c18"
+      "id": "e668005e0c18",
+      "last_reported": "2026-09-08 16:52:00+00:00"
     },
     {
       "category": "politics",
@@ -10304,7 +10305,8 @@
       "title_en": "Meet four people who got the HIV prevention jab",
       "title_ru": "Представлены истории четырёх людей, получивших прививку для профилактики ВИЧ",
       "first_reported": "2026-09-08 10:47:03+00:00",
-      "id": "3e0ffa756626"
+      "id": "3e0ffa756626",
+      "last_reported": "2026-09-08 10:47:03+00:00"
     },
     {
       "category": "photo",
@@ -10343,10 +10345,333 @@
       "title_ru": "Африканские сообщества нуждаются в климатических услугах, сочетающих науку и местные знания",
       "first_reported": "2026-09-08 14:23:01+00:00",
       "id": "d2b64a85f688"
+    },
+    {
+      "category": "tech",
+      "date": "2026-09-07 12:18:15+00:00",
+      "is_development": false,
+      "links": [
+        "https://naked-science.ru/article/hi-tech/tesla-zapustila-kibertaksi"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "США",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "summary": "Tesla запустила сервис «Кибертакси» без приглашения прессы. Наблютели сомневаются в успехе проекта, отмечая проблемы с автономным вождением и регуляторными барьерами.",
+      "title_en": "Tesla launched \"CyberTaxi\" without inviting press: observers doubt its success",
+      "title_ru": "Tesla запустила «Кибертакси», не приглашая прессу: наблюдатели сомневаются в его успехе",
+      "first_reported": "2026-09-07 12:18:15+00:00",
+      "id": "ef576a56a6c5"
+    },
+    {
+      "category": "tech",
+      "date": "2026-09-09 08:15:52+00:00",
+      "is_development": false,
+      "links": [
+        "https://naked-science.ru/article/physics/hi-energy-photon-model"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "summary": "Физики предложили теоретическую модель, объясняющую появление фотонов с «невозможной» энергией, превышающей теоретический предел Грейзена-Зацепина-Кузьмина. Это может изменить понимание космических лучей сверхвысоких энергий.",
+      "title_en": "Physicists proposed an explanation for the appearance of a photon with \"impossible\" energy",
+      "title_ru": "Физики предложили объяснение появлению фотона с «невозможной» энергией",
+      "first_reported": "2026-09-09 08:15:52+00:00",
+      "id": "743ed63044ab"
+    },
+    {
+      "category": "tech",
+      "date": "2026-09-07 23:19:39+00:00",
+      "is_development": false,
+      "links": [
+        "https://finance.yahoo.com/energy/articles/chevron-cvx-doubles-down-venezuela-231939575.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Венесуэла",
+      "sources": [
+        "finance.yahoo.com"
+      ],
+      "summary": "Chevron удваивает инвестиции в Венесуэлу, планируя вложить 7 миллиардов долларов в нефтяные проекты. Компания заявила о намерении более чем вдвое увеличить количество буровых установок в стране.",
+      "title_en": "Chevron (CVX) Doubles Down on Venezuela with a $7 Billion Oil Bet",
+      "title_ru": "Chevron удваивает ставки на Венесуэлу с нефтяной инвестицией в 7 миллиардов долларов",
+      "first_reported": "2026-09-07 23:19:39+00:00",
+      "id": "d306a302d069"
+    },
+    {
+      "category": "ai",
+      "date": "2026-09-09 07:47:28+00:00",
+      "is_development": false,
+      "links": [
+        "https://naked-science.ru/article/biology/metamorfoz-chervya-pokazal"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "summary": "Исследование метаморфоза червя показало, что многие клетки не исчезают, а меняют свою «профессию» — трансформируются в другие типы клеток. Это открытие меняет понимание клеточной пластичности и регенерации.",
+      "title_en": "Worm metamorphosis showed that many cells do not disappear, but change their \"profession\"",
+      "title_ru": "Метаморфоз червя показал, что многие клетки не исчезают, а меняют свою «профессию»",
+      "first_reported": "2026-09-09 07:47:28+00:00",
+      "id": "bb23731d1421"
+    },
+    {
+      "category": "life",
+      "date": "2026-09-09 17:40:02+10:00",
+      "is_development": false,
+      "links": [
+        "https://www.smh.com.au/world/asia/journalists-and-boat-crew-missing-near-erupting-indonesian-volcano-20260909-p60vvk.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Индонезия",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "summary": "Журналисты и экипаж лодки пропали без вести возле извергающегося вулкана в Индонезии. Поисково-спасательная операция осложняется вулканической активностью и плохими погодными условиями.",
+      "title_en": "Journalists and boat crew missing near erupting Indonesian volcano",
+      "title_ru": "Журналисты и экипаж лодки пропали без вести возле извергающегося вулкана в Индонезии",
+      "first_reported": "2026-09-09 17:40:02+10:00",
+      "id": "0a93149a5829"
+    },
+    {
+      "category": "life",
+      "date": "2026-09-09 18:21:38+10:00",
+      "is_development": false,
+      "links": [
+        "https://www.smh.com.au/national/queensland/brisbane-has-fewer-library-workers-now-than-in-2021-is-it-a-problem-20260909-p60vu4.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Австралия",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "summary": "В Брисбене сейчас меньше библиотечных работников, чем в 2021 году. Эксперты обсуждают, является ли это проблемой для качества библиотечных услуг и доступа к информации для горожан.",
+      "title_en": "Brisbane has fewer library workers now than in 2021. Is it a problem?",
+      "title_ru": "В Брисбене сейчас меньше библиотечных работников, чем в 2021 году. Это проблема?",
+      "first_reported": "2026-09-09 18:21:38+10:00",
+      "id": "1962ec8cd703"
+    },
+    {
+      "category": "conflicts",
+      "date": "2026-09-09 08:22:03.195715+00:00",
+      "is_development": false,
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/08/775909/Iran-shot-down-US-MQ-1-drone-over-Strait-of-Hormuz"
+      ],
+      "perspective": "Иран заявляет о защите своего воздушного пространства, США могут рассматривать это как эскалацию напряжённости в стратегически важном проливе.",
+      "perspective_type": "from_source",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "summary": "Иран сбил американский беспилотник MQ-1 над Ормузским проливом. Это произошло на фоне заявлений Ирана о полном контроле над стратегически важным проливом.",
+      "title_en": "Iran shoots down US MQ-1 drone over Strait of Hormuz",
+      "title_ru": "Иран сбил американский беспилотник MQ-1 над Ормузским проливом",
+      "first_reported": "2026-09-09 08:22:03.195715+00:00",
+      "id": "5de35ede9ba3"
+    },
+    {
+      "category": "conflicts",
+      "date": "2026-09-09 08:22:03.195658+00:00",
+      "is_development": false,
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/08/775917/IRGC-Navy-US-unmanned-underwater-vessel-Hormuz"
+      ],
+      "perspective": "Иран демонстрирует свои возможности по контролю над проливом, США могут рассматривать захват подводного аппарата как нарушение международного права.",
+      "perspective_type": "from_source",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "summary": "ВМС Корпуса стражей исламской революции захватили передовой американский беспилотный подводный аппарат в Ормузском проливе. Иран заявляет, что это демонстрирует его возможности по наблюдению в регионе.",
+      "title_en": "IRGC Navy seizes cutting-edge US unmanned submersible in Strait of Hormuz",
+      "title_ru": "ВМС КСИР захватили передовой американский беспилотный подводный аппарат в Ормузском проливе",
+      "first_reported": "2026-09-09 08:22:03.195658+00:00",
+      "id": "6a60d1cb9941"
+    },
+    {
+      "category": "svo",
+      "date": "2026-09-09 11:17:08+03:00",
+      "is_development": false,
+      "links": [
+        "https://tass.ru/proisshestviya/28094331"
+      ],
+      "perspective": "Россия заявляет о защите своего воздушного пространства, Украина может рассматривать это как часть продолжающегося конфликта.",
+      "perspective_type": "from_source",
+      "region": "Россия",
+      "sources": [
+        "tass.ru"
+      ],
+      "summary": "Над Орловской областью сбили пять беспилотников. Это часть продолжающихся атак дронов на российские регионы в рамках конфликта с Украиной.",
+      "title_en": "Five drones shot down over Oryol region",
+      "title_ru": "Над Орловской областью сбили пять беспилотников",
+      "first_reported": "2026-09-09 11:17:08+03:00",
+      "id": "edd90cd862c9"
+    },
+    {
+      "category": "svo",
+      "date": "2026-09-09 09:08:43+03:00",
+      "is_development": false,
+      "links": [
+        "https://www.kommersant.ru/doc/8939604"
+      ],
+      "perspective": "Россия заявляет об эффективности своей ПВО, Украина может рассматривать это как продолжение военных действий.",
+      "perspective_type": "from_source",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "summary": "Силы ПВО за ночь сбили над Россией 596 беспилотников. Это рекордное количество сбитых дронов за сутки в рамках конфликта с Украиной.",
+      "title_en": "Air defense forces shot down 596 drones over Russia overnight",
+      "title_ru": "Силы ПВО за ночь сбили над Россией 596 БПЛА",
+      "first_reported": "2026-09-09 09:08:43+03:00",
+      "id": "8b6f8e24bd4b"
+    },
+    {
+      "category": "economy",
+      "date": "2026-09-08 22:10:42+00:00",
+      "is_development": false,
+      "links": [
+        "https://mexiconewsdaily.com/business/mexico-us-import-market/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Мексика",
+      "sources": [
+        "mexiconewsdaily.com"
+      ],
+      "summary": "Товары из Мексики теперь составляют почти пятую часть американского импортного рынка. Это отражает рост мексиканского экспорта и изменение торговых потоков в Северной Америке.",
+      "title_en": "Goods from Mexico now make up almost one-fifth of the US import market",
+      "title_ru": "Товары из Мексики теперь составляют почти пятую часть американского импортного рынка",
+      "first_reported": "2026-09-08 22:10:42+00:00",
+      "id": "f379aca512f0"
+    },
+    {
+      "category": "economy",
+      "date": "2026-09-09 07:43:57+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.riotimesonline.com/cosan-nyse-delisting-adr-level-one-september-2026/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Бразилия",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "summary": "Бразильская компания Cosan покидает Нью-Йоркскую фондовую биржу 18 сентября. Это решение отражает изменения в стратегии компании и может повлиять на доступ бразильских компаний к американским рынкам капитала.",
+      "title_en": "Cosan Leaves the New York Stock Exchange on September 18",
+      "title_ru": "Cosan покидает Нью-Йоркскую фондовую биржу 18 сентября",
+      "first_reported": "2026-09-09 07:43:57+00:00",
+      "id": "adf4e85d92ed"
+    },
+    {
+      "category": "politics",
+      "date": "2026-09-08 17:48:45+03:00",
+      "is_development": false,
+      "links": [
+        "https://www.kommersant.ru/doc/8939256"
+      ],
+      "perspective": "Трамп предлагает восстановление отношений с Россией, что может быть воспринято как изменение внешнеполитического курса США.",
+      "perspective_type": "from_source",
+      "region": "США",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "summary": "Дональд Трамп пообещал Владимиру Путину «колоссальные выгоды» при завершении конфликта на Украине. По словам помощника президента Юрия Ушакова, Трамп заявил, что восстановление связей России и США сулит взаимные выгоды.",
+      "title_en": "Trump promised Putin \"colossal benefits\" upon completion of the conflict in Ukraine",
+      "title_ru": "Трамп пообещал Путину «колоссальные выгоды» при завершении конфликта на Украине",
+      "first_reported": "2026-09-08 17:48:45+03:00",
+      "id": "c69ab772595a"
+    },
+    {
+      "category": "politics",
+      "date": "2026-09-07 17:23:36+03:00",
+      "is_development": false,
+      "links": [
+        "https://www.kommersant.ru/doc/8938330"
+      ],
+      "perspective": "Победа правой партии АдГ рассматривается как сдвиг в немецкой политической системе, вызывая обеспокоенность у традиционных партий.",
+      "perspective_type": "from_source",
+      "region": "Германия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "summary": "Победа правой партии «Альтернатива для Германии» на выборах в Саксонии-Анхальт потрясла политическую систему Германии. Это свидетельствует о растущей поддержке правых сил в стране.",
+      "title_en": "AfD's victory in Saxony-Anhalt elections shook Germany's political system",
+      "title_ru": "Победа АдГ на выборах в Саксонии-Анхальт потрясла политическую систему Германии",
+      "first_reported": "2026-09-07 17:23:36+03:00",
+      "id": "7b665888a8b9"
+    },
+    {
+      "category": "statement",
+      "date": "2026-09-09 11:03:01+03:00",
+      "is_development": false,
+      "links": [
+        "https://ria.ru/20260909/mid-2116507975.html"
+      ],
+      "perspective": "Россия осуждает угрозы украинского руководства как шантаж, Украина может рассматривать свои заявления как ответ на военные действия.",
+      "perspective_type": "from_source",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "summary": "МИД России ответил на угрозы Владимира Зеленского в отношении гражданской авиации. В ведомстве назвали эти заявления «воздушным шантажем» и попыткой посеять хаос.",
+      "title_en": "Russian Foreign Ministry responded to Zelensky's threats to civil aviation",
+      "title_ru": "В МИД ответили на угрозы Зеленского гражданской авиации",
+      "first_reported": "2026-09-09 11:03:01+03:00",
+      "id": "c2c507c5429e"
+    },
+    {
+      "category": "photo",
+      "date": "2026-09-08 11:47:01+00:00",
+      "is_development": false,
+      "links": [
+        "https://petapixel.com/2026/09/08/astronauts-before-and-after-photos-show-how-cities-switched-from-orange-to-white-light/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "summary": "Астронавт сделал сравнительные фотографии «до и после», показывающие, как города перешли с оранжевого на белый свет. Снимки демонстрируют глобальные изменения в уличном освещении за последние десятилетия.",
+      "title_en": "Astronaut's before-and-after photos show how cities switched from orange to white light",
+      "title_ru": "Сравнительные фотографии астронавта показывают, как города перешли с оранжевого на белый свет",
+      "first_reported": "2026-09-08 11:47:01+00:00",
+      "id": "5e0e3d25f10d"
+    },
+    {
+      "category": "ecology",
+      "date": "2026-09-09 12:30:00+05:30",
+      "is_development": false,
+      "links": [
+        "https://timesofindia.indiatimes.com/science/nature/ugandan-communities-planted-4053-trees-beside-one-of-africas-great-rainforests-now-the-new-forest-is-rebuilding-a-damaged-wildlife-buffer/articleshow/133955318.cms"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Уганда",
+      "sources": [
+        "timesofindia.indiatimes.com"
+      ],
+      "summary": "Сообщества в Уганде посадили 4 053 дерева рядом с одним из великих африканских тропических лесов — Бвинди. Новый лес восстанавливает повреждённую буферную зону для дикой природы, создавая «биосупермаркеты» для животных.",
+      "title_en": "Ugandan communities plant 4,053 trees to rebuild a wildlife buffer near Bwindi",
+      "title_ru": "Сообщества в Уганде посадили 4 053 дерева для восстановления буферной зоны дикой природы возле Бвинди",
+      "first_reported": "2026-09-09 12:30:00+05:30",
+      "id": "67f8537e7ff4"
     }
   ],
   "_stats": {
-    "total_tokens": 2193101,
-    "total_cost": 278.96934799999997
+    "total_tokens": 2211721,
+    "total_cost": 280.17520799999994
   }
 }
