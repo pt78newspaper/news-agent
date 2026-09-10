@@ -1,222 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Прабово прибыл во Владивосток для участия в Восточном экономическом форуме",
-      "title_en": "Prabowo arrives in Russia's Vladivostok for Eastern Economic Forum",
-      "date": "2026-09-02",
-      "summary": "Президент Индонезии Прабово Субианто прибыл во Владивосток для участия в Восточном экономическом форуме. Его визит в Россию происходит на фоне продолжающейся войны в Иране и напряжённых отношений России с Западом.",
-      "category": "politics",
-      "sources": [
-        "en.antaranews.com"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/429505/prabowo-arrives-in-russias-vladivostok-for-eastern-economic-forum"
-      ],
-      "perspective": "Россия может рассматривать визит как признак укрепления отношений с Индонезией и дипломатический успех. Западные страны могут видеть в этом попытку России расширить своё влияние в Юго-Восточной Азии. Индонезия, вероятно, позиционирует это как прагматичное экономическое сотрудничество.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-02",
-      "id": "baea8679a721"
-    },
-    {
-      "title_ru": "Ушаков опроверг сообщения об отказе Путина от встречи с главой ЦРУ",
-      "title_en": "Ushakov denied reports of Putin's refusal to meet with CIA chief",
-      "date": "2026-09-02",
-      "summary": "Помощник президента России Юрий Ушаков опроверг сообщения о том, что Владимир Путин отказался от встречи с главой ЦРУ. Заявление последовало после публикаций в западных СМИ о якобы запланированной, но не состоявшейся встрече.",
-      "category": "politics",
-      "sources": [
-        "rssexport.rbc.ru"
-      ],
-      "links": [
-        "https://www.rbc.ru/politics/30/08/2026/6a9371081d5edad095f6bee4"
-      ],
-      "perspective": "Российские власти представляют это как опровержение ложной информации, распространяемой Западом. Западные СМИ могут интерпретировать ситуацию как признак отсутствия диалога между Москвой и Вашингтоном. Оппозиционные силы в России могут видеть в этом элемент информационной войны.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-02",
-      "id": "94269e64a93d"
-    },
-    {
-      "title_ru": "При ударах США по Ирану погибли четыре военных КСИР",
-      "title_en": "Four IRGC servicemen killed in US strikes on Iran",
-      "date": "2026-09-02",
-      "summary": "Корпус стражей исламской революции Ирана сообщил о гибели четырёх военных в результате ударов США по территории страны. Удары также затронули свадебную церемонию, где погибли 5 человек и 68 получили ранения.",
-      "category": "politics",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/mezhdunarodnaya-panorama/28069455"
-      ],
-      "perspective": "Иран представляет это как американскую агрессию против мирных граждан. США, вероятно, утверждают, что наносили удары по военным целям. Россия и её союзники осуждают действия США, в то время как западные страны могут оправдывать их борьбой с иранской угрозой.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-02",
-      "id": "5714a645ca64"
-    },
-    {
-      "title_ru": "ЕС вызвал российского посла из-за неудавшейся атаки дронов на аэропорт Лейпцига",
-      "title_en": "EU summons Russian envoy over failed Leipzig drone attack",
-      "date": "2026-09-02",
-      "summary": "Европейский союз вызвал российского посла для объяснений после неудавшейся попытки атаки дронами на аэропорт Лейпциг/Халле. Германия обвинила Россию в организации этой атаки, что привело к дипломатическому скандалу.",
-      "category": "politics",
-      "sources": [
-        "rss.dw.com"
-      ],
-      "links": [
-        "https://www.dw.com/en/eu-summons-russian-envoy-over-failed-leipzig-drone-attack/a-78687280?maca=en-rss-en-all-1573-xml-mrss"
-      ],
-      "perspective": "ЕС и Германия рассматривают это как акт российской агрессии и нарушение международного права. Россия, вероятно, отрицает причастность и называет обвинения провокацией. Страны НАТО могут использовать этот инцидент для усиления давления на Москву.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-02",
-      "id": "7f2dfa5415c3"
-    },
-    {
-      "title_ru": "Зеленский призывает авиакомпании избегать российского воздушного пространства",
-      "title_en": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-      "date": "2026-09-02",
-      "summary": "Президент Украины Владимир Зеленский призвал международные авиакомпании избегать российского воздушного пространства. Заявление прозвучало на фоне эскалации украинских операций с использованием дронов против целей в России.",
-      "category": "politics",
-      "sources": [
-        "feeds.bbci.co.uk"
-      ],
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss"
-      ],
-      "perspective": "Украина рассматривает это как меру безопасности и давления на Россию. Россия может назвать это провокацией и попыткой дестабилизировать воздушное сообщение. Западные страны могут поддержать призыв, в то время как нейтральные государства могут сохранять прежние маршруты.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-02",
-      "id": "47d58ed5a199"
-    },
-    {
-      "title_ru": "Meta заявляет, что отключила тысячи умных очков",
-      "title_en": "Meta Claims to Have Bricked Thousands of Smart Glasses",
-      "date": "2026-09-02",
-      "summary": "Компания Meta заявила, что удалённо отключила тысячи умных очков Ray-Ban Stories из-за проблем с безопасностью. Это решение вызвало вопросы о праве компаний на удалённое отключение устройств, принадлежащих пользователям.",
-      "category": "ai",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/09/01/meta-claims-to-have-bricked-thousands-of-smart-glasses/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-02",
-      "id": "a927adff67ee"
-    },
-    {
-      "title_ru": "Южная Корея подтверждает приверженность замене перемирия мирным режимом",
-      "title_en": "Lee reaffirms commitment to replacing Korean armistice with peace regime",
-      "date": "2026-09-02",
-      "summary": "Президент Южной Кореи Ли Чжэ Мён подтвердил приверженность замене соглашения о перемирии на Корейском полуострове полноценным мирным режимом. Заявление прозвучало на фоне напряжённости в регионе из-за войны в Иране.",
-      "category": "ai",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260902008700315"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-02",
-      "id": "ae88d674ccd0"
-    },
-    {
-      "title_ru": "Женщина зарезала двух человек на Таймс-сквер, убив одного",
-      "title_en": "Woman stabs two in Times Square, killing one person",
-      "date": "2026-09-02",
-      "summary": "В Нью-Йорке женщина зарезала двух человек на Таймс-сквер, в результате чего один человек погиб. Среди погибших - вице-президент Bank of America Эрин Пьяченти. Нападавшая была застрелена полицией.",
-      "category": "tech",
-      "sources": [
-        "www.taipeitimes.com"
-      ],
-      "links": [
-        "https://www.taipeitimes.com/News/world/archives/2026/09/02/2003863559"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-02",
-      "id": "0ce952435022"
-    },
-    {
-      "title_ru": "Инфляция в Южной Корее вернулась к уровню 3% в августе",
-      "title_en": "Consumer prices up 3.1 pct in Aug., jump back to 3 pct levels",
-      "date": "2026-09-02",
-      "summary": "Потребительские цены в Южной Корее выросли на 3,1% в августе, вернувшись к уровню 3% после временного снижения. Рост инфляции связан с увеличением цен на топливо и мобильные подписки.",
-      "category": "tech",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260902001000320"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-02",
-      "id": "c0bdf6e6da43"
-    },
-    {
-      "title_ru": "Российские компании обладают многочисленными инновационными конструкциями дронов-перехватчиков",
-      "title_en": "Russian firms possess numerous innovative interceptor drone designs",
-      "date": "2026-09-02",
-      "summary": "Первый вице-премьер России Денис Мантуров заявил, что российские компании обладают многочисленными инновационными конструкциями дронов-перехватчиков. Заявление прозвучало на фоне эскалации конфликта с использованием дронов в Украине.",
-      "category": "tech",
-      "sources": [
-        "tass.com"
-      ],
-      "links": [
-        "https://tass.com/economy/2181037"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-02",
-      "id": "414dc70df29b"
-    },
-    {
-      "title_ru": "Индия переходит на натуральное земледелие и аммиак из-за войны в Иране",
-      "title_en": "India turns to natural farming, ammonia as Iran war jolts urea market",
-      "date": "2026-09-02",
-      "summary": "Индия переходит на натуральное земледелие и использование аммиака в качестве удобрения из-за войны в Иране, которая нарушила рынок мочевины. Иран является крупным экспортёром удобрений, и конфликт привёл к росту цен и дефициту.",
-      "category": "finance",
-      "sources": [
-        "asia.nikkei.com"
-      ],
-      "links": [
-        "https://asia.nikkei.com/business/agriculture/india-turns-to-natural-farming-ammonia-as-iran-war-jolts-urea-market"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-02",
-      "id": "319d318e7dee"
-    },
-    {
-      "title_ru": "Основатель ведущего фестиваля фотожурналистики Жан-Франсуа Леруа умер",
-      "title_en": "Jean-François Leroy, Founder of World's Leading Photojournalism Festival, Dies",
-      "date": "2026-09-02",
-      "summary": "Жан-Франсуа Леруа, основатель фестиваля фотожурналистики Visa pour l'Image в Перпиньяне, скончался. Фестиваль, который он создал в 1989 году, стал одним из самых авторитетных в мире фотожурналистики.",
-      "category": "photo",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/09/01/jean-francois-leroy-founder-of-worlds-leading-photojournalism-festival-dies/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-02",
-      "id": "d3d1b9fa2efe"
-    },
-    {
       "title_ru": "Массированная атака дронов на Москву: сбито более 86 беспилотников",
       "title_en": "Massive drone attack on Moscow: over 86 drones shot down",
       "date": "2026-09-03",
@@ -393,24 +177,6 @@
       "id": "b149c21f0d80"
     },
     {
-      "title_ru": "Новая открытая камера со сменными сенсорами и креплениями для объективов",
-      "title_en": "This New Open-Source Camera Has Swappable Sensors and Lens Mounts",
-      "date": "2026-09-02",
-      "summary": "Представлена новая открытая камера с модульной архитектурой, позволяющей пользователям менять сенсоры и крепления для объективов. Это инновационное решение предоставляет фотографам беспрецедентную гибкость и контроль над оборудованием.",
-      "category": "photo",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/09/02/this-new-open-source-camera-has-swappable-sensors-and-lens-mounts/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-02",
-      "id": "d320cb5f7f0b"
-    },
-    {
       "title_ru": "Иена укрепляется на фоне ожиданий повышения процентных ставок в Японии",
       "title_en": "Yen strengthens as traders bet on Japan interest rate rises",
       "date": "2026-09-03",
@@ -430,24 +196,6 @@
       "is_development": false,
       "first_reported": "2026-09-03",
       "id": "c73a33e86abc"
-    },
-    {
-      "title_ru": "Подводная камера впервые зафиксировала рыбу, идущую задом наперед",
-      "title_en": "Underwater Camera Captures a Fish Walking Backward for the First Time",
-      "date": "2026-09-02",
-      "summary": "С помощью подводной камеры ученые впервые зафиксировали уникальное поведение рыбы, похожей на креветку, которая ходит задом наперед. Это открытие проливает свет на ранее неизвестные адаптации морских организмов.",
-      "category": "photo",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/09/02/underwater-camera-captures-shrimp-like-fish-walking-backward-for-the-first-time/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-02",
-      "id": "9b4f4a1ea303"
     },
     {
       "title_ru": "Иранская армия сообщает об ударах по базам США в Кувейте и ОАЭ",
@@ -5889,25 +5637,6 @@
       "id": "e79243016d1c"
     },
     {
-      "title_ru": "Бизнесмен оправдан по делу об убийстве журналистки Дафны Каруаны Галиции на Мальте",
-      "title_en": "Jury in Malta acquits businessman in killing of journalist Daphne Caruana Galizia",
-      "date": "2026-09-02",
-      "summary": "Суд присяжных на Мальте оправдал бизнесмена по делу об убийстве журналистки-расследовательницы Дафны Каруаны Галиции. Журналистка была убита в 2017 году в результате взрыва автомобиля.",
-      "category": "politics",
-      "area": "Европа",
-      "sources": [
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/world/article-daphne-caruana-galizia-killing-murder-malta-journalist/"
-      ],
-      "perspective": "Оправдательный приговор может вызвать разочарование у сторонников свободы прессы и правозащитников, ожидавших наказания виновных. Власти Мальты могут столкнуться с критикой за ход расследования, в то время как защита может утверждать о торжестве правосудия.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-02",
-      "id": "ca0d99cf0dea"
-    },
-    {
       "title_ru": "Отец и дочь погибли в авиакатастрофе в Австралии",
       "title_en": "Father and daughter killed in plane crash in Australia",
       "date": "2026-09-08",
@@ -10668,10 +10397,409 @@
       "title_ru": "Сообщества в Уганде посадили 4 053 дерева для восстановления буферной зоны дикой природы возле Бвинди",
       "first_reported": "2026-09-09 12:30:00+05:30",
       "id": "67f8537e7ff4"
+    },
+    {
+      "category": "tech",
+      "date": "2026-09-10 08:22:24.794930+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.taipeitimes.com/News/feat/archives/2026/09/10/2003863994"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Дальний Восток",
+      "sources": [
+        "taipeitimes.com"
+      ],
+      "summary": "В Тайване опубликован обзор книги о скрытых механизмах холодной войны, что представляет интерес для анализа исторических технологических и политических процессов.",
+      "title_en": "Book review: The Cold War's hidden hands",
+      "title_ru": "Обзор книги о скрытых руках холодной войны",
+      "first_reported": "2026-09-10 08:22:24.794930+00:00",
+      "id": "b6a7f728a8e0"
+    },
+    {
+      "category": "tech",
+      "date": "2026-09-09 08:15:52+00:00",
+      "is_development": false,
+      "links": [
+        "https://naked-science.ru/article/physics/hi-energy-photon-model"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "summary": "Российские физики предложили теоретическую модель, объясняющую появление фотонов с экстремально высокой энергией, что ранее считалось невозможным с точки зрения стандартных физических теорий.",
+      "title_en": "Physicists proposed an explanation for the appearance of a photon with 'impossible' energy",
+      "title_ru": "Физики предложили объяснение появлению фотона с 'невозможной' энергией",
+      "first_reported": "2026-09-09 08:15:52+00:00",
+      "id": "0a188f3be38f"
+    },
+    {
+      "category": "tech",
+      "date": "2026-09-09 11:14:48+00:00",
+      "is_development": false,
+      "links": [
+        "https://naked-science.ru/article/astronomy/sformirovalas-mezhzvezdnaya-kometa-3i-atlas"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "summary": "Российские астрономы выяснили механизм формирования межзвездной кометы 3I/ATLAS, что расширяет понимание процессов формирования небесных тел за пределами Солнечной системы.",
+      "title_en": "Astronomers found out how the interstellar comet 3I/ATLAS formed",
+      "title_ru": "Астрономы выяснили, как сформировалась межзвездная комета 3I/ATLAS",
+      "first_reported": "2026-09-09 11:14:48+00:00",
+      "id": "7c61a59e2c03"
+    },
+    {
+      "category": "ai",
+      "date": "2026-09-09 20:24:48+00:00",
+      "is_development": false,
+      "links": [
+        "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "США",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "summary": "Новые функции ИИ в Apple Watch, которые постоянно прослушивают разговоры пользователей и создают их резюме, нормализуют идею постоянного прослушивания технологиями, вызывая вопросы о приватности.",
+      "title_en": "Apple Watch's new AI features are normalizing the idea that technology is always listening",
+      "title_ru": "Новые функции ИИ в Apple Watch нормализуют идею постоянного прослушивания технологиями",
+      "first_reported": "2026-09-09 20:24:48+00:00",
+      "id": "5475aa9abda6"
+    },
+    {
+      "category": "ai",
+      "date": "2026-09-10 07:38:43+00:00",
+      "is_development": false,
+      "links": [
+        "https://naked-science.ru/article/column/sozdan-volnovodov"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "summary": "Российские физики разработали метод учета анизотропии кристаллов при создании волноводов, что может улучшить технологии передачи данных и оптические коммуникации.",
+      "title_en": "Physicists found a way to account for crystal anisotropy when creating waveguides",
+      "title_ru": "Физики нашли способ учитывать анизотропию кристалла при создании волноводов",
+      "first_reported": "2026-09-10 07:38:43+00:00",
+      "id": "aaf278c63e61"
+    },
+    {
+      "category": "life",
+      "date": "2026-09-10 10:49:50+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.jpost.com/middle-east/article-908223"
+      ],
+      "perspective": "Хуситы утверждают о восстановлении контроля над стратегическим портом, в то время как международное сообщество выражает озабоченность безопасностью судоходства в Красном море.",
+      "perspective_type": "assumed",
+      "region": "Йемен",
+      "sources": [
+        "jpost.com"
+      ],
+      "summary": "Хуситы взяли под контроль йеменский город Моха на побережье Красного моря, что может повлиять на безопасность судоходства в этом стратегически важном регионе.",
+      "title_en": "Houthis take control of Yemeni Red Sea city Mocha, sources say",
+      "title_ru": "Хуситы взяли под контроль йеменский город Моха на Красном море",
+      "first_reported": "2026-09-10 10:49:50+00:00",
+      "id": "07c0ef8745cf"
+    },
+    {
+      "category": "life",
+      "date": "2026-09-10 11:11:29+03:00",
+      "is_development": false,
+      "links": [
+        "https://tass.ru/proisshestviya/28098565"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Россия",
+      "sources": [
+        "tass.ru"
+      ],
+      "summary": "В Хабаровском крае возбуждено уголовное дело после опрокидывания школьного автобуса, в результате которого ребенок получил ушибы. Предварительной причиной ДТП названо техническое состояние транспортного средства.",
+      "title_en": "Criminal case opened after school bus overturned in Khabarovsk Krai",
+      "title_ru": "В Хабаровском крае завели дело после опрокидывания школьного автобуса",
+      "first_reported": "2026-09-10 11:11:29+03:00",
+      "id": "5459c2b71cb2"
+    },
+    {
+      "category": "life",
+      "date": "2026-09-10 03:48:53+02:00",
+      "is_development": false,
+      "links": [
+        "https://www.lemonde.fr/en/international/article/2026/09/10/a-pilot-of-the-amazon-plane-that-careened-off-miami-runway-warned-it-was-coming-in-too-fast_6757365_4.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "США",
+      "sources": [
+        "lemonde.fr"
+      ],
+      "summary": "Пилот грузового самолета Amazon предупреждал о чрезмерной скорости захода на посадку перед катастрофой в Майами, в результате которой погиб человек. Вдова погибшего подала иск о возмещении ущерба.",
+      "title_en": "Amazon plane pilot who skidded off Miami runway warned it was coming in too fast",
+      "title_ru": "Пилот самолета Amazon предупреждал о чрезмерной скорости перед катастрофой в Майами",
+      "first_reported": "2026-09-10 03:48:53+02:00",
+      "id": "8f278081e7b8"
+    },
+    {
+      "category": "conflicts",
+      "date": "2026-09-10 08:22:20.412212+00:00",
+      "is_development": false,
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/09/775991/Israeli-forces-kill-Palestinian-man-West-Bank-Nablus"
+      ],
+      "perspective": "Израильские силы утверждают, что действовали в ответ на угрозу, в то время как палестинские источники описывают это как неоправданное применение силы и нарушение прав человека.",
+      "perspective_type": "assumed",
+      "region": "Палестина",
+      "sources": [
+        "presstv.ir"
+      ],
+      "summary": "Израильские силы убили палестинского мужчину на Западном берегу реки Иордан в районе Наблуса и удерживают его тело, что вызывает протесты среди местного населения.",
+      "title_en": "Israeli forces kill Palestinian man in West Bank, withhold his body",
+      "title_ru": "Израильские силы убили палестинца на Западном берегу и удерживают его тело",
+      "first_reported": "2026-09-10 08:22:20.412212+00:00",
+      "id": "8892c8f096d5"
+    },
+    {
+      "category": "conflicts",
+      "date": "2026-09-10 08:22:20.412112+00:00",
+      "is_development": false,
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/08/775883/Washington-received-clear-warning-from-Iran-new-missiles-Top-security-official"
+      ],
+      "perspective": "Иран позиционирует свои новые ракеты как сдерживающий фактор, в то время как США рассматривают их как угрозу региональной безопасности и могут усиливать санкции.",
+      "perspective_type": "assumed",
+      "region": "Иран",
+      "sources": [
+        "presstv.ir"
+      ],
+      "summary": "Высокопоставленный иранский чиновник по безопасности заявил, что США получили 'четкое предупреждение' от новых иранских ракет, подчеркивая растущую напряженность в отношениях между двумя странами.",
+      "title_en": "US received 'clear warning' from Iran's new missiles: Top security official",
+      "title_ru": "США получили 'четкое предупреждение' от новых иранских ракет",
+      "first_reported": "2026-09-10 08:22:20.412112+00:00",
+      "id": "aae0748f959e"
+    },
+    {
+      "category": "svo",
+      "date": "2026-09-10 11:08:08+03:00",
+      "is_development": false,
+      "links": [
+        "https://ria.ru/20260910/simonjan-2116761657.html"
+      ],
+      "perspective": "Российские власти рассматривают атаку как террористический акт, в то время как Украина может считать ее законной военной операцией в рамках конфликта.",
+      "perspective_type": "assumed",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "summary": "Маргарита Симоньян предложила помощь пострадавшим от атаки беспилотных катеров ВСУ в Сочи, где число пострадавших выросло до 28 человек, а четверо были госпитализированы.",
+      "title_en": "Simonyan offered help to victims of Ukrainian drone boat attacks in Sochi",
+      "title_ru": "Симоньян предложила помощь пострадавшим от атак катеров ВСУ в Сочи",
+      "first_reported": "2026-09-10 11:08:08+03:00",
+      "id": "14f5e1f1eaca"
+    },
+    {
+      "category": "svo",
+      "date": "2026-09-10 09:52:16+03:00",
+      "is_development": false,
+      "links": [
+        "https://ria.ru/20260910/vsu-2116741459.html"
+      ],
+      "perspective": "Российские власти обвиняют Украину в нанесении ударов по гражданским объектам, в то время как Украина может утверждать, что атакует законные военные цели.",
+      "perspective_type": "assumed",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "summary": "В Белгородской области один человек погиб и 13 получили ранения в результате атак ВСУ, что продолжает эскалацию конфликта в приграничных регионах России.",
+      "title_en": "One killed, 13 wounded due to Ukrainian attacks in Belgorod region",
+      "title_ru": "В Белгородской области один человек погиб, 13 ранены из-за атак ВСУ",
+      "first_reported": "2026-09-10 09:52:16+03:00",
+      "id": "67f38c3dfbd3"
+    },
+    {
+      "category": "economy",
+      "date": "2026-09-09 11:25:41+00:00",
+      "is_development": false,
+      "links": [
+        "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-9-2026-ongoing-escalations-in-the-middle-east-are-keeping-a-lid-on-crypto-112541573.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Мир",
+      "sources": [
+        "finance.yahoo.com"
+      ],
+      "summary": "Эскалация на Ближнем Востоке сдерживает рост криптовалют, включая биткоин и эфириум, поскольку инвесторы проявляют осторожность в условиях геополитической нестабильности.",
+      "title_en": "Ongoing escalations in the Middle East are keeping a lid on crypto",
+      "title_ru": "Эскалация на Ближнем Востоке сдерживает криптовалюты",
+      "first_reported": "2026-09-09 11:25:41+00:00",
+      "id": "8517a63a6356"
+    },
+    {
+      "category": "economy",
+      "date": "2026-09-09 10:41:23+00:00",
+      "is_development": false,
+      "links": [
+        "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-iranian-oil-tankers-104123795.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Мир",
+      "sources": [
+        "finance.yahoo.com"
+      ],
+      "summary": "Цены на золото снизились после ударов США по пяти иранским нефтяным танкерам, что демонстрирует сложную взаимосвязь между геополитическими событиями и товарными рынками.",
+      "title_en": "Gold prices drop following U.S. strikes on five Iranian oil tankers",
+      "title_ru": "Цены на золото упали после ударов США по иранским танкерам",
+      "first_reported": "2026-09-09 10:41:23+00:00",
+      "id": "cdd767e121b2"
+    },
+    {
+      "category": "politics",
+      "date": "2026-09-09 19:45:00+03:00",
+      "is_development": false,
+      "links": [
+        "https://www.dailysabah.com/world/mid-east/nuclear-watchdog-refers-iran-to-unsc-for-first-time-in-2-decades"
+      ],
+      "perspective": "МАГАТЭ и западные страны обвиняют Иран в несоблюдении ядерных соглашений, в то время как Иран считает это политически мотивированным решением и нарушением своих суверенных прав.",
+      "perspective_type": "assumed",
+      "region": "Иран",
+      "sources": [
+        "dailysabah.com"
+      ],
+      "summary": "Международное агентство по атомной энергии впервые за два десятилетия направило дело Ирана в Совет Безопасности ООН из-за несоблюдения ядерных соглашений, что усиливает международное давление на Тегеран.",
+      "title_en": "Nuclear watchdog refers Iran to UNSC for first time in 2 decades",
+      "title_ru": "МАГАТЭ направило дело Ирана в СБ ООН впервые за 20 лет",
+      "first_reported": "2026-09-09 19:45:00+03:00",
+      "id": "bb41a07bf922"
+    },
+    {
+      "category": "politics",
+      "date": "2026-09-10 07:00:04+03:00",
+      "is_development": false,
+      "links": [
+        "https://www.kommersant.ru/doc/8940418"
+      ],
+      "perspective": "Трамп позиционирует это как выполнение предвыборных обещаний и помощь американцам, в то время как оппоненты могут критиковать это как популистскую меру с неясным финансированием.",
+      "perspective_type": "assumed",
+      "region": "США",
+      "sources": [
+        "kommersant.ru"
+      ],
+      "summary": "Дональд Трамп пообещал выплатить каждому взрослому американцу по 5 тысяч долларов в случае победы республиканцев на промежуточных выборах, что стало частью его предвыборной кампании.",
+      "title_en": "Trump promised Americans $5,000 each if Republicans win elections",
+      "title_ru": "Трамп пообещал американцам по $5 тыс. в случае победы республиканцев на выборах",
+      "first_reported": "2026-09-10 07:00:04+03:00",
+      "id": "77884df6373b"
+    },
+    {
+      "category": "politics",
+      "date": "2026-09-09 04:57:17+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.budapesttimes.hu/hungary/a-tale-of-two-hungarys-pm-vows-to-bridge-the-urban-rural-divide/"
+      ],
+      "perspective": "Премьер-министр Венгрии позиционирует это как социальную справедливость и развитие страны, в то время как оппозиция может критиковать эффективность таких мер и их политическую мотивацию.",
+      "perspective_type": "assumed",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "summary": "Премьер-министр Венгрии пообещал преодолеть разрыв между городом и деревней, признавая существование 'двух Венгрий' с разным уровнем развития и качества жизни.",
+      "title_en": "A tale of two Hungarys: PM vows to bridge the urban-rural divide",
+      "title_ru": "История двух Венгрий: премьер пообещал преодолеть разрыв между городом и деревней",
+      "first_reported": "2026-09-09 04:57:17+00:00",
+      "id": "6d19368f5a1c"
+    },
+    {
+      "category": "statement",
+      "date": "2026-09-10 10:24:16+03:00",
+      "is_development": false,
+      "links": [
+        "https://www.rbc.ru/rbcfreenews/6a8053709a7947f815f4f1c7"
+      ],
+      "perspective": "Трамп рассматривает это как укрепление американского влияния и личного наследия, в то время как критики могут считать это проявлением нарциссизма и неуважением к международным нормам и историческим названиям.",
+      "perspective_type": "assumed",
+      "region": "США",
+      "sources": [
+        "rssexport.rbc.ru"
+      ],
+      "summary": "Дональд Трамп предложил переименовать Ормузский пролив в его честь, что стало одним из самых экстравагантных заявлений в рамках его внешнеполитической риторики.",
+      "title_en": "Trump proposed to rename the Strait of Hormuz after himself",
+      "title_ru": "Трамп предложил переименовать Ормузский пролив в его честь",
+      "first_reported": "2026-09-10 10:24:16+03:00",
+      "id": "abcc91c551c7"
+    },
+    {
+      "category": "culture",
+      "date": "2026-09-09 13:31:26+00:00",
+      "is_development": false,
+      "links": [
+        "https://mg.co.za/thought-leader/2026-09-09-one-goal-one-system-a-mission-approach-to-improve-early-grade-reading/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "summary": "В ЮАР обсуждается миссионерский подход к улучшению чтения в младших классах, что отражает внимание к развитию образования и культурной грамотности на африканском континенте.",
+      "title_en": "One goal, one system: A mission approach to improve early grade reading",
+      "title_ru": "Одна цель, одна система: миссионерский подход к улучшению чтения в младших классах",
+      "first_reported": "2026-09-09 13:31:26+00:00",
+      "id": "60bd5eb9fe7d"
+    },
+    {
+      "category": "photo",
+      "date": "2026-09-09 16:16:18+00:00",
+      "is_development": false,
+      "links": [
+        "https://petapixel.com/2026/09/09/there-are-3824-comments-on-the-fccs-latest-drone-ban-nearly-99-of-them-oppose-it/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "США",
+      "sources": [
+        "petapixel.com"
+      ],
+      "summary": "Почти 99% из 3824 комментариев к предложению FCC о запрете дронов выражают несогласие, что демонстрирует сильное сопротивление фотографов и операторов новым ограничениям на использование беспилотников.",
+      "title_en": "There Are 3,824 Comments on the FCC's Latest Drone Ban; Nearly 99% of Them Oppose It",
+      "title_ru": "На запрет дронов FCC поступило 3824 комментария, 99% против",
+      "first_reported": "2026-09-09 16:16:18+00:00",
+      "id": "a9545ca440c6"
+    },
+    {
+      "category": "ecology",
+      "date": "2026-09-08 14:23:01+00:00",
+      "is_development": false,
+      "links": [
+        "https://mg.co.za/the-green-guardian/2026-09-08-african-communities-need-climate-services-that-combine-science-and-local-knowledge/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "summary": "Африканские сообщества нуждаются в климатических услугах, которые сочетают научные данные и местные знания, чтобы эффективно адаптироваться к изменению климата и снижать риски для уязвимых групп населения.",
+      "title_en": "African communities need climate services that combine science and local knowledge",
+      "title_ru": "Африканским сообществам нужны климатические услуги, сочетающие науку и местные знания",
+      "first_reported": "2026-09-08 14:23:01+00:00",
+      "id": "7eeee33e60c4"
     }
   ],
   "_stats": {
-    "total_tokens": 2211721,
-    "total_cost": 280.17520799999994
+    "total_tokens": 2230896,
+    "total_cost": 281.42276799999996
   }
 }
