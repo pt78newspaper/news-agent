@@ -1,203 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Массированная атака дронов на Москву: сбито более 86 беспилотников",
-      "title_en": "Massive drone attack on Moscow: over 86 drones shot down",
-      "date": "2026-09-03",
-      "summary": "Российские силы ПВО отразили масштабную атаку беспилотников на Москву. По данным разных источников, было сбито от 8 до более 86 дронов, причем количество перехваченных целей увеличивалось в течение дня.",
-      "category": "politics",
-      "sources": [
-        "ria.ru",
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://ria.ru/20260903/sobjanin-2115116879.html",
-        "https://www.kommersant.ru/doc/8924772",
-        "https://www.kommersant.ru/doc/8924730",
-        "https://www.kommersant.ru/doc/8924698",
-        "https://www.kommersant.ru/doc/8924651"
-      ],
-      "perspective": "Российские власти представят это как успех системы ПВО, в то время как украинская сторона может рассматривать атаку как демонстрацию уязвимости российской обороны. Западные аналитики могут обсуждать эскалацию конфликта.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-03",
-      "id": "fe4a0fc5731f"
-    },
-    {
-      "title_ru": "Путин заявил о контактах с представителями администрации Трампа",
-      "title_en": "Putin says contacts with Trump administration representatives are ongoing",
-      "date": "2026-09-03",
-      "summary": "Президент России Владимир Путин сообщил, что контакты с назначенными Дональдом Трампом представителями США продолжаются. Он также отметил, что Трамп настроен на позитивную и конструктивную работу, а у России много друзей в США.",
-      "category": "politics",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20260903/putin-2115137686.html",
-        "https://ria.ru/20260903/druzya-2115136079.html",
-        "https://ria.ru/20260903/putin-2115135499.html"
-      ],
-      "perspective": "Российские власти представят это как признак нормализации отношений с США. Западные критики могут выражать обеспокоенность по поводу сближения России и США. Оппоненты Трампа могут использовать это как доказательство его пророссийской позиции.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-03",
-      "id": "ea2b715fb5cd"
-    },
-    {
-      "title_ru": "Путин обвинил Киев в осложнении мирного урегулирования",
-      "title_en": "Putin accuses Kyiv of complicating peaceful settlement",
-      "date": "2026-09-03",
-      "summary": "Президент России Владимир Путин заявил, что действия Киева осложняют возможности мирного урегулирования конфликта. При этом он подтвердил, что контакты России с Украиной продолжаются.",
-      "category": "politics",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20260903/putin-2115138093.html",
-        "https://ria.ru/20260903/putin-2115137190.html"
-      ],
-      "perspective": "Российская сторона представит это как доказательство нежелания Украины идти на мирные переговоры. Украина и её западные союзники могут обвинять Россию в попытке переложить ответственность за продолжение конфликта. Нейтральные наблюдатели могут рассматривать это как риторику в рамках информационной войны.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-03",
-      "id": "592ede09b941"
-    },
-    {
-      "title_ru": "Иран противостоит E3 по вопросу восстановления санкций при поддержке России и Китая",
-      "title_en": "Iran faces off with E3 over snapback sanctions as Russia and China back Tehran",
-      "date": "2026-09-03",
-      "summary": "Иран вступил в противостояние с европейской тройкой (Великобритания, Франция, Германия) по вопросу восстановления санкций против Тегерана. Россия и Китай поддержали Иран в этом споре, что указывает на укрепление антизападного альянса.",
-      "category": "politics",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.ir/Detail/2025/08/29/753991/Iran-faces-off-with-E3-over-snapback-sanctions-as-Russia-and-China-back-Tehran"
-      ],
-      "perspective": "Иран и его союзники представят это как сопротивление несправедливому давлению Запада. Западные страны могут рассматривать это как попытку Ирана избежать ответственности за нарушение ядерной сделки. Страны E3 могут обвинять Россию и Китай в подрыве международных усилий по нераспространению.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-03",
-      "id": "c11c531a36c2"
-    },
-    {
-      "title_ru": "Президент Индонезии Прабово и Путин подчеркнули укрепление партнерства",
-      "title_en": "Prabowo, Putin highlight stronger Indonesia-Russia partnership",
-      "date": "2026-09-03",
-      "summary": "Президент Индонезии Прабово Субианто и российский лидер Владимир Путин провели переговоры, в ходе которых подчеркнули укрепление стратегического партнерства между двумя странами. Это свидетельствует о расширении российского влияния в Юго-Восточной Азии.",
-      "category": "politics",
-      "sources": [
-        "en.antaranews.com"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/429689/prabowo-putin-highlight-stronger-indonesia-russia-partnership"
-      ],
-      "perspective": "Россия и Индонезия представят это как взаимовыгодное сотрудничество. Западные страны могут выражать обеспокоенность по поводу расширения российского влияния в регионе. Китай может внимательно следить за развитием отношений, учитывая свои интересы в Юго-Восточной Азии.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-03",
-      "id": "763397f5d2c4"
-    },
-    {
-      "title_ru": "Биткоин стабилен около $77 300; углубляется переход на стейблкоины в Латинской Америке",
-      "title_en": "Bitcoin Steady Near $77,300; LatAm Stablecoin Shift Deepens",
-      "date": "2026-09-03",
-      "summary": "Криптовалюта биткоин демонстрирует стабильность в районе $77 300. Одновременно в странах Латинской Америки углубляется переход на стейблкоины (стабильные криптовалюты), что отражает растущее принятие цифровых активов в регионе.",
-      "category": "ai",
-      "sources": [
-        "riotimesonline.com"
-      ],
-      "links": [
-        "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-thursday-september-3-2026/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-03",
-      "id": "f29b2d1e56c1"
-    },
-    {
-      "title_ru": "Южнокорейский президент Ли встречается с главой Hyundai Motor для переговоров об инвестициях",
-      "title_en": "Lee meets Hyundai Motor chief for possible investment talks",
-      "date": "2026-09-03",
-      "summary": "Президент Южной Кореи Ли встретился с председателем Hyundai Motor для обсуждения возможных инвестиций. Встреча свидетельствует о тесном взаимодействии правительства с крупнейшими промышленными конгломератами страны для стимулирования экономического роста.",
-      "category": "ai",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260903009400315"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-03",
-      "id": "12538f1715c0"
-    },
-    {
-      "title_ru": "Взлом данных Tving: скомпрометированы почти 40 миллионов аккаунтов",
-      "title_en": "Nearly 40 mln Tving accounts compromised in massive data breach: probe",
-      "date": "2026-09-03",
-      "summary": "В Южной Корее произошел масштабный взлом данных стримингового сервиса Tving, в результате которого были скомпрометированы учетные записи почти 40 миллионов пользователей. Расследование показало, что это одна из крупнейших утечек данных в истории страны.",
-      "category": "tech",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260903006152320",
-        "https://en.yna.co.kr/view/AEN20260903006151320",
-        "https://en.yna.co.kr/view/AEN20260903006100320"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-03",
-      "id": "e53b390a773a"
-    },
-    {
-      "title_ru": "Гонконгский активист Джошуа Вонг признал себя виновным в сговоре с иностранными силами",
-      "title_en": "Hong Kong activist Joshua Wong pleads guilty to foreign collusion",
-      "date": "2026-09-03",
-      "summary": "Известный гонконгский про-демократический активист Джошуа Вонг признал себя виновным в сговоре с иностранными силами по новым обвинениям в соответствии с законом о национальной безопасности. Это знаковое дело в рамках ужесточения контроля Пекина над Гонконгом.",
-      "category": "tech",
-      "sources": [
-        "www.taipeitimes.com",
-        "asia.nikkei.com",
-        "rss.nytimes.com"
-      ],
-      "links": [
-        "https://www.taipeitimes.com/News/world/archives/2026/09/03/2003863620",
-        "https://asia.nikkei.com/spotlight/hong-kong-security-law/hong-kong-activist-joshua-wong-pleads-guilty-to-foreign-collusion",
-        "https://www.nytimes.com/2026/09/02/world/asia/hong-kong-joshua-wong-activist-guilty.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-03",
-      "id": "b149c21f0d80"
-    },
-    {
-      "title_ru": "Иена укрепляется на фоне ожиданий повышения процентных ставок в Японии",
-      "title_en": "Yen strengthens as traders bet on Japan interest rate rises",
-      "date": "2026-09-03",
-      "summary": "Японская иена укрепляется на мировых рынках, поскольку трейдеры ожидают повышения процентных ставок Банком Японии. Это происходит на фоне продаж японских облигаций и пересмотра банками ипотечных стратегий в условиях роста ставок.",
-      "category": "finance",
-      "sources": [
-        "www.ft.com",
-        "asia.nikkei.com"
-      ],
-      "links": [
-        "https://www.ft.com/content/22abbb77-1344-4871-9692-97a779b1ba77?syn-25a6b1a6=1",
-        "https://asia.nikkei.com/spotlight/comment/as-bonds-sell-off-japan-needs-the-discipline-of-high-interest-rates",
-        "https://asia.nikkei.com/business/finance/rising-interest-rates-spur-japanese-banks-to-rethink-mortgages"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-03",
-      "id": "c73a33e86abc"
-    },
-    {
       "title_ru": "Иранская армия сообщает об ударах по базам США в Кувейте и ОАЭ",
       "title_en": "Iran Army says US bases in Kuwait, UAE hit, communication systems and hangars targeted",
       "date": "2026-09-04",
@@ -7599,25 +7402,6 @@
       "id": "55ba538e9296"
     },
     {
-      "title_ru": "Борьба за Йоханнесбург обостряется",
-      "title_en": "Battle for Joburg heats up",
-      "date": "2026-09-03",
-      "summary": "Политическая борьба за контроль над Йоханнесбургом набирает обороты. Город становится ареной ожесточённого противостояния между различными политическими силами.",
-      "category": "politics",
-      "area": "Африка",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/politics/2026-09-03-battle-for-joburg-heats-up/"
-      ],
-      "perspective": "Правящая партия АНК может рассматривать это как угрозу своему контролю над крупнейшим городом страны. Оппозиционные партии видят возможность усилить своё влияние в стратегически важном регионе.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-03",
-      "id": "a4a791aea1ba"
-    },
-    {
       "title_ru": "Спецкомитет в тупике из-за предполагаемых связей Мчуну с картелями",
       "title_en": "Ad hoc committee at loggerheads over Mchunu's alleged links to cartels",
       "date": "2026-09-08",
@@ -8842,24 +8626,6 @@
       "id": "3fdd6f7b419f"
     },
     {
-      "title_ru": "Борьба за Йоханнесбург накаляется",
-      "title_en": "Battle for Joburg heats up",
-      "date": "2026-09-03",
-      "summary": "Политическая борьба за контроль над Йоханнесбургом усиливается. Различные политические силы конкурируют за влияние в крупнейшем городе Южной Африки.",
-      "category": "politics",
-      "area": "Африка",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/politics/2026-09-03-battle-for-joburg-heats-up/"
-      ],
-      "perspective": "Правящая партия АНК рассматривает это как угрозу своему влиянию в экономическом центре страны, в то время как оппозиционные партии видят возможность усилить свои позиции. Местные жители могут быть обеспокоены политической нестабильностью.",
-      "perspective_type": "assumed",
-      "first_reported": "2026-09-03",
-      "id": "96ab99eed94e"
-    },
-    {
       "title_ru": "В ЮАР четыре человека получили профилактическую вакцину против ВИЧ",
       "title_en": "Four people in South Africa received HIV prevention vaccine",
       "date": "2026-09-08",
@@ -9022,27 +8788,6 @@
       "is_development": false,
       "first_reported": "2026-09-08",
       "id": "1984e0099132"
-    },
-    {
-      "title_ru": "Агент ICE обвинён во лжи о расстреле венесуэльца в Миннеаполисе",
-      "title_en": "ICE officer charged with lying about shooting of Venezuelan in Minneapolis, source says",
-      "date": "2026-09-03",
-      "summary": "Агент иммиграционной и таможенной полиции США (ICE) обвинён во лжи о стрельбе в отношении венесуэльского гражданина в Миннеаполисе. Этот случай подчёркивает более широкий отход Министерства юстиции от расследований стрельб с участием сотрудников ICE.",
-      "category": "politics",
-      "area": "Северная и Центральная Америка",
-      "sources": [
-        "The Washington Post",
-        "The Globe and Mail"
-      ],
-      "links": [
-        "https://www.washingtonpost.com/politics/2026/09/08/rare-chargings-against-agent-highlight-broader-retreat-ice-shooting-probes/",
-        "https://www.theglobeandmail.com/world/article-ice-minneapolis-lying-investigation-venezuela-shooting/"
-      ],
-      "perspective": "Правозащитные организации и демократы видят в этом системную проблему безнаказанности в правоохранительных органах, в то время как республиканцы могут рассматривать обвинение как изолированный инцидент или даже как чрезмерное давление на сотрудников правоохранительных органов.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-03",
-      "id": "03b9bc0b72c9"
     },
     {
       "title_ru": "Совет Samsung для Apple по складному iPhone и вызовы ИИ для нового CEO",
@@ -9635,25 +9380,6 @@
       "is_development": false,
       "first_reported": "2026-09-08",
       "id": "9b3fef824eac"
-    },
-    {
-      "area": "Африка",
-      "category": "politics",
-      "date": "2026-09-03",
-      "is_development": false,
-      "links": [
-        "https://mg.co.za/politics/2026-09-03-battle-for-joburg-heats-up/"
-      ],
-      "perspective": "Правящая партия АНК представит это как демократический процесс, в то время как оппозиционные партии могут обвинять власти в манипуляциях и недостаточной прозрачности выборов. Местные жители Йоханнесбурга могут выражать разочарование политическими играми на фоне социально-экономических проблем.",
-      "perspective_type": "assumed",
-      "sources": [
-        "mg.co.za"
-      ],
-      "summary": "В ЮАР накаляется политическая борьба за контроль над Йоханнесбургом. Различные политические силы активизировали кампании в преддверии важных выборов, которые определят будущее крупнейшего города страны.",
-      "title_en": "Battle for Joburg heats up",
-      "title_ru": "В ЮАР накаляется борьба за контроль над Йоханнесбургом",
-      "first_reported": "2026-09-03",
-      "id": "277b9c353e7f"
     },
     {
       "area": "Океания и Австралия",
@@ -10796,10 +10522,301 @@
       "title_ru": "Африканским сообществам нужны климатические услуги, сочетающие науку и местные знания",
       "first_reported": "2026-09-08 14:23:01+00:00",
       "id": "7eeee33e60c4"
+    },
+    {
+      "title_ru": "Rocket Lab выпустила солнечный элемент для спутников с КПД 31,5% без германиевой подложки",
+      "title_en": "Rocket Lab Debuts New Solar Cell for Space",
+      "date": "2026-09-11 03:57:00+00:00",
+      "summary": "Компания Rocket Lab представила новый солнечный элемент для спутников с рекордной эффективностью 31,5%, который не требует германиевой подложки. Это прорыв в космической энергетике, позволяющий снизить вес и стоимость спутниковых систем.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru",
+        "finance.yahoo.com"
+      ],
+      "links": [
+        "https://naked-science.ru/article/hi-tech/solnechn-element-bez-germania",
+        "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-jumps-rocket-lab-201405525.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-11 03:57:00+00:00",
+      "id": "b8a0b7c2287e"
+    },
+    {
+      "title_ru": "Ангола открыла солнечный парк Luau для питания региона коридора Lobito",
+      "title_en": "Angola Opens Luau Solar Park to Power Lobito Corridor Region",
+      "date": "2026-09-11 06:56:17+00:00",
+      "summary": "Ангола ввела в эксплуатацию солнечный парк Luau мощностью 50 МВт для обеспечения электроэнергией региона коридора Lobito. Это важный шаг в развитии энергетической инфраструктуры страны и снижении зависимости от ископаемого топлива.",
+      "category": "tech",
+      "region": "Ангола",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/luau-photovoltaic-park-angola-2026/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-11 06:56:17+00:00",
+      "id": "ced3661c6509"
+    },
+    {
+      "title_ru": "На Килауэа зафиксировали уже 39 предвестниковых переливов лавы — эпизод 55 может начаться сегодня",
+      "title_en": "Kilauea volcano shows 39 precursor lava overflows",
+      "date": "2026-09-11 03:01:00+00:00",
+      "summary": "На гавайском вулкане Килауэа зафиксировано 39 предвестниковых переливов лавы, что указывает на возможное начало нового извержения (эпизод 55) в ближайшее время. Ученые мониторят ситуацию, так как активность вулкана представляет угрозу для местного населения.",
+      "category": "life",
+      "region": "США",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/climate/kilauea-epizod-55"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-11 03:01:00+00:00",
+      "id": "c4e798b94c35"
+    },
+    {
+      "title_ru": "Иран сигнализирует о готовности к эскалации войны с США на фоне растущего экономического давления",
+      "title_en": "Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure",
+      "date": "2026-09-09 12:04:46+00:00",
+      "summary": "Иран демонстрирует готовность к эскалации конфликта с США на фоне усиливающегося экономического давления. Ситуация в Ормузском проливе остается напряженной, что создает угрозу для международной торговли и региональной стабильности.",
+      "category": "conflicts",
+      "region": "Иран",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-09 12:04:46+00:00",
+      "id": "2ed9554b7720"
+    },
+    {
+      "title_ru": "Военная операция на Украине. Онлайн",
+      "title_en": "Military operation in Ukraine. Online",
+      "date": "2026-09-11 10:17:26+03:00",
+      "summary": "Российские источники продолжают освещать ход военной операции на Украине. Сообщается о потерях украинской стороны и развитии ситуации на линии фронта.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "rssexport.rbc.ru"
+      ],
+      "links": [
+        "https://www.rbc.ru/textonlines/18/04/2025/6216fb4d9a79474dc80e8821"
+      ],
+      "is_development": true,
+      "first_reported": "2026-09-11 10:17:26+03:00",
+      "id": "76635c5a9489"
+    },
+    {
+      "title_ru": "Глава МИД Польши прибыл в Киев",
+      "title_en": "Polish Foreign Minister arrives in Kyiv",
+      "date": "2026-09-11 10:16:16+03:00",
+      "summary": "Министр иностранных дел Польши прибыл в Киев для переговоров с украинским руководством. Визит демонстрирует продолжение политической и дипломатической поддержки Украины со стороны Польши.",
+      "category": "svo",
+      "region": "Польша",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/mezhdunarodnaya-panorama/28102033"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-11 10:16:16+03:00",
+      "id": "8efea00e6503"
+    },
+    {
+      "title_ru": "Политика, торговля, атомная энергетика. Отношения России и Индии",
+      "title_en": "Politics, trade, nuclear energy. Relations between Russia and India",
+      "date": "2026-09-11 10:54:09+03:00",
+      "summary": "Россия и Индия укрепляют сотрудничество в политической, торговой и атомной энергетической сферах. Обе страны развивают стратегическое партнерство, несмотря на международное давление.",
+      "category": "economy",
+      "region": "Россия",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/info/28102067"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-11 10:54:09+03:00",
+      "id": "a247e82e7afa"
+    },
+    {
+      "title_ru": "Песков назвал отношения России и ОАЭ очень дружественными",
+      "title_en": "Peskov calls relations between Russia and UAE very friendly",
+      "date": "2026-09-11 10:02:54+03:00",
+      "summary": "Пресс-секретарь президента России Дмитрий Песков заявил, что отношения между Россией и Объединенными Арабскими Эмиратами являются очень дружественными. Это свидетельствует о развитии экономического и политического сотрудничества между странами.",
+      "category": "economy",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260911/peskov-2116991620.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-11 10:02:54+03:00",
+      "id": "054541e377ac"
+    },
+    {
+      "title_ru": "Венгрия требует от Европы оплатить свою долю на границах — или иначе",
+      "title_en": "Magyar demands Europe pay its share on borders — or else",
+      "date": "2026-09-11 03:29:28+00:00",
+      "summary": "Министр иностранных дел Венгрии Петер Сийярто потребовал от Европейского союза оплатить свою долю расходов на охрану границ, угрожая иными мерами в случае отказа. Это отражает продолжающиеся разногласия Венгрии с ЕС по миграционной политике.",
+      "category": "politics",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/diplomacy/magyar-demands-europe-pay-its-share-on-borders-or-else/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-11 03:29:28+00:00",
+      "id": "db733be95942"
+    },
+    {
+      "title_ru": "Альянс Клаудии Лопес и Петро возрождается: левые Колумбии перегруппировываются к выборам 2027 года",
+      "title_en": "Claudia López Petro Alliance Is Back: Colombia's Left Regroups for the 2027 Vote",
+      "date": "2026-09-11 07:25:08+00:00",
+      "summary": "Левое политическое движение Колумбии возрождает альянс между мэром Боготы Клаудией Лопес и бывшим президентом Густаво Петро для подготовки к выборам 2027 года. Это свидетельствует о консолидации левых сил в стране.",
+      "category": "politics",
+      "region": "Колумбия",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/claudia-lopez-petro-alliance-relaunch-2026/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-11 07:25:08+00:00",
+      "id": "24acffc40931"
+    },
+    {
+      "title_ru": "Трамп заявил, что не жалеет об атаке на Иран",
+      "title_en": "Trump says he doesn't regret attack on Iran",
+      "date": "2026-09-11 06:10:01+03:00",
+      "summary": "Бывший президент США Дональд Трамп заявил, что не сожалеет о начале войны с Ираном. Это заявление сделано на фоне продолжающегося конфликта и предстоящих президентских выборов в США.",
+      "category": "statement",
+      "region": "США",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8941363"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-11 06:10:01+03:00",
+      "id": "5f14853e875a"
+    },
+    {
+      "title_ru": "Российский астроном опроверг одно из ключевых свойств Вселенной",
+      "title_en": "Russian astronomer refutes one of the key properties of the Universe",
+      "date": "2026-09-11 07:25:23+00:00",
+      "summary": "Российский астроном представил исследование, которое ставит под сомнение одно из фундаментальных свойств Вселенной. Это научное открытие может изменить современные представления о космологии и структуре мироздания.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/astronomy/oproverg-svojstvo-vselennoj"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-11 07:25:23+00:00",
+      "id": "6129a8a58ebd"
+    },
+    {
+      "title_ru": "Исследователь Anthropic уволился, ссылаясь на опасности развития ИИ",
+      "title_en": "Anthropic researcher resigns, citing dangers of AI development",
+      "date": "2026-09-09 19:21:02+00:00",
+      "summary": "Исследователь компании Anthropic, занимающейся разработкой искусственного интеллекта, уволился, заявив об опасностях бесконтрольного развития ИИ для человечества. Это вызвало дискуссию о необходимости регулирования искусственного интеллекта.",
+      "category": "ai",
+      "region": "США",
+      "sources": [
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/business/technology/article-anthropic-researcher-resigns-ai-danger/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-09 19:21:02+00:00",
+      "id": "9b98d5927af9"
+    },
+    {
+      "title_ru": "Американские законодатели призывают к новым правилам для ИИ после предупреждений исследователей Anthropic",
+      "title_en": "US lawmakers call for new AI rules after Anthropic researchers' warnings",
+      "date": "2026-09-10 20:41:00+03:00",
+      "summary": "Американские законодатели начали призывать к разработке новых правил регулирования искусственного интеллекта после предупреждений исследователей компании Anthropic об опасностях ИИ. Это свидетельствует о растущей политической озабоченности проблемами безопасности ИИ.",
+      "category": "ai",
+      "region": "США",
+      "sources": [
+        "www.dailysabah.com"
+      ],
+      "links": [
+        "https://www.dailysabah.com/business/economy/us-lawmakers-call-for-new-ai-rules-after-anthropic-researchers-warnings"
+      ],
+      "is_development": true,
+      "first_reported": "2026-09-10 20:41:00+03:00",
+      "id": "f872081a49ca"
+    },
+    {
+      "title_ru": "Генерал Резаи: След давления США и Израиля очевиден в антииранской резолюции Совета управляющих",
+      "title_en": "General Rezaei: Trace of US-Israeli pressure is evident in Board of Governors' anti-Iran resolution",
+      "date": "2026-09-11 00:49:58+00:00",
+      "summary": "Иранский генерал Мохсен Резаи заявил, что антииранская резолюция Совета управляющих МАГАТЭ была принята под давлением США и Израиля. Это обвинение отражает продолжающуюся конфронтацию Ирана с западными странами по ядерной программе.",
+      "category": "politics",
+      "region": "Иран",
+      "sources": [
+        "en.irna.ir"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86260694/General-Rezaei-Trace-of-US-Israeli-pressure-is-evident-in-Board"
+      ],
+      "is_development": true,
+      "first_reported": "2026-09-11 00:49:58+00:00",
+      "id": "6f095918bff5"
+    },
+    {
+      "title_ru": "Пакистан подтвердил право Ирана на мирную ядерную энергию",
+      "title_en": "Pakistan reaffirms Iran's right to peaceful nuclear energy",
+      "date": "2026-09-10 09:32:25+00:00",
+      "summary": "Пакистан подтвердил право Ирана на развитие мирной ядерной энергетики. Это заявление демонстрирует поддержку Ирана со стороны Пакистана в противостоянии с западными странами по ядерной программе.",
+      "category": "politics",
+      "region": "Пакистан",
+      "sources": [
+        "en.irna.ir"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86260257/Pakistan-reaffirms-Iran-s-right-to-peaceful-nuclear-energy"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-10 09:32:25+00:00",
+      "id": "2aef4f4129dc"
+    },
+    {
+      "title_ru": "В Канаде началась первая фаза реструктуризации армии с созданием дивизии для обороны страны",
+      "title_en": "First phase of Army restructuring creates division focused on defending Canada",
+      "date": "2026-09-10 17:33:13+00:00",
+      "summary": "Канада начала первую фазу реструктуризации своей армии, создав новую дивизию, ориентированную на оборону страны. Это часть масштабной военной реформы, направленной на повышение обороноспособности Канады.",
+      "category": "politics",
+      "region": "Канада",
+      "sources": [
+        "www.cbc.ca"
+      ],
+      "links": [
+        "https://www.cbc.ca/news/canada/edmonton/canadian-army-readies-for-future-of-combat-9.7339337?cmp=rss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-10 17:33:13+00:00",
+      "id": "1ffdb1ea2412"
     }
   ],
   "_stats": {
-    "total_tokens": 2230896,
-    "total_cost": 281.42276799999996
+    "total_tokens": 2247918,
+    "total_cost": 282.517228
   }
 }
