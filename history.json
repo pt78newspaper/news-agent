@@ -1,212 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Иранская армия сообщает об ударах по базам США в Кувейте и ОАЭ",
-      "title_en": "Iran Army says US bases in Kuwait, UAE hit, communication systems and hangars targeted",
-      "date": "2026-09-04",
-      "summary": "Иранская армия заявила о нанесении ударов по американским базам в Кувейте и Объединенных Арабских Эмиратах. По данным иранских источников, были поражены системы связи и ангары на военных объектах США.",
-      "category": "politics",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.ir/Detail/2026/09/03/775589/Army-Saeqeh-Operation-wave-31-US-bases-Kuwait-UAE"
-      ],
-      "perspective": "Иранские власти представляют это как ответ на американскую агрессию, в то время как США и их союзники, вероятно, расценят это как эскалацию конфликта и нарушение международного права.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-04",
-      "id": "55d492be8f49"
-    },
-    {
-      "title_ru": "Анализ Reuters подтверждает прямое попадание американского боеприпаса в свадебную процессию в Иране",
-      "title_en": "Reuters analysis confirms US munition directly hit wedding party in Iran",
-      "date": "2026-09-04",
-      "summary": "Международное агентство Reuters провело анализ, который подтвердил, что американский боеприпас напрямую попал в свадебную процессию в иранском городе Сирик. Расследование выявило военное преступление США.",
-      "category": "politics",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.ir/Detail/2026/09/04/775627/Reuters-analysis-confirms-US-munition-directly-hit-wedding-party-in-Sirik--Probe-exposes-American-war-crime"
-      ],
-      "perspective": "Иранские власти используют это как доказательство военных преступлений США, в то время как американская сторона может отрицать преднамеренность или ссылаться на ошибки разведки.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-04",
-      "id": "71f3856ada82"
-    },
-    {
-      "title_ru": "Россия и Китай укрепляют сотрудничество в энергетике и Арктике",
-      "title_en": "Russia, China develop LNG project in Arctic — Russian deputy premier",
-      "date": "2026-09-04",
-      "summary": "Россия и Китай развивают проект по производству сжиженного природного газа в Арктике. Также стороны обсуждают ускорение соглашений по проекту \"Мощь Байкала\" и новые проекты в атомной энергетике.",
-      "category": "politics",
-      "sources": [
-        "tass.com",
-        "tass.com",
-        "tass.com"
-      ],
-      "links": [
-        "https://tass.com/economy/2182459",
-        "https://tass.com/economy/2182461",
-        "https://tass.com/economy/2182457"
-      ],
-      "perspective": "Российские власти представляют это как успешное развитие стратегического партнерства с Китаем, в то время как западные страны могут видеть в этом угрозу своим интересам в Арктике и усиление антизападного альянса.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-04",
-      "id": "3817aa847389"
-    },
-    {
-      "title_ru": "Силы ПВО России за ночь сбили 490 беспилотников над регионами страны",
-      "title_en": "Russian air defense forces shot down 490 drones over Russian regions overnight",
-      "date": "2026-09-04",
-      "summary": "Российские силы противовоздушной обороны за ночь сбили 490 беспилотных летательных аппаратов над различными регионами России. Это свидетельствует о масштабных атаках дронов на российскую территорию.",
-      "category": "politics",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8925525"
-      ],
-      "perspective": "Российские власти представляют это как успешное отражение атак, в то время как украинская сторона может рассматривать такие атаки как законные военные действия в рамках обороны своей территории.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-04",
-      "id": "55c6ac59bcf9"
-    },
-    {
-      "title_ru": "Банк России купил юани на 5,9 млрд рублей",
-      "title_en": "Bank of Russia bought yuan for 5.9 billion rubles",
-      "date": "2026-09-04",
-      "summary": "Центральный банк России приобрел китайские юани на сумму 5,9 млрд рублей в ходе операций 3 сентября. Это продолжает тенденцию дедолларизации и усиления использования китайской валюты в российской экономике.",
-      "category": "politics",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/ekonomika/28079367"
-      ],
-      "perspective": "Российские власти видят в этом шаг к финансовой независимости от западных санкций, в то время как западные аналитики могут рассматривать это как свидетельство изоляции России от мировой финансовой системы.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-04",
-      "id": "aa6e2f07a3e4"
-    },
-    {
-      "title_ru": "Основатель Naver и глава Brookfield обсуждают создание AI-фабрики",
-      "title_en": "Naver founder, Brookfield chief meet for follow-up talks on AI factory",
-      "date": "2026-09-04",
-      "summary": "Основатель южнокорейской компании Naver и руководитель канадской инвестиционной компании Brookfield провели переговоры о создании \"AI-фабрики\". Это продолжение ранее начатых обсуждений по развитию искусственного интеллекта.",
-      "category": "ai",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260904010100320"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-04",
-      "id": "c7e7a3d19281"
-    },
-    {
-      "title_ru": "Боливия направляет пакет МВФ на рассмотрение в конгресс",
-      "title_en": "Bolivia Sends Its IMF Package to Congress",
-      "date": "2026-09-04",
-      "summary": "Правительство Боливии направило пакет реформ, согласованный с Международным валютным фондом, на рассмотрение национального конгресса. Это важный шаг в реализации экономической программы страны.",
-      "category": "ai",
-      "sources": [
-        "riotimesonline.com"
-      ],
-      "links": [
-        "https://www.riotimesonline.com/bolivia-imf-package-congress-reform-2026/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-04",
-      "id": "146933ae1777"
-    },
-    {
-      "title_ru": "Центробанк Бразилии ликвидировал 17 компаний в этом году",
-      "title_en": "Brazil's Central Bank Has Wound Up 17 Firms This Year",
-      "date": "2026-09-04",
-      "summary": "Центральный банк Бразилии в текущем году завершил процедуры ликвидации 17 компаний. Это часть усилий регулятора по очистке финансового сектора и борьбе с проблемными финансовыми организациями.",
-      "category": "tech",
-      "sources": [
-        "riotimesonline.com"
-      ],
-      "links": [
-        "https://www.riotimesonline.com/brazil-central-bank-liquidations-2026/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-04",
-      "id": "7fd4053cddde"
-    },
-    {
-      "title_ru": "Судья, вынесший пожизненный приговор президенту Южной Кореи, обвинен в коррупции",
-      "title_en": "Judge who handed Yoon life sentence indicted for corruption",
-      "date": "2026-09-04",
-      "summary": "Судья, который вынес пожизненный приговор бывшему президенту Южной Кореи Йону Сок Ёлю, сам был обвинен в коррупции. Это создает серьезный прецедент в южнокорейской судебной системе.",
-      "category": "tech",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260904003851315"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-04",
-      "id": "a5bad9243f3c"
-    },
-    {
-      "title_ru": "Японские растущие доходности влияют на рынок США",
-      "title_en": "Japan's rising yields are impacting US market: senior Treasury official",
-      "date": "2026-09-04",
-      "summary": "Высокопоставленный чиновник Министерства финансов США заявил, что растущие доходности японских государственных облигаций оказывают влияние на американский рынок. Это свидетельствует о взаимосвязи глобальных финансовых рынков.",
-      "category": "finance",
-      "sources": [
-        "asia.nikkei.com"
-      ],
-      "links": [
-        "https://asia.nikkei.com/editor-s-picks/interview/japan-s-rising-yields-are-impacting-us-market-senior-treasury-official"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-04",
-      "id": "5d658ff247b7"
-    },
-    {
-      "title_ru": "Новый SSD от Lexar настолько тонкий, что у него нет обычного USB-C порта",
-      "title_en": "Lexar's New SSD Is So Thin It Doesn't Even Have a Regular USB-C Port",
-      "date": "2026-09-04",
-      "summary": "Компания Lexar представила новый твердотельный накопитель, который настолько тонкий, что в нем отсутствует стандартный порт USB-C. Это инновационное решение для ультратонких устройств и мобильных пользователей.",
-      "category": "photo",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/09/04/lexars-new-ssd-is-so-thin-it-doesnt-even-have-a-regular-usb-c-port/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-04",
-      "id": "8c14f58e0d50"
-    },
-    {
-      "title_ru": "Теперь можно использовать Gemini Spark для управления Google Фото",
-      "title_en": "You Can Now Use Gemini Spark to Manage Your Google Photos",
-      "date": "2026-09-04",
-      "summary": "Google представила интеграцию своего ИИ-ассистента Gemini Spark с сервисом Google Фото. Теперь пользователи могут использовать голосовые команды и ИИ-функции для управления своими фотографиями и видео.",
-      "category": "tech",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/09/03/you-can-now-use-gemini-spark-to-manage-your-google-photos/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-04",
-      "id": "532b7c63740c"
-    },
-    {
       "title_ru": "Путин присвоил Собянину звание Героя Труда",
       "title_en": "Putin awards Sobyanin Hero of Labor title",
       "date": "2026-09-05",
@@ -650,32 +444,6 @@
       "is_development": false,
       "first_reported": "2026-09-05",
       "id": "6d47beb879c8"
-    },
-    {
-      "title_ru": "Джим Крамер обсуждает перспективы MP Materials и других компаний",
-      "title_en": "Jim Cramer discusses prospects of MP Materials and other companies",
-      "date": "2026-09-04",
-      "summary": "Известный финансовый аналитик Джим Крамер выразил оптимизм по поводу акций MP Materials, но предупредил инвесторов не ожидать быстрых результатов. Он также обсуждал перспективы Gap, Ross Stores и возможные скрытые акции в ядерной отрасли.",
-      "category": "finance",
-      "sources": [
-        "finance.yahoo.com",
-        "finance.yahoo.com",
-        "finance.yahoo.com",
-        "finance.yahoo.com",
-        "finance.yahoo.com"
-      ],
-      "links": [
-        "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-bullish-mp-materials-231441735.html",
-        "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discussed-big-excitement-225936569.html",
-        "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-thinks-struggling-stock-225833944.html",
-        "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-revealed-why-ross-225741526.html",
-        "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-might-revealed-major-225607734.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-04",
-      "id": "21c6a3765a8b"
     },
     {
       "title_ru": "10 победителей конкурса подводной фотографии Australasia 2026",
@@ -1130,51 +898,6 @@
       "last_reported": "2026-09-07"
     },
     {
-      "title_ru": "Судья объявляет неправильный суд в деле Линдси Клэнси после тупика в жюри",
-      "title_en": "Judge declares mistrial in Lindsay Clancy murder case after jury deadlock",
-      "date": "2026-09-04",
-      "summary": "Судья объявил неправильный суд в деле Линдси Клэнси, обвиняемой в убийстве своих детей, после того как жюри присяжных не смогло прийти к единому вердикту. Жюри оставалось в тупике в течение пяти дней, несмотря на неоднократные попытки достичь консенсуса. Это решение означает, что дело может быть пересмотрено в новом судебном процессе.",
-      "category": "politics",
-      "area": "Северная и Центральная Америка",
-      "sources": [
-        "The Globe and Mail"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/world/article-judge-in-lindsay-clancy-trial-to-hold-off-on-formally-declaring-a/",
-        "https://www.theglobeandmail.com/world/article-lindsay-clancy-trial-deadlocked-jury-as-risk-of-mistrial-grows/",
-        "https://www.theglobeandmail.com/world/article-lindsay-clancy-murder-trial-what-happens-if-jury-cant-reach-verdict/",
-        "https://www.theglobeandmail.com/world/article-lindsay-clancy-murder-trial-jury-3/"
-      ],
-      "perspective": "Сторона защиты может рассматривать это как свидетельство недостаточности доказательств или сложности дела, требующей более тщательного рассмотрения. Обвинение и сторонники жёсткого наказания могут видеть в этом неудачу судебной системы и необходимость более эффективного представления доказательств в будущем процессе.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-04",
-      "id": "1155fcd21a01"
-    },
-    {
-      "title_ru": "Tesla официально запускает Cybercab, который уже находится под расследованием",
-      "title_en": "Tesla's Cybercab Officially Launches Today. It's Already Under Investigation",
-      "date": "2026-09-04",
-      "summary": "Tesla официально запустила свой автономный такси-сервис Cybercab, но запуск прошёл без особого внимания прессы и уже находится под расследованием регулирующих органов. Компания представила новые детали о сервисе, включая запрет на перевозку маленьких детей. Наблюдатели сомневаются в успехе проекта, который считается решающим для будущего компании.",
-      "category": "tech",
-      "area": "Северная и Центральная Америка",
-      "sources": [
-        "Wired",
-        "TechCrunch"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
-        "https://www.wired.com/story/tesla-cybercab-officially-launches-today-its-already-under-investigation/",
-        "https://www.wired.com/story/tesla-cybercab-had-a-quiet-debut/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": true,
-      "first_reported": "2026-09-04",
-      "id": "33332e5ee1b1",
-      "last_reported": "2026-09-04"
-    },
-    {
       "title_ru": "Тёмная энергия и материя могут иметь своё собственное измерение",
       "title_en": "Two of the Universe's Great Mysteries May Have Their Own Dimension",
       "date": "2026-09-07",
@@ -1615,62 +1338,6 @@
       "first_reported": "2026-09-07",
       "id": "d833e40b575b",
       "last_reported": "2026-09-07"
-    },
-    {
-      "title_ru": "Необходимость коллективных действий для восстановления доверия к цифровой коммуникации",
-      "title_en": "Collective action needed to rebuild trust in digital communication",
-      "date": "2026-09-04",
-      "summary": "В ЮАР обсуждается кризис доверия к цифровой коммуникации и необходимость коллективных действий для его восстановления. Авторы подчёркивают, что проблемы с дезинформацией, кибербезопасностью и приватностью требуют совместных усилий государства, бизнеса и гражданского общества. Предлагаются меры по созданию более безопасной и доверительной цифровой среды.",
-      "category": "politics",
-      "area": "Африка",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/partner-content/2026-09-04-collective-action-needed-to-rebuild-trust-in-digital-communication/"
-      ],
-      "perspective": "Правительство может использовать это для обоснования усиления регулирования интернета, в то время как правозащитники могут опасаться ограничения свобод. Технологические компании могут поддерживать идеи саморегулирования, а гражданское общество - требовать большей прозрачности.",
-      "perspective_type": "assumed",
-      "first_reported": "2026-09-04",
-      "id": "04d1e924fe8f",
-      "last_reported": "2026-09-04"
-    },
-    {
-      "title_ru": "Традиция пролётов над стадионами ЮАР: гордость за точность, которую нужно защищать",
-      "title_en": "South Africa's stadium flyovers: A proud tradition of precision that should be defended",
-      "date": "2026-09-04",
-      "summary": "В ЮАР защищают традицию военных пролётов над стадионами во время спортивных мероприятий как символ национальной гордости и точности. Авторы утверждают, что эта практика демонстрирует профессиональные навыки военных и служит патриотическим жестом. Критики безопасности и затрат встречают сопротивление сторонников традиции.",
-      "category": "politics",
-      "area": "Африка",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/thought-leader/2026-09-04-south-africa-s-stadium-flyovers-a-proud-tradition-of-precision-that-should-be-defended/"
-      ],
-      "perspective": "Правительство и военные могут защищать традицию как важный элемент национальной идентичности, в то время как оппозиционные партии могут критиковать за ненужные расходы и риски безопасности. Гражданские активисты могут требовать перераспределения ресурсов на социальные нужды.",
-      "perspective_type": "assumed",
-      "first_reported": "2026-09-04",
-      "id": "524aec5dcc14"
-    },
-    {
-      "title_ru": "Технологии меняют опыт онлайн-казино в ЮАР",
-      "title_en": "How technology is changing South Africa's online casino experience",
-      "date": "2026-09-04",
-      "summary": "Технологические инновации трансформируют индустрию онлайн-гемблинга в ЮАР. Внедрение виртуальной реальности, искусственного интеллекта для персонализации и блокчейна для безопасности платежей создаёт новый пользовательский опыт. Эти изменения также поднимают вопросы регулирования и защиты потребителей в цифровую эпоху.",
-      "category": "tech",
-      "area": "Африка",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/partner-content/2026-09-04-how-technology-is-changing-south-africa-s-online-casino-experience/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "first_reported": "2026-09-04",
-      "id": "0a573eb51f4f",
-      "last_reported": "2026-09-04"
     },
     {
       "title_ru": "ФРС США готовится к возможному повышению ставок на фоне роста инфляции",
@@ -2892,25 +2559,6 @@
       "last_reported": "2026-09-08"
     },
     {
-      "title_ru": "Смерть американского дипломата Тимоти Карни",
-      "title_en": "Timothy Carney, Diplomat Who Went Places Others Avoided, Dies at 82",
-      "date": "2026-09-04",
-      "summary": "Американский дипломат Тимоти Карни, известный работой в сложных регионах, скончался в возрасте 82 лет. Он работал в местах, которых другие дипломаты избегали.",
-      "category": "politics",
-      "area": "Северная и Центральная Америка",
-      "sources": [
-        "rss.nytimes.com"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/09/04/obituaries/timothy-carney-dead.html"
-      ],
-      "perspective": "Дипломатические круги могут оценивать его как смелого профессионала, работавшего в сложных условиях, в то время как критики внешней политики США могут видеть в нём инструмент американского влияния.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-04",
-      "id": "6d1325ac1bd0"
-    },
-    {
       "title_ru": "Смерть активиста-пирогометальщика Ноэля Годена",
       "title_en": "Noël Godin, Prankster Who Threw Pies at the Powerful, Dies at 80",
       "date": "2026-09-07",
@@ -2946,24 +2594,6 @@
       "perspective_type": "assumed",
       "first_reported": "2026-09-07",
       "id": "6f546500ee25"
-    },
-    {
-      "title_ru": "Традиция пролетов над стадионами в ЮАР как предмет гордости",
-      "title_en": "South Africa's stadium flyovers: A proud tradition of precision that should be defended",
-      "date": "2026-09-04",
-      "summary": "В ЮАР защищают традицию проведения авиационных пролетов над стадионами во время спортивных мероприятий. Автор описывает эту практику как демонстрацию точности и мастерства пилотов, которая стала частью национальной культуры и должна сохраняться, несмотря на возможные возражения по соображениям безопасности или экологии.",
-      "category": "politics",
-      "area": "Африка",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/thought-leader/2026-09-04-south-africa-s-stadium-flyovers-a-proud-tradition-of-precision-that-should-be-defended/"
-      ],
-      "perspective": "Консервативные и патриотические силы могут поддерживать сохранение этой традиции как часть национального наследия, в то время как экологические активисты и группы безопасности могут выступать против из-за рисков для окружающей среды и общественной безопасности. Военные могут видеть в этом возможность для демонстрации своих возможностей.",
-      "perspective_type": "assumed",
-      "first_reported": "2026-09-04",
-      "id": "3f22079f2e3c"
     },
     {
       "title_ru": "Стоковые фото собаки стали вирусным мемом",
@@ -3166,27 +2796,6 @@
       "first_reported": "2026-09-07",
       "id": "853b4213af69",
       "last_reported": "2026-09-07"
-    },
-    {
-      "title_ru": "Запуск Tesla Cybercab и начало расследования",
-      "title_en": "Tesla Cybercab Officially Launches, Already Under Investigation",
-      "date": "2026-09-04",
-      "summary": "Tesla официально запустила свой автономный такси-сервис Cybercab, но он уже находится под расследованием регуляторов. Сервис имеет ограничения - запрещено перевозить маленьких детей. Это важное событие для автономного транспорта, а не маркетинговая новость о гаджете.",
-      "category": "tech",
-      "area": "Северная и Центральная Америка",
-      "sources": [
-        "techcrunch.com",
-        "www.wired.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
-        "https://www.wired.com/story/tesla-cybercab-officially-launches-today-its-already-under-investigation/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-04",
-      "id": "d5641cb7e1f9"
     },
     {
       "title_ru": "Mercosur запускает торговый столп с ЕС на фоне стагнации Тихоокеанского альянса",
@@ -3817,28 +3426,6 @@
       "id": "b0da4143aae6"
     },
     {
-      "area": "Северная и Центральная Америка",
-      "category": "tech",
-      "date": "2026-09-04",
-      "is_development": false,
-      "links": [
-        "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
-        "https://www.wired.com/story/tesla-cybercab-officially-launches-today-its-already-under-investigation/",
-        "https://www.wired.com/story/tesla-cybercab-had-a-quiet-debut/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "TechCrunch",
-        "Wired"
-      ],
-      "summary": "Tesla официально запустила свой автономный такси-сервис Cybercab, который уже находится под расследованием регулирующих органов. Сервис имеет ограничения, включая запрет на перевозку маленьких детей, и его запуск прошёл относительно тихо.",
-      "title_en": "Tesla's Cybercab Officially Launches, Already Under Investigation",
-      "title_ru": "Tesla официально запустила Cybercab, который уже находится под расследованием",
-      "first_reported": "2026-09-04",
-      "id": "076ee90db1d3"
-    },
-    {
       "title_ru": "Чили: экономический показатель Imacec упал на 1,5% из-за снижения экспорта меди",
       "title_en": "Chile Imacec Falls 1.5% as Copper Shipments Drop for First Time Since 2023",
       "date": "2026-09-07",
@@ -4243,24 +3830,6 @@
       "perspective_type": "assumed",
       "first_reported": "2026-09-07",
       "id": "fbb91bad68c2"
-    },
-    {
-      "title_ru": "Традиция пролётов самолётов над стадионами в ЮАР как предмет гордости",
-      "title_en": "South Africa's stadium flyovers: A proud tradition of precision that should be defended",
-      "date": "2026-09-04",
-      "summary": "В ЮАР защищают традицию пролётов самолётов над стадионами во время спортивных мероприятий как предмет национальной гордости. Автор утверждает, что это демонстрирует точность и мастерство южноафриканских пилотов и должно сохраняться.",
-      "category": "politics",
-      "area": "Африка",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/thought-leader/2026-09-04-south-africa-s-stadium-flyovers-a-proud-tradition-of-precision-that-should-be-defended/"
-      ],
-      "perspective": "Сторонники традиции видят в этом проявление национальной гордости и технического мастерства. Критики могут указывать на вопросы безопасности, затраты и экологические последствия таких мероприятий.",
-      "perspective_type": "assumed",
-      "first_reported": "2026-09-04",
-      "id": "9ef68e94a6f9"
     },
     {
       "area": "Мир",
@@ -5083,25 +4652,6 @@
       "id": "6dff9fe52253"
     },
     {
-      "title_ru": "Судья объявил аннулирование процесса по делу Линдси Клэнси",
-      "title_en": "Judge declares mistrial in Lindsay Clancy murder case after jury deadlock",
-      "date": "2026-09-04",
-      "summary": "Судья объявил аннулирование судебного процесса по делу об убийстве Линдси Клэнси после того, как присяжные не смогли прийти к единому вердикту. Защите было предоставлено время для подачи апелляции.",
-      "category": "politics",
-      "area": "Северная и Центральная Америка",
-      "sources": [
-        "The Globe and Mail"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/world/article-judge-in-lindsay-clancy-trial-to-hold-off-on-formally-declaring-a/"
-      ],
-      "perspective": "Сторонники обвинения могут критиковать судебную систему за неспособность добиться справедливости, в то время как защита может рассматривать это как подтверждение слабости обвинительных доказательств.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-04",
-      "id": "537efd574335"
-    },
-    {
       "title_ru": "Иран сохранил экспорт нефти несмотря на 550 ударов по Харгу в ходе войны с США",
       "title_en": "Iran kept oil exports flowing during war despite 550 strikes on Kharg: Minister",
       "date": "2026-09-08",
@@ -5457,44 +5007,6 @@
       "is_development": false,
       "first_reported": "2026-09-08",
       "id": "d17aa9d184f8"
-    },
-    {
-      "title_ru": "Коллективные действия для восстановления доверия к цифровой коммуникации",
-      "title_en": "Collective action needed to rebuild trust in digital communication",
-      "date": "2026-09-04",
-      "summary": "В ЮАР обсуждается необходимость коллективных действий для восстановления доверия к цифровой коммуникации. Авторы подчёркивают растущие проблемы с доверием в онлайн-пространстве и предлагают совместные усилия различных заинтересованных сторон. Вопрос касается как социальной, так и технологической сферы.",
-      "category": "politics",
-      "area": "Африка",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/partner-content/2026-09-04-collective-action-needed-to-rebuild-trust-in-digital-communication/"
-      ],
-      "perspective": "Правительственные структуры могут видеть в этом необходимость регулирования цифрового пространства, в то время как правозащитники могут опасаться ограничения свобод. Технологические компании могут поддерживать идею саморегулирования, а гражданское общество - требовать прозрачности.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-04",
-      "id": "f63b701c9841"
-    },
-    {
-      "title_ru": "Пролёты над стадионами ЮАР: традиция точности, которую нужно защищать",
-      "title_en": "South Africa's stadium flyovers: A proud tradition of precision that should be defended",
-      "date": "2026-09-04",
-      "summary": "В ЮАР защищают традицию точных пролётов самолётов над стадионами во время спортивных мероприятий. Автор описывает эту практику как гордую традицию, требующую высокой точности и профессионализма пилотов. Подчёркивается культурное и символическое значение этих пролётов для страны.",
-      "category": "politics",
-      "area": "Африка",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/thought-leader/2026-09-04-south-africa-s-stadium-flyovers-a-proud-tradition-of-precision-that-should-be-defended/"
-      ],
-      "perspective": "Правительство и военные могут поддерживать эту традицию как демонстрацию национальной гордости и технического мастерства. Критики могут указывать на затраты и риски безопасности, в то время как консервативные круги видят в этом важный элемент национальной идентичности.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-04",
-      "id": "2538b30d6593"
     },
     {
       "title_ru": "Канада вводит ответные тарифы на $27,6 млрд в торговой войне с США",
@@ -6470,27 +5982,6 @@
       "id": "a1c7b14d6f93"
     },
     {
-      "title_ru": "Судья объявил неправильный суд в деле Линдси Клэнси",
-      "title_en": "Judge declares mistrial in Lindsay Clancy case",
-      "date": "2026-09-04",
-      "summary": "Судья объявил неправильный суд в деле Линдси Клэнси, обвиняемой в убийстве своих детей, после того как жюри присяжных не смогло прийти к единому вердикту. Защите дали один час на подачу апелляции. Этот случай вызвал раскол в американском обществе.",
-      "category": "politics",
-      "area": "Северная и Центральная Америка",
-      "sources": [
-        "BBC",
-        "The Globe and Mail"
-      ],
-      "links": [
-        "https://www.bbc.co.uk/sounds/play/p0p8g14s?at_medium=RSS&at_campaign=rss",
-        "https://www.theglobeandmail.com/world/video-judge-says-he-must-declare-mistrial-in-lindsay-clancy-trial-gives/"
-      ],
-      "perspective": "Сторонники обвинения могут считать это несправедливостью для жертв. Защита и сторонники Клэнси могут видеть в этом возможность для нового суда. Общественные активисты могут обсуждать вопросы психического здоровья и систему правосудия.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-04",
-      "id": "0496373ae054"
-    },
-    {
       "title_ru": "Иран принял рубль в торговле с Россией, Беларусью и Арменией",
       "title_en": "Ruble accepted in Iran's trade with Russia, Belarus, Armenia",
       "date": "2026-09-08",
@@ -6814,25 +6305,6 @@
       "is_development": false,
       "first_reported": "2026-09-06",
       "id": "9b60119b8bf8"
-    },
-    {
-      "title_ru": "Необходимы коллективные действия для восстановления доверия к цифровой коммуникации",
-      "title_en": "Collective action needed to rebuild trust in digital communication",
-      "date": "2026-09-04",
-      "summary": "В статье обсуждается необходимость коллективных действий для восстановления доверия к цифровой коммуникации. Автор подчёркивает важность совместных усилий правительств, компаний и граждан для создания безопасной цифровой среды.",
-      "category": "tech",
-      "area": "Африка",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/partner-content/2026-09-04-collective-action-needed-to-rebuild-trust-in-digital-communication/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-04",
-      "id": "7c141a73090b"
     },
     {
       "title_ru": "Администрация Трампа видит причины конфликта на Украине, заявил Лавров",
@@ -8974,25 +8446,6 @@
       "id": "9ffda6d805c3"
     },
     {
-      "title_ru": "Технологии меняют опыт онлайн-казино в Южной Африке",
-      "title_en": "How technology is changing South Africa's online casino experience",
-      "date": "2026-09-04",
-      "summary": "Технологические инновации трансформируют индустрию онлайн-гемблинга в Южной Африке. Новые технологии улучшают пользовательский опыт, безопасность и доступность азартных игр в интернете. Это отражает общую тенденцию цифровизации развлекательной индустрии в стране.",
-      "category": "tech",
-      "area": "Африка",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/partner-content/2026-09-04-how-technology-is-changing-south-africa-s-online-casino-experience/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-04",
-      "id": "51187fd0816d"
-    },
-    {
       "title_ru": "Фондовые рынки падают на фоне роста цен на нефть и эскалации торговой войны США-Канада",
       "title_en": "Stock markets fall as oil prices rise, US-Canada trade war escalates",
       "date": "2026-09-08",
@@ -10813,10 +10266,390 @@
       "is_development": false,
       "first_reported": "2026-09-10 17:33:13+00:00",
       "id": "1ffdb1ea2412"
+    },
+    {
+      "category": "tech",
+      "date": "2026-09-12 07:48:59+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.jpost.com/health-and-wellness/article-908199"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Израиль",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "summary": "Израильские хирурги начали использовать нового робота для дробления камней в почках без разбрызгивания. Технология позволяет более точно и безопасно проводить операции, снижая риски для пациентов.",
+      "title_en": "New robot helps Israeli surgeons crush kidney stones without the splash",
+      "title_ru": "Новый робот помогает израильским хирургам дробить камни в почках без разбрызгивания",
+      "first_reported": "2026-09-12 07:48:59+00:00",
+      "id": "9f803f10b159"
+    },
+    {
+      "category": "tech",
+      "date": "2026-09-12 06:45:00+00:00",
+      "is_development": false,
+      "links": [
+        "https://naked-science.ru/article/astronomy/video-dzheta-somnenie-o-ego-ustroistve"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "summary": "Учёные получили самое детальное видео джета чёрной дыры, которое поставило под сомнение существующие представления о его устройстве. Наблюдения показывают неожиданную структуру и динамику выбросов материи.",
+      "title_en": "Самое детальное видео джета черной дыры поставило под сомнение представления о его устройстве",
+      "title_ru": "Самое детальное видео джета черной дыры поставило под сомнение представления о его устройстве",
+      "first_reported": "2026-09-12 06:45:00+00:00",
+      "id": "a81d0b7b2e53"
+    },
+    {
+      "category": "tech",
+      "date": "2026-09-11 08:54:34+00:00",
+      "is_development": false,
+      "links": [
+        "https://naked-science.ru/article/astronomy/kelt-20b-vpervye-nashli-kalii-kaltsii"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "summary": "В атмосфере ультрагорячего юпитера KELT-20b впервые обнаружены калий, кальций, ванадий, марганец и барий. Это открытие расширяет понимание химического состава экзопланет и процессов в их атмосферах.",
+      "title_en": "В атмосфере ультрагорячего юпитера KELT-20b впервые нашли калий, кальций, ванадий, марганец и барий",
+      "title_ru": "В атмосфере ультрагорячего юпитера KELT-20b впервые нашли калий, кальций, ванадий, марганец и барий",
+      "first_reported": "2026-09-11 08:54:34+00:00",
+      "id": "40d061d57777"
+    },
+    {
+      "category": "ai",
+      "date": "2026-09-11 14:29:47+00:00",
+      "is_development": false,
+      "links": [
+        "https://naked-science.ru/article/hi-tech/alice-ai-search-pretrain"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "summary": "Компания «Яндекс» выложила в открытый доступ суверенную языковую модель. Это позволяет российским разработчикам использовать и дорабатывать ИИ-технологии без зависимости от иностранных решений.",
+      "title_en": "«Яндекс» выложил в опенсорс суверенную языковую модель",
+      "title_ru": "«Яндекс» выложил в опенсорс суверенную языковую модель",
+      "first_reported": "2026-09-11 14:29:47+00:00",
+      "id": "75bb0c6b76e9"
+    },
+    {
+      "category": "life",
+      "date": "2026-09-12 10:45:00+03:00",
+      "is_development": false,
+      "links": [
+        "https://www.ukrinform.ua/rubric-regions/4163415-vijska-rf-za-dobu-48-raziv-udarili-po-prikordonnu-cernigivsini-e-postrazdala.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Украина",
+      "sources": [
+        "www.ukrinform.ua"
+      ],
+      "summary": "Российские войска за сутки 48 раз ударили по приграничным районам Черниговской области Украины. В результате обстрелов есть пострадавшая среди мирного населения.",
+      "title_en": "Війська РФ за добу 48 разів ударили по прикордонню Чернігівщини: є постраждала",
+      "title_ru": "Войска РФ за сутки 48 раз ударили по приграничью Черниговщины: есть пострадавшая",
+      "first_reported": "2026-09-12 10:45:00+03:00",
+      "id": "b4851c6bf71c"
+    },
+    {
+      "category": "life",
+      "date": "2026-09-12 09:55:00+03:00",
+      "is_development": false,
+      "links": [
+        "https://www.ukrinform.ua/rubric-regions/4163410-vijska-rf-za-dobu-vbili-cotiroh-ziteliv-doneccini-se-patoh-poranili.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Украина",
+      "sources": [
+        "www.ukrinform.ua"
+      ],
+      "summary": "Российские войска за сутки убили четырёх жителей Донецкой области Украины и ранили ещё пятерых. Обстрелы продолжаются по населённым пунктам региона.",
+      "title_en": "Війська РФ за добу вбили чотирьох жителів Донеччини, ще п'ятьох поранили",
+      "title_ru": "Войска РФ за сутки убили четырёх жителей Донецкой области, ещё пятерых ранили",
+      "first_reported": "2026-09-12 09:55:00+03:00",
+      "id": "5b05377a7e8e"
+    },
+    {
+      "category": "life",
+      "date": "2026-09-12 08:26:00+03:00",
+      "is_development": false,
+      "links": [
+        "https://www.ukrinform.ua/rubric-regions/4163384-na-hersonsini-za-dobu-cerez-rosijski-ataki-poraneni-18-ludej.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Украина",
+      "sources": [
+        "www.ukrinform.ua"
+      ],
+      "summary": "На Херсонщине за сутки в результате российских атак ранены 18 человек. Обстрелы населённых пунктов продолжаются, увеличивая число жертв среди мирного населения.",
+      "title_en": "На Херсонщині за добу через російські атаки поранені 18 людей",
+      "title_ru": "На Херсонщине за сутки из-за российских атак ранены 18 человек",
+      "first_reported": "2026-09-12 08:26:00+03:00",
+      "id": "807c46bd9713"
+    },
+    {
+      "category": "conflicts",
+      "date": "2026-09-12 08:07:30.658420+00:00",
+      "is_development": false,
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/10/776035/Yemeni-Armed-Forces-seize-control-of-strategic-Bab-el-mandeb-Strait-in-major-coastal-breakthrough"
+      ],
+      "perspective": "Йеменские силы сообщают о стратегическом прорыве, в то время как Саудовская Аравия и её союзники, вероятно, рассматривают это как угрозу безопасности судоходства в Красном море.",
+      "perspective_type": "assumed",
+      "region": "Йемен",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "summary": "Йеменские силы захватили порт аль-Ардхи на Баб-эль-Мандебском проливе. Это стратегический прорыв, дающий контроль над ключевым морским маршрутом в Красном море.",
+      "title_en": "Yemeni forces capture port of al-Ardhi on Bab al-Mandab: Report",
+      "title_ru": "Йеменские силы захватили порт аль-Ардхи на Баб-эль-Мандебском проливе: сообщение",
+      "first_reported": "2026-09-12 08:07:30.658420+00:00",
+      "id": "737b85250f52"
+    },
+    {
+      "category": "conflicts",
+      "date": "2026-09-12 09:34:17+09:00",
+      "is_development": false,
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260912000353315"
+      ],
+      "perspective": "Северная Корея рассматривает запуски как законное право на самооборону, в то время как Южная Корея, Япония и США осуждают их как провокационные действия, нарушающие резолюции ООН.",
+      "perspective_type": "assumed",
+      "region": "Корейский полуостров",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "summary": "Северная Корея запустила несколько баллистических ракет малой дальности в сторону Японского моря. Южнокорейские военные отслеживали полёты ракет, которые пролетели около 250 км.",
+      "title_en": "(3rd LD) N. Korea fires multiple short-range ballistic missiles toward East Sea: JCS",
+      "title_ru": "Северная Корея запустила несколько баллистических ракет малой дальности в сторону Японского моря: ОКНШ",
+      "first_reported": "2026-09-12 09:34:17+09:00",
+      "id": "3a9a29f91a24"
+    },
+    {
+      "category": "svo",
+      "date": "2026-09-12 11:04:17+03:00",
+      "is_development": false,
+      "links": [
+        "https://www.rbc.ru/politics/09/09/2026/6aa0fde8d949d93807ea1247"
+      ],
+      "perspective": "Российская сторона заявляет о законных ударах по военным объектам, в то время как Украина и её союзники осуждают атаки как военные преступления, наносящие ущерб гражданской инфраструктуре и приводящие к жертвам среди мирного населения.",
+      "perspective_type": "assumed",
+      "region": "Украина",
+      "sources": [
+        "rssexport.rbc.ru"
+      ],
+      "summary": "Минобороны России назвало цели ударов в Киеве, Запорожье и Кривом Роге. По заявлению ведомства, были поражены горно-обогатительные комбинаты, используемые ВСУ для военных нужд.",
+      "title_en": "Минобороны назвало цели ударов в Киеве, Запорожье и Кривом Роге",
+      "title_ru": "Минобороны назвало цели ударов в Киеве, Запорожье и Кривом Роге",
+      "first_reported": "2026-09-12 11:04:17+03:00",
+      "id": "16d71b1b2ccc"
+    },
+    {
+      "category": "svo",
+      "date": "2026-09-12 11:00:18+03:00",
+      "is_development": false,
+      "links": [
+        "https://tass.ru/armiya-i-opk/28105601"
+      ],
+      "perspective": "Российская сторона сообщает о значительных потерях ВСУ как о доказательстве эффективности своих действий, в то время как Украина обычно оспаривает такие цифры и обвиняет Россию в преувеличении.",
+      "perspective_type": "assumed",
+      "region": "Украина",
+      "sources": [
+        "tass.ru"
+      ],
+      "summary": "Вооружённые силы Украины за сутки потеряли порядка 1390 военнослужащих на всех направлениях специальной военной операции. По данным Минобороны РФ, наибольшие потери зафиксированы в зонах ответственности группировок «Восток» и «Юг».",
+      "title_en": "ВСУ за сутки потеряли порядка 1 390 военнослужащих на всех направлениях СВО",
+      "title_ru": "ВСУ за сутки потеряли порядка 1 390 военнослужащих на всех направлениях СВО",
+      "first_reported": "2026-09-12 11:00:18+03:00",
+      "id": "2d8b98137c89"
+    },
+    {
+      "category": "svo",
+      "date": "2026-09-12 11:01:38+03:00",
+      "is_development": false,
+      "links": [
+        "https://www.kommersant.ru/doc/8953363"
+      ],
+      "perspective": "Россия преподносит это как освобождение территории и успех своей военной операции, в то время как Украина рассматривает это как временную потерю территории в ходе продолжающихся боевых действий.",
+      "perspective_type": "assumed",
+      "region": "ДНР",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "summary": "Российские войска заняли село Весёлое в Донецкой Народной Республике. Это очередное продвижение российских сил на донецком направлении в ходе специальной военной операции.",
+      "title_en": "Российские войска заняли село Веселое в ДНР",
+      "title_ru": "Российские войска заняли село Весёлое в ДНР",
+      "first_reported": "2026-09-12 11:01:38+03:00",
+      "id": "8d9ccd7688d0"
+    },
+    {
+      "category": "economy",
+      "date": "2026-09-12 06:06:03+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.riotimesonline.com/cimentos-de-mocambique-150-million-expansion-2026/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Мозамбик",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "summary": "Компания Cimentos de Moçambique инвестирует 150 миллионов долларов в расширение производства цемента. Проект направлен на увеличение мощностей и удовлетворение растущего спроса на строительные материалы в стране.",
+      "title_en": "Cimentos de Moçambique Invests US$150 Million to Expand Cement Production",
+      "title_ru": "Cimentos de Moçambique инвестирует 150 миллионов долларов в расширение производства цемента",
+      "first_reported": "2026-09-12 06:06:03+00:00",
+      "id": "7e2ac8003792"
+    },
+    {
+      "category": "economy",
+      "date": "2026-09-11 13:46:36+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "США",
+      "sources": [
+        "www.cnbc.com"
+      ],
+      "summary": "Инфляция в США сохранилась в августе, что потенциально закрепляет повышение процентной ставки ФРС. Устойчивый рост цен усиливает давление на центральный банк для ужесточения денежно-кредитной политики.",
+      "title_en": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
+      "title_ru": "Инфляция сохранилась в августе, потенциально закрепляя повышение ставки ФРС",
+      "first_reported": "2026-09-11 13:46:36+00:00",
+      "id": "7ea4a0689a97"
+    },
+    {
+      "category": "politics",
+      "date": "2026-09-12 07:42:57+00:00",
+      "is_development": false,
+      "links": [
+        "https://en.mehrnews.com/news/247669/No-talks-with-US-until-it-accepts-all-Iran-s-conditions-MP"
+      ],
+      "perspective": "Иран настаивает на своих условиях как на предпосылке для любых переговоров, в то время как США, вероятно, рассматривают это как неприемлемые требования, затрудняющие дипломатическое взаимодействие.",
+      "perspective_type": "assumed",
+      "region": "Иран",
+      "sources": [
+        "en.mehrnews.com"
+      ],
+      "summary": "Иранский парламентарий заявил, что переговоры с США невозможны до тех пор, пока Вашингтон не примет все условия Тегерана. Это отражает жёсткую позицию Ирана в отношении диалога с американской стороной.",
+      "title_en": "No talks with US until it accepts all Iran's conditions: MP",
+      "title_ru": "Переговоров с США не будет, пока они не примут все условия Ирана: депутат",
+      "first_reported": "2026-09-12 07:42:57+00:00",
+      "id": "0116d5e22ae0"
+    },
+    {
+      "category": "politics",
+      "date": "2026-09-12 07:17:54+00:00",
+      "is_development": false,
+      "links": [
+        "https://en.mehrnews.com/news/247667/Iran-consulting-to-ease-Iran-s-membership-in-BRICS-NDB"
+      ],
+      "perspective": "Иран стремится к интеграции в международные финансовые структуры БРИКС, что может рассматриваться странами-членами как расширение влияния блока, а западными странами — как попытка обойти санкции.",
+      "perspective_type": "assumed",
+      "region": "Иран",
+      "sources": [
+        "en.mehrnews.com"
+      ],
+      "summary": "Иран ведёт консультации с членами БРИКС для облегчения своего вступления в Новый банк развития БРИКС. Это часть усилий Тегерана по интеграции в альтернативные международные финансовые структуры.",
+      "title_en": "Iran talking with BRICS members to ease Iran accession in NDB",
+      "title_ru": "Иран ведёт переговоры с членами БРИКС для облегчения своего вступления в НБР",
+      "first_reported": "2026-09-12 07:17:54+00:00",
+      "id": "062021161518"
+    },
+    {
+      "category": "politics",
+      "date": "2026-09-11 17:34:50+03:00",
+      "is_development": false,
+      "links": [
+        "https://tass.com/politics/2186261"
+      ],
+      "perspective": "Россия позиционирует БРИКС как альтернативу западным институтам, в то время как западные страны могут рассматривать это как попытку создания параллельной системы, бросающей вызов существующему мировому порядку.",
+      "perspective_type": "assumed",
+      "region": "Мир",
+      "sources": [
+        "tass.com"
+      ],
+      "summary": "Президент России Владимир Путин заявил, что правила бизнеса в БРИКС не навязываются «золотым миллиардом». Это подчёркивает позицию России о создании альтернативных международных экономических структур.",
+      "title_en": "BRICS business rules not imposed by 'Golden Billion' — Putin",
+      "title_ru": "Правила бизнеса БРИКС не навязываются «золотым миллиардом» — Путин",
+      "first_reported": "2026-09-11 17:34:50+03:00",
+      "id": "e8f82e277c38"
+    },
+    {
+      "category": "statement",
+      "date": "2026-09-11 20:45:18+00:00",
+      "is_development": false,
+      "links": [
+        "https://mg.co.za/business/2026-09-11-ramaphosa-warns-brics-against-a-new-raw-material-trap-for-africa/"
+      ],
+      "perspective": "Рамафоса выражает озабоченность африканских стран по поводу экономических отношений, в то время как другие члены БРИКС могут рассматривать это как конструктивную критику, направленную на создание более справедливых партнёрств.",
+      "perspective_type": "assumed",
+      "region": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "summary": "Президент ЮАР Сирил Рамафоса предупредил БРИКС о необходимости избежать новой сырьевой ловушки для Африки. Он призвал к созданию справедливых экономических отношений, которые принесут реальную пользу африканским странам, а не просто будут эксплуатировать их ресурсы.",
+      "title_en": "Ramaphosa warns BRICS against a new raw-material trap for Africa",
+      "title_ru": "Рамафоса предупредил БРИКС о новой сырьевой ловушке для Африки",
+      "first_reported": "2026-09-11 20:45:18+00:00",
+      "id": "be2fec5b8c91"
+    },
+    {
+      "category": "culture",
+      "date": "2026-09-11 11:31:41+00:00",
+      "is_development": false,
+      "links": [
+        "https://mg.co.za/friday/2026-09-11-nomfundo-xaluva-dyantyis-knows-the-value-of-owning-her-music/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "summary": "Южноафриканская певица Номфундо Ксалува-Дьянтис подчёркивает важность владения правами на свою музыку. Она делится опытом сохранения творческого контроля и финансовой независимости в музыкальной индустрии.",
+      "title_en": "Nomfundo Xaluva-Dyantyis knows the value of owning her music",
+      "title_ru": "Номфундо Ксалува-Дьянтис знает цену владения своей музыкой",
+      "first_reported": "2026-09-11 11:31:41+00:00",
+      "id": "0ed771cba1c9"
+    },
+    {
+      "category": "ecology",
+      "date": "2026-09-12 03:00:00+00:00",
+      "is_development": false,
+      "links": [
+        "https://mg.co.za/the-green-guardian/2026-09-12-the-long-journey-is-getting-harder-for-the-world-s-migratory-birds/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Мир",
+      "sources": [
+        "mg.co.za"
+      ],
+      "summary": "Долгий путь становится всё труднее для перелётных птиц мира. Изменение климата, потеря среды обитания и человеческая деятельность создают серьёзные препятствия для их ежегодных миграций.",
+      "title_en": "The long journey is getting harder for the world's migratory birds",
+      "title_ru": "Долгий путь становится всё труднее для перелётных птиц мира",
+      "first_reported": "2026-09-12 03:00:00+00:00",
+      "id": "a5111b9ecd21"
     }
   ],
   "_stats": {
-    "total_tokens": 2247918,
-    "total_cost": 282.517228
+    "total_tokens": 2266786,
+    "total_cost": 283.748948
   }
 }
