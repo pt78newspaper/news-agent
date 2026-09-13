@@ -1,245 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Путин присвоил Собянину звание Героя Труда",
-      "title_en": "Putin awards Sobyanin Hero of Labor title",
-      "date": "2026-09-05",
-      "summary": "Президент России Владимир Путин присвоил мэру Москвы Сергею Собянину звание Героя Труда Российской Федерации. Награждение произошло в ходе официальной церемонии в Кремле.",
-      "category": "politics",
-      "sources": [
-        "РБК",
-        "РИА Новости",
-        "ТАСС"
-      ],
-      "links": [
-        "https://www.rbc.ru/society/05/09/2026/6a9bc1c925a8e74f541e06f6",
-        "https://ria.ru/20260905/sobyanin-2115619170.html",
-        "https://tass.ru/politika/28082411"
-      ],
-      "perspective": "Официальные власти России позиционируют это как признание заслуг Собянина в развитии Москвы. Оппозиция может критиковать награждение как политический жест в рамках укрепления вертикали власти.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-05",
-      "id": "1520c38e3184"
-    },
-    {
-      "title_ru": "Иран и западные страны конфликтуют по поводу санкций в Совете Безопасности ООН",
-      "title_en": "Iran faces off with E3 over snapback sanctions as Russia and China back Tehran",
-      "date": "2026-09-05",
-      "summary": "Иран и страны Е3 (Великобритания, Франция, Германия) конфликтуют в Совете Безопасности ООН по вопросу восстановления санкций против Тегерана. Россия и Китай поддерживают Иран, называя действия Запада \"провалом иллюзии санкционного щелчка\".",
-      "category": "politics",
-      "sources": [
-        "PressTV",
-        "Mehr News Agency",
-        "IRNA"
-      ],
-      "links": [
-        "https://presstv.ir/Detail/2025/08/29/753991/Iran-faces-off-with-E3-over-snapback-sanctions-as-Russia-and-China-back-Tehran",
-        "https://presstv.ir/Detail/2026/09/04/775677/Iran-E3-US-IAEA-BoG-snapback-illusion",
-        "https://en.mehrnews.com/news/247447/West-s-push-for-IAEA-anti-Iran-res-snapback-illusion-failure",
-        "https://en.irna.ir/news/86255121/New-US-E3-push-for-IAEA-anti-Iran-resolution-a-sign-of-failure"
-      ],
-      "perspective": "Иран и его союзники (Россия, Китай) рассматривают это как давление Запада и нарушение международного права. Западные страны видят необходимость в санкциях из-за ядерной программы Ирана.",
-      "perspective_type": "from_source",
-      "is_development": false,
-      "first_reported": "2026-09-05",
-      "id": "de6a192a0df4"
-    },
-    {
-      "title_ru": "Индонезия борется с лесными пожарами и дымовой завесой в регионе",
-      "title_en": "Indonesia coordinates with ASEAN allies as regional haze spreads",
-      "date": "2026-09-05",
-      "summary": "Индонезия координирует действия с партнерами по АСЕАН в борьбе с лесными пожарами на торфяниках, которые создают дымовую завесу в регионе. Власти сосредоточены на наземных операциях и призывают население не паниковать из-за извержения вулкана Анак-Кракатау.",
-      "category": "politics",
-      "sources": [
-        "Antara News"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/430001/indonesia-coordinates-with-asean-allies-as-regional-haze-spreads",
-        "https://en.antaranews.com/news/430012/govt-focuses-on-ground-operations-fighting-peatland-fires",
-        "https://en.antaranews.com/news/430005/bnpb-urges-public-not-to-panic-over-mount-anak-krakatau-eruption"
-      ],
-      "perspective": "Индонезийские власти демонстрируют активность в решении экологических проблем. Соседние страны АСЕАН могут быть обеспокоены трансграничным загрязнением воздуха.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-05",
-      "id": "e6a723fb4c78"
-    },
-    {
-      "title_ru": "США отправляют эмиссаров в Россию и Украину с планом прекращения войны",
-      "title_en": "US envoys to visit Russia, Ukraine with plan 'to end war'",
-      "date": "2026-09-05",
-      "summary": "США направляют эмиссаров в Россию и Украину с планом по прекращению конфликта. Одновременно Россия и Иран заявляют, что США должны учитывать реальности на местах при урегулировании украинского конфликта.",
-      "category": "politics",
-      "sources": [
-        "Deutsche Welle",
-        "TASS",
-        "Mehr News Agency"
-      ],
-      "links": [
-        "https://www.dw.com/en/us-envoys-to-visit-russia-ukraine-with-plan-to-end-war/a-79040773?maca=en-rss-en-all-1573-xml-mrss",
-        "https://tass.com/politics/2183015",
-        "https://en.mehrnews.com/news/247441/US-must-consider-realities-on-ground-in-regarding-Ukraine-war"
-      ],
-      "perspective": "Западные страны видят в этом дипломатическую инициативу по мирному урегулированию. Россия и её союзники настаивают на учете \"реалий на местах\", что может означать признание территориальных изменений.",
-      "perspective_type": "from_source",
-      "is_development": false,
-      "first_reported": "2026-09-05",
-      "id": "afaffec9b455"
-    },
-    {
-      "title_ru": "Израильские министры предлагают выселить палестинцев из Газы",
-      "title_en": "Minister wants all Palestinians out of Gaza",
-      "date": "2026-09-05",
-      "summary": "Израильские министры предлагают выселить всех палестинцев из сектора Газа, что вызывает растущее возмущение в арабском мире. Палестинцы осуждают эти призывы как нарушение международного права.",
-      "category": "politics",
-      "sources": [
-        "Taipei Times",
-        "Daily Sabah"
-      ],
-      "links": [
-        "https://www.taipeitimes.com/News/world/archives/2026/09/05/2003863741",
-        "https://www.dailysabah.com/world/mid-east/palestinians-condemn-israeli-ministers-calls-for-gaza-expulsions",
-        "https://www.dailysabah.com/world/mid-east/fury-grows-as-israel-plans-to-displace-186m-palestinians-from-gaza"
-      ],
-      "perspective": "Израильские правые политики рассматривают это как решение проблемы безопасности. Палестинцы и арабские страны видят в этом этническую чистку и нарушение прав человека.",
-      "perspective_type": "from_source",
-      "is_development": false,
-      "first_reported": "2026-09-05",
-      "id": "f288800ad5b4"
-    },
-    {
-      "title_ru": "Южная Корея ограничивает влияние профсоюзов в AI-индустрии",
-      "title_en": "South Korea curbs union leverage over AI, chip windfalls",
-      "date": "2026-09-05",
-      "summary": "Южная Корея принимает меры по ограничению влияния профсоюзов в сфере искусственного интеллекта и производства чипов. Это связано с ростом прибылей в этих отраслях и желанием правительства сохранить конкурентные преимущества.",
-      "category": "ai",
-      "sources": [
-        "Nikkei Asia"
-      ],
-      "links": [
-        "https://asia.nikkei.com/business/technology/south-korea-curbs-union-leverage-over-ai-chip-windfalls2"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-05",
-      "id": "f152a6cbca00"
-    },
-    {
-      "title_ru": "Южная Корея рассматривает военное присутствие в Ормузском проливе",
-      "title_en": "South Korea considers 'military contributions' in Strait of Hormuz",
-      "date": "2026-09-05",
-      "summary": "Южная Корея рассматривает возможность военного присутствия в Ормузском проливе под растущим давлением со стороны США. Это происходит на фоне напряженности между Ираном и западными странами.",
-      "category": "ai",
-      "sources": [
-        "Nikkei Asia",
-        "PressTV"
-      ],
-      "links": [
-        "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/south-korea-considers-military-contributions-in-strait-of-hormuz",
-        "https://presstv.ir/Detail/2026/09/04/775644/South-Korea-military-deployment-Hormuz-Strait"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-05",
-      "id": "32c533e148e9"
-    },
-    {
-      "title_ru": "Tesla Cybercab официально запущен и уже находится под расследованием",
-      "title_en": "Tesla's Cybercab Officially Launches Today. It's Already Under Investigation",
-      "date": "2026-09-05",
-      "summary": "Tesla официально запустила свой автономный таксомотор Cybercab, но федеральные власти США уже начали расследование в связи с его развертыванием. Компания также предлагает частным лицам покупать и управлять парками этих транспортных средств.",
-      "category": "tech",
-      "sources": [
-        "Wired",
-        "TechCrunch"
-      ],
-      "links": [
-        "https://www.wired.com/story/tesla-cybercab-officially-launches-today-its-already-under-investigation/",
-        "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
-        "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-05",
-      "id": "5ae91d695c00"
-    },
-    {
-      "title_ru": "Взрыв на военном объекте в Боливии: десятки погибших и раненых",
-      "title_en": "Dozens killed, injured in Bolivia military facility blast",
-      "date": "2026-09-05",
-      "summary": "На военном объекте в Боливии произошел мощный взрыв, в результате которого погибли и получили ранения десятки людей. Точные причины инцидента пока не установлены.",
-      "category": "tech",
-      "sources": [
-        "Mehr News Agency"
-      ],
-      "links": [
-        "https://en.mehrnews.com/news/247438/Dozens-killed-injured-in-Bolivia-military-facility-blast"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-05",
-      "id": "be5319630f09"
-    },
-    {
-      "title_ru": "Израильские удары по Ливану: трое погибших, 23 раненых",
-      "title_en": "Israeli strikes on Lebanon kill three, wound 23",
-      "date": "2026-09-05",
-      "summary": "Израиль нанес удары по территории Ливана, в результате которых погибли три человека и 23 получили ранения. Инцидент обострил и без того напряженную ситуацию на границе между Израилем и Ливаном.",
-      "category": "tech",
-      "sources": [
-        "Mehr News Agency"
-      ],
-      "links": [
-        "https://en.mehrnews.com/news/247437/Israeli-strikes-on-Lebanon-kill-three-wound-23"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-05",
-      "id": "f2883138f72c"
-    },
-    {
-      "title_ru": "Южная Корея достигла рекордного уровня экспорта",
-      "title_en": "Lee touts record-high exports after surpassing 2025 annual record",
-      "date": "2026-09-05",
-      "summary": "Южная Корея достигла рекордного уровня экспорта, превысив годовой показатель 2025 года уже к сентябрю 2026 года. Президент Ли продвигает это достижение как признак экономической устойчивости страны.",
-      "category": "finance",
-      "sources": [
-        "Yonhap News Agency"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260905001900315"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-05",
-      "id": "b892d71f3e94"
-    },
-    {
-      "title_ru": "Vimeo может изменить условия подписки и заставить платить в 5 раз больше",
-      "title_en": "Vimeo Can Decide To Change Your Plan and Force You to Pay 5x More",
-      "date": "2026-09-05",
-      "summary": "Видеохостинг Vimeo оставляет за собой право изменять условия подписок пользователей и заставлять их платить в пять раз больше. Это вызвало обеспокоенность среди профессиональных видеографов и создателей контента.",
-      "category": "photo",
-      "sources": [
-        "PetaPixel"
-      ],
-      "links": [
-        "https://petapixel.com/2026/09/04/vimeo-can-decide-to-change-your-plan-and-force-you-to-pay-5x-more/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-05",
-      "id": "145840b07455"
-    },
-    {
       "title_ru": "Извержение вулкана Анак-Кракатау парализует воздушное сообщение в Индонезии",
       "title_en": "Anak Krakatau eruption paralyzes air traffic in Indonesia",
       "date": "2026-09-06",
@@ -426,42 +187,6 @@
       "is_development": false,
       "first_reported": "2026-09-06",
       "id": "57375425c508"
-    },
-    {
-      "title_ru": "Nubia выпускает магнитный кулер для смартфонов мощностью 25 Вт",
-      "title_en": "Nubia launches 25W magnetic phone cooler",
-      "date": "2026-09-05",
-      "summary": "Компания Nubia выпустила магнитный кулер для смартфонов мощностью 25 Вт, который выглядит как мороженое и охлаждает до температуры -18°C. Устройство предназначено для геймеров и пользователей, требующих максимальной производительности от смартфонов.",
-      "category": "tech",
-      "sources": [
-        "www.gizmochina.com"
-      ],
-      "links": [
-        "https://www.gizmochina.com/2026/09/05/nubia-ice-cream-magnetic-smartphone-cooler-launched-specs-price/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-05",
-      "id": "6d47beb879c8"
-    },
-    {
-      "title_ru": "10 победителей конкурса подводной фотографии Australasia 2026",
-      "title_en": "10 winning photographs from Underwater Awards Australasia 2026",
-      "date": "2026-09-05",
-      "summary": "Опубликованы 10 фотографий-победителей конкурса Underwater Awards Australasia 2026. Конкурс демонстрирует лучшие работы в области подводной фотографии из региона Австралазии.",
-      "category": "photo",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/09/05/10-winning-photographs-from-the-underwater-awards-australasia-2026/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-05",
-      "id": "d71b3cb417f2"
     },
     {
       "title_ru": "Турция повышает прогноз инфляции до 28,4% к концу года",
@@ -1363,25 +1088,6 @@
       "is_development": false,
       "first_reported": "2026-09-07",
       "id": "cb81bab42173"
-    },
-    {
-      "title_ru": "Фотографы запечатлели коати с необычной шерстью в Андах",
-      "title_en": "Photographers capture coati with unusual coat in the Andes",
-      "date": "2026-09-05",
-      "summary": "Фотографы обнаружили и сфотографировали коати с необычным окрасом шерсти в Андах. Животное, известное как южноамериканский енот, демонстрирует уникальные особенности меха, что представляет интерес для исследователей и фотографов дикой природы.",
-      "category": "photo",
-      "area": "Мир",
-      "sources": [
-        "photographylife.com"
-      ],
-      "links": [
-        "https://photographylife.com/a-coati-in-an-odd-coat-photographing-a-mystery-in-the-andes"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-05",
-      "id": "79b8b86925af"
     },
     {
       "title_ru": "Атаки дронов в Белгородской области и Татарстане",
@@ -2499,25 +2205,6 @@
       "first_reported": "2026-09-07",
       "id": "161ddff5b8cf",
       "last_reported": "2026-09-07"
-    },
-    {
-      "title_ru": "Трамп оказывает давление на ФРС перед повышением процентных ставок",
-      "title_en": "Trump turns up the heat on Warsh as Fed rate hike looms",
-      "date": "2026-09-05",
-      "summary": "Бывший президент США Дональд Трамп оказывает давление на председателя ФРС Кевина Варша перед ожидаемым повышением процентных ставок. Это происходит на фоне экономической неопределенности и дебатов о монетарной политике.",
-      "category": "tech",
-      "area": "Дальний Восток",
-      "sources": [
-        "www.cnbc.com"
-      ],
-      "links": [
-        "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "first_reported": "2026-09-05",
-      "id": "7d09948b5417",
-      "last_reported": "2026-09-05"
     },
     {
       "title_ru": "Президент Южной Кореи прибыл в Париж для саммита с Макроном",
@@ -6779,25 +6466,6 @@
       "id": "1c8f469a8dd1"
     },
     {
-      "title_ru": "Трамп усиливает давление на председателя ФРС Варша перед повышением ставок",
-      "title_en": "Trump turns up the heat on Warsh as Fed rate hike looms",
-      "date": "2026-09-05",
-      "summary": "Дональд Трамп усиливает давление на председателя Федеральной резервной системы Кевина Варша в преддверии сентябрьского повышения процентных ставок. Это создает напряженность между администрацией и независимым центральным банком.",
-      "category": "politics",
-      "area": "Северная и Центральная Америка",
-      "sources": [
-        "www.cnbc.com"
-      ],
-      "links": [
-        "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html"
-      ],
-      "perspective": "Республиканцы могут поддерживать давление Трампа как способ влияния на монетарную политику, в то время как демократы и финансовые эксперты могут рассматривать это как угрозу независимости ФРС и стабильности финансовой системы.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-05",
-      "id": "731fab81520e"
-    },
-    {
       "title_ru": "Вулкан Анак-Кракатау вернулся к стромболианской фазе извержения",
       "title_en": "Mount Anak Krakatau's eruption returns to Strombolian phase: govt",
       "date": "2026-09-08",
@@ -10646,10 +10314,333 @@
       "title_ru": "Долгий путь становится всё труднее для перелётных птиц мира",
       "first_reported": "2026-09-12 03:00:00+00:00",
       "id": "a5111b9ecd21"
+    },
+    {
+      "title_ru": "В атмосфере ультрагорячего юпитера KELT-20b впервые нашли калий, кальций, ванадий, марганец и барий",
+      "title_en": "Potassium, calcium, vanadium, manganese and barium found for the first time in the atmosphere of ultra-hot Jupiter KELT-20b",
+      "date": "2026-09-11 08:54:34+00:00",
+      "summary": "Астрономы впервые обнаружили в атмосфере экзопланеты KELT-20b, относящейся к классу ультрагорячих юпитеров, калий, кальций, ванадий, марганец и барий. Это открытие позволяет лучше понять химический состав атмосфер планет за пределами Солнечной системы.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/astronomy/kelt-20b-vpervye-nashli-kalii-kaltsii"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-11 08:54:34+00:00",
+      "id": "3d41f31c073a"
+    },
+    {
+      "title_ru": "Чтобы добыть пыльцу, пчелам приходится трясти цветы с особой частотой",
+      "title_en": "To collect pollen, bees have to shake flowers at a specific frequency",
+      "date": "2026-09-12 08:56:45+00:00",
+      "summary": "Исследование показало, что пчелы используют особую технику сбора пыльцы — они трясут цветы с определенной резонансной частотой, чтобы эффективно извлекать пыльцу. Это демонстрирует сложность поведения насекомых и их адаптацию к сбору ресурсов.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/biology/buzz-pollen-resonance"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-12 08:56:45+00:00",
+      "id": "81da75ddd7e2"
+    },
+    {
+      "title_ru": "Образцы Рюгу показали, как древние астероиды могли накапливать азот для зарождения жизни",
+      "title_en": "Ryugu samples show how ancient asteroids could accumulate nitrogen for the origin of life",
+      "date": "2026-09-13 06:30:00+00:00",
+      "summary": "Анализ образцов с астероида Рюгу, доставленных японской миссией Хаябуса-2, показал, как древние астероиды могли накапливать азот — ключевой элемент для зарождения жизни. Это открытие проливает свет на процессы формирования органических соединений в космосе.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/astronomy/drevnie-asteroidy-azot-dlya-zarozhdeniya-zhizni"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-13 06:30:00+00:00",
+      "id": "cdffeaf258c3"
+    },
+    {
+      "title_ru": "Ученые впервые показали, как ожирение ослабляет естественную защиту молочной железы от рака",
+      "title_en": "Scientists show for the first time how obesity weakens the natural defense of the breast against cancer",
+      "date": "2026-09-13 07:34:48+00:00",
+      "summary": "Исследователи впервые продемонстрировали механизм, посредством которого ожирение ослабляет естественную защиту молочной железы от развития рака. Это открытие объясняет связь между ожирением и повышенным риском рака груди.",
+      "category": "ai",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/medicine/ozhirenie-pri-cancere"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-13 07:34:48+00:00",
+      "id": "e41257edf15e"
+    },
+    {
+      "title_ru": "В Берлине женщину атаковали разбитой стеклянной бутылкой за ношение звезды Давида",
+      "title_en": "Berlin woman attacked with broken glass bottle after wearing Star of David necklace, police say",
+      "date": "2026-09-13 09:19:31+00:00",
+      "summary": "В Берлине произошло нападение на женщину, которая носила звезду Давида — символ иудаизма. Нападавший использовал разбитую стеклянную бутылку. Полиция квалифицировала инцидент как антисемитское нападение.",
+      "category": "life",
+      "region": "Германия",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/diaspora/antisemitism/article-908445"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-13 09:19:31+00:00",
+      "id": "612f2ca476be"
+    },
+    {
+      "title_ru": "Авиация Саудовской Аравии нанесла почти 130 ударов по территории Йемена за два дня",
+      "title_en": "Saudi air force delivers almost 130 strikes on Yemeni territory in two days — Houthis",
+      "date": "2026-09-13 00:05:49+03:00",
+      "summary": "Саудовская Аравия нанесла почти 130 авиаударов по территории Йемена в течение двух дней, по данным хуситов. Йеменская армия пообещала ответить на эти удары, что свидетельствует об эскалации конфликта в регионе.",
+      "category": "conflicts",
+      "region": "Ближний Восток",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/world/2186835"
+      ],
+      "perspective": "Саудовская Аравия рассматривает удары как ответ на угрозы со стороны хуситов, в то время как хуситы считают их агрессией",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-13 00:05:49+03:00",
+      "id": "5c7b7fde1d78"
+    },
+    {
+      "title_ru": "Силы Ансароллы закрепились на ключевом побережье Красного моря",
+      "title_en": "Ansarullah forces secure key Red Sea coastline",
+      "date": "2026-09-11 08:31:07.593439+00:00",
+      "summary": "Силы йеменского движения Ансаролла (хуситы) закрепились на стратегически важном участке побережья Красного моря. Это достижение позволяет им контролировать ключевые морские пути и укрепляет их позиции в конфликте.",
+      "category": "conflicts",
+      "region": "Йемен",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/11/776057/Ansarullah-forces-secure-key-Red-Sea-coastline"
+      ],
+      "perspective": "Хуситы рассматривают это как военный успех, в то время как Саудовская Аравия и её союзники видят угрозу безопасности региона",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-11 08:31:07.593439+00:00",
+      "id": "1c68bf615a50"
+    },
+    {
+      "title_ru": "Российская армия взяла харьковский Черняков",
+      "title_en": "Russian army took Kharkiv's Chernyakov",
+      "date": "2026-09-13 10:55:41+03:00",
+      "summary": "Российские войска взяли под контроль населённый пункт Черняков в Харьковской области. Минобороны РФ подтвердило этот успех, что свидетельствует о продвижении российских сил на данном направлении.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8953607"
+      ],
+      "perspective": "Россия рассматривает это как военный успех, Украина — как временную потерю территории",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-13 10:55:41+03:00",
+      "id": "8aeb478f4409"
+    },
+    {
+      "title_ru": "В Харьковской области остаются заблокированными до 10 батальонов ВСУ",
+      "title_en": "Up to 10 AFU battalions remain blocked in Kharkiv region",
+      "date": "2026-09-13 11:21:30+03:00",
+      "summary": "В Харьковской области продолжают оставаться в окружении до 10 батальонов Вооружённых сил Украины. Российские военные сообщают о значительных потерях ВСУ в этом районе за последние сутки.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/armiya-i-opk/28107805"
+      ],
+      "perspective": "Россия заявляет о успешном окружении украинских сил, Украина может отрицать масштабы потерь",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-13 11:21:30+03:00",
+      "id": "ab729b4b0105"
+    },
+    {
+      "title_ru": "ВСУ за сутки потеряли свыше 420 военных в зоне действия \"Центра\"",
+      "title_en": "AFU lost over 420 servicemen in the \"Center\" zone in a day",
+      "date": "2026-09-13 10:48:21+03:00",
+      "summary": "По данным российского военного командования, украинские вооружённые силы за сутки потеряли более 420 военнослужащих в зоне ответственности группировки \"Центр\". Это свидетельствует об интенсивности боевых действий на данном направлении.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260913/tsentr-2117402549.html"
+      ],
+      "perspective": "Россия сообщает о значительных потерях противника, Украина может оспаривать эти данные",
+      "perspective_type": "assumed",
+      "is_development": true,
+      "first_reported": "2026-09-13 10:48:21+03:00",
+      "id": "88589344fbcd"
+    },
+    {
+      "title_ru": "Petrobras объявила о повышении цен на топливо и отменила его через четыре часа",
+      "title_en": "Petrobras Announced a Fuel Price Rise and Cancelled It Four Hours Later",
+      "date": "2026-09-12 18:35:27+00:00",
+      "summary": "Бразильская государственная нефтяная компания Petrobras объявила о повышении цен на топливо, но отменила это решение всего через четыре часа. Это демонстрирует давление на компанию со стороны правительства и чувствительность топливного рынка.",
+      "category": "economy",
+      "region": "Бразилия",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/brazil-petrobras-gasoline-diesel-price-subsidy-2026/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-12 18:35:27+00:00",
+      "id": "6b419fa95b99"
+    },
+    {
+      "title_ru": "Цены на дизель в Словакии приближаются к 2 евро за литр",
+      "title_en": "Slovak diesel prices close in on €2 a litre",
+      "date": "2026-09-10 20:46:06+02:00",
+      "summary": "Цены на дизельное топливо в Словакии продолжают расти и приближаются к отметке 2 евро за литр. Это создаёт дополнительную нагрузку на транспортный сектор и может привести к росту цен на товары и услуги.",
+      "category": "economy",
+      "region": "Словакия",
+      "sources": [
+        "spectator.sme.sk"
+      ],
+      "links": [
+        "https://spectator.sme.sk/business/c/diesel-nears-two-euros-litre-slovakia?utm_source=rss&utm_medium=feed&utm_campaign=spectator-rss"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-10 20:46:06+02:00",
+      "id": "4bcd505c24bf"
+    },
+    {
+      "title_ru": "Суд оправдал экс-президента Южной Кореи Юн Сок Ёля по делу о злоупотреблении властью",
+      "title_en": "Court acquits ex-President Yoon in power abuse case over envoy appointment",
+      "date": "2026-09-11 15:03:15+09:00",
+      "summary": "Суд Южной Кореи оправдал бывшего президента Юн Сок Ёля по делу о злоупотреблении властью при назначении послов. Это решение завершает один из ключевых судебных процессов против экс-президента и имеет политические последствия.",
+      "category": "politics",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260911006400315"
+      ],
+      "perspective": "Сторонники Юна рассматривают это как восстановление справедливости, оппоненты — как провал системы правосудия",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-11 15:03:15+09:00",
+      "id": "d764ceffc4d3"
+    },
+    {
+      "title_ru": "Орбан заявил, что Фидес готовится к возвращению",
+      "title_en": "Orbán says Fidesz is gearing up for its comeback",
+      "date": "2026-09-13 03:52:17+00:00",
+      "summary": "Премьер-министр Венгрии Виктор Орбан заявил, что его партия Фидес готовится к политическому возвращению после периода снижения поддержки. Это свидетельствует о подготовке к будущим выборам и укреплении позиций партии.",
+      "category": "politics",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/hungary/ready-player-one-orban-says-fidesz-is-gearing-up-for-its-comeback/"
+      ],
+      "perspective": "Сторонники Орбана видят в этом возрождение консервативных сил, оппоненты — угрозу демократическим институтам",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-13 03:52:17+00:00",
+      "id": "c5d3bbdf4881"
+    },
+    {
+      "title_ru": "Трамп пообещал по 5000 долларов каждому взрослому американцу, если республиканцы выиграют промежуточные выборы",
+      "title_en": "Trump promises $5,000 to every adult American if Republicans win midterms",
+      "date": "2026-09-10 04:30:04+00:00",
+      "summary": "Бывший президент США Дональд Трамп пообещал выплатить по 5000 долларов каждому взрослому американцу, если республиканская партия победит на предстоящих промежуточных выборах. Это беспрецедентное финансовое обещание может повлиять на исход выборов.",
+      "category": "statement",
+      "region": "США",
+      "sources": [
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/video-trump-promises-5000-to-every-adult-american-if-republicans-win/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-10 04:30:04+00:00",
+      "id": "f58ae4824df0"
+    },
+    {
+      "title_ru": "Новое приложение впервые позволяет отправлять пользовательские рецепты на камеры Fujifilm по беспроводной сети",
+      "title_en": "This New App Is the First to Send Custom Recipes to Fujifilm Cameras Wirelessly",
+      "date": "2026-09-12 12:00:04+00:00",
+      "summary": "Разработано новое приложение, которое впервые позволяет отправлять пользовательские рецепты обработки изображений на камеры Fujifilm по беспроводной сети. Это упрощает процесс настройки камер и расширяет творческие возможности фотографов.",
+      "category": "photo",
+      "region": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/12/this-new-app-is-the-first-to-send-custom-recipes-to-fujifilm-cameras-wirelessly/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-12 12:00:04+00:00",
+      "id": "5717a2ae16fb"
+    },
+    {
+      "title_ru": "Смертельная цена загрязнения Sasol в Секунде",
+      "title_en": "Deadly cost of Sasol's Secunda pollution",
+      "date": "2026-09-10 22:25:00+00:00",
+      "summary": "Исследование показало смертельные последствия загрязнения окружающей среды от деятельности компании Sasol в районе Секунда в ЮАР. Загрязнение воздуха приводит к серьёзным проблемам со здоровьем у местного населения.",
+      "category": "ecology",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/the-green-guardian/2026-09-10-deadly-cost-of-sasol-s-secunda-pollution/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-10 22:25:00+00:00",
+      "id": "3fe87b994393"
     }
   ],
   "_stats": {
-    "total_tokens": 2266786,
-    "total_cost": 283.748948
+    "total_tokens": 2286101,
+    "total_cost": 284.987928
   }
 }
