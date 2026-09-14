@@ -1,194 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Извержение вулкана Анак-Кракатау парализует воздушное сообщение в Индонезии",
-      "title_en": "Anak Krakatau eruption paralyzes air traffic in Indonesia",
-      "date": "2026-09-06",
-      "summary": "Извержение вулкана Анак-Кракатау привело к массовым отменам авиарейсов в Индонезии. Аэропорты Бали, Батама и еще трех городов продлили временное закрытие из-за вулканической активности. Власти активировали Центр оперативного реагирования на чрезвычайные ситуации в сфере здравоохранения и подготовили медикаменты.",
-      "category": "politics",
-      "sources": [
-        "en.antaranews.com",
-        "en.antaranews.com",
-        "en.antaranews.com",
-        "en.antaranews.com",
-        "en.antaranews.com"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/430123/kai-adds-extra-semarang-jakarta-train-amid-anak-krakatau-eruption",
-        "https://en.antaranews.com/news/430120/minister-activates-heoc-prepares-medicines-for-anak-krakatau-eruption",
-        "https://en.antaranews.com/news/430119/bali-airport-cancels-flights-amid-anak-krakatau-volcanic-activity",
-        "https://en.antaranews.com/news/430117/batam-airport-cancels-five-flights-amid-anak-krakatau-eruption",
-        "https://en.antaranews.com/news/430115/three-airports-extend-temporary-closures-over-anak-krakatau-eruption"
-      ],
-      "perspective": "Правительство демонстрирует оперативное реагирование на природную катастрофу, что может повысить его рейтинг. Оппозиция может критиковать недостаточную подготовку к вулканической активности. Экологические организации могут связывать усиление вулканической активности с климатическими изменениями.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-06",
-      "id": "c3018ae751f8"
-    },
-    {
-      "title_ru": "Массовые атаки дронов на российские регионы",
-      "title_en": "Massive drone attacks on Russian regions",
-      "date": "2026-09-06",
-      "summary": "В Рязанской области за ночь и утро сбили более 50 беспилотных летательных аппаратов. В Курской области за сутки уничтожили 145 дронов ВСУ. В Ростовской области при атаке БПЛА поврежден локомотив поезда.",
-      "category": "politics",
-      "sources": [
-        "ria.ru",
-        "tass.ru",
-        "tass.ru",
-        "ria.ru",
-        "tass.ru"
-      ],
-      "links": [
-        "https://ria.ru/20260906/bpla-2115821776.html",
-        "https://tass.ru/proisshestviya/28084429",
-        "https://tass.ru/proisshestviya/28084319",
-        "https://ria.ru/20260906/poezd-2115813162.html",
-        "https://tass.ru/proisshestviya/28084305"
-      ],
-      "perspective": "Российские власти представляют это как успешную работу систем ПВО и угрозу со стороны Украины. Украинская сторона может рассматривать это как эффективное использование дронов против военной инфраструктуры. Западные аналитики могут видеть в этом эскалацию конфликта и новые тактики ведения войны.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-06",
-      "id": "bc3f8652bbe4"
-    },
-    {
-      "title_ru": "Иран укрепляет дипломатические связи с Саудовской Аравией и Турцией",
-      "title_en": "Iran strengthens diplomatic ties with Saudi Arabia and Turkey",
-      "date": "2026-09-06",
-      "summary": "Министр иностранных дел Ирана провел телефонные переговоры с саудовским и турецким коллегами. Это происходит на фоне заявлений иранских военных о значительном усилении сдерживающей мощи страны.",
-      "category": "politics",
-      "sources": [
-        "en.irna.ir",
-        "en.mehrnews.com"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86256017/Iran-FM-holds-phone-talks-with-Saudi-Turkish-counterparts",
-        "https://en.mehrnews.com/news/247484/Iran-s-deterrence-power-has-significantly-increase-Sayyari"
-      ],
-      "perspective": "Иранское руководство демонстрирует укрепление региональных связей и военную мощь. Саудовская Аравия и Турция могут рассматривать это как возможность для диалога и снижения напряженности. США и Израиль могут видеть в этом угрозу своим интересам в регионе.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-06",
-      "id": "2e2a6cb226e9"
-    },
-    {
-      "title_ru": "Иранские спортсмены добиваются успехов на международных соревнованиях",
-      "title_en": "Iranian athletes achieve success in international competitions",
-      "date": "2026-09-06",
-      "summary": "Иранские спортсменки завоевали золотые медали на чемпионате мира по тхэквондо среди женщин и Всемирных играх кочевников. Мужская сборная U17 по волейболу выиграла чемпионат мира, а женская команда впервые заняла четвертое место на Азиатском чемпионате.",
-      "category": "politics",
-      "sources": [
-        "www.presstv.ir",
-        "www.presstv.ir",
-        "www.presstv.ir",
-        "www.presstv.ir",
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.ir/Detail/2026/08/30/775334/Iranian-president,-parliament-speaker-hail-Iran-U17-volleyball-world-championship",
-        "https://presstv.ir/Detail/2026/08/30/775342/Iran-women-historic-fourth-place-Asian-Championships",
-        "https://presstv.ir/Detail/2026/08/30/775343/Moradi-gold-2026-World-taekwondo-women-open",
-        "https://presstv.ir/Detail/2026/09/02/775560/Iran-s-Gheitasi-wins-gold-in-mas-wrestling-at-2026-World-Nomad-Games",
-        "https://presstv.ir/Detail/2026/09/04/775659/two-more-gold-medals-World-Nomad-Games-2026"
-      ],
-      "perspective": "Иранские власти используют спортивные успехи для демонстрации достижений страны и поднятия национального духа. Оппозиция может критиковать использование спорта в пропагандистских целях. Международное сообщество может видеть в этом позитивный аспект, способствующий культурному обмену.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-06",
-      "id": "86c478c7fe4a"
-    },
-    {
-      "title_ru": "Израиль атаковал больницу в Ливане",
-      "title_en": "Israel attacks hospital in Lebanon",
-      "date": "2026-09-06",
-      "summary": "Израильские силы атаковали больницу в Набатии, Ливан. Это происходит на фоне продолжающейся напряженности в регионе и иранских заявлений об усилении сдерживающей мощи.",
-      "category": "politics",
-      "sources": [
-        "en.mehrnews.com"
-      ],
-      "links": [
-        "https://en.mehrnews.com/news/247478/Israel-attacks-a-hospital-in-Nabatieh-Lebanon"
-      ],
-      "perspective": "Иранские и ливанские источники осуждают атаку как военное преступление. Израиль может утверждать, что больница использовалась для военных целей. Международные правозащитные организации призывают к расследованию инцидента и защите гражданских объектов.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-06",
-      "id": "1996fabf7b9f"
-    },
-    {
-      "title_ru": "Гражданские группы Южной Кореи требуют включения документов о женщинах для утешения в список ЮНЕСКО",
-      "title_en": "South Korean civic groups call for UNESCO listing of comfort women documents",
-      "date": "2026-09-06",
-      "summary": "Гражданские группы в Южной Корее призывают включить документы о женщинах для утешения (жертвах сексуального рабства во время Второй мировой войны) в реестр ЮНЕСКО \"Память мира\". Это происходит в контексте исторических споров между Южной Кореей и Японией.",
-      "category": "ai",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260906002600315"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-06",
-      "id": "a36b84b21203"
-    },
-    {
-      "title_ru": "Полиция Южной Кореи создает специальный орган для реформ",
-      "title_en": "South Korean police to launch dedicated body for reform",
-      "date": "2026-09-06",
-      "summary": "Полиция Южной Кореи создает специальный орган для проведения реформ, который начнет работу на этой неделе. Это часть усилий по модернизации правоохранительной системы и повышению ее эффективности.",
-      "category": "ai",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260906001900315"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-06",
-      "id": "ced35b410c28"
-    },
-    {
-      "title_ru": "Vivo X500 Pro Max показывает рекордные результаты в тесте Geekbench",
-      "title_en": "Vivo X500 Pro Max shows record results in Geekbench test",
-      "date": "2026-09-06",
-      "summary": "Смартфон Vivo X500 Pro Max показал рекордные результаты в тесте производительности Geekbench: более 4000 баллов в однопоточном режиме и 13000 баллов в многопоточном. Это демонстрирует прогресс в производительности мобильных процессоров.",
-      "category": "tech",
-      "sources": [
-        "www.gizmochina.com"
-      ],
-      "links": [
-        "https://www.gizmochina.com/2026/09/06/vivo-x500-pro-max-geekbench-4000-single-core-13000-multi-core-score/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-06",
-      "id": "4d6c44585c8e"
-    },
-    {
-      "title_ru": "Oppo Find X10 и X10 Pro Max появятся с разными чипсетами Dimensity",
-      "title_en": "Oppo Find X10 and X10 Pro Max to feature different Dimensity chipsets",
-      "date": "2026-09-06",
-      "summary": "Будущие смартфоны Oppo Find X10 и X10 Pro Max были замечены в тесте Geekbench с разными чипсетами серии Dimensity 9. Это указывает на дифференциацию модельного ряда по производительности.",
-      "category": "tech",
-      "sources": [
-        "www.gizmochina.com"
-      ],
-      "links": [
-        "https://www.gizmochina.com/2026/09/06/oppo-find-x10-x10-pro-max-geekbench-dimensity-chipsets/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-06",
-      "id": "57375425c508"
-    },
-    {
       "title_ru": "Турция повышает прогноз инфляции до 28,4% к концу года",
       "title_en": "Turkey raises year-end inflation forecast to 28.4 percent",
       "date": "2026-09-07",
@@ -885,53 +697,6 @@
       "id": "bfea6a4e4e5e"
     },
     {
-      "title_ru": "Грузовой самолет Amazon разбился в аэропорту Майами, погибли 5 человек",
-      "title_en": "Amazon cargo plane crashes at Miami airport, killing five people",
-      "date": "2026-09-06",
-      "summary": "Грузовой самолет Amazon выкатился за пределы взлетно-посадочной полосы в аэропорту Майами и врезался в автомобили. В результате катастрофы погибли пять человек, еще пять пострадали и были госпитализированы. Инцидент произошел при посадке самолета Boeing 767.",
-      "category": "politics",
-      "area": "Южная и Юго-Восточная Азия",
-      "sources": [
-        "The Washington Post",
-        "CBC",
-        "The Globe and Mail"
-      ],
-      "links": [
-        "https://www.washingtonpost.com/nation/2026/09/06/amazon-cargo-plane-crashes-after-veering-off-runway-miami-airport/",
-        "https://www.cbc.ca/news/world/amazon-cargo-plan-overrun-runway-in-miami-9.7334414?cmp=rss",
-        "https://www.theglobeandmail.com/world/article-amazon-cargo-plane-crash-miami-airport/"
-      ],
-      "perspective": "Политические силы могут использовать катастрофу для критики системы безопасности авиаперевозок и регулирования грузовых авиакомпаний. Либеральные силы могут требовать ужесточения контроля за безопасностью полетов, консервативные - подчеркивать важность существующих мер безопасности.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-06",
-      "id": "e1812d11546f",
-      "last_reported": "2026-09-06"
-    },
-    {
-      "title_ru": "Извержение вулкана Анак-Кракатау в Индонезии парализовало авиасообщение и закрыло школы",
-      "title_en": "Anak Krakatau volcano eruption in Indonesia halts flights, schools, fishing",
-      "date": "2026-09-06",
-      "summary": "Извержение вулкана Анак-Кракатау в Индонезии привело к закрытию международного аэропорта Сукарно-Хатта в Джакарте из-за вулканического пепла. Власти провинции Бантен привели все медицинские учреждения в состояние повышенной готовности. Три региона столкнулись с пеплопадом, правительство усиливает меры по смягчению последствий.",
-      "category": "politics",
-      "area": "Южная и Юго-Восточная Азия",
-      "sources": [
-        "Antara News",
-        "The Globe and Mail"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/430287/anak-krakatau-ash-banten-puts-all-health-facilities-on-high-alert",
-        "https://en.antaranews.com/news/430207/three-regions-face-anak-krakatau-ash-as-government-bolsters-mitigation",
-        "https://en.antaranews.com/news/430199/free-transports-ready-as-anak-krakatau-ash-shuts-soekarnohatta-airport",
-        "https://www.theglobeandmail.com/world/article-anak-krakatau-volcano-eruption-in-indonesia-halts-flights-schools/"
-      ],
-      "perspective": "Политические силы могут оценивать действия правительства по реагированию на природную катастрофу. Оппозиция может критиковать недостаточную подготовку к чрезвычайным ситуациям, правящая партия - подчеркивать оперативность принятых мер и готовность системы здравоохранения.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-06",
-      "id": "3d781b5e2505"
-    },
-    {
       "title_ru": "Пассажир American Airlines был привязан скотчем во время полета",
       "title_en": "Arizona man duct-taped on American Airlines flight",
       "date": "2026-09-07",
@@ -968,25 +733,6 @@
       "is_development": false,
       "first_reported": "2026-09-08",
       "id": "3b05f417811d"
-    },
-    {
-      "title_ru": "Уход Фила Шиллера из App Store связан с опасениями по поводу будущих планов",
-      "title_en": "Phil Schiller's App Store exit reportedly driven by wariness over future plans",
-      "date": "2026-09-06",
-      "summary": "Фил Шиллер, один из ключевых руководителей Apple, покидает пост главы App Store. По сообщениям, его уход связан с опасениями по поводу будущих планов компании и возможными изменениями в стратегии развития магазина приложений.",
-      "category": "tech",
-      "area": "Океания и Австралия",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-06",
-      "id": "99f582ecbb96"
     },
     {
       "title_ru": "Гас неожиданно расспрашивает Клири о будущем Фаулера",
@@ -1408,25 +1154,6 @@
       "id": "58afc7198199"
     },
     {
-      "title_ru": "Tesla Cybercab сталкивается с проблемами на дорогах",
-      "title_en": "Tesla Cybercab hits the road — and a snag",
-      "date": "2026-09-06",
-      "summary": "Автономное такси Tesla Cybercab начало тестовые поездки, но столкнулось с техническими проблемами. Это событие представляет собой важный этап в развитии автономного транспорта. Новость освещает технологические вызовы, с которыми сталкиваются компании при внедрении беспилотных транспортных средств.",
-      "category": "tech",
-      "area": "Европа",
-      "sources": [
-        "TechCrunch"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-06",
-      "id": "e5cbededd3b2"
-    },
-    {
       "title_ru": "Иран сохранил экспорт нефти несмотря на 550 ударов по Харгу",
       "title_en": "Iran kept oil exports flowing during war despite 550 strikes on Kharg",
       "date": "2026-09-07",
@@ -1444,26 +1171,6 @@
       "is_development": false,
       "first_reported": "2026-09-07",
       "id": "ee4f67397227"
-    },
-    {
-      "title_ru": "Лавров заявил о начале реальной войны России с Западом",
-      "title_en": "Lavrov says Russia at 'start of real war' with West",
-      "date": "2026-09-06",
-      "summary": "Министр иностранных дел России Сергей Лавров заявил, что Россия находится в начале реальной войны с Западом. Это заявление сделано на фоне продолжающегося конфликта и напряжённости в отношениях России с западными странами.",
-      "category": "politics",
-      "area": "Ближний Восток",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/06/775803/Lavrov-Russia-Germany-start-of-real-war-with-West"
-      ],
-      "perspective": "Российские власти представляют это как оборонительную позицию против западной агрессии, в то время как западные страны могут рассматривать такие заявления как эскалацию риторики и подтверждение своих опасений относительно российской внешней политики.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-06",
-      "id": "56d03f2a1d85",
-      "last_reported": "2026-09-06"
     },
     {
       "title_ru": "Большинство израильтян против уступок ультраортодоксам в вопросах религии и государства",
@@ -2021,24 +1728,6 @@
       "last_reported": "2026-09-07"
     },
     {
-      "title_ru": "ИИ-производство в Мексике демонстрирует бум",
-      "title_en": "El Jalapeño: AI-driven manufacturing is booming in Mexico, says AI",
-      "date": "2026-09-06",
-      "summary": "Производство с использованием искусственного интеллекта в Мексике переживает бум, согласно данным ИИ-анализа. Это указывает на технологическую трансформацию промышленного сектора страны.",
-      "category": "ai",
-      "area": "Южная Америка",
-      "sources": [
-        "mexiconewsdaily.com"
-      ],
-      "links": [
-        "https://mexiconewsdaily.com/el-jalapeno/el-jalapeno-ai-driven-manufacturing-booming-mexico-says-ai/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "first_reported": "2026-09-06",
-      "id": "cd230fddcf95"
-    },
-    {
       "title_ru": "Торговый конфликт между Канадой и США обостряется",
       "title_en": "Trade conflict between Canada and US escalates",
       "date": "2026-09-07",
@@ -2095,42 +1784,6 @@
       "perspective_type": "",
       "first_reported": "2026-09-07",
       "id": "8ffb7d2b3fbd"
-    },
-    {
-      "title_ru": "Tesla Cybercab столкнулся с проблемами на дорогах",
-      "title_en": "Tesla Cybercab hits the road and encounters problems",
-      "date": "2026-09-06",
-      "summary": "Автономное такси Tesla Cybercab начало тестовые поездки, но столкнулось с техническими проблемами. Это первое публичное тестирование новой модели автономного транспортного средства компании.",
-      "category": "tech",
-      "area": "Европа",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "first_reported": "2026-09-06",
-      "id": "edba06349540"
-    },
-    {
-      "title_ru": "Лавров заявляет о начале реальной войны России с Западом",
-      "title_en": "Lavrov says Russia at 'start of real war' with West",
-      "date": "2026-09-06",
-      "summary": "Министр иностранных дел России Сергей Лавров заявил, что Россия находится в начале реальной войны с Западом. Это заявление прозвучало в контексте обвинений Запада в попытках сорвать выборы в России и конфискации российских активов.",
-      "category": "politics",
-      "area": "Ближний Восток",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/06/775803/Lavrov-Russia-Germany-start-of-real-war-with-West"
-      ],
-      "perspective": "Российские власти представляют это как вынужденную оборонительную позицию против агрессии Запада. Западные страны, вероятно, расценят это как эскалацию риторики и оправдание собственных действий России.",
-      "perspective_type": "assumed",
-      "first_reported": "2026-09-06",
-      "id": "a05ea1d9eadf"
     },
     {
       "title_ru": "Иран сохранил экспорт нефти несмотря на 550 ударов по острову Харг",
@@ -2521,24 +2174,6 @@
       "id": "1c223070b7f5"
     },
     {
-      "title_ru": "ИИ-производство в Мексике переживает бум, сообщает ИИ",
-      "title_en": "El Jalapeño: AI-driven manufacturing is booming in Mexico, says AI",
-      "date": "2026-09-06",
-      "summary": "Производство на основе искусственного интеллекта в Мексике переживает значительный рост, как сообщает система искусственного интеллекта. Это свидетельствует о растущем внедрении ИИ-технологий в мексиканскую промышленность.",
-      "category": "ai",
-      "area": "Южная Америка",
-      "sources": [
-        "mexiconewsdaily.com"
-      ],
-      "links": [
-        "https://mexiconewsdaily.com/el-jalapeno/el-jalapeno-ai-driven-manufacturing-booming-mexico-says-ai/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "first_reported": "2026-09-06",
-      "id": "c58e4f83c04c"
-    },
-    {
       "title_ru": "Куба заявила о рекордном ущербе от блокады США",
       "title_en": "Cuba reports record damage from US blockade",
       "date": "2026-09-07",
@@ -2743,65 +2378,6 @@
       "id": "e4562fc54820"
     },
     {
-      "title_ru": "Крушение грузового самолета Amazon в аэропорту Майами: 5 погибших",
-      "title_en": "Amazon cargo plane crashes at Miami airport, killing five people",
-      "date": "2026-09-06",
-      "summary": "Грузовой самолет Amazon потерпел крушение в аэропорту Майами, выкатившись за пределы взлетно-посадочной полосы. В результате авиакатастрофы погибли 5 человек, еще 5 были госпитализированы.",
-      "category": "politics",
-      "area": "Северная и Центральная Америка",
-      "sources": [
-        "feeds.washingtonpost.com",
-        "www.theglobeandmail.com",
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.washingtonpost.com/nation/2026/09/06/amazon-cargo-plane-crashes-after-veering-off-runway-miami-airport/",
-        "https://www.theglobeandmail.com/world/article-amazon-cargo-plane-crash-miami-airport/",
-        "https://www.theglobeandmail.com/world/video-miami-officials-say-five-dead-five-in-hospital-after-amazon-plane/"
-      ],
-      "perspective": "Оппозиционные политики могут использовать инцидент для критики регулирования авиационной безопасности и трудовых условий в логистических компаниях. Правящие силы будут акцентировать внимание на оперативности расследования и мерах по предотвращению подобных происшествий.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-06",
-      "id": "3851d6d9226d"
-    },
-    {
-      "title_ru": "Смерть девушки после стоматологической процедуры в Канаде",
-      "title_en": "Manitoba family searches for answers nearly 2 years after daughter died following dental procedure",
-      "date": "2026-09-06",
-      "summary": "Семья из Манитобы продолжает искать ответы почти через два года после смерти дочери, которая скончалась после стоматологической процедуры. Родственники требуют расследования обстоятельств трагедии и привлечения к ответственности виновных.",
-      "category": "politics",
-      "area": "Северная и Центральная Америка",
-      "sources": [
-        "www.cbc.ca"
-      ],
-      "links": [
-        "https://www.cbc.ca/news/canada/manitoba/virginia-blatz-death-manitoba-dental-association-9.7333939?cmp=rss"
-      ],
-      "perspective": "Трагедия может использоваться для критики системы здравоохранения и требований повышения безопасности медицинских процедур. Консервативные силы могут подчеркивать необходимость личной ответственности врачей, а либеральные - системные недостатки в регулировании.",
-      "perspective_type": "assumed",
-      "first_reported": "2026-09-06",
-      "id": "a49eeb52b46a"
-    },
-    {
-      "title_ru": "Спасение женщины из-под машины в Пенсильвании",
-      "title_en": "These bystanders lifted a car to save a woman who was trapped underneath",
-      "date": "2026-09-06",
-      "summary": "В Пенсильвании случайные прохожие подняли автомобиль, чтобы спасти женщину, которая оказалась зажата под ним. Героический поступок стал примером взаимопомощи в экстремальной ситуации.",
-      "category": "politics",
-      "area": "Северная и Центральная Америка",
-      "sources": [
-        "feeds.washingtonpost.com"
-      ],
-      "links": [
-        "https://www.washingtonpost.com/lifestyle/2026/09/06/pennsylvania-bystanders-lift-car-save-trapped-woman/"
-      ],
-      "perspective": "Событие может позитивно оцениваться всеми политическими силами как пример героизма и взаимопомощи. Консерваторы могут подчеркивать важность личной инициативы, а либералы - ценность общественной солидарности.",
-      "perspective_type": "assumed",
-      "first_reported": "2026-09-06",
-      "id": "f26c13128277"
-    },
-    {
       "title_ru": "Австралия планирует допросить крупные технологические компании",
       "title_en": "Government plans to grill big tech companies",
       "date": "2026-09-08",
@@ -2836,24 +2412,6 @@
       "perspective_type": "assumed",
       "first_reported": "2026-09-07",
       "id": "cc2ccc2d753c"
-    },
-    {
-      "title_ru": "Иранский политик высмеивает прогнозы о падении цен на нефть",
-      "title_en": "Ghalibaf mocks Bessent for speculating drop in oil prices before US midterm elections",
-      "date": "2026-09-06",
-      "summary": "Иранский политик Мохаммад Багер Галибаф высмеял прогнозы аналитика Бессента о возможном падении цен на нефть перед промежуточными выборами в США. Галибаф назвал такие предположения спекулятивными и политически мотивированными.",
-      "category": "energy",
-      "area": "Ближний Восток",
-      "sources": [
-        "en.irna.ir"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86256805/Ghalibaf-mocks-Bessent-for-speculating-drop-in-oil-prices-before"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "first_reported": "2026-09-06",
-      "id": "a40ff4bc9c0d"
     },
     {
       "title_ru": "Творческий потенциал Африки как следующая золотая лихорадка для ИИ",
@@ -3149,24 +2707,6 @@
       "id": "60362545d7a7"
     },
     {
-      "title_ru": "ИИ-производство в Мексике переживает бум",
-      "title_en": "El Jalapeño: AI-driven manufacturing is booming in Mexico, says AI",
-      "date": "2026-09-06",
-      "summary": "Производство на основе искусственного интеллекта в Мексике переживает бум, согласно анализу ИИ. Технологии искусственного интеллекта активно внедряются в мексиканскую промышленность.",
-      "category": "ai",
-      "area": "Южная Америка",
-      "sources": [
-        "mexiconewsdaily.com"
-      ],
-      "links": [
-        "https://mexiconewsdaily.com/el-jalapeno/el-jalapeno-ai-driven-manufacturing-booming-mexico-says-ai/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "first_reported": "2026-09-06",
-      "id": "bbdec4f92aa8"
-    },
-    {
       "title_ru": "Победа правой партии AfD на выборах в Саксонии-Анхальт",
       "title_en": "Right-wing AfD party wins election in Saxony-Anhalt",
       "date": "2026-09-07",
@@ -3262,25 +2802,6 @@
       "first_reported": "2026-09-07",
       "id": "849ca54cc193",
       "last_reported": "2026-09-07"
-    },
-    {
-      "title_ru": "Глобальные инвесторы активно вкладывают в гособлигации США",
-      "title_en": "Global investors actively invest in US government bonds",
-      "date": "2026-09-06",
-      "summary": "С начала 2026 года глобальные инвесторы вложили в государственные облигации США более 150 миллиардов долларов. Это свидетельствует о сохраняющемся доверии к американским финансовым инструментам. Инвестиции поступают несмотря на геополитическую нестабильность.",
-      "category": "finance",
-      "area": "Северная и Центральная Америка",
-      "sources": [
-        "Коммерсантъ"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8937620"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-06",
-      "id": "5bc7a9fa6769"
     },
     {
       "title_ru": "Израильский военный министр приказал армии готовиться к 'тотальной войне' с Палестинской администрацией",
@@ -3419,29 +2940,6 @@
       "is_development": false,
       "first_reported": "2026-09-07",
       "id": "96f5eb5a410c"
-    },
-    {
-      "title_ru": "Крушение грузового самолета Amazon в аэропорту Майами",
-      "title_en": "Amazon cargo plane crash at Miami airport",
-      "date": "2026-09-06",
-      "summary": "Грузовой самолет Amazon потерпел крушение в аэропорту Майами, съехав с взлетно-посадочной полосы. В результате аварии погибли 5 человек, еще 5 были госпитализированы.",
-      "category": "politics",
-      "area": "Северная и Центральная Америка",
-      "sources": [
-        "feeds.washingtonpost.com",
-        "www.theglobeandmail.com",
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.washingtonpost.com/nation/2026/09/06/amazon-cargo-plane-crashes-after-veering-off-runway-miami-airport/",
-        "https://www.theglobeandmail.com/world/video-miami-officials-say-five-dead-five-in-hospital-after-amazon-plane/",
-        "https://www.theglobeandmail.com/world/article-amazon-cargo-plane-crash-miami-airport/"
-      ],
-      "perspective": "Трагедия привлечет внимание к безопасности авиаперевозок и регулированию грузовых рейсов. Профсоюзы могут требовать ужесточения контроля за условиями труда пилотов.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-06",
-      "id": "68dee6f3ab33"
     },
     {
       "title_ru": "Президент Индонезии хочет, чтобы у каждого индонезийца был банковский счет",
@@ -3733,25 +3231,6 @@
       "is_development": false,
       "first_reported": "2026-09-07",
       "id": "09700af2c4a9"
-    },
-    {
-      "title_ru": "ИИ-драйверное производство активно развивается в Мексике",
-      "title_en": "El Jalapeño: AI-driven manufacturing is booming in Mexico, says AI",
-      "date": "2026-09-06",
-      "summary": "Производство на основе искусственного интеллекта активно развивается в Мексике. Согласно анализу ИИ, страна переживает бум внедрения искусственного интеллекта в промышленные процессы.",
-      "category": "ai",
-      "area": "Северная и Центральная Америка",
-      "sources": [
-        "mexiconewsdaily.com"
-      ],
-      "links": [
-        "https://mexiconewsdaily.com/el-jalapeno/el-jalapeno-ai-driven-manufacturing-booming-mexico-says-ai/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-06",
-      "id": "85179aefd79e"
     },
     {
       "title_ru": "Победа партии AfD на выборах в Саксонии-Анхальт",
@@ -4535,27 +4014,6 @@
       "id": "1923e7069251"
     },
     {
-      "title_ru": "Извержение вулкана Анак-Кракатау в Индонезии нарушает авиасообщение и закрывает школы",
-      "title_en": "Anak Krakatau volcano eruption in Indonesia halts flights, schools, fishing",
-      "date": "2026-09-06",
-      "summary": "Извержение вулкана Анак-Кракатау в Индонезии привело к приостановке полётов, закрытию школ и прекращению рыболовства в регионе. Власти провинции Бантен перевели все медицинские учреждения в режим повышенной готовности из-за вулканического пепла.",
-      "category": "politics",
-      "area": "Южная и Юго-Восточная Азия",
-      "sources": [
-        "www.theglobeandmail.com",
-        "en.antaranews.com"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/world/article-anak-krakatau-volcano-eruption-in-indonesia-halts-flights-schools/",
-        "https://en.antaranews.com/news/430287/anak-krakatau-ash-banten-puts-all-health-facilities-on-high-alert"
-      ],
-      "perspective": "Правительство демонстрирует оперативность в реагировании на стихийное бедствие, что может повысить его рейтинг. Оппозиция может критиковать недостаточную подготовку к таким событиям.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-06",
-      "id": "65daf4d70203"
-    },
-    {
       "title_ru": "Индонезия подтверждает наличие средств для покрытия долговых обязательств по высокоскоростной железной дороге",
       "title_en": "Indonesia confirms funds to cover high-speed rail debt obligations",
       "date": "2026-09-08",
@@ -4913,25 +4371,6 @@
       "is_development": false,
       "first_reported": "2026-09-08",
       "id": "a2c2e8740e8d"
-    },
-    {
-      "title_ru": "Китай остаётся главной угрозой для энтузиастов дата-центров",
-      "title_en": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
-      "date": "2026-09-06",
-      "summary": "Китай продолжает оставаться главной угрозой в восприятии энтузиастов дата-центров и специалистов по кибербезопасности. Опасения связаны с возможностью китайского вмешательства в инфраструктуру данных и технологическую независимость других стран.",
-      "category": "politics",
-      "area": "Мир",
-      "sources": [
-        "Wired"
-      ],
-      "links": [
-        "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/"
-      ],
-      "perspective": "Для западных стран и технологических компаний Китай представляет угрозу безопасности данных и технологическому суверенитету. Для Китая такие обвинения - часть антикитайской риторики и попытка ограничить его технологическое развитие. Для нейтральных наблюдателей - отражение геополитической конкуренции в цифровой сфере.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-06",
-      "id": "cac5c041edc9"
     },
     {
       "title_ru": "DocuSign открывает доступ к своим ИИ-инструментам для всех агентов",
@@ -5322,24 +4761,6 @@
       "first_reported": "2026-09-08",
       "id": "43bb14347951",
       "last_reported": "2026-09-08"
-    },
-    {
-      "title_ru": "Извержение вулкана Анак-Кракатау в Индонезии привело к остановке полетов, школ и рыболовства",
-      "title_en": "Anak Krakatau volcano eruption in Indonesia halts flights, schools, fishing",
-      "date": "2026-09-06",
-      "summary": "Извержение вулкана Анак-Кракатау в Индонезии вызвало серьезные нарушения: приостановлены авиарейсы, закрыты школы и остановлено рыболовство. Власти провинции Бантен привели все медицинские учреждения в состояние повышенной готовности.",
-      "category": "politics",
-      "area": "Южная и Юго-Восточная Азия",
-      "sources": [
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/world/article-anak-krakatau-volcano-eruption-in-indonesia-halts-flights-schools/"
-      ],
-      "perspective": "Правительство демонстрирует оперативные меры реагирования на стихийное бедствие, в то время как местные жители испытывают экономические трудности из-за остановки деятельности.",
-      "perspective_type": "assumed",
-      "first_reported": "2026-09-06",
-      "id": "354b25f9bbb4"
     },
     {
       "title_ru": "KONE Indonesia стала первой компанией в отрасли, получившей платиновый сертификат Green Product",
@@ -5935,27 +5356,6 @@
       "id": "8abbe160310e"
     },
     {
-      "title_ru": "Грузовой самолет Amazon разбился в аэропорту Майами, погибли пять человек",
-      "title_en": "Amazon cargo plane crashes at Miami airport, killing five people",
-      "date": "2026-09-06",
-      "summary": "Грузовой самолет компании Amazon потерпел крушение в аэропорту Майами, выкатившись за пределы взлетно-посадочной полосы. В результате авиакатастрофы погибли пять человек, еще пять были доставлены в больницу с травмами.",
-      "category": "tech",
-      "area": "Северная и Центральная Америка",
-      "sources": [
-        "feeds.washingtonpost.com",
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.washingtonpost.com/nation/2026/09/06/amazon-cargo-plane-crashes-after-veering-off-runway-miami-airport/",
-        "https://www.theglobeandmail.com/world/article-amazon-cargo-plane-crash-miami-airport/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-06",
-      "id": "b2a37a6b89e0"
-    },
-    {
       "title_ru": "Пассажирский самолет Qantas эвакуирован из-за задымления в салоне",
       "title_en": "Qantas plane evacuated as smoke fills cabin",
       "date": "2026-09-08",
@@ -5973,25 +5373,6 @@
       "is_development": false,
       "first_reported": "2026-09-08",
       "id": "cd6186a8be94"
-    },
-    {
-      "title_ru": "United Airlines готовится к влиянию ИИ на авиационную отрасль",
-      "title_en": "United Airlines's Kirby Wants Back into JFK and is Already Bracing for What AI Does to the Industry",
-      "date": "2026-09-06",
-      "summary": "Генеральный директор United Airlines Скотт Кирби заявил о намерении вернуть авиакомпанию в аэропорт JFK и одновременно готовится к трансформационному влиянию искусственного интеллекта на авиационную отрасль. Он обсуждает стратегические планы по адаптации к технологическим изменениям.",
-      "category": "ai",
-      "area": "Мир",
-      "sources": [
-        "finance.yahoo.com"
-      ],
-      "links": [
-        "https://finance.yahoo.com/markets/stocks/articles/united-airlines-ual-kirby-wants-235155529.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-06",
-      "id": "9b60119b8bf8"
     },
     {
       "title_ru": "Администрация Трампа видит причины конфликта на Украине, заявил Лавров",
@@ -7144,27 +6525,6 @@
       "id": "3c35dd0ea685"
     },
     {
-      "title_ru": "Самолет Amazon разбился в аэропорту Майами, погибли пять человек",
-      "title_en": "Amazon cargo plane crashes at Miami airport, killing five people",
-      "date": "2026-09-06",
-      "summary": "Грузовой самолет компании Amazon потерпел крушение в аэропорту Майами, выкатившись за пределы взлетно-посадочной полосы. В результате авиакатастрофы погибли пять человек, еще пять были госпитализированы с травмами.",
-      "category": "politics",
-      "area": "Северная и Центральная Америка",
-      "sources": [
-        "feeds.washingtonpost.com",
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.washingtonpost.com/nation/2026/09/06/amazon-cargo-plane-crashes-after-veering-off-runway-miami-airport/",
-        "https://www.theglobeandmail.com/world/article-amazon-cargo-plane-crash-miami-airport/"
-      ],
-      "perspective": "Трагедия привлечет внимание к вопросам безопасности авиаперевозок и регулированию грузовых рейсов. Оппозиционные политики могут использовать инцидент для критики корпоративных практик Amazon и требований усиления контроля.",
-      "perspective_type": "assumed",
-      "first_reported": "2026-09-06",
-      "id": "dd435041136a",
-      "last_reported": "2026-09-06"
-    },
-    {
       "title_ru": "Полиция Южной Кореи ужесточает правила расследования дел с участием родственников офицеров",
       "title_en": "Police strengthen rules on cases involving officer family members",
       "date": "2026-09-08",
@@ -7182,24 +6542,6 @@
       "first_reported": "2026-09-08",
       "id": "07979a70e9b8",
       "last_reported": "2026-09-08"
-    },
-    {
-      "title_ru": "Извержение вулкана Анак-Кракатау в Индонезии парализовало авиасообщение и рыболовство",
-      "title_en": "Anak Krakatau volcano eruption in Indonesia halts flights, schools, fishing",
-      "date": "2026-09-06",
-      "summary": "Извержение вулкана Анак-Кракатау в Индонезии привело к масштабным последствиям: отмене авиарейсов, закрытию школ и приостановке рыболовной деятельности. Вулканический пепел создал серьезные проблемы для транспортной системы и экономики региона.",
-      "category": "politics",
-      "area": "Южная и Юго-Восточная Азия",
-      "sources": [
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/world/article-anak-krakatau-volcano-eruption-in-indonesia-halts-flights-schools/"
-      ],
-      "perspective": "Правительство демонстрирует оперативное реагирование на природное бедствие, что может повысить его рейтинги. Оппозиция может критиковать недостаточную подготовку к таким событиям и требовать улучшения системы раннего предупреждения.",
-      "perspective_type": "assumed",
-      "first_reported": "2026-09-06",
-      "id": "23bedcec53d2"
     },
     {
       "title_ru": "Министр финансов Австралии предупреждает об 'экзистенциальной угрозе' в политической битве",
@@ -8053,29 +7395,6 @@
       "id": "3e18ee88e179"
     },
     {
-      "title_ru": "Грузовой самолёт Amazon разбился в аэропорту Майами, погибли пять человек",
-      "title_en": "Amazon cargo plane crashes at Miami airport, killing five people",
-      "date": "2026-09-06",
-      "summary": "Грузовой самолёт компании Amazon потерпел крушение в международном аэропорту Майами, съехав с взлётно-посадочной полосы. В результате аварии погибли пять человек, ещё пять были доставлены в больницу. Происшествие вызвало расследование авиационных властей.",
-      "category": "politics",
-      "area": "Северная и Центральная Америка",
-      "sources": [
-        "feeds.washingtonpost.com",
-        "www.theglobeandmail.com",
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.washingtonpost.com/nation/2026/09/06/amazon-cargo-plane-crashes-after-veering-off-runway-miami-airport/",
-        "https://www.theglobeandmail.com/world/article-amazon-cargo-plane-crash-miami-airport/",
-        "https://www.theglobeandmail.com/world/video-miami-officials-say-five-dead-five-in-hospital-after-amazon-plane/"
-      ],
-      "perspective": "Трагедия привлечёт внимание к безопасности грузовых авиаперевозок и может привести к ужесточению регулирования. Критики могут обвинять Amazon в давлении на логистические цепочки, в то время как компания будет подчёркивать соблюдение всех стандартов безопасности.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-06",
-      "id": "54890b530e56"
-    },
-    {
       "area": "Океания и Австралия",
       "category": "politics",
       "date": "2026-09-08",
@@ -8284,27 +7603,6 @@
       "title_ru": "Канада вводит ответные тарифы на $27,6 млрд в торговом споре с США",
       "first_reported": "2026-09-08",
       "id": "ef9680135763"
-    },
-    {
-      "area": "Северная и Центральная Америка",
-      "category": "politics",
-      "date": "2026-09-06",
-      "is_development": false,
-      "links": [
-        "https://www.washingtonpost.com/nation/2026/09/06/amazon-cargo-plane-crashes-after-veering-off-runway-miami-airport/",
-        "https://www.theglobeandmail.com/world/article-amazon-cargo-plane-crash-miami-airport/"
-      ],
-      "perspective": "Власти США и авиационные регуляторы рассматривают это как серьёзный инцидент, требующий тщательного расследования. Компания Amazon может столкнуться с критикой за безопасность своих логистических операций, в то время как профсоюзы и правозащитники могут требовать усиления контроля за условиями труда в авиаперевозках.",
-      "perspective_type": "assumed",
-      "sources": [
-        "Washington Post",
-        "The Globe and Mail"
-      ],
-      "summary": "Грузовой самолёт компании Amazon разбился в аэропорту Майами после того, как сошёл с взлётно-посадочной полосы. В результате катастрофы погибли пять человек, что стало одним из самых серьёзных инцидентов в истории логистических операций компании.",
-      "title_en": "Amazon cargo plane crashes at Miami airport, killing five",
-      "title_ru": "Грузовой самолёт Amazon разбился в аэропорту Майами, погибли пять человек",
-      "first_reported": "2026-09-06",
-      "id": "c8767fd8ec7c"
     },
     {
       "title_ru": "Победа ультраправой партии AfD на выборах в Германии",
@@ -10332,7 +9630,8 @@
       "perspective_type": "",
       "is_development": false,
       "first_reported": "2026-09-11 08:54:34+00:00",
-      "id": "3d41f31c073a"
+      "id": "3d41f31c073a",
+      "last_reported": "2026-09-11 08:54:34+00:00"
     },
     {
       "title_ru": "Чтобы добыть пыльцу, пчелам приходится трясти цветы с особой частотой",
@@ -10637,10 +9936,371 @@
       "is_development": false,
       "first_reported": "2026-09-10 22:25:00+00:00",
       "id": "3fe87b994393"
+    },
+    {
+      "category": "tech",
+      "date": "2026-09-14 09:37:51+09:00",
+      "is_development": false,
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260914001700320"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "summary": "Две крупнейшие южнокорейские компании-производители чипов, Samsung Electronics и SK hynix, отказались от предложения Korea Electric Power Corp (KEPCO) предоплатить счета за электроэнергию на пять лет вперед. Компании сочли предложение нецелесообразным с финансовой точки зрения.",
+      "title_en": "S. Korea's 2 major chipmakers reject KEPCO's proposal to prepay 5 yrs of electricity bills",
+      "title_ru": "Две крупнейшие южнокорейские компании-производители чипов отказались от предложения предоплатить счета за электроэнергию на пять лет вперед",
+      "first_reported": "2026-09-14 09:37:51+09:00",
+      "id": "7ae5bc08ab89"
+    },
+    {
+      "category": "ai",
+      "date": "2026-09-14 10:46:33+03:00",
+      "is_development": false,
+      "links": [
+        "https://ria.ru/20260914/chernyshenko-2117533571.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "summary": "Вице-премьер России Дмитрий Чернышенко заявил, что пользуется нейросетями для работы. Он отметил, что искусственный интеллект помогает в обработке информации и принятии решений.",
+      "title_en": "Chernyshenko says he uses neural networks",
+      "title_ru": "Чернышенко рассказал, что пользуется нейросетями",
+      "first_reported": "2026-09-14 10:46:33+03:00",
+      "id": "688a721ec33a"
+    },
+    {
+      "category": "life",
+      "date": "2026-09-14 09:07:41+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.nytimes.com/2026/09/14/world/asia/indonesia-ferry-rescue-borneo.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Индонезия",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "summary": "Более 120 человек числятся пропавшими без вести после того, как паром затонул у берегов индонезийского острова Борнео. Спасательные операции продолжаются в сложных погодных условиях.",
+      "title_en": "More Than 120 Are Unaccounted For After Ferry Sinks in Indonesia",
+      "title_ru": "Более 120 человек числятся пропавшими без вести после крушения парома в Индонезии",
+      "first_reported": "2026-09-14 09:07:41+00:00",
+      "id": "06fa830a4a08"
+    },
+    {
+      "category": "life",
+      "date": "2026-09-14 07:46:57+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.riotimesonline.com/sao-paulo-building-collapse-september-2026/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Бразилия",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "summary": "Шесть человек погибли в результате обрушения здания в районе Пенья в Сан-Паулу. Спасатели продолжают поисково-спасательные работы на месте происшествия.",
+      "title_en": "Brazil: Sao Paulo Building Collapse Kills Six in Penha",
+      "title_ru": "Обрушение здания в Сан-Паулу унесло жизни шести человек",
+      "first_reported": "2026-09-14 07:46:57+00:00",
+      "id": "5da13567220f"
+    },
+    {
+      "category": "conflicts",
+      "date": "2026-09-14 09:13:20.039875+00:00",
+      "is_development": false,
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/12/776112/Algeria-cuts-diplomatic-ties-wirh-UAE"
+      ],
+      "perspective": "Алжир разрывает дипломатические отношения с ОАЭ на фоне эскалации региональной напряженности. ОАЭ, вероятно, рассматривает это как необоснованный шаг, усугубляющий раскол в арабском мире.",
+      "perspective_type": "assumed",
+      "region": "Алжир",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "summary": "Алжир разорвал дипломатические отношения с Объединенными Арабскими Эмиратами. Решение принято на фоне эскалации региональной напряженности на Ближнем Востоке.",
+      "title_en": "Algeria cuts diplomatic ties with UAE amid escalating regional tensions",
+      "title_ru": "Алжир разрывает дипломатические отношения с ОАЭ на фоне эскалации региональной напряженности",
+      "first_reported": "2026-09-14 09:13:20.039875+00:00",
+      "id": "63e11ae15ddf"
+    },
+    {
+      "category": "conflicts",
+      "date": "2026-09-14 09:13:20.039750+00:00",
+      "is_development": false,
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/12/776181/Yemen-targets-Saudi-military-base-large-scale-missiles-drones"
+      ],
+      "perspective": "Йеменские силы проводят масштабные ракетно-дроновые удары по саудовской военной базе в ответ на агрессию. Саудовская Аравия рассматривает эти действия как террористические атаки, угрожающие региональной безопасности.",
+      "perspective_type": "assumed",
+      "region": "Йемен",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "summary": "Йеменские силы провели масштабные ракетно-дроновые удары по саудовской военной базе. Атака представлена как ответная мера на агрессию Саудовской Аравии.",
+      "title_en": "Yemen stages large-scale missile-and-drone strikes against Saudi base in retaliation for aggression",
+      "title_ru": "Йемен наносит масштабные ракетно-дроновые удары по саудовской базе в ответ на агрессию",
+      "first_reported": "2026-09-14 09:13:20.039750+00:00",
+      "id": "95368a9330e3"
+    },
+    {
+      "category": "conflicts",
+      "date": "2026-09-14 09:13:20.039203+00:00",
+      "is_development": false,
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/14/776252/Saudi-Arabia-pipeline-extensive-damage-satellite-images-Yemen"
+      ],
+      "perspective": "Спутниковые снимки показывают значительные повреждения ключевого саудовского нефтепровода, что вызывает опасения по поводу поставок нефти. Йеменские силы заявляют об ответственности, в то время как Саудовская Аравия пытается минимизировать ущерб и обеспечить безопасность инфраструктуры.",
+      "perspective_type": "assumed",
+      "region": "Саудовская Аравия",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "summary": "Спутниковые снимки показывают значительные повреждения ключевого нефтепровода Саудовской Аравии. Ущерб нанесен в результате атак, что вызывает опасения по поводу поставок нефти.",
+      "title_en": "Satellite images reveal extensive damage to key Saudi oil pipeline as supply fears mount",
+      "title_ru": "Спутниковые снимки показывают значительные повреждения ключевого нефтепровода Саудовской Аравии",
+      "first_reported": "2026-09-14 09:13:20.039203+00:00",
+      "id": "168e0ac5e74c"
+    },
+    {
+      "category": "svo",
+      "date": "2026-09-14 11:22:11+03:00",
+      "is_development": false,
+      "links": [
+        "https://ria.ru/20260914/dnr-2117542008.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "summary": "Силы противовоздушной обороны сбили 20 беспилотных летательных аппаратов над территорией Донецкой Народной Республики за последние сутки. Атаки дронов продолжаются на линии фронта.",
+      "title_en": "Air defense forces shoot down 20 drones over DPR in a day",
+      "title_ru": "Силы ПВО сбили 20 дронов над ДНР за сутки",
+      "first_reported": "2026-09-14 11:22:11+03:00",
+      "id": "e740edcde6d7"
+    },
+    {
+      "category": "svo",
+      "date": "2026-09-14 10:05:01+03:00",
+      "is_development": false,
+      "links": [
+        "https://ria.ru/20260914/drony-2117516111.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "summary": "В Курской области за сутки сбили 208 украинских беспилотных летательных аппаратов. Регион продолжает подвергаться интенсивным атакам дронов.",
+      "title_en": "208 Ukrainian drones shot down in Kursk region in a day",
+      "title_ru": "В Курской области за сутки сбили 208 украинских дронов",
+      "first_reported": "2026-09-14 10:05:01+03:00",
+      "id": "9c04bcbbf07a"
+    },
+    {
+      "category": "svo",
+      "date": "2026-09-14 08:29:38+03:00",
+      "is_development": false,
+      "links": [
+        "https://www.kommersant.ru/doc/8953938"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "summary": "Силы противовоздушной обороны за ночь сбили над территорией России 399 беспилотных летательных аппаратов. Это свидетельствует о масштабности атак с использованием дронов.",
+      "title_en": "Air defense forces shoot down 399 UAVs over Russia overnight",
+      "title_ru": "Силы ПВО за ночь сбили над Россией 399 БПЛА",
+      "first_reported": "2026-09-14 08:29:38+03:00",
+      "id": "594020b0f1b5"
+    },
+    {
+      "category": "economy",
+      "date": "2026-09-14 16:04:06+07:00",
+      "is_development": false,
+      "links": [
+        "https://en.antaranews.com/news/431225/indonesia-moves-to-secure-fuel-supply-amid-global-tensions"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Индонезия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "summary": "Индонезия принимает меры для обеспечения поставок топлива на фоне глобальной напряженности. Правительство работает над диверсификацией источников и увеличением стратегических запасов.",
+      "title_en": "Indonesia moves to secure fuel supply amid global tensions",
+      "title_ru": "Индонезия принимает меры для обеспечения поставок топлива на фоне глобальной напряженности",
+      "first_reported": "2026-09-14 16:04:06+07:00",
+      "id": "2d335a48a466"
+    },
+    {
+      "category": "economy",
+      "date": "2026-09-14 10:11:53+03:00",
+      "is_development": false,
+      "links": [
+        "https://ria.ru/20260914/oreshkin-2117519294.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "summary": "Помощник президента России Максим Орешкин заявил, что зарплаты в стране продолжат расти. Он отметил позитивные тенденции на рынке труда и экономическом развитии.",
+      "title_en": "Oreshkin says salaries in Russia will continue to grow",
+      "title_ru": "Орешкин заявил, что зарплаты в России продолжат расти",
+      "first_reported": "2026-09-14 10:11:53+03:00",
+      "id": "e4ba9dad2b79"
+    },
+    {
+      "category": "politics",
+      "date": "2026-09-14 03:30:58+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.budapesttimes.hu/hungary/the-gloves-are-off-orban-throws-down-the-gauntlet-against-neo-communists/"
+      ],
+      "perspective": "Орбан бросает вызов «неокоммунистам», позиционируя свою партию как защитника национальных интересов Венгрии. Его оппоненты рассматривают это как популистскую риторику, направленную на консолидацию власти.",
+      "perspective_type": "assumed",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "summary": "Премьер-министр Венгрии Виктор Орбан бросил вызов «неокоммунистам», заявив, что его партия Фидес готова к политической борьбе. Он позиционирует себя как защитника национальных интересов страны.",
+      "title_en": "The gloves are off: Orbán throws down the gauntlet against 'neo-communists'",
+      "title_ru": "Орбан бросает вызов «неокоммунистам»",
+      "first_reported": "2026-09-14 03:30:58+00:00",
+      "id": "410b8c304c8a"
+    },
+    {
+      "category": "politics",
+      "date": "2026-09-14 07:38:40+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.riotimesonline.com/ecuador-military-noboa-dismisses-air-force-commander-2026/"
+      ],
+      "perspective": "Президент Эквадора Нобоа увольняет командующего ВВС после письма с базы, что может рассматриваться как укрепление гражданского контроля над вооруженными силами. Военные могут воспринимать это как политическое вмешательство в их внутренние дела.",
+      "perspective_type": "assumed",
+      "region": "Эквадор",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "summary": "Президент Эквадора Даниэль Нобоа отстранил от должности командующего ВВС страны. Решение принято после получения письма с военной базы, содержание которого не раскрывается.",
+      "title_en": "Ecuador Military Shake-up: Noboa Removes Air Force Chief after Base Letter",
+      "title_ru": "Кадровые перестановки в вооруженных силах Эквадора: Нобоа увольняет командующего ВВС",
+      "first_reported": "2026-09-14 07:38:40+00:00",
+      "id": "5966d8c8328a"
+    },
+    {
+      "category": "politics",
+      "date": "2026-09-14 10:15:54+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.jpost.com/international/article-908491"
+      ],
+      "perspective": "Норвегия готовится запретить торговлю с израильскими поселениями на Западном берегу, что рассматривается как поддержка палестинской позиции. Израиль считает такие меры дискриминационными и подрывающими мирный процесс.",
+      "perspective_type": "assumed",
+      "region": "Норвегия",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "summary": "Норвегия готовится принять закон, запрещающий торговлю с израильскими поселениями на Западном берегу. Нарушителям закона грозит до трех лет тюремного заключения.",
+      "title_en": "Up to three years in prison: Norway prepares to pass bill banning trade with West Bank settlements",
+      "title_ru": "Норвегия готовится запретить торговлю с израильскими поселениями на Западном берегу",
+      "first_reported": "2026-09-14 10:15:54+00:00",
+      "id": "78fd18e6c105"
+    },
+    {
+      "category": "statement",
+      "date": "2026-09-14 07:57:09+03:00",
+      "is_development": false,
+      "links": [
+        "https://www.kommersant.ru/doc/8953915"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "США",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "summary": "Президент США Дональд Трамп заявил, что США могут передать Украине лицензии на менее продвинутую версию системы ПВО Patriot. Это заявление сделано в контексте обсуждения военной поддержки Украины.",
+      "title_en": "Trump: US may transfer licenses for less advanced version of Patriot to Ukraine",
+      "title_ru": "Трамп: США могут передать Украине лицензии на менее продвинутую версию Patriot",
+      "first_reported": "2026-09-14 07:57:09+03:00",
+      "id": "942d8a8cf750"
+    },
+    {
+      "category": "culture",
+      "date": "2026-09-14 16:54:55+09:00",
+      "is_development": false,
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260914009000315"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "summary": "Южнокорейский пианист Лим Юнчан снова номинирован на премию Gramophone Classical Music Awards. Это признание его выдающихся достижений в области классической музыки.",
+      "title_en": "Lim Yunchan nominated again for Gramophone Classical Music Awards",
+      "title_ru": "Лим Юнчан снова номинирован на премию Gramophone Classical Music Awards",
+      "first_reported": "2026-09-14 16:54:55+09:00",
+      "id": "51de1150b1e1"
+    },
+    {
+      "category": "photo",
+      "date": "2026-09-11 21:48:58+00:00",
+      "is_development": false,
+      "links": [
+        "https://petapixel.com/2026/09/11/25-years-after-the-worlds-deadliest-terror-attack-photographers-recall-9-11/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "summary": "Фотографы вспоминают события 11 сентября 2001 года, 25 лет спустя после самой смертоносной террористической атаки в мире. Их работы запечатлели трагедию и стали историческими документами.",
+      "title_en": "25 Years After the World's Deadliest Terror Attack, Photographers Recall 9/11",
+      "title_ru": "25 лет спустя после самой смертоносной террористической атаки фотографы вспоминают 11 сентября",
+      "first_reported": "2026-09-11 21:48:58+00:00",
+      "id": "0dfb03802a6f"
+    },
+    {
+      "category": "ecology",
+      "date": "2026-09-14 04:00:00+00:00",
+      "is_development": false,
+      "links": [
+        "https://mg.co.za/news/health/2026-09-11-can-flood-survivors-stories-make-climate-science-better/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "summary": "Исследователи изучают, могут ли истории выживших после наводнений улучшить климатическую науку. Личный опыт людей, переживших стихийные бедствия, может предоставить ценную информацию для понимания последствий изменения климата.",
+      "title_en": "Can flood survivors' stories make climate science better?",
+      "title_ru": "Могут ли истории выживших после наводнений улучшить климатическую науку?",
+      "first_reported": "2026-09-14 04:00:00+00:00",
+      "id": "0a6aa1b1718d"
     }
   ],
   "_stats": {
-    "total_tokens": 2286101,
-    "total_cost": 284.987928
+    "total_tokens": 2304425,
+    "total_cost": 286.179028
   }
 }
