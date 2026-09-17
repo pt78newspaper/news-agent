@@ -2,443 +2,6 @@
   "_events": [
     {
       "category": "tech",
-      "date": "2026-09-09 07:05:18.862982+00:00",
-      "is_development": false,
-      "links": [
-        "https://www.taipeitimes.com/News/biz/archives/2026/09/09/2003863916"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Тайвань",
-      "sources": [
-        "www.taipeitimes.com"
-      ],
-      "summary": "Полупроводниковые компании на Тайване увеличивают набор персонала и расширяют поиск талантов. Это связано с ростом спроса на чипы и необходимостью укрепления кадрового потенциала в ключевой отрасли экономики.",
-      "title_en": "Semiconductor firms boost hiring, broaden talent search: 104 Job Bank",
-      "title_ru": "Полупроводниковые компании увеличивают набор персонала и расширяют поиск талантов",
-      "first_reported": "2026-09-09 07:05:18.862982+00:00",
-      "id": "eb0fc67deb41"
-    },
-    {
-      "category": "life",
-      "date": "2026-09-09 10:29:16+05:30",
-      "is_development": false,
-      "links": [
-        "https://timesofindia.indiatimes.com/world/us/amazon-cargo-jet-pilots-tried-to-abort-unstable-landing-before-plane-overran-miami-runway/articleshow/133953303.cms"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "США",
-      "sources": [
-        "timesofindia.indiatimes.com"
-      ],
-      "summary": "Пилоты грузового самолёта Amazon пытались прервать неустойчивую посадку перед тем, как самолёт выкатился за пределы взлётно-посадочной полосы в Майами. Инцидент привёл к гибели людей и разрушению транспортных средств.",
-      "title_en": "Amazon jet pilots tried to abort unstable landing before plane overran Miami runway",
-      "title_ru": "Пилоты самолёта Amazon пытались прервать неустойчивую посадку перед выкатыванием за пределы ВПП в Майами",
-      "first_reported": "2026-09-09 10:29:16+05:30",
-      "id": "d1c22adc0fad"
-    },
-    {
-      "category": "life",
-      "date": "2026-09-09 10:01:08+05:30",
-      "is_development": false,
-      "links": [
-        "https://timesofindia.indiatimes.com/world/us/toxic-air-after-9/11-mamdani-releases-documents-showing-how-new-yorkers-were-misled/articleshow/133952461.cms"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "США",
-      "sources": [
-        "timesofindia.indiatimes.com"
-      ],
-      "summary": "Обнародованы документы, показывающие, как жителей Нью-Йорка вводили в заблуждение относительно токсичности воздуха после терактов 11 сентября 2001 года. Тысячи документов раскрывают масштабы проблемы с загрязнением воздуха после катастрофы.",
-      "title_en": "Toxic air after 9/11: Mamdani releases documents showing how New Yorkers were misled",
-      "title_ru": "Токсичный воздух после 11 сентября: обнародованы документы о введении в заблуждение жителей Нью-Йорка",
-      "first_reported": "2026-09-09 10:01:08+05:30",
-      "id": "5d2de6624145"
-    },
-    {
-      "category": "conflicts",
-      "date": "2026-09-09 07:05:13.495515+00:00",
-      "is_development": true,
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/08/775909/Iran-shot-down-US-MQ-1-drone-over-Strait-of-Hormuz"
-      ],
-      "perspective": "Иран заявляет о защите своего суверенитета, США могут рассматривать это как эскалацию напряжённости в стратегически важном регионе",
-      "perspective_type": "assumed",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "summary": "Иран сбил американский беспилотник MQ-1 над Ормузским проливом. Это произошло на фоне заявлений Ирана о полном контроле над проливом и захвате американского подводного аппарата.",
-      "title_en": "Iran shoots down US MQ-1 drone over Strait of Hormuz",
-      "title_ru": "Иран сбил американский беспилотник MQ-1 над Ормузским проливом",
-      "first_reported": "2026-09-09 07:05:13.495515+00:00",
-      "id": "0d5d0145abd6"
-    },
-    {
-      "category": "conflicts",
-      "date": "2026-09-09 07:05:13.495487+00:00",
-      "is_development": true,
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/08/775917/IRGC-Navy-US-unmanned-underwater-vessel-Hormuz"
-      ],
-      "perspective": "Иран демонстрирует военные возможности, США могут рассматривать захват как нарушение международного права",
-      "perspective_type": "assumed",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "summary": "ВМС Корпуса стражей исламской революции Ирана захватили передовой американский беспилотный подводный аппарат в Ормузском проливе. Иран заявляет, что это демонстрирует его возможности по наблюдению в регионе.",
-      "title_en": "IRGC Navy seizes cutting-edge US unmanned submersible in Strait of Hormuz",
-      "title_ru": "ВМС КСИР захватили передовой американский беспилотный подводный аппарат в Ормузском проливе",
-      "first_reported": "2026-09-09 07:05:13.495487+00:00",
-      "id": "cc2c593a3bbb"
-    },
-    {
-      "category": "conflicts",
-      "date": "2026-09-09 09:58:21+03:00",
-      "is_development": false,
-      "links": [
-        "https://tass.ru/armiya-i-opk/28093953"
-      ],
-      "perspective": "Россия заявляет о поражении военных целей, Украина может рассматривать это как атаки на гражданскую инфраструктуру",
-      "perspective_type": "assumed",
-      "region": "Украина",
-      "sources": [
-        "tass.ru"
-      ],
-      "summary": "Вооружённые силы РФ нанесли удар по военным складам ВСУ в Николаеве и области. Также сообщается о поражении резервуаров с топливом в порту Николаев.",
-      "title_en": "Russian Armed Forces strike Ukrainian military warehouses in Mykolaiv and region",
-      "title_ru": "ВС РФ ударили по военным складам ВСУ в Николаеве и области",
-      "first_reported": "2026-09-09 09:58:21+03:00",
-      "id": "85d870811cd6"
-    },
-    {
-      "category": "economy",
-      "date": "2026-09-09 07:05:18.862870+00:00",
-      "is_development": false,
-      "links": [
-        "https://www.taipeitimes.com/News/front/archives/2026/09/09/2003863933"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Саудовская Аравия",
-      "sources": [
-        "www.taipeitimes.com"
-      ],
-      "summary": "Саудовская Аравия пообещала ответить после атак хуситов на нефтяные объекты. Конфликт в Йемене продолжает угрожать энергетической инфраструктуре королевства.",
-      "title_en": "Saudi Arabia vows response as Houthis hit oil sites",
-      "title_ru": "Саудовская Аравия пообещала ответить после атак хуситов на нефтяные объекты",
-      "first_reported": "2026-09-09 07:05:18.862870+00:00",
-      "id": "4abb7d9b15b0"
-    },
-    {
-      "category": "politics",
-      "date": "2026-09-09 09:22:36+00:00",
-      "is_development": false,
-      "links": [
-        "https://www.jpost.com/middle-east/article-908022"
-      ],
-      "perspective": "США продвигают ядерное сотрудничество с Саудовской Аравией, Израиль может выражать озабоченность по поводу региональной безопасности",
-      "perspective_type": "assumed",
-      "region": "США",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "summary": "Опубликовано письмо Трампа Конгрессу о ядерном соглашении между Саудовской Аравией и США. Это часть усилий администрации по укреплению сотрудничества в области ядерной энергетики.",
-      "title_en": "Trump's letter to Congress on Saudi Arabia-United States nuclear agreement released",
-      "title_ru": "Опубликовано письмо Трампа Конгрессу о ядерном соглашении Саудовской Аравии и США",
-      "first_reported": "2026-09-09 09:22:36+00:00",
-      "id": "4508a7e92006"
-    },
-    {
-      "category": "politics",
-      "date": "2026-09-09 09:17:03+00:00",
-      "is_development": false,
-      "links": [
-        "https://www.jpost.com/israel-news/article-908026"
-      ],
-      "perspective": "Таиланд выражает озабоченность поведением израильских туристов, Израиль может рассматривать это как дипломатический инцидент",
-      "perspective_type": "assumed",
-      "region": "Таиланд",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "summary": "Министр иностранных дел Таиланда вызвал израильского посла из-за поведения туристов и призвал принять более решительные меры. Это указывает на напряжённость в двусторонних отношениях.",
-      "title_en": "Thailand's FM summons Israeli ambassador over tourist behavior, calls for taking stronger actions",
-      "title_ru": "МИД Таиланда вызвал израильского посла из-за поведения туристов и призвал к решительным мерам",
-      "first_reported": "2026-09-09 09:17:03+00:00",
-      "id": "c58baa149975"
-    },
-    {
-      "category": "politics",
-      "date": "2026-09-09 08:24:05+03:00",
-      "is_development": false,
-      "links": [
-        "https://www.rbc.ru/politics/08/09/2026/6aa02e3e24a37030db749760"
-      ],
-      "perspective": "Россия критикует позицию Запада, Запад настаивает на территориальной целостности Украины",
-      "perspective_type": "assumed",
-      "region": "Россия",
-      "sources": [
-        "rssexport.rbc.ru"
-      ],
-      "summary": "Сергей Лавров заявил, что Запад «озверело» требует вернуть границы 1991 года. Это часть дипломатической риторики России в контексте украинского конфликта.",
-      "title_en": "Lavrov says West 'frenziedly' demands return to 1991 borders",
-      "title_ru": "Лавров: Запад «озверело» требует вернуть границы 1991 года",
-      "first_reported": "2026-09-09 08:24:05+03:00",
-      "id": "20b557da73ae"
-    },
-    {
-      "category": "statement",
-      "date": "2026-09-09 07:05:13.495786+00:00",
-      "is_development": false,
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/07/775873/Iran-possesses-full-capability-to-strike-US-warships--Mminister"
-      ],
-      "perspective": "Иран демонстрирует военную мощь и готовность к конфронтации, США могут рассматривать это как угрозу региональной стабильности",
-      "perspective_type": "assumed",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "summary": "Министр Ирана заявил, что страна обладает полной возможностью поражать американские военные корабли. Это заявление сделано на фоне эскалации напряжённости в Ормузском проливе.",
-      "title_en": "Iran possesses full capability to strike US warships: Minister",
-      "title_ru": "Иран обладает полной возможностью поражать американские военные корабли: министр",
-      "first_reported": "2026-09-09 07:05:13.495786+00:00",
-      "id": "e163d836a6d4"
-    },
-    {
-      "category": "photo",
-      "date": "2026-09-09 06:00:35+00:00",
-      "is_development": false,
-      "links": [
-        "https://petapixel.com/2026/09/08/om-systems-updated-14-42mm-kit-lens-is-splashproof-and-focuses-closer/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Мир",
-      "sources": [
-        "petapixel.com"
-      ],
-      "summary": "OM System представила обновлённый китовый объектив 14-42mm, который теперь защищён от брызг и фокусируется ближе. Это улучшение популярного объектива для системных камер.",
-      "title_en": "OM System's Updated 14-42mm Kit Lens Is Splashproof and Focuses Closer",
-      "title_ru": "Обновлённый китовый объектив OM System 14-42mm теперь защищён от брызг и фокусируется ближе",
-      "first_reported": "2026-09-09 06:00:35+00:00",
-      "id": "acab3e5fceae"
-    },
-    {
-      "category": "tech",
-      "date": "2026-09-09 08:15:52+00:00",
-      "is_development": false,
-      "links": [
-        "https://naked-science.ru/article/physics/hi-energy-photon-model"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "summary": "Физики предложили теоретическую модель, объясняющую появление фотонов с «невозможной» энергией, превышающей теоретический предел Грейзена-Зацепина-Кузьмина. Это может изменить понимание космических лучей сверхвысоких энергий.",
-      "title_en": "Physicists proposed an explanation for the appearance of a photon with \"impossible\" energy",
-      "title_ru": "Физики предложили объяснение появлению фотона с «невозможной» энергией",
-      "first_reported": "2026-09-09 08:15:52+00:00",
-      "id": "743ed63044ab"
-    },
-    {
-      "category": "ai",
-      "date": "2026-09-09 07:47:28+00:00",
-      "is_development": false,
-      "links": [
-        "https://naked-science.ru/article/biology/metamorfoz-chervya-pokazal"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "summary": "Исследование метаморфоза червя показало, что многие клетки не исчезают, а меняют свою «профессию» — трансформируются в другие типы клеток. Это открытие меняет понимание клеточной пластичности и регенерации.",
-      "title_en": "Worm metamorphosis showed that many cells do not disappear, but change their \"profession\"",
-      "title_ru": "Метаморфоз червя показал, что многие клетки не исчезают, а меняют свою «профессию»",
-      "first_reported": "2026-09-09 07:47:28+00:00",
-      "id": "bb23731d1421"
-    },
-    {
-      "category": "life",
-      "date": "2026-09-09 17:40:02+10:00",
-      "is_development": false,
-      "links": [
-        "https://www.smh.com.au/world/asia/journalists-and-boat-crew-missing-near-erupting-indonesian-volcano-20260909-p60vvk.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Индонезия",
-      "sources": [
-        "www.smh.com.au"
-      ],
-      "summary": "Журналисты и экипаж лодки пропали без вести возле извергающегося вулкана в Индонезии. Поисково-спасательная операция осложняется вулканической активностью и плохими погодными условиями.",
-      "title_en": "Journalists and boat crew missing near erupting Indonesian volcano",
-      "title_ru": "Журналисты и экипаж лодки пропали без вести возле извергающегося вулкана в Индонезии",
-      "first_reported": "2026-09-09 17:40:02+10:00",
-      "id": "0a93149a5829"
-    },
-    {
-      "category": "life",
-      "date": "2026-09-09 18:21:38+10:00",
-      "is_development": false,
-      "links": [
-        "https://www.smh.com.au/national/queensland/brisbane-has-fewer-library-workers-now-than-in-2021-is-it-a-problem-20260909-p60vu4.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Австралия",
-      "sources": [
-        "www.smh.com.au"
-      ],
-      "summary": "В Брисбене сейчас меньше библиотечных работников, чем в 2021 году. Эксперты обсуждают, является ли это проблемой для качества библиотечных услуг и доступа к информации для горожан.",
-      "title_en": "Brisbane has fewer library workers now than in 2021. Is it a problem?",
-      "title_ru": "В Брисбене сейчас меньше библиотечных работников, чем в 2021 году. Это проблема?",
-      "first_reported": "2026-09-09 18:21:38+10:00",
-      "id": "1962ec8cd703"
-    },
-    {
-      "category": "conflicts",
-      "date": "2026-09-09 08:22:03.195715+00:00",
-      "is_development": false,
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/08/775909/Iran-shot-down-US-MQ-1-drone-over-Strait-of-Hormuz"
-      ],
-      "perspective": "Иран заявляет о защите своего воздушного пространства, США могут рассматривать это как эскалацию напряжённости в стратегически важном проливе.",
-      "perspective_type": "from_source",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "summary": "Иран сбил американский беспилотник MQ-1 над Ормузским проливом. Это произошло на фоне заявлений Ирана о полном контроле над стратегически важным проливом.",
-      "title_en": "Iran shoots down US MQ-1 drone over Strait of Hormuz",
-      "title_ru": "Иран сбил американский беспилотник MQ-1 над Ормузским проливом",
-      "first_reported": "2026-09-09 08:22:03.195715+00:00",
-      "id": "5de35ede9ba3"
-    },
-    {
-      "category": "conflicts",
-      "date": "2026-09-09 08:22:03.195658+00:00",
-      "is_development": false,
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/08/775917/IRGC-Navy-US-unmanned-underwater-vessel-Hormuz"
-      ],
-      "perspective": "Иран демонстрирует свои возможности по контролю над проливом, США могут рассматривать захват подводного аппарата как нарушение международного права.",
-      "perspective_type": "from_source",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "summary": "ВМС Корпуса стражей исламской революции захватили передовой американский беспилотный подводный аппарат в Ормузском проливе. Иран заявляет, что это демонстрирует его возможности по наблюдению в регионе.",
-      "title_en": "IRGC Navy seizes cutting-edge US unmanned submersible in Strait of Hormuz",
-      "title_ru": "ВМС КСИР захватили передовой американский беспилотный подводный аппарат в Ормузском проливе",
-      "first_reported": "2026-09-09 08:22:03.195658+00:00",
-      "id": "6a60d1cb9941"
-    },
-    {
-      "category": "svo",
-      "date": "2026-09-09 11:17:08+03:00",
-      "is_development": false,
-      "links": [
-        "https://tass.ru/proisshestviya/28094331"
-      ],
-      "perspective": "Россия заявляет о защите своего воздушного пространства, Украина может рассматривать это как часть продолжающегося конфликта.",
-      "perspective_type": "from_source",
-      "region": "Россия",
-      "sources": [
-        "tass.ru"
-      ],
-      "summary": "Над Орловской областью сбили пять беспилотников. Это часть продолжающихся атак дронов на российские регионы в рамках конфликта с Украиной.",
-      "title_en": "Five drones shot down over Oryol region",
-      "title_ru": "Над Орловской областью сбили пять беспилотников",
-      "first_reported": "2026-09-09 11:17:08+03:00",
-      "id": "edd90cd862c9"
-    },
-    {
-      "category": "svo",
-      "date": "2026-09-09 09:08:43+03:00",
-      "is_development": false,
-      "links": [
-        "https://www.kommersant.ru/doc/8939604"
-      ],
-      "perspective": "Россия заявляет об эффективности своей ПВО, Украина может рассматривать это как продолжение военных действий.",
-      "perspective_type": "from_source",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "summary": "Силы ПВО за ночь сбили над Россией 596 беспилотников. Это рекордное количество сбитых дронов за сутки в рамках конфликта с Украиной.",
-      "title_en": "Air defense forces shot down 596 drones over Russia overnight",
-      "title_ru": "Силы ПВО за ночь сбили над Россией 596 БПЛА",
-      "first_reported": "2026-09-09 09:08:43+03:00",
-      "id": "8b6f8e24bd4b"
-    },
-    {
-      "category": "economy",
-      "date": "2026-09-09 07:43:57+00:00",
-      "is_development": false,
-      "links": [
-        "https://www.riotimesonline.com/cosan-nyse-delisting-adr-level-one-september-2026/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Бразилия",
-      "sources": [
-        "riotimesonline.com"
-      ],
-      "summary": "Бразильская компания Cosan покидает Нью-Йоркскую фондовую биржу 18 сентября. Это решение отражает изменения в стратегии компании и может повлиять на доступ бразильских компаний к американским рынкам капитала.",
-      "title_en": "Cosan Leaves the New York Stock Exchange on September 18",
-      "title_ru": "Cosan покидает Нью-Йоркскую фондовую биржу 18 сентября",
-      "first_reported": "2026-09-09 07:43:57+00:00",
-      "id": "adf4e85d92ed"
-    },
-    {
-      "category": "statement",
-      "date": "2026-09-09 11:03:01+03:00",
-      "is_development": false,
-      "links": [
-        "https://ria.ru/20260909/mid-2116507975.html"
-      ],
-      "perspective": "Россия осуждает угрозы украинского руководства как шантаж, Украина может рассматривать свои заявления как ответ на военные действия.",
-      "perspective_type": "from_source",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "summary": "МИД России ответил на угрозы Владимира Зеленского в отношении гражданской авиации. В ведомстве назвали эти заявления «воздушным шантажем» и попыткой посеять хаос.",
-      "title_en": "Russian Foreign Ministry responded to Zelensky's threats to civil aviation",
-      "title_ru": "В МИД ответили на угрозы Зеленского гражданской авиации",
-      "first_reported": "2026-09-09 11:03:01+03:00",
-      "id": "c2c507c5429e"
-    },
-    {
-      "category": "ecology",
-      "date": "2026-09-09 12:30:00+05:30",
-      "is_development": false,
-      "links": [
-        "https://timesofindia.indiatimes.com/science/nature/ugandan-communities-planted-4053-trees-beside-one-of-africas-great-rainforests-now-the-new-forest-is-rebuilding-a-damaged-wildlife-buffer/articleshow/133955318.cms"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Уганда",
-      "sources": [
-        "timesofindia.indiatimes.com"
-      ],
-      "summary": "Сообщества в Уганде посадили 4 053 дерева рядом с одним из великих африканских тропических лесов — Бвинди. Новый лес восстанавливает повреждённую буферную зону для дикой природы, создавая «биосупермаркеты» для животных.",
-      "title_en": "Ugandan communities plant 4,053 trees to rebuild a wildlife buffer near Bwindi",
-      "title_ru": "Сообщества в Уганде посадили 4 053 дерева для восстановления буферной зоны дикой природы возле Бвинди",
-      "first_reported": "2026-09-09 12:30:00+05:30",
-      "id": "67f8537e7ff4"
-    },
-    {
-      "category": "tech",
       "date": "2026-09-10 08:22:24.794930+00:00",
       "is_development": false,
       "links": [
@@ -455,63 +18,6 @@
       "title_ru": "Обзор книги о скрытых руках холодной войны",
       "first_reported": "2026-09-10 08:22:24.794930+00:00",
       "id": "b6a7f728a8e0"
-    },
-    {
-      "category": "tech",
-      "date": "2026-09-09 08:15:52+00:00",
-      "is_development": false,
-      "links": [
-        "https://naked-science.ru/article/physics/hi-energy-photon-model"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Россия",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "summary": "Российские физики предложили теоретическую модель, объясняющую появление фотонов с экстремально высокой энергией, что ранее считалось невозможным с точки зрения стандартных физических теорий.",
-      "title_en": "Physicists proposed an explanation for the appearance of a photon with 'impossible' energy",
-      "title_ru": "Физики предложили объяснение появлению фотона с 'невозможной' энергией",
-      "first_reported": "2026-09-09 08:15:52+00:00",
-      "id": "0a188f3be38f"
-    },
-    {
-      "category": "tech",
-      "date": "2026-09-09 11:14:48+00:00",
-      "is_development": false,
-      "links": [
-        "https://naked-science.ru/article/astronomy/sformirovalas-mezhzvezdnaya-kometa-3i-atlas"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Россия",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "summary": "Российские астрономы выяснили механизм формирования межзвездной кометы 3I/ATLAS, что расширяет понимание процессов формирования небесных тел за пределами Солнечной системы.",
-      "title_en": "Astronomers found out how the interstellar comet 3I/ATLAS formed",
-      "title_ru": "Астрономы выяснили, как сформировалась межзвездная комета 3I/ATLAS",
-      "first_reported": "2026-09-09 11:14:48+00:00",
-      "id": "7c61a59e2c03"
-    },
-    {
-      "category": "ai",
-      "date": "2026-09-09 20:24:48+00:00",
-      "is_development": false,
-      "links": [
-        "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "США",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "summary": "Новые функции ИИ в Apple Watch, которые постоянно прослушивают разговоры пользователей и создают их резюме, нормализуют идею постоянного прослушивания технологиями, вызывая вопросы о приватности.",
-      "title_en": "Apple Watch's new AI features are normalizing the idea that technology is always listening",
-      "title_ru": "Новые функции ИИ в Apple Watch нормализуют идею постоянного прослушивания технологиями",
-      "first_reported": "2026-09-09 20:24:48+00:00",
-      "id": "5475aa9abda6"
     },
     {
       "category": "ai",
@@ -666,63 +172,6 @@
       "id": "67f38c3dfbd3"
     },
     {
-      "category": "economy",
-      "date": "2026-09-09 11:25:41+00:00",
-      "is_development": false,
-      "links": [
-        "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-9-2026-ongoing-escalations-in-the-middle-east-are-keeping-a-lid-on-crypto-112541573.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Мир",
-      "sources": [
-        "finance.yahoo.com"
-      ],
-      "summary": "Эскалация на Ближнем Востоке сдерживает рост криптовалют, включая биткоин и эфириум, поскольку инвесторы проявляют осторожность в условиях геополитической нестабильности.",
-      "title_en": "Ongoing escalations in the Middle East are keeping a lid on crypto",
-      "title_ru": "Эскалация на Ближнем Востоке сдерживает криптовалюты",
-      "first_reported": "2026-09-09 11:25:41+00:00",
-      "id": "8517a63a6356"
-    },
-    {
-      "category": "economy",
-      "date": "2026-09-09 10:41:23+00:00",
-      "is_development": false,
-      "links": [
-        "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-iranian-oil-tankers-104123795.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Мир",
-      "sources": [
-        "finance.yahoo.com"
-      ],
-      "summary": "Цены на золото снизились после ударов США по пяти иранским нефтяным танкерам, что демонстрирует сложную взаимосвязь между геополитическими событиями и товарными рынками.",
-      "title_en": "Gold prices drop following U.S. strikes on five Iranian oil tankers",
-      "title_ru": "Цены на золото упали после ударов США по иранским танкерам",
-      "first_reported": "2026-09-09 10:41:23+00:00",
-      "id": "cdd767e121b2"
-    },
-    {
-      "category": "politics",
-      "date": "2026-09-09 19:45:00+03:00",
-      "is_development": false,
-      "links": [
-        "https://www.dailysabah.com/world/mid-east/nuclear-watchdog-refers-iran-to-unsc-for-first-time-in-2-decades"
-      ],
-      "perspective": "МАГАТЭ и западные страны обвиняют Иран в несоблюдении ядерных соглашений, в то время как Иран считает это политически мотивированным решением и нарушением своих суверенных прав.",
-      "perspective_type": "assumed",
-      "region": "Иран",
-      "sources": [
-        "dailysabah.com"
-      ],
-      "summary": "Международное агентство по атомной энергии впервые за два десятилетия направило дело Ирана в Совет Безопасности ООН из-за несоблюдения ядерных соглашений, что усиливает международное давление на Тегеран.",
-      "title_en": "Nuclear watchdog refers Iran to UNSC for first time in 2 decades",
-      "title_ru": "МАГАТЭ направило дело Ирана в СБ ООН впервые за 20 лет",
-      "first_reported": "2026-09-09 19:45:00+03:00",
-      "id": "bb41a07bf922"
-    },
-    {
       "category": "politics",
       "date": "2026-09-10 07:00:04+03:00",
       "is_development": false,
@@ -742,25 +191,6 @@
       "id": "77884df6373b"
     },
     {
-      "category": "politics",
-      "date": "2026-09-09 04:57:17+00:00",
-      "is_development": false,
-      "links": [
-        "https://www.budapesttimes.hu/hungary/a-tale-of-two-hungarys-pm-vows-to-bridge-the-urban-rural-divide/"
-      ],
-      "perspective": "Премьер-министр Венгрии позиционирует это как социальную справедливость и развитие страны, в то время как оппозиция может критиковать эффективность таких мер и их политическую мотивацию.",
-      "perspective_type": "assumed",
-      "region": "Венгрия",
-      "sources": [
-        "budapesttimes.hu"
-      ],
-      "summary": "Премьер-министр Венгрии пообещал преодолеть разрыв между городом и деревней, признавая существование 'двух Венгрий' с разным уровнем развития и качества жизни.",
-      "title_en": "A tale of two Hungarys: PM vows to bridge the urban-rural divide",
-      "title_ru": "История двух Венгрий: премьер пообещал преодолеть разрыв между городом и деревней",
-      "first_reported": "2026-09-09 04:57:17+00:00",
-      "id": "6d19368f5a1c"
-    },
-    {
       "category": "statement",
       "date": "2026-09-10 10:24:16+03:00",
       "is_development": false,
@@ -778,44 +208,6 @@
       "title_ru": "Трамп предложил переименовать Ормузский пролив в его честь",
       "first_reported": "2026-09-10 10:24:16+03:00",
       "id": "abcc91c551c7"
-    },
-    {
-      "category": "culture",
-      "date": "2026-09-09 13:31:26+00:00",
-      "is_development": false,
-      "links": [
-        "https://mg.co.za/thought-leader/2026-09-09-one-goal-one-system-a-mission-approach-to-improve-early-grade-reading/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Африка",
-      "sources": [
-        "mg.co.za"
-      ],
-      "summary": "В ЮАР обсуждается миссионерский подход к улучшению чтения в младших классах, что отражает внимание к развитию образования и культурной грамотности на африканском континенте.",
-      "title_en": "One goal, one system: A mission approach to improve early grade reading",
-      "title_ru": "Одна цель, одна система: миссионерский подход к улучшению чтения в младших классах",
-      "first_reported": "2026-09-09 13:31:26+00:00",
-      "id": "60bd5eb9fe7d"
-    },
-    {
-      "category": "photo",
-      "date": "2026-09-09 16:16:18+00:00",
-      "is_development": false,
-      "links": [
-        "https://petapixel.com/2026/09/09/there-are-3824-comments-on-the-fccs-latest-drone-ban-nearly-99-of-them-oppose-it/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "США",
-      "sources": [
-        "petapixel.com"
-      ],
-      "summary": "Почти 99% из 3824 комментариев к предложению FCC о запрете дронов выражают несогласие, что демонстрирует сильное сопротивление фотографов и операторов новым ограничениям на использование беспилотников.",
-      "title_en": "There Are 3,824 Comments on the FCC's Latest Drone Ban; Nearly 99% of Them Oppose It",
-      "title_ru": "На запрет дронов FCC поступило 3824 комментария, 99% против",
-      "first_reported": "2026-09-09 16:16:18+00:00",
-      "id": "a9545ca440c6"
     },
     {
       "title_ru": "Rocket Lab выпустила солнечный элемент для спутников с КПД 31,5% без германиевой подложки",
@@ -869,23 +261,6 @@
       "is_development": false,
       "first_reported": "2026-09-11 03:01:00+00:00",
       "id": "c4e798b94c35"
-    },
-    {
-      "title_ru": "Иран сигнализирует о готовности к эскалации войны с США на фоне растущего экономического давления",
-      "title_en": "Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure",
-      "date": "2026-09-09 12:04:46+00:00",
-      "summary": "Иран демонстрирует готовность к эскалации конфликта с США на фоне усиливающегося экономического давления. Ситуация в Ормузском проливе остается напряженной, что создает угрозу для международной торговли и региональной стабильности.",
-      "category": "conflicts",
-      "region": "Иран",
-      "sources": [
-        "rss.nytimes.com"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-09 12:04:46+00:00",
-      "id": "2ed9554b7720"
     },
     {
       "title_ru": "Военная операция на Украине. Онлайн",
@@ -1022,23 +397,6 @@
       "is_development": false,
       "first_reported": "2026-09-11 07:25:23+00:00",
       "id": "6129a8a58ebd"
-    },
-    {
-      "title_ru": "Исследователь Anthropic уволился, ссылаясь на опасности развития ИИ",
-      "title_en": "Anthropic researcher resigns, citing dangers of AI development",
-      "date": "2026-09-09 19:21:02+00:00",
-      "summary": "Исследователь компании Anthropic, занимающейся разработкой искусственного интеллекта, уволился, заявив об опасностях бесконтрольного развития ИИ для человечества. Это вызвало дискуссию о необходимости регулирования искусственного интеллекта.",
-      "category": "ai",
-      "region": "США",
-      "sources": [
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/business/technology/article-anthropic-researcher-resigns-ai-danger/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-09 19:21:02+00:00",
-      "id": "9b98d5927af9"
     },
     {
       "title_ru": "Американские законодатели призывают к новым правилам для ИИ после предупреждений исследователей Anthropic",
@@ -2780,10 +2138,352 @@
       "is_development": false,
       "first_reported": "2026-09-16 04:00:00+00:00",
       "id": "d5ee68a34085"
+    },
+    {
+      "title_ru": "В России запустили новое производство компонентов для лазерных станков",
+      "title_en": "Russia launches new production of components for laser machines",
+      "date": "2026-09-17 10:00:00+03:00",
+      "summary": "В России запущено новое производство компонентов для лазерных станков. Это развитие отечественной промышленности в области высокотехнологичного оборудования.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260917/stanki-2118109574.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-17 10:00:00+03:00",
+      "id": "8f1898955554"
+    },
+    {
+      "title_ru": "MagicOS 11 дебютирует с технологией Liquid Glass от Honor",
+      "title_en": "MagicOS 11 debuts with Honor's take on Apple's Liquid Glass, Storage Space 2.0, full eligible device list",
+      "date": "2026-09-17 01:23:06+00:00",
+      "summary": "Honor представила новую операционную систему MagicOS 11 с собственной версией технологии Liquid Glass и Storage Space 2.0. Это развитие мобильных технологий в Китае.",
+      "category": "tech",
+      "region": "Китай",
+      "sources": [
+        "www.gizmochina.com"
+      ],
+      "links": [
+        "https://www.gizmochina.com/2026/09/17/magicos-11-debuts-with-honors-take-on-apples-liquid-glass-storage-space-2-0-full-eligible-device-list/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-17 01:23:06+00:00",
+      "id": "cb14e3badfb0"
+    },
+    {
+      "title_ru": "Интеллект искусственный, прибавка к зарплате реальная: пользующиеся ИИ сотрудники зарабатывают на 41% больше",
+      "title_en": "Artificial intelligence, real salary increase: employees using AI earn 41% more",
+      "date": "2026-09-17 07:59:11+00:00",
+      "summary": "Сотрудники, использующие искусственный интеллект в работе, зарабатывают на 41% больше, чем те, кто не использует ИИ. Это демонстрирует экономическое влияние внедрения ИИ-технологий.",
+      "category": "ai",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/column/pribavka-k-zarplate-i-ii"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-17 07:59:11+00:00",
+      "id": "9d83bd0347e4"
+    },
+    {
+      "title_ru": "Автономные угрозы ИИ оставляют США и Китаю минуты для предотвращения ядерного кризиса",
+      "title_en": "Autonomous AI threats leave US and China minutes to prevent nuclear crisis, experts warn",
+      "date": "2026-09-17 10:40:31+00:00",
+      "summary": "Эксперты предупреждают, что автономные угрозы искусственного интеллекта оставляют США и Китаю всего минуты для предотвращения ядерного кризиса. Это подчеркивает риски, связанные с развитием ИИ-технологий.",
+      "category": "ai",
+      "region": "Мир",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/international/article-908873"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-17 10:40:31+00:00",
+      "id": "142405373ada"
+    },
+    {
+      "title_ru": "Восьмое тело найдено в Экурхулени в ЮАР",
+      "title_en": "Police confirm recovery of eighth body in Ekurhuleni",
+      "date": "2026-09-15 18:57:11+00:00",
+      "summary": "Полиция ЮАР подтвердила обнаружение восьмого тела в Экурхулени. Это продолжение серии убийств, вызывающих страх среди местных жителей.",
+      "category": "life",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-09-15-police-confirm-recovery-of-eighth-body-in-ekurhuleni/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-15 18:57:11+00:00",
+      "id": "1dc5595109c2"
+    },
+    {
+      "title_ru": "Три человека погибли при крушении вертолета NBC News в Лос-Анджелесе",
+      "title_en": "3 dead after L.A. news helicopter goes down while covering crash",
+      "date": "2026-09-16 08:35:15+00:00",
+      "summary": "Три человека погибли при крушении вертолета телеканала NBC News в Лос-Анджелесе. Вертолет разбился во время освещения дорожной аварии.",
+      "category": "life",
+      "region": "США",
+      "sources": [
+        "feeds.washingtonpost.com"
+      ],
+      "links": [
+        "https://www.washingtonpost.com/nation/2026/09/16/3-dead-after-nbc-news-helicopter-crashes-near-los-angeles-bus-accident/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-16 08:35:15+00:00",
+      "id": "dc821f7332f2"
+    },
+    {
+      "title_ru": "Йеменцы опубликовали видео сбитого самолета F-15",
+      "title_en": "VIDEO: Yemenis release footage of downed F-15 aircraft",
+      "date": "2026-09-16 15:50:21+00:00",
+      "summary": "Йеменские силы опубликовали видео сбитого самолета F-15. Это свидетельствует об эскалации конфликта в регионе и возможностях противостоящих сторон.",
+      "category": "conflicts",
+      "region": "Йемен",
+      "sources": [
+        "en.mehrnews.com"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/247821/VIDEO-Yemenis-release-footage-of-downed-F-15-aircraft"
+      ],
+      "perspective": "Йеменские силы демонстрируют свои военные успехи, в то время как противоборствующая сторона может отрицать или минимизировать потери",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-16 15:50:21+00:00",
+      "id": "dd385b2748bb"
+    },
+    {
+      "title_ru": "Армия России взяла Розовку и Малую Волчью",
+      "title_en": "Russian army takes Rozovka and Malaya Volchya",
+      "date": "2026-09-17 11:41:02+03:00",
+      "summary": "Российская армия взяла под контроль населенные пункты Розовку в Запорожской области и Малую Волчью в Харьковской области. Это продолжение наступательных операций ВС РФ.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "rssexport.rbc.ru"
+      ],
+      "links": [
+        "https://www.rbc.ru/politics/10/09/2026/6aa271e59a794723cee990fe"
+      ],
+      "perspective": "Российская сторона сообщает о военных успехах, украинская сторона может подтверждать или опровергать эти данные",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-17 11:41:02+03:00",
+      "id": "d15fca948bad"
+    },
+    {
+      "title_ru": "ВС России поразили два моста через Днестр для транзита военных грузов",
+      "title_en": "Russian Armed Forces hit two bridges across Dniester for military cargo transit",
+      "date": "2026-09-17 09:58:53+03:00",
+      "summary": "Вооруженные силы России поразили два моста через реку Днестр, которые использовались для транзита военных грузов. Это часть операций по нарушению логистики противника.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260917/vs-2118187937.html"
+      ],
+      "perspective": "Россия сообщает о успешных ударах по военной инфраструктуре, Украина может подтверждать повреждения или отрицать их значимость",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-17 09:58:53+03:00",
+      "id": "aa87a1d52fdf"
+    },
+    {
+      "title_ru": "ВВП Беларуси за январь-август вырос на 1,9%",
+      "title_en": "Belarus GDP grows by 1.9% in January-August",
+      "date": "2026-09-17 11:15:38+03:00",
+      "summary": "Валовой внутренний продукт Беларуси за первые восемь месяцев 2026 года вырос на 1,9%. Это показывает умеренный экономический рост страны.",
+      "category": "economy",
+      "region": "Беларусь",
+      "sources": [
+        "www.belta.by"
+      ],
+      "links": [
+        "https://belta.by/economics/view/vvp-belarusi-za-janvar-avgust-vyros-na-19-801457-2026/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-17 11:15:38+03:00",
+      "id": "8640883b08f3"
+    },
+    {
+      "title_ru": "Профицит платежного баланса РФ вырос до $33,9 млрд за семь месяцев",
+      "title_en": "Russia's balance of payments surplus rises to $33.9 billion in seven months",
+      "date": "2026-09-16 02:08:28+03:00",
+      "summary": "Профицит платежного баланса России за семь месяцев 2026 года вырос до 33,9 миллиарда долларов. Это свидетельствует об укреплении внешнеэкономической позиции страны.",
+      "category": "economy",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8955667"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-16 02:08:28+03:00",
+      "id": "c5e414814e3a"
+    },
+    {
+      "title_ru": "ВВП стран G20 во втором квартале увеличился на 3,1%",
+      "title_en": "G20 countries GDP increased by 3.1% in Q2",
+      "date": "2026-09-15 01:37:09+03:00",
+      "summary": "Валовой внутренний продукт стран G20 во втором квартале 2026 года увеличился на 3,1%. Это показывает общий экономический рост крупнейших экономик мира.",
+      "category": "economy",
+      "region": "Мир",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8954698"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-15 01:37:09+03:00",
+      "id": "b1908852f8da"
+    },
+    {
+      "title_ru": "ЦИК готов отражать попытки дискредитировать выборы, заявила Памфилова",
+      "title_en": "CEC ready to counter attempts to discredit elections, Pamfilova says",
+      "date": "2026-09-17 11:45:02+03:00",
+      "summary": "Председатель ЦИК России Элла Памфилова заявила, что избирательная комиссия готова отражать попытки дискредитировать выборы. Это демонстрирует подготовку к парламентским выборам.",
+      "category": "politics",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260917/vybory-2118216312.html"
+      ],
+      "perspective": "ЦИК заявляет о готовности обеспечить легитимность выборов, оппозиционные силы могут сомневаться в этом",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-17 11:45:02+03:00",
+      "id": "bf73eaf63b3a"
+    },
+    {
+      "title_ru": "Верховный суд США отклонил ограничения Трампа на почтовое голосование",
+      "title_en": "U.S. Supreme Court rejects Trump's mail ballot restrictions ahead of midterm elections",
+      "date": "2026-09-14 23:55:50+00:00",
+      "summary": "Верховный суд США отклонил предложенные Дональдом Трампом ограничения на почтовое голосование перед промежуточными выборами. Это важное решение в преддверии выборов.",
+      "category": "politics",
+      "region": "США",
+      "sources": [
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/us-politics/article-supreme-court-trump-mail-vote-midterm-election/"
+      ],
+      "perspective": "Суд защищает доступность голосования, сторонники Трампа могут считать это политически мотивированным решением",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-14 23:55:50+00:00",
+      "id": "d5fa135a8c46"
+    },
+    {
+      "title_ru": "Иранская ядерная промышленность переживет войну и удары, так как знания нельзя уничтожить силой",
+      "title_en": "Iran's nuclear industry will survive war and strikes as knowledge cannot be obliterated by force",
+      "date": "2026-09-17 08:52:41.130143+00:00",
+      "summary": "Иран заявил, что его ядерная промышленность переживет войну и удары, поскольку знания нельзя уничтожить силой. Это важное политическое заявление о ядерной программе страны.",
+      "category": "statement",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/15/776340/iran-nuclear-industry-will-survive-war-strikes-because-knowledge-cannot-obliterated-force"
+      ],
+      "perspective": "Иран демонстрирует решимость защищать свою ядерную программу, западные страны могут рассматривать это как провокацию",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-17 08:52:41.130143+00:00",
+      "id": "a9e5dcd35ae0"
+    },
+    {
+      "title_ru": "Астрономы проследили за 'возрождением' звезды Сакураи в реальном времени",
+      "title_en": "Astronomers tracked the 'rebirth' of Sakurai's star in real time",
+      "date": "2026-09-17 08:44:51+00:00",
+      "summary": "Астрономы впервые проследили за 'возрождением' звезды Сакураи в реальном времени. Это значительное научное достижение в области астрономии.",
+      "category": "culture",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/astronomy/vozrozhdeniem-zvezdy-sakurai"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-17 08:44:51+00:00",
+      "id": "b497691c4f57"
+    },
+    {
+      "title_ru": "'Следы' на поверхности Марса, сфотографированные марсоходом Curiosity",
+      "title_en": "'Footprints' Photographed on the Surface of Mars by Curiosity Rover",
+      "date": "2026-09-16 14:54:53+00:00",
+      "summary": "Марсоход Curiosity сфотографировал необычные образования на поверхности Марса, напоминающие следы. Это интересное открытие в исследовании Красной планеты.",
+      "category": "photo",
+      "region": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/16/footprints-photographed-on-the-surface-of-mars-by-curiosity-rover/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-16 14:54:53+00:00",
+      "id": "1f2bbb6b3e87"
+    },
+    {
+      "title_ru": "Герой национального парка Крюгер Мфо Мудау вспоминает день наводнения",
+      "title_en": "Kruger National Park hero Mpho Mudau relives the day the floods came",
+      "date": "2026-09-15 08:57:43+00:00",
+      "summary": "Мфо Мудау, герой национального парка Крюгер в ЮАР, вспоминает день, когда пришли наводнения. Это история о последствиях экстремальных погодных явлений.",
+      "category": "ecology",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/the-green-guardian/2026-09-15-kruger-national-park-hero-mpho-mudau-relives-the-day-the-floods-came/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-15 08:57:43+00:00",
+      "id": "a89affa80563"
     }
   ],
   "_stats": {
-    "total_tokens": 2341105,
-    "total_cost": 288.526548
+    "total_tokens": 2359324,
+    "total_cost": 289.695848
   }
 }
