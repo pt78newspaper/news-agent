@@ -1,215 +1,6 @@
 {
   "_events": [
     {
-      "category": "tech",
-      "date": "2026-09-10 08:22:24.794930+00:00",
-      "is_development": false,
-      "links": [
-        "https://www.taipeitimes.com/News/feat/archives/2026/09/10/2003863994"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Дальний Восток",
-      "sources": [
-        "taipeitimes.com"
-      ],
-      "summary": "В Тайване опубликован обзор книги о скрытых механизмах холодной войны, что представляет интерес для анализа исторических технологических и политических процессов.",
-      "title_en": "Book review: The Cold War's hidden hands",
-      "title_ru": "Обзор книги о скрытых руках холодной войны",
-      "first_reported": "2026-09-10 08:22:24.794930+00:00",
-      "id": "b6a7f728a8e0"
-    },
-    {
-      "category": "ai",
-      "date": "2026-09-10 07:38:43+00:00",
-      "is_development": false,
-      "links": [
-        "https://naked-science.ru/article/column/sozdan-volnovodov"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Россия",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "summary": "Российские физики разработали метод учета анизотропии кристаллов при создании волноводов, что может улучшить технологии передачи данных и оптические коммуникации.",
-      "title_en": "Physicists found a way to account for crystal anisotropy when creating waveguides",
-      "title_ru": "Физики нашли способ учитывать анизотропию кристалла при создании волноводов",
-      "first_reported": "2026-09-10 07:38:43+00:00",
-      "id": "aaf278c63e61"
-    },
-    {
-      "category": "life",
-      "date": "2026-09-10 10:49:50+00:00",
-      "is_development": false,
-      "links": [
-        "https://www.jpost.com/middle-east/article-908223"
-      ],
-      "perspective": "Хуситы утверждают о восстановлении контроля над стратегическим портом, в то время как международное сообщество выражает озабоченность безопасностью судоходства в Красном море.",
-      "perspective_type": "assumed",
-      "region": "Йемен",
-      "sources": [
-        "jpost.com"
-      ],
-      "summary": "Хуситы взяли под контроль йеменский город Моха на побережье Красного моря, что может повлиять на безопасность судоходства в этом стратегически важном регионе.",
-      "title_en": "Houthis take control of Yemeni Red Sea city Mocha, sources say",
-      "title_ru": "Хуситы взяли под контроль йеменский город Моха на Красном море",
-      "first_reported": "2026-09-10 10:49:50+00:00",
-      "id": "07c0ef8745cf"
-    },
-    {
-      "category": "life",
-      "date": "2026-09-10 11:11:29+03:00",
-      "is_development": false,
-      "links": [
-        "https://tass.ru/proisshestviya/28098565"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Россия",
-      "sources": [
-        "tass.ru"
-      ],
-      "summary": "В Хабаровском крае возбуждено уголовное дело после опрокидывания школьного автобуса, в результате которого ребенок получил ушибы. Предварительной причиной ДТП названо техническое состояние транспортного средства.",
-      "title_en": "Criminal case opened after school bus overturned in Khabarovsk Krai",
-      "title_ru": "В Хабаровском крае завели дело после опрокидывания школьного автобуса",
-      "first_reported": "2026-09-10 11:11:29+03:00",
-      "id": "5459c2b71cb2"
-    },
-    {
-      "category": "life",
-      "date": "2026-09-10 03:48:53+02:00",
-      "is_development": false,
-      "links": [
-        "https://www.lemonde.fr/en/international/article/2026/09/10/a-pilot-of-the-amazon-plane-that-careened-off-miami-runway-warned-it-was-coming-in-too-fast_6757365_4.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "США",
-      "sources": [
-        "lemonde.fr"
-      ],
-      "summary": "Пилот грузового самолета Amazon предупреждал о чрезмерной скорости захода на посадку перед катастрофой в Майами, в результате которой погиб человек. Вдова погибшего подала иск о возмещении ущерба.",
-      "title_en": "Amazon plane pilot who skidded off Miami runway warned it was coming in too fast",
-      "title_ru": "Пилот самолета Amazon предупреждал о чрезмерной скорости перед катастрофой в Майами",
-      "first_reported": "2026-09-10 03:48:53+02:00",
-      "id": "8f278081e7b8"
-    },
-    {
-      "category": "conflicts",
-      "date": "2026-09-10 08:22:20.412212+00:00",
-      "is_development": false,
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/09/775991/Israeli-forces-kill-Palestinian-man-West-Bank-Nablus"
-      ],
-      "perspective": "Израильские силы утверждают, что действовали в ответ на угрозу, в то время как палестинские источники описывают это как неоправданное применение силы и нарушение прав человека.",
-      "perspective_type": "assumed",
-      "region": "Палестина",
-      "sources": [
-        "presstv.ir"
-      ],
-      "summary": "Израильские силы убили палестинского мужчину на Западном берегу реки Иордан в районе Наблуса и удерживают его тело, что вызывает протесты среди местного населения.",
-      "title_en": "Israeli forces kill Palestinian man in West Bank, withhold his body",
-      "title_ru": "Израильские силы убили палестинца на Западном берегу и удерживают его тело",
-      "first_reported": "2026-09-10 08:22:20.412212+00:00",
-      "id": "8892c8f096d5"
-    },
-    {
-      "category": "conflicts",
-      "date": "2026-09-10 08:22:20.412112+00:00",
-      "is_development": false,
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/08/775883/Washington-received-clear-warning-from-Iran-new-missiles-Top-security-official"
-      ],
-      "perspective": "Иран позиционирует свои новые ракеты как сдерживающий фактор, в то время как США рассматривают их как угрозу региональной безопасности и могут усиливать санкции.",
-      "perspective_type": "assumed",
-      "region": "Иран",
-      "sources": [
-        "presstv.ir"
-      ],
-      "summary": "Высокопоставленный иранский чиновник по безопасности заявил, что США получили 'четкое предупреждение' от новых иранских ракет, подчеркивая растущую напряженность в отношениях между двумя странами.",
-      "title_en": "US received 'clear warning' from Iran's new missiles: Top security official",
-      "title_ru": "США получили 'четкое предупреждение' от новых иранских ракет",
-      "first_reported": "2026-09-10 08:22:20.412112+00:00",
-      "id": "aae0748f959e"
-    },
-    {
-      "category": "svo",
-      "date": "2026-09-10 11:08:08+03:00",
-      "is_development": false,
-      "links": [
-        "https://ria.ru/20260910/simonjan-2116761657.html"
-      ],
-      "perspective": "Российские власти рассматривают атаку как террористический акт, в то время как Украина может считать ее законной военной операцией в рамках конфликта.",
-      "perspective_type": "assumed",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "summary": "Маргарита Симоньян предложила помощь пострадавшим от атаки беспилотных катеров ВСУ в Сочи, где число пострадавших выросло до 28 человек, а четверо были госпитализированы.",
-      "title_en": "Simonyan offered help to victims of Ukrainian drone boat attacks in Sochi",
-      "title_ru": "Симоньян предложила помощь пострадавшим от атак катеров ВСУ в Сочи",
-      "first_reported": "2026-09-10 11:08:08+03:00",
-      "id": "14f5e1f1eaca"
-    },
-    {
-      "category": "svo",
-      "date": "2026-09-10 09:52:16+03:00",
-      "is_development": false,
-      "links": [
-        "https://ria.ru/20260910/vsu-2116741459.html"
-      ],
-      "perspective": "Российские власти обвиняют Украину в нанесении ударов по гражданским объектам, в то время как Украина может утверждать, что атакует законные военные цели.",
-      "perspective_type": "assumed",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "summary": "В Белгородской области один человек погиб и 13 получили ранения в результате атак ВСУ, что продолжает эскалацию конфликта в приграничных регионах России.",
-      "title_en": "One killed, 13 wounded due to Ukrainian attacks in Belgorod region",
-      "title_ru": "В Белгородской области один человек погиб, 13 ранены из-за атак ВСУ",
-      "first_reported": "2026-09-10 09:52:16+03:00",
-      "id": "67f38c3dfbd3"
-    },
-    {
-      "category": "politics",
-      "date": "2026-09-10 07:00:04+03:00",
-      "is_development": false,
-      "links": [
-        "https://www.kommersant.ru/doc/8940418"
-      ],
-      "perspective": "Трамп позиционирует это как выполнение предвыборных обещаний и помощь американцам, в то время как оппоненты могут критиковать это как популистскую меру с неясным финансированием.",
-      "perspective_type": "assumed",
-      "region": "США",
-      "sources": [
-        "kommersant.ru"
-      ],
-      "summary": "Дональд Трамп пообещал выплатить каждому взрослому американцу по 5 тысяч долларов в случае победы республиканцев на промежуточных выборах, что стало частью его предвыборной кампании.",
-      "title_en": "Trump promised Americans $5,000 each if Republicans win elections",
-      "title_ru": "Трамп пообещал американцам по $5 тыс. в случае победы республиканцев на выборах",
-      "first_reported": "2026-09-10 07:00:04+03:00",
-      "id": "77884df6373b"
-    },
-    {
-      "category": "statement",
-      "date": "2026-09-10 10:24:16+03:00",
-      "is_development": false,
-      "links": [
-        "https://www.rbc.ru/rbcfreenews/6a8053709a7947f815f4f1c7"
-      ],
-      "perspective": "Трамп рассматривает это как укрепление американского влияния и личного наследия, в то время как критики могут считать это проявлением нарциссизма и неуважением к международным нормам и историческим названиям.",
-      "perspective_type": "assumed",
-      "region": "США",
-      "sources": [
-        "rssexport.rbc.ru"
-      ],
-      "summary": "Дональд Трамп предложил переименовать Ормузский пролив в его честь, что стало одним из самых экстравагантных заявлений в рамках его внешнеполитической риторики.",
-      "title_en": "Trump proposed to rename the Strait of Hormuz after himself",
-      "title_ru": "Трамп предложил переименовать Ормузский пролив в его честь",
-      "first_reported": "2026-09-10 10:24:16+03:00",
-      "id": "abcc91c551c7"
-    },
-    {
       "title_ru": "Rocket Lab выпустила солнечный элемент для спутников с КПД 31,5% без германиевой подложки",
       "title_en": "Rocket Lab Debuts New Solar Cell for Space",
       "date": "2026-09-11 03:57:00+00:00",
@@ -399,23 +190,6 @@
       "id": "6129a8a58ebd"
     },
     {
-      "title_ru": "Американские законодатели призывают к новым правилам для ИИ после предупреждений исследователей Anthropic",
-      "title_en": "US lawmakers call for new AI rules after Anthropic researchers' warnings",
-      "date": "2026-09-10 20:41:00+03:00",
-      "summary": "Американские законодатели начали призывать к разработке новых правил регулирования искусственного интеллекта после предупреждений исследователей компании Anthropic об опасностях ИИ. Это свидетельствует о растущей политической озабоченности проблемами безопасности ИИ.",
-      "category": "ai",
-      "region": "США",
-      "sources": [
-        "www.dailysabah.com"
-      ],
-      "links": [
-        "https://www.dailysabah.com/business/economy/us-lawmakers-call-for-new-ai-rules-after-anthropic-researchers-warnings"
-      ],
-      "is_development": true,
-      "first_reported": "2026-09-10 20:41:00+03:00",
-      "id": "f872081a49ca"
-    },
-    {
       "title_ru": "Генерал Резаи: След давления США и Израиля очевиден в антииранской резолюции Совета управляющих",
       "title_en": "General Rezaei: Trace of US-Israeli pressure is evident in Board of Governors' anti-Iran resolution",
       "date": "2026-09-11 00:49:58+00:00",
@@ -431,40 +205,6 @@
       "is_development": true,
       "first_reported": "2026-09-11 00:49:58+00:00",
       "id": "6f095918bff5"
-    },
-    {
-      "title_ru": "Пакистан подтвердил право Ирана на мирную ядерную энергию",
-      "title_en": "Pakistan reaffirms Iran's right to peaceful nuclear energy",
-      "date": "2026-09-10 09:32:25+00:00",
-      "summary": "Пакистан подтвердил право Ирана на развитие мирной ядерной энергетики. Это заявление демонстрирует поддержку Ирана со стороны Пакистана в противостоянии с западными странами по ядерной программе.",
-      "category": "politics",
-      "region": "Пакистан",
-      "sources": [
-        "en.irna.ir"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86260257/Pakistan-reaffirms-Iran-s-right-to-peaceful-nuclear-energy"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-10 09:32:25+00:00",
-      "id": "2aef4f4129dc"
-    },
-    {
-      "title_ru": "В Канаде началась первая фаза реструктуризации армии с созданием дивизии для обороны страны",
-      "title_en": "First phase of Army restructuring creates division focused on defending Canada",
-      "date": "2026-09-10 17:33:13+00:00",
-      "summary": "Канада начала первую фазу реструктуризации своей армии, создав новую дивизию, ориентированную на оборону страны. Это часть масштабной военной реформы, направленной на повышение обороноспособности Канады.",
-      "category": "politics",
-      "region": "Канада",
-      "sources": [
-        "www.cbc.ca"
-      ],
-      "links": [
-        "https://www.cbc.ca/news/canada/edmonton/canadian-army-readies-for-future-of-combat-9.7339337?cmp=rss"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-10 17:33:13+00:00",
-      "id": "1ffdb1ea2412"
     },
     {
       "category": "tech",
@@ -1057,25 +797,6 @@
       "id": "6b419fa95b99"
     },
     {
-      "title_ru": "Цены на дизель в Словакии приближаются к 2 евро за литр",
-      "title_en": "Slovak diesel prices close in on €2 a litre",
-      "date": "2026-09-10 20:46:06+02:00",
-      "summary": "Цены на дизельное топливо в Словакии продолжают расти и приближаются к отметке 2 евро за литр. Это создаёт дополнительную нагрузку на транспортный сектор и может привести к росту цен на товары и услуги.",
-      "category": "economy",
-      "region": "Словакия",
-      "sources": [
-        "spectator.sme.sk"
-      ],
-      "links": [
-        "https://spectator.sme.sk/business/c/diesel-nears-two-euros-litre-slovakia?utm_source=rss&utm_medium=feed&utm_campaign=spectator-rss"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-10 20:46:06+02:00",
-      "id": "4bcd505c24bf"
-    },
-    {
       "title_ru": "Суд оправдал экс-президента Южной Кореи Юн Сок Ёля по делу о злоупотреблении властью",
       "title_en": "Court acquits ex-President Yoon in power abuse case over envoy appointment",
       "date": "2026-09-11 15:03:15+09:00",
@@ -1114,25 +835,6 @@
       "id": "c5d3bbdf4881"
     },
     {
-      "title_ru": "Трамп пообещал по 5000 долларов каждому взрослому американцу, если республиканцы выиграют промежуточные выборы",
-      "title_en": "Trump promises $5,000 to every adult American if Republicans win midterms",
-      "date": "2026-09-10 04:30:04+00:00",
-      "summary": "Бывший президент США Дональд Трамп пообещал выплатить по 5000 долларов каждому взрослому американцу, если республиканская партия победит на предстоящих промежуточных выборах. Это беспрецедентное финансовое обещание может повлиять на исход выборов.",
-      "category": "statement",
-      "region": "США",
-      "sources": [
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/world/video-trump-promises-5000-to-every-adult-american-if-republicans-win/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-10 04:30:04+00:00",
-      "id": "f58ae4824df0"
-    },
-    {
       "title_ru": "Новое приложение впервые позволяет отправлять пользовательские рецепты на камеры Fujifilm по беспроводной сети",
       "title_en": "This New App Is the First to Send Custom Recipes to Fujifilm Cameras Wirelessly",
       "date": "2026-09-12 12:00:04+00:00",
@@ -1150,25 +852,6 @@
       "is_development": false,
       "first_reported": "2026-09-12 12:00:04+00:00",
       "id": "5717a2ae16fb"
-    },
-    {
-      "title_ru": "Смертельная цена загрязнения Sasol в Секунде",
-      "title_en": "Deadly cost of Sasol's Secunda pollution",
-      "date": "2026-09-10 22:25:00+00:00",
-      "summary": "Исследование показало смертельные последствия загрязнения окружающей среды от деятельности компании Sasol в районе Секунда в ЮАР. Загрязнение воздуха приводит к серьёзным проблемам со здоровьем у местного населения.",
-      "category": "ecology",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/the-green-guardian/2026-09-10-deadly-cost-of-sasol-s-secunda-pollution/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-10 22:25:00+00:00",
-      "id": "3fe87b994393"
     },
     {
       "category": "tech",
@@ -1836,25 +1519,6 @@
       "id": "75496c7155c0"
     },
     {
-      "category": "politics",
-      "date": "2026-09-10 22:15:00+00:00",
-      "is_development": false,
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-09-10-potholes-become-joburg-election-battleground-for-upcoming-polls/"
-      ],
-      "perspective": "Разные политические партии используют проблему дорог в предвыборной борьбе, обвиняя друг друга",
-      "perspective_type": "from_source",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "summary": "Выбоины на дорогах стали полем битвы на предстоящих выборах в Йоханнесбурге. Политические партии используют состояние инфраструктуры как ключевую тему предвыборной кампании.",
-      "title_en": "Potholes become Joburg election battleground for upcoming polls",
-      "title_ru": "Выбоины стали полем битвы на выборах в Йоханнесбурге",
-      "first_reported": "2026-09-10 22:15:00+00:00",
-      "id": "a2ab58411a65"
-    },
-    {
       "category": "statement",
       "date": "2026-09-15 08:56:37.381214+00:00",
       "is_development": false,
@@ -2480,10 +2144,219 @@
       "is_development": false,
       "first_reported": "2026-09-15 08:57:43+00:00",
       "id": "a89affa80563"
+    },
+    {
+      "title_ru": "Венгрия: реальные зарплаты обгоняют инфляцию",
+      "title_en": "Real wages race ahead of inflation as pay keeps climbing",
+      "date": "2026-09-17 06:33:10+00:00",
+      "summary": "В Венгрии реальные зарплаты продолжают расти быстрее инфляции, что улучшает покупательную способность населения. Это свидетельствует о положительной динамике на рынке труда страны.",
+      "category": "life",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/economy/real-wages-race-ahead-of-inflation-as-pay-keeps-climbing/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-17 06:33:10+00:00",
+      "id": "b4719017a7c4"
+    },
+    {
+      "title_ru": "Южная Корея: акции выросли более чем на 2% на фоне ослабления инфляционных опасений",
+      "title_en": "Seoul stocks soar over 2 pct on eased inflation woes",
+      "date": "2026-09-18 15:35:35+09:00",
+      "summary": "Фондовый рынок Южной Кореи показал значительный рост более чем на 2% благодаря ослаблению опасений по поводу инфляции. Это отражает улучшение экономических настроений в стране.",
+      "category": "economy",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260918007300320"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-18 15:35:35+09:00",
+      "id": "a6d2b092ddb7"
+    },
+    {
+      "title_ru": "Иран атаковал танкер под флагом Того в Ормузском проливе",
+      "title_en": "IRGC Navy strikes Togo-flagged tanker after illegal attempt to transit Strait of Hormuz",
+      "date": "2026-09-18 08:27:58.818836+00:00",
+      "summary": "Корпус стражей исламской революции Ирана атаковал танкер под флагом Того, который пытался совершить незаконный транзит через Ормузский пролив. Инцидент обостряет ситуацию в стратегически важном регионе.",
+      "category": "conflicts",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/17/776498/IRGC-Navy-strikes-Togo-flagged-tanker-after-illegal-attempt-to-transit-Strait-of-Hormuz"
+      ],
+      "perspective": "Иран рассматривает это как защиту своих территориальных вод, в то время как международное сообщество может расценивать действия как эскалацию напряженности",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-18 08:27:58.818836+00:00",
+      "id": "1416b55e84bf"
+    },
+    {
+      "title_ru": "Йеменские силы атаковали объекты Aramco и авиабазу в Саудовской Аравии",
+      "title_en": "Yemeni army targets Aramco facilities, King Khalid Air Base in Saudi Arabia",
+      "date": "2026-09-18 08:27:58.819431+00:00",
+      "summary": "Йеменские вооруженные силы атаковали объекты нефтяной компании Aramco и авиабазу Короля Халида в Саудовской Аравии. Это продолжение конфликта между хуситами и саудовской коалицией.",
+      "category": "conflicts",
+      "region": "Йемен",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/16/776408/Yemeni-Armed-Forces-target-Aramco-facilities,-King-Khalid-Air-Base-in-Saudi-Arabia"
+      ],
+      "perspective": "Йеменские силы рассматривают атаки как ответ на саудовскую агрессию, в то время как Саудовская Аравия считает их террористическими актами",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-18 08:27:58.819431+00:00",
+      "id": "1d7f4a9b538f"
+    },
+    {
+      "title_ru": "Памфилова: больше всего членов избиркомов погибло в Запорожской области",
+      "title_en": "Pamfilova: most election commission members killed in Zaporozhye region",
+      "date": "2026-09-18 11:22:20+03:00",
+      "summary": "Председатель ЦИК России Элла Памфилова сообщила, что наибольшее количество членов избирательных комиссий погибло в Запорожской области. Она также рассказала об угрозах членам избиркомов и их семьям.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/28124511"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-18 11:22:20+03:00",
+      "id": "e9e5b5d29277"
+    },
+    {
+      "title_ru": "В Сочи избирательные участки заработали после отмены сигнала об атаке БПЛА",
+      "title_en": "Polling stations in Sochi resume work after drone attack alert cancellation",
+      "date": "2026-09-18 11:10:14+03:00",
+      "summary": "Избирательные участки в Сочи возобновили работу после отмены сигнала об атаке беспилотных летательных аппаратов. Ранее участки были приостановлены из-за угрозы дронов.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/politika/28124467"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-18 11:10:14+03:00",
+      "id": "1b9d2c6deaec"
+    },
+    {
+      "title_ru": "Палата представителей США одобрила законопроект о санкциях против РФ",
+      "title_en": "US House of Representatives approves bill on sanctions against Russia",
+      "date": "2026-09-17 01:41:15+03:00",
+      "summary": "Палата представителей Конгресса США одобрила законопроект о новых санкциях против России. Реакция в мире на эти 'адские' санкции была резкой, по данным Politico.",
+      "category": "svo",
+      "region": "США",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8956615"
+      ],
+      "perspective": "США рассматривают санкции как необходимую меру давления, в то время как Россия и её партнеры видят в этом несправедливое ограничение",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-17 01:41:15+03:00",
+      "id": "0f9077e8c3a9"
+    },
+    {
+      "title_ru": "Южная Корея рассматривает возможный вклад в безопасность Ормузского пролива",
+      "title_en": "Lee says S. Korea reviewing possible contribution to Hormuz but will not get involved in war",
+      "date": "2026-09-18 14:43:12+09:00",
+      "summary": "Президент Южной Кореи Ли заявил, что страна рассматривает возможный вклад в обеспечение безопасности Ормузского пролива, но не будет вовлекаться в войну. Это происходит на фоне протестов против отправки войск в регион.",
+      "category": "politics",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260918001555315"
+      ],
+      "perspective": "Южная Корея пытается балансировать между союзническими обязательствами и нежеланием втягиваться в конфликт",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-18 14:43:12+09:00",
+      "id": "dba51765768d"
+    },
+    {
+      "title_ru": "В ЮАР обнаружены тела девяти женщин, что вызывает опасения о серийном убийце",
+      "title_en": "Discovery of nine women's bodies raises fears of serial killer in South Africa",
+      "date": "2026-09-17 18:56:31+00:00",
+      "summary": "В ЮАР обнаружены тела девяти женщин в районе Экурхулени, что вызывает опасения о возможном серийном убийце. Инцидент обнажает проблемы с гендерным насилием и безопасностью в стране.",
+      "category": "politics",
+      "region": "ЮАР",
+      "sources": [
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/video-discovery-of-nine-womens-bodies-raises-fears-of-serial-killer-in-south/"
+      ],
+      "perspective": "Общественность требует действий от властей, в то время как власти сталкиваются с критикой за недостаточные меры защиты женщин",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-17 18:56:31+00:00",
+      "id": "870e0014ea8c"
+    },
+    {
+      "title_ru": "Иран обвинил Германию в лицемерии и соучастии в войне",
+      "title_en": "Germany cannot underwrite the dirty work: Iran slams Chancellor Merz hypocrisy",
+      "date": "2026-09-18 08:27:58.819370+00:00",
+      "summary": "Иран обвинил канцлера Германии Мерца в лицемерии и соучастии в войне США и Израиля. Это заявление является частью дипломатической конфронтации Ирана с западными странами.",
+      "category": "statement",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/16/776420/Cannot-underwrite-dirty-work-Iran-blasts-German-chancellor-over-hypocrisy-complicity-in-US-Israeli-war"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-18 08:27:58.819370+00:00",
+      "id": "ea62ed22e80d"
+    },
+    {
+      "title_ru": "В ЮАР убито не менее 124 защитников окружающей среды в 2025 году",
+      "title_en": "At least 124 environmental defenders killed globally in 2025",
+      "date": "2026-09-18 06:49:37+00:00",
+      "summary": "В 2025 году по всему миру было убито не менее 124 защитников окружающей среды. Эти данные подчеркивают опасности, с которыми сталкиваются активисты, борющиеся за экологические права.",
+      "category": "ecology",
+      "region": "Мир",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-09-18-at-least-124-environmental-defenders-killed-globally-in-2025/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-18 06:49:37+00:00",
+      "id": "4cdcb204ff15"
     }
   ],
   "_stats": {
-    "total_tokens": 2359324,
-    "total_cost": 289.695848
+    "total_tokens": 2376076,
+    "total_cost": 290.752008
   }
 }
