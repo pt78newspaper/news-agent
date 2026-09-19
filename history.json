@@ -1,212 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Rocket Lab выпустила солнечный элемент для спутников с КПД 31,5% без германиевой подложки",
-      "title_en": "Rocket Lab Debuts New Solar Cell for Space",
-      "date": "2026-09-11 03:57:00+00:00",
-      "summary": "Компания Rocket Lab представила новый солнечный элемент для спутников с рекордной эффективностью 31,5%, который не требует германиевой подложки. Это прорыв в космической энергетике, позволяющий снизить вес и стоимость спутниковых систем.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru",
-        "finance.yahoo.com"
-      ],
-      "links": [
-        "https://naked-science.ru/article/hi-tech/solnechn-element-bez-germania",
-        "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-jumps-rocket-lab-201405525.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-11 03:57:00+00:00",
-      "id": "b8a0b7c2287e"
-    },
-    {
-      "title_ru": "Ангола открыла солнечный парк Luau для питания региона коридора Lobito",
-      "title_en": "Angola Opens Luau Solar Park to Power Lobito Corridor Region",
-      "date": "2026-09-11 06:56:17+00:00",
-      "summary": "Ангола ввела в эксплуатацию солнечный парк Luau мощностью 50 МВт для обеспечения электроэнергией региона коридора Lobito. Это важный шаг в развитии энергетической инфраструктуры страны и снижении зависимости от ископаемого топлива.",
-      "category": "tech",
-      "region": "Ангола",
-      "sources": [
-        "riotimesonline.com"
-      ],
-      "links": [
-        "https://www.riotimesonline.com/luau-photovoltaic-park-angola-2026/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-11 06:56:17+00:00",
-      "id": "ced3661c6509"
-    },
-    {
-      "title_ru": "На Килауэа зафиксировали уже 39 предвестниковых переливов лавы — эпизод 55 может начаться сегодня",
-      "title_en": "Kilauea volcano shows 39 precursor lava overflows",
-      "date": "2026-09-11 03:01:00+00:00",
-      "summary": "На гавайском вулкане Килауэа зафиксировано 39 предвестниковых переливов лавы, что указывает на возможное начало нового извержения (эпизод 55) в ближайшее время. Ученые мониторят ситуацию, так как активность вулкана представляет угрозу для местного населения.",
-      "category": "life",
-      "region": "США",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/climate/kilauea-epizod-55"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-11 03:01:00+00:00",
-      "id": "c4e798b94c35"
-    },
-    {
-      "title_ru": "Военная операция на Украине. Онлайн",
-      "title_en": "Military operation in Ukraine. Online",
-      "date": "2026-09-11 10:17:26+03:00",
-      "summary": "Российские источники продолжают освещать ход военной операции на Украине. Сообщается о потерях украинской стороны и развитии ситуации на линии фронта.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "rssexport.rbc.ru"
-      ],
-      "links": [
-        "https://www.rbc.ru/textonlines/18/04/2025/6216fb4d9a79474dc80e8821"
-      ],
-      "is_development": true,
-      "first_reported": "2026-09-11 10:17:26+03:00",
-      "id": "76635c5a9489"
-    },
-    {
-      "title_ru": "Глава МИД Польши прибыл в Киев",
-      "title_en": "Polish Foreign Minister arrives in Kyiv",
-      "date": "2026-09-11 10:16:16+03:00",
-      "summary": "Министр иностранных дел Польши прибыл в Киев для переговоров с украинским руководством. Визит демонстрирует продолжение политической и дипломатической поддержки Украины со стороны Польши.",
-      "category": "svo",
-      "region": "Польша",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/mezhdunarodnaya-panorama/28102033"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-11 10:16:16+03:00",
-      "id": "8efea00e6503"
-    },
-    {
-      "title_ru": "Политика, торговля, атомная энергетика. Отношения России и Индии",
-      "title_en": "Politics, trade, nuclear energy. Relations between Russia and India",
-      "date": "2026-09-11 10:54:09+03:00",
-      "summary": "Россия и Индия укрепляют сотрудничество в политической, торговой и атомной энергетической сферах. Обе страны развивают стратегическое партнерство, несмотря на международное давление.",
-      "category": "economy",
-      "region": "Россия",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/info/28102067"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-11 10:54:09+03:00",
-      "id": "a247e82e7afa"
-    },
-    {
-      "title_ru": "Песков назвал отношения России и ОАЭ очень дружественными",
-      "title_en": "Peskov calls relations between Russia and UAE very friendly",
-      "date": "2026-09-11 10:02:54+03:00",
-      "summary": "Пресс-секретарь президента России Дмитрий Песков заявил, что отношения между Россией и Объединенными Арабскими Эмиратами являются очень дружественными. Это свидетельствует о развитии экономического и политического сотрудничества между странами.",
-      "category": "economy",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20260911/peskov-2116991620.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-11 10:02:54+03:00",
-      "id": "054541e377ac"
-    },
-    {
-      "title_ru": "Венгрия требует от Европы оплатить свою долю на границах — или иначе",
-      "title_en": "Magyar demands Europe pay its share on borders — or else",
-      "date": "2026-09-11 03:29:28+00:00",
-      "summary": "Министр иностранных дел Венгрии Петер Сийярто потребовал от Европейского союза оплатить свою долю расходов на охрану границ, угрожая иными мерами в случае отказа. Это отражает продолжающиеся разногласия Венгрии с ЕС по миграционной политике.",
-      "category": "politics",
-      "region": "Венгрия",
-      "sources": [
-        "budapesttimes.hu"
-      ],
-      "links": [
-        "https://www.budapesttimes.hu/diplomacy/magyar-demands-europe-pay-its-share-on-borders-or-else/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-11 03:29:28+00:00",
-      "id": "db733be95942"
-    },
-    {
-      "title_ru": "Альянс Клаудии Лопес и Петро возрождается: левые Колумбии перегруппировываются к выборам 2027 года",
-      "title_en": "Claudia López Petro Alliance Is Back: Colombia's Left Regroups for the 2027 Vote",
-      "date": "2026-09-11 07:25:08+00:00",
-      "summary": "Левое политическое движение Колумбии возрождает альянс между мэром Боготы Клаудией Лопес и бывшим президентом Густаво Петро для подготовки к выборам 2027 года. Это свидетельствует о консолидации левых сил в стране.",
-      "category": "politics",
-      "region": "Колумбия",
-      "sources": [
-        "riotimesonline.com"
-      ],
-      "links": [
-        "https://www.riotimesonline.com/claudia-lopez-petro-alliance-relaunch-2026/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-11 07:25:08+00:00",
-      "id": "24acffc40931"
-    },
-    {
-      "title_ru": "Трамп заявил, что не жалеет об атаке на Иран",
-      "title_en": "Trump says he doesn't regret attack on Iran",
-      "date": "2026-09-11 06:10:01+03:00",
-      "summary": "Бывший президент США Дональд Трамп заявил, что не сожалеет о начале войны с Ираном. Это заявление сделано на фоне продолжающегося конфликта и предстоящих президентских выборов в США.",
-      "category": "statement",
-      "region": "США",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8941363"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-11 06:10:01+03:00",
-      "id": "5f14853e875a"
-    },
-    {
-      "title_ru": "Российский астроном опроверг одно из ключевых свойств Вселенной",
-      "title_en": "Russian astronomer refutes one of the key properties of the Universe",
-      "date": "2026-09-11 07:25:23+00:00",
-      "summary": "Российский астроном представил исследование, которое ставит под сомнение одно из фундаментальных свойств Вселенной. Это научное открытие может изменить современные представления о космологии и структуре мироздания.",
-      "category": "tech",
-      "region": "Россия",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/astronomy/oproverg-svojstvo-vselennoj"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-11 07:25:23+00:00",
-      "id": "6129a8a58ebd"
-    },
-    {
-      "title_ru": "Генерал Резаи: След давления США и Израиля очевиден в антииранской резолюции Совета управляющих",
-      "title_en": "General Rezaei: Trace of US-Israeli pressure is evident in Board of Governors' anti-Iran resolution",
-      "date": "2026-09-11 00:49:58+00:00",
-      "summary": "Иранский генерал Мохсен Резаи заявил, что антииранская резолюция Совета управляющих МАГАТЭ была принята под давлением США и Израиля. Это обвинение отражает продолжающуюся конфронтацию Ирана с западными странами по ядерной программе.",
-      "category": "politics",
-      "region": "Иран",
-      "sources": [
-        "en.irna.ir"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86260694/General-Rezaei-Trace-of-US-Israeli-pressure-is-evident-in-Board"
-      ],
-      "is_development": true,
-      "first_reported": "2026-09-11 00:49:58+00:00",
-      "id": "6f095918bff5"
-    },
-    {
       "category": "tech",
       "date": "2026-09-12 07:48:59+00:00",
       "is_development": false,
@@ -243,44 +37,6 @@
       "title_ru": "Самое детальное видео джета черной дыры поставило под сомнение представления о его устройстве",
       "first_reported": "2026-09-12 06:45:00+00:00",
       "id": "a81d0b7b2e53"
-    },
-    {
-      "category": "tech",
-      "date": "2026-09-11 08:54:34+00:00",
-      "is_development": false,
-      "links": [
-        "https://naked-science.ru/article/astronomy/kelt-20b-vpervye-nashli-kalii-kaltsii"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "summary": "В атмосфере ультрагорячего юпитера KELT-20b впервые обнаружены калий, кальций, ванадий, марганец и барий. Это открытие расширяет понимание химического состава экзопланет и процессов в их атмосферах.",
-      "title_en": "В атмосфере ультрагорячего юпитера KELT-20b впервые нашли калий, кальций, ванадий, марганец и барий",
-      "title_ru": "В атмосфере ультрагорячего юпитера KELT-20b впервые нашли калий, кальций, ванадий, марганец и барий",
-      "first_reported": "2026-09-11 08:54:34+00:00",
-      "id": "40d061d57777"
-    },
-    {
-      "category": "ai",
-      "date": "2026-09-11 14:29:47+00:00",
-      "is_development": false,
-      "links": [
-        "https://naked-science.ru/article/hi-tech/alice-ai-search-pretrain"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Россия",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "summary": "Компания «Яндекс» выложила в открытый доступ суверенную языковую модель. Это позволяет российским разработчикам использовать и дорабатывать ИИ-технологии без зависимости от иностранных решений.",
-      "title_en": "«Яндекс» выложил в опенсорс суверенную языковую модель",
-      "title_ru": "«Яндекс» выложил в опенсорс суверенную языковую модель",
-      "first_reported": "2026-09-11 14:29:47+00:00",
-      "id": "75bb0c6b76e9"
     },
     {
       "category": "life",
@@ -454,25 +210,6 @@
       "id": "7e2ac8003792"
     },
     {
-      "category": "economy",
-      "date": "2026-09-11 13:46:36+00:00",
-      "is_development": false,
-      "links": [
-        "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "США",
-      "sources": [
-        "www.cnbc.com"
-      ],
-      "summary": "Инфляция в США сохранилась в августе, что потенциально закрепляет повышение процентной ставки ФРС. Устойчивый рост цен усиливает давление на центральный банк для ужесточения денежно-кредитной политики.",
-      "title_en": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
-      "title_ru": "Инфляция сохранилась в августе, потенциально закрепляя повышение ставки ФРС",
-      "first_reported": "2026-09-11 13:46:36+00:00",
-      "id": "7ea4a0689a97"
-    },
-    {
       "category": "politics",
       "date": "2026-09-12 07:42:57+00:00",
       "is_development": false,
@@ -511,63 +248,6 @@
       "id": "062021161518"
     },
     {
-      "category": "politics",
-      "date": "2026-09-11 17:34:50+03:00",
-      "is_development": false,
-      "links": [
-        "https://tass.com/politics/2186261"
-      ],
-      "perspective": "Россия позиционирует БРИКС как альтернативу западным институтам, в то время как западные страны могут рассматривать это как попытку создания параллельной системы, бросающей вызов существующему мировому порядку.",
-      "perspective_type": "assumed",
-      "region": "Мир",
-      "sources": [
-        "tass.com"
-      ],
-      "summary": "Президент России Владимир Путин заявил, что правила бизнеса в БРИКС не навязываются «золотым миллиардом». Это подчёркивает позицию России о создании альтернативных международных экономических структур.",
-      "title_en": "BRICS business rules not imposed by 'Golden Billion' — Putin",
-      "title_ru": "Правила бизнеса БРИКС не навязываются «золотым миллиардом» — Путин",
-      "first_reported": "2026-09-11 17:34:50+03:00",
-      "id": "e8f82e277c38"
-    },
-    {
-      "category": "statement",
-      "date": "2026-09-11 20:45:18+00:00",
-      "is_development": false,
-      "links": [
-        "https://mg.co.za/business/2026-09-11-ramaphosa-warns-brics-against-a-new-raw-material-trap-for-africa/"
-      ],
-      "perspective": "Рамафоса выражает озабоченность африканских стран по поводу экономических отношений, в то время как другие члены БРИКС могут рассматривать это как конструктивную критику, направленную на создание более справедливых партнёрств.",
-      "perspective_type": "assumed",
-      "region": "Африка",
-      "sources": [
-        "mg.co.za"
-      ],
-      "summary": "Президент ЮАР Сирил Рамафоса предупредил БРИКС о необходимости избежать новой сырьевой ловушки для Африки. Он призвал к созданию справедливых экономических отношений, которые принесут реальную пользу африканским странам, а не просто будут эксплуатировать их ресурсы.",
-      "title_en": "Ramaphosa warns BRICS against a new raw-material trap for Africa",
-      "title_ru": "Рамафоса предупредил БРИКС о новой сырьевой ловушке для Африки",
-      "first_reported": "2026-09-11 20:45:18+00:00",
-      "id": "be2fec5b8c91"
-    },
-    {
-      "category": "culture",
-      "date": "2026-09-11 11:31:41+00:00",
-      "is_development": false,
-      "links": [
-        "https://mg.co.za/friday/2026-09-11-nomfundo-xaluva-dyantyis-knows-the-value-of-owning-her-music/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "summary": "Южноафриканская певица Номфундо Ксалува-Дьянтис подчёркивает важность владения правами на свою музыку. Она делится опытом сохранения творческого контроля и финансовой независимости в музыкальной индустрии.",
-      "title_en": "Nomfundo Xaluva-Dyantyis knows the value of owning her music",
-      "title_ru": "Номфундо Ксалува-Дьянтис знает цену владения своей музыкой",
-      "first_reported": "2026-09-11 11:31:41+00:00",
-      "id": "0ed771cba1c9"
-    },
-    {
       "category": "ecology",
       "date": "2026-09-12 03:00:00+00:00",
       "is_development": false,
@@ -585,26 +265,6 @@
       "title_ru": "Долгий путь становится всё труднее для перелётных птиц мира",
       "first_reported": "2026-09-12 03:00:00+00:00",
       "id": "a5111b9ecd21"
-    },
-    {
-      "title_ru": "В атмосфере ультрагорячего юпитера KELT-20b впервые нашли калий, кальций, ванадий, марганец и барий",
-      "title_en": "Potassium, calcium, vanadium, manganese and barium found for the first time in the atmosphere of ultra-hot Jupiter KELT-20b",
-      "date": "2026-09-11 08:54:34+00:00",
-      "summary": "Астрономы впервые обнаружили в атмосфере экзопланеты KELT-20b, относящейся к классу ультрагорячих юпитеров, калий, кальций, ванадий, марганец и барий. Это открытие позволяет лучше понять химический состав атмосфер планет за пределами Солнечной системы.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/astronomy/kelt-20b-vpervye-nashli-kalii-kaltsii"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-11 08:54:34+00:00",
-      "id": "3d41f31c073a",
-      "last_reported": "2026-09-11 08:54:34+00:00"
     },
     {
       "title_ru": "Чтобы добыть пыльцу, пчелам приходится трясти цветы с особой частотой",
@@ -702,25 +362,6 @@
       "id": "5c7b7fde1d78"
     },
     {
-      "title_ru": "Силы Ансароллы закрепились на ключевом побережье Красного моря",
-      "title_en": "Ansarullah forces secure key Red Sea coastline",
-      "date": "2026-09-11 08:31:07.593439+00:00",
-      "summary": "Силы йеменского движения Ансаролла (хуситы) закрепились на стратегически важном участке побережья Красного моря. Это достижение позволяет им контролировать ключевые морские пути и укрепляет их позиции в конфликте.",
-      "category": "conflicts",
-      "region": "Йемен",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/11/776057/Ansarullah-forces-secure-key-Red-Sea-coastline"
-      ],
-      "perspective": "Хуситы рассматривают это как военный успех, в то время как Саудовская Аравия и её союзники видят угрозу безопасности региона",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-11 08:31:07.593439+00:00",
-      "id": "1c68bf615a50"
-    },
-    {
       "title_ru": "Российская армия взяла харьковский Черняков",
       "title_en": "Russian army took Kharkiv's Chernyakov",
       "date": "2026-09-13 10:55:41+03:00",
@@ -795,25 +436,6 @@
       "is_development": false,
       "first_reported": "2026-09-12 18:35:27+00:00",
       "id": "6b419fa95b99"
-    },
-    {
-      "title_ru": "Суд оправдал экс-президента Южной Кореи Юн Сок Ёля по делу о злоупотреблении властью",
-      "title_en": "Court acquits ex-President Yoon in power abuse case over envoy appointment",
-      "date": "2026-09-11 15:03:15+09:00",
-      "summary": "Суд Южной Кореи оправдал бывшего президента Юн Сок Ёля по делу о злоупотреблении властью при назначении послов. Это решение завершает один из ключевых судебных процессов против экс-президента и имеет политические последствия.",
-      "category": "politics",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260911006400315"
-      ],
-      "perspective": "Сторонники Юна рассматривают это как восстановление справедливости, оппоненты — как провал системы правосудия",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-11 15:03:15+09:00",
-      "id": "d764ceffc4d3"
     },
     {
       "title_ru": "Орбан заявил, что Фидес готовится к возвращению",
@@ -1175,25 +797,6 @@
       "title_ru": "Лим Юнчан снова номинирован на премию Gramophone Classical Music Awards",
       "first_reported": "2026-09-14 16:54:55+09:00",
       "id": "51de1150b1e1"
-    },
-    {
-      "category": "photo",
-      "date": "2026-09-11 21:48:58+00:00",
-      "is_development": false,
-      "links": [
-        "https://petapixel.com/2026/09/11/25-years-after-the-worlds-deadliest-terror-attack-photographers-recall-9-11/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Мир",
-      "sources": [
-        "petapixel.com"
-      ],
-      "summary": "Фотографы вспоминают события 11 сентября 2001 года, 25 лет спустя после самой смертоносной террористической атаки в мире. Их работы запечатлели трагедию и стали историческими документами.",
-      "title_en": "25 Years After the World's Deadliest Terror Attack, Photographers Recall 9/11",
-      "title_ru": "25 лет спустя после самой смертоносной террористической атаки фотографы вспоминают 11 сентября",
-      "first_reported": "2026-09-11 21:48:58+00:00",
-      "id": "0dfb03802a6f"
     },
     {
       "category": "ecology",
@@ -2353,10 +1956,371 @@
       "is_development": false,
       "first_reported": "2026-09-18 06:49:37+00:00",
       "id": "4cdcb204ff15"
+    },
+    {
+      "title_ru": "Израильские исследователи разработали аэрогель для очистки от разливов нефти",
+      "title_en": "'Sponge of the sea': Israeli researchers develop aerogel that captures, breaks down oil spills",
+      "date": "2026-09-19 07:52:20+00:00",
+      "summary": "Израильские ученые создали новый аэрогель, который способен захватывать и разлагать нефтяные разливы. Технология может быть использована для очистки морской воды от загрязнений нефтью.",
+      "category": "tech",
+      "region": "Израиль",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/environment-and-climate-change/article-908953"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-19 07:52:20+00:00",
+      "id": "d8f435b75055"
+    },
+    {
+      "title_ru": "Тайвань замораживает тарифы на электроэнергию до декабря",
+      "title_en": "Ministry freezes electricity rates until December meet",
+      "date": "2026-09-19 08:16:16.734151+00:00",
+      "summary": "Министерство экономики Тайваня заморозило тарифы на электроэнергию до декабря 2026 года. Решение принято для стабилизации цен и поддержки потребителей.",
+      "category": "tech",
+      "region": "Тайвань",
+      "sources": [
+        "www.taipeitimes.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/front/archives/2026/09/19/2003864522"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-19 08:16:16.734151+00:00",
+      "id": "91bb866d5c7c"
+    },
+    {
+      "title_ru": "Китайские заказы на судостроение почти утроились из-за войны в Иране",
+      "title_en": "China shipbuilding orders nearly triple on Iran war windfall",
+      "date": "2026-09-19 08:16:14.807455+00:00",
+      "summary": "Заказы на судостроение в Китае почти утроились из-за военного конфликта в Иране. Это связано с повышенным спросом на морские перевозки и логистику в регионе.",
+      "category": "tech",
+      "region": "Китай",
+      "sources": [
+        "asia.nikkei.com"
+      ],
+      "links": [
+        "https://asia.nikkei.com/business/business-trends/china-shipbuilding-orders-nearly-triple-on-iran-war-windfall"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-19 08:16:14.807455+00:00",
+      "id": "0745a7061dad"
+    },
+    {
+      "title_ru": "Китай, Иран и израильские группы используют ИИ для кампаний влияния в соцсетях",
+      "title_en": "China, Iran, Israeli groups weaponize AI for first-of-their-kind social media influence campaigns",
+      "date": "2026-09-19 10:30:33+00:00",
+      "summary": "Китай, Иран и израильские группы начали использовать искусственный интеллект для кампаний влияния в социальных сетях. Это первые в своем роде кампании, использующие ИИ для создания контента и манипулирования общественным мнением.",
+      "category": "ai",
+      "region": "Мир",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/business-and-innovation/article-909100"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-19 10:30:33+00:00",
+      "id": "c0af4a788df7"
+    },
+    {
+      "title_ru": "В ЮАР обнаружены тела девяти женщин, что вызывает опасения о серийном убийце",
+      "title_en": "Nine lives snuffed as fears escalate",
+      "date": "2026-09-17 23:00:00+00:00",
+      "summary": "В ЮАР обнаружены тела девяти женщин, что вызывает опасения о действиях серийного убийцы. Инцидент произошел в Экурхулени и обнажил проблемы с гендерным насилием в стране.",
+      "category": "life",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-09-17-nine-lives-snuffed-as-fears-escalate/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": true,
+      "first_reported": "2026-09-17 23:00:00+00:00",
+      "id": "939c643a20ab"
+    },
+    {
+      "title_ru": "В Австралии акула убила 63-летнего пловца в Перте",
+      "title_en": "'Extraordinary step': Shark that killed 63-year-old Perth swimmer to be destroyed",
+      "date": "2026-09-19 15:30:16+10:00",
+      "summary": "В Перте, Австралия, акула убила 63-летнего пловца. Власти приняли решение уничтожить акулу, что является исключительной мерой для предотвращения дальнейших нападений.",
+      "category": "life",
+      "region": "Австралия",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/national/western-australia/extraordinary-step-shark-that-killed-63-year-old-perth-swimmer-to-be-destroyed-20260919-p60ysg.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-19 15:30:16+10:00",
+      "id": "f8ccc69430d5"
+    },
+    {
+      "title_ru": "В Боливии отменили субсидии на дизельное топливо после одобрения кредита МВФ",
+      "title_en": "Bolivia Ends Diesel Subsidy Hours After Congress Clears IMF Loan",
+      "date": "2026-09-19 08:06:48+00:00",
+      "summary": "Боливия отменила субсидии на дизельное топливо через несколько часов после того, как конгресс одобрил кредит МВФ. Это решение может привести к росту цен на топливо и повлиять на экономику страны.",
+      "category": "life",
+      "region": "Боливия",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/bolivia-diesel-subsidy-removed-imf-loan-senate-2026/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-19 08:06:48+00:00",
+      "id": "07d3263a5fac"
+    },
+    {
+      "title_ru": "Атаки в Ормузском проливе привели к разливу нефти в Персидском заливе",
+      "title_en": "Strait of Hormuz attacks spill oil into Persian Gulf",
+      "date": "2026-09-18 19:05:00+00:00",
+      "summary": "Атаки в Ормузском проливе привели к разливу нефти в Персидском заливе. Инцидент создает экологическую угрозу и осложняет ситуацию в стратегически важном регионе.",
+      "category": "conflicts",
+      "region": "Ближний Восток",
+      "sources": [
+        "rss.dw.com"
+      ],
+      "links": [
+        "https://www.dw.com/en/strait-of-hormuz-attacks-spill-oil-into-persian-gulf/a-79327092?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "perspective": "Событие может оцениваться как эскалация регионального конфликта и экологическая катастрофа",
+      "perspective_type": "assumed",
+      "is_development": true,
+      "first_reported": "2026-09-18 19:05:00+00:00",
+      "id": "299394e0db85"
+    },
+    {
+      "title_ru": "Южная Корея рассматривает отправку войск в Ормузский пролив",
+      "title_en": "South Koreans protest against sending troops to Strait of Hormuz",
+      "date": "2026-09-19 08:16:11.876374+00:00",
+      "summary": "В Южной Корее проходят протесты против отправки войск в Ормузский пролив. Решение о возможном военном участии обсуждается на фоне напряженности в регионе.",
+      "category": "conflicts",
+      "region": "Южная Корея",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/09/775960/South-Korea-Seoul-protest-naval-deployment-Hormuz-Strait-"
+      ],
+      "perspective": "Протестующие выступают против военного вмешательства, правительство рассматривает участие в обеспечении безопасности",
+      "perspective_type": "assumed",
+      "is_development": true,
+      "first_reported": "2026-09-19 08:16:11.876374+00:00",
+      "id": "94ebd43cfda4"
+    },
+    {
+      "title_ru": "Израильский удар по мотоциклу убил палестинца в Газе",
+      "title_en": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
+      "date": "2026-09-19 08:16:11.876294+00:00",
+      "summary": "Израильский удар по мотоциклу убил палестинца в Газе и ранил ребенка. Инцидент произошел в Газе и привел к жертвам среди мирного населения.",
+      "category": "conflicts",
+      "region": "Палестина",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/19/776571/Israeli-strike-on-motorcycle-kills-Palestinian-in-Gaza-City,-injures-several-others,-including-child"
+      ],
+      "perspective": "Израиль рассматривает это как операцию против угроз, палестинцы видят в этом нападение на мирных жителей",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-19 08:16:11.876294+00:00",
+      "id": "62db057bb42b"
+    },
+    {
+      "title_ru": "Над Курской областью за сутки сбили 180 БПЛА",
+      "title_en": "Над Курской областью за сутки сбили 180 БПЛА",
+      "date": "2026-09-19 10:38:40+03:00",
+      "summary": "Над Курской областью за последние сутки сбили 180 беспилотных летательных аппаратов. Это свидетельствует об интенсивности атак на российскую территорию.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/28127983"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-19 10:38:40+03:00",
+      "id": "40d91af76f1b"
+    },
+    {
+      "title_ru": "В Брянской области за сутки уничтожили 255 беспилотников",
+      "title_en": "В Брянской области за сутки уничтожили 255 беспилотников",
+      "date": "2026-09-19 10:01:39+03:00",
+      "summary": "В Брянской области за последние сутки уничтожили 255 беспилотных летательных аппаратов. Системы ПВО активно работают против атакующих дронов.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8970465"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-19 10:01:39+03:00",
+      "id": "7aa8141ba0a3"
+    },
+    {
+      "title_ru": "На Запорожье первый день голосования прошел без ЧП и атак БПЛА на участки",
+      "title_en": "На Запорожье первый день голосования прошел без ЧП и атак БПЛА на участки",
+      "date": "2026-09-19 11:07:30+03:00",
+      "summary": "В Запорожской области первый день голосования на выборах прошел без чрезвычайных происшествий и атак беспилотников на избирательные участки. Это свидетельствует о стабильности процесса.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/obschestvo/28128223"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-19 11:07:30+03:00",
+      "id": "9d90ba0a933d"
+    },
+    {
+      "title_ru": "Россия передала активы Auchan и Nestle во временное управление",
+      "title_en": "Russia says Nestle, Auchan asset seizures payback for Europe's actions",
+      "date": "2026-09-18 17:30:00+03:00",
+      "summary": "Россия передала активы компаний Auchan и Nestle во временное управление российской компании. Это ответная мера на действия европейских стран в отношении российских активов.",
+      "category": "economy",
+      "region": "Россия",
+      "sources": [
+        "www.dailysabah.com"
+      ],
+      "links": [
+        "https://www.dailysabah.com/business/economy/russia-says-nestle-auchan-asset-seizures-payback-for-europes-actions"
+      ],
+      "perspective": "Россия рассматривает это как ответ на санкции, Запад видит в этом нарушение прав собственности",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-18 17:30:00+03:00",
+      "id": "bed0be3bf263"
+    },
+    {
+      "title_ru": "Турция обязала крупнейшие банки ликвидировать фонды на $18,3 млрд",
+      "title_en": "Türkiye mandates largest public, private banks to liquidate $18.3B funds",
+      "date": "2026-09-18 12:17:00+03:00",
+      "summary": "Турция обязала крупнейшие государственные и частные банки ликвидировать фонды на сумму 18,3 млрд долларов. Это решение принято для стабилизации финансового рынка страны.",
+      "category": "economy",
+      "region": "Турция",
+      "sources": [
+        "www.dailysabah.com"
+      ],
+      "links": [
+        "https://www.dailysabah.com/business/economy/turkiye-mandates-largest-public-private-banks-to-liquidate-183b-funds"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-18 12:17:00+03:00",
+      "id": "783191201b0a"
+    },
+    {
+      "title_ru": "Иран заявил, что США видят мир как улей, а не суверенные нации",
+      "title_en": "Iran: US sees world as a hive, not sovereign nations",
+      "date": "2026-09-18 14:14:17+00:00",
+      "summary": "Иран заявил, что США рассматривают мир как улей, а не как суверенные нации. Это заявление отражает критику американской внешней политики со стороны Тегерана.",
+      "category": "politics",
+      "region": "Иран",
+      "sources": [
+        "en.irna.ir"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86267380/Iran-US-sees-world-as-a-hive-not-sovereign-nations"
+      ],
+      "perspective": "Иран критикует американскую политику, США могут рассматривать это как риторику",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-18 14:14:17+00:00",
+      "id": "46066bd667a8"
+    },
+    {
+      "title_ru": "Россия и Китай наложили вето на антииранскую резолюцию",
+      "title_en": "Russia, China veto on anti‑Iran draft will be recorded in history: Iran envoy",
+      "date": "2026-09-19 05:57:38+00:00",
+      "summary": "Россия и Китай наложили вето на антииранскую резолюцию в Совете Безопасности ООН. Иранский представитель заявил, что это решение войдет в историю как поддержка Тегерана.",
+      "category": "politics",
+      "region": "Мир",
+      "sources": [
+        "en.irna.ir"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86267611/Russia-China-veto-on-anti-Iran-draft-will-be-recorded-in-history"
+      ],
+      "perspective": "Иран и его союзники видят в этом поддержку, Запад может рассматривать как препятствие санкциям",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-19 05:57:38+00:00",
+      "id": "99f4eca26787"
+    },
+    {
+      "title_ru": "Иранские спортсменки завоевали золотые медали на международных соревнованиях",
+      "title_en": "Iran's Gheitasi wins gold in mas-wrestling at 2026 World Nomad Games",
+      "date": "2026-09-19 08:16:11.877081+00:00",
+      "summary": "Иранская спортсменка Гейтаси завоевала золотую медаль в мас-рестлинге на Всемирных играх кочевников 2026 года. Это достижение демонстрирует успехи иранских спортсменов на международной арене.",
+      "category": "culture",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/02/775560/Iran-s-Gheitasi-wins-gold-in-mas-wrestling-at-2026-World-Nomad-Games"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-19 08:16:11.877081+00:00",
+      "id": "f7b943865199"
+    },
+    {
+      "title_ru": "NASA показало фото до и после массивного удара астероида по Луне",
+      "title_en": "NASA Photos Show Before and After of Massive Asteroid Impact on the Moon",
+      "date": "2026-09-18 15:00:06+00:00",
+      "summary": "NASA опубликовало фотографии до и после массивного удара астероида по Луне. Снимки демонстрируют масштабные изменения лунной поверхности в результате космического столкновения.",
+      "category": "photo",
+      "region": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/18/nasa-photos-show-before-and-after-of-massive-asteroid-impact-on-the-moon/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-18 15:00:06+00:00",
+      "id": "556113a411bc"
     }
   ],
   "_stats": {
-    "total_tokens": 2376076,
-    "total_cost": 290.752008
+    "total_tokens": 2394471,
+    "total_cost": 291.944468
   }
 }
