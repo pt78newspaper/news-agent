@@ -1,291 +1,6 @@
 {
   "_events": [
     {
-      "category": "tech",
-      "date": "2026-09-12 07:48:59+00:00",
-      "is_development": false,
-      "links": [
-        "https://www.jpost.com/health-and-wellness/article-908199"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Израиль",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "summary": "Израильские хирурги начали использовать нового робота для дробления камней в почках без разбрызгивания. Технология позволяет более точно и безопасно проводить операции, снижая риски для пациентов.",
-      "title_en": "New robot helps Israeli surgeons crush kidney stones without the splash",
-      "title_ru": "Новый робот помогает израильским хирургам дробить камни в почках без разбрызгивания",
-      "first_reported": "2026-09-12 07:48:59+00:00",
-      "id": "9f803f10b159"
-    },
-    {
-      "category": "tech",
-      "date": "2026-09-12 06:45:00+00:00",
-      "is_development": false,
-      "links": [
-        "https://naked-science.ru/article/astronomy/video-dzheta-somnenie-o-ego-ustroistve"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "summary": "Учёные получили самое детальное видео джета чёрной дыры, которое поставило под сомнение существующие представления о его устройстве. Наблюдения показывают неожиданную структуру и динамику выбросов материи.",
-      "title_en": "Самое детальное видео джета черной дыры поставило под сомнение представления о его устройстве",
-      "title_ru": "Самое детальное видео джета черной дыры поставило под сомнение представления о его устройстве",
-      "first_reported": "2026-09-12 06:45:00+00:00",
-      "id": "a81d0b7b2e53"
-    },
-    {
-      "category": "life",
-      "date": "2026-09-12 10:45:00+03:00",
-      "is_development": false,
-      "links": [
-        "https://www.ukrinform.ua/rubric-regions/4163415-vijska-rf-za-dobu-48-raziv-udarili-po-prikordonnu-cernigivsini-e-postrazdala.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Украина",
-      "sources": [
-        "www.ukrinform.ua"
-      ],
-      "summary": "Российские войска за сутки 48 раз ударили по приграничным районам Черниговской области Украины. В результате обстрелов есть пострадавшая среди мирного населения.",
-      "title_en": "Війська РФ за добу 48 разів ударили по прикордонню Чернігівщини: є постраждала",
-      "title_ru": "Войска РФ за сутки 48 раз ударили по приграничью Черниговщины: есть пострадавшая",
-      "first_reported": "2026-09-12 10:45:00+03:00",
-      "id": "b4851c6bf71c"
-    },
-    {
-      "category": "life",
-      "date": "2026-09-12 09:55:00+03:00",
-      "is_development": false,
-      "links": [
-        "https://www.ukrinform.ua/rubric-regions/4163410-vijska-rf-za-dobu-vbili-cotiroh-ziteliv-doneccini-se-patoh-poranili.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Украина",
-      "sources": [
-        "www.ukrinform.ua"
-      ],
-      "summary": "Российские войска за сутки убили четырёх жителей Донецкой области Украины и ранили ещё пятерых. Обстрелы продолжаются по населённым пунктам региона.",
-      "title_en": "Війська РФ за добу вбили чотирьох жителів Донеччини, ще п'ятьох поранили",
-      "title_ru": "Войска РФ за сутки убили четырёх жителей Донецкой области, ещё пятерых ранили",
-      "first_reported": "2026-09-12 09:55:00+03:00",
-      "id": "5b05377a7e8e"
-    },
-    {
-      "category": "life",
-      "date": "2026-09-12 08:26:00+03:00",
-      "is_development": false,
-      "links": [
-        "https://www.ukrinform.ua/rubric-regions/4163384-na-hersonsini-za-dobu-cerez-rosijski-ataki-poraneni-18-ludej.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Украина",
-      "sources": [
-        "www.ukrinform.ua"
-      ],
-      "summary": "На Херсонщине за сутки в результате российских атак ранены 18 человек. Обстрелы населённых пунктов продолжаются, увеличивая число жертв среди мирного населения.",
-      "title_en": "На Херсонщині за добу через російські атаки поранені 18 людей",
-      "title_ru": "На Херсонщине за сутки из-за российских атак ранены 18 человек",
-      "first_reported": "2026-09-12 08:26:00+03:00",
-      "id": "807c46bd9713"
-    },
-    {
-      "category": "conflicts",
-      "date": "2026-09-12 08:07:30.658420+00:00",
-      "is_development": false,
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/10/776035/Yemeni-Armed-Forces-seize-control-of-strategic-Bab-el-mandeb-Strait-in-major-coastal-breakthrough"
-      ],
-      "perspective": "Йеменские силы сообщают о стратегическом прорыве, в то время как Саудовская Аравия и её союзники, вероятно, рассматривают это как угрозу безопасности судоходства в Красном море.",
-      "perspective_type": "assumed",
-      "region": "Йемен",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "summary": "Йеменские силы захватили порт аль-Ардхи на Баб-эль-Мандебском проливе. Это стратегический прорыв, дающий контроль над ключевым морским маршрутом в Красном море.",
-      "title_en": "Yemeni forces capture port of al-Ardhi on Bab al-Mandab: Report",
-      "title_ru": "Йеменские силы захватили порт аль-Ардхи на Баб-эль-Мандебском проливе: сообщение",
-      "first_reported": "2026-09-12 08:07:30.658420+00:00",
-      "id": "737b85250f52"
-    },
-    {
-      "category": "conflicts",
-      "date": "2026-09-12 09:34:17+09:00",
-      "is_development": false,
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260912000353315"
-      ],
-      "perspective": "Северная Корея рассматривает запуски как законное право на самооборону, в то время как Южная Корея, Япония и США осуждают их как провокационные действия, нарушающие резолюции ООН.",
-      "perspective_type": "assumed",
-      "region": "Корейский полуостров",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "summary": "Северная Корея запустила несколько баллистических ракет малой дальности в сторону Японского моря. Южнокорейские военные отслеживали полёты ракет, которые пролетели около 250 км.",
-      "title_en": "(3rd LD) N. Korea fires multiple short-range ballistic missiles toward East Sea: JCS",
-      "title_ru": "Северная Корея запустила несколько баллистических ракет малой дальности в сторону Японского моря: ОКНШ",
-      "first_reported": "2026-09-12 09:34:17+09:00",
-      "id": "3a9a29f91a24"
-    },
-    {
-      "category": "svo",
-      "date": "2026-09-12 11:04:17+03:00",
-      "is_development": false,
-      "links": [
-        "https://www.rbc.ru/politics/09/09/2026/6aa0fde8d949d93807ea1247"
-      ],
-      "perspective": "Российская сторона заявляет о законных ударах по военным объектам, в то время как Украина и её союзники осуждают атаки как военные преступления, наносящие ущерб гражданской инфраструктуре и приводящие к жертвам среди мирного населения.",
-      "perspective_type": "assumed",
-      "region": "Украина",
-      "sources": [
-        "rssexport.rbc.ru"
-      ],
-      "summary": "Минобороны России назвало цели ударов в Киеве, Запорожье и Кривом Роге. По заявлению ведомства, были поражены горно-обогатительные комбинаты, используемые ВСУ для военных нужд.",
-      "title_en": "Минобороны назвало цели ударов в Киеве, Запорожье и Кривом Роге",
-      "title_ru": "Минобороны назвало цели ударов в Киеве, Запорожье и Кривом Роге",
-      "first_reported": "2026-09-12 11:04:17+03:00",
-      "id": "16d71b1b2ccc"
-    },
-    {
-      "category": "svo",
-      "date": "2026-09-12 11:00:18+03:00",
-      "is_development": false,
-      "links": [
-        "https://tass.ru/armiya-i-opk/28105601"
-      ],
-      "perspective": "Российская сторона сообщает о значительных потерях ВСУ как о доказательстве эффективности своих действий, в то время как Украина обычно оспаривает такие цифры и обвиняет Россию в преувеличении.",
-      "perspective_type": "assumed",
-      "region": "Украина",
-      "sources": [
-        "tass.ru"
-      ],
-      "summary": "Вооружённые силы Украины за сутки потеряли порядка 1390 военнослужащих на всех направлениях специальной военной операции. По данным Минобороны РФ, наибольшие потери зафиксированы в зонах ответственности группировок «Восток» и «Юг».",
-      "title_en": "ВСУ за сутки потеряли порядка 1 390 военнослужащих на всех направлениях СВО",
-      "title_ru": "ВСУ за сутки потеряли порядка 1 390 военнослужащих на всех направлениях СВО",
-      "first_reported": "2026-09-12 11:00:18+03:00",
-      "id": "2d8b98137c89"
-    },
-    {
-      "category": "svo",
-      "date": "2026-09-12 11:01:38+03:00",
-      "is_development": false,
-      "links": [
-        "https://www.kommersant.ru/doc/8953363"
-      ],
-      "perspective": "Россия преподносит это как освобождение территории и успех своей военной операции, в то время как Украина рассматривает это как временную потерю территории в ходе продолжающихся боевых действий.",
-      "perspective_type": "assumed",
-      "region": "ДНР",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "summary": "Российские войска заняли село Весёлое в Донецкой Народной Республике. Это очередное продвижение российских сил на донецком направлении в ходе специальной военной операции.",
-      "title_en": "Российские войска заняли село Веселое в ДНР",
-      "title_ru": "Российские войска заняли село Весёлое в ДНР",
-      "first_reported": "2026-09-12 11:01:38+03:00",
-      "id": "8d9ccd7688d0"
-    },
-    {
-      "category": "economy",
-      "date": "2026-09-12 06:06:03+00:00",
-      "is_development": false,
-      "links": [
-        "https://www.riotimesonline.com/cimentos-de-mocambique-150-million-expansion-2026/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Мозамбик",
-      "sources": [
-        "riotimesonline.com"
-      ],
-      "summary": "Компания Cimentos de Moçambique инвестирует 150 миллионов долларов в расширение производства цемента. Проект направлен на увеличение мощностей и удовлетворение растущего спроса на строительные материалы в стране.",
-      "title_en": "Cimentos de Moçambique Invests US$150 Million to Expand Cement Production",
-      "title_ru": "Cimentos de Moçambique инвестирует 150 миллионов долларов в расширение производства цемента",
-      "first_reported": "2026-09-12 06:06:03+00:00",
-      "id": "7e2ac8003792"
-    },
-    {
-      "category": "politics",
-      "date": "2026-09-12 07:42:57+00:00",
-      "is_development": false,
-      "links": [
-        "https://en.mehrnews.com/news/247669/No-talks-with-US-until-it-accepts-all-Iran-s-conditions-MP"
-      ],
-      "perspective": "Иран настаивает на своих условиях как на предпосылке для любых переговоров, в то время как США, вероятно, рассматривают это как неприемлемые требования, затрудняющие дипломатическое взаимодействие.",
-      "perspective_type": "assumed",
-      "region": "Иран",
-      "sources": [
-        "en.mehrnews.com"
-      ],
-      "summary": "Иранский парламентарий заявил, что переговоры с США невозможны до тех пор, пока Вашингтон не примет все условия Тегерана. Это отражает жёсткую позицию Ирана в отношении диалога с американской стороной.",
-      "title_en": "No talks with US until it accepts all Iran's conditions: MP",
-      "title_ru": "Переговоров с США не будет, пока они не примут все условия Ирана: депутат",
-      "first_reported": "2026-09-12 07:42:57+00:00",
-      "id": "0116d5e22ae0"
-    },
-    {
-      "category": "politics",
-      "date": "2026-09-12 07:17:54+00:00",
-      "is_development": false,
-      "links": [
-        "https://en.mehrnews.com/news/247667/Iran-consulting-to-ease-Iran-s-membership-in-BRICS-NDB"
-      ],
-      "perspective": "Иран стремится к интеграции в международные финансовые структуры БРИКС, что может рассматриваться странами-членами как расширение влияния блока, а западными странами — как попытка обойти санкции.",
-      "perspective_type": "assumed",
-      "region": "Иран",
-      "sources": [
-        "en.mehrnews.com"
-      ],
-      "summary": "Иран ведёт консультации с членами БРИКС для облегчения своего вступления в Новый банк развития БРИКС. Это часть усилий Тегерана по интеграции в альтернативные международные финансовые структуры.",
-      "title_en": "Iran talking with BRICS members to ease Iran accession in NDB",
-      "title_ru": "Иран ведёт переговоры с членами БРИКС для облегчения своего вступления в НБР",
-      "first_reported": "2026-09-12 07:17:54+00:00",
-      "id": "062021161518"
-    },
-    {
-      "category": "ecology",
-      "date": "2026-09-12 03:00:00+00:00",
-      "is_development": false,
-      "links": [
-        "https://mg.co.za/the-green-guardian/2026-09-12-the-long-journey-is-getting-harder-for-the-world-s-migratory-birds/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Мир",
-      "sources": [
-        "mg.co.za"
-      ],
-      "summary": "Долгий путь становится всё труднее для перелётных птиц мира. Изменение климата, потеря среды обитания и человеческая деятельность создают серьёзные препятствия для их ежегодных миграций.",
-      "title_en": "The long journey is getting harder for the world's migratory birds",
-      "title_ru": "Долгий путь становится всё труднее для перелётных птиц мира",
-      "first_reported": "2026-09-12 03:00:00+00:00",
-      "id": "a5111b9ecd21"
-    },
-    {
-      "title_ru": "Чтобы добыть пыльцу, пчелам приходится трясти цветы с особой частотой",
-      "title_en": "To collect pollen, bees have to shake flowers at a specific frequency",
-      "date": "2026-09-12 08:56:45+00:00",
-      "summary": "Исследование показало, что пчелы используют особую технику сбора пыльцы — они трясут цветы с определенной резонансной частотой, чтобы эффективно извлекать пыльцу. Это демонстрирует сложность поведения насекомых и их адаптацию к сбору ресурсов.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/biology/buzz-pollen-resonance"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-12 08:56:45+00:00",
-      "id": "81da75ddd7e2"
-    },
-    {
       "title_ru": "Образцы Рюгу показали, как древние астероиды могли накапливать азот для зарождения жизни",
       "title_en": "Ryugu samples show how ancient asteroids could accumulate nitrogen for the origin of life",
       "date": "2026-09-13 06:30:00+00:00",
@@ -419,25 +134,6 @@
       "id": "88589344fbcd"
     },
     {
-      "title_ru": "Petrobras объявила о повышении цен на топливо и отменила его через четыре часа",
-      "title_en": "Petrobras Announced a Fuel Price Rise and Cancelled It Four Hours Later",
-      "date": "2026-09-12 18:35:27+00:00",
-      "summary": "Бразильская государственная нефтяная компания Petrobras объявила о повышении цен на топливо, но отменила это решение всего через четыре часа. Это демонстрирует давление на компанию со стороны правительства и чувствительность топливного рынка.",
-      "category": "economy",
-      "region": "Бразилия",
-      "sources": [
-        "riotimesonline.com"
-      ],
-      "links": [
-        "https://www.riotimesonline.com/brazil-petrobras-gasoline-diesel-price-subsidy-2026/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-12 18:35:27+00:00",
-      "id": "6b419fa95b99"
-    },
-    {
       "title_ru": "Орбан заявил, что Фидес готовится к возвращению",
       "title_en": "Orbán says Fidesz is gearing up for its comeback",
       "date": "2026-09-13 03:52:17+00:00",
@@ -455,25 +151,6 @@
       "is_development": false,
       "first_reported": "2026-09-13 03:52:17+00:00",
       "id": "c5d3bbdf4881"
-    },
-    {
-      "title_ru": "Новое приложение впервые позволяет отправлять пользовательские рецепты на камеры Fujifilm по беспроводной сети",
-      "title_en": "This New App Is the First to Send Custom Recipes to Fujifilm Cameras Wirelessly",
-      "date": "2026-09-12 12:00:04+00:00",
-      "summary": "Разработано новое приложение, которое впервые позволяет отправлять пользовательские рецепты обработки изображений на камеры Fujifilm по беспроводной сети. Это упрощает процесс настройки камер и расширяет творческие возможности фотографов.",
-      "category": "photo",
-      "region": "Мир",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/09/12/this-new-app-is-the-first-to-send-custom-recipes-to-fujifilm-cameras-wirelessly/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-12 12:00:04+00:00",
-      "id": "5717a2ae16fb"
     },
     {
       "category": "tech",
@@ -2317,10 +1994,352 @@
       "is_development": false,
       "first_reported": "2026-09-18 15:00:06+00:00",
       "id": "556113a411bc"
+    },
+    {
+      "category": "tech",
+      "date": "2026-09-20 08:47:59.865258+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.taipeitimes.com/News/biz/archives/2026/09/20/2003864554"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Бутан",
+      "sources": [
+        "taipeitimes.com"
+      ],
+      "summary": "В Бутане, где традиционно доминирует гидроэнергетика, начинает развиваться солнечная энергетика. Это представляет собой диверсификацию энергетического сектора страны, известной своими гидроэлектростанциями.",
+      "title_en": "In hydropowered Bhutan, solar starts to rise",
+      "title_ru": "В Бутане начинает развиваться солнечная энергетика",
+      "first_reported": "2026-09-20 08:47:59.865258+00:00",
+      "id": "5d5962c39f8f"
+    },
+    {
+      "category": "tech",
+      "date": "2026-09-20 08:11:56+00:00",
+      "is_development": false,
+      "links": [
+        "https://naked-science.ru/article/archeology/v-egipte-stonegrobnitsy"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Египет",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "summary": "В Египте обнаружены редкие для дельты Нила скальные гробницы, а прямо над ними — римский военный лагерь. Это важное археологическое открытие, проливающее свет на историю региона.",
+      "title_en": "Rare rock tombs and Roman military camp found in Egypt's Nile Delta",
+      "title_ru": "В Египте нашли редкие скальные гробницы и римский военный лагерь",
+      "first_reported": "2026-09-20 08:11:56+00:00",
+      "id": "441d9c08af8a"
+    },
+    {
+      "category": "ai",
+      "date": "2026-09-20 08:47:54.924351+00:00",
+      "is_development": false,
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/19/776599/Hundreds-of-thousands-of-people-in-Tehran-attend-rally,-parade-dubbed-%E2%80%9CSacrifice-for-Iran%E2%80%9D"
+      ],
+      "perspective": "Иран демонстрирует военную мощь и единство перед лицом внешних угроз, в то время как Запад может рассматривать это как демонстрацию силы и поддержку прокси-групп в регионе.",
+      "perspective_type": "assumed",
+      "region": "Иран",
+      "sources": [
+        "presstv.ir"
+      ],
+      "summary": "Сотни тысяч человек в Тегеране приняли участие в митинге и параде под названием 'Жертва за Иран'. Мероприятие включало марш добровольцев Корпуса стражей исламской революции (КСИР) и Басидж, демонстрируя поддержку правительства и готовность противостоять США и Израилю.",
+      "title_en": "Hundreds of thousands of people in Tehran attend rally, parade dubbed 'Sacrifice for Iran'",
+      "title_ru": "Сотни тысяч человек в Тегеране участвуют в митинге 'Жертва за Иран'",
+      "first_reported": "2026-09-20 08:47:54.924351+00:00",
+      "id": "31ead4bf3fd9"
+    },
+    {
+      "category": "life",
+      "date": "2026-09-20 04:59:26+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.riotimesonline.com/bolivia-diesel-subsidy-ends-83-percent-what-expats-need-to-know/"
+      ],
+      "perspective": "Правительство Боливии прекращает субсидирование для сокращения бюджетного дефицита, но это приведет к резкому росту стоимости жизни для населения и экспатов.",
+      "perspective_type": "assumed",
+      "region": "Боливия",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "summary": "Боливия прекращает 20-летнюю программу субсидирования дизельного топлива, что приведет к росту цен на 83%. Это решение серьезно повлияет на стоимость жизни как местных жителей, так и экспатов, использующих дизель для транспорта и генераторов.",
+      "title_en": "Bolivia Ends 20 Years of Cheap Diesel: What the 83% Price Rise Means for Expats",
+      "title_ru": "Боливия прекращает субсидирование дизеля: рост цен на 83% ударит по населению",
+      "first_reported": "2026-09-20 04:59:26+00:00",
+      "id": "42cf733a3c58"
+    },
+    {
+      "category": "life",
+      "date": "2026-09-20 18:37:38+10:00",
+      "is_development": false,
+      "links": [
+        "https://www.smh.com.au/national/bushfire-threatens-victorian-town-20260920-p60yyx.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Австралия",
+      "sources": [
+        "smh.com.au"
+      ],
+      "summary": "Лесной пожар угрожает городу в штате Виктория, Австралия. Это природное бедствие создает непосредственную опасность для жизни и имущества местных жителей.",
+      "title_en": "Bushfire threatens Victorian town",
+      "title_ru": "Лесной пожар угрожает городу в Виктории, Австралия",
+      "first_reported": "2026-09-20 18:37:38+10:00",
+      "id": "d7de4b41cc4a"
+    },
+    {
+      "category": "conflicts",
+      "date": "2026-09-20 07:58:10+00:00",
+      "is_development": true,
+      "links": [
+        "https://www.france24.com/fr/moyen-orient/20260920-arabie-saoudite-washington-craint-une-escalade-rapide-apr%C3%A8s-une-attaque-des-houthis-sur-riyad"
+      ],
+      "perspective": "Хуситы рассматривают атаку как ответ на действия Саудовской Аравии в Йемене, в то время как США и Саудовская Аравия видят в этом эскалацию конфликта и угрозу региональной стабильности.",
+      "perspective_type": "assumed",
+      "region": "Йемен/Саудовская Аравия",
+      "sources": [
+        "france24.com"
+      ],
+      "summary": "Хуситы атаковали столицу Саудовской Аравии Эр-Рияд баллистическими ракетами. США выразили опасения по поводу 'быстрой эскалации' ситуации после этой атаки, что свидетельствует об обострении конфликта в Йемене.",
+      "title_en": "Washington fears 'rapid escalation' after Houthi attack on Riyadh",
+      "title_ru": "Хуситы атаковали Эр-Рияд: США опасаются быстрой эскалации",
+      "first_reported": "2026-09-20 07:58:10+00:00",
+      "id": "4e0ad897d370"
+    },
+    {
+      "category": "conflicts",
+      "date": "2026-09-19 20:38:24+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260919-mali-le-bilan-de-l-attaque-des-jihadistes-%C3%A0-dioura-s-alourdit-%C3%A0-une-centaine-de-militaires-tu%C3%A9s"
+      ],
+      "perspective": "Джихадисты укрепляют свои позиции в регионе, в то время как правительство Мали и международные силы сталкиваются с серьезными вызовами в борьбе с терроризмом.",
+      "perspective_type": "assumed",
+      "region": "Мали",
+      "sources": [
+        "france24.com"
+      ],
+      "summary": "В Мали число погибших военных в результате атаки джихадистов в Диуре возросло до примерно ста человек. Это одна из самых смертоносных атак на малийские вооруженные силы, демонстрирующая сохраняющуюся мощь исламистских группировок в регионе.",
+      "title_en": "Mali: death toll from jihadist attack in Dioura rises to about a hundred soldiers",
+      "title_ru": "В Мали число погибших военных в результате атаки джихадистов достигло сотни",
+      "first_reported": "2026-09-19 20:38:24+00:00",
+      "id": "07700758b619"
+    },
+    {
+      "category": "svo",
+      "date": "2026-09-20 07:05:22+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.france24.com/fr/europe/20260920-en-direct-dernier-jour-des-%C3%A9lections-l%C3%A9gislatives-en-russie"
+      ],
+      "perspective": "Россия заявляет о внешней атаке в день выборов, в то время как Украина и Запад могут рассматривать это как законные действия в рамках конфликта.",
+      "perspective_type": "assumed",
+      "region": "Россия",
+      "sources": [
+        "france24.com"
+      ],
+      "summary": "Россия подверглась массированной атаке дронов в последний день выборов в Государственную Думу. Инцидент произошел во время голосования и представляет собой эскалацию военных действий против территории России.",
+      "title_en": "Russia suffers massive drone attack on last day of legislative elections",
+      "title_ru": "Россия подверглась массированной атаке дронов в последний день выборов",
+      "first_reported": "2026-09-20 07:05:22+00:00",
+      "id": "905c6f15a0a0"
+    },
+    {
+      "category": "svo",
+      "date": "2026-09-20 11:40:53+03:00",
+      "is_development": false,
+      "links": [
+        "https://tass.ru/politika/28130691"
+      ],
+      "perspective": "Российские власти представляют высокую явку как показатель поддержки населения, в то время как критики могут оспаривать условия проведения выборов.",
+      "perspective_type": "assumed",
+      "region": "Россия",
+      "sources": [
+        "tass.ru"
+      ],
+      "summary": "Явка на выборах в Государственную Думу России превысила показатель 2016 года. Голосование проходит как внутри страны, так и за рубежом, включая Белоруссию, Приднестровье, Абхазию и другие страны.",
+      "title_en": "Turnout in Russian State Duma elections exceeds 2016 level",
+      "title_ru": "Явка на выборах в Госдуму превысила показатель 2016 года",
+      "first_reported": "2026-09-20 11:40:53+03:00",
+      "id": "4306389d2eeb"
+    },
+    {
+      "category": "economy",
+      "date": "2026-09-17 22:00:00+00:00",
+      "is_development": false,
+      "links": [
+        "https://mg.co.za/thought-leader/the-diplomat/2026-09-17-brics-opens-doors-to-a-new-business-era/"
+      ],
+      "perspective": "Страны БРИКС видят в расширении возможности для усиления экономического влияния и создания альтернативных финансовых механизмов, в то время как Запад может рассматривать это как вызов существующему миропорядку.",
+      "perspective_type": "assumed",
+      "region": "БРИКС",
+      "sources": [
+        "mg.co.za"
+      ],
+      "summary": "БРИКС открывает двери для новой бизнес-эры, расширяя экономическое сотрудничество между странами-участницами. Это включает обсуждения дедолларизации и создание альтернативных финансовых систем, хотя реальные действия пока отстают от риторики.",
+      "title_en": "BRICS opens doors to a new business era",
+      "title_ru": "БРИКС открывает двери для новой бизнес-эры",
+      "first_reported": "2026-09-17 22:00:00+00:00",
+      "id": "8329e922be0f"
+    },
+    {
+      "category": "economy",
+      "date": "2026-09-17 22:00:00+00:00",
+      "is_development": false,
+      "links": [
+        "https://mg.co.za/thought-leader/2026-09-17-the-inga-dam-project-could-be-africa-s-game-changer/"
+      ],
+      "perspective": "Проект рассматривается как возможность для экономического развития Африки, но также вызывает опасения по поводу экологических последствий и управления ресурсами.",
+      "perspective_type": "assumed",
+      "region": "ДР Конго/Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "summary": "Проект плотины Инга в Демократической Республике Конго может стать переломным моментом для экономики Африки. Этот гидроэнергетический проект обладает потенциалом обеспечить электроэнергией значительную часть континента и стимулировать промышленное развитие.",
+      "title_en": "The Inga Dam project could be Africa's game changer",
+      "title_ru": "Проект плотины Инга может изменить правила игры в Африке",
+      "first_reported": "2026-09-17 22:00:00+00:00",
+      "id": "b04b14b0c8b0"
+    },
+    {
+      "category": "politics",
+      "date": "2026-09-20 08:47:54.923715+00:00",
+      "is_development": false,
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/09/775943/Police-protesters-clash-Albania-tourism-project-Donald-Trump-family-"
+      ],
+      "perspective": "Протестующие выступают против проекта, связанного с семьей Трампа, видя в нем угрозу окружающей среде и местным интересам, в то время как сторонники проекта видят в нем экономические возможности.",
+      "perspective_type": "assumed",
+      "region": "Албания",
+      "sources": [
+        "presstv.ir"
+      ],
+      "summary": "В Албании произошли столкновения между полицией и протестующими во время акции против туристического проекта, связанного с семьей Дональда Трампа. Протесты отражают растущее сопротивление крупным иностранным инвестициям в стране.",
+      "title_en": "Police, protesters clash during rally against Trump-linked tourism project in Albania",
+      "title_ru": "Столкновения полиции и протестующих в Албании из-за проекта, связанного с Трампом",
+      "first_reported": "2026-09-20 08:47:54.923715+00:00",
+      "id": "cacc6410cc78"
+    },
+    {
+      "category": "politics",
+      "date": "2026-09-16 09:50:56+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.theglobeandmail.com/world/article-us-south-africa-new-sanctions-alleged-discrimination-against-whites/"
+      ],
+      "perspective": "США вводят санкции, утверждая о дискриминации, в то время как Южная Африка может рассматривать это как вмешательство во внутренние дела и отрицать обвинения.",
+      "perspective_type": "assumed",
+      "region": "США/ЮАР",
+      "sources": [
+        "theglobeandmail.com"
+      ],
+      "summary": "США ввели новые санкции против Южной Африки из-за предполагаемой дискриминации белого населения. Эти меры отражают напряженность в двусторонних отношениях и затрагивают вопросы внутренней политики ЮАР.",
+      "title_en": "U.S. hits South Africa with new sanctions over alleged discrimination against whites",
+      "title_ru": "США ввели санкции против ЮАР из-за предполагаемой дискриминации белых",
+      "first_reported": "2026-09-16 09:50:56+00:00",
+      "id": "cd7a74e429c7"
+    },
+    {
+      "category": "politics",
+      "date": "2026-09-19 16:48:19+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.france24.com/fr/am%C3%A9riques/20260919-acc%C3%A8s-interdit-%C3%A0-la-maison-blanche-pour-cnn-ms-now-et-politico"
+      ],
+      "perspective": "Администрация Трампа ограничивает доступ критически настроенным СМИ, рассматривая это как ответ на предвзятость, в то время как медиа видят в этом атаку на свободу прессы.",
+      "perspective_type": "assumed",
+      "region": "США",
+      "sources": [
+        "france24.com"
+      ],
+      "summary": "Администрация Белого дома запретила доступ CNN, MS NOW и Politico к пресс-мероприятиям. Это решение отражает продолжающийся конфликт между администрацией Трампа и основными средствами массовой информации.",
+      "title_en": "White House bans CNN, MS NOW and Politico from press events",
+      "title_ru": "Белый дом запретил доступ CNN, MS NOW и Politico к пресс-мероприятиям",
+      "first_reported": "2026-09-19 16:48:19+00:00",
+      "id": "041661de3164"
+    },
+    {
+      "category": "statement",
+      "date": "2026-09-19 17:50:55+02:00",
+      "is_development": false,
+      "links": [
+        "https://www.lemonde.fr/en/culture/article/2026/09/19/ed-sheeran-returns-to-stage-in-first-show-after-palestinian-controversy_6757718_30.html"
+      ],
+      "perspective": "Ширан выражает гуманитарную озабоченность, в то время как его заявление может быть воспринято как политическое вмешательство в сложный конфликт.",
+      "perspective_type": "assumed",
+      "region": "Великобритания/Мир",
+      "sources": [
+        "lemonde.fr"
+      ],
+      "summary": "Британский певец Эд Ширан заявил, что ситуация в Газе 'неоправданна', во время своего первого выступления после палестинского скандала. Это одно из самых громких заявлений знаменитости по ближневосточному конфликту за последнее время.",
+      "title_en": "Ed Sheeran says Gaza situation 'unjustifiable' at first show amid Palestinian controversy",
+      "title_ru": "Эд Ширан назвал ситуацию в Газе 'неоправданной'",
+      "first_reported": "2026-09-19 17:50:55+02:00",
+      "id": "40f180dfa089"
+    },
+    {
+      "category": "culture",
+      "date": "2026-09-17 22:00:00+00:00",
+      "is_development": false,
+      "links": [
+        "https://mg.co.za/thought-leader/2026-09-17-beyond-attire-heritage-must-help-build-the-south-africa-we-want/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "summary": "В Южной Африке обсуждается роль культурного наследия в построении желаемого будущего страны. Статья подчеркивает, что наследие должно выходить за рамки традиционной одежды и способствовать социальному развитию.",
+      "title_en": "Beyond attire: Heritage must help build the South Africa we want",
+      "title_ru": "Наследие должно помочь построить желаемую Южную Африку",
+      "first_reported": "2026-09-17 22:00:00+00:00",
+      "id": "e4200d3136c1"
+    },
+    {
+      "category": "photo",
+      "date": "2026-09-19 18:00:17+00:00",
+      "is_development": false,
+      "links": [
+        "https://petapixel.com/2026/09/19/as-insta360-sells-its-10-millionth-camera-it-opens-first-flagship-store-in-the-us/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "США",
+      "sources": [
+        "petapixel.com"
+      ],
+      "summary": "Компания Insta360, продавшая 10-миллионную камеру, открыла свой первый флагманский магазин в США. Это знаменует важную веху для производителя камер и отражает рост популярности 360-градусной фотографии.",
+      "title_en": "As Insta360 Sells Its 10 Millionth Camera, It Opens First Flagship Store In the US",
+      "title_ru": "Insta360 открывает первый флагманский магазин в США после продажи 10-миллионной камеры",
+      "first_reported": "2026-09-19 18:00:17+00:00",
+      "id": "861461a64462"
+    },
+    {
+      "category": "ecology",
+      "date": "2026-09-17 22:00:00+00:00",
+      "is_development": false,
+      "links": [
+        "https://mg.co.za/thought-leader/the-diplomat/2026-09-17-sweden-sa-bring-youth-voices-into-climate-health-policy-talks/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Швеция/ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "summary": "Швеция и Южная Африка вовлекают голоса молодежи в обсуждение климатической и медицинской политики. Это сотрудничество направлено на учет мнения молодого поколения в формировании экологической и здравоохранительной повестки.",
+      "title_en": "Sweden, SA bring youth voices into climate, health policy talks",
+      "title_ru": "Швеция и ЮАР вовлекают молодежь в обсуждение климатической и медицинской политики",
+      "first_reported": "2026-09-17 22:00:00+00:00",
+      "id": "1e4afe7a6a04"
     }
   ],
   "_stats": {
-    "total_tokens": 2394471,
-    "total_cost": 291.944468
+    "total_tokens": 2413836,
+    "total_cost": 293.20102799999995
   }
 }
