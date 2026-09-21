@@ -1,158 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Образцы Рюгу показали, как древние астероиды могли накапливать азот для зарождения жизни",
-      "title_en": "Ryugu samples show how ancient asteroids could accumulate nitrogen for the origin of life",
-      "date": "2026-09-13 06:30:00+00:00",
-      "summary": "Анализ образцов с астероида Рюгу, доставленных японской миссией Хаябуса-2, показал, как древние астероиды могли накапливать азот — ключевой элемент для зарождения жизни. Это открытие проливает свет на процессы формирования органических соединений в космосе.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/astronomy/drevnie-asteroidy-azot-dlya-zarozhdeniya-zhizni"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-13 06:30:00+00:00",
-      "id": "cdffeaf258c3"
-    },
-    {
-      "title_ru": "Ученые впервые показали, как ожирение ослабляет естественную защиту молочной железы от рака",
-      "title_en": "Scientists show for the first time how obesity weakens the natural defense of the breast against cancer",
-      "date": "2026-09-13 07:34:48+00:00",
-      "summary": "Исследователи впервые продемонстрировали механизм, посредством которого ожирение ослабляет естественную защиту молочной железы от развития рака. Это открытие объясняет связь между ожирением и повышенным риском рака груди.",
-      "category": "ai",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/medicine/ozhirenie-pri-cancere"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-13 07:34:48+00:00",
-      "id": "e41257edf15e"
-    },
-    {
-      "title_ru": "В Берлине женщину атаковали разбитой стеклянной бутылкой за ношение звезды Давида",
-      "title_en": "Berlin woman attacked with broken glass bottle after wearing Star of David necklace, police say",
-      "date": "2026-09-13 09:19:31+00:00",
-      "summary": "В Берлине произошло нападение на женщину, которая носила звезду Давида — символ иудаизма. Нападавший использовал разбитую стеклянную бутылку. Полиция квалифицировала инцидент как антисемитское нападение.",
-      "category": "life",
-      "region": "Германия",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/diaspora/antisemitism/article-908445"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-13 09:19:31+00:00",
-      "id": "612f2ca476be"
-    },
-    {
-      "title_ru": "Авиация Саудовской Аравии нанесла почти 130 ударов по территории Йемена за два дня",
-      "title_en": "Saudi air force delivers almost 130 strikes on Yemeni territory in two days — Houthis",
-      "date": "2026-09-13 00:05:49+03:00",
-      "summary": "Саудовская Аравия нанесла почти 130 авиаударов по территории Йемена в течение двух дней, по данным хуситов. Йеменская армия пообещала ответить на эти удары, что свидетельствует об эскалации конфликта в регионе.",
-      "category": "conflicts",
-      "region": "Ближний Восток",
-      "sources": [
-        "tass.com"
-      ],
-      "links": [
-        "https://tass.com/world/2186835"
-      ],
-      "perspective": "Саудовская Аравия рассматривает удары как ответ на угрозы со стороны хуситов, в то время как хуситы считают их агрессией",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-13 00:05:49+03:00",
-      "id": "5c7b7fde1d78"
-    },
-    {
-      "title_ru": "Российская армия взяла харьковский Черняков",
-      "title_en": "Russian army took Kharkiv's Chernyakov",
-      "date": "2026-09-13 10:55:41+03:00",
-      "summary": "Российские войска взяли под контроль населённый пункт Черняков в Харьковской области. Минобороны РФ подтвердило этот успех, что свидетельствует о продвижении российских сил на данном направлении.",
-      "category": "svo",
-      "region": "Украина",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8953607"
-      ],
-      "perspective": "Россия рассматривает это как военный успех, Украина — как временную потерю территории",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-13 10:55:41+03:00",
-      "id": "8aeb478f4409"
-    },
-    {
-      "title_ru": "В Харьковской области остаются заблокированными до 10 батальонов ВСУ",
-      "title_en": "Up to 10 AFU battalions remain blocked in Kharkiv region",
-      "date": "2026-09-13 11:21:30+03:00",
-      "summary": "В Харьковской области продолжают оставаться в окружении до 10 батальонов Вооружённых сил Украины. Российские военные сообщают о значительных потерях ВСУ в этом районе за последние сутки.",
-      "category": "svo",
-      "region": "Украина",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/armiya-i-opk/28107805"
-      ],
-      "perspective": "Россия заявляет о успешном окружении украинских сил, Украина может отрицать масштабы потерь",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-13 11:21:30+03:00",
-      "id": "ab729b4b0105"
-    },
-    {
-      "title_ru": "ВСУ за сутки потеряли свыше 420 военных в зоне действия \"Центра\"",
-      "title_en": "AFU lost over 420 servicemen in the \"Center\" zone in a day",
-      "date": "2026-09-13 10:48:21+03:00",
-      "summary": "По данным российского военного командования, украинские вооружённые силы за сутки потеряли более 420 военнослужащих в зоне ответственности группировки \"Центр\". Это свидетельствует об интенсивности боевых действий на данном направлении.",
-      "category": "svo",
-      "region": "Украина",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20260913/tsentr-2117402549.html"
-      ],
-      "perspective": "Россия сообщает о значительных потерях противника, Украина может оспаривать эти данные",
-      "perspective_type": "assumed",
-      "is_development": true,
-      "first_reported": "2026-09-13 10:48:21+03:00",
-      "id": "88589344fbcd"
-    },
-    {
-      "title_ru": "Орбан заявил, что Фидес готовится к возвращению",
-      "title_en": "Orbán says Fidesz is gearing up for its comeback",
-      "date": "2026-09-13 03:52:17+00:00",
-      "summary": "Премьер-министр Венгрии Виктор Орбан заявил, что его партия Фидес готовится к политическому возвращению после периода снижения поддержки. Это свидетельствует о подготовке к будущим выборам и укреплении позиций партии.",
-      "category": "politics",
-      "region": "Венгрия",
-      "sources": [
-        "budapesttimes.hu"
-      ],
-      "links": [
-        "https://www.budapesttimes.hu/hungary/ready-player-one-orban-says-fidesz-is-gearing-up-for-its-comeback/"
-      ],
-      "perspective": "Сторонники Орбана видят в этом возрождение консервативных сил, оппоненты — угрозу демократическим институтам",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-13 03:52:17+00:00",
-      "id": "c5d3bbdf4881"
-    },
-    {
       "category": "tech",
       "date": "2026-09-14 09:37:51+09:00",
       "is_development": false,
@@ -2336,10 +2184,372 @@
       "title_ru": "Швеция и ЮАР вовлекают молодежь в обсуждение климатической и медицинской политики",
       "first_reported": "2026-09-17 22:00:00+00:00",
       "id": "1e4afe7a6a04"
+    },
+    {
+      "category": "tech",
+      "date": "2026-09-21 09:15:26.445449+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.taipeitimes.com/News/editorials/archives/2026/09/21/2003864605"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Мир",
+      "sources": [
+        "www.taipeitimes.com"
+      ],
+      "summary": "Аналитики прогнозируют возможный газовый кризис 2030 года, который может серьёзно повлиять на мировую энергетику. Сценарии развития кризиса обсуждаются в контексте геополитической напряжённости и зависимости от ключевых поставщиков.",
+      "title_en": "How the great gas crisis of 2030 could play out",
+      "title_ru": "Как может развернуться крупный газовый кризис 2030 года",
+      "first_reported": "2026-09-21 09:15:26.445449+00:00",
+      "id": "73d748427001"
+    },
+    {
+      "category": "tech",
+      "date": "2026-09-21 11:49:48+09:00",
+      "is_development": false,
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260921005000320"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "summary": "Корейская электроэнергетическая корпорация (KEPCO) сохранит заморозку тарифов на электроэнергию в четвёртом квартале 2026 года, несмотря на рост затрат. Это решение направлено на сдерживание инфляции и поддержку потребителей.",
+      "title_en": "KEPCO to keep electricity rates frozen for Q4 despite higher costs",
+      "title_ru": "KEPCO сохранит заморозку тарифов на электроэнергию в 4-м квартале, несмотря на рост затрат",
+      "first_reported": "2026-09-21 11:49:48+09:00",
+      "id": "9638b09f1560"
+    },
+    {
+      "category": "ai",
+      "date": "2026-09-21 08:22:16+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.gizmochina.com/2026/09/21/samsung-confirms-one-ui-9-rollout-dates-for-some-older-galaxy-devices/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Южная Корея",
+      "sources": [
+        "www.gizmochina.com"
+      ],
+      "summary": "Samsung подтвердила даты выхода обновления One UI 9 для некоторых старых моделей Galaxy. Обновление принесёт новые функции и улучшения пользовательского интерфейса на устройства предыдущих поколений.",
+      "title_en": "Samsung confirms One UI 9 rollout dates for some older Galaxy devices",
+      "title_ru": "Samsung подтвердила даты выхода One UI 9 для некоторых старых устройств Galaxy",
+      "first_reported": "2026-09-21 08:22:16+00:00",
+      "id": "f1e170ba3d7c"
+    },
+    {
+      "category": "life",
+      "date": "2026-09-21 09:15:21.822074+00:00",
+      "is_development": false,
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/20/776704/Israeli-siege-forces-Gaza-hospitals-to-cut-services"
+      ],
+      "perspective": "Израиль утверждает, что ограничения необходимы для безопасности, в то время как палестинцы и международные организации говорят о гуманитарном кризисе",
+      "perspective_type": "assumed",
+      "region": "Палестина",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "summary": "Больницы в секторе Газа вынуждены сокращать медицинские услуги из-за израильской блокады. Ситуация приводит к ограничению доступа населения к необходимой медицинской помощи.",
+      "title_en": "Israeli siege forces Gaza hospitals to cut services",
+      "title_ru": "Израильская блокада вынуждает больницы Газы сокращать услуги",
+      "first_reported": "2026-09-21 09:15:21.822074+00:00",
+      "id": "5cd15d8aa50f"
+    },
+    {
+      "category": "life",
+      "date": "2026-09-21 04:00:00+00:00",
+      "is_development": false,
+      "links": [
+        "https://mg.co.za/thought-leader/2026-09-21-when-fear-shrinks-women-s-world/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "summary": "В ЮАР растёт страх среди женщин из-за серии убийств, что ограничивает их повседневную жизнь и свободу передвижения. Общественные активисты призывают к более эффективным мерам защиты женщин от насилия.",
+      "title_en": "When fear shrinks women's world",
+      "title_ru": "Когда страх сужает мир женщин",
+      "first_reported": "2026-09-21 04:00:00+00:00",
+      "id": "43f334043918"
+    },
+    {
+      "category": "life",
+      "date": "2026-09-20 14:28:51+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.jpost.com/israel-news/article-909184"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Израиль/Палестина",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "summary": "Согласно опросу, только 17% израильтян и 21% палестинцев верят в возможность мирного сосуществования. Показатели отражают глубокий кризис доверия между сторонами конфликта.",
+      "title_en": "Only 17% of Israelis, 21% of Palestinians believe peaceful coexistence is possible, poll finds",
+      "title_ru": "Только 17% израильтян и 21% палестинцев верят в возможность мирного сосуществования, показал опрос",
+      "first_reported": "2026-09-20 14:28:51+00:00",
+      "id": "dbb0cbf11671"
+    },
+    {
+      "category": "conflicts",
+      "date": "2026-09-21 09:15:21.821440+00:00",
+      "is_development": false,
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/20/776655/Iran-Qalibaf-Hormuz-Strait-reopening-US-Iran-terms"
+      ],
+      "perspective": "Иран рассматривает это как законное требование суверенного государства, США и их союзники видят в этом шантаж и нарушение свободы судоходства",
+      "perspective_type": "assumed",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "summary": "Спикер иранского парламента Мохаммад Багер Галибаф заявил, что Ормузский пролив не будет открыт для судоходства до тех пор, пока США не выполнят условия Ирана. Это усиливает напряжённость вокруг ключевого морского пути.",
+      "title_en": "Qalibaf: No reopening of Hormuz until US meets Iran's conditions",
+      "title_ru": "Галибаф: Ормузский пролив не будет открыт, пока США не выполнят условия Ирана",
+      "first_reported": "2026-09-21 09:15:21.821440+00:00",
+      "id": "4d624cfe7e8d",
+      "last_reported": "2026-09-21 09:15:21.821440+00:00"
+    },
+    {
+      "category": "conflicts",
+      "date": "2026-09-21 09:15:21.821357+00:00",
+      "is_development": false,
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/21/776712/Iran-United-States-drone-shootdown-Hormuz"
+      ],
+      "perspective": "Иран утверждает, что действовал в рамках самообороны и защиты своего воздушного пространства, США рассматривают это как провокацию и нарушение международного права",
+      "perspective_type": "assumed",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "summary": "Корпус стражей исламской революции Ирана сбил ещё один американский беспилотник MQ-1 над Ормузским проливом. Это очередной инцидент в серии столкновений между Ираном и США в регионе.",
+      "title_en": "IRGC air defenses destroy another US MQ-1 drone over Strait of Hormuz",
+      "title_ru": "ПВО КСИР уничтожили ещё один американский беспилотник MQ-1 над Ормузским проливом",
+      "first_reported": "2026-09-21 09:15:21.821357+00:00",
+      "id": "c808b45019d2"
+    },
+    {
+      "category": "svo",
+      "date": "2026-09-20 10:11:23+03:00",
+      "is_development": false,
+      "links": [
+        "https://www.kommersant.ru/doc/8970728"
+      ],
+      "perspective": "Россия обвиняет Украину в террористической атаке на гражданские объекты, Украина не комментирует конкретные операции, но заявляет о праве на самооборону",
+      "perspective_type": "assumed",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "summary": "При атаке беспилотников на Подмосковье погибли два человека и пострадали 20. Губернатор Московской области Андрей Воробьёв подтвердил информацию о жертвах и повреждениях.",
+      "title_en": "Two killed, 20 injured in drone attack on Moscow region",
+      "title_ru": "При атаке БПЛА в Подмосковье погибли два человека и пострадали 20",
+      "first_reported": "2026-09-20 10:11:23+03:00",
+      "id": "7be36ca4a1b6"
+    },
+    {
+      "category": "svo",
+      "date": "2026-09-21 10:33:00+03:00",
+      "is_development": false,
+      "links": [
+        "https://www.ukrinform.ua/rubric-polytics/4166192-zelenskij-na-genasamblei-oon-govoritime-pro-te-ak-spilnimi-zusillami-prijti-do-miru.html"
+      ],
+      "perspective": "Украина позиционирует это как мирную инициативу, Россия скептически относится к предложениям Киева, считая их нереалистичными",
+      "perspective_type": "assumed",
+      "region": "Украина",
+      "sources": [
+        "www.ukrinform.ua"
+      ],
+      "summary": "Президент Украины Владимир Зеленский заявил, что на Генеральной ассамблее ООН будет говорить о том, как совместными усилиями прийти к миру. Это часть дипломатических усилий Киева по урегулированию конфликта.",
+      "title_en": "Zelensky at UN General Assembly to speak about how to achieve peace through joint efforts",
+      "title_ru": "Зеленский на Генассамблее ООН будет говорить о том, как совместными усилиями прийти к миру",
+      "first_reported": "2026-09-21 10:33:00+03:00",
+      "id": "f9fa98d27f11"
+    },
+    {
+      "category": "economy",
+      "date": "2026-09-21 07:33:42+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.riotimesonline.com/oil-markets-latam-monday-september-21-2026/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Мир",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "summary": "Цены на нефть снижаются, но остаются выше 100 долларов за баррель из-за кризиса в Ормузском проливе. Напряжённость в ключевом транспортном коридоре продолжает влиять на мировые энергетические рынки.",
+      "title_en": "Oil eases, Hormuz crisis keeps crude above US$100",
+      "title_ru": "Нефть дешевеет, но кризис в Ормузе удерживает цены выше 100 долларов",
+      "first_reported": "2026-09-21 07:33:42+00:00",
+      "id": "df8ff841d2dc"
+    },
+    {
+      "category": "economy",
+      "date": "2026-09-21 07:34:01+00:00",
+      "is_development": false,
+      "links": [
+        "https://www.riotimesonline.com/grains-soy-corn-latam-monday-september-21-2026/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Мир",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "summary": "Цены на сою, кукурузу и пшеницу снизились после того, как Министерство сельского хозяйства США сократило прогноз урожая кукурузы. Это отражает изменения на мировых зерновых рынках.",
+      "title_en": "Soy, Corn and Wheat Trackers Fall After USDA Trims Corn Yield",
+      "title_ru": "Цены на сою, кукурузу и пшеницу упали после сокращения USDA прогноза урожая кукурузы",
+      "first_reported": "2026-09-21 07:34:01+00:00",
+      "id": "6ecb80b69824"
+    },
+    {
+      "category": "politics",
+      "date": "2026-09-21 12:03:00+03:00",
+      "is_development": true,
+      "links": [
+        "https://www.rbc.ru/rbcfreenews/6aa418ead70e7aaa48385871"
+      ],
+      "perspective": "Правящая партия рассматривает это как мандат доверия, оппозиция выражает сомнения в честности выборов",
+      "perspective_type": "assumed",
+      "region": "Россия",
+      "sources": [
+        "rssexport.rbc.ru"
+      ],
+      "summary": "Партия \"Единая Россия\" выходит на конституционное большинство в Государственной думе по результатам выборов. Это позволяет партии принимать законы без поддержки других фракций.",
+      "title_en": "United Russia gains constitutional majority in State Duma",
+      "title_ru": "«Единая Россия» выходит на конституционное большинство в Госдуме",
+      "first_reported": "2026-09-21 12:03:00+03:00",
+      "id": "d0520e1dbe32"
+    },
+    {
+      "category": "politics",
+      "date": "2026-09-21 11:49:11+03:00",
+      "is_development": true,
+      "links": [
+        "https://tass.ru/politika/28134781"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Россия",
+      "sources": [
+        "tass.ru"
+      ],
+      "summary": "Партия \"Единая Россия\" получает рекордное число мест в Государственной думе по итогам парламентских выборов. Результаты подтверждают доминирование правящей партии в политической системе страны.",
+      "title_en": "United Russia gets record number of seats in State Duma",
+      "title_ru": "\"Единая Россия\" получает рекордное число мест в Госдуме",
+      "first_reported": "2026-09-21 11:49:11+03:00",
+      "id": "ec79a9ea6d47"
+    },
+    {
+      "category": "politics",
+      "date": "2026-09-21 12:01:30+03:00",
+      "is_development": false,
+      "links": [
+        "https://ria.ru/20260921/vybory-2119219998.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "summary": "Партия \"Единая Россия\" побеждает на выборах в законодательное собрание Кировской области. Это часть общей тенденции успеха правящей партии на региональных выборах.",
+      "title_en": "United Russia wins elections to legislative assembly of Kirov region",
+      "title_ru": "ЕР побеждает на выборах в заксобрание Кировской области",
+      "first_reported": "2026-09-21 12:01:30+03:00",
+      "id": "52ab1e911d1c"
+    },
+    {
+      "category": "politics",
+      "date": "2026-09-20 17:57:55+03:00",
+      "is_development": false,
+      "links": [
+        "https://www.kommersant.ru/doc/8970936"
+      ],
+      "perspective": "Сторонники Трампа видят в этом шаг к дипломатическому прорыву, критики считают это рисковым жестом, который может легитимизировать иранский режим",
+      "perspective_type": "assumed",
+      "region": "США",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "summary": "Бывший президент США Дональд Трамп допустил возможность встречи с президентом Ирана на Генеральной ассамблее ООН. Это может стать важным дипломатическим шагом в условиях напряжённости между странами.",
+      "title_en": "Trump considers meeting with Iranian president at UN General Assembly",
+      "title_ru": "Трамп допустил встречу с президентом Ирана на Генассамблее ООН",
+      "first_reported": "2026-09-20 17:57:55+03:00",
+      "id": "ecf8bcc17403"
+    },
+    {
+      "category": "culture",
+      "date": "2026-09-21 04:00:00+00:00",
+      "is_development": false,
+      "links": [
+        "https://mg.co.za/thought-leader/2026-09-21-nine-dead-women-later-and-we-re-still-managing-symptoms/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "summary": "В ЮАР публикуются материалы, анализирующие социальные последствия серии убийств женщин. Культурные и общественные дискуссии фокусируются на проблеме гендерного насилия и недостаточности мер защиты.",
+      "title_en": "Nine dead women later and we're still managing symptoms",
+      "title_ru": "После девяти убитых женщин мы всё ещё боремся с симптомами",
+      "first_reported": "2026-09-21 04:00:00+00:00",
+      "id": "0935acd5fc08"
+    },
+    {
+      "category": "photo",
+      "date": "2026-09-20 11:00:51+00:00",
+      "is_development": false,
+      "links": [
+        "https://petapixel.com/2026/09/20/photo-exhibition-imagines-what-emmett-tills-life-could-have-been/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "США",
+      "sources": [
+        "petapixel.com"
+      ],
+      "summary": "Фотовыставка представляет альтернативную реальность, в которой могла бы сложиться жизнь Эммета Тилла, афроамериканского подростка, убитого в 1955 году. Проект исследует историческую память и расовую несправедливость через фотографию.",
+      "title_en": "Photo Exhibition Imagines What Emmett Till's Life Could Have Been",
+      "title_ru": "Фотовыставка представляет, какой могла бы быть жизнь Эммета Тилла",
+      "first_reported": "2026-09-20 11:00:51+00:00",
+      "id": "444fec14edeb"
+    },
+    {
+      "category": "ecology",
+      "date": "2026-09-18 06:49:37+00:00",
+      "is_development": false,
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-09-18-at-least-124-environmental-defenders-killed-globally-in-2025/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "region": "Мир",
+      "sources": [
+        "mg.co.za"
+      ],
+      "summary": "В 2025 году по всему миру были убиты как минимум 124 защитника окружающей среды. Большинство убийств связано с конфликтами вокруг добычи полезных ископаемых, лесозаготовок и агробизнеса.",
+      "title_en": "At least 124 environmental defenders killed globally in 2025",
+      "title_ru": "Как минимум 124 защитника окружающей среды убиты по всему миру в 2025 году",
+      "first_reported": "2026-09-18 06:49:37+00:00",
+      "id": "0b5612284497"
     }
   ],
   "_stats": {
-    "total_tokens": 2413836,
-    "total_cost": 293.20102799999995
+    "total_tokens": 2432209,
+    "total_cost": 294.39508799999993
   }
 }
