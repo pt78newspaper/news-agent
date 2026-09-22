@@ -2,348 +2,6 @@
   "_events": [
     {
       "category": "tech",
-      "date": "2026-09-14 09:37:51+09:00",
-      "is_development": false,
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260914001700320"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "summary": "Две крупнейшие южнокорейские компании-производители чипов, Samsung Electronics и SK hynix, отказались от предложения Korea Electric Power Corp (KEPCO) предоплатить счета за электроэнергию на пять лет вперед. Компании сочли предложение нецелесообразным с финансовой точки зрения.",
-      "title_en": "S. Korea's 2 major chipmakers reject KEPCO's proposal to prepay 5 yrs of electricity bills",
-      "title_ru": "Две крупнейшие южнокорейские компании-производители чипов отказались от предложения предоплатить счета за электроэнергию на пять лет вперед",
-      "first_reported": "2026-09-14 09:37:51+09:00",
-      "id": "7ae5bc08ab89"
-    },
-    {
-      "category": "ai",
-      "date": "2026-09-14 10:46:33+03:00",
-      "is_development": false,
-      "links": [
-        "https://ria.ru/20260914/chernyshenko-2117533571.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "summary": "Вице-премьер России Дмитрий Чернышенко заявил, что пользуется нейросетями для работы. Он отметил, что искусственный интеллект помогает в обработке информации и принятии решений.",
-      "title_en": "Chernyshenko says he uses neural networks",
-      "title_ru": "Чернышенко рассказал, что пользуется нейросетями",
-      "first_reported": "2026-09-14 10:46:33+03:00",
-      "id": "688a721ec33a"
-    },
-    {
-      "category": "life",
-      "date": "2026-09-14 09:07:41+00:00",
-      "is_development": false,
-      "links": [
-        "https://www.nytimes.com/2026/09/14/world/asia/indonesia-ferry-rescue-borneo.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Индонезия",
-      "sources": [
-        "rss.nytimes.com"
-      ],
-      "summary": "Более 120 человек числятся пропавшими без вести после того, как паром затонул у берегов индонезийского острова Борнео. Спасательные операции продолжаются в сложных погодных условиях.",
-      "title_en": "More Than 120 Are Unaccounted For After Ferry Sinks in Indonesia",
-      "title_ru": "Более 120 человек числятся пропавшими без вести после крушения парома в Индонезии",
-      "first_reported": "2026-09-14 09:07:41+00:00",
-      "id": "06fa830a4a08"
-    },
-    {
-      "category": "life",
-      "date": "2026-09-14 07:46:57+00:00",
-      "is_development": false,
-      "links": [
-        "https://www.riotimesonline.com/sao-paulo-building-collapse-september-2026/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Бразилия",
-      "sources": [
-        "riotimesonline.com"
-      ],
-      "summary": "Шесть человек погибли в результате обрушения здания в районе Пенья в Сан-Паулу. Спасатели продолжают поисково-спасательные работы на месте происшествия.",
-      "title_en": "Brazil: Sao Paulo Building Collapse Kills Six in Penha",
-      "title_ru": "Обрушение здания в Сан-Паулу унесло жизни шести человек",
-      "first_reported": "2026-09-14 07:46:57+00:00",
-      "id": "5da13567220f"
-    },
-    {
-      "category": "conflicts",
-      "date": "2026-09-14 09:13:20.039875+00:00",
-      "is_development": false,
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/12/776112/Algeria-cuts-diplomatic-ties-wirh-UAE"
-      ],
-      "perspective": "Алжир разрывает дипломатические отношения с ОАЭ на фоне эскалации региональной напряженности. ОАЭ, вероятно, рассматривает это как необоснованный шаг, усугубляющий раскол в арабском мире.",
-      "perspective_type": "assumed",
-      "region": "Алжир",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "summary": "Алжир разорвал дипломатические отношения с Объединенными Арабскими Эмиратами. Решение принято на фоне эскалации региональной напряженности на Ближнем Востоке.",
-      "title_en": "Algeria cuts diplomatic ties with UAE amid escalating regional tensions",
-      "title_ru": "Алжир разрывает дипломатические отношения с ОАЭ на фоне эскалации региональной напряженности",
-      "first_reported": "2026-09-14 09:13:20.039875+00:00",
-      "id": "63e11ae15ddf"
-    },
-    {
-      "category": "conflicts",
-      "date": "2026-09-14 09:13:20.039750+00:00",
-      "is_development": false,
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/12/776181/Yemen-targets-Saudi-military-base-large-scale-missiles-drones"
-      ],
-      "perspective": "Йеменские силы проводят масштабные ракетно-дроновые удары по саудовской военной базе в ответ на агрессию. Саудовская Аравия рассматривает эти действия как террористические атаки, угрожающие региональной безопасности.",
-      "perspective_type": "assumed",
-      "region": "Йемен",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "summary": "Йеменские силы провели масштабные ракетно-дроновые удары по саудовской военной базе. Атака представлена как ответная мера на агрессию Саудовской Аравии.",
-      "title_en": "Yemen stages large-scale missile-and-drone strikes against Saudi base in retaliation for aggression",
-      "title_ru": "Йемен наносит масштабные ракетно-дроновые удары по саудовской базе в ответ на агрессию",
-      "first_reported": "2026-09-14 09:13:20.039750+00:00",
-      "id": "95368a9330e3"
-    },
-    {
-      "category": "conflicts",
-      "date": "2026-09-14 09:13:20.039203+00:00",
-      "is_development": false,
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/14/776252/Saudi-Arabia-pipeline-extensive-damage-satellite-images-Yemen"
-      ],
-      "perspective": "Спутниковые снимки показывают значительные повреждения ключевого саудовского нефтепровода, что вызывает опасения по поводу поставок нефти. Йеменские силы заявляют об ответственности, в то время как Саудовская Аравия пытается минимизировать ущерб и обеспечить безопасность инфраструктуры.",
-      "perspective_type": "assumed",
-      "region": "Саудовская Аравия",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "summary": "Спутниковые снимки показывают значительные повреждения ключевого нефтепровода Саудовской Аравии. Ущерб нанесен в результате атак, что вызывает опасения по поводу поставок нефти.",
-      "title_en": "Satellite images reveal extensive damage to key Saudi oil pipeline as supply fears mount",
-      "title_ru": "Спутниковые снимки показывают значительные повреждения ключевого нефтепровода Саудовской Аравии",
-      "first_reported": "2026-09-14 09:13:20.039203+00:00",
-      "id": "168e0ac5e74c"
-    },
-    {
-      "category": "svo",
-      "date": "2026-09-14 11:22:11+03:00",
-      "is_development": false,
-      "links": [
-        "https://ria.ru/20260914/dnr-2117542008.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "summary": "Силы противовоздушной обороны сбили 20 беспилотных летательных аппаратов над территорией Донецкой Народной Республики за последние сутки. Атаки дронов продолжаются на линии фронта.",
-      "title_en": "Air defense forces shoot down 20 drones over DPR in a day",
-      "title_ru": "Силы ПВО сбили 20 дронов над ДНР за сутки",
-      "first_reported": "2026-09-14 11:22:11+03:00",
-      "id": "e740edcde6d7"
-    },
-    {
-      "category": "svo",
-      "date": "2026-09-14 10:05:01+03:00",
-      "is_development": false,
-      "links": [
-        "https://ria.ru/20260914/drony-2117516111.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "summary": "В Курской области за сутки сбили 208 украинских беспилотных летательных аппаратов. Регион продолжает подвергаться интенсивным атакам дронов.",
-      "title_en": "208 Ukrainian drones shot down in Kursk region in a day",
-      "title_ru": "В Курской области за сутки сбили 208 украинских дронов",
-      "first_reported": "2026-09-14 10:05:01+03:00",
-      "id": "9c04bcbbf07a"
-    },
-    {
-      "category": "svo",
-      "date": "2026-09-14 08:29:38+03:00",
-      "is_development": false,
-      "links": [
-        "https://www.kommersant.ru/doc/8953938"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "summary": "Силы противовоздушной обороны за ночь сбили над территорией России 399 беспилотных летательных аппаратов. Это свидетельствует о масштабности атак с использованием дронов.",
-      "title_en": "Air defense forces shoot down 399 UAVs over Russia overnight",
-      "title_ru": "Силы ПВО за ночь сбили над Россией 399 БПЛА",
-      "first_reported": "2026-09-14 08:29:38+03:00",
-      "id": "594020b0f1b5"
-    },
-    {
-      "category": "economy",
-      "date": "2026-09-14 16:04:06+07:00",
-      "is_development": false,
-      "links": [
-        "https://en.antaranews.com/news/431225/indonesia-moves-to-secure-fuel-supply-amid-global-tensions"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Индонезия",
-      "sources": [
-        "en.antaranews.com"
-      ],
-      "summary": "Индонезия принимает меры для обеспечения поставок топлива на фоне глобальной напряженности. Правительство работает над диверсификацией источников и увеличением стратегических запасов.",
-      "title_en": "Indonesia moves to secure fuel supply amid global tensions",
-      "title_ru": "Индонезия принимает меры для обеспечения поставок топлива на фоне глобальной напряженности",
-      "first_reported": "2026-09-14 16:04:06+07:00",
-      "id": "2d335a48a466"
-    },
-    {
-      "category": "economy",
-      "date": "2026-09-14 10:11:53+03:00",
-      "is_development": false,
-      "links": [
-        "https://ria.ru/20260914/oreshkin-2117519294.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "summary": "Помощник президента России Максим Орешкин заявил, что зарплаты в стране продолжат расти. Он отметил позитивные тенденции на рынке труда и экономическом развитии.",
-      "title_en": "Oreshkin says salaries in Russia will continue to grow",
-      "title_ru": "Орешкин заявил, что зарплаты в России продолжат расти",
-      "first_reported": "2026-09-14 10:11:53+03:00",
-      "id": "e4ba9dad2b79"
-    },
-    {
-      "category": "politics",
-      "date": "2026-09-14 03:30:58+00:00",
-      "is_development": false,
-      "links": [
-        "https://www.budapesttimes.hu/hungary/the-gloves-are-off-orban-throws-down-the-gauntlet-against-neo-communists/"
-      ],
-      "perspective": "Орбан бросает вызов «неокоммунистам», позиционируя свою партию как защитника национальных интересов Венгрии. Его оппоненты рассматривают это как популистскую риторику, направленную на консолидацию власти.",
-      "perspective_type": "assumed",
-      "region": "Венгрия",
-      "sources": [
-        "budapesttimes.hu"
-      ],
-      "summary": "Премьер-министр Венгрии Виктор Орбан бросил вызов «неокоммунистам», заявив, что его партия Фидес готова к политической борьбе. Он позиционирует себя как защитника национальных интересов страны.",
-      "title_en": "The gloves are off: Orbán throws down the gauntlet against 'neo-communists'",
-      "title_ru": "Орбан бросает вызов «неокоммунистам»",
-      "first_reported": "2026-09-14 03:30:58+00:00",
-      "id": "410b8c304c8a"
-    },
-    {
-      "category": "politics",
-      "date": "2026-09-14 07:38:40+00:00",
-      "is_development": false,
-      "links": [
-        "https://www.riotimesonline.com/ecuador-military-noboa-dismisses-air-force-commander-2026/"
-      ],
-      "perspective": "Президент Эквадора Нобоа увольняет командующего ВВС после письма с базы, что может рассматриваться как укрепление гражданского контроля над вооруженными силами. Военные могут воспринимать это как политическое вмешательство в их внутренние дела.",
-      "perspective_type": "assumed",
-      "region": "Эквадор",
-      "sources": [
-        "riotimesonline.com"
-      ],
-      "summary": "Президент Эквадора Даниэль Нобоа отстранил от должности командующего ВВС страны. Решение принято после получения письма с военной базы, содержание которого не раскрывается.",
-      "title_en": "Ecuador Military Shake-up: Noboa Removes Air Force Chief after Base Letter",
-      "title_ru": "Кадровые перестановки в вооруженных силах Эквадора: Нобоа увольняет командующего ВВС",
-      "first_reported": "2026-09-14 07:38:40+00:00",
-      "id": "5966d8c8328a"
-    },
-    {
-      "category": "politics",
-      "date": "2026-09-14 10:15:54+00:00",
-      "is_development": false,
-      "links": [
-        "https://www.jpost.com/international/article-908491"
-      ],
-      "perspective": "Норвегия готовится запретить торговлю с израильскими поселениями на Западном берегу, что рассматривается как поддержка палестинской позиции. Израиль считает такие меры дискриминационными и подрывающими мирный процесс.",
-      "perspective_type": "assumed",
-      "region": "Норвегия",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "summary": "Норвегия готовится принять закон, запрещающий торговлю с израильскими поселениями на Западном берегу. Нарушителям закона грозит до трех лет тюремного заключения.",
-      "title_en": "Up to three years in prison: Norway prepares to pass bill banning trade with West Bank settlements",
-      "title_ru": "Норвегия готовится запретить торговлю с израильскими поселениями на Западном берегу",
-      "first_reported": "2026-09-14 10:15:54+00:00",
-      "id": "78fd18e6c105"
-    },
-    {
-      "category": "statement",
-      "date": "2026-09-14 07:57:09+03:00",
-      "is_development": false,
-      "links": [
-        "https://www.kommersant.ru/doc/8953915"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "США",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "summary": "Президент США Дональд Трамп заявил, что США могут передать Украине лицензии на менее продвинутую версию системы ПВО Patriot. Это заявление сделано в контексте обсуждения военной поддержки Украины.",
-      "title_en": "Trump: US may transfer licenses for less advanced version of Patriot to Ukraine",
-      "title_ru": "Трамп: США могут передать Украине лицензии на менее продвинутую версию Patriot",
-      "first_reported": "2026-09-14 07:57:09+03:00",
-      "id": "942d8a8cf750"
-    },
-    {
-      "category": "culture",
-      "date": "2026-09-14 16:54:55+09:00",
-      "is_development": false,
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260914009000315"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "summary": "Южнокорейский пианист Лим Юнчан снова номинирован на премию Gramophone Classical Music Awards. Это признание его выдающихся достижений в области классической музыки.",
-      "title_en": "Lim Yunchan nominated again for Gramophone Classical Music Awards",
-      "title_ru": "Лим Юнчан снова номинирован на премию Gramophone Classical Music Awards",
-      "first_reported": "2026-09-14 16:54:55+09:00",
-      "id": "51de1150b1e1"
-    },
-    {
-      "category": "ecology",
-      "date": "2026-09-14 04:00:00+00:00",
-      "is_development": false,
-      "links": [
-        "https://mg.co.za/news/health/2026-09-11-can-flood-survivors-stories-make-climate-science-better/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "summary": "Исследователи изучают, могут ли истории выживших после наводнений улучшить климатическую науку. Личный опыт людей, переживших стихийные бедствия, может предоставить ценную информацию для понимания последствий изменения климата.",
-      "title_en": "Can flood survivors' stories make climate science better?",
-      "title_ru": "Могут ли истории выживших после наводнений улучшить климатическую науку?",
-      "first_reported": "2026-09-14 04:00:00+00:00",
-      "id": "0a6aa1b1718d"
-    },
-    {
-      "category": "tech",
       "date": "2026-09-15 11:04:00+00:00",
       "is_development": false,
       "links": [
@@ -799,25 +457,6 @@
       "id": "69cfb29cee86"
     },
     {
-      "title_ru": "Индекс Мосбиржи вырос на 4% на новостях об энергоперемирии России и Украины",
-      "title_en": "Moscow Exchange index rises 4% on news of Russia-Ukraine energy truce",
-      "date": "2026-09-14 18:34:39+03:00",
-      "summary": "Индекс Московской биржи продемонстрировал рост на 4% после сообщений о возможном энергетическом перемирии между Россией и Украиной. Это отражает реакцию финансовых рынков на потенциальное снижение напряженности в регионе.",
-      "category": "economy",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8954626"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-14 18:34:39+03:00",
-      "id": "63bd702c815e"
-    },
-    {
       "title_ru": "Палата представителей США отклонила инициативу об импичменте Трампа",
       "title_en": "US House of Representatives rejects Trump impeachment initiative",
       "date": "2026-09-16 02:47:57+03:00",
@@ -1177,25 +816,6 @@
       "is_development": false,
       "first_reported": "2026-09-17 11:45:02+03:00",
       "id": "bf73eaf63b3a"
-    },
-    {
-      "title_ru": "Верховный суд США отклонил ограничения Трампа на почтовое голосование",
-      "title_en": "U.S. Supreme Court rejects Trump's mail ballot restrictions ahead of midterm elections",
-      "date": "2026-09-14 23:55:50+00:00",
-      "summary": "Верховный суд США отклонил предложенные Дональдом Трампом ограничения на почтовое голосование перед промежуточными выборами. Это важное решение в преддверии выборов.",
-      "category": "politics",
-      "region": "США",
-      "sources": [
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/world/us-politics/article-supreme-court-trump-mail-vote-midterm-election/"
-      ],
-      "perspective": "Суд защищает доступность голосования, сторонники Трампа могут считать это политически мотивированным решением",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-14 23:55:50+00:00",
-      "id": "d5fa135a8c46"
     },
     {
       "title_ru": "Иранская ядерная промышленность переживет войну и удары, так как знания нельзя уничтожить силой",
@@ -2545,11 +2165,259 @@
       "title_en": "At least 124 environmental defenders killed globally in 2025",
       "title_ru": "Как минимум 124 защитника окружающей среды убиты по всему миру в 2025 году",
       "first_reported": "2026-09-18 06:49:37+00:00",
-      "id": "0b5612284497"
+      "id": "0b5612284497",
+      "last_reported": "2026-09-18 06:49:37+00:00"
+    },
+    {
+      "title_ru": "Океаны внутри ледяных лун смогли «пережить» гигантские столкновения",
+      "title_en": "Oceans inside icy moons could survive giant collisions",
+      "date": "2026-09-22 06:15:00+00:00",
+      "summary": "Новое научное исследование показывает, что подповерхностные океаны внутри ледяных лун планет-гигантов могли сохраниться даже после катастрофических столкновений с другими небесными телами. Это открытие имеет важное значение для поиска внеземной жизни в Солнечной системе.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/astronomy/vnutri-ledyanyh-lun-perezhit-stolknoveniya"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-22 06:15:00+00:00",
+      "id": "72a0a773a423"
+    },
+    {
+      "title_ru": "Баканов рассказал о росте эффективности работы космонавтов благодаря GigaChat",
+      "title_en": "Bakanov spoke about the increase in efficiency of cosmonauts' work thanks to GigaChat",
+      "date": "2026-09-22 10:55:37+03:00",
+      "summary": "Глава Роскосмоса Юрий Баканов сообщил, что использование нейросети GigaChat на МКС позволило значительно повысить эффективность работы космонавтов. Искусственный интеллект помогает в решении технических задач и анализе данных.",
+      "category": "ai",
+      "region": "Россия",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/kosmos/28138269"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-22 10:55:37+03:00",
+      "id": "9b86e95959e5"
+    },
+    {
+      "title_ru": "Исследование показало, что человеческий мозг развивается как два разных органа",
+      "title_en": "Research shows that the human brain develops as two different organs",
+      "date": "2026-09-22 05:31:25+00:00",
+      "summary": "Новое научное исследование выявило, что человеческий мозг развивается как два отдельных органа с разными темпами созревания. Это открытие может изменить подход к лечению неврологических заболеваний и пониманию когнитивного развития.",
+      "category": "ai",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/biology/mozg-dva-organa"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-22 05:31:25+00:00",
+      "id": "15c8ba5938ad"
+    },
+    {
+      "title_ru": "Полиция расследует смерть восьмимесячного ребенка в Балларате",
+      "title_en": "Police investigate death of eight-month-old baby in Ballarat",
+      "date": "2026-09-22 18:32:38+10:00",
+      "summary": "В австралийском городе Балларат полиция начала расследование смерти восьмимесячного младенца. Обстоятельства инцидента выясняются, что вызывает общественное беспокойство о системе защиты детей.",
+      "category": "life",
+      "region": "Австралия",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/national/victoria/police-investigate-death-of-eight-month-old-baby-in-ballarat-20260922-p60zlz.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-22 18:32:38+10:00",
+      "id": "ef7636ff0ffd"
+    },
+    {
+      "title_ru": "Забыть меня нельзя: деменция затрагивает миллион, но почти не получает государственной поддержки",
+      "title_en": "Forget me not: dementia affects a million yet gets almost no state support",
+      "date": "2026-09-21 03:45:03+00:00",
+      "summary": "В Венгрии деменцией страдает около миллиона человек, однако заболевание практически не получает государственной поддержки. Отсутствие адекватной системы помощи создает серьезные проблемы для семей и системы здравоохранения.",
+      "category": "life",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/health/forget-me-not-dementia-affects-a-million-yet-gets-almost-no-state-support/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-21 03:45:03+00:00",
+      "id": "635d2d4347d4"
+    },
+    {
+      "title_ru": "Йеменский ребенок выжил после саудовского авиаудара, убившего всю ее семью",
+      "title_en": "Yemeni child survives Saudi airstrike that killed her entire family",
+      "date": "2026-09-22 08:47:16.457306+00:00",
+      "summary": "В Йемене ребенок выжил после авиаудара Саудовской Аравии, в результате которого погибла вся его семья. Инцидент произошел на фоне эскалации конфликта между хуситами и саудовской коалицией.",
+      "category": "conflicts",
+      "region": "Йемен",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/21/776738/Yemeni-child-survives-Saudi-airstrike-that-killed-her-entire-family"
+      ],
+      "perspective": "Саудовская Аравия рассматривает удары как ответ на угрозы хуситов, в то время как хуситы и их сторонники осуждают их как военные преступления",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-09-22 08:47:16.457306+00:00",
+      "id": "6b5ffdabc54c"
+    },
+    {
+      "title_ru": "ВС России поразили предприятие по производству ракетного топлива ВСУ",
+      "title_en": "Russian Armed Forces hit enterprise for production of rocket fuel of Ukrainian Armed Forces",
+      "date": "2026-09-22 09:59:47+03:00",
+      "summary": "Российские военные нанесли удар по предприятию на Украине, производящему ракетное топливо для Вооруженных сил Украины. Удар направлен на ослабление военного потенциала противника.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260922/vs-2119434716.html"
+      ],
+      "perspective": "Россия рассматривает это как законную военную цель в рамках СВО, Украина и Запад осуждают удары по гражданской инфраструктуре",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-22 09:59:47+03:00",
+      "id": "dd80042054db"
+    },
+    {
+      "title_ru": "ВС России поразили табачную фабрику в Кременчуге, производящую снаряды",
+      "title_en": "Russian Armed Forces hit tobacco factory in Kremenchug producing shells",
+      "date": "2026-09-22 09:58:02+03:00",
+      "summary": "Российские войска нанесли удар по табачной фабрике в Кременчуге, которая, по данным Минобороны РФ, использовалась для производства артиллерийских снарядов. Удар направлен на нарушение логистики снабжения ВСУ.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260922/kremenchug-2119434189.html"
+      ],
+      "perspective": "Россия заявляет о поражении военного объекта, Украина отрицает военное использование предприятия",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-22 09:58:02+03:00",
+      "id": "279afdf235bc"
+    },
+    {
+      "title_ru": "Amazon впервые выпускает облигации в фунтах стерлингов для финансирования развития ИИ",
+      "title_en": "Amazon taps the UK bond market for the first time to help fund its AI buildout",
+      "date": "2026-09-20 21:27:11+00:00",
+      "summary": "Компания Amazon впервые выпустила облигации в британских фунтах стерлингов для финансирования масштабного развития искусственного интеллекта. Это свидетельствует о растущих инвестициях технологических гигантов в ИИ-инфраструктуру.",
+      "category": "economy",
+      "region": "Великобритания",
+      "sources": [
+        "finance.yahoo.com"
+      ],
+      "links": [
+        "https://finance.yahoo.com/technology/ai/articles/amazon-amzn-taps-uk-bond-212711015.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-20 21:27:11+00:00",
+      "id": "f0a2098a8382"
+    },
+    {
+      "title_ru": "Дания, Гренландия и США подписывают соглашение о безопасности в Арктике",
+      "title_en": "Denmark, Greenland set to sign security deal with U.S. on Tuesday",
+      "date": "2026-09-21 20:58:10+00:00",
+      "summary": "Дания, Гренландия и США готовятся подписать соглашение о безопасности в Арктическом регионе. Договор усиливает присутствие США в стратегически важном регионе и затрагивает вопросы суверенитета Гренландии.",
+      "category": "politics",
+      "region": "Гренландия",
+      "sources": [
+        "www.cbc.ca"
+      ],
+      "links": [
+        "https://www.cbc.ca/news/world/denmark-greenland-us-security-deal-9.7353071?cmp=rss"
+      ],
+      "perspective": "США и Дания рассматривают соглашение как укрепление региональной безопасности, критики видят угрозу суверенитету Гренландии",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-09-21 20:58:10+00:00",
+      "id": "58f83fe6cc1d"
+    },
+    {
+      "title_ru": "Выборы в землях Германии наносят удар по канцлеру Фридриху Мерцу",
+      "title_en": "German state elections deal a blow to Chancellor Friedrich Merz",
+      "date": "2026-09-20 21:20:00+00:00",
+      "summary": "Результаты земельных выборов в Германии стали серьезным поражением для канцлера Фридриха Мерца и его партии ХДС. Это указывает на снижение популярности правящей коалиции и может повлиять на федеральную политику.",
+      "category": "politics",
+      "region": "Германия",
+      "sources": [
+        "rss.dw.com"
+      ],
+      "links": [
+        "https://www.dw.com/en/german-state-elections-deal-a-blow-to-chancellor-friedrich-merz/a-79348585?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "perspective": "Оппозиционные партии рассматривают это как подтверждение недовольства политикой правительства, сторонники Мерца считают это временным явлением",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-20 21:20:00+00:00",
+      "id": "82c889b86db6"
+    },
+    {
+      "title_ru": "Иран выдвигает США семь условий для выхода из военного тупика",
+      "title_en": "Iran sets 7 conditions for US to escape war quagmire: Rezaei",
+      "date": "2026-09-22 08:47:16.457108+00:00",
+      "summary": "Секретарь Высшего совета национальной безопасности Ирана Резаи заявил, что США должны выполнить семь условий, чтобы избежать военного тупика с Ираном. Условия включают прекращение поддержки Израиля и вывод войск из региона.",
+      "category": "statement",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/20/776648/Iran-conditions-US-talks"
+      ],
+      "perspective": "Иран позиционирует это как путь к деэскалации, США и их союзники могут рассматривать как ультиматум",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-09-22 08:47:16.457108+00:00",
+      "id": "0055d77c13fc"
+    },
+    {
+      "title_ru": "Женщины и молодые фотографы стоят за метеорическим ростом Fujifilm",
+      "title_en": "Women and younger photographers are behind Fujifilm's meteoric rise",
+      "date": "2026-09-19 13:00:17+00:00",
+      "summary": "Согласно анализу рынка фотографии, женщины и молодые фотографы стали основной движущей силой стремительного роста популярности камер Fujifilm. Это отражает изменение демографии в профессиональной фотографии.",
+      "category": "photo",
+      "region": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/19/women-and-younger-photographers-are-behind-fujifilms-meteoric-rise/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-19 13:00:17+00:00",
+      "id": "74f72836c76c"
     }
   ],
   "_stats": {
-    "total_tokens": 2432209,
-    "total_cost": 294.39508799999993
+    "total_tokens": 2450327,
+    "total_cost": 295.54774799999996
   }
 }
