@@ -1,348 +1,6 @@
 {
   "_events": [
     {
-      "category": "tech",
-      "date": "2026-09-15 11:04:00+00:00",
-      "is_development": false,
-      "links": [
-        "https://www.jpost.com/defense-and-tech/article-908637"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Израиль",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "summary": "Американская оборонная технологическая компания Ondas приобрела израильскую компанию GATE. Это очередная сделка по поглощению израильской технологической фирмы иностранным инвестором.",
-      "title_en": "US defense tech company Ondas buys GATE in latest Israeli company acquisition",
-      "title_ru": "Американская оборонная компания Ondas покупает израильскую GATE",
-      "first_reported": "2026-09-15 11:04:00+00:00",
-      "id": "187e875820d3"
-    },
-    {
-      "category": "tech",
-      "date": "2026-09-15 08:56:42.607920+00:00",
-      "is_development": false,
-      "links": [
-        "https://www.taipeitimes.com/News/lang/archives/2026/09/15/2003864259"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Мир",
-      "sources": [
-        "www.taipeitimes.com"
-      ],
-      "summary": "ООН проголосовала за принятие новой карты мира, которая показывает истинный масштаб Африки. Карта использует проекцию, более точно отражающую реальные размеры континентов.",
-      "title_en": "UN votes to adopt new world map that shows Africa's true scale",
-      "title_ru": "ООН принимает новую карту мира, показывающую истинный масштаб Африки",
-      "first_reported": "2026-09-15 08:56:42.607920+00:00",
-      "id": "a90795f25183"
-    },
-    {
-      "category": "tech",
-      "date": "2026-09-15 05:34:08+00:00",
-      "is_development": false,
-      "links": [
-        "https://naked-science.ru/article/hi-tech/zapisalimozg-v-pole"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Россия",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "summary": "Ученые впервые записали активность мозга животных непосредственно в полевых условиях. Это прорыв в нейробиологии, позволяющий изучать мозговую деятельность в естественной среде обитания.",
-      "title_en": "Scientists for the first time recorded brain activity of animals directly in the field",
-      "title_ru": "Ученые впервые записали активность мозга животных прямо в полевых условиях",
-      "first_reported": "2026-09-15 05:34:08+00:00",
-      "id": "51fc8c38724a"
-    },
-    {
-      "category": "ai",
-      "date": "2026-09-15 10:29:05+00:00",
-      "is_development": false,
-      "links": [
-        "https://www.jpost.com/business-and-innovation/article-908626"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Мир",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "summary": "Некоторые люди отходят от использования искусственного интеллекта по мере того, как опасения начинают исходить из самой индустрии. Эксперты объясняют причины этого скептицизма.",
-      "title_en": "Why some people are stepping back from AI as concerns come from inside industry - explainer",
-      "title_ru": "Почему некоторые отходят от ИИ по мере роста опасений внутри индустрии",
-      "first_reported": "2026-09-15 10:29:05+00:00",
-      "id": "b12bdf66e08c"
-    },
-    {
-      "category": "ai",
-      "date": "2026-09-15 09:09:09+00:00",
-      "is_development": false,
-      "links": [
-        "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-908286"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Мир",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "summary": "Nvidia и Palantir представили результаты первого критического цепочки поставок, управляемого искусственным интеллектом. Результаты показывают, что человеческий фактор по-прежнему остается ключевым.",
-      "title_en": "Human factor still key: Nvidia, Palantir share results of first AI-managed critical supply chain",
-      "title_ru": "Человеческий фактор по-прежнему ключевой: Nvidia и Palantir делятся результатами первой ИИ-управляемой цепочки поставок",
-      "first_reported": "2026-09-15 09:09:09+00:00",
-      "id": "519311ce06f0"
-    },
-    {
-      "category": "life",
-      "date": "2026-09-15 12:54:10+05:30",
-      "is_development": false,
-      "links": [
-        "https://timesofindia.indiatimes.com/world/china/children-in-chinas-nizhuhe-village-trekked-three-hours-up-and-down-an-800-metre-cliff-to-go-to-school-now-two-elevators-and-a-cable-car-ride-have-reduced-the-journey-to-half-hour/articleshow/134254395.cms"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Китай",
-      "sources": [
-        "timesofindia.indiatimes.com"
-      ],
-      "summary": "Дети в китайской деревне Низюхэ раньше тратили 3 часа на подъем и спуск по 800-метровому обрыву, чтобы добраться до школы. Теперь два лифта и канатная дорога сократили путь до 30 минут.",
-      "title_en": "Children in China trekked 3 hours up and down an 800m cliff to school; two elevators and a cable car cut it to 30 minutes",
-      "title_ru": "Дети в Китае тратили 3 часа на подъем и спуск по 800-метровому обрыву в школу; лифты и канатная дорога сократили путь до 30 минут",
-      "first_reported": "2026-09-15 12:54:10+05:30",
-      "id": "992d6b3e7367"
-    },
-    {
-      "category": "life",
-      "date": "2026-09-15 07:16:25+00:00",
-      "is_development": false,
-      "links": [
-        "https://www.riotimesonline.com/petrobras-petrol-price-increase-tax-cut-2026/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Бразилия",
-      "sources": [
-        "riotimesonline.com"
-      ],
-      "summary": "Бразильская нефтяная компания Petrobras повысила цены на бензин, но водители платят меньше благодаря снижению налогов. Это пример компенсации роста цен за счет фискальных мер.",
-      "title_en": "Petrobras Raised Petrol Prices and Drivers Paid Less",
-      "title_ru": "Petrobras повысила цены на бензин, но водители платят меньше",
-      "first_reported": "2026-09-15 07:16:25+00:00",
-      "id": "c4af7034fccb"
-    },
-    {
-      "category": "life",
-      "date": "2026-09-15 03:28:35+00:00",
-      "is_development": false,
-      "links": [
-        "https://www.budapesttimes.hu/hungary/government-launches-10bn-forint-child-protection-package-after-years-of-neglect/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Венгрия",
-      "sources": [
-        "budapesttimes.hu"
-      ],
-      "summary": "Правительство Венгрии запустило пакет мер по защите детей на сумму 10 миллиардов форинтов после многих лет пренебрежения. Программа направлена на улучшение условий жизни детей.",
-      "title_en": "Government launches 10bn-forint child protection package after years of neglect",
-      "title_ru": "Правительство запускает пакет защиты детей на 10 млрд форинтов после многолетнего пренебрежения",
-      "first_reported": "2026-09-15 03:28:35+00:00",
-      "id": "2ae0267c1279"
-    },
-    {
-      "category": "conflicts",
-      "date": "2026-09-15 08:56:37.381249+00:00",
-      "is_development": false,
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/14/776300/Two-civilians-killed,-anther-injured-as-Saudi-strike-destroys-bridge-in-southern-Yemen"
-      ],
-      "perspective": "Йеменские силы обвиняют Саудовскую Аравию в нападениях на гражданские объекты, в то время как Саудовская Аравия утверждает, что наносит удары по военным целям",
-      "perspective_type": "from_source",
-      "region": "Йемен",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "summary": "Два мирных жителя погибли, еще один получил ранения в результате удара Саудовской Аравии по мосту в южном Йемене. Инцидент произошел на фоне эскалации конфликта в регионе.",
-      "title_en": "Two civilians killed as Saudi Arabia bombs bridge in southern Yemen",
-      "title_ru": "Два мирных жителя погибли при бомбардировке моста в южном Йемене Саудовской Аравией",
-      "first_reported": "2026-09-15 08:56:37.381249+00:00",
-      "id": "421e807fa5cb"
-    },
-    {
-      "category": "conflicts",
-      "date": "2026-09-15 08:56:37.381223+00:00",
-      "is_development": false,
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/15/776310/Saudi-regime-seeks-British-strikes-on-Yemen-after-US-refusal"
-      ],
-      "perspective": "Иранские источники утверждают, что Саудовская Аравия ищет альтернативные варианты после отказа США, в то время как западные источники могут представлять это как координацию с союзниками",
-      "perspective_type": "from_source",
-      "region": "Саудовская Аравия",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "summary": "Саудовская Аравия ищет возможности для британских ударов по Йемену после отказа США. Это свидетельствует о поиске альтернативных союзников в конфликте.",
-      "title_en": "Saudi Arabia seeks British strikes on Yemen after US refusal",
-      "title_ru": "Саудовская Аравия ищет британские удары по Йемену после отказа США",
-      "first_reported": "2026-09-15 08:56:37.381223+00:00",
-      "id": "e5b6541bbf4c"
-    },
-    {
-      "category": "svo",
-      "date": "2026-09-15 11:13:25+03:00",
-      "is_development": true,
-      "links": [
-        "https://tass.ru/armiya-i-opk/28112891"
-      ],
-      "perspective": "Российские источники сообщают о военных успехах, украинская сторона может представлять ситуацию иначе",
-      "perspective_type": "from_source",
-      "region": "Украина",
-      "sources": [
-        "tass.ru"
-      ],
-      "summary": "Вооруженные силы России пресекли все попытки прорыва ВСУ из окружения в Харьковской области. Российское военное командование сообщает о продолжении операции по ликвидации окруженных группировок.",
-      "title_en": "Russian Armed Forces prevented all attempts of breakthrough of Ukrainian Armed Forces from encirclement in Kharkiv region",
-      "title_ru": "ВС РФ пресекли все попытки прорыва ВСУ из окружения в Харьковской области",
-      "first_reported": "2026-09-15 11:13:25+03:00",
-      "id": "9ad550e9633a"
-    },
-    {
-      "category": "svo",
-      "date": "2026-09-15 11:06:41+03:00",
-      "is_development": false,
-      "links": [
-        "https://www.kommersant.ru/doc/8955019"
-      ],
-      "perspective": "Российские источники сообщают о взятии населенного пункта, украинская сторона может отрицать или подтверждать эту информацию",
-      "perspective_type": "from_source",
-      "region": "Украина",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "summary": "Российская армия взяла под контроль населенный пункт Ольховатка в Харьковской области. Минобороны России подтвердило установление контроля над этой территорией.",
-      "title_en": "Russian army took control of Olkhovatka in Kharkiv region",
-      "title_ru": "Российская армия взяла харьковскую Ольховатку",
-      "first_reported": "2026-09-15 11:06:41+03:00",
-      "id": "698012f6a717"
-    },
-    {
-      "category": "economy",
-      "date": "2026-09-15 11:40:04+03:00",
-      "is_development": false,
-      "links": [
-        "https://belta.by/economics/view/rentabelnost-realizovannoj-produktsii-i-uslug-v-belarusi-za-janvar-ijul-sostavila-81-801072-2026/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Беларусь",
-      "sources": [
-        "www.belta.by"
-      ],
-      "summary": "Рентабельность реализованной продукции и услуг в Беларуси за январь-июль 2026 года составила 8,1%. Это показатель экономической эффективности белорусских предприятий.",
-      "title_en": "Profitability of sold products and services in Belarus for January-July was 8.1%",
-      "title_ru": "Рентабельность реализованной продукции и услуг в Беларуси за январь-июль составила 8,1%",
-      "first_reported": "2026-09-15 11:40:04+03:00",
-      "id": "fd583addbfa3"
-    },
-    {
-      "category": "economy",
-      "date": "2026-09-15 11:32:11+03:00",
-      "is_development": false,
-      "links": [
-        "https://belta.by/economics/view/proizvodstvo-selhozproduktsii-v-belarusi-v-janvare-avguste-uvelichilos-na-65-801068-2026/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Беларусь",
-      "sources": [
-        "www.belta.by"
-      ],
-      "summary": "Производство сельскохозяйственной продукции в Беларуси в январе-августе 2026 года увеличилось на 6,5% по сравнению с аналогичным периодом прошлого года. Это свидетельствует о росте аграрного сектора.",
-      "title_en": "Agricultural production in Belarus in January-August increased by 6.5%",
-      "title_ru": "Производство сельхозпродукции в Беларуси в январе-августе увеличилось на 6,5%",
-      "first_reported": "2026-09-15 11:32:11+03:00",
-      "id": "e53b87a116d9"
-    },
-    {
-      "category": "politics",
-      "date": "2026-09-15 11:21:05+03:00",
-      "is_development": false,
-      "links": [
-        "https://www.rbc.ru/politics/15/09/2026/6aa8fe7328da944c0ae1f779"
-      ],
-      "perspective": "Российская позиция представляет военные возможности как превосходящие, польская сторона может иметь иную оценку",
-      "perspective_type": "from_source",
-      "region": "Россия",
-      "sources": [
-        "rssexport.rbc.ru"
-      ],
-      "summary": "Секретарь Совета безопасности России Николай Патрушев заявил, что Польша потерпит поражение за два-три дня в случае войны с Россией. Это заявление сделано в ответ на слова польского министра иностранных дел Сикорского.",
-      "title_en": "Patrushev predicted Poland's defeat in two-three days in case of war with Russia",
-      "title_ru": "Патрушев предрек поражение Польши за два-три дня при войне с Россией",
-      "first_reported": "2026-09-15 11:21:05+03:00",
-      "id": "7dc9296009f7"
-    },
-    {
-      "category": "politics",
-      "date": "2026-09-15 08:56:42.607853+00:00",
-      "is_development": false,
-      "links": [
-        "https://www.taipeitimes.com/News/world/archives/2026/09/15/2003864302"
-      ],
-      "perspective": "Разные политические силы имеют противоположные взгляды на результаты выборов и их последствия",
-      "perspective_type": "from_source",
-      "region": "Швеция",
-      "sources": [
-        "www.taipeitimes.com"
-      ],
-      "summary": "Выборы в Швеции оказались слишком близкими, чтобы определить победителя. Консервативный блок и оппозиция ведут напряженную борьбу за формирование правительства.",
-      "title_en": "Sweden's election too close to call",
-      "title_ru": "Выборы в Швеции слишком близки, чтобы определить победителя",
-      "first_reported": "2026-09-15 08:56:42.607853+00:00",
-      "id": "75496c7155c0"
-    },
-    {
-      "category": "statement",
-      "date": "2026-09-15 08:56:37.381214+00:00",
-      "is_development": false,
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/14/776295/hormuz-economic-situation-us-israeli-aggression-iran-bahraini"
-      ],
-      "perspective": "Иранская позиция обвиняет США и Израиль, в то время как западные страны могут иметь иную точку зрения на причины экономических проблем",
-      "perspective_type": "from_source",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "summary": "Постоянный представитель Ирана при ООН заявил, что экономический кризис в районе Ормузского пролива является прямым результатом агрессии США и Израиля. Это заявление сделано в контексте напряженности в регионе.",
-      "title_en": "Hormuz economic crisis direct result of US-Israeli aggression: Iran's UN envoy",
-      "title_ru": "Экономический кризис в Ормузе - прямой результат агрессии США и Израиля: посол Ирана в ООН",
-      "first_reported": "2026-09-15 08:56:37.381214+00:00",
-      "id": "95f5315d5ba8"
-    },
-    {
-      "title_ru": "Американские военные протестируют ядерный реактор для космоса",
-      "title_en": "US military to test nuclear reactor for space",
-      "date": "2026-09-15 11:59:33+00:00",
-      "summary": "Американские военные планируют испытания компактного ядерного реактора, предназначенного для использования в космосе. Это часть программы по разработке энергетических систем для будущих космических миссий.",
-      "category": "tech",
-      "region": "США",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/tech/r1-s"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-15 11:59:33+00:00",
-      "id": "a54bfa7f988a"
-    },
-    {
       "title_ru": "Йеменские военные силы освободили шесть прибрежных районов вдоль Красного моря",
       "title_en": "Yemeni military forces liberate six coastal districts along Red Sea",
       "date": "2026-09-16 08:49:43.021725+00:00",
@@ -362,25 +20,6 @@
       "id": "48557a299804"
     },
     {
-      "title_ru": "Песков заявил о попытке Украины атаковать российский энергообъект",
-      "title_en": "Peskov says Ukraine attempted to attack Russian energy facility",
-      "date": "2026-09-15 13:44:49+03:00",
-      "summary": "Пресс-секретарь президента России Дмитрий Песков заявил, что Украина ночью пыталась нанести удар по одному из энергообъектов в России. Это очередной эпизод в продолжающемся конфликте между странами.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8955202"
-      ],
-      "perspective": "Российская сторона рассматривает это как провокацию Украины, украинская сторона может считать это ответными действиями на российские удары",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-15 13:44:49+03:00",
-      "id": "22d3b60eff39"
-    },
-    {
       "title_ru": "МИД России предупредил об «извращенных провокациях Запада» на выборах в Госдуму",
       "title_en": "Russian Foreign Ministry warns of 'perverted provocations by the West' in State Duma elections",
       "date": "2026-09-16 09:57:05+03:00",
@@ -398,25 +37,6 @@
       "is_development": false,
       "first_reported": "2026-09-16 09:57:05+03:00",
       "id": "76c1cdace05e"
-    },
-    {
-      "title_ru": "Водители в Германии возмущены ростом цен на топливо",
-      "title_en": "Drivers in Germany fume over soaring fuel prices",
-      "date": "2026-09-15 16:43:00+00:00",
-      "summary": "В Германии растет недовольство среди водителей из-за резкого повышения цен на топливо. Это часть глобальной тенденции роста энергетических затрат, которая влияет на повседневную жизнь людей.",
-      "category": "life",
-      "region": "Германия",
-      "sources": [
-        "rss.dw.com"
-      ],
-      "links": [
-        "https://www.dw.com/en/drivers-in-germany-fume-over-soaring-fuel-prices/a-79282456?maca=en-rss-en-all-1573-xml-mrss"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-15 16:43:00+00:00",
-      "id": "9ee4b018ebdb"
     },
     {
       "title_ru": "Правительство Пакистана борется с рекордными ценами на топливо",
@@ -647,25 +267,6 @@
       "id": "142405373ada"
     },
     {
-      "title_ru": "Восьмое тело найдено в Экурхулени в ЮАР",
-      "title_en": "Police confirm recovery of eighth body in Ekurhuleni",
-      "date": "2026-09-15 18:57:11+00:00",
-      "summary": "Полиция ЮАР подтвердила обнаружение восьмого тела в Экурхулени. Это продолжение серии убийств, вызывающих страх среди местных жителей.",
-      "category": "life",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-09-15-police-confirm-recovery-of-eighth-body-in-ekurhuleni/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-15 18:57:11+00:00",
-      "id": "1dc5595109c2"
-    },
-    {
       "title_ru": "Три человека погибли при крушении вертолета NBC News в Лос-Анджелесе",
       "title_en": "3 dead after L.A. news helicopter goes down while covering crash",
       "date": "2026-09-16 08:35:15+00:00",
@@ -780,25 +381,6 @@
       "id": "c5e414814e3a"
     },
     {
-      "title_ru": "ВВП стран G20 во втором квартале увеличился на 3,1%",
-      "title_en": "G20 countries GDP increased by 3.1% in Q2",
-      "date": "2026-09-15 01:37:09+03:00",
-      "summary": "Валовой внутренний продукт стран G20 во втором квартале 2026 года увеличился на 3,1%. Это показывает общий экономический рост крупнейших экономик мира.",
-      "category": "economy",
-      "region": "Мир",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8954698"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-15 01:37:09+03:00",
-      "id": "b1908852f8da"
-    },
-    {
       "title_ru": "ЦИК готов отражать попытки дискредитировать выборы, заявила Памфилова",
       "title_en": "CEC ready to counter attempts to discredit elections, Pamfilova says",
       "date": "2026-09-17 11:45:02+03:00",
@@ -873,25 +455,6 @@
       "is_development": false,
       "first_reported": "2026-09-16 14:54:53+00:00",
       "id": "1f2bbb6b3e87"
-    },
-    {
-      "title_ru": "Герой национального парка Крюгер Мфо Мудау вспоминает день наводнения",
-      "title_en": "Kruger National Park hero Mpho Mudau relives the day the floods came",
-      "date": "2026-09-15 08:57:43+00:00",
-      "summary": "Мфо Мудау, герой национального парка Крюгер в ЮАР, вспоминает день, когда пришли наводнения. Это история о последствиях экстремальных погодных явлений.",
-      "category": "ecology",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/the-green-guardian/2026-09-15-kruger-national-park-hero-mpho-mudau-relives-the-day-the-floods-came/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-15 08:57:43+00:00",
-      "id": "a89affa80563"
     },
     {
       "title_ru": "Венгрия: реальные зарплаты обгоняют инфляцию",
@@ -2223,7 +1786,8 @@
       "perspective_type": "",
       "is_development": false,
       "first_reported": "2026-09-22 05:31:25+00:00",
-      "id": "15c8ba5938ad"
+      "id": "15c8ba5938ad",
+      "last_reported": "2026-09-22 05:31:25+00:00"
     },
     {
       "title_ru": "Полиция расследует смерть восьмимесячного ребенка в Балларате",
@@ -2414,10 +1978,371 @@
       "is_development": false,
       "first_reported": "2026-09-19 13:00:17+00:00",
       "id": "74f72836c76c"
+    },
+    {
+      "title_ru": "Физики промоделировали солитон, который гаснет по команде",
+      "title_en": "Physicists modeled a soliton that extinguishes on command",
+      "date": "2026-09-23 07:43:33+00:00",
+      "summary": "Российские физики создали модель солитона - особой волны, которая сохраняет свою форму при распространении. Уникальность модели в том, что этот солитон можно \"выключить\" по команде, что открывает новые возможности для управления волновыми процессами в различных средах.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/column/soliton-gasnet-po-komande"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-23 07:43:33+00:00",
+      "id": "ff78f021e476"
+    },
+    {
+      "title_ru": "Сложные системы стали устойчивее благодаря беспорядку",
+      "title_en": "Complex systems become more stable due to disorder",
+      "date": "2026-09-22 14:02:05+00:00",
+      "summary": "Научное исследование показало, что хаос и беспорядок в сложных системах могут повышать их устойчивость. Это открытие имеет значение для понимания природных систем, социальных структур и технологических сетей, где контролируемый хаос может быть полезен.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/physics/sistemy-ustojchivee-izza-haosa"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-22 14:02:05+00:00",
+      "id": "9b1709e8ad7b"
+    },
+    {
+      "title_ru": "Ученые исследовали возможности ускорительного кольца-восьмерки для новой физики",
+      "title_en": "Scientists explored the possibilities of an eight-shaped accelerator ring for new physics",
+      "date": "2026-09-22 06:13:23+00:00",
+      "summary": "Исследователи изучили потенциал ускорительного кольца в форме восьмерки для проведения экспериментов в области новой физики. Такая конфигурация может открыть возможности для изучения фундаментальных частиц и взаимодействий, недоступных традиционным ускорителям.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/column/koltso-vosmerka-nov-fizika"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-22 06:13:23+00:00",
+      "id": "75e603216c83"
+    },
+    {
+      "title_ru": "Рекордные цены на топливо во Франции вызывают опасения нового восстания \"желтых жилетов\"",
+      "title_en": "Record fuel prices in France spark fears of new 'Yellow Vest' uprising",
+      "date": "2026-09-23 08:49:16.967386+00:00",
+      "summary": "Во Франции зафиксированы рекордные цены на топливо, что вызывает опасения повторения массовых протестов движения \"желтых жилетов\". Правительство уже удвоило помощь водителям, чтобы предотвратить социальный кризис, связанный с ростом стоимости жизни.",
+      "category": "life",
+      "region": "Франция",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/22/776787/Record-fuel-prices-in-France-spark-fears-of-a-new-%E2%80%9CYellow-Vest%E2%80%9D-uprising"
+      ],
+      "perspective": "Власти Франции видят угрозу социальной стабильности и принимают меры по смягчению ситуации, в то время как население выражает недовольство ростом стоимости жизни",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-23 08:49:16.967386+00:00",
+      "id": "31ff5b63c920"
+    },
+    {
+      "title_ru": "Правительство Франции удвоило помощь водителям для предотвращения топливного кризиса",
+      "title_en": "French government doubles aid to drivers to head off fuel price crisis",
+      "date": "2026-09-23 05:03:25+02:00",
+      "summary": "Французское правительство приняло решение удвоить финансовую помощь водителям в ответ на резкий рост цен на топливо. Эти меры направлены на предотвращение социального кризиса и возможных протестов, аналогичных движению \"желтых жилетов\".",
+      "category": "life",
+      "region": "Франция",
+      "sources": [
+        "www.lemonde.fr"
+      ],
+      "links": [
+        "https://www.lemonde.fr/en/france/article/2026/09/23/government-doubles-aid-to-drivers-to-head-off-fuel-price-crisis_6757837_7.html"
+      ],
+      "perspective": "Правительство пытается предотвратить социальный кризис, в то время как население страдает от роста цен на топливо",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-23 05:03:25+02:00",
+      "id": "7b8affa22a73"
+    },
+    {
+      "title_ru": "Лидеры коренных народов требуют изменений в системе здравоохранения Саскачевана после смерти женщины при родах",
+      "title_en": "Indigenous leaders call for change in Sask. health care after woman's death during childbirth",
+      "date": "2026-09-22 19:28:17+00:00",
+      "summary": "В канадской провинции Саскачеван лидеры коренных народов требуют реформ в системе здравоохранения после смерти женщины из общины Флайинг Даст во время родов. Инцидент высветил системные проблемы в медицинском обслуживании коренного населения.",
+      "category": "life",
+      "region": "Канада",
+      "sources": [
+        "www.cbc.ca"
+      ],
+      "links": [
+        "https://www.cbc.ca/news/canada/saskatchewan/chelsea-bear-death-childbirth-flying-dust-9.7354545?cmp=rss"
+      ],
+      "perspective": "Коренные общины требуют справедливости и улучшения медицинского обслуживания, в то время как власти сталкиваются с обвинениями в системной дискриминации",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-22 19:28:17+00:00",
+      "id": "eda640c4b548"
+    },
+    {
+      "title_ru": "США и Хуситы обмениваются ударами, йеменцы бегут на лодках от распространяющейся войны",
+      "title_en": "Saudis and Houthis trade strikes as Yemenis take to boats to flee fighting as war spreads",
+      "date": "2026-09-17 15:56:31+00:00",
+      "summary": "В Йемене продолжается эскалация конфликта между саудовскими силами и хуситами, при этом местные жители массово бегут от боевых действий на лодках. Война распространяется на новые территории, вызывая гуманитарный кризис и массовое перемещение населения.",
+      "category": "conflicts",
+      "region": "Йемен",
+      "sources": [
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/article-saudis-houthis-exchange-strikes-middle-east-war/"
+      ],
+      "perspective": "Саудовская Аравия ведет военные действия против хуситов, в то время как хуситы сопротивляются и обвиняют саудовцев в агрессии",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-17 15:56:31+00:00",
+      "id": "d7671269e252"
+    },
+    {
+      "title_ru": "Удары США по предполагаемым наркоботам могут быть преступными, заявляет эксперт ООН",
+      "title_en": "U.S. Strikes on Alleged Drug Boats Could Be Criminal, U.N. Expert Says",
+      "date": "2026-09-21 19:50:19+00:00",
+      "summary": "Специальный докладчик ООН по вопросу о внесудебных казнях заявил, что удары США по предполагаемым наркоботам в международных водах могут представлять собой военные преступления. Эксперт призывает к расследованию этих инцидентов и привлечению виновных к ответственности.",
+      "category": "conflicts",
+      "region": "США",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/09/21/world/americas/us-boat-strikes-crimes-un.html"
+      ],
+      "perspective": "Эксперт ООН рассматривает действия США как потенциальные военные преступления, в то время как США оправдывают их борьбой с наркоторговлей",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-21 19:50:19+00:00",
+      "id": "4630b1208136"
+    },
+    {
+      "title_ru": "Трамп выразил надежду на завершение конфликта на Украине до зимы",
+      "title_en": "Trump expressed hope for ending conflict in Ukraine before winter",
+      "date": "2026-09-22 21:51:51+03:00",
+      "summary": "Президент США Дональд Трамп заявил, что надеется на завершение конфликта на Украине до наступления зимы. Это заявление было сделано на фоне продолжающихся боевых действий и дипломатических усилий по урегулированию кризиса.",
+      "category": "svo",
+      "region": "США",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8972689"
+      ],
+      "perspective": "Трамп выражает оптимизм по поводу мирного урегулирования, в то время как конфликт продолжается с обеих сторон",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-22 21:51:51+03:00",
+      "id": "cb7b259b988d"
+    },
+    {
+      "title_ru": "США предложат РФ и Украине мораторий на удары по энергообъектам",
+      "title_en": "US to offer Russia and Ukraine moratorium on strikes against energy facilities",
+      "date": "2026-09-22 16:06:34+03:00",
+      "summary": "Администрация США планирует предложить России и Украине мораторий на удары по энергетическим объектам. Эта инициатива направлена на снижение эскалации конфликта и защиту критической инфраструктуры в преддверии зимнего сезона.",
+      "category": "svo",
+      "region": "США",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8972432"
+      ],
+      "perspective": "США пытаются снизить напряженность, в то время как обе стороны конфликта продолжают военные действия",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-22 16:06:34+03:00",
+      "id": "4d745404c975"
+    },
+    {
+      "title_ru": "Евросоюз снял санкции с Усманова и Фридмана",
+      "title_en": "European Union lifted sanctions from Usmanov and Fridman",
+      "date": "2026-09-22 20:51:09+03:00",
+      "summary": "Европейский союз принял решение снять санкции с российских бизнесменов Алишера Усманова и Михаила Фридмана. Это решение отражает изменения в подходе ЕС к санкционной политике в отношении российских предпринимателей.",
+      "category": "svo",
+      "region": "Европа",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8972668"
+      ],
+      "perspective": "ЕС смягчает санкционную политику, в то время как Россия продолжает подвергаться ограничениям",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-22 20:51:09+03:00",
+      "id": "d94dc94eb312"
+    },
+    {
+      "title_ru": "OECD повысило прогноз роста Южной Кореи на 2026 год до 3,7%",
+      "title_en": "OECD raises S. Korea's 2026 growth forecast to 3.7 pct",
+      "date": "2026-09-23 17:00:02+09:00",
+      "summary": "Организация экономического сотрудничества и развития (OECD) повысила прогноз экономического роста Южной Кореи на 2026 год до 3,7%. Это улучшение прогноза связано с устойчивыми показателями корейской экономики, особенно в технологическом секторе.",
+      "category": "economy",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260923006600320"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-23 17:00:02+09:00",
+      "id": "659d2928a013"
+    },
+    {
+      "title_ru": "Биткоин и эфириум продолжают рост до цен, последний раз наблюдавшихся в январе",
+      "title_en": "Bitcoin and ethereum prices continue to surge to prices last seen in January",
+      "date": "2026-09-22 11:47:24+00:00",
+      "summary": "Криптовалюты биткоин и эфириум продолжают демонстрировать значительный рост, достигнув уровней, последний раз наблюдавшихся в январе 2026 года. Этот всплеск отражает возобновление интереса инвесторов к цифровым активам на фоне глобальных экономических изменений.",
+      "category": "economy",
+      "region": "Мир",
+      "sources": [
+        "finance.yahoo.com"
+      ],
+      "links": [
+        "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-22-2026-crypto-prices-continue-to-surge-to-prices-last-seen-in-january-114724459.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-22 11:47:24+00:00",
+      "id": "7f51b4a09706"
+    },
+    {
+      "title_ru": "В ДНР \"Единая Россия\" набрала 80,46% голосов на думских выборах",
+      "title_en": "\"United Russia\" gained 80.46% of votes in Duma elections in DPR",
+      "date": "2026-09-23 10:53:02+03:00",
+      "summary": "На выборах в Государственную думу в Донецкой Народной Республике партия \"Единая Россия\" получила 80,46% голосов. Явка на выборах составила 82,14%, что демонстрирует высокую активность избирателей в регионе.",
+      "category": "politics",
+      "region": "Россия",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/politika/28142239"
+      ],
+      "perspective": "Власти представляют результаты как свидетельство поддержки населением, в то время как международное сообщество может оспаривать легитимность выборов",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-23 10:53:02+03:00",
+      "id": "4e7ca18ee6b3"
+    },
+    {
+      "title_ru": "Против финансиста МЧС Голиковой возбудили уголовное дело о мошенничестве",
+      "title_en": "Criminal case of fraud initiated against EMERCOM financier Golikova",
+      "date": "2026-09-23 10:12:16+03:00",
+      "summary": "В России возбуждено уголовное дело о мошенничестве против финансиста Министерства чрезвычайных ситуаций Голиковой. Это дело является частью антикоррупционной кампании и борьбы с финансовыми злоупотреблениями в государственных структурах.",
+      "category": "politics",
+      "region": "Россия",
+      "sources": [
+        "rssexport.rbc.ru"
+      ],
+      "links": [
+        "https://www.rbc.ru/rbcfreenews/6a9bc94a25a8e74f541e0704"
+      ],
+      "perspective": "Власти демонстрируют борьбу с коррупцией, в то время как критики могут рассматривать это как избирательное правосудие",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-23 10:12:16+03:00",
+      "id": "11646487a926"
+    },
+    {
+      "title_ru": "Макрон позиционирует себя как противоположность Трампу в последней речи в ООН",
+      "title_en": "Macron positions himself as Trump's opposite in last UN speech",
+      "date": "2026-09-23 10:12:28+02:00",
+      "summary": "Президент Франции Эммануэль Макрон в своей последней речи на Генеральной ассамблее ООН четко позиционировал себя как противоположность американскому президенту Дональду Трампу. Макрон подчеркнул различия в подходах к международным отношениям, мультилатерализму и глобальному управлению.",
+      "category": "statement",
+      "region": "Франция",
+      "sources": [
+        "www.lemonde.fr"
+      ],
+      "links": [
+        "https://www.lemonde.fr/en/international/article/2026/09/23/macron-positions-himself-as-trump-s-opposite-in-last-un-speech_6757843_4.html"
+      ],
+      "perspective": "Макрон представляет себя как лидера мультилатерализма в противовес унилатерализму Трампа",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-09-23 10:12:28+02:00",
+      "id": "0cdbb9fb3012"
+    },
+    {
+      "title_ru": "Лучшая система ИИ - не та, что никогда не ошибается, а та, что умеет терять авторитет",
+      "title_en": "The Best AI System Is Not the One That Never Fails. It Is the One That Knows How to Lose Authority",
+      "date": "2026-09-23 04:00:00+00:00",
+      "summary": "В статье-размышлении утверждается, что идеальная система искусственного интеллекта - не та, что никогда не совершает ошибок, а та, которая способна признавать свои ограничения и \"терять авторитет\", когда это необходимо. Этот подход предлагает новую философию разработки ИИ, основанную на смирении и прозрачности.",
+      "category": "culture",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/thought-leader/2026-09-23-the-best-ai-system-is-not-the-one-that-never-fails-it-is-the-one-that-knows-how-to-lose-authority/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-23 04:00:00+00:00",
+      "id": "02d04064b775"
+    },
+    {
+      "title_ru": "Премия Natural Landscape Photography Awards показывает природу такой, какая она есть на самом деле",
+      "title_en": "Natural Landscape Photography Awards Shows Nature As It Truly Is",
+      "date": "2026-09-23 08:43:40+00:00",
+      "summary": "Премия Natural Landscape Photography Awards представляет фотографии природы без цифровых манипуляций и чрезмерной обработки. Цель конкурса - показать естественную красоту ландшафтов такой, какой она существует в реальности, в противовес гиперстилизованным изображениям.",
+      "category": "photo",
+      "region": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/23/natural-landscape-photography-awards-shows-nature-as-it-truly-is/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-23 08:43:40+00:00",
+      "id": "bc0f08565d78"
+    },
+    {
+      "title_ru": "По меньшей мере 124 защитника окружающей среды убиты по всему миру в 2025 году",
+      "title_en": "At least 124 environmental defenders killed globally in 2025",
+      "date": "2026-09-18 06:49:37+00:00",
+      "summary": "В 2025 году по всему миру было убито не менее 124 защитников окружающей среды. Эти активисты погибли, защищая природные ресурсы, земли коренных народов и экосистемы от незаконной эксплуатации и разрушения, что свидетельствует о продолжающемся насилии против экоактивистов.",
+      "category": "ecology",
+      "region": "Мир",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-09-18-at-least-124-environmental-defenders-killed-globally-in-2025/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-18 06:49:37+00:00",
+      "id": "afa63864c6fc"
     }
   ],
   "_stats": {
-    "total_tokens": 2450327,
-    "total_cost": 295.54774799999996
+    "total_tokens": 2469664,
+    "total_cost": 296.812668
   }
 }
