@@ -1,196 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Йеменские военные силы освободили шесть прибрежных районов вдоль Красного моря",
-      "title_en": "Yemeni military forces liberate six coastal districts along Red Sea",
-      "date": "2026-09-16 08:49:43.021725+00:00",
-      "summary": "Вооруженные силы Йемена освободили шесть прибрежных районов вдоль побережья Красного моря. Это развитие военной ситуации в регионе, где продолжается конфликт.",
-      "category": "conflicts",
-      "region": "Йемен",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/15/776332/Yemeni-military-forces-liberate-six-coastal-districts-along-Yemen%E2%80%99s-red-sea-coast"
-      ],
-      "perspective": "Йеменские силы рассматривают это как освобождение территорий, в то время как Саудовская Аравия и её союзники видят в этом угрозу безопасности региона",
-      "perspective_type": "assumed",
-      "is_development": true,
-      "first_reported": "2026-09-16 08:49:43.021725+00:00",
-      "id": "48557a299804"
-    },
-    {
-      "title_ru": "МИД России предупредил об «извращенных провокациях Запада» на выборах в Госдуму",
-      "title_en": "Russian Foreign Ministry warns of 'perverted provocations by the West' in State Duma elections",
-      "date": "2026-09-16 09:57:05+03:00",
-      "summary": "Министерство иностранных дел России предупредило о возможных провокациях со стороны Запада в ходе предстоящих выборов в Государственную Думу. Это часть напряженности в отношениях России с западными странами.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8955844"
-      ],
-      "perspective": "Россия обвиняет Запад в попытках вмешательства в выборы, западные страны отрицают такие обвинения",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-16 09:57:05+03:00",
-      "id": "76c1cdace05e"
-    },
-    {
-      "title_ru": "Правительство Пакистана борется с рекордными ценами на топливо",
-      "title_en": "Pakistan government struggles as fuel prices break records",
-      "date": "2026-09-16 11:18:37+05:30",
-      "summary": "Правительство Пакистана сталкивается с серьезными трудностями из-за рекордного роста цен на топливо. Министры предупреждают о надвигающемся энергетическом кризисе в стране.",
-      "category": "life",
-      "region": "Пакистан",
-      "sources": [
-        "timesofindia.indiatimes.com"
-      ],
-      "links": [
-        "https://timesofindia.indiatimes.com/world/pakistan/pakistan-ministers-warn-of-energy-crisis-shehbaz-government-struggles-as-fuel-prices-break-records/articleshow/134279190.cms"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-16 11:18:37+05:30",
-      "id": "5b41afa9b3d0"
-    },
-    {
-      "title_ru": "Война против Ирана создает новый глобальный энергетический риск за пределами Ормузского пролива",
-      "title_en": "The Iran war is creating a new global energy risk beyond the Strait of Hormuz - analysis",
-      "date": "2026-09-16 11:14:38+00:00",
-      "summary": "Конфликт с Ираном создает новые угрозы для глобальной энергетической безопасности, выходящие за рамки традиционных рисков в Ормузском проливе. Это затрагивает ключевые энергетические маршруты и инфраструктуру региона.",
-      "category": "economy",
-      "region": "Ближний Восток",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/middle-east/iran-news/article-908750"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-16 11:14:38+00:00",
-      "id": "69cfb29cee86"
-    },
-    {
-      "title_ru": "Палата представителей США отклонила инициативу об импичменте Трампа",
-      "title_en": "US House of Representatives rejects Trump impeachment initiative",
-      "date": "2026-09-16 02:47:57+03:00",
-      "summary": "Палата представителей США отклонила инициативу об импичменте президента Дональда Трампа. Это важное политическое решение, отражающее текущий баланс сил в американском Конгрессе.",
-      "category": "politics",
-      "region": "США",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8955709"
-      ],
-      "perspective": "Республиканцы рассматривают это как победу, демократы - как упущенную возможность привлечь президента к ответственности",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-16 02:47:57+03:00",
-      "id": "89944018bffe"
-    },
-    {
-      "title_ru": "МИД России: генконсульство в Германии закрыли ради срыва выборов в Госдуму",
-      "title_en": "Russian Foreign Ministry: consulate in Germany closed to disrupt State Duma elections",
-      "date": "2026-09-16 09:55:14+03:00",
-      "summary": "Министерство иностранных дел России заявило, что закрытие генерального консульства в Германии было направлено на срыв выборов в Государственную Думу. Это часть обвинений России в адрес западных стран во вмешательстве во внутренние дела.",
-      "category": "politics",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8955843"
-      ],
-      "perspective": "Россия обвиняет Германию в политически мотивированных действиях, Германия отрицает такие обвинения",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-16 09:55:14+03:00",
-      "id": "0c1ebcd7ce6a"
-    },
-    {
-      "title_ru": "Война против Ирана угрожает обязательствам стран Персидского залива перед США на $4 трлн",
-      "title_en": "War on Iran threatens Persian Gulf states' $4 trillion commitments to US: Report",
-      "date": "2026-09-16 08:49:43.021353+00:00",
-      "summary": "Конфликт с Ираном создает угрозу для инвестиционных обязательств стран Персидского залива перед США на сумму $4 трлн. Это может серьезно повлиять на экономические связи региона с Соединенными Штатами.",
-      "category": "politics",
-      "region": "Ближний Восток",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/14/776305/Iran-war-Persian-Gulf-Arab-US-commitments-"
-      ],
-      "perspective": "Иранские источники подчеркивают экономические риски для союзников США, американская сторона может рассматривать это как пропаганду",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-16 08:49:43.021353+00:00",
-      "id": "2a052106d56a"
-    },
-    {
-      "title_ru": "Вице-президент США Вэнс заявил, что война с Ираном 'закончится сразу после выборов'",
-      "title_en": "US VP Vance says Iran war 'will end immediately after the election' - report",
-      "date": "2026-09-16 04:06:22+00:00",
-      "summary": "Вице-президент США Джей Ди Вэнс заявил, что война с Ираном закончится сразу после президентских выборов. Это важное политическое заявление о планах администрации в отношении иранского конфликта.",
-      "category": "statement",
-      "region": "США",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/american-politics/article-908727"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-16 04:06:22+00:00",
-      "id": "6a9d7426e7fd"
-    },
-    {
-      "title_ru": "Canon EOS R8 Mark II Review: A Great Camera In a Polarizing Package",
-      "title_en": "Canon EOS R8 Mark II Review: A Great Camera In a Polarizing Package",
-      "date": "2026-09-16 01:01:10+00:00",
-      "summary": "Canon представила обновленную версию камеры EOS R8 Mark II с системой стабилизации изображения, поддержкой 4Kp60 и джойстиком автофокуса. Это значимое событие в фотоиндустрии.",
-      "category": "photo",
-      "region": "Мир",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/09/15/canon-eos-r8-mark-ii-review-a-great-camera-in-a-polarizing-package/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-16 01:01:10+00:00",
-      "id": "66bf762a52ed"
-    },
-    {
-      "title_ru": "Последнее озеро такого рода в Канаде исчезло",
-      "title_en": "This was the last lake of its kind in Canada. Now it's gone.",
-      "date": "2026-09-16 04:00:00+00:00",
-      "summary": "Последнее озеро определенного типа в Канаде полностью исчезло. Это свидетельствует о серьезных экологических изменениях, происходящих в регионе под влиянием климатических факторов.",
-      "category": "ecology",
-      "region": "Канада",
-      "sources": [
-        "www.cbc.ca"
-      ],
-      "links": [
-        "https://www.cbc.ca/news/science/epishelf-lake-9.7344715?cmp=rss"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-16 04:00:00+00:00",
-      "id": "d5ee68a34085"
-    },
-    {
       "title_ru": "В России запустили новое производство компонентов для лазерных станков",
       "title_en": "Russia launches new production of components for laser machines",
       "date": "2026-09-17 10:00:00+03:00",
@@ -267,44 +77,6 @@
       "id": "142405373ada"
     },
     {
-      "title_ru": "Три человека погибли при крушении вертолета NBC News в Лос-Анджелесе",
-      "title_en": "3 dead after L.A. news helicopter goes down while covering crash",
-      "date": "2026-09-16 08:35:15+00:00",
-      "summary": "Три человека погибли при крушении вертолета телеканала NBC News в Лос-Анджелесе. Вертолет разбился во время освещения дорожной аварии.",
-      "category": "life",
-      "region": "США",
-      "sources": [
-        "feeds.washingtonpost.com"
-      ],
-      "links": [
-        "https://www.washingtonpost.com/nation/2026/09/16/3-dead-after-nbc-news-helicopter-crashes-near-los-angeles-bus-accident/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-16 08:35:15+00:00",
-      "id": "dc821f7332f2"
-    },
-    {
-      "title_ru": "Йеменцы опубликовали видео сбитого самолета F-15",
-      "title_en": "VIDEO: Yemenis release footage of downed F-15 aircraft",
-      "date": "2026-09-16 15:50:21+00:00",
-      "summary": "Йеменские силы опубликовали видео сбитого самолета F-15. Это свидетельствует об эскалации конфликта в регионе и возможностях противостоящих сторон.",
-      "category": "conflicts",
-      "region": "Йемен",
-      "sources": [
-        "en.mehrnews.com"
-      ],
-      "links": [
-        "https://en.mehrnews.com/news/247821/VIDEO-Yemenis-release-footage-of-downed-F-15-aircraft"
-      ],
-      "perspective": "Йеменские силы демонстрируют свои военные успехи, в то время как противоборствующая сторона может отрицать или минимизировать потери",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-16 15:50:21+00:00",
-      "id": "dd385b2748bb"
-    },
-    {
       "title_ru": "Армия России взяла Розовку и Малую Волчью",
       "title_en": "Russian army takes Rozovka and Malaya Volchya",
       "date": "2026-09-17 11:41:02+03:00",
@@ -362,25 +134,6 @@
       "id": "8640883b08f3"
     },
     {
-      "title_ru": "Профицит платежного баланса РФ вырос до $33,9 млрд за семь месяцев",
-      "title_en": "Russia's balance of payments surplus rises to $33.9 billion in seven months",
-      "date": "2026-09-16 02:08:28+03:00",
-      "summary": "Профицит платежного баланса России за семь месяцев 2026 года вырос до 33,9 миллиарда долларов. Это свидетельствует об укреплении внешнеэкономической позиции страны.",
-      "category": "economy",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8955667"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-16 02:08:28+03:00",
-      "id": "c5e414814e3a"
-    },
-    {
       "title_ru": "ЦИК готов отражать попытки дискредитировать выборы, заявила Памфилова",
       "title_en": "CEC ready to counter attempts to discredit elections, Pamfilova says",
       "date": "2026-09-17 11:45:02+03:00",
@@ -436,25 +189,6 @@
       "is_development": false,
       "first_reported": "2026-09-17 08:44:51+00:00",
       "id": "b497691c4f57"
-    },
-    {
-      "title_ru": "'Следы' на поверхности Марса, сфотографированные марсоходом Curiosity",
-      "title_en": "'Footprints' Photographed on the Surface of Mars by Curiosity Rover",
-      "date": "2026-09-16 14:54:53+00:00",
-      "summary": "Марсоход Curiosity сфотографировал необычные образования на поверхности Марса, напоминающие следы. Это интересное открытие в исследовании Красной планеты.",
-      "category": "photo",
-      "region": "Мир",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/09/16/footprints-photographed-on-the-surface-of-mars-by-curiosity-rover/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-16 14:54:53+00:00",
-      "id": "1f2bbb6b3e87"
     },
     {
       "title_ru": "Венгрия: реальные зарплаты обгоняют инфляцию",
@@ -1256,25 +990,6 @@
     },
     {
       "category": "politics",
-      "date": "2026-09-16 09:50:56+00:00",
-      "is_development": false,
-      "links": [
-        "https://www.theglobeandmail.com/world/article-us-south-africa-new-sanctions-alleged-discrimination-against-whites/"
-      ],
-      "perspective": "США вводят санкции, утверждая о дискриминации, в то время как Южная Африка может рассматривать это как вмешательство во внутренние дела и отрицать обвинения.",
-      "perspective_type": "assumed",
-      "region": "США/ЮАР",
-      "sources": [
-        "theglobeandmail.com"
-      ],
-      "summary": "США ввели новые санкции против Южной Африки из-за предполагаемой дискриминации белого населения. Эти меры отражают напряженность в двусторонних отношениях и затрагивают вопросы внутренней политики ЮАР.",
-      "title_en": "U.S. hits South Africa with new sanctions over alleged discrimination against whites",
-      "title_ru": "США ввели санкции против ЮАР из-за предполагаемой дискриминации белых",
-      "first_reported": "2026-09-16 09:50:56+00:00",
-      "id": "cd7a74e429c7"
-    },
-    {
-      "category": "politics",
       "date": "2026-09-19 16:48:19+00:00",
       "is_development": false,
       "links": [
@@ -1996,7 +1711,8 @@
       "perspective_type": "",
       "is_development": false,
       "first_reported": "2026-09-23 07:43:33+00:00",
-      "id": "ff78f021e476"
+      "id": "ff78f021e476",
+      "last_reported": "2026-09-23 07:43:33+00:00"
     },
     {
       "title_ru": "Сложные системы стали устойчивее благодаря беспорядку",
@@ -2339,10 +2055,352 @@
       "is_development": false,
       "first_reported": "2026-09-18 06:49:37+00:00",
       "id": "afa63864c6fc"
+    },
+    {
+      "title_ru": "Солнечные энергопроизводители нацелились на открытый рынок США",
+      "title_en": "Solar energy producers targeting open US market",
+      "date": "2026-09-24 08:43:01.568393+00:00",
+      "summary": "Тайваньские производители солнечной энергии расширяют экспортные возможности, ориентируясь на открытый рынок США. Это свидетельствует о росте глобальной конкуренции в секторе возобновляемой энергетики.",
+      "category": "tech",
+      "region": "Тайвань",
+      "sources": [
+        "www.taipeitimes.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/biz/archives/2026/09/24/2003864782"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-24 08:43:01.568393+00:00",
+      "id": "88691df11f2d"
+    },
+    {
+      "title_ru": "AT&T автоматизирует рабочие места и старую телеком-империю",
+      "title_en": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
+      "date": "2026-09-23 10:15:00+00:00",
+      "summary": "Телекоммуникационный гигант AT&T проводит масштабную автоматизацию, сокращая рабочие места и трансформируя свою традиционную бизнес-модель. Это отражает общемировой тренд цифровизации телеком-индустрии.",
+      "category": "tech",
+      "region": "США",
+      "sources": [
+        "www.wired.com"
+      ],
+      "links": [
+        "https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-23 10:15:00+00:00",
+      "id": "f8497a810254"
+    },
+    {
+      "title_ru": "Не во всех регионах России инновации улучшили качество жизни",
+      "title_en": "Innovations have not improved quality of life in all regions of Russia",
+      "date": "2026-09-24 08:07:59+00:00",
+      "summary": "Исследование показывает неравномерное влияние технологических инноваций на качество жизни в разных регионах России. В некоторых областях внедрение новых технологий не привело к ожидаемому улучшению условий жизни населения.",
+      "category": "ai",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/column/innovatsii-i-kachestvo-zhizni"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-24 08:07:59+00:00",
+      "id": "4e810b09b51b"
+    },
+    {
+      "title_ru": "Рекордные цены на топливо во Франции вызывают опасения нового восстания \"желтых жилетов\"",
+      "title_en": "Record fuel prices in France spark fears of new 'Yellow Vest' uprising",
+      "date": "2026-09-24 08:42:55.516149+00:00",
+      "summary": "Резкий рост цен на топливо во Франции достиг рекордных уровней, вызывая опасения повторения массовых протестов движения \"желтых жилетов\". Ситуация создает социальную напряженность в стране.",
+      "category": "life",
+      "region": "Франция",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/22/776787/Record-fuel-prices-in-France-spark-fears-of-a-new-%E2%80%9CYellow-Vest%E2%80%9D-uprising"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-24 08:42:55.516149+00:00",
+      "id": "d3d522dfb013"
+    },
+    {
+      "title_ru": "Словакия вдвое сокращает железнодорожные тарифы на фоне роста цен на топливо",
+      "title_en": "Slovakia halves train fares as fuel prices rise",
+      "date": "2026-09-23 17:12:36+02:00",
+      "summary": "В ответ на рост цен на топливо правительство Словакии приняло решение сократить железнодорожные тарифы вдвое. Эта мера направлена на поддержку населения в условиях экономических трудностей.",
+      "category": "life",
+      "region": "Словакия",
+      "sources": [
+        "spectator.sme.sk"
+      ],
+      "links": [
+        "https://spectator.sme.sk/business/c/slovakia-halves-train-fares-as-fuel-prices-rise?utm_source=rss&utm_medium=feed&utm_campaign=spectator-rss"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-23 17:12:36+02:00",
+      "id": "245ff70bad42"
+    },
+    {
+      "title_ru": "Иран предупреждает США о последствиях новой атаки",
+      "title_en": "Iran warns US against new attack, says Washington will gain 'nothing but failure'",
+      "date": "2026-09-24 08:42:55.516022+00:00",
+      "summary": "Иран заявил о полной готовности к любым действиям США и предупредил, что Вашингтон не получит ничего, кроме провала в случае новой атаки. Это свидетельствует о росте напряженности в регионе.",
+      "category": "conflicts",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/22/776814/iran-fully-ready-for-any-us-attack-on-pickaxe-mountain-irgc"
+      ],
+      "perspective": "Иран рассматривает это как защиту своего суверенитета, США могут видеть в этом угрозу региональной стабильности",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-24 08:42:55.516022+00:00",
+      "id": "c7b5a881eb67"
+    },
+    {
+      "title_ru": "Йемен предупреждает арабские и мусульманские страны против участия в новой войне с Саудовской Аравией",
+      "title_en": "Yemen warns Arab, Muslim states against joining renewed Saudi war",
+      "date": "2026-09-24 08:42:55.515974+00:00",
+      "summary": "Правительство Йемена призвало арабские и мусульманские страны не присоединяться к планам Саудовской Аравии по возобновлению конфликта. Это указывает на продолжающуюся региональную напряженность вокруг йеменского кризиса.",
+      "category": "conflicts",
+      "region": "Йемен",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/23/776850/Sana%E2%80%99a-urges-Arab,-Muslim-countries-not-to-join-Saudi-plots-as-Yemen-repels-escalating-aggression"
+      ],
+      "perspective": "Йемен рассматривает это как защиту своего суверенитета, Саудовская Аравия может видеть в этом угрозу своей безопасности",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-24 08:42:55.515974+00:00",
+      "id": "4fd15ba63e0d"
+    },
+    {
+      "title_ru": "Минобороны России отчиталось об ударе по следовавшему в Черноморск танкеру",
+      "title_en": "Russian Defense Ministry reported strike on tanker heading to Chernomorsk",
+      "date": "2026-09-24 09:35:57+03:00",
+      "summary": "Министерство обороны России сообщило о нанесении удара по танкеру, следовавшему в порт Черноморск. Это часть продолжающихся военных действий в рамках специальной военной операции.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8973787"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": true,
+      "first_reported": "2026-09-24 09:35:57+03:00",
+      "id": "0db898a89673"
+    },
+    {
+      "title_ru": "Минобороны России сообщило об ударах по предприятиям ВПК на Украине",
+      "title_en": "Russian Defense Ministry reported strikes on defense industry enterprises in Ukraine",
+      "date": "2026-09-24 09:04:04+03:00",
+      "summary": "Российские военные нанесли удары по предприятиям военно-промышленного комплекса на Украине. Эти действия направлены на ослабление военного потенциала противника.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8973765"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-24 09:04:04+03:00",
+      "id": "6c8c0cc1cd23"
+    },
+    {
+      "title_ru": "Минфин предложил обложить пассивные доходы ПИФов налогом в 15%",
+      "title_en": "Finance Ministry proposed 15% tax on passive income of mutual funds",
+      "date": "2026-09-24 11:41:42+03:00",
+      "summary": "Министерство финансов России выступило с инициативой введения 15-процентного налога на пассивные доходы паевых инвестиционных фондов. Это часть налоговой реформы, направленной на увеличение бюджетных поступлений.",
+      "category": "economy",
+      "region": "Россия",
+      "sources": [
+        "rssexport.rbc.ru"
+      ],
+      "links": [
+        "https://www.rbc.ru/quote/24/09/2026/6ab4df6b9a79473e575e4b9a"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-24 11:41:42+03:00",
+      "id": "993791a86c75"
+    },
+    {
+      "title_ru": "Швейцария сохраняет ставки на уровне 0% — пока",
+      "title_en": "Switzerland is keeping rates at 0% — for now",
+      "date": "2026-09-24 07:58:08+00:00",
+      "summary": "Швейцарский национальный банк принял решение сохранить ключевую процентную ставку на нулевом уровне, несмотря на глобальные тенденции к ужесточению денежно-кредитной политики. Это отражает осторожный подход к экономике.",
+      "category": "economy",
+      "region": "Швейцария",
+      "sources": [
+        "www.cnbc.com"
+      ],
+      "links": [
+        "https://www.cnbc.com/2026/09/24/swiss-national-bank-interest-rates-inflation.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-24 07:58:08+00:00",
+      "id": "02bcc27569a2"
+    },
+    {
+      "title_ru": "ЕС готов разблокировать €4,2 млрд для Венгрии после решения о соблюдении правовых норм",
+      "title_en": "EU set to unlock €4.2bn after deciding rule-of-law concerns are resolved",
+      "date": "2026-09-24 03:03:32+00:00",
+      "summary": "Европейский союз готов разблокировать 4,2 миллиарда евро для Венгрии после того, как решил, что вопросы соблюдения правовых норм в стране решены. Это важный шаг в отношениях между ЕС и Венгрией.",
+      "category": "politics",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/hungary/eu-set-to-unlock-e4-2bn-after-deciding-rule-of-law-concerns-are-resolved/"
+      ],
+      "perspective": "ЕС рассматривает это как прогресс в соблюдении правовых норм, оппозиция может критиковать решение",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-24 03:03:32+00:00",
+      "id": "8b286f1a64d3"
+    },
+    {
+      "title_ru": "Совет мира Трампа представил план на $2,45 млрд для начала восстановления Газы",
+      "title_en": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+      "date": "2026-09-23 21:26:14+00:00",
+      "summary": "Совет мира администрации Трампа представил шестимесячный план стоимостью 2,45 миллиарда долларов для начала восстановления Газы. Однако реализация плана сталкивается с серьезными препятствиями.",
+      "category": "politics",
+      "region": "США",
+      "sources": [
+        "feeds.bbci.co.uk"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss"
+      ],
+      "perspective": "Администрация Трампа представляет это как мирную инициативу, критики могут сомневаться в реализуемости",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-23 21:26:14+00:00",
+      "id": "bbd1b3b9f0a3"
+    },
+    {
+      "title_ru": "Судья временно отменил запрет Трампа на доступ СМИ в Белый дом",
+      "title_en": "Judge temporarily overturns Trump's White House media ban",
+      "date": "2026-09-24 06:40:18+00:00",
+      "summary": "Федеральный судья временно отменил распоряжение президента Трампа о запрете доступа CNN, MS NOW и Politico в Белый дом. Суд постановил восстановить доступ медиа и признал, что запрет может не соответствовать правовым прецедентам.",
+      "category": "politics",
+      "region": "США",
+      "sources": [
+        "feeds.bbci.co.uk"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss"
+      ],
+      "perspective": "СМИ рассматривают это как победу свободы прессы, администрация Трампа может считать это вмешательством в исполнительную власть",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-24 06:40:18+00:00",
+      "id": "9a06aa61bb44"
+    },
+    {
+      "title_ru": "Эрдоган заявил Зеленскому, что атаки на торговые суда в Черном море \"неприемлемы\"",
+      "title_en": "Erdogan tells Zelensky attacks on merchant ships in Black Sea 'unacceptable'",
+      "date": "2026-09-24 10:50:47+03:00",
+      "summary": "Президент Турции Реджеп Тайип Эрдоган в разговоре с Владимиром Зеленским заявил, что атаки на торговые суда в Черном море являются неприемлемыми. Это важное заявление о региональной безопасности в условиях конфликта.",
+      "category": "statement",
+      "region": "Турция",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/world/2191983"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-24 10:50:47+03:00",
+      "id": "449ef7f49128"
+    },
+    {
+      "title_ru": "Строительство устойчивых средств к существованию в творческой экономике Южной Африки",
+      "title_en": "Building sustainable livelihoods in South Africa's creative economy",
+      "date": "2026-09-24 04:00:00+00:00",
+      "summary": "В Южной Африке развиваются программы по созданию устойчивых средств к существованию в творческой экономике. Это включает поддержку художников, ремесленников и других творческих профессионалов для устойчивого развития.",
+      "category": "culture",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/thought-leader/2026-09-24-building-sustainable-livelihoods-in-south-africa-s-creative-economy/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-24 04:00:00+00:00",
+      "id": "e37b876118ba"
+    },
+    {
+      "title_ru": "Nikon Z5 IIC: меньше, красивее и в основном способный",
+      "title_en": "Nikon Z5 IIC Review: Smaller, Prettier, and Mostly Capable",
+      "date": "2026-09-24 04:01:15+00:00",
+      "summary": "Компания Nikon представила обновленную версию беззеркальной камеры Z5 IIC, которая стала меньше, эстетичнее и сохранила основные возможности. Камера позиционируется как более доступный вариант для создателей контента.",
+      "category": "photo",
+      "region": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/23/nikon-z5-iic-review-smaller-prettier-and-mostly-capable/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-24 04:01:15+00:00",
+      "id": "202981c605e3"
+    },
+    {
+      "title_ru": "Протест в Каргиле требует справедливости и конституционных гарантий для Ладакха",
+      "title_en": "Kargil protest demands justice, constitutional safeguards for Ladakh",
+      "date": "2026-09-24 08:42:55.516106+00:00",
+      "summary": "В регионе Каргил проходят протесты с требованиями справедливости и конституционных гарантий для Ладакха. Демонстранты выступают за защиту прав и интересов местного населения в этом стратегически важном регионе.",
+      "category": "ecology",
+      "region": "Индия",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/23/776878/Kargil-protest-demands-justice,-constitutional-safeguards-for-Ladakh"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-24 08:42:55.516106+00:00",
+      "id": "93e530b719e9"
     }
   ],
   "_stats": {
-    "total_tokens": 2469664,
-    "total_cost": 296.812668
+    "total_tokens": 2488562,
+    "total_cost": 298.03162799999996
   }
 }
