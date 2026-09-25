@@ -1,215 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "В России запустили новое производство компонентов для лазерных станков",
-      "title_en": "Russia launches new production of components for laser machines",
-      "date": "2026-09-17 10:00:00+03:00",
-      "summary": "В России запущено новое производство компонентов для лазерных станков. Это развитие отечественной промышленности в области высокотехнологичного оборудования.",
-      "category": "tech",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20260917/stanki-2118109574.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-17 10:00:00+03:00",
-      "id": "8f1898955554"
-    },
-    {
-      "title_ru": "MagicOS 11 дебютирует с технологией Liquid Glass от Honor",
-      "title_en": "MagicOS 11 debuts with Honor's take on Apple's Liquid Glass, Storage Space 2.0, full eligible device list",
-      "date": "2026-09-17 01:23:06+00:00",
-      "summary": "Honor представила новую операционную систему MagicOS 11 с собственной версией технологии Liquid Glass и Storage Space 2.0. Это развитие мобильных технологий в Китае.",
-      "category": "tech",
-      "region": "Китай",
-      "sources": [
-        "www.gizmochina.com"
-      ],
-      "links": [
-        "https://www.gizmochina.com/2026/09/17/magicos-11-debuts-with-honors-take-on-apples-liquid-glass-storage-space-2-0-full-eligible-device-list/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-17 01:23:06+00:00",
-      "id": "cb14e3badfb0"
-    },
-    {
-      "title_ru": "Интеллект искусственный, прибавка к зарплате реальная: пользующиеся ИИ сотрудники зарабатывают на 41% больше",
-      "title_en": "Artificial intelligence, real salary increase: employees using AI earn 41% more",
-      "date": "2026-09-17 07:59:11+00:00",
-      "summary": "Сотрудники, использующие искусственный интеллект в работе, зарабатывают на 41% больше, чем те, кто не использует ИИ. Это демонстрирует экономическое влияние внедрения ИИ-технологий.",
-      "category": "ai",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/column/pribavka-k-zarplate-i-ii"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-17 07:59:11+00:00",
-      "id": "9d83bd0347e4"
-    },
-    {
-      "title_ru": "Автономные угрозы ИИ оставляют США и Китаю минуты для предотвращения ядерного кризиса",
-      "title_en": "Autonomous AI threats leave US and China minutes to prevent nuclear crisis, experts warn",
-      "date": "2026-09-17 10:40:31+00:00",
-      "summary": "Эксперты предупреждают, что автономные угрозы искусственного интеллекта оставляют США и Китаю всего минуты для предотвращения ядерного кризиса. Это подчеркивает риски, связанные с развитием ИИ-технологий.",
-      "category": "ai",
-      "region": "Мир",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/international/article-908873"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-17 10:40:31+00:00",
-      "id": "142405373ada"
-    },
-    {
-      "title_ru": "Армия России взяла Розовку и Малую Волчью",
-      "title_en": "Russian army takes Rozovka and Malaya Volchya",
-      "date": "2026-09-17 11:41:02+03:00",
-      "summary": "Российская армия взяла под контроль населенные пункты Розовку в Запорожской области и Малую Волчью в Харьковской области. Это продолжение наступательных операций ВС РФ.",
-      "category": "svo",
-      "region": "Украина",
-      "sources": [
-        "rssexport.rbc.ru"
-      ],
-      "links": [
-        "https://www.rbc.ru/politics/10/09/2026/6aa271e59a794723cee990fe"
-      ],
-      "perspective": "Российская сторона сообщает о военных успехах, украинская сторона может подтверждать или опровергать эти данные",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-17 11:41:02+03:00",
-      "id": "d15fca948bad"
-    },
-    {
-      "title_ru": "ВС России поразили два моста через Днестр для транзита военных грузов",
-      "title_en": "Russian Armed Forces hit two bridges across Dniester for military cargo transit",
-      "date": "2026-09-17 09:58:53+03:00",
-      "summary": "Вооруженные силы России поразили два моста через реку Днестр, которые использовались для транзита военных грузов. Это часть операций по нарушению логистики противника.",
-      "category": "svo",
-      "region": "Украина",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20260917/vs-2118187937.html"
-      ],
-      "perspective": "Россия сообщает о успешных ударах по военной инфраструктуре, Украина может подтверждать повреждения или отрицать их значимость",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-17 09:58:53+03:00",
-      "id": "aa87a1d52fdf"
-    },
-    {
-      "title_ru": "ВВП Беларуси за январь-август вырос на 1,9%",
-      "title_en": "Belarus GDP grows by 1.9% in January-August",
-      "date": "2026-09-17 11:15:38+03:00",
-      "summary": "Валовой внутренний продукт Беларуси за первые восемь месяцев 2026 года вырос на 1,9%. Это показывает умеренный экономический рост страны.",
-      "category": "economy",
-      "region": "Беларусь",
-      "sources": [
-        "www.belta.by"
-      ],
-      "links": [
-        "https://belta.by/economics/view/vvp-belarusi-za-janvar-avgust-vyros-na-19-801457-2026/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-17 11:15:38+03:00",
-      "id": "8640883b08f3"
-    },
-    {
-      "title_ru": "ЦИК готов отражать попытки дискредитировать выборы, заявила Памфилова",
-      "title_en": "CEC ready to counter attempts to discredit elections, Pamfilova says",
-      "date": "2026-09-17 11:45:02+03:00",
-      "summary": "Председатель ЦИК России Элла Памфилова заявила, что избирательная комиссия готова отражать попытки дискредитировать выборы. Это демонстрирует подготовку к парламентским выборам.",
-      "category": "politics",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20260917/vybory-2118216312.html"
-      ],
-      "perspective": "ЦИК заявляет о готовности обеспечить легитимность выборов, оппозиционные силы могут сомневаться в этом",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-17 11:45:02+03:00",
-      "id": "bf73eaf63b3a"
-    },
-    {
-      "title_ru": "Иранская ядерная промышленность переживет войну и удары, так как знания нельзя уничтожить силой",
-      "title_en": "Iran's nuclear industry will survive war and strikes as knowledge cannot be obliterated by force",
-      "date": "2026-09-17 08:52:41.130143+00:00",
-      "summary": "Иран заявил, что его ядерная промышленность переживет войну и удары, поскольку знания нельзя уничтожить силой. Это важное политическое заявление о ядерной программе страны.",
-      "category": "statement",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/15/776340/iran-nuclear-industry-will-survive-war-strikes-because-knowledge-cannot-obliterated-force"
-      ],
-      "perspective": "Иран демонстрирует решимость защищать свою ядерную программу, западные страны могут рассматривать это как провокацию",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-17 08:52:41.130143+00:00",
-      "id": "a9e5dcd35ae0"
-    },
-    {
-      "title_ru": "Астрономы проследили за 'возрождением' звезды Сакураи в реальном времени",
-      "title_en": "Astronomers tracked the 'rebirth' of Sakurai's star in real time",
-      "date": "2026-09-17 08:44:51+00:00",
-      "summary": "Астрономы впервые проследили за 'возрождением' звезды Сакураи в реальном времени. Это значительное научное достижение в области астрономии.",
-      "category": "culture",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/astronomy/vozrozhdeniem-zvezdy-sakurai"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-17 08:44:51+00:00",
-      "id": "b497691c4f57"
-    },
-    {
-      "title_ru": "Венгрия: реальные зарплаты обгоняют инфляцию",
-      "title_en": "Real wages race ahead of inflation as pay keeps climbing",
-      "date": "2026-09-17 06:33:10+00:00",
-      "summary": "В Венгрии реальные зарплаты продолжают расти быстрее инфляции, что улучшает покупательную способность населения. Это свидетельствует о положительной динамике на рынке труда страны.",
-      "category": "life",
-      "region": "Венгрия",
-      "sources": [
-        "budapesttimes.hu"
-      ],
-      "links": [
-        "https://www.budapesttimes.hu/economy/real-wages-race-ahead-of-inflation-as-pay-keeps-climbing/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-17 06:33:10+00:00",
-      "id": "b4719017a7c4"
-    },
-    {
       "title_ru": "Южная Корея: акции выросли более чем на 2% на фоне ослабления инфляционных опасений",
       "title_en": "Seoul stocks soar over 2 pct on eased inflation woes",
       "date": "2026-09-18 15:35:35+09:00",
@@ -305,25 +96,6 @@
       "id": "1b9d2c6deaec"
     },
     {
-      "title_ru": "Палата представителей США одобрила законопроект о санкциях против РФ",
-      "title_en": "US House of Representatives approves bill on sanctions against Russia",
-      "date": "2026-09-17 01:41:15+03:00",
-      "summary": "Палата представителей Конгресса США одобрила законопроект о новых санкциях против России. Реакция в мире на эти 'адские' санкции была резкой, по данным Politico.",
-      "category": "svo",
-      "region": "США",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8956615"
-      ],
-      "perspective": "США рассматривают санкции как необходимую меру давления, в то время как Россия и её партнеры видят в этом несправедливое ограничение",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-17 01:41:15+03:00",
-      "id": "0f9077e8c3a9"
-    },
-    {
       "title_ru": "Южная Корея рассматривает возможный вклад в безопасность Ормузского пролива",
       "title_en": "Lee says S. Korea reviewing possible contribution to Hormuz but will not get involved in war",
       "date": "2026-09-18 14:43:12+09:00",
@@ -341,25 +113,6 @@
       "is_development": false,
       "first_reported": "2026-09-18 14:43:12+09:00",
       "id": "dba51765768d"
-    },
-    {
-      "title_ru": "В ЮАР обнаружены тела девяти женщин, что вызывает опасения о серийном убийце",
-      "title_en": "Discovery of nine women's bodies raises fears of serial killer in South Africa",
-      "date": "2026-09-17 18:56:31+00:00",
-      "summary": "В ЮАР обнаружены тела девяти женщин в районе Экурхулени, что вызывает опасения о возможном серийном убийце. Инцидент обнажает проблемы с гендерным насилием и безопасностью в стране.",
-      "category": "politics",
-      "region": "ЮАР",
-      "sources": [
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/world/video-discovery-of-nine-womens-bodies-raises-fears-of-serial-killer-in-south/"
-      ],
-      "perspective": "Общественность требует действий от властей, в то время как власти сталкиваются с критикой за недостаточные меры защиты женщин",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-17 18:56:31+00:00",
-      "id": "870e0014ea8c"
     },
     {
       "title_ru": "Иран обвинил Германию в лицемерии и соучастии в войне",
@@ -474,25 +227,6 @@
       "is_development": false,
       "first_reported": "2026-09-19 10:30:33+00:00",
       "id": "c0af4a788df7"
-    },
-    {
-      "title_ru": "В ЮАР обнаружены тела девяти женщин, что вызывает опасения о серийном убийце",
-      "title_en": "Nine lives snuffed as fears escalate",
-      "date": "2026-09-17 23:00:00+00:00",
-      "summary": "В ЮАР обнаружены тела девяти женщин, что вызывает опасения о действиях серийного убийцы. Инцидент произошел в Экурхулени и обнажил проблемы с гендерным насилием в стране.",
-      "category": "life",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-09-17-nine-lives-snuffed-as-fears-escalate/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": true,
-      "first_reported": "2026-09-17 23:00:00+00:00",
-      "id": "939c643a20ab"
     },
     {
       "title_ru": "В Австралии акула убила 63-летнего пловца в Перте",
@@ -932,44 +666,6 @@
       "id": "4306389d2eeb"
     },
     {
-      "category": "economy",
-      "date": "2026-09-17 22:00:00+00:00",
-      "is_development": false,
-      "links": [
-        "https://mg.co.za/thought-leader/the-diplomat/2026-09-17-brics-opens-doors-to-a-new-business-era/"
-      ],
-      "perspective": "Страны БРИКС видят в расширении возможности для усиления экономического влияния и создания альтернативных финансовых механизмов, в то время как Запад может рассматривать это как вызов существующему миропорядку.",
-      "perspective_type": "assumed",
-      "region": "БРИКС",
-      "sources": [
-        "mg.co.za"
-      ],
-      "summary": "БРИКС открывает двери для новой бизнес-эры, расширяя экономическое сотрудничество между странами-участницами. Это включает обсуждения дедолларизации и создание альтернативных финансовых систем, хотя реальные действия пока отстают от риторики.",
-      "title_en": "BRICS opens doors to a new business era",
-      "title_ru": "БРИКС открывает двери для новой бизнес-эры",
-      "first_reported": "2026-09-17 22:00:00+00:00",
-      "id": "8329e922be0f"
-    },
-    {
-      "category": "economy",
-      "date": "2026-09-17 22:00:00+00:00",
-      "is_development": false,
-      "links": [
-        "https://mg.co.za/thought-leader/2026-09-17-the-inga-dam-project-could-be-africa-s-game-changer/"
-      ],
-      "perspective": "Проект рассматривается как возможность для экономического развития Африки, но также вызывает опасения по поводу экологических последствий и управления ресурсами.",
-      "perspective_type": "assumed",
-      "region": "ДР Конго/Африка",
-      "sources": [
-        "mg.co.za"
-      ],
-      "summary": "Проект плотины Инга в Демократической Республике Конго может стать переломным моментом для экономики Африки. Этот гидроэнергетический проект обладает потенциалом обеспечить электроэнергией значительную часть континента и стимулировать промышленное развитие.",
-      "title_en": "The Inga Dam project could be Africa's game changer",
-      "title_ru": "Проект плотины Инга может изменить правила игры в Африке",
-      "first_reported": "2026-09-17 22:00:00+00:00",
-      "id": "b04b14b0c8b0"
-    },
-    {
       "category": "politics",
       "date": "2026-09-20 08:47:54.923715+00:00",
       "is_development": false,
@@ -1027,25 +723,6 @@
       "id": "40f180dfa089"
     },
     {
-      "category": "culture",
-      "date": "2026-09-17 22:00:00+00:00",
-      "is_development": false,
-      "links": [
-        "https://mg.co.za/thought-leader/2026-09-17-beyond-attire-heritage-must-help-build-the-south-africa-we-want/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "summary": "В Южной Африке обсуждается роль культурного наследия в построении желаемого будущего страны. Статья подчеркивает, что наследие должно выходить за рамки традиционной одежды и способствовать социальному развитию.",
-      "title_en": "Beyond attire: Heritage must help build the South Africa we want",
-      "title_ru": "Наследие должно помочь построить желаемую Южную Африку",
-      "first_reported": "2026-09-17 22:00:00+00:00",
-      "id": "e4200d3136c1"
-    },
-    {
       "category": "photo",
       "date": "2026-09-19 18:00:17+00:00",
       "is_development": false,
@@ -1063,25 +740,6 @@
       "title_ru": "Insta360 открывает первый флагманский магазин в США после продажи 10-миллионной камеры",
       "first_reported": "2026-09-19 18:00:17+00:00",
       "id": "861461a64462"
-    },
-    {
-      "category": "ecology",
-      "date": "2026-09-17 22:00:00+00:00",
-      "is_development": false,
-      "links": [
-        "https://mg.co.za/thought-leader/the-diplomat/2026-09-17-sweden-sa-bring-youth-voices-into-climate-health-policy-talks/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Швеция/ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "summary": "Швеция и Южная Африка вовлекают голоса молодежи в обсуждение климатической и медицинской политики. Это сотрудничество направлено на учет мнения молодого поколения в формировании экологической и здравоохранительной повестки.",
-      "title_en": "Sweden, SA bring youth voices into climate, health policy talks",
-      "title_ru": "Швеция и ЮАР вовлекают молодежь в обсуждение климатической и медицинской политики",
-      "first_reported": "2026-09-17 22:00:00+00:00",
-      "id": "1e4afe7a6a04"
     },
     {
       "category": "tech",
@@ -1810,25 +1468,6 @@
       "id": "eda640c4b548"
     },
     {
-      "title_ru": "США и Хуситы обмениваются ударами, йеменцы бегут на лодках от распространяющейся войны",
-      "title_en": "Saudis and Houthis trade strikes as Yemenis take to boats to flee fighting as war spreads",
-      "date": "2026-09-17 15:56:31+00:00",
-      "summary": "В Йемене продолжается эскалация конфликта между саудовскими силами и хуситами, при этом местные жители массово бегут от боевых действий на лодках. Война распространяется на новые территории, вызывая гуманитарный кризис и массовое перемещение населения.",
-      "category": "conflicts",
-      "region": "Йемен",
-      "sources": [
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/world/article-saudis-houthis-exchange-strikes-middle-east-war/"
-      ],
-      "perspective": "Саудовская Аравия ведет военные действия против хуситов, в то время как хуситы сопротивляются и обвиняют саудовцев в агрессии",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-17 15:56:31+00:00",
-      "id": "d7671269e252"
-    },
-    {
       "title_ru": "Удары США по предполагаемым наркоботам могут быть преступными, заявляет эксперт ООН",
       "title_en": "U.S. Strikes on Alleged Drug Boats Could Be Criminal, U.N. Expert Says",
       "date": "2026-09-21 19:50:19+00:00",
@@ -2282,7 +1921,8 @@
       "perspective_type": "assumed",
       "is_development": false,
       "first_reported": "2026-09-24 03:03:32+00:00",
-      "id": "8b286f1a64d3"
+      "id": "8b286f1a64d3",
+      "last_reported": "2026-09-24 03:03:32+00:00"
     },
     {
       "title_ru": "Совет мира Трампа представил план на $2,45 млрд для начала восстановления Газы",
@@ -2397,10 +2037,371 @@
       "is_development": false,
       "first_reported": "2026-09-24 08:42:55.516106+00:00",
       "id": "93e530b719e9"
+    },
+    {
+      "title_ru": "Астрономы впервые поймали радиосигнал от экзопланеты",
+      "title_en": "Astronomers catch radio signal from exoplanet for first time",
+      "date": "2026-09-24 12:02:44+00:00",
+      "summary": "Астрономы впервые зафиксировали радиосигнал, исходящий от экзопланеты. Это открытие может помочь в изучении магнитных полей далеких планет и поиске признаков жизни.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/astronomy/poimali-radiosignal-ot-ekzoplanety"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-24 12:02:44+00:00",
+      "id": "baa2b2a0ae8c"
+    },
+    {
+      "title_ru": "Ученые создали «ловушку» для загрязнителей почвы",
+      "title_en": "Scientists create 'trap' for soil pollutants",
+      "date": "2026-09-25 08:02:13+00:00",
+      "summary": "Российские ученые разработали специальную «ловушку» для токсичных загрязнителей почвы, которая предотвращает их попадание в пищевые продукты. Технология направлена на повышение безопасности сельскохозяйственной продукции.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/column/lovushka-dlya-zagryaznitelej-pochvy"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-25 08:02:13+00:00",
+      "id": "2ade9772d35e"
+    },
+    {
+      "title_ru": "AT&T автоматизирует рабочие места и сокращает старую телекоммуникационную империю",
+      "title_en": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
+      "date": "2026-09-23 10:15:00+00:00",
+      "summary": "Телекоммуникационная компания AT&T активно внедряет автоматизацию, что приводит к сокращению рабочих мест и трансформации традиционного телекоммуникационного бизнеса. Компания перестраивает свою империю в условиях цифровизации.",
+      "category": "tech",
+      "region": "США",
+      "sources": [
+        "www.wired.com"
+      ],
+      "links": [
+        "https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-23 10:15:00+00:00",
+      "id": "cfc3cbeddfc6"
+    },
+    {
+      "title_ru": "ВВС Британии создали подразделение для защиты космической инфраструктуры",
+      "title_en": "British Air Force creates unit to protect space infrastructure",
+      "date": "2026-09-23 11:18:08+03:00",
+      "summary": "ВВС Великобритании сформировали специальное подразделение для защиты космической инфраструктуры страны. Это решение связано с растущими угрозами космической безопасности и необходимостью защиты спутниковых систем.",
+      "category": "tech",
+      "region": "Великобритания",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8972960"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-23 11:18:08+03:00",
+      "id": "9ad9cc9d6bad"
+    },
+    {
+      "title_ru": "Can Accenture Profit From AI Safety While AI Pressures Its Own Business Model?",
+      "title_en": "Can Accenture (ACN) Profit From AI Safety While AI Pressures Its Own Business Model?",
+      "date": "2026-09-23 05:12:20+00:00",
+      "summary": "Консалтинговая компания Accenture пытается извлечь выгоду из рынка безопасности ИИ, в то время как сама технология искусственного интеллекта оказывает давление на ее традиционную бизнес-модель. Компания ищет новые возможности в условиях технологических изменений.",
+      "category": "ai",
+      "region": "Мир",
+      "sources": [
+        "finance.yahoo.com"
+      ],
+      "links": [
+        "https://finance.yahoo.com/technology/ai/articles/accenture-acn-profit-ai-safety-051220155.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-23 05:12:20+00:00",
+      "id": "ab3864bd2cfb"
+    },
+    {
+      "title_ru": "Минпромторг напомнил о повышении утильсбора на 10-20% с января 2027 года",
+      "title_en": "Minpromtorg reminded about increase in recycling fee by 10-20% from January 2027",
+      "date": "2026-09-23 15:03:46+03:00",
+      "summary": "Министерство промышленности и торговли России напомнило о планируемом повышении утилизационного сбора на автомобили на 10-20% с января 2027 года. Это решение может повлиять на стоимость автомобилей для потребителей.",
+      "category": "life",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8973184"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-23 15:03:46+03:00",
+      "id": "9e2d5d4523be"
+    },
+    {
+      "title_ru": "Виза в Египет с января подорожает до $33",
+      "title_en": "Egypt visa to rise to $33 from January",
+      "date": "2026-09-23 13:30:21+03:00",
+      "summary": "Стоимость визы в Египет для российских туристов увеличится до 33 долларов с января следующего года. Это повышение может повлиять на стоимость туристических поездок в страну.",
+      "category": "life",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8973123"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-23 13:30:21+03:00",
+      "id": "787c93cd577a"
+    },
+    {
+      "title_ru": "Великобритания урежет выплаты принимающим украинских беженцев более чем на 70%",
+      "title_en": "UK to cut payments to hosts of Ukrainian refugees by more than 70%",
+      "date": "2026-09-25 11:51:06+03:00",
+      "summary": "Великобритания сократит выплаты семьям, принимающим украинских беженцев, более чем на 70%. Это решение может существенно ухудшить условия поддержки беженцев и создать дополнительные трудности для принимающих семей.",
+      "category": "life",
+      "region": "Великобритания",
+      "sources": [
+        "www.belta.by"
+      ],
+      "links": [
+        "https://belta.by/world/view/velikobritanija-urezhet-vyplaty-prinimajuschim-ukrainskih-bezhentsev-bolee-chem-na-70-802779-2026/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-25 11:51:06+03:00",
+      "id": "461ce8689deb"
+    },
+    {
+      "title_ru": "Италия запретит паранджу в школах и ограничит число иностранных учеников",
+      "title_en": "Italy to ban burqa in schools, limit foreign pupils",
+      "date": "2026-09-25 08:10:00+00:00",
+      "summary": "Италия планирует запретить ношение паранджи в школах и ограничить количество иностранных учеников в образовательных учреждениях. Эти меры являются частью политики по регулированию иммиграции и культурной интеграции.",
+      "category": "conflicts",
+      "region": "Италия",
+      "sources": [
+        "rss.dw.com"
+      ],
+      "links": [
+        "https://www.dw.com/en/italy-to-ban-burqa-in-schools-limit-foreign-pupils/a-79423432?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "perspective": "Италия рассматривает это как меру безопасности и культурной интеграции, в то время как мусульманские организации могут видеть в этом ограничение религиозных свобод",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-25 08:10:00+00:00",
+      "id": "7bdc6c687f18"
+    },
+    {
+      "title_ru": "Над Брянской областью за сутки уничтожили более 40 украинских БПЛА",
+      "title_en": "Over 40 Ukrainian UAVs destroyed over Bryansk region in a day",
+      "date": "2026-09-25 10:13:46+03:00",
+      "summary": "Российские системы ПВО за сутки уничтожили более 40 украинских беспилотных летательных аппаратов над территорией Брянской области. Это свидетельствует об интенсивности воздушных атак со стороны Украины.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260925/bpla-2120187462.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-25 10:13:46+03:00",
+      "id": "f71e948121ee"
+    },
+    {
+      "title_ru": "ЕС передал Украине €8 млрд из прибыли от замороженных активов России",
+      "title_en": "EU transferred €8 billion to Ukraine from profits of frozen Russian assets",
+      "date": "2026-09-24 08:38:43+03:00",
+      "summary": "Европейский союз передал Украине 8 миллиардов евро, полученных из прибыли от замороженных российских активов. Эти средства предназначены для поддержки Украины в условиях продолжающегося конфликта.",
+      "category": "svo",
+      "region": "Европа",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8973749"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-24 08:38:43+03:00",
+      "id": "aa94b221ebb5"
+    },
+    {
+      "title_ru": "Лавров и Гутерриш обсудили конфликт на Украине",
+      "title_en": "Lavrov and Guterres discussed conflict in Ukraine",
+      "date": "2026-09-25 07:24:20+03:00",
+      "summary": "Министр иностранных дел России Сергей Лавров провел переговоры с генеральным секретарем ООН Антониу Гутерришем, в ходе которых обсуждался украинский конфликт. Встреча состоялась в рамках сессии Генеральной Ассамблеи ООН.",
+      "category": "svo",
+      "region": "Мир",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8974716"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-25 07:24:20+03:00",
+      "id": "574ed28135fc"
+    },
+    {
+      "title_ru": "Мишустин перечислил приоритеты федерального бюджета на 2027 год",
+      "title_en": "Mishustin listed priorities of federal budget for 2027",
+      "date": "2026-09-24 16:35:29+03:00",
+      "summary": "Премьер-министр России Михаил Мишустин обозначил ключевые приоритеты федерального бюджета на 2027 год. Основное внимание будет уделено социальной сфере, оборонной промышленности и инфраструктурным проектам.",
+      "category": "economy",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8974318"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-24 16:35:29+03:00",
+      "id": "e7f26bc722d6"
+    },
+    {
+      "title_ru": "«Единая Россия» получила конституционное большинство в Госдуме",
+      "title_en": "United Russia received constitutional majority in State Duma",
+      "date": "2026-09-25 11:40:36+03:00",
+      "summary": "Партия «Единая Россия» по итогам выборов получила конституционное большинство в Государственной Думе РФ, завоевав 349 мест. ЦИК РФ официально подвел итоги выборов в нижнюю палату парламента.",
+      "category": "politics",
+      "region": "Россия",
+      "sources": [
+        "www.belta.by"
+      ],
+      "links": [
+        "https://belta.by/world/view/edinaja-rossija-poluchila-konstitutsionnoe-bolshinstvo-v-gosdume-tsik-rf-podvel-itogi-vyborov-802776-2026/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-25 11:40:36+03:00",
+      "id": "d9d4cb05de02"
+    },
+    {
+      "title_ru": "Памфилова рассказала о самой высокой за 10 лет явке на выборах в Госдуму",
+      "title_en": "Pamfilova told about highest turnout in 10 years at State Duma elections",
+      "date": "2026-09-25 11:52:43+03:00",
+      "summary": "Председатель ЦИК России Элла Памфилова сообщила, что явка избирателей на выборах в Государственную Думу стала самой высокой за последние 10 лет. Она также отметила штатную работу дистанционного электронного голосования.",
+      "category": "politics",
+      "region": "Россия",
+      "sources": [
+        "rssexport.rbc.ru"
+      ],
+      "links": [
+        "https://www.rbc.ru/rbcfreenews/6ab635bb5331ded8608c06ad"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-25 11:52:43+03:00",
+      "id": "f947c320c5d1"
+    },
+    {
+      "title_ru": "Верховный командующий КСИР: «Мы не боимся войны» — это непоколебимый голос иранской нации",
+      "title_en": "‘We are not afraid of war’ is unwavering voice of Iranian nation, says IRGC top commander",
+      "date": "2026-09-24 15:46:59+00:00",
+      "summary": "Верховный командующий Корпуса стражей исламской революции Ирана заявил, что фраза «Мы не боимся войны» отражает непоколебимую позицию иранской нации. Это заявление прозвучало на фоне напряженности в регионе.",
+      "category": "statement",
+      "region": "Иран",
+      "sources": [
+        "en.irna.ir"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86273612/We-are-not-afraid-of-war-is-unwavering-voice-of-Iranian-nation"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-24 15:46:59+00:00",
+      "id": "610e520e460f"
+    },
+    {
+      "title_ru": "Строительство устойчивых средств к существованию в творческой экономике Южной Африки",
+      "title_en": "Building sustainable livelihoods in South Africa’s creative economy",
+      "date": "2026-09-24 04:00:00+00:00",
+      "summary": "В Южной Африке реализуются проекты по созданию устойчивых средств к существованию в рамках творческой экономики. Эти инициативы направлены на поддержку культурных работников и развитие креативных индустрий.",
+      "category": "culture",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/thought-leader/2026-09-24-building-sustainable-livelihoods-in-south-africa-s-creative-economy/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": true,
+      "first_reported": "2026-09-24 04:00:00+00:00",
+      "id": "0ee05885edbc"
+    },
+    {
+      "title_ru": "15 фотографий, которые вдохновят вас участвовать в Sony World Photography Awards 2027",
+      "title_en": "15 Photos to Inspire You to Enter the Sony World Photography Awards 2027",
+      "date": "2026-09-24 17:11:21+00:00",
+      "summary": "Опубликована подборка из 15 фотографий, которые должны вдохновить фотографов на участие в престижном конкурсе Sony World Photography Awards 2027. Конкурс привлекает фотографов со всего мира.",
+      "category": "photo",
+      "region": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/24/15-photos-to-inspire-you-to-enter-the-sony-world-photography-awards-2027/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-24 17:11:21+00:00",
+      "id": "23f2247b1b65"
+    },
+    {
+      "title_ru": "Эрмело готовится к очередному «Дню ноль»",
+      "title_en": "Ermelo braces for another Day Zero",
+      "date": "2026-09-24 22:00:00+00:00",
+      "summary": "Город Эрмело в Южной Африке готовится к очередному «Дню ноль» — ситуации, когда запасы воды полностью иссякнут. Это связано с серьезными проблемами водоснабжения в регионе.",
+      "category": "ecology",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/the-green-guardian/2026-09-24-ermelo-braces-for-another-day-zero/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-24 22:00:00+00:00",
+      "id": "3f41742b77e7"
     }
   ],
   "_stats": {
-    "total_tokens": 2488562,
-    "total_cost": 298.03162799999996
+    "total_tokens": 2506520,
+    "total_cost": 299.194308
   }
 }
