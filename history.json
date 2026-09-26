@@ -1,158 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Южная Корея: акции выросли более чем на 2% на фоне ослабления инфляционных опасений",
-      "title_en": "Seoul stocks soar over 2 pct on eased inflation woes",
-      "date": "2026-09-18 15:35:35+09:00",
-      "summary": "Фондовый рынок Южной Кореи показал значительный рост более чем на 2% благодаря ослаблению опасений по поводу инфляции. Это отражает улучшение экономических настроений в стране.",
-      "category": "economy",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260918007300320"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-18 15:35:35+09:00",
-      "id": "a6d2b092ddb7"
-    },
-    {
-      "title_ru": "Иран атаковал танкер под флагом Того в Ормузском проливе",
-      "title_en": "IRGC Navy strikes Togo-flagged tanker after illegal attempt to transit Strait of Hormuz",
-      "date": "2026-09-18 08:27:58.818836+00:00",
-      "summary": "Корпус стражей исламской революции Ирана атаковал танкер под флагом Того, который пытался совершить незаконный транзит через Ормузский пролив. Инцидент обостряет ситуацию в стратегически важном регионе.",
-      "category": "conflicts",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/17/776498/IRGC-Navy-strikes-Togo-flagged-tanker-after-illegal-attempt-to-transit-Strait-of-Hormuz"
-      ],
-      "perspective": "Иран рассматривает это как защиту своих территориальных вод, в то время как международное сообщество может расценивать действия как эскалацию напряженности",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-18 08:27:58.818836+00:00",
-      "id": "1416b55e84bf"
-    },
-    {
-      "title_ru": "Йеменские силы атаковали объекты Aramco и авиабазу в Саудовской Аравии",
-      "title_en": "Yemeni army targets Aramco facilities, King Khalid Air Base in Saudi Arabia",
-      "date": "2026-09-18 08:27:58.819431+00:00",
-      "summary": "Йеменские вооруженные силы атаковали объекты нефтяной компании Aramco и авиабазу Короля Халида в Саудовской Аравии. Это продолжение конфликта между хуситами и саудовской коалицией.",
-      "category": "conflicts",
-      "region": "Йемен",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/16/776408/Yemeni-Armed-Forces-target-Aramco-facilities,-King-Khalid-Air-Base-in-Saudi-Arabia"
-      ],
-      "perspective": "Йеменские силы рассматривают атаки как ответ на саудовскую агрессию, в то время как Саудовская Аравия считает их террористическими актами",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-18 08:27:58.819431+00:00",
-      "id": "1d7f4a9b538f"
-    },
-    {
-      "title_ru": "Памфилова: больше всего членов избиркомов погибло в Запорожской области",
-      "title_en": "Pamfilova: most election commission members killed in Zaporozhye region",
-      "date": "2026-09-18 11:22:20+03:00",
-      "summary": "Председатель ЦИК России Элла Памфилова сообщила, что наибольшее количество членов избирательных комиссий погибло в Запорожской области. Она также рассказала об угрозах членам избиркомов и их семьям.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/proisshestviya/28124511"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-18 11:22:20+03:00",
-      "id": "e9e5b5d29277"
-    },
-    {
-      "title_ru": "В Сочи избирательные участки заработали после отмены сигнала об атаке БПЛА",
-      "title_en": "Polling stations in Sochi resume work after drone attack alert cancellation",
-      "date": "2026-09-18 11:10:14+03:00",
-      "summary": "Избирательные участки в Сочи возобновили работу после отмены сигнала об атаке беспилотных летательных аппаратов. Ранее участки были приостановлены из-за угрозы дронов.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/politika/28124467"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-18 11:10:14+03:00",
-      "id": "1b9d2c6deaec"
-    },
-    {
-      "title_ru": "Южная Корея рассматривает возможный вклад в безопасность Ормузского пролива",
-      "title_en": "Lee says S. Korea reviewing possible contribution to Hormuz but will not get involved in war",
-      "date": "2026-09-18 14:43:12+09:00",
-      "summary": "Президент Южной Кореи Ли заявил, что страна рассматривает возможный вклад в обеспечение безопасности Ормузского пролива, но не будет вовлекаться в войну. Это происходит на фоне протестов против отправки войск в регион.",
-      "category": "politics",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260918001555315"
-      ],
-      "perspective": "Южная Корея пытается балансировать между союзническими обязательствами и нежеланием втягиваться в конфликт",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-18 14:43:12+09:00",
-      "id": "dba51765768d"
-    },
-    {
-      "title_ru": "Иран обвинил Германию в лицемерии и соучастии в войне",
-      "title_en": "Germany cannot underwrite the dirty work: Iran slams Chancellor Merz hypocrisy",
-      "date": "2026-09-18 08:27:58.819370+00:00",
-      "summary": "Иран обвинил канцлера Германии Мерца в лицемерии и соучастии в войне США и Израиля. Это заявление является частью дипломатической конфронтации Ирана с западными странами.",
-      "category": "statement",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/16/776420/Cannot-underwrite-dirty-work-Iran-blasts-German-chancellor-over-hypocrisy-complicity-in-US-Israeli-war"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-18 08:27:58.819370+00:00",
-      "id": "ea62ed22e80d"
-    },
-    {
-      "title_ru": "В ЮАР убито не менее 124 защитников окружающей среды в 2025 году",
-      "title_en": "At least 124 environmental defenders killed globally in 2025",
-      "date": "2026-09-18 06:49:37+00:00",
-      "summary": "В 2025 году по всему миру было убито не менее 124 защитников окружающей среды. Эти данные подчеркивают опасности, с которыми сталкиваются активисты, борющиеся за экологические права.",
-      "category": "ecology",
-      "region": "Мир",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-09-18-at-least-124-environmental-defenders-killed-globally-in-2025/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-18 06:49:37+00:00",
-      "id": "4cdcb204ff15"
-    },
-    {
       "title_ru": "Израильские исследователи разработали аэрогель для очистки от разливов нефти",
       "title_en": "'Sponge of the sea': Israeli researchers develop aerogel that captures, breaks down oil spills",
       "date": "2026-09-19 07:52:20+00:00",
@@ -267,25 +115,6 @@
       "id": "07d3263a5fac"
     },
     {
-      "title_ru": "Атаки в Ормузском проливе привели к разливу нефти в Персидском заливе",
-      "title_en": "Strait of Hormuz attacks spill oil into Persian Gulf",
-      "date": "2026-09-18 19:05:00+00:00",
-      "summary": "Атаки в Ормузском проливе привели к разливу нефти в Персидском заливе. Инцидент создает экологическую угрозу и осложняет ситуацию в стратегически важном регионе.",
-      "category": "conflicts",
-      "region": "Ближний Восток",
-      "sources": [
-        "rss.dw.com"
-      ],
-      "links": [
-        "https://www.dw.com/en/strait-of-hormuz-attacks-spill-oil-into-persian-gulf/a-79327092?maca=en-rss-en-all-1573-xml-mrss"
-      ],
-      "perspective": "Событие может оцениваться как эскалация регионального конфликта и экологическая катастрофа",
-      "perspective_type": "assumed",
-      "is_development": true,
-      "first_reported": "2026-09-18 19:05:00+00:00",
-      "id": "299394e0db85"
-    },
-    {
       "title_ru": "Южная Корея рассматривает отправку войск в Ормузский пролив",
       "title_en": "South Koreans protest against sending troops to Strait of Hormuz",
       "date": "2026-09-19 08:16:11.876374+00:00",
@@ -381,63 +210,6 @@
       "id": "9d90ba0a933d"
     },
     {
-      "title_ru": "Россия передала активы Auchan и Nestle во временное управление",
-      "title_en": "Russia says Nestle, Auchan asset seizures payback for Europe's actions",
-      "date": "2026-09-18 17:30:00+03:00",
-      "summary": "Россия передала активы компаний Auchan и Nestle во временное управление российской компании. Это ответная мера на действия европейских стран в отношении российских активов.",
-      "category": "economy",
-      "region": "Россия",
-      "sources": [
-        "www.dailysabah.com"
-      ],
-      "links": [
-        "https://www.dailysabah.com/business/economy/russia-says-nestle-auchan-asset-seizures-payback-for-europes-actions"
-      ],
-      "perspective": "Россия рассматривает это как ответ на санкции, Запад видит в этом нарушение прав собственности",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-18 17:30:00+03:00",
-      "id": "bed0be3bf263"
-    },
-    {
-      "title_ru": "Турция обязала крупнейшие банки ликвидировать фонды на $18,3 млрд",
-      "title_en": "Türkiye mandates largest public, private banks to liquidate $18.3B funds",
-      "date": "2026-09-18 12:17:00+03:00",
-      "summary": "Турция обязала крупнейшие государственные и частные банки ликвидировать фонды на сумму 18,3 млрд долларов. Это решение принято для стабилизации финансового рынка страны.",
-      "category": "economy",
-      "region": "Турция",
-      "sources": [
-        "www.dailysabah.com"
-      ],
-      "links": [
-        "https://www.dailysabah.com/business/economy/turkiye-mandates-largest-public-private-banks-to-liquidate-183b-funds"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-18 12:17:00+03:00",
-      "id": "783191201b0a"
-    },
-    {
-      "title_ru": "Иран заявил, что США видят мир как улей, а не суверенные нации",
-      "title_en": "Iran: US sees world as a hive, not sovereign nations",
-      "date": "2026-09-18 14:14:17+00:00",
-      "summary": "Иран заявил, что США рассматривают мир как улей, а не как суверенные нации. Это заявление отражает критику американской внешней политики со стороны Тегерана.",
-      "category": "politics",
-      "region": "Иран",
-      "sources": [
-        "en.irna.ir"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86267380/Iran-US-sees-world-as-a-hive-not-sovereign-nations"
-      ],
-      "perspective": "Иран критикует американскую политику, США могут рассматривать это как риторику",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-18 14:14:17+00:00",
-      "id": "46066bd667a8"
-    },
-    {
       "title_ru": "Россия и Китай наложили вето на антииранскую резолюцию",
       "title_en": "Russia, China veto on anti‑Iran draft will be recorded in history: Iran envoy",
       "date": "2026-09-19 05:57:38+00:00",
@@ -474,25 +246,6 @@
       "is_development": false,
       "first_reported": "2026-09-19 08:16:11.877081+00:00",
       "id": "f7b943865199"
-    },
-    {
-      "title_ru": "NASA показало фото до и после массивного удара астероида по Луне",
-      "title_en": "NASA Photos Show Before and After of Massive Asteroid Impact on the Moon",
-      "date": "2026-09-18 15:00:06+00:00",
-      "summary": "NASA опубликовало фотографии до и после массивного удара астероида по Луне. Снимки демонстрируют масштабные изменения лунной поверхности в результате космического столкновения.",
-      "category": "photo",
-      "region": "Мир",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/09/18/nasa-photos-show-before-and-after-of-massive-asteroid-impact-on-the-moon/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-18 15:00:06+00:00",
-      "id": "556113a411bc"
     },
     {
       "category": "tech",
@@ -1085,26 +838,6 @@
       "id": "444fec14edeb"
     },
     {
-      "category": "ecology",
-      "date": "2026-09-18 06:49:37+00:00",
-      "is_development": false,
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-09-18-at-least-124-environmental-defenders-killed-globally-in-2025/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "Мир",
-      "sources": [
-        "mg.co.za"
-      ],
-      "summary": "В 2025 году по всему миру были убиты как минимум 124 защитника окружающей среды. Большинство убийств связано с конфликтами вокруг добычи полезных ископаемых, лесозаготовок и агробизнеса.",
-      "title_en": "At least 124 environmental defenders killed globally in 2025",
-      "title_ru": "Как минимум 124 защитника окружающей среды убиты по всему миру в 2025 году",
-      "first_reported": "2026-09-18 06:49:37+00:00",
-      "id": "0b5612284497",
-      "last_reported": "2026-09-18 06:49:37+00:00"
-    },
-    {
       "title_ru": "Океаны внутри ледяных лун смогли «пережить» гигантские столкновения",
       "title_en": "Oceans inside icy moons could survive giant collisions",
       "date": "2026-09-22 06:15:00+00:00",
@@ -1677,25 +1410,6 @@
       "id": "bc0f08565d78"
     },
     {
-      "title_ru": "По меньшей мере 124 защитника окружающей среды убиты по всему миру в 2025 году",
-      "title_en": "At least 124 environmental defenders killed globally in 2025",
-      "date": "2026-09-18 06:49:37+00:00",
-      "summary": "В 2025 году по всему миру было убито не менее 124 защитников окружающей среды. Эти активисты погибли, защищая природные ресурсы, земли коренных народов и экосистемы от незаконной эксплуатации и разрушения, что свидетельствует о продолжающемся насилии против экоактивистов.",
-      "category": "ecology",
-      "region": "Мир",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-09-18-at-least-124-environmental-defenders-killed-globally-in-2025/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-18 06:49:37+00:00",
-      "id": "afa63864c6fc"
-    },
-    {
       "title_ru": "Солнечные энергопроизводители нацелились на открытый рынок США",
       "title_en": "Solar energy producers targeting open US market",
       "date": "2026-09-24 08:43:01.568393+00:00",
@@ -2055,7 +1769,8 @@
       "perspective_type": "",
       "is_development": false,
       "first_reported": "2026-09-24 12:02:44+00:00",
-      "id": "baa2b2a0ae8c"
+      "id": "baa2b2a0ae8c",
+      "last_reported": "2026-09-24 12:02:44+00:00"
     },
     {
       "title_ru": "Ученые создали «ловушку» для загрязнителей почвы",
@@ -2398,10 +2113,333 @@
       "is_development": false,
       "first_reported": "2026-09-24 22:00:00+00:00",
       "id": "3f41742b77e7"
+    },
+    {
+      "title_ru": "Взрыв на Эльгинском месторождении в Якутии",
+      "title_en": "Explosion at Elga coal field in Yakutia",
+      "date": "2026-09-26 11:36:13+03:00",
+      "summary": "На Эльгинском угольном месторождении в Якутии произошел взрыв, возможной причиной которого названы работы с взрывчатыми веществами. Компания \"Эльгауголь\" сообщила, что угрозы развития ситуации нет, и производственный процесс продолжается.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/proisshestviya/28154155"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-26 11:36:13+03:00",
+      "id": "f93daef5e900"
+    },
+    {
+      "title_ru": "Tesla наконец переходит к электрификации грузоперевозок после десятилетия работы",
+      "title_en": "Tesla finally moves to electrify trucking after a decade of work and delays",
+      "date": "2026-09-25 15:24:50+00:00",
+      "summary": "Компания Tesla после десяти лет разработок и задержек наконец начинает электрификацию грузоперевозок. Это важный шаг в развитии электрического транспорта для коммерческого сектора.",
+      "category": "tech",
+      "region": "США",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-25 15:24:50+00:00",
+      "id": "ed9af6a4ed55"
+    },
+    {
+      "title_ru": "Китай, Индия и Турция составляют две трети экспорта через терминалы Port Alliance",
+      "title_en": "China, India, Turkey account for two-thirds of exports via terminals of Port Alliance",
+      "date": "2026-09-25 20:03:52+03:00",
+      "summary": "Китай, Индия и Турция обеспечивают две трети всего экспорта через терминалы Port Alliance. Это свидетельствует о значительной роли этих стран в мировой торговле и логистике.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/economy/2192975"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-25 20:03:52+03:00",
+      "id": "a0a957968a54"
+    },
+    {
+      "title_ru": "Египетский глава разведки посетил Израиль за несколько дней до 7 октября с предупреждением о безопасности",
+      "title_en": "Egyptian intelligence chief visited Israel days before Oct. 7 to issue security warning - report",
+      "date": "2026-09-26 10:05:04+00:00",
+      "summary": "Египетский глава разведки посетил Израиль за несколько дней до событий 7 октября 2023 года, чтобы передать предупреждение о безопасности. Этот визит свидетельствует о попытках предотвратить эскалацию конфликта.",
+      "category": "ai",
+      "region": "Израиль",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/israel-news/defense-news/article-909763"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-26 10:05:04+00:00",
+      "id": "ea56657bbefe"
+    },
+    {
+      "title_ru": "Нетаньяху не обсуждал предупреждение ОАЭ о событиях 7 октября на совещании по безопасности в Газе",
+      "title_en": "Netanyahu did not discuss UAE's October 7 warning at Gaza security meeting week of attack - report",
+      "date": "2026-09-26 00:38:16+00:00",
+      "summary": "Премьер-министр Израиля Биньямин Нетаньяху не обсуждал предупреждение ОАЭ о возможных событиях 7 октября на совещании по безопасности в Газе за неделю до атаки. Это вызывает вопросы о готовности израильских властей.",
+      "category": "ai",
+      "region": "Израиль",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/israel-news/article-909744"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-26 00:38:16+00:00",
+      "id": "bd1b586304c4"
+    },
+    {
+      "title_ru": "На Кубани из-за падения обломков БПЛА погибли три человека",
+      "title_en": "Three killed in Kuban due to falling UAV debris",
+      "date": "2026-09-26 10:55:56+03:00",
+      "summary": "В Краснодарском крае при падении обломков беспилотного летательного аппарата погибли три человека. Также около 26 тысяч жителей остались без электричества из-за атаки БПЛА.",
+      "category": "life",
+      "region": "Россия",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/proisshestviya/28154095"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-26 10:55:56+03:00",
+      "id": "d49b1d930226"
+    },
+    {
+      "title_ru": "Взрыв в туристическом районе Афин, шесть человек пропали без вести",
+      "title_en": "6 People Are Missing After Explosion in Athens Tourist District",
+      "date": "2026-09-25 20:23:42+00:00",
+      "summary": "Взрыв произошел в туристическом районе Афин недалеко от Акрополя, в результате чего шесть человек пропали без вести. Поисково-спасательные работы продолжаются.",
+      "category": "life",
+      "region": "Греция",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-25 20:23:42+00:00",
+      "id": "788956734280"
+    },
+    {
+      "title_ru": "Смертельный исход от пожара на филиппинском пароме вырос до 76 человек",
+      "title_en": "Death toll from Philippine ferry fire rises to 76",
+      "date": "2026-09-26 08:48:31.460515+00:00",
+      "summary": "Число погибших в результате пожара на филиппинском пароме увеличилось до 76 человек. Это одна из самых масштабных морских катастроф в регионе за последнее время.",
+      "category": "life",
+      "region": "Филиппины",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/13/776208/-Philippine-ferry-fire-Death-toll"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-26 08:48:31.460515+00:00",
+      "id": "9008e619b072"
+    },
+    {
+      "title_ru": "Сын посла Израиля в США тяжело ранен в результате нападения на Западном берегу",
+      "title_en": "Son of Israeli Ambassador to U.S. Critically Hurt in West Bank Attack, Officials Say",
+      "date": "2026-09-24 14:38:47+00:00",
+      "summary": "Сын посла Израиля в США был тяжело ранен в результате нападения на Западном берегу реки Иордан. Инцидент произошел на фоне продолжающейся напряженности в регионе.",
+      "category": "conflicts",
+      "region": "Израиль",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/09/24/world/middleeast/israel-ambassador-leiter-son-west-bank-attack.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-24 14:38:47+00:00",
+      "id": "1165cf9154d0"
+    },
+    {
+      "title_ru": "Удары по районам на юге Ливана, где израильский режим заявляет о контроле",
+      "title_en": "Strikes hit areas in south Lebanon where Israeli regime claims to control",
+      "date": "2026-09-26 08:48:31.460765+00:00",
+      "summary": "Удары нанесены по районам на юге Ливана, где израильский режим заявляет о своем контроле. Это свидетельствует об эскалации напряженности на ливано-израильской границе.",
+      "category": "conflicts",
+      "region": "Ливан",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/22/776795/-Strikes-hit-areas-where-Israeli-regime-claims-to-have-control-"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-26 08:48:31.460765+00:00",
+      "id": "83ed21d2994d"
+    },
+    {
+      "title_ru": "Силы ПВО уничтожили 645 украинских дронов за ночь",
+      "title_en": "Russian air defense destroys 645 Ukrainian drones overnight",
+      "date": "2026-09-26 08:22:28+03:00",
+      "summary": "Российские силы ПВО за ночь уничтожили 645 украинских беспилотных летательных аппаратов над регионами России. Это одна из самых масштабных атак дронов со стороны Украины.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260926/pvo-2120395558.html"
+      ],
+      "is_development": true,
+      "first_reported": "2026-09-26 08:22:28+03:00",
+      "id": "b624935a3471"
+    },
+    {
+      "title_ru": "Силы ПВО уничтожили 45 дронов над Калужской областью за ночь",
+      "title_en": "Air defense destroys 45 drones over Kaluga region overnight",
+      "date": "2026-09-26 08:47:56+03:00",
+      "summary": "Российские силы ПВО за ночь уничтожили 45 беспилотных летательных аппаратов над Калужской областью. Атаки дронов продолжаются в различных регионах России.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260926/shapsha-2120397444.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-26 08:47:56+03:00",
+      "id": "4b2bc2fb53bd"
+    },
+    {
+      "title_ru": "Экономисты ожидают роста немецкой экономики после нескольких трудных лет",
+      "title_en": "After several difficult years, economists now expect German economy to grow",
+      "date": "2026-09-24 17:04:00+00:00",
+      "summary": "После нескольких трудных лет экономисты теперь ожидают роста немецкой экономики. Это важный сигнал для крупнейшей экономики Европы, которая переживала спад.",
+      "category": "economy",
+      "region": "Германия",
+      "sources": [
+        "rss.dw.com"
+      ],
+      "links": [
+        "https://www.dw.com/en/after-several-difficult-years-economists-now-expect-german-economy-to-grow/a-79418591?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-24 17:04:00+00:00",
+      "id": "e5e673cc5c8a"
+    },
+    {
+      "title_ru": "ЕС разблокирует €4,2 млрд для Венгрии после решения о соблюдении принципов верховенства права",
+      "title_en": "EU set to unlock €4.2bn after deciding rule-of-law concerns are resolved",
+      "date": "2026-09-24 03:03:32+00:00",
+      "summary": "Европейский союз готов разблокировать 4,2 миллиарда евро для Венгрии после решения о том, что проблемы с верховенством права решены. Это важный шаг в отношениях ЕС и Венгрии.",
+      "category": "economy",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/hungary/eu-set-to-unlock-e4-2bn-after-deciding-rule-of-law-concerns-are-resolved/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-24 03:03:32+00:00",
+      "id": "8c2771b76c56"
+    },
+    {
+      "title_ru": "Верховный суд США разрешил Трампу использовать федеральную базу данных для проверки списков избирателей",
+      "title_en": "Supreme Court grants Trump request to use federal database to verify voter rolls",
+      "date": "2026-09-25 21:40:21+02:00",
+      "summary": "Верховный суд США удовлетворил просьбу президента Дональда Трампа использовать федеральную базу данных для проверки списков избирателей. Это решение может повлиять на предстоящие выборы.",
+      "category": "politics",
+      "region": "США",
+      "sources": [
+        "www.lemonde.fr"
+      ],
+      "links": [
+        "https://www.lemonde.fr/en/international/article/2026/09/25/supreme-court-grants-trump-request-to-use-federal-database-to-verify-voter-rolls_6757961_4.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-25 21:40:21+02:00",
+      "id": "a995cb2501b9"
+    },
+    {
+      "title_ru": "Германия и Венгрия хоронят топор — с танками",
+      "title_en": "Germany and Hungary bury the hatchet — with tanks",
+      "date": "2026-09-26 03:20:06+00:00",
+      "summary": "Германия и Венгрия нормализуют отношения после периода напряженности, что символизируется совместными военными учениями с участием танков. Это важный шаг в европейской политике.",
+      "category": "politics",
+      "region": "Европа",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/hungary/germany-and-hungary-bury-the-hatchet-with-tanks/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-26 03:20:06+00:00",
+      "id": "c99c0d6f4d49"
+    },
+    {
+      "title_ru": "Президент Ирана на ГА ООН заявил, что Исламская Республика является жертвой терроризма США и Израиля",
+      "title_en": "Iran's president at UNGA says Islamic Republic is victim of US, Israeli terrorism",
+      "date": "2026-09-26 08:48:31.460750+00:00",
+      "summary": "Президент Ирана на Генеральной Ассамблее ООН заявил, что Исламская Республика является жертвой терроризма со стороны США и Израиля. Это одно из самых резких заявлений иранского руководства на международной арене.",
+      "category": "statement",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/24/776927/News-Review--Iran%E2%80%99s-president-at-UNGA-says-Islamic-Republic-victim-of-US-and-Israel%E2%80%99s-terrorism-"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-26 08:48:31.460750+00:00",
+      "id": "dd984ce7b0bc"
+    },
+    {
+      "title_ru": "Шай Болтон выигрывает медаль Норма Смита 2026 года",
+      "title_en": "Shai Bolton wins 2026 Norm Smith Medal",
+      "date": "2026-09-26 17:33:32+10:00",
+      "summary": "Австралийский футболист Шай Болтон выиграл медаль Норма Смита 2026 года, одну из самых престижных наград в австралийском футболе. Это важное спортивное достижение.",
+      "category": "culture",
+      "region": "Австралия",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/sport/afl/shai-bolton-wins-2026-norm-smith-medal-20260926-p610cs.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-26 17:33:32+10:00",
+      "id": "bf59ec40cdbf"
+    },
+    {
+      "title_ru": "Африка столкнется с десятками тысяч дополнительных смертей от жары из-за усиления Эль-Ниньо",
+      "title_en": "Africa faces tens of thousands of additional heat deaths as El Niño intensifies",
+      "date": "2026-09-25 13:25:17+00:00",
+      "summary": "Африка может столкнуться с десятками тысяч дополнительных смертей от жары из-за усиления климатического феномена Эль-Ниньо. Это серьезная экологическая угроза для континента.",
+      "category": "ecology",
+      "region": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/the-green-guardian/2026-09-24-africa-faces-tens-of-thousands-of-additional-heat-deaths-as-el-nino-intensifies/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-25 13:25:17+00:00",
+      "id": "904db81a1a8d"
     }
   ],
   "_stats": {
-    "total_tokens": 2506520,
-    "total_cost": 299.194308
+    "total_tokens": 2524780,
+    "total_cost": 300.37048799999997
   }
 }
