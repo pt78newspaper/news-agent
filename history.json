@@ -1,253 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Израильские исследователи разработали аэрогель для очистки от разливов нефти",
-      "title_en": "'Sponge of the sea': Israeli researchers develop aerogel that captures, breaks down oil spills",
-      "date": "2026-09-19 07:52:20+00:00",
-      "summary": "Израильские ученые создали новый аэрогель, который способен захватывать и разлагать нефтяные разливы. Технология может быть использована для очистки морской воды от загрязнений нефтью.",
-      "category": "tech",
-      "region": "Израиль",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/environment-and-climate-change/article-908953"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-19 07:52:20+00:00",
-      "id": "d8f435b75055"
-    },
-    {
-      "title_ru": "Тайвань замораживает тарифы на электроэнергию до декабря",
-      "title_en": "Ministry freezes electricity rates until December meet",
-      "date": "2026-09-19 08:16:16.734151+00:00",
-      "summary": "Министерство экономики Тайваня заморозило тарифы на электроэнергию до декабря 2026 года. Решение принято для стабилизации цен и поддержки потребителей.",
-      "category": "tech",
-      "region": "Тайвань",
-      "sources": [
-        "www.taipeitimes.com"
-      ],
-      "links": [
-        "https://www.taipeitimes.com/News/front/archives/2026/09/19/2003864522"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-19 08:16:16.734151+00:00",
-      "id": "91bb866d5c7c"
-    },
-    {
-      "title_ru": "Китайские заказы на судостроение почти утроились из-за войны в Иране",
-      "title_en": "China shipbuilding orders nearly triple on Iran war windfall",
-      "date": "2026-09-19 08:16:14.807455+00:00",
-      "summary": "Заказы на судостроение в Китае почти утроились из-за военного конфликта в Иране. Это связано с повышенным спросом на морские перевозки и логистику в регионе.",
-      "category": "tech",
-      "region": "Китай",
-      "sources": [
-        "asia.nikkei.com"
-      ],
-      "links": [
-        "https://asia.nikkei.com/business/business-trends/china-shipbuilding-orders-nearly-triple-on-iran-war-windfall"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-19 08:16:14.807455+00:00",
-      "id": "0745a7061dad"
-    },
-    {
-      "title_ru": "Китай, Иран и израильские группы используют ИИ для кампаний влияния в соцсетях",
-      "title_en": "China, Iran, Israeli groups weaponize AI for first-of-their-kind social media influence campaigns",
-      "date": "2026-09-19 10:30:33+00:00",
-      "summary": "Китай, Иран и израильские группы начали использовать искусственный интеллект для кампаний влияния в социальных сетях. Это первые в своем роде кампании, использующие ИИ для создания контента и манипулирования общественным мнением.",
-      "category": "ai",
-      "region": "Мир",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/business-and-innovation/article-909100"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-19 10:30:33+00:00",
-      "id": "c0af4a788df7"
-    },
-    {
-      "title_ru": "В Австралии акула убила 63-летнего пловца в Перте",
-      "title_en": "'Extraordinary step': Shark that killed 63-year-old Perth swimmer to be destroyed",
-      "date": "2026-09-19 15:30:16+10:00",
-      "summary": "В Перте, Австралия, акула убила 63-летнего пловца. Власти приняли решение уничтожить акулу, что является исключительной мерой для предотвращения дальнейших нападений.",
-      "category": "life",
-      "region": "Австралия",
-      "sources": [
-        "www.smh.com.au"
-      ],
-      "links": [
-        "https://www.smh.com.au/national/western-australia/extraordinary-step-shark-that-killed-63-year-old-perth-swimmer-to-be-destroyed-20260919-p60ysg.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-19 15:30:16+10:00",
-      "id": "f8ccc69430d5"
-    },
-    {
-      "title_ru": "В Боливии отменили субсидии на дизельное топливо после одобрения кредита МВФ",
-      "title_en": "Bolivia Ends Diesel Subsidy Hours After Congress Clears IMF Loan",
-      "date": "2026-09-19 08:06:48+00:00",
-      "summary": "Боливия отменила субсидии на дизельное топливо через несколько часов после того, как конгресс одобрил кредит МВФ. Это решение может привести к росту цен на топливо и повлиять на экономику страны.",
-      "category": "life",
-      "region": "Боливия",
-      "sources": [
-        "riotimesonline.com"
-      ],
-      "links": [
-        "https://www.riotimesonline.com/bolivia-diesel-subsidy-removed-imf-loan-senate-2026/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-19 08:06:48+00:00",
-      "id": "07d3263a5fac"
-    },
-    {
-      "title_ru": "Южная Корея рассматривает отправку войск в Ормузский пролив",
-      "title_en": "South Koreans protest against sending troops to Strait of Hormuz",
-      "date": "2026-09-19 08:16:11.876374+00:00",
-      "summary": "В Южной Корее проходят протесты против отправки войск в Ормузский пролив. Решение о возможном военном участии обсуждается на фоне напряженности в регионе.",
-      "category": "conflicts",
-      "region": "Южная Корея",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/09/775960/South-Korea-Seoul-protest-naval-deployment-Hormuz-Strait-"
-      ],
-      "perspective": "Протестующие выступают против военного вмешательства, правительство рассматривает участие в обеспечении безопасности",
-      "perspective_type": "assumed",
-      "is_development": true,
-      "first_reported": "2026-09-19 08:16:11.876374+00:00",
-      "id": "94ebd43cfda4"
-    },
-    {
-      "title_ru": "Израильский удар по мотоциклу убил палестинца в Газе",
-      "title_en": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
-      "date": "2026-09-19 08:16:11.876294+00:00",
-      "summary": "Израильский удар по мотоциклу убил палестинца в Газе и ранил ребенка. Инцидент произошел в Газе и привел к жертвам среди мирного населения.",
-      "category": "conflicts",
-      "region": "Палестина",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/19/776571/Israeli-strike-on-motorcycle-kills-Palestinian-in-Gaza-City,-injures-several-others,-including-child"
-      ],
-      "perspective": "Израиль рассматривает это как операцию против угроз, палестинцы видят в этом нападение на мирных жителей",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-19 08:16:11.876294+00:00",
-      "id": "62db057bb42b"
-    },
-    {
-      "title_ru": "Над Курской областью за сутки сбили 180 БПЛА",
-      "title_en": "Над Курской областью за сутки сбили 180 БПЛА",
-      "date": "2026-09-19 10:38:40+03:00",
-      "summary": "Над Курской областью за последние сутки сбили 180 беспилотных летательных аппаратов. Это свидетельствует об интенсивности атак на российскую территорию.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/proisshestviya/28127983"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-19 10:38:40+03:00",
-      "id": "40d91af76f1b"
-    },
-    {
-      "title_ru": "В Брянской области за сутки уничтожили 255 беспилотников",
-      "title_en": "В Брянской области за сутки уничтожили 255 беспилотников",
-      "date": "2026-09-19 10:01:39+03:00",
-      "summary": "В Брянской области за последние сутки уничтожили 255 беспилотных летательных аппаратов. Системы ПВО активно работают против атакующих дронов.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8970465"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-19 10:01:39+03:00",
-      "id": "7aa8141ba0a3"
-    },
-    {
-      "title_ru": "На Запорожье первый день голосования прошел без ЧП и атак БПЛА на участки",
-      "title_en": "На Запорожье первый день голосования прошел без ЧП и атак БПЛА на участки",
-      "date": "2026-09-19 11:07:30+03:00",
-      "summary": "В Запорожской области первый день голосования на выборах прошел без чрезвычайных происшествий и атак беспилотников на избирательные участки. Это свидетельствует о стабильности процесса.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/obschestvo/28128223"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-19 11:07:30+03:00",
-      "id": "9d90ba0a933d"
-    },
-    {
-      "title_ru": "Россия и Китай наложили вето на антииранскую резолюцию",
-      "title_en": "Russia, China veto on anti‑Iran draft will be recorded in history: Iran envoy",
-      "date": "2026-09-19 05:57:38+00:00",
-      "summary": "Россия и Китай наложили вето на антииранскую резолюцию в Совете Безопасности ООН. Иранский представитель заявил, что это решение войдет в историю как поддержка Тегерана.",
-      "category": "politics",
-      "region": "Мир",
-      "sources": [
-        "en.irna.ir"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86267611/Russia-China-veto-on-anti-Iran-draft-will-be-recorded-in-history"
-      ],
-      "perspective": "Иран и его союзники видят в этом поддержку, Запад может рассматривать как препятствие санкциям",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-19 05:57:38+00:00",
-      "id": "99f4eca26787"
-    },
-    {
-      "title_ru": "Иранские спортсменки завоевали золотые медали на международных соревнованиях",
-      "title_en": "Iran's Gheitasi wins gold in mas-wrestling at 2026 World Nomad Games",
-      "date": "2026-09-19 08:16:11.877081+00:00",
-      "summary": "Иранская спортсменка Гейтаси завоевала золотую медаль в мас-рестлинге на Всемирных играх кочевников 2026 года. Это достижение демонстрирует успехи иранских спортсменов на международной арене.",
-      "category": "culture",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/02/775560/Iran-s-Gheitasi-wins-gold-in-mas-wrestling-at-2026-World-Nomad-Games"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-19 08:16:11.877081+00:00",
-      "id": "f7b943865199"
-    },
-    {
       "category": "tech",
       "date": "2026-09-20 08:47:59.865258+00:00",
       "is_development": false,
@@ -362,25 +115,6 @@
       "id": "4e0ad897d370"
     },
     {
-      "category": "conflicts",
-      "date": "2026-09-19 20:38:24+00:00",
-      "is_development": false,
-      "links": [
-        "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260919-mali-le-bilan-de-l-attaque-des-jihadistes-%C3%A0-dioura-s-alourdit-%C3%A0-une-centaine-de-militaires-tu%C3%A9s"
-      ],
-      "perspective": "Джихадисты укрепляют свои позиции в регионе, в то время как правительство Мали и международные силы сталкиваются с серьезными вызовами в борьбе с терроризмом.",
-      "perspective_type": "assumed",
-      "region": "Мали",
-      "sources": [
-        "france24.com"
-      ],
-      "summary": "В Мали число погибших военных в результате атаки джихадистов в Диуре возросло до примерно ста человек. Это одна из самых смертоносных атак на малийские вооруженные силы, демонстрирующая сохраняющуюся мощь исламистских группировок в регионе.",
-      "title_en": "Mali: death toll from jihadist attack in Dioura rises to about a hundred soldiers",
-      "title_ru": "В Мали число погибших военных в результате атаки джихадистов достигло сотни",
-      "first_reported": "2026-09-19 20:38:24+00:00",
-      "id": "07700758b619"
-    },
-    {
       "category": "svo",
       "date": "2026-09-20 07:05:22+00:00",
       "is_development": false,
@@ -436,63 +170,6 @@
       "title_ru": "Столкновения полиции и протестующих в Албании из-за проекта, связанного с Трампом",
       "first_reported": "2026-09-20 08:47:54.923715+00:00",
       "id": "cacc6410cc78"
-    },
-    {
-      "category": "politics",
-      "date": "2026-09-19 16:48:19+00:00",
-      "is_development": false,
-      "links": [
-        "https://www.france24.com/fr/am%C3%A9riques/20260919-acc%C3%A8s-interdit-%C3%A0-la-maison-blanche-pour-cnn-ms-now-et-politico"
-      ],
-      "perspective": "Администрация Трампа ограничивает доступ критически настроенным СМИ, рассматривая это как ответ на предвзятость, в то время как медиа видят в этом атаку на свободу прессы.",
-      "perspective_type": "assumed",
-      "region": "США",
-      "sources": [
-        "france24.com"
-      ],
-      "summary": "Администрация Белого дома запретила доступ CNN, MS NOW и Politico к пресс-мероприятиям. Это решение отражает продолжающийся конфликт между администрацией Трампа и основными средствами массовой информации.",
-      "title_en": "White House bans CNN, MS NOW and Politico from press events",
-      "title_ru": "Белый дом запретил доступ CNN, MS NOW и Politico к пресс-мероприятиям",
-      "first_reported": "2026-09-19 16:48:19+00:00",
-      "id": "041661de3164"
-    },
-    {
-      "category": "statement",
-      "date": "2026-09-19 17:50:55+02:00",
-      "is_development": false,
-      "links": [
-        "https://www.lemonde.fr/en/culture/article/2026/09/19/ed-sheeran-returns-to-stage-in-first-show-after-palestinian-controversy_6757718_30.html"
-      ],
-      "perspective": "Ширан выражает гуманитарную озабоченность, в то время как его заявление может быть воспринято как политическое вмешательство в сложный конфликт.",
-      "perspective_type": "assumed",
-      "region": "Великобритания/Мир",
-      "sources": [
-        "lemonde.fr"
-      ],
-      "summary": "Британский певец Эд Ширан заявил, что ситуация в Газе 'неоправданна', во время своего первого выступления после палестинского скандала. Это одно из самых громких заявлений знаменитости по ближневосточному конфликту за последнее время.",
-      "title_en": "Ed Sheeran says Gaza situation 'unjustifiable' at first show amid Palestinian controversy",
-      "title_ru": "Эд Ширан назвал ситуацию в Газе 'неоправданной'",
-      "first_reported": "2026-09-19 17:50:55+02:00",
-      "id": "40f180dfa089"
-    },
-    {
-      "category": "photo",
-      "date": "2026-09-19 18:00:17+00:00",
-      "is_development": false,
-      "links": [
-        "https://petapixel.com/2026/09/19/as-insta360-sells-its-10-millionth-camera-it-opens-first-flagship-store-in-the-us/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "region": "США",
-      "sources": [
-        "petapixel.com"
-      ],
-      "summary": "Компания Insta360, продавшая 10-миллионную камеру, открыла свой первый флагманский магазин в США. Это знаменует важную веху для производителя камер и отражает рост популярности 360-градусной фотографии.",
-      "title_en": "As Insta360 Sells Its 10 Millionth Camera, It Opens First Flagship Store In the US",
-      "title_ru": "Insta360 открывает первый флагманский магазин в США после продажи 10-миллионной камеры",
-      "first_reported": "2026-09-19 18:00:17+00:00",
-      "id": "861461a64462"
     },
     {
       "category": "tech",
@@ -1065,25 +742,6 @@
       "is_development": false,
       "first_reported": "2026-09-22 08:47:16.457108+00:00",
       "id": "0055d77c13fc"
-    },
-    {
-      "title_ru": "Женщины и молодые фотографы стоят за метеорическим ростом Fujifilm",
-      "title_en": "Women and younger photographers are behind Fujifilm's meteoric rise",
-      "date": "2026-09-19 13:00:17+00:00",
-      "summary": "Согласно анализу рынка фотографии, женщины и молодые фотографы стали основной движущей силой стремительного роста популярности камер Fujifilm. Это отражает изменение демографии в профессиональной фотографии.",
-      "category": "photo",
-      "region": "Мир",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/09/19/women-and-younger-photographers-are-behind-fujifilms-meteoric-rise/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-19 13:00:17+00:00",
-      "id": "74f72836c76c"
     },
     {
       "title_ru": "Физики промоделировали солитон, который гаснет по команде",
@@ -2384,7 +2042,8 @@
       ],
       "is_development": false,
       "first_reported": "2026-09-26 03:20:06+00:00",
-      "id": "c99c0d6f4d49"
+      "id": "c99c0d6f4d49",
+      "last_reported": "2026-09-26 03:20:06+00:00"
     },
     {
       "title_ru": "Президент Ирана на ГА ООН заявил, что Исламская Республика является жертвой терроризма США и Израиля",
@@ -2436,10 +2095,276 @@
       "is_development": false,
       "first_reported": "2026-09-25 13:25:17+00:00",
       "id": "904db81a1a8d"
+    },
+    {
+      "title_ru": "Австралия превращает бывшую золотодобывающую шахту в гидроаккумулирующий хаб",
+      "title_en": "Australia transforms former gold mine into pumped-hydro hub using two pits to store 2,000 MWh",
+      "date": "2026-09-26 07:00:00+05:30",
+      "summary": "Австралия создает крупный гидроаккумулирующий энергоузел на месте бывшей золотодобывающей шахты. Два отработанных карьера будут использоваться для хранения 2000 МВт·ч электроэнергии, что повысит надежность энергосистемы.",
+      "category": "tech",
+      "region": "Австралия",
+      "sources": [
+        "timesofindia.indiatimes.com"
+      ],
+      "links": [
+        "https://timesofindia.indiatimes.com/world/rest-of-world/australia-turns-a-former-gold-mine-into-a-pumped-hydro-storage-hub-using-two-disused-pits-to-store-2000-mwh-of-electricity/articleshow/134481127.cms"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-26 07:00:00+05:30",
+      "id": "d98e2082e651"
+    },
+    {
+      "title_ru": "Иран модернизирует военные возможности и улучшает дрон 'Араш'",
+      "title_en": "Iran reconfigures military capabilities, upgrades Arash drone for battlefield: Army",
+      "date": "2026-09-27 09:29:51.879695+00:00",
+      "summary": "Иранская армия объявила о реконфигурации военных возможностей и модернизации барражирующего боеприпаса 'Араш'. Улучшения направлены на повышение эффективности дрона на поле боя.",
+      "category": "tech",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/25/777004/Iran-strengthens-its-military-capabilities,-upgrades-%E2%80%98Arash%E2%80%99-loitering-munition--Army-general"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-27 09:29:51.879695+00:00",
+      "id": "e8c32d424183"
+    },
+    {
+      "title_ru": "Астрономы впервые поймали радиосигнал от экзопланеты",
+      "title_en": "Astronomers first caught radio signal from exoplanet",
+      "date": "2026-09-24 12:02:44+00:00",
+      "summary": "Астрономы впервые зафиксировали радиосигнал от экзопланеты. Это открытие может предоставить новые методы изучения планет за пределами Солнечной системы.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/astronomy/poimali-radiosignal-ot-ekzoplanety"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-24 12:02:44+00:00",
+      "id": "cb68725cb51b"
+    },
+    {
+      "title_ru": "Meta открывает ранний доступ к новым функциям Muse",
+      "title_en": "Meta opens early access program for new Muse features",
+      "date": "2026-09-25 20:34:53+00:00",
+      "summary": "Компания Meta запускает программу раннего доступа к новым функциям своего ИИ-продукта Muse. Это позволит пользователям тестировать обновления до их широкого релиза.",
+      "category": "ai",
+      "region": "США",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-25 20:34:53+00:00",
+      "id": "eb9446bb8395"
+    },
+    {
+      "title_ru": "Bank of America поддерживает акции Meta после сюрприза с Muse",
+      "title_en": "Bank of America backs Meta stock after Muse surprise",
+      "date": "2026-09-23 02:03:00+00:00",
+      "summary": "Bank of America повысил рекомендацию по акциям Meta после неожиданного успеха ИИ-продукта Muse. Аналитики считают, что Muse может стать значимым драйвером роста компании.",
+      "category": "ai",
+      "region": "США",
+      "sources": [
+        "finance.yahoo.com"
+      ],
+      "links": [
+        "https://finance.yahoo.com/markets/stocks/articles/bank-america-backs-meta-stock-020300157.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-23 02:03:00+00:00",
+      "id": "ca82f05e0d01"
+    },
+    {
+      "title_ru": "Четыре человека погибли в крушении вертолета под Монреалем",
+      "title_en": "Helicopter crashes outside Montreal, killing all 4 occupants",
+      "date": "2026-09-26 16:51:48+00:00",
+      "summary": "Вертолет разбился недалеко от Монреаля, Канада, погибли все четыре человека на борту. Причины катастрофы расследуются.",
+      "category": "life",
+      "region": "Канада",
+      "sources": [
+        "www.cbc.ca"
+      ],
+      "links": [
+        "https://www.cbc.ca/news/canada/montreal/quebec-helicopter-crash-9.7359866?cmp=rss"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-26 16:51:48+00:00",
+      "id": "82c077a805e5"
+    },
+    {
+      "title_ru": "Эрмело готовится к очередному 'Дню ноль'",
+      "title_en": "Ermelo braces for another Day Zero",
+      "date": "2026-09-24 22:00:00+00:00",
+      "summary": "Город Эрмело в ЮАР готовится к очередному 'Дню ноль' - ситуации, когда водоснабжение будет полностью прекращено из-за нехватки воды. Это повторение кризиса, который уже происходил ранее.",
+      "category": "life",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/the-green-guardian/2026-09-24-ermelo-braces-for-another-day-zero/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-24 22:00:00+00:00",
+      "id": "3319954d157f"
+    },
+    {
+      "title_ru": "Пакистан наносит точные удары по 10 афганским объектам после вторжения дрона",
+      "title_en": "Pakistan executes precision strikes on 10 Afghan sites following drone incursion",
+      "date": "2026-09-27 09:29:51.879783+00:00",
+      "summary": "Пакистан провел точные удары по 10 объектам в Афганистане в ответ на вторжение беспилотника на свою территорию. Это эскалация напряженности между двумя странами.",
+      "category": "conflicts",
+      "region": "Пакистан",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/25/776961/Pakistan-executes-precision-strikes-on-Afghan-sites-following-drone-incursion"
+      ],
+      "perspective": "Пакистан рассматривает это как ответ на нарушение своего воздушного пространства, в то время как Афганистан может считать это нарушением своего суверенитета",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-27 09:29:51.879783+00:00",
+      "id": "34aca02b45d9"
+    },
+    {
+      "title_ru": "Российская армия взяла харьковские Хрипуны",
+      "title_en": "Russian army took Khripuny in Kharkiv region",
+      "date": "2026-09-27 11:09:19+03:00",
+      "summary": "Российские военные взяли под контроль населенный пункт Хрипуны в Харьковской области Украины. Министерство обороны России подтвердило этот успех.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8987958"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-27 11:09:19+03:00",
+      "id": "c93aa8c57099"
+    },
+    {
+      "title_ru": "Силы ПВО сбили за ночь над Россией 96 беспилотников ВСУ",
+      "title_en": "Air defense forces shot down 96 Ukrainian drones over Russia overnight",
+      "date": "2026-09-27 08:58:04+03:00",
+      "summary": "Российские силы противовоздушной обороны за ночь сбили 96 украинских беспилотников над территорией России. Это продолжение масштабных атак дронами со стороны Украины.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8987916"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": true,
+      "first_reported": "2026-09-27 08:58:04+03:00",
+      "id": "6392d8bcd226"
+    },
+    {
+      "title_ru": "ВС России поразили объекты топливно-энергетической инфраструктуры ВСУ",
+      "title_en": "Russian forces hit fuel and energy infrastructure objects of Ukrainian Armed Forces",
+      "date": "2026-09-27 11:08:12+03:00",
+      "summary": "Российские военные нанесли удары по объектам топливно-энергетической инфраструктуры Вооруженных сил Украины. Это часть продолжающихся боевых действий на территории Украины.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260927/vs-2120525283.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-27 11:08:12+03:00",
+      "id": "5503e8138232"
+    },
+    {
+      "title_ru": "Песков: победа ЕР на выборах говорит о консолидации общества вокруг Путина",
+      "title_en": "Peskov: United Russia's election victory speaks of society's consolidation around Putin",
+      "date": "2026-09-27 12:27:39+03:00",
+      "summary": "Пресс-секретарь президента России Дмитрий Песков заявил, что победа 'Единой России' на выборах в Госдуму свидетельствует о консолидации общества вокруг Владимира Путина. Он также отметил, что решение о поездке Путина на саммит G20 в Майами пока не принималось.",
+      "category": "politics",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260927/peskov-2120533540.html"
+      ],
+      "perspective": "Власти России рассматривают это как подтверждение поддержки курса президента, в то время как оппозиция может считать результаты сфальсифицированными",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-27 12:27:39+03:00",
+      "id": "a97d976532df"
+    },
+    {
+      "title_ru": "Президент Ирана на ГА ООН заявил, что Исламская Республика является жертвой терроризма США и Израиля",
+      "title_en": "Iran's president at UNGA says Islamic Republic is victim of US, Israeli terrorism",
+      "date": "2026-09-27 09:29:51.879607+00:00",
+      "summary": "Президент Ирана Масуд Пежешкиян выступил на Генеральной ассамблее ООН, заявив, что Исламская Республика является жертвой терроризма со стороны США и Израиля. Он также обвинил администрацию Трампа в поддержке терроризма.",
+      "category": "statement",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/24/776927/News-Review--Iran%E2%80%99s-president-at-UNGA-says-Islamic-Republic-victim-of-US-and-Israel%E2%80%99s-terrorism-"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": true,
+      "first_reported": "2026-09-27 09:29:51.879607+00:00",
+      "id": "54967633ac07"
+    },
+    {
+      "title_ru": "Туристическая фотография случайно привела к открытию нового вида цветов",
+      "title_en": "Tourist's Photo Accidentally Leads to Discovery of New Flower Species",
+      "date": "2026-09-25 14:23:33+00:00",
+      "summary": "Фотография, сделанная туристом во время путешествия, случайно привела к открытию нового вида цветов. Ботаники идентифицировали неизвестный ранее вид растений после изучения снимка.",
+      "category": "photo",
+      "region": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/25/tourists-photo-accidentally-leads-to-discovery-of-new-flower-species/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-25 14:23:33+00:00",
+      "id": "ab728be46fcb"
     }
   ],
   "_stats": {
-    "total_tokens": 2524780,
-    "total_cost": 300.37048799999997
+    "total_tokens": 2542911,
+    "total_cost": 301.53232799999995
   }
 }
