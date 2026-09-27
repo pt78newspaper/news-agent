@@ -1,7 +1,8 @@
-import sys, os, json, hashlib, requests
+import sys, os, json, hashlib, requests, difflib, re
+from datetime import datetime, timedelta
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from news_agent.fetcher import fetch_all
-from news_agent.analyzer import cluster_news
+from news_agent.analyzer import cluster_news, extract_keywords
 from news_agent.ai_summarizer import summarize_news, get_system_prompt
 
 STATS_FILE = "output/stats.json"
@@ -64,8 +65,97 @@ def save_history(events, stats=None):
 
 
 def hash_event(e):
-    raw = (e.get("title_ru", "") + e.get("title_en", "") + e.get("date", "")).strip().lower()
+    raw = normalize_title(e.get("title_ru", "") + " " + e.get("title_en", "") + " " + e.get("date", ""))
     return hashlib.md5(raw.encode("utf-8")).hexdigest()[:12]
+
+
+def normalize_title(t):
+    t = t.lower()
+    t = re.sub(r'[^\w\s]', '', t)
+    stopwords = {'и','в','на','с','по','для','от','из','к','о','об','за','над','под','перед','после','между','через','без','про','против','the','a','an','and','or','but','in','on','at','to','for','of','by','with','from','as','is','are','was','were','be','been','being','have','has','had','do','does','did','will','would','could','should','may','might','shall','can','need','it','its','this','that','these','those','i','you','he','she','we','they','my','your','his','her','our','their','not','no','nor','so','up','out','if','about','into','than','also','just','more','some','very','after','before','between','over','under','again','further','then','once','here','there','when','where','why','how','all','each','every','both','few','most','other','such','only','own','same','too','very','says','said','report','reported','according','new','news','first','last','year','years','time','one','two'}
+    words = [w for w in t.split() if w not in stopwords]
+    return ' '.join(words)
+
+
+def _get_cluster_keywords(cluster):
+    text = ""
+    for a in cluster:
+        text += (a.get("title", "") + " " + a.get("summary", ""))[:400].lower()
+    return extract_keywords(text, "")[:5]
+
+
+def _get_event_keywords(ev):
+    text = (ev.get("title_ru", "") + " " + ev.get("summary", "")).lower()
+    return extract_keywords(text, "")[:5]
+
+
+def _titles_similar(t1, t2, threshold=0.75):
+    if not t1 or not t2:
+        return False
+    return difflib.SequenceMatcher(None, t1.lower(), t2.lower()).ratio() > threshold
+
+
+def _clusters_similar_to_history(cluster, history_events, days=4):
+    cutoff = (datetime.utcnow() - timedelta(days=days)).strftime("%Y-%m-%d")
+    recent = [e for e in history_events if (e.get("date") or e.get("first_reported", ""))[:10] >= cutoff]
+    if not recent:
+        return False
+    cluster_kw = set(_get_cluster_keywords(cluster))
+    cluster_title = cluster[0].get("title", "") if cluster else ""
+    for hist in recent:
+        hist_kw = set(_get_event_keywords(hist))
+        if len(cluster_kw & hist_kw) >= 3:
+            return True
+        hist_title = hist.get("title_ru", "") or hist.get("title_en", "")
+        if _titles_similar(cluster_title, hist_title):
+            return True
+    return False
+
+
+def prefilter_clusters(clusters, history, days=4):
+    if not history:
+        return clusters
+    filtered = []
+    dropped = 0
+    for c in clusters:
+        if _clusters_similar_to_history(c, history, days):
+            dropped += 1
+            title = c[0].get("title", "")[:80] if c else ""
+            print(f"  [PRE-FILTER] Dropped duplicate cluster: {title}")
+        else:
+            filtered.append(c)
+    if dropped:
+        print(f"  [PRE-FILTER] Dropped {dropped} clusters, {len(filtered)} remaining")
+    return filtered
+
+
+def postfilter_events(events, history, days=4):
+    if not history or not events:
+        return events
+    cutoff = (datetime.utcnow() - timedelta(days=days)).strftime("%Y-%m-%d")
+    recent = [e for e in history if (e.get("date") or e.get("first_reported", ""))[:10] >= cutoff]
+    if not recent:
+        return events
+    filtered = []
+    dropped = 0
+    for ev in events:
+        is_dup = False
+        ev_kw = set(_get_event_keywords(ev))
+        ev_title = ev.get("title_ru", "") or ev.get("title_en", "")
+        for hist in recent:
+            if ev.get("is_development"):
+                continue
+            hist_kw = set(_get_event_keywords(hist))
+            hist_title = hist.get("title_ru", "") or hist.get("title_en", "")
+            if len(ev_kw & hist_kw) >= 3 or _titles_similar(ev_title, hist_title):
+                is_dup = True
+                print(f"  [POST-FILTER] Dropped duplicate event: {ev_title[:80]} ~ {hist_title[:80]}")
+                break
+        if not is_dup:
+            filtered.append(ev)
+    if dropped:
+        print(f"  [POST-FILTER] Dropped {dropped} events, {len(filtered)} remaining")
+    return filtered
 
 
 AREAS_ORDER = ["Россия", "Северная и Центральная Америка", "Южная Америка", "Европа", "Ближний Восток", "Дальний Восток", "Южная и Юго-Восточная Азия", "Океания и Австралия", "Африка"]
@@ -473,6 +563,8 @@ def main():
         old_stats = {}
     print(f"History: {len(history)} past events")
 
+    selected = prefilter_clusters(selected, history, days=4)
+
     usage = None
     events = None
     if api_key:
@@ -481,6 +573,10 @@ def main():
             from collections import Counter
             cat_dist = Counter(e.get("category", "politics") for e in events)
             print(f"  Cat distribution: {dict(cat_dist)}")
+            events = postfilter_events(events, history, days=4)
+            if events:
+                cat_dist2 = Counter(e.get("category", "politics") for e in events)
+                print(f"  Cat distribution (after post-filter): {dict(cat_dist2)}")
         if usage:
             cumul_tokens = old_stats.get("total_tokens", 0) + usage.get("tokens", 0)
             cumul_cost = old_stats.get("total_cost", 0) + usage.get("cost", 0)

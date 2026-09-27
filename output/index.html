@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>News Feed PT78</title>
+<style>
+  :root {
+    --bg: #f7f7fa;
+    --card: #ffffff;
+    --card-hover: #f0f0f5;
+    --text: #222;
+    --text-dim: #777;
+    --border: #ddd;
+    --accent: #6c4cf5;
+    --en: #1565c0;
+    --ru: #d84315;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+  }
+  .header {
+    padding: 40px 20px 20px;
+    text-align: center;
+    border-bottom: 1px solid var(--border);
+    background: linear-gradient(135deg, #ede7f6 0%, #e3f2fd 100%);
+  }
+  .header h1 { font-size: 28px; color: #333; margin-bottom: 8px; }
+  .header .subtitle { color: var(--text-dim); font-size: 14px; }
+  .header .update-time { color: var(--accent); font-size: 13px; margin-top: 8px; }
+  .header .ai-badge {
+    display: inline-block;
+    font-size: 10px; font-weight: 600;
+    padding: 2px 8px; border-radius: 4px;
+    background: var(--accent); color: #fff;
+    margin-left: 8px; vertical-align: middle;
+    letter-spacing: 0.5px;
+  }
+  .container { max-width: 1100px; margin: 0 auto; padding: 20px; }
+  .stats-row {
+    display: flex; gap: 12px; flex-wrap: wrap;
+    justify-content: center; margin-bottom: 30px;
+  }
+  .stat-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 12px 20px;
+    text-align: center;
+    min-width: 100px;
+  }
+  .stat-card .num { font-size: 24px; font-weight: 700; color: var(--text); }
+  .stat-card .lbl { font-size: 11px; color: var(--text-dim); text-transform: uppercase; letter-spacing: 1px; }
+  .story { margin-bottom: 24px; }
+  .story-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+    transition: border-color 0.2s, background 0.2s;
+  }
+  .story-card:hover { border-color: var(--accent); background: var(--card-hover); }
+  .story-header {
+    padding: 16px 20px;
+    border-bottom: 1px solid var(--border);
+    display: flex; align-items: flex-start; gap: 12px;
+  }
+  .story-number {
+    background: var(--accent);
+    color: #fff;
+    width: 28px; height: 28px;
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 13px; font-weight: 700;
+    flex-shrink: 0; margin-top: 4px;
+  }
+  .story-titles { flex: 1; min-width: 0; }
+  .title-en {
+    font-size: 16px; font-weight: 600;
+    color: var(--en);
+    line-height: 1.4;
+    margin-bottom: 4px;
+  }
+  .title-ru {
+    font-size: 14px; font-weight: 500;
+    color: var(--ru);
+    line-height: 1.4;
+  }
+  .story-body { padding: 16px 20px; }
+  .summary {
+    background: rgba(0,0,0,0.02);
+    border-radius: 8px;
+    padding: 12px 14px;
+    margin-bottom: 12px;
+    font-size: 14px;
+    color: var(--text);
+    line-height: 1.5;
+  }
+  .summary .summ-en {
+    margin-bottom: 10px;
+    color: #1565c0;
+  }
+  .summary .summ-ru {
+    color: #d84315;
+    border-top: 1px solid #eee;
+    padding-top: 10px;
+  }
+  .summary .summ-label {
+    font-size: 10px; font-weight: 600;
+    text-transform: uppercase; letter-spacing: 1px;
+    display: block; margin-bottom: 4px;
+    color: var(--text-dim);
+  }
+  .comparison {
+    margin-bottom: 12px;
+    padding: 12px 14px;
+    background: rgba(108,76,245,0.06);
+    border-radius: 8px;
+    border: 1px solid rgba(108,76,245,0.15);
+  }
+  .compare-title {
+    font-size: 11px; text-transform: uppercase;
+    letter-spacing: 1.5px; color: var(--accent);
+    margin-bottom: 6px;
+  }
+  .compare-item {
+    font-size: 13px; color: var(--text);
+    padding: 4px 0;
+  }
+  .story-footer {
+    padding: 10px 20px;
+    border-top: 1px solid var(--border);
+    font-size: 11px;
+    color: var(--text-dim);
+    display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px;
+  }
+  .tag { color: var(--accent); }
+  .cat-badge {
+    display: inline-block; font-size: 9px; font-weight: 700;
+    padding: 1px 7px; border-radius: 3px; letter-spacing: 0.5px;
+    vertical-align: middle; margin-left: 6px;
+  }
+  .cat-politics { background: #e3f2fd; color: #1565c0; }
+  .cat-ai { background: #fce4ec; color: #c62828; }
+  .cat-tech { background: #e8f5e9; color: #2e7d32; }
+  .cat-energy { background: #fff8e1; color: #f57f17; }
+  .cat-finance { background: #fff3e0; color: #e65100; }
+  .cat-photo { background: #f3e5f5; color: #7b1fa2; }
+  .cat-culture { background: #fce4ec; color: #c2185b; }
+  .cat-ecology { background: #e0f2f1; color: #00695c; }
+  .cat-life { background: #ede7f6; color: #4527a0; }
+  .cat-conflicts { background: #ffebee; color: #b71c1c; }
+  .cat-svo { background: #263238; color: #fff; }
+  .cat-economy { background: #fff8e1; color: #f57f17; }
+  .cat-statement { background: #e8eaf6; color: #283593; }
+  .area-badge {
+    display: inline-block; font-size: 9px; font-weight: 700;
+    padding: 1px 7px; border-radius: 3px; letter-spacing: 0.5px;
+    vertical-align: middle; margin-left: 6px;
+    background: #eceff1; color: #546e7a; border: 1px solid #cfd8dc;
+  }
+  .area-section {
+    margin-bottom: 28px;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+    background: var(--card);
+  }
+  .area-header {
+    display: flex; align-items: center; gap: 12px;
+    padding: 14px 18px;
+    cursor: pointer;
+    background: linear-gradient(135deg, #f3f0ff 0%, #eef7fd 100%);
+    user-select: none;
+    transition: background 0.2s;
+  }
+  .area-header:hover { background: linear-gradient(135deg, #ece6ff 0%, #e3f2fd 100%); }
+  .area-header.open { border-bottom: 1px solid var(--border); }
+  .area-plus {
+    width: 26px; height: 26px;
+    border: 2px solid var(--accent);
+    border-radius: 50%;
+    color: var(--accent);
+    display: flex; align-items: center; justify-content: center;
+    flex-shrink: 0;
+    font-size: 15px; font-weight: 700; line-height: 1;
+  }
+  .area-plus::after { content: "+"; }
+  .area-header.open .area-plus::after { content: "−"; }
+  .area-name { font-size: 16px; font-weight: 700; color: var(--text); }
+  .area-count {
+    margin-left: auto;
+    font-size: 12px; font-weight: 600;
+    color: var(--accent);
+    background: rgba(108,76,245,0.1);
+    border-radius: 20px; padding: 2px 10px;
+  }
+  .area-body { display: none; padding: 16px 16px 0; }
+  .area-body.open { display: block; }
+  .area-close-row { text-align: center; padding: 10px 0 20px; }
+  .area-close {
+    background: transparent; color: var(--text-dim);
+    border: 1px solid var(--border); border-radius: 20px;
+    padding: 6px 22px; cursor: pointer; font-size: 12px;
+    transition: all 0.2s;
+  }
+  .area-close:hover { color: var(--accent); border-color: var(--accent); background: rgba(108,76,245,0.05); }
+  .no-news {
+    text-align: center; padding: 60px 20px;
+    color: var(--text-dim);
+  }
+  .no-news h2 { font-size: 22px; margin-bottom: 10px; color: #333; }
+  .archive-section { margin-top: 40px; }
+  .archive-title {
+    font-size: 18px; font-weight: 700; color: var(--text);
+    text-align: center; margin-bottom: 20px;
+    padding-bottom: 10px; border-bottom: 2px solid var(--border);
+  }
+  .archive-day {
+    margin-bottom: 16px;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  .archive-day-header {
+    padding: 12px 16px;
+    background: var(--card);
+    cursor: pointer;
+    display: flex; justify-content: space-between; align-items: center;
+    font-weight: 600; font-size: 14px;
+    user-select: none;
+  }
+  .archive-day-header:hover { background: var(--card-hover); }
+  .archive-day-header .arrow {
+    transition: transform 0.2s;
+    font-size: 12px; color: var(--text-dim);
+  }
+  .archive-day-header.open .arrow { transform: rotate(90deg); }
+  .archive-day-body {
+    display: none;
+    border-top: 1px solid var(--border);
+  }
+  .archive-day-body.open { display: block; }
+  .sys-btn {
+    display: inline-block; margin: 20px 0; padding: 6px 16px;
+    background: transparent; color: var(--text-dim); border: 1px solid var(--border);
+    border-radius: 6px; cursor: pointer; font-size: 12px;
+    transition: all 0.2s;
+  }
+  .sys-btn:hover { color: var(--accent); border-color: var(--accent); }
+  .sys-info {
+    display: none; text-align: left; max-width: 800px; margin: 10px auto;
+    background: var(--card); border: 1px solid var(--border); border-radius: 8px;
+    padding: 20px; font-size: 13px; line-height: 1.6;
+  }
+  .sys-info.show { display: block; }
+  .sys-info h3 { color: var(--accent); font-size: 14px; margin: 16px 0 8px; }
+  .sys-info h3:first-child { margin-top: 0; }
+  .sys-info pre {
+    background: rgba(0,0,0,0.03); border-radius: 4px; padding: 10px;
+    font-size: 11px; white-space: pre-wrap; color: var(--text-dim);
+    max-height: 300px; overflow-y: auto;
+  }
+  .sys-info .source-list { columns: 2; column-gap: 20px; }
+  .sys-info .source-list .country { break-inside: avoid; margin-bottom: 8px; }
+  .sys-info .source-list .country-name { color: var(--en); font-weight: 600; }
+  .sys-info .source-list .feed { display: block; font-size: 11px; color: var(--text-dim); margin-left: 12px; }
+  @media (max-width: 600px) {
+    .header h1 { font-size: 22px; }
+    .story-header { flex-direction: column; }
+    .story-titles { width: 100%; }
+    .title-en { font-size: 14px; }
+    .title-ru { font-size: 13px; }
+  }
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>News Feed PT78</h1>
+  <p class="subtitle">Global media monitoring</p>
+  <p class="update-time">Updated: <span id="update-utc">27 September 2026, 13:59 UTC</span><span class="ai-badge">AI: deepseek-v3.2</span></p>
+  <p class="update-time" style="font-size:11px;color:var(--text-dim);margin-top:2px"></p>
+  <script>
+    (function(){
+      var el = document.getElementById('update-utc');
+      if (el) {
+        var d = new Date(el.textContent + ' UTC');
+        if (!isNaN(d.getTime())) {
+          el.textContent = d.toLocaleString(undefined, {
+            year: 'numeric', month: 'long', day: 'numeric',
+            hour: '2-digit', minute: '2-digit'
+          });
+        }
+      }
+    })();
+  </script>
+</div>
+<div class="container">
+  <div class="stats-row">
+    <div class="stat-card"><div class="num">0</div><div class="lbl">Stories</div></div>
+    <div class="stat-card"><div class="num">0</div><div class="lbl">Sources</div></div>
+    <div class="stat-card"><div class="num"></div><div class="lbl">Categories</div></div>
+  </div>
+  <div class="no-news"><h2>Новостей нет</h2><p>Попробуйте позже</p></div>
+  <div style="text-align:center;padding:10px 0;">
+    <button class="sys-btn" onclick="var el=document.getElementById('sys-info');el.classList.toggle('show');this.textContent=el.classList.contains('show')?'Скрыть информацию о системе':'О системе (промт, страны, СМИ)'">О системе (промт, страны, СМИ)</button>
+  </div>
+  <div id="sys-info" class="sys-info">
+    <h3>Системный промт для AI</h3>
+    <pre>Системная роль: Ты — опытный аналитик, освещающий политику, технологии и науку. Беспристрастен. Твой стиль — сухой, фактический, без эмоций и оценочных суждений. Пиши кратко: 2-3 предложения на событие. Только факты: что произошло, где, когда, какие решения приняты, какие цифры. НЕ используй: эмоциональные прилагательные, риторические вопросы, призывы, личные оценки, слова 'должен', 'надо', 'важно'. Не копируй стиль новостных лент — пиши как справка для принятия решений.
+
+Промт пользователя:
+Вот подборка новостей из RSS-лент, сгруппированная по событиям.
+Каждое событие помечено меткой источника (в квадратных скобках) и списком ключевых слов.
+<новости из RSS>
+<история предыдущих выпусков>
+Инструкция:
+1. Выбери из подборки события, которые дают целостную картину дня по следующим темам. Это группы новостей выпуска:
+   • «Технологический рост мира» (category='tech') — где в мире что-то создаётся и развивается. Наибольший приоритет — энергетика: новые энерготехнологии и энергоинфраструктура (АЭС, возобновляемые источники, электроэнергетика, добыча и транспортировка энергии). Затем — новое промышленное производство, добыча полезных ископаемых, сельское хозяйство, медицина (новые препараты, методы лечения, медицинские технологии), космос и значимые научные результаты.
+   • «Искусственный интеллект» (category='ai') — ТОЛЬКО события, где ГЛАВНЫЙ предмет — технология ИИ: нейросети, ИИ-модели, ИИ-продукты, государственные и корпоративные решения об ИИ, регуляция ИИ. Если ИИ лишь упоминается вскользь, а суть новости в другом — это НЕ ai.
+   • «Жизнь людей» (category='life') — где и как меняются условия жизни людей: цены, доходы, работа, социальная политика, здравоохранение (доступность, эпидемии, реформы), катастрофы и природные явления, экологические последствия для людей, влияние конфликтов на мирное население.
+   • «Конфликты и их суть» (category='conflicts') — конфликты (кроме СВО и Россия-Запад): события, отражающие конфликт, его причину и предмет. Действия важнее заявлений — заявления не включай. Слова значимы, когда превращаются в действие: закон, указ, санкции, судебное решение, военная операция, договор.
+   • «СВО и Россия — Запад» (category='svo') — русско-украинский конфликт и тесно связанное с ним противостояние России и Запада: ход боевых действий, обмены ударами, переговоры и их срыв, поддержка сторон (военная, финансовая, дипломатическая), санкции и другие реальные действия по этой линии. Приоритетная группа — 1–3 события.
+   • «Экономическая база стран» (category='economy') — на чём держится экономика (ресурсы, промышленность, торговля, финансы, бюджет), что в ней меняется, кто усиливается, кто ослабевает. Макроэкономические сдвиги, а не котировки отдельных бумаг.
+   • «Внутренняя и внешняя политика» (category='politics') — как страны решают внутренние проблемы и какие серьёзные шаги делают наружу: реформы и законы, крупные решения, выборы и их последствия, тенденции международных отношений (реальные действия, а не риторика).
+2. Дополнительные одиночные позиции, по одной, только если есть по-настоящему достойное:
+   • «Главное политическое заявление дня» (category='statement') — не более 1: самое значимое политическое заявление дня. Это ЕДИНСТВЕННОЕ заявление в выпуске.
+   • культура (category='culture') — искусство, музеи, кино, музыка, литература, театр, фестивали;
+   • фотография (category='photo') — фотоиндустрия, фотографы, камеры, выставки;
+   • экология (category='ecology') — климат, загрязнение, отходы, природа, биоразнообразие (если событие подлинно значимо и не дублирует «Жизнь людей»).
+3. Количество. Всего в выпуске 10–20 событий. По каждой основной группе из п.1 — от 1 до 4 событий, ИСКЛЮЧЕНИЕ: по группе «СВО» — от 1 до 3 событий. Если за день по теме нет ничего стоящего — допустимо 0, не дозаполняй натянутыми новостями. Географический баланс внутри каждой группы — по возможности: 1–2 события из России, 1 о крупной стране (не Россия), 1 о некрупной стране; если по некрупным странам нет ничего стоящего, этот слот можно занять Россией или крупной страной. Если набралось больше 20 — отбрось наименее значимые, начиная с низовых позиций приоритетов п.1; события группы «СВО» не отбрасывай.
+4. Избегай однообразия: если в выпуске уже есть событие крупного игрока (Иран, США, Китай и т.п.), следующее выбирай о другом действии или другой стране, а не продолжение словесной перестрелки того же участника.
+5. Для каждого события используй ТОЛЬКО факты из предоставленных новостей. Каждый блок «=== Событие N ===» во входном списке — это ОДНА отдельная новость (в конце блока могут быть ссылки на несколько источников об одном и том же). Строго:
+   - НЕ выдумывай события или факты, которых нет в списке: не используй свои знания вне списка, не додумывай детали, даты, места, цифры;
+   - НЕ объединяй несколько разных новостей в одно событие. Если у новостей разные суть, места или объекты — это РАЗНЫЕ события, включай их отдельно. Не смешивай выдержки из разных блоков «=== Событие N ===» в одном summary;
+   - НЕ приписывай новости факты, регион или ссылки из другой новости;
+   - НЕ переноси в summary то, чего нет в самой новости.
+   Если внутри одного блока «=== Событие N ===» оказалось несколько независимых новостей — РАЗДЕЛИ его на несколько отдельных событий, каждое со своими ссылками. Объединять соседние блоки «=== Событие N ===» в одно событие — запрещено.
+6. Потребительские гаджеты (смартфоны, планшеты, ноутбуки) — это реклама, а не новость. Пропускай: анонсы и презентации новых моделей; тесты, бенчмарки, производительность конкретных устройств; дизайн, характеристики, комплектации; даты продаж, предзаказы, цены; слухи и утечки о не вышедших устройствах; новости-«ожидания»; объёмы спроса и продаж конкретной модели. Исключения: (1) в группе «Искусственный интеллект» — ОДНА новость, только если это единственная значимая новость об ИИ за день; (2) в группе «Фотография» — без ограничений; (3) массовые индустриальные события (закрытие завода, массовые увольнения, санкции, банкротство производителя) — в «Технологическом росте мира».
+7. Сверься со списком ранее опубликованных событий (если есть). Если событие уже было в прошлом выпуске и нет новых важных подробностей — НЕ ВЫБИРАЙ его. Если есть существенное развитие — включи и поставь is_development=true.
+8. Поля каждого события: title_ru — заголовок на русском; title_en — заголовок на английском (как в источнике); date — дата события; summary — суть на русском, 2-3 предложения; category — группа (tech, ai, life, conflicts, svo, economy, politics, statement, culture, photo, ecology); region — страна или регион, где событие произошло или кого затрагивает (например: 'США', 'Азербайджан', 'Европа', 'Ближний Восток'; 'Мир' — для глобального события). Регион определяй по содержанию, а не по ленте-источнику; sources — названия источников (только из списка выше); links — ссылки (только из списка выше); perspective — для категорий conflicts и politics: как событие может оцениваться разными сторонами, для остальных — пусто; perspective_type — 'from_source', 'assumed', 'unclear' или пустая строка; is_development — true, если это развитие ранее освещённого события.
+9. Критично: ОДНО событие = ОДНА новость = ОДИН заголовок = ОДНО summary со своими ссылками. Нельзя в одном title_ru или summary упоминать факты из разных блоков «=== Событие N ===» (никаких «X и Y», «одновременно также Z»).
+10. Верни события, упорядоченные по группам в этом порядке: tech, ai, life, conflicts, svo, economy, politics, statement, culture, photo, ecology.
+</pre>
+    <h3>Мониторимые страны</h3>
+    <p>Россия, Наука/Россия, США, Технологии/США, Канада, Мексика, Бразилия, Украина, Белоруссия, Англия, Франция, Германия, Венгрия, Словакия, Швейцария, Турция, Иран, Израиль, ОАЭ, Китай, Технологии/Китай, Япония, Южная Корея, Тайвань, Индия, Индонезия, Австралия, ЮАР, Финансы/Мир, Фото</p>
+    <h3>Мониторимые источники</h3>
+    <div class="source-list"><div class="country"><span class="country-name">Россия</span><span class="feed">ria.ru</span><span class="feed">tass.ru</span><span class="feed">tass.com</span><span class="feed">www.kommersant.ru</span><span class="feed">rssexport.rbc.ru</span></div><div class="country"><span class="country-name">Наука/Россия</span><span class="feed">naked-science.ru</span></div><div class="country"><span class="country-name">США</span><span class="feed">rss.nytimes.com</span><span class="feed">feeds.washingtonpost.com</span></div><div class="country"><span class="country-name">Технологии/США</span><span class="feed">techcrunch.com</span><span class="feed">www.wired.com</span></div><div class="country"><span class="country-name">Канада</span><span class="feed">www.cbc.ca</span><span class="feed">www.theglobeandmail.com</span></div><div class="country"><span class="country-name">Мексика</span><span class="feed">mexiconewsdaily.com</span></div><div class="country"><span class="country-name">Бразилия</span><span class="feed">riotimesonline.com</span></div><div class="country"><span class="country-name">Украина</span><span class="feed">www.ukrinform.ua</span><span class="feed">www.rbc.ua</span><span class="feed">censor.net</span></div><div class="country"><span class="country-name">Белоруссия</span><span class="feed">www.belta.by</span></div><div class="country"><span class="country-name">Англия</span><span class="feed">feeds.bbci.co.uk</span><span class="feed">www.ft.com</span></div><div class="country"><span class="country-name">Франция</span><span class="feed">www.lemonde.fr</span><span class="feed">www.france24.com</span></div><div class="country"><span class="country-name">Германия</span><span class="feed">rss.dw.com</span><span class="feed">www.spiegel.de</span></div><div class="country"><span class="country-name">Венгрия</span><span class="feed">budapesttimes.hu</span></div><div class="country"><span class="country-name">Словакия</span><span class="feed">spectator.sme.sk</span></div><div class="country"><span class="country-name">Швейцария</span><span class="feed">www.swissinfo.ch</span></div><div class="country"><span class="country-name">Турция</span><span class="feed">www.dailysabah.com</span><span class="feed">www.turkishminute.com</span></div><div class="country"><span class="country-name">Иран</span><span class="feed">en.irna.ir</span><span class="feed">www.presstv.ir</span><span class="feed">en.mehrnews.com</span></div><div class="country"><span class="country-name">Израиль</span><span class="feed">www.timesofisrael.com</span><span class="feed">www.jpost.com</span></div><div class="country"><span class="country-name">ОАЭ</span><span class="feed">www.thenationalnews.com</span><span class="feed">www.arabnews.com</span></div><div class="country"><span class="country-name">Китай</span><span class="feed">www.chinadaily.com.cn</span><span class="feed">www.chinadaily.com.cn</span></div><div class="country"><span class="country-name">Технологии/Китай</span><span class="feed">www.gizmochina.com</span></div><div class="country"><span class="country-name">Япония</span><span class="feed">asia.nikkei.com</span></div><div class="country"><span class="country-name">Южная Корея</span><span class="feed">en.yna.co.kr</span></div><div class="country"><span class="country-name">Тайвань</span><span class="feed">www.taipeitimes.com</span></div><div class="country"><span class="country-name">Индия</span><span class="feed">timesofindia.indiatimes.com</span></div><div class="country"><span class="country-name">Индонезия</span><span class="feed">en.antaranews.com</span></div><div class="country"><span class="country-name">Австралия</span><span class="feed">www.smh.com.au</span></div><div class="country"><span class="country-name">ЮАР</span><span class="feed">mg.co.za</span></div><div class="country"><span class="country-name">Финансы/Мир</span><span class="feed">www.cnbc.com</span><span class="feed">finance.yahoo.com</span></div><div class="country"><span class="country-name">Фото</span><span class="feed">petapixel.com</span><span class="feed">photographylife.com</span></div></div>
+  </div>
+  
+  <div style="text-align:center;padding:20px 0;color:var(--text-dim);font-size:12px">
+    Generated by NewsAgentPT78
+  </div>
+  <div id="admin-section" style="display:none">
+    <div style="max-width:800px;margin:30px auto;padding:24px;background:var(--card);border:1px solid var(--border);border-radius:12px">
+      <h3 style="color:var(--accent);margin-bottom:16px">Панель управления</h3>
+      <div id="admin-login">
+        <p style="margin-bottom:10px;font-size:13px">Введите секрет для доступа к управлению:</p>
+        <input type="password" id="admin-password" placeholder="Секрет" style="width:200px;padding:8px 12px;font-size:14px;border:1px solid var(--border);border-radius:6px;margin-right:8px">
+        <button onclick="adminLogin()" style="padding:8px 20px;background:var(--accent);color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:14px">Войти</button>
+        <p id="admin-login-error" style="color:#d32f2f;font-size:12px;margin-top:6px;display:none">Неверный секрет</p>
+      </div>
+      <div id="admin-panel" style="display:none">
+        <p style="font-size:13px;color:var(--text-dim);margin-bottom:12px">Вы авторизованы как администратор.</p>
+        <label style="font-weight:600;font-size:13px;display:block;margin-bottom:6px">Системный промт (будет использован при следующем запуске):</label>
+        <textarea id="admin-prompt" rows="6" style="width:100%;padding:10px;font-size:13px;border:1px solid var(--border);border-radius:6px;font-family:monospace;resize:vertical">Системная роль: Ты — опытный аналитик, освещающий политику, технологии и науку. Беспристрастен. Твой стиль — сухой, фактический, без эмоций и оценочных суждений. Пиши кратко: 2-3 предложения на событие. Только факты: что произошло, где, когда, какие решения приняты, какие цифры. НЕ используй: эмоциональные прилагательные, риторические вопросы, призывы, личные оценки, слова 'должен', 'надо', 'важно'. Не копируй стиль новостных лент — пиши как справка для принятия решений.
+
+Промт пользователя:
+Вот подборка новостей из RSS-лент, сгруппированная по событиям.
+Каждое событие помечено меткой источника (в квадратных скобках) и списком ключевых слов.
+<новости из RSS>
+<история предыдущих выпусков>
+Инструкция:
+1. Выбери из подборки события, которые дают целостную картину дня по следующим темам. Это группы новостей выпуска:
+   • «Технологический рост мира» (category='tech') — где в мире что-то создаётся и развивается. Наибольший приоритет — энергетика: новые энерготехнологии и энергоинфраструктура (АЭС, возобновляемые источники, электроэнергетика, добыча и транспортировка энергии). Затем — новое промышленное производство, добыча полезных ископаемых, сельское хозяйство, медицина (новые препараты, методы лечения, медицинские технологии), космос и значимые научные результаты.
+   • «Искусственный интеллект» (category='ai') — ТОЛЬКО события, где ГЛАВНЫЙ предмет — технология ИИ: нейросети, ИИ-модели, ИИ-продукты, государственные и корпоративные решения об ИИ, регуляция ИИ. Если ИИ лишь упоминается вскользь, а суть новости в другом — это НЕ ai.
+   • «Жизнь людей» (category='life') — где и как меняются условия жизни людей: цены, доходы, работа, социальная политика, здравоохранение (доступность, эпидемии, реформы), катастрофы и природные явления, экологические последствия для людей, влияние конфликтов на мирное население.
+   • «Конфликты и их суть» (category='conflicts') — конфликты (кроме СВО и Россия-Запад): события, отражающие конфликт, его причину и предмет. Действия важнее заявлений — заявления не включай. Слова значимы, когда превращаются в действие: закон, указ, санкции, судебное решение, военная операция, договор.
+   • «СВО и Россия — Запад» (category='svo') — русско-украинский конфликт и тесно связанное с ним противостояние России и Запада: ход боевых действий, обмены ударами, переговоры и их срыв, поддержка сторон (военная, финансовая, дипломатическая), санкции и другие реальные действия по этой линии. Приоритетная группа — 1–3 события.
+   • «Экономическая база стран» (category='economy') — на чём держится экономика (ресурсы, промышленность, торговля, финансы, бюджет), что в ней меняется, кто усиливается, кто ослабевает. Макроэкономические сдвиги, а не котировки отдельных бумаг.
+   • «Внутренняя и внешняя политика» (category='politics') — как страны решают внутренние проблемы и какие серьёзные шаги делают наружу: реформы и законы, крупные решения, выборы и их последствия, тенденции международных отношений (реальные действия, а не риторика).
+2. Дополнительные одиночные позиции, по одной, только если есть по-настоящему достойное:
+   • «Главное политическое заявление дня» (category='statement') — не более 1: самое значимое политическое заявление дня. Это ЕДИНСТВЕННОЕ заявление в выпуске.
+   • культура (category='culture') — искусство, музеи, кино, музыка, литература, театр, фестивали;
+   • фотография (category='photo') — фотоиндустрия, фотографы, камеры, выставки;
+   • экология (category='ecology') — климат, загрязнение, отходы, природа, биоразнообразие (если событие подлинно значимо и не дублирует «Жизнь людей»).
+3. Количество. Всего в выпуске 10–20 событий. По каждой основной группе из п.1 — от 1 до 4 событий, ИСКЛЮЧЕНИЕ: по группе «СВО» — от 1 до 3 событий. Если за день по теме нет ничего стоящего — допустимо 0, не дозаполняй натянутыми новостями. Географический баланс внутри каждой группы — по возможности: 1–2 события из России, 1 о крупной стране (не Россия), 1 о некрупной стране; если по некрупным странам нет ничего стоящего, этот слот можно занять Россией или крупной страной. Если набралось больше 20 — отбрось наименее значимые, начиная с низовых позиций приоритетов п.1; события группы «СВО» не отбрасывай.
+4. Избегай однообразия: если в выпуске уже есть событие крупного игрока (Иран, США, Китай и т.п.), следующее выбирай о другом действии или другой стране, а не продолжение словесной перестрелки того же участника.
+5. Для каждого события используй ТОЛЬКО факты из предоставленных новостей. Каждый блок «=== Событие N ===» во входном списке — это ОДНА отдельная новость (в конце блока могут быть ссылки на несколько источников об одном и том же). Строго:
+   - НЕ выдумывай события или факты, которых нет в списке: не используй свои знания вне списка, не додумывай детали, даты, места, цифры;
+   - НЕ объединяй несколько разных новостей в одно событие. Если у новостей разные суть, места или объекты — это РАЗНЫЕ события, включай их отдельно. Не смешивай выдержки из разных блоков «=== Событие N ===» в одном summary;
+   - НЕ приписывай новости факты, регион или ссылки из другой новости;
+   - НЕ переноси в summary то, чего нет в самой новости.
+   Если внутри одного блока «=== Событие N ===» оказалось несколько независимых новостей — РАЗДЕЛИ его на несколько отдельных событий, каждое со своими ссылками. Объединять соседние блоки «=== Событие N ===» в одно событие — запрещено.
+6. Потребительские гаджеты (смартфоны, планшеты, ноутбуки) — это реклама, а не новость. Пропускай: анонсы и презентации новых моделей; тесты, бенчмарки, производительность конкретных устройств; дизайн, характеристики, комплектации; даты продаж, предзаказы, цены; слухи и утечки о не вышедших устройствах; новости-«ожидания»; объёмы спроса и продаж конкретной модели. Исключения: (1) в группе «Искусственный интеллект» — ОДНА новость, только если это единственная значимая новость об ИИ за день; (2) в группе «Фотография» — без ограничений; (3) массовые индустриальные события (закрытие завода, массовые увольнения, санкции, банкротство производителя) — в «Технологическом росте мира».
+7. Сверься со списком ранее опубликованных событий (если есть). Если событие уже было в прошлом выпуске и нет новых важных подробностей — НЕ ВЫБИРАЙ его. Если есть существенное развитие — включи и поставь is_development=true.
+8. Поля каждого события: title_ru — заголовок на русском; title_en — заголовок на английском (как в источнике); date — дата события; summary — суть на русском, 2-3 предложения; category — группа (tech, ai, life, conflicts, svo, economy, politics, statement, culture, photo, ecology); region — страна или регион, где событие произошло или кого затрагивает (например: 'США', 'Азербайджан', 'Европа', 'Ближний Восток'; 'Мир' — для глобального события). Регион определяй по содержанию, а не по ленте-источнику; sources — названия источников (только из списка выше); links — ссылки (только из списка выше); perspective — для категорий conflicts и politics: как событие может оцениваться разными сторонами, для остальных — пусто; perspective_type — 'from_source', 'assumed', 'unclear' или пустая строка; is_development — true, если это развитие ранее освещённого события.
+9. Критично: ОДНО событие = ОДНА новость = ОДИН заголовок = ОДНО summary со своими ссылками. Нельзя в одном title_ru или summary упоминать факты из разных блоков «=== Событие N ===» (никаких «X и Y», «одновременно также Z»).
+10. Верни события, упорядоченные по группам в этом порядке: tech, ai, life, conflicts, svo, economy, politics, statement, culture, photo, ecology.
+</textarea>
+        <div style="margin-top:12px;display:flex;gap:10px;flex-wrap:wrap">
+          <button onclick="adminSavePrompt()" style="padding:8px 20px;background:#2e7d32;color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:13px">Сохранить промт</button>
+          <button onclick="adminTriggerRun()" style="padding:8px 20px;background:var(--accent);color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:13px">Запустить обновление</button>
+          <button onclick="adminLogout()" style="padding:8px 20px;background:var(--text-dim);color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:13px">Выйти</button>
+        </div>
+        <div id="admin-msg" style="margin-top:10px;font-size:12px"></div>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+const SECRET_HASH = "7ce8a2e6668d86c71c8e8b0e006176e7da0fbadb0842e54a29de57cb628e7f45";
+const GITHUB_TOKEN = "";
+const OWNER = "pt78newspaper";
+const REPO = "news-agent";
+let isAdmin = false;
+
+async function sha256(msg) {
+  const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(msg));
+  return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, "0")).join("");
+}
+
+function adminLogin() {
+  const pw = document.getElementById("admin-password").value;
+  sha256(pw).then(hash => {
+    if (hash === SECRET_HASH) {
+      isAdmin = true;
+      document.getElementById("admin-login").style.display = "none";
+      document.getElementById("admin-panel").style.display = "block";
+      document.getElementById("admin-login-error").style.display = "none";
+    } else {
+      document.getElementById("admin-login-error").style.display = "block";
+    }
+  });
+}
+
+function adminLogout() {
+  isAdmin = false;
+  document.getElementById("admin-panel").style.display = "none";
+  document.getElementById("admin-login").style.display = "block";
+  document.getElementById("admin-password").value = "";
+}
+
+async function adminSavePrompt() {
+  const msg = document.getElementById("admin-msg");
+  msg.innerHTML = '<span style="color:var(--accent)">Сохранение...</span>';
+  const content = document.getElementById("admin-prompt").value;
+  const path = "prompt_custom.txt";
+  try {
+    // Try to get existing file for its SHA
+    let sha = null;
+    const getR = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${path}`, {
+      headers: {"Authorization": "Bearer " + GITHUB_TOKEN}
+    });
+    if (getR.ok) {
+      const data = await getR.json();
+      sha = data.sha;
+    }
+    const body = {message: "update custom prompt", content: btoa(unescape(encodeURIComponent(content)))};
+    if (sha) body.sha = sha;
+    const putR = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${path}`, {
+      method: "PUT",
+      headers: {"Authorization": "Bearer " + GITHUB_TOKEN, "Content-Type": "application/json"},
+      body: JSON.stringify(body)
+    });
+    if (putR.ok) {
+      msg.innerHTML = '<span style="color:#2e7d32">Промт сохранён. Вступит в силу при следующем запуске.</span>';
+    } else {
+      const err = await putR.json();
+      msg.innerHTML = '<span style="color:#d32f2f">Ошибка: ' + (err.message || putR.status) + '</span>';
+    }
+  } catch(e) {
+    msg.innerHTML = '<span style="color:#d32f2f">Ошибка: ' + e.message + '</span>';
+  }
+}
+
+async function adminTriggerRun() {
+  const msg = document.getElementById("admin-msg");
+  msg.innerHTML = '<span style="color:var(--accent)">Запуск...</span>';
+  try {
+    const r = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/actions/workflows/fetch-news.yml/dispatches`, {
+      method: "POST",
+      headers: {"Authorization": "Bearer " + GITHUB_TOKEN, "Content-Type": "application/json"},
+      body: JSON.stringify({ref: "main"})
+    });
+    if (r.status === 204) {
+      msg.innerHTML = '<span style="color:#2e7d32">Обновление запущено. Результат через несколько минут.</span>';
+    } else {
+      const err = await r.json().catch(() => ({}));
+      msg.innerHTML = '<span style="color:#d32f2f">Ошибка: ' + (err.message || r.status) + '</span>';
+    }
+  } catch(e) {
+    msg.innerHTML = '<span style="color:#d32f2f">Ошибка: ' + e.message + '</span>';
+  }
+}
+
+// Expose admin section toggle
+document.addEventListener("DOMContentLoaded", function() {
+  const footer = document.querySelector(".sys-btn");
+  if (footer) {
+    const adminLink = document.createElement("div");
+    adminLink.style.cssText = "text-align:center;margin-top:10px";
+    adminLink.innerHTML = '<button class="sys-btn" onclick="document.getElementById(\'admin-section\').style.display=\'block\'">Панель администратора</button>';
+    footer.parentNode.insertBefore(adminLink, footer.nextSibling);
+  }
+});
+</script>
+</body>
+</html>
