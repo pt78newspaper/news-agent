@@ -1,7 +1,293 @@
 {
-  "_events": [],
+  "_events": [
+    {
+      "title_ru": "TikTok согласился выплатить не менее $100 млн в рамках урегулирования в Алабаме",
+      "title_en": "TikTok agrees to pay at least $100M in Alabama settlement",
+      "date": "2026-09-26",
+      "summary": "Компания TikTok достигла соглашения о выплате не менее 100 миллионов долларов в рамках урегулирования в штате Алабама. Сумма может быть увеличена в зависимости от количества пользователей, подавших претензии.",
+      "category": "tech",
+      "region": "США",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-26",
+      "id": "52ebbfa712d5"
+    },
+    {
+      "title_ru": "Астрономы впервые зафиксировали радиосигнал от экзопланеты",
+      "title_en": "Astronomers detect radio signal from exoplanet for the first time",
+      "date": "2026-09-24",
+      "summary": "Астрономы впервые зафиксировали радиосигнал, исходящий от экзопланеты. Открытие сделано с использованием радиотелескопа и может указывать на наличие магнитного поля у планеты.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/astronomy/poimali-radiosignal-ot-ekzoplanety"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-24",
+      "id": "0df070c3bbdb"
+    },
+    {
+      "title_ru": "Meta открыла программу раннего доступа к новым функциям Muse",
+      "title_en": "Meta opens early access program for new Muse features",
+      "date": "2026-09-25",
+      "summary": "Компания Meta запустила программу раннего доступа к новым функциям своей ИИ-платформы Muse. Программа позволяет разработчикам тестировать расширенные возможности системы.",
+      "category": "ai",
+      "region": "США",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-25",
+      "id": "95a28a8ecd31"
+    },
+    {
+      "title_ru": "Израиль ужесточил ограничения в Рамалле и вокруг него",
+      "title_en": "Israeli regime tightens restrictions in, around Ramallah",
+      "date": "2026-09-27",
+      "summary": "Израильские власти ужесточили ограничения на передвижение в городе Рамалла и его окрестностях на Западном берегу реки Иордан. Меры включают усиление контроля на КПП.",
+      "category": "conflicts",
+      "region": "Палестина",
+      "sources": [
+        "en.mehrnews.com"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/248110/Israeli-regime-tightens-restrictions-in-around-Ramallah"
+      ],
+      "perspective": "Израиль объясняет меры соображениями безопасности, палестинцы считают их коллективным наказанием",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-27",
+      "id": "3acaeef497e6"
+    },
+    {
+      "title_ru": "Франция направит военных в Саудовскую Аравию для защиты энергообъектов",
+      "title_en": "France to Send Soldiers to Saudi Arabia to Help Secure Energy Sites",
+      "date": "2026-09-24",
+      "summary": "Франция направляет военнослужащих в Саудовскую Аравию для помощи в защите энергетических объектов. Решение принято на фоне усиления атак хуситов по энергоинфраструктуре.",
+      "category": "conflicts",
+      "region": "Саудовская Аравия",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/09/24/world/middleeast/france-saudi-arabia-red-sea-yemen-houthis.html"
+      ],
+      "perspective": "Франция и Саудовская Аравия рассматривают это как меру защиты критической инфраструктуры, хуситы видят в этом эскалацию иностранного вмешательства",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-24",
+      "id": "72720d4355f7"
+    },
+    {
+      "title_ru": "Минобороны РФ сообщило об ударах по дата-центрам «Киевстар» и «Омега Телеком»",
+      "title_en": "Russian Defense Ministry reports strikes on Kyivstar and Omega Telecom data centers",
+      "date": "2026-09-27",
+      "summary": "Министерство обороны России заявило о нанесении ударов по дата-центрам украинских операторов «Киевстар» и «Омега Телеком». По данным ведомства, объекты использовались в интересах ВСУ.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8988146"
+      ],
+      "perspective": "Россия заявляет о поражении военной инфраструктуры, Украина рассматривает это как атаку на гражданские объекты",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-27",
+      "id": "4bbba04704d3"
+    },
+    {
+      "title_ru": "Минобороны РФ сообщило об ударе по судну с грузами для ВСУ в Одессу",
+      "title_en": "Russian Defense Ministry reports strike on ship carrying cargo for AFU to Odessa",
+      "date": "2026-09-27",
+      "summary": "Министерство обороны России заявило о нанесении удара по судну, перевозившему грузы для Вооруженных сил Украины в направлении Одессы. Цель была поражена в акватории Черного моря.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "rssexport.rbc.ru"
+      ],
+      "links": [
+        "https://www.rbc.ru/rbcfreenews/6ab8e4fe4ddd0b4ef150472a"
+      ],
+      "perspective": "Россия заявляет о пресечении военных поставок, Украина рассматривает это как атаку на гражданское судоходство",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-27",
+      "id": "cc5f396f9a54"
+    },
+    {
+      "title_ru": "Швейцария сохраняет нулевую ключевую ставку",
+      "title_en": "Switzerland is keeping rates at 0% — for now",
+      "date": "2026-09-24",
+      "summary": "Национальный банк Швейцарии сохранил нулевую ключевую ставку на текущем заседании. Решение принято несмотря на инфляционное давление в мировой экономике.",
+      "category": "economy",
+      "region": "Швейцария",
+      "sources": [
+        "www.cnbc.com"
+      ],
+      "links": [
+        "https://www.cnbc.com/2026/09/24/swiss-national-bank-interest-rates-inflation.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-24",
+      "id": "260d1ffb6c0e"
+    },
+    {
+      "title_ru": "Иранский парламент завершил рассмотрение законопроекта о безопасности Ормузского пролива",
+      "title_en": "Parliamentary commission completes review of Hormuz Strait security bill",
+      "date": "2026-09-27",
+      "summary": "Парламентская комиссия Ирана завершила рассмотрение законопроекта о безопасности Ормузского пролива. Документ регулирует вопросы контроля над стратегическим морским путем.",
+      "category": "politics",
+      "region": "Иран",
+      "sources": [
+        "en.irna.ir"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86276399/Parliamentary-commission-completes-review-of-Hormuz-Strait-security"
+      ],
+      "perspective": "Иран рассматривает это как защиту национальных интересов, США и союзники видят в этом угрозу свободе судоходства",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-27",
+      "id": "90bcdb154208"
+    },
+    {
+      "title_ru": "Германия и Венгрия договорились о военном сотрудничестве",
+      "title_en": "Germany and Hungary bury the hatchet — with tanks",
+      "date": "2026-09-26",
+      "summary": "Германия и Венгрия достигли соглашения о военном сотрудничестве, включая поставки танков. Договоренность знаменует улучшение отношений между странами после периода напряженности.",
+      "category": "politics",
+      "region": "Европа",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/hungary/germany-and-hungary-bury-the-hatchet-with-tanks/"
+      ],
+      "perspective": "Стороны заявляют о стратегическом партнерстве, критики видят в этом милитаризацию региона",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-26",
+      "id": "f25e2d215ee0"
+    },
+    {
+      "title_ru": "Президент Венгрии заявил, что страна является одной из самых безопасных для евреев",
+      "title_en": "President claims Hungary is among world's safest for Jews",
+      "date": "2026-09-26",
+      "summary": "Президент Венгрии заявил, что страна является одной из самых безопасных в мире для еврейского населения. Заявление сделано в контексте международной дискуссии об антисемитизме.",
+      "category": "politics",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/diplomacy/president-claims-hungary-is-among-worlds-safest-for-jews/"
+      ],
+      "perspective": "Венгерские власти позиционируют страну как безопасную гавань, правозащитные организации указывают на случаи антисемитских инцидентов",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-26",
+      "id": "880dca8febb7"
+    },
+    {
+      "title_ru": "Трамп заявил о готовности США провести переговоры с Ираном",
+      "title_en": "Trump: US ready to hold talks with Iran",
+      "date": "2026-09-27",
+      "summary": "Президент США Дональд Трамп заявил, что администрация готова провести переговоры с Ираном в ближайшую неделю. Заявление сделано на фоне напряженности вокруг ядерной программы Ирана.",
+      "category": "statement",
+      "region": "США",
+      "sources": [
+        "www.belta.by"
+      ],
+      "links": [
+        "https://belta.by/world/view/tramp-ssha-provedut-peregovory-s-iranom-v-blizhajshuju-nedelju-803085-2026/"
+      ],
+      "perspective": "Трамп позиционирует это как мирную инициативу, критики сомневаются в реалистичности переговоров без предварительных условий",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-27",
+      "id": "5bc903bbd091"
+    },
+    {
+      "title_ru": "После 20 лет работы у микрофона Кухле Нкоси получил международное признание",
+      "title_en": "After 20 years behind the microphone, Kuhle Nkosi gets his international moment",
+      "date": "2026-09-24",
+      "summary": "Южноафриканский радиоведущий Кухле Нкоси после 20 лет работы получил международное признание. Его карьера началась на местных радиостанциях и достигла международного уровня.",
+      "category": "culture",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/friday/2026-09-24-after-20-years-behind-the-microphone-kuhle-nkosi-gets-his-international-moment/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-24",
+      "id": "d245c50d69b0"
+    },
+    {
+      "title_ru": "Nikon может вынудить Canon открыть закрытую систему крепления RF",
+      "title_en": "Thanks to Nikon, Canon's Closed RF Mount Could Be Forced Open",
+      "date": "2026-09-26",
+      "summary": "Действия компании Nikon могут вынудить Canon открыть свою закрытую систему крепления объективов RF для сторонних производителей. Это может изменить конкурентную ситуацию на рынке фототехники.",
+      "category": "photo",
+      "region": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/26/thanks-to-nikon-canons-closed-rf-mount-could-be-forced-open/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-26",
+      "id": "a2b8aa2b89ea"
+    },
+    {
+      "title_ru": "Эрмело готовится к очередному «Дню ноль» из-за нехватки воды",
+      "title_en": "Ermelo braces for another Day Zero",
+      "date": "2026-09-24",
+      "summary": "Город Эрмело в ЮАР готовится к очередному «Дню ноль» — ситуации, когда водоснабжение будет полностью отключено из-за нехватки воды. Регион сталкивается с хроническими проблемами водоснабжения.",
+      "category": "ecology",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/the-green-guardian/2026-09-24-ermelo-braces-for-another-day-zero/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-24",
+      "id": "854bbe97515b"
+    }
+  ],
   "_stats": {
-    "total_tokens": 0,
-    "total_cost": 0
+    "total_tokens": 16755,
+    "total_cost": 1.0696400000000001
   }
 }
