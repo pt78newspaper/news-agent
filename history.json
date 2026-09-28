@@ -55,7 +55,8 @@
       "perspective_type": "",
       "is_development": false,
       "first_reported": "2026-09-25",
-      "id": "95a28a8ecd31"
+      "id": "95a28a8ecd31",
+      "last_reported": "2026-09-25"
     },
     {
       "title_ru": "Израиль ужесточил ограничения в Рамалле и вокруг него",
@@ -245,7 +246,8 @@
       "perspective_type": "",
       "is_development": false,
       "first_reported": "2026-09-24",
-      "id": "d245c50d69b0"
+      "id": "d245c50d69b0",
+      "last_reported": "2026-09-24"
     },
     {
       "title_ru": "Nikon может вынудить Canon открыть закрытую систему крепления RF",
@@ -264,7 +266,8 @@
       "perspective_type": "",
       "is_development": false,
       "first_reported": "2026-09-26",
-      "id": "a2b8aa2b89ea"
+      "id": "a2b8aa2b89ea",
+      "last_reported": "2026-09-26"
     },
     {
       "title_ru": "Эрмело готовится к очередному «Дню ноль» из-за нехватки воды",
@@ -284,10 +287,257 @@
       "is_development": false,
       "first_reported": "2026-09-24",
       "id": "854bbe97515b"
+    },
+    {
+      "title_ru": "Южная Корея победила Японию и выиграла пятую подряд золотую медаль по бейсболу на Азиатских играх",
+      "title_en": "S. Korea beats Japan for 5th consecutive baseball gold medal",
+      "date": "2026-09-27",
+      "summary": "Южная Корея обыграла Японию в финале бейсбольного турнира Азиатских игр и завоевала золотую медаль. Это пятая подряд победа южнокорейской сборной в этом виде спорта на Азиатских играх.",
+      "category": "tech",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20260927003451315"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-27",
+      "id": "04ea25d046d2"
+    },
+    {
+      "title_ru": "ЕС предложил меры по ограничению спроса на энергию в условиях ценового кризиса",
+      "title_en": "EU floats energy demand curbs in price crisis letter",
+      "date": "2026-09-28",
+      "summary": "Европейский союз предложил меры по ограничению спроса на энергию в письме, посвящённом ценовому кризису. Документ содержит рекомендации по управлению энергопотреблением в условиях высоких цен.",
+      "category": "tech",
+      "region": "Европа",
+      "sources": [
+        "www.taipeitimes.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/biz/archives/2026/09/28/2003864987"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-28",
+      "id": "d1f6a1731943"
+    },
+    {
+      "title_ru": "В Венгрии выросла долгосрочная безработица при увеличении общего уровня безработицы",
+      "title_en": "Long-term unemployment grows as the jobless rate rises",
+      "date": "2026-09-28",
+      "summary": "В Венгрии зафиксирован рост долгосрочной безработицы на фоне увеличения общего уровня безработицы. Данные показывают ухудшение ситуации на рынке труда.",
+      "category": "life",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/economy/long-term-unemployment-grows-as-the-jobless-rate-rises"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-28",
+      "id": "624da1ae19b5"
+    },
+    {
+      "title_ru": "В Венгрии снизилась рождаемость и выросла смертность, увеличив естественную убыль населения",
+      "title_en": "Births fall, deaths rise as natural decrease widens",
+      "date": "2026-09-28",
+      "summary": "В Венгрии сократилось число рождений и увеличилась смертность, что привело к росту естественной убыли населения. Демографические показатели продолжают ухудшаться.",
+      "category": "life",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/health/births-fall-deaths-rise-as-natural-decrease-widens"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-28",
+      "id": "c030f0dcd0ed"
+    },
+    {
+      "title_ru": "В Великобритании задержаны пять человек возле авиабазы США по подозрению в подготовке теракта",
+      "title_en": "U.K. police arrest 5 near airbase used by U.S. on suspicion of preparing a terrorist act",
+      "date": "2026-09-27",
+      "summary": "Полиция Великобритании задержала пять человек возле авиабазы, используемой США, по подозрению в подготовке террористического акта. Задержания произведены в рамках расследования.",
+      "category": "conflicts",
+      "region": "Великобритания",
+      "sources": [
+        "www.cbc.ca"
+      ],
+      "links": [
+        "https://www.cbc.ca/news/world/us-air-base-england-police-investigation-9.7360081?cmp=rss"
+      ],
+      "perspective": "Великобритания рассматривает это как предотвращение террористической угрозы",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-27",
+      "id": "5432db912090"
+    },
+    {
+      "title_ru": "В Брянской области частично обрушился железнодорожный мост при атаке БПЛА",
+      "title_en": "In Bryansk region, railway bridge partially collapsed during UAV attack",
+      "date": "2026-09-28",
+      "summary": "В Брянской области произошло частичное обрушение железнодорожного моста в результате атаки беспилотного летательного аппарата. Инцидент привёл к повреждению инфраструктуры.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8988388"
+      ],
+      "perspective": "Россия рассматривает это как атаку на свою инфраструктуру",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-28",
+      "id": "6226abaa602f"
+    },
+    {
+      "title_ru": "Российские силы нанесли удары по целям связи и логистики в Киеве и Одессе",
+      "title_en": "Russian forces strike communications, logistics targets in Kiev, Odessa — ministry",
+      "date": "2026-09-27",
+      "summary": "Министерство обороны России сообщило о нанесении ударов по целям связи и логистики в Киеве и Одессе. Удары были направлены на военную инфраструктуру.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/defense/2193647"
+      ],
+      "perspective": "Россия заявляет о ударах по военным объектам, Украина рассматривает это как атаки на гражданскую инфраструктуру",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-27",
+      "id": "e3ddcb4cd553"
+    },
+    {
+      "title_ru": "Китай показал самый слабый рост промышленной прибыли в этом году — 4,2% в августе",
+      "title_en": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
+      "date": "2026-09-28",
+      "summary": "Китай зафиксировал самый слабый рост промышленной прибыли в этом году — 4,2% в августе по сравнению с аналогичным периодом прошлого года. Показатель демонстрирует замедление экономической активности.",
+      "category": "economy",
+      "region": "Китай",
+      "sources": [
+        "www.cnbc.com"
+      ],
+      "links": [
+        "https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-28",
+      "id": "b52355594a7f"
+    },
+    {
+      "title_ru": "Великобритания ввела налоговые льготы и субсидии для борьбы с рекордно высокими ценами на топливо",
+      "title_en": "Europe turns to tax breaks, subsidies to tackle record-high fuel prices",
+      "date": "2026-09-27",
+      "summary": "Европейские страны, включая Великобританию, ввели налоговые льготы и субсидии для борьбы с рекордно высокими ценами на топливо. Меры направлены на снижение нагрузки на потребителей.",
+      "category": "economy",
+      "region": "Великобритания",
+      "sources": [
+        "www.dailysabah.com"
+      ],
+      "links": [
+        "https://www.dailysabah.com/business/economy/europe-turns-to-tax-breaks-subsidies-to-tackle-record-high-fuel-prices"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-27",
+      "id": "adadc09a6b35"
+    },
+    {
+      "title_ru": "Песков заявил, что Россия продолжит контакты с руководством Сербии после отставки Вучича",
+      "title_en": "Peskov: Russia will continue contacts with Serbian leadership after Vucic's resignation",
+      "date": "2026-09-28",
+      "summary": "Пресс-секретарь президента России Дмитрий Песков заявил, что Россия продолжит контакты с руководством Сербии после отставки президента Александра Вучича. Российская сторона подтвердила намерение развивать отношения.",
+      "category": "politics",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8988547"
+      ],
+      "perspective": "Россия демонстрирует продолжение курса на сотрудничество с Сербией",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-28",
+      "id": "9ef37fced165"
+    },
+    {
+      "title_ru": "Папа Леон XIV посетил Францию, сделав акцент на теме Европы",
+      "title_en": "Leon XIV in Metz: the pope wishes to focus on Europe",
+      "date": "2026-09-28",
+      "summary": "Папа Леон XIV завершил трёхдневный визит во Францию, выступив в Меце с речью, в которой сделал акцент на теме Европы. В ходе визита понтифик подчеркнул значение христианства для европейской идентичности.",
+      "category": "politics",
+      "region": "Франция",
+      "sources": [
+        "www.france24.com"
+      ],
+      "links": [
+        "https://www.france24.com/fr/vid%C3%A9o/20260928-l%C3%A9on-xiv-%C3%A0-metz-le-pape-souhaite-mettre-l-accent-sur-l-europe"
+      ],
+      "perspective": "Ватикан подчёркивает роль христианства в европейской культуре",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-28",
+      "id": "3943d9689aa8"
+    },
+    {
+      "title_ru": "Иран заявил о полной готовности к войне с США, но продолжает дипломатические усилия",
+      "title_en": "Iran 'fully prepared' for war to resume with US but still trying diplomacy: Araghchi",
+      "date": "2026-09-27",
+      "summary": "Заместитель министра иностранных дел Ирана Аббас Аракчи заявил, что страна полностью готова к возобновлению войны с США, но продолжает дипломатические усилия. Заявление сделано в интервью NBC News.",
+      "category": "statement",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/27/777141/Iran-fully-prepared-war-resume-US-still-pursuing-diplomacy-Araghchi-NBC-News-"
+      ],
+      "perspective": "Иран демонстрирует готовность к конфликту, но оставляет возможность для переговоров",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-27",
+      "id": "1b2f0970f0e8"
+    },
+    {
+      "title_ru": "Африка столкнётся с десятками тысяч дополнительных смертей от жары из-за усиления Эль-Ниньо",
+      "title_en": "Africa faces tens of thousands of additional heat deaths as El Niño intensifies",
+      "date": "2026-09-24",
+      "summary": "Африканский континент столкнётся с десятками тысяч дополнительных смертей от жары в связи с усилением феномена Эль-Ниньо. Климатические изменения увеличат нагрузку на системы здравоохранения региона.",
+      "category": "ecology",
+      "region": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/the-green-guardian/2026-09-24-africa-faces-tens-of-thousands-of-additional-heat-deaths-as-el-nino-intensifies/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-24",
+      "id": "df9eba27cdc4"
     }
   ],
   "_stats": {
-    "total_tokens": 16755,
-    "total_cost": 1.0696400000000001
+    "total_tokens": 33866,
+    "total_cost": 2.1647600000000002
   }
 }
