@@ -534,10 +534,314 @@
       "is_development": false,
       "first_reported": "2026-09-24",
       "id": "df9eba27cdc4"
+    },
+    {
+      "title_ru": "AMD приобретет World Labs за $8,2 млрд",
+      "title_en": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "date": "2026-09-28",
+      "summary": "Компания AMD объявила о приобретении World Labs, основанных Фэй-Фэй Ли, за 8,2 млрд долларов. Сделка направлена на усиление позиций в области искусственного интеллекта и высокопроизводительных вычислений.",
+      "category": "tech",
+      "region": "США",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-28",
+      "id": "8d642d46c15f"
+    },
+    {
+      "title_ru": "Космические лазеры впервые протестируют для генерации энергии",
+      "title_en": "Space Lasers Are About to Get Their First Real Test Generating Energy",
+      "date": "2026-09-28",
+      "summary": "Впервые будет проведено реальное испытание космических лазеров для генерации энергии. Тест направлен на проверку возможности передачи энергии из космоса на Землю.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "www.wired.com"
+      ],
+      "links": [
+        "https://www.wired.com/story/space-lasers-are-about-to-get-their-first-real-test-generating-energy/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-28",
+      "id": "f78857ec74b6"
+    },
+    {
+      "title_ru": "OpenAI отменила выпуск новой модели ИИ из-за проблем с безопасностью",
+      "title_en": "OpenAI cancels release of newest model due to safety concerns",
+      "date": "2026-09-29",
+      "summary": "Компания OpenAI отменила выпуск своей новейшей модели искусственного интеллекта из-за выявленных проблем с безопасностью. Решение принято после внутренней оценки рисков.",
+      "category": "ai",
+      "region": "США",
+      "sources": [
+        "www.lemonde.fr"
+      ],
+      "links": [
+        "https://www.lemonde.fr/en/pixels/article/2026/09/29/openai-cancels-release-of-newest-model-due-to-safety-concerns_6758062_13.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-29",
+      "id": "ea7b9f16026e"
+    },
+    {
+      "title_ru": "В Боливии выросли цены на продукты после сокращения субсидий на дизель",
+      "title_en": "Bolivia Food Prices Climb After Diesel Cut; Minimum Wage Now Worth About US$275",
+      "date": "2026-09-29",
+      "summary": "В Боливии после сокращения субсидий на дизельное топливо значительно выросли цены на продукты питания. Минимальная заработная плата сейчас составляет около 275 долларов США.",
+      "category": "life",
+      "region": "Боливия",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/bolivia-food-prices-families-minimum-wage-2026/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-29",
+      "id": "a79b027b2531"
+    },
+    {
+      "title_ru": "В Индонезии развернуты насосы для орошения засушливых сельхозугодий",
+      "title_en": "Ministry deploys three pumps to irrigate drought-hit Bekasi farmland",
+      "date": "2026-09-29",
+      "summary": "Министерство Индонезии развернуло три насоса для орошения сельскохозяйственных угодий в Бекаси, пострадавших от засухи. Меры направлены на поддержку местных фермеров.",
+      "category": "life",
+      "region": "Индонезия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/433369/ministry-deploys-three-pumps-to-irrigate-drought-hit-bekasi-farmland"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-29",
+      "id": "6480e316f37f"
+    },
+    {
+      "title_ru": "В Иерусалиме массовые беспорядки привели к 11 арестам и ранениям полиции",
+      "title_en": "Major overnight Jerusalem riot by leads to 11 arrests, Border Police injuries",
+      "date": "2026-09-29",
+      "summary": "Крупные ночные беспорядки в Иерусалиме привели к задержанию 11 человек и ранениям сотрудников пограничной полиции. Конфликт произошел в ходе протестных акций.",
+      "category": "conflicts",
+      "region": "Израиль",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/israel-news/article-910061"
+      ],
+      "perspective": "Израильские власти рассматривают инцидент как нарушение общественного порядка, участники протестов могут считать действия полиции репрессивными",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-29",
+      "id": "192e3f606fde"
+    },
+    {
+      "title_ru": "Средства ПВО России за сутки сбили 287 БПЛА и шесть авиабомб ВСУ",
+      "title_en": "Средства ПВО за сутки сбили 287 БПЛА и шесть авиабомб ВСУ",
+      "date": "2026-09-29",
+      "summary": "Российские средства противовоздушной обороны за сутки сбили 287 беспилотных летательных аппаратов и шесть авиабомб Вооруженных сил Украины. Данные опубликованы Министерством обороны РФ.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260929/pvo-2120928814.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-29",
+      "id": "799f0f05ee18"
+    },
+    {
+      "title_ru": "ВСУ потеряли до 460 военных в зоне действий \"Центра\" за сутки",
+      "title_en": "ВСУ потеряли до 460 боевиков в зоне действий \"Центра\" за сутки",
+      "date": "2026-09-29",
+      "summary": "Вооруженные силы Украины потеряли до 460 военных в зоне действий группировки \"Центр\" за сутки. Потери зафиксированы в ходе боевых столкновений.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260929/svo-2120928512.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-29",
+      "id": "103b40f2879a"
+    },
+    {
+      "title_ru": "Песков: Россия продолжает СВО из-за отсутствия здравых голосов на Западе",
+      "title_en": "Песков: Россия продолжает СВО из-за отсутствия здравых голосов на Западе",
+      "date": "2026-09-29",
+      "summary": "Пресс-секретарь президента РФ Дмитрий Песков заявил, что Россия продолжает специальную военную операцию из-за отсутствия здравых голосов на Западе. Заявление сделано в ходе брифинга для журналистов.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8989471"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-29",
+      "id": "1bd8b4bcfab1"
+    },
+    {
+      "title_ru": "Бразилия покрыла дефицит текущего счета за счет прямых иностранных инвестиций",
+      "title_en": "Brazil Foreign Direct Investment Covers Its August Deficit With the World",
+      "date": "2026-09-29",
+      "summary": "Бразилия покрыла дефицит текущего счета в августе за счет притока прямых иностранных инвестиций. Данные показывают устойчивость внешних финансов страны.",
+      "category": "economy",
+      "region": "Бразилия",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/brazil-current-account-deficit-foreign-direct-investment-august-2026/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-29",
+      "id": "ebbda571f134"
+    },
+    {
+      "title_ru": "Венгерский парламент отверг кандидатуру президента на пост прокурора",
+      "title_en": "Parliament votes 138–0 to reject president’s prosecutor pick",
+      "date": "2026-09-29",
+      "summary": "Парламент Венгрии единогласно проголосовал 138 голосами против 0 за отклонение кандидатуры президента на пост прокурора. Решение принято в ходе пленарного заседания.",
+      "category": "politics",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/hungary/parliament-votes-138-0-to-reject-presidents-prosecutor-pick/"
+      ],
+      "perspective": "Правительство может рассматривать это как проявление независимости парламента, оппозиция может видеть в этом политическое противостояние",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-29",
+      "id": "b0e49ea2cc96"
+    },
+    {
+      "title_ru": "Главы десяти регионов России отказались от депутатских мандатов \"Единой России\"",
+      "title_en": "Главы десяти регионов отказались от депутатских мандатов \"Единой России\"",
+      "date": "2026-09-29",
+      "summary": "Главы десяти российских регионов отказались от депутатских мандатов партии \"Единая Россия\" в Государственной думе. Среди отказавшихся — действующие губернаторы и мэр Москвы.",
+      "category": "politics",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20260929/er-2120951029.html"
+      ],
+      "perspective": "Партия может представлять это как ротацию кадров, оппозиция может рассматривать как внутренние противоречия",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-09-29",
+      "id": "0a1de8831281"
+    },
+    {
+      "title_ru": "Иранский командующий заявил о полном контроле над Ормузским проливом",
+      "title_en": "Iran has full control over Strait of Hormuz, Persian Gulf: Senior commander",
+      "date": "2026-09-28",
+      "summary": "Старший командующий иранской армии заявил, что Иран имеет полный контроль над Ормузским проливом и Персидским заливом. Заявление сделано в контексте региональной безопасности.",
+      "category": "statement",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/28/777176/Iran-Army-Sayyari-Hormuz"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-28",
+      "id": "ceb96b13b983"
+    },
+    {
+      "title_ru": "Фонд Мбеки предупредил об угрозе расового раскола в ЮАР",
+      "title_en": "Mbeki Foundation warns abandoning redress risks racial rupture in South Africa",
+      "date": "2026-09-28",
+      "summary": "Фонд Мбеки предупредил, что отказ от политики восстановления справедливости в ЮАР создает риск расового раскола в стране. Заявление сделано в контексте социальной политики.",
+      "category": "culture",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-09-28-mbeki-foundation-warns-abandoning-redress-risks-racial-rupture-in-south-africa/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-28",
+      "id": "aba1e9031fa6"
+    },
+    {
+      "title_ru": "SmallRig представил оптические видоискатели для решения проблем съемки",
+      "title_en": "SmallRig’s Optical Viewfinders Solve Problems Both Real and Imagined",
+      "date": "2026-09-28",
+      "summary": "Компания SmallRig представила новые оптические видоискатели, предназначенные для решения как реальных, так и предполагаемых проблем при съемке. Продукт ориентирован на профессиональных фотографов и видеооператоров.",
+      "category": "photo",
+      "region": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/28/smallrigs-optical-viewfinders-solve-problems-both-real-and-imagined/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-28",
+      "id": "3bad1fe118fe"
+    },
+    {
+      "title_ru": "Африка столкнется с десятками тысяч дополнительных смертей от жары из-за Эль-Ниньо",
+      "title_en": "Africa faces tens of thousands of additional heat deaths as El Niño intensifies",
+      "date": "2026-09-25",
+      "summary": "Африка столкнется с десятками тысяч дополнительных смертей от жары по мере усиления явления Эль-Ниньо. Прогноз основан на климатических моделях и данных о здоровье населения.",
+      "category": "ecology",
+      "region": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/the-green-guardian/2026-09-24-africa-faces-tens-of-thousands-of-additional-heat-deaths-as-el-nino-intensifies/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-09-25",
+      "id": "8b3421a53f2b"
     }
   ],
   "_stats": {
-    "total_tokens": 33866,
-    "total_cost": 2.1647600000000002
+    "total_tokens": 52326,
+    "total_cost": 3.34114
   }
 }
