@@ -286,7 +286,8 @@
       "perspective_type": "",
       "is_development": false,
       "first_reported": "2026-09-24",
-      "id": "854bbe97515b"
+      "id": "854bbe97515b",
+      "last_reported": "2026-09-24"
     },
     {
       "title_ru": "Южная Корея победила Японию и выиграла пятую подряд золотую медаль по бейсболу на Азиатских играх",
@@ -780,7 +781,8 @@
       "perspective_type": "",
       "is_development": false,
       "first_reported": "2026-09-28",
-      "id": "ceb96b13b983"
+      "id": "ceb96b13b983",
+      "last_reported": "2026-09-28"
     },
     {
       "title_ru": "Фонд Мбеки предупредил об угрозе расового раскола в ЮАР",
@@ -799,7 +801,8 @@
       "perspective_type": "",
       "is_development": false,
       "first_reported": "2026-09-28",
-      "id": "aba1e9031fa6"
+      "id": "aba1e9031fa6",
+      "last_reported": "2026-09-28"
     },
     {
       "title_ru": "SmallRig представил оптические видоискатели для решения проблем съемки",
@@ -838,10 +841,214 @@
       "is_development": false,
       "first_reported": "2026-09-25",
       "id": "8b3421a53f2b"
+    },
+    {
+      "title_ru": "Планеты-бродяги оказались способны формировать звезды",
+      "title_en": "Triggering star formation by free-floating planets",
+      "date": "2026-09-29",
+      "summary": "Согласно научному исследованию, свободно плавающие планеты-бродяги могут запускать процесс формирования новых звезд. Это открытие меняет представления о звездообразовании.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "Naked Science"
+      ],
+      "links": [
+        "https://naked-science.ru/article/astronomy/triggering-star-formation-by-free-floating-planets"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-29",
+      "id": "6aacd9b1eba2"
+    },
+    {
+      "title_ru": "Микрорапторины научились летать независимо от птиц",
+      "title_en": "Microraptorines learned to fly",
+      "date": "2026-09-29",
+      "summary": "Палеонтологи установили, что микрорапторины - мелкие динозавры-тероподы - развили способность к полету независимо от птиц. Это открытие свидетельствует о конвергентной эволюции полета.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "Naked Science"
+      ],
+      "links": [
+        "https://naked-science.ru/article/paleontology/mikroraptoriny-nauchilis-letat"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-29",
+      "id": "f074e3d77fa5"
+    },
+    {
+      "title_ru": "ИИ-лидеры предупреждают ООН об опасностях технологии",
+      "title_en": "AI leaders brief UN as warnings over technology's 'real and imminent' dangers grow",
+      "date": "2026-09-23",
+      "summary": "Лидеры в области искусственного интеллекта провели брифинг для ООН, предупредив о 'реальных и неизбежных' опасностях технологии. Предупреждения о рисках ИИ усиливаются.",
+      "category": "ai",
+      "region": "Мир",
+      "sources": [
+        "The Globe and Mail"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/article-un-general-assembly-ai-executives-technology-dangers/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-23",
+      "id": "e4ba9fcef093"
+    },
+    {
+      "title_ru": "Германия одобрила реформу системы ухода",
+      "title_en": "Germany news: Cabinet approves care reform bill",
+      "date": "2026-09-30",
+      "summary": "Правительство Германии одобрило законопроект о реформе системы ухода. Реформа направлена на изменение условий оказания услуг по уходу.",
+      "category": "life",
+      "region": "Германия",
+      "sources": [
+        "DW"
+      ],
+      "links": [
+        "https://www.dw.com/en/germany-news-cabinet-approves-care-reform-bill/live-79481802?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-30",
+      "id": "21f337d836f1"
+    },
+    {
+      "title_ru": "Восемь палестинцев погибли в секторе Газа в результате израильских атак",
+      "title_en": "Eight Palestinians killed in Gaza Strip during Israeli attacks — Health Ministry",
+      "date": "2026-09-30",
+      "summary": "Министерство здравоохранения Палестины сообщило о гибели восьми палестинцев в секторе Газа в результате израильских атак. Инцидент произошел 30 сентября.",
+      "category": "conflicts",
+      "region": "Ближний Восток",
+      "sources": [
+        "ТАСС"
+      ],
+      "links": [
+        "https://tass.com/world/2194795"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-30",
+      "id": "c514206143ad"
+    },
+    {
+      "title_ru": "Восемь морских пехотинцев США ранены в результате иранской атаки у Ормузского пролива",
+      "title_en": "Eight US Marines injured in recent Iranian attack near Strait of Hormuz: Report",
+      "date": "2026-09-28",
+      "summary": "Восемь морских пехотинцев США получили ранения в результате недавней иранской атаки в районе Ормузского пролива. Инцидент произошел недалеко от стратегически важного пролива.",
+      "category": "conflicts",
+      "region": "Ближний Восток",
+      "sources": [
+        "PressTV"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/28/777168/Eight-US-Marines-injured-Iran-attack-Hormuz-Strait"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-28",
+      "id": "2e45d25cce5e"
+    },
+    {
+      "title_ru": "Верховный суд США разрешил депортацию мигрантов в третьи страны",
+      "title_en": "US Supreme Court lifts limits on third-country deportations",
+      "date": "2026-09-29",
+      "summary": "Верховный суд США снял ограничения на депортацию мигрантов в третьи страны. Решение позволяет администрации Трампа возобновить эту практику.",
+      "category": "politics",
+      "region": "США",
+      "sources": [
+        "Le Monde"
+      ],
+      "links": [
+        "https://www.lemonde.fr/en/international/article/2026/09/29/us-supreme-court-lifts-limits-on-third-country-deportations_6758087_4.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-29",
+      "id": "cda7ada80a30"
+    },
+    {
+      "title_ru": "Володин переизбран председателем Госдумы",
+      "title_en": "Volodin re-elected as State Duma chairman",
+      "date": "2026-09-30",
+      "summary": "Вячеслав Володин переизбран председателем Государственной думы России. Он также сообщил об обновлении состава Госдумы на 41% по итогам выборов.",
+      "category": "politics",
+      "region": "Россия",
+      "sources": [
+        "Коммерсантъ"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8990289"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-30",
+      "id": "d06cae2196da"
+    },
+    {
+      "title_ru": "Путин ограничил распространение информации о российском ТЭК",
+      "title_en": "Putin restricts dissemination of information about Russian fuel and energy complex",
+      "date": "2026-09-28",
+      "summary": "Президент России Владимир Путин подписал указ об ограничении распространения информации о российском топливно-энергетическом комплексе. Решение принято 28 сентября.",
+      "category": "politics",
+      "region": "Россия",
+      "sources": [
+        "Коммерсантъ"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8988974"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-28",
+      "id": "275cecb3182f"
+    },
+    {
+      "title_ru": "Иран получил ответ США на условия возобновления диалога",
+      "title_en": "Iran receives US response to conditions for resuming dialogue — authorities",
+      "date": "2026-09-30",
+      "summary": "Иран получил ответ США на условия возобновления диалога между двумя странами. Об этом сообщили иранские власти 30 сентября.",
+      "category": "politics",
+      "region": "Иран",
+      "sources": [
+        "ТАСС"
+      ],
+      "links": [
+        "https://tass.com/world/2194977"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-30",
+      "id": "b743f228ad15"
+    },
+    {
+      "title_ru": "Рамафоса приказал усилить борьбу с делами о гендерном насилии",
+      "title_en": "Ramaphosa orders GBV case crackdown",
+      "date": "2026-09-30",
+      "summary": "Президент ЮАР Сирил Рамафоса приказал усилить борьбу с делами о гендерном насилии. Решение принято после убийств в Экурхулени, которые подвергли проверке систему реагирования на гендерное насилие.",
+      "category": "politics",
+      "region": "ЮАР",
+      "sources": [
+        "Mail & Guardian"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-09-30-ramaphosa-orders-gbv-case-crackdown/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-30",
+      "id": "6b4954cd658e"
+    },
+    {
+      "title_ru": "Imagen добавила ручное редактирование RAW в свою ИИ-помощницу для фотографов",
+      "title_en": "Imagen Adds Full Manual RAW Editing to Its AI-Assisted Photo Workspace",
+      "date": "2026-09-29",
+      "summary": "Компания Imagen добавила функцию полного ручного редактирования RAW-файлов в свою ИИ-помощницу для фотографов. Обновление выпущено 29 сентября.",
+      "category": "photo",
+      "region": "Мир",
+      "sources": [
+        "Petapixel"
+      ],
+      "links": [
+        "https://petapixel.com/2026/09/29/imagen-adds-full-manual-raw-editing-to-its-ai-assisted-photo-workspace/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-29",
+      "id": "470c76c1dd0d"
     }
   ],
   "_stats": {
-    "total_tokens": 52326,
-    "total_cost": 3.34114
+    "total_tokens": 69939,
+    "total_cost": 4.4531600000000005
   }
 }
