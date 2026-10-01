@@ -877,23 +877,6 @@
       "id": "f074e3d77fa5"
     },
     {
-      "title_ru": "ИИ-лидеры предупреждают ООН об опасностях технологии",
-      "title_en": "AI leaders brief UN as warnings over technology's 'real and imminent' dangers grow",
-      "date": "2026-09-23",
-      "summary": "Лидеры в области искусственного интеллекта провели брифинг для ООН, предупредив о 'реальных и неизбежных' опасностях технологии. Предупреждения о рисках ИИ усиливаются.",
-      "category": "ai",
-      "region": "Мир",
-      "sources": [
-        "The Globe and Mail"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/world/article-un-general-assembly-ai-executives-technology-dangers/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-23",
-      "id": "e4ba9fcef093"
-    },
-    {
       "title_ru": "Германия одобрила реформу системы ухода",
       "title_en": "Germany news: Cabinet approves care reform bill",
       "date": "2026-09-30",
@@ -1045,10 +1028,299 @@
       "is_development": false,
       "first_reported": "2026-09-29",
       "id": "470c76c1dd0d"
+    },
+    {
+      "title_ru": "Южная Корея и США выбрали электростанцию в Техасе первым проектом стратегических инвестиций",
+      "title_en": "Seoul, Washington pick Texas power plant as 1st project under strategic investment",
+      "date": "2026-10-01",
+      "summary": "Южная Корея и США выбрали электростанцию в Техасе в качестве первого проекта в рамках стратегических инвестиций. Это решение ускорит переговоры по вопросам безопасности между двумя странами.",
+      "category": "tech",
+      "region": "США",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261001000500320"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-01",
+      "id": "b0eeb104c120"
+    },
+    {
+      "title_ru": "BMW выпустила электромобиль на $4400 дешевле аналогичной модели с ДВС",
+      "title_en": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
+      "date": "2026-09-30",
+      "summary": "Компания BMW представила электромобиль, который на $4400 дешевле аналогичной модели с двигателем внутреннего сгорания. Обе модели имеют одинаковую конструкцию.",
+      "category": "tech",
+      "region": "Германия",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-30",
+      "id": "7b86b34ebeba"
+    },
+    {
+      "title_ru": "DoorDash запустил ИИ-агента для заказа еды по текстовым сообщениям",
+      "title_en": "DoorDash launches an AI agent you can text to order food",
+      "date": "2026-09-30",
+      "summary": "Сервис доставки еды DoorDash запустил ИИ-агента, который позволяет заказывать еду через текстовые сообщения. Пользователи могут общаться с агентом для выбора и оформления заказа.",
+      "category": "ai",
+      "region": "США",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-30",
+      "id": "32c84c057723"
+    },
+    {
+      "title_ru": "Сын использовал ИИ для спасения жизни матери с болезнью Паркинсона",
+      "title_en": "Son who used AI to help save mum's life hopes case unlocks clues for other Parkinson's patients",
+      "date": "2026-10-01",
+      "summary": "Сын использовал искусственный интеллект для анализа данных и спасения жизни своей матери, страдающей болезнью Паркинсона. Этот случай может помочь другим пациентам с аналогичным заболеванием.",
+      "category": "ai",
+      "region": "Великобритания",
+      "sources": [
+        "feeds.bbci.co.uk"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cmy0zewj483wo?at_medium=RSS&at_campaign=rss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-01",
+      "id": "56c02a85bda0"
+    },
+    {
+      "title_ru": "В Индонезии прогнозируют производство риса в 7,06 млн тонн",
+      "title_en": "BPS sees 7.06 million tons rice output, farmer index rises",
+      "date": "2026-10-01",
+      "summary": "Центральное статистическое агентство Индонезии прогнозирует производство риса в 7,06 млн тонн. Индекс благосостояния фермеров вырос на 0,21% в сентябре 2026 года.",
+      "category": "life",
+      "region": "Индонезия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/433712/bps-sees-706-million-tons-rice-output-farmer-index-rises"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-01",
+      "id": "c80885669f82"
+    },
+    {
+      "title_ru": "Город Эрмело в ЮАР готовится к очередному 'Дню ноль' из-за нехватки воды",
+      "title_en": "Ermelo braces for another Day Zero",
+      "date": "2026-09-24",
+      "summary": "Город Эрмело в провинции Мпумаланга, ЮАР, готовится к очередному 'Дню ноль' из-за нехватки воды. Власти ввели ограничения на водопользование и призывают жителей экономить воду.",
+      "category": "life",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/the-green-guardian/2026-09-24-ermelo-braces-for-another-day-zero/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-24",
+      "id": "767e10dd2add"
+    },
+    {
+      "title_ru": "Во Франции задержаны сотни человек в ходе эскалации студенческих протестов",
+      "title_en": "France: Hundreds arrested as student protests escalate",
+      "date": "2026-09-30",
+      "summary": "Во Франции задержаны сотни человек в ходе эскалации студенческих протестов. Некоторые протесты переросли в насилие, что привело к массовым арестам.",
+      "category": "conflicts",
+      "region": "Франция",
+      "sources": [
+        "rss.dw.com"
+      ],
+      "links": [
+        "https://www.dw.com/en/france-hundreds-arrested-as-student-protests-escalate/a-79495633?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-30",
+      "id": "e783d225bab9"
+    },
+    {
+      "title_ru": "Саудовская Аравия нанесла более 30 авиаударов по Йемену за 24 часа",
+      "title_en": "Army spox: Saudi Arabia launches over 30 airstrikes across Yemen in 24 hours",
+      "date": "2026-09-29",
+      "summary": "Саудовская Аравия нанесла более 30 авиаударов по различным районам Йемена в течение 24 часов. Представитель йеменской армии сообщил о нанесенном ущербе.",
+      "category": "conflicts",
+      "region": "Йемен",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/29/777293/Saudi-Arabia-launches-35-strikes-across-Yemen-in-24-hours,-causing-damage--Army-spox"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-29",
+      "id": "26f56168182c"
+    },
+    {
+      "title_ru": "Зеленский заявил об ударах по целям в Черном море и трех регионах РФ",
+      "title_en": "Зеленський заявив про ураження цілей у Чорному морі та трьох регіонах РФ",
+      "date": "2026-10-01",
+      "summary": "Президент Украины Владимир Зеленский заявил об ударах по целям в Черном море и трех регионах России. Он сообщил о поражении военных объектов противника.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "www.ukrinform.ua"
+      ],
+      "links": [
+        "https://www.ukrinform.ua/rubric-ato/4169942-zelenskij-zaaviv-pro-urazenna-cilej-u-cornomu-mori-ta-troh-regionah-rf.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-01",
+      "id": "d1001d6ef836"
+    },
+    {
+      "title_ru": "Суд в Москве арестовал начальника управления Минобороны Никиташкина",
+      "title_en": "Суд в Москве арестовал начальника управления Минобороны Никиташкина",
+      "date": "2026-10-01",
+      "summary": "Суд в Москве арестовал начальника управления Министерства обороны России Никиташкина. Он обвиняется в совершении преступления, связанного со службой.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "rssexport.rbc.ru"
+      ],
+      "links": [
+        "https://www.rbc.ru/rbcfreenews/6abbbfeee0c90d6b80e6e4d5"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-01",
+      "id": "96438ab5fdd0"
+    },
+    {
+      "title_ru": "Минфин РФ: доходы от управления средствами ФНБ составят не менее 676,1 млрд рублей",
+      "title_en": "Минфин: доходы от управления средствами ФНБ составят не менее 676,1 млрд рублей",
+      "date": "2026-10-01",
+      "summary": "Министерство финансов России сообщило, что доходы от управления средствами Фонда национального благосостояния составят не менее 676,1 млрд рублей. Эти средства будут направлены на финансирование бюджетных расходов.",
+      "category": "economy",
+      "region": "Россия",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/ekonomika/28170707"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-01",
+      "id": "92f3499c01f6"
+    },
+    {
+      "title_ru": "Президент Южной Кореи запросит слушания по кандидату на пост главы следственного бюро",
+      "title_en": "President to request confirmation hearing for embattled nominee for chief of investigation bureau",
+      "date": "2026-10-01",
+      "summary": "Президент Южной Кореи запросит слушания по кандидату на пост главы следственного бюро, который столкнулся с противоречиями. Это решение следует за критикой в адрес номинанта.",
+      "category": "politics",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261001007751315"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-01",
+      "id": "33a655481484"
+    },
+    {
+      "title_ru": "В ЮАР Шадрак Сибия обвинил оперативную группу Мэдланги в организации своего ареста",
+      "title_en": "Sibiya accuses Madlanga task team of orchestrating arrest",
+      "date": "2026-09-29",
+      "summary": "Бывший высокопоставленный полицейский ЮАР Шадрак Сибия обвинил оперативную группу Мэдланги в организации своего ареста. Он заявил, что его задержание было сфабриковано.",
+      "category": "politics",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-09-29-sibiya-accuses-madlanga-task-team-of-orchestrating-arrest/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-29",
+      "id": "95a75b10016d"
+    },
+    {
+      "title_ru": "Песков рассказал о докладах Дмитриева Путину об итогах переговоров в США",
+      "title_en": "Песков рассказал о докладах Дмитриева Путину об итогах переговоров в США",
+      "date": "2026-10-01",
+      "summary": "Пресс-секретарь президента России Дмитрий Песков сообщил, что помощник президента Максим Дмитриев докладывает Владимиру Путину об итогах своих контактов с представителями США. Контакты между сторонами продолжаются.",
+      "category": "politics",
+      "region": "Россия",
+      "sources": [
+        "rssexport.rbc.ru"
+      ],
+      "links": [
+        "https://www.rbc.ru/rbcfreenews/6abcdf5cd016f1b13d25a475"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-01",
+      "id": "583f950c410a"
+    },
+    {
+      "title_ru": "Нетаньяху заявил, что Израиль предупредил Британию об иранском теракте до инцидента на авиабазе",
+      "title_en": "Netanyahu says Israel warned Britain about Iranian terror plot before RAF airbase incident",
+      "date": "2026-10-01",
+      "summary": "Премьер-министр Израиля Биньямин Нетаньяху заявил, что Израиль предупредил Великобританию об иранском теракте до инцидента на авиабазе RAF. Он подчеркнул важность сотрудничества в борьбе с терроризмом.",
+      "category": "statement",
+      "region": "Израиль",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/israel-news/article-910266"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-01",
+      "id": "6fe3f612bd56"
+    },
+    {
+      "title_ru": "В ЮАР прошел джазовый фестиваль, посвященный памяти Буси Мхлонго",
+      "title_en": "Three voices, one spirit: honouring Busi Mhlongo at Joy of Jazz",
+      "date": "2026-09-24",
+      "summary": "В ЮАР прошел джазовый фестиваль Joy of Jazz, посвященный памяти певицы Буси Мхлонго. На фестивале выступили три вокалистки, которые отдали дань уважения ее творчеству.",
+      "category": "culture",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/friday/2026-09-24-three-voices-one-spirit-honouring-busi-mhlongo-at-joy-of-jazz/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-09-24",
+      "id": "83e562389b83"
+    },
+    {
+      "title_ru": "Nikon пересматривает победителя конкурса Small World in Motion после обвинений в использовании ИИ",
+      "title_en": "Nikon 'Re-Reviewing' Winner of Small World in Motion Contest After AI Accusation",
+      "date": "2026-10-01",
+      "summary": "Компания Nikon пересматривает победителя конкурса Small World in Motion после обвинений в использовании искусственного интеллекта. Организаторы проверяют соответствие работы правилам конкурса.",
+      "category": "photo",
+      "region": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/10/01/nikon-re-reviewing-winner-of-small-world-in-motion-contest-after-ai-accusation/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-01",
+      "id": "50da263dc172"
     }
   ],
   "_stats": {
-    "total_tokens": 69939,
-    "total_cost": 4.4531600000000005
+    "total_tokens": 88988,
+    "total_cost": 5.6669
   }
 }
