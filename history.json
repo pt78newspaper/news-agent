@@ -20,25 +20,6 @@
       "id": "52ebbfa712d5"
     },
     {
-      "title_ru": "Астрономы впервые зафиксировали радиосигнал от экзопланеты",
-      "title_en": "Astronomers detect radio signal from exoplanet for the first time",
-      "date": "2026-09-24",
-      "summary": "Астрономы впервые зафиксировали радиосигнал, исходящий от экзопланеты. Открытие сделано с использованием радиотелескопа и может указывать на наличие магнитного поля у планеты.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/astronomy/poimali-radiosignal-ot-ekzoplanety"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-24",
-      "id": "0df070c3bbdb"
-    },
-    {
       "title_ru": "Meta открыла программу раннего доступа к новым функциям Muse",
       "title_en": "Meta opens early access program for new Muse features",
       "date": "2026-09-25",
@@ -78,25 +59,6 @@
       "id": "3acaeef497e6"
     },
     {
-      "title_ru": "Франция направит военных в Саудовскую Аравию для защиты энергообъектов",
-      "title_en": "France to Send Soldiers to Saudi Arabia to Help Secure Energy Sites",
-      "date": "2026-09-24",
-      "summary": "Франция направляет военнослужащих в Саудовскую Аравию для помощи в защите энергетических объектов. Решение принято на фоне усиления атак хуситов по энергоинфраструктуре.",
-      "category": "conflicts",
-      "region": "Саудовская Аравия",
-      "sources": [
-        "rss.nytimes.com"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/09/24/world/middleeast/france-saudi-arabia-red-sea-yemen-houthis.html"
-      ],
-      "perspective": "Франция и Саудовская Аравия рассматривают это как меру защиты критической инфраструктуры, хуситы видят в этом эскалацию иностранного вмешательства",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-24",
-      "id": "72720d4355f7"
-    },
-    {
       "title_ru": "Минобороны РФ сообщило об ударах по дата-центрам «Киевстар» и «Омега Телеком»",
       "title_en": "Russian Defense Ministry reports strikes on Kyivstar and Omega Telecom data centers",
       "date": "2026-09-27",
@@ -133,25 +95,6 @@
       "is_development": false,
       "first_reported": "2026-09-27",
       "id": "cc5f396f9a54"
-    },
-    {
-      "title_ru": "Швейцария сохраняет нулевую ключевую ставку",
-      "title_en": "Switzerland is keeping rates at 0% — for now",
-      "date": "2026-09-24",
-      "summary": "Национальный банк Швейцарии сохранил нулевую ключевую ставку на текущем заседании. Решение принято несмотря на инфляционное давление в мировой экономике.",
-      "category": "economy",
-      "region": "Швейцария",
-      "sources": [
-        "www.cnbc.com"
-      ],
-      "links": [
-        "https://www.cnbc.com/2026/09/24/swiss-national-bank-interest-rates-inflation.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-24",
-      "id": "260d1ffb6c0e"
     },
     {
       "title_ru": "Иранский парламент завершил рассмотрение законопроекта о безопасности Ормузского пролива",
@@ -230,26 +173,6 @@
       "id": "5bc903bbd091"
     },
     {
-      "title_ru": "После 20 лет работы у микрофона Кухле Нкоси получил международное признание",
-      "title_en": "After 20 years behind the microphone, Kuhle Nkosi gets his international moment",
-      "date": "2026-09-24",
-      "summary": "Южноафриканский радиоведущий Кухле Нкоси после 20 лет работы получил международное признание. Его карьера началась на местных радиостанциях и достигла международного уровня.",
-      "category": "culture",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/friday/2026-09-24-after-20-years-behind-the-microphone-kuhle-nkosi-gets-his-international-moment/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-24",
-      "id": "d245c50d69b0",
-      "last_reported": "2026-09-24"
-    },
-    {
       "title_ru": "Nikon может вынудить Canon открыть закрытую систему крепления RF",
       "title_en": "Thanks to Nikon, Canon's Closed RF Mount Could Be Forced Open",
       "date": "2026-09-26",
@@ -268,26 +191,6 @@
       "first_reported": "2026-09-26",
       "id": "a2b8aa2b89ea",
       "last_reported": "2026-09-26"
-    },
-    {
-      "title_ru": "Эрмело готовится к очередному «Дню ноль» из-за нехватки воды",
-      "title_en": "Ermelo braces for another Day Zero",
-      "date": "2026-09-24",
-      "summary": "Город Эрмело в ЮАР готовится к очередному «Дню ноль» — ситуации, когда водоснабжение будет полностью отключено из-за нехватки воды. Регион сталкивается с хроническими проблемами водоснабжения.",
-      "category": "ecology",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/the-green-guardian/2026-09-24-ermelo-braces-for-another-day-zero/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-24",
-      "id": "854bbe97515b",
-      "last_reported": "2026-09-24"
     },
     {
       "title_ru": "Южная Корея победила Японию и выиграла пятую подряд золотую медаль по бейсболу на Азиатских играх",
@@ -516,25 +419,6 @@
       "is_development": false,
       "first_reported": "2026-09-27",
       "id": "1b2f0970f0e8"
-    },
-    {
-      "title_ru": "Африка столкнётся с десятками тысяч дополнительных смертей от жары из-за усиления Эль-Ниньо",
-      "title_en": "Africa faces tens of thousands of additional heat deaths as El Niño intensifies",
-      "date": "2026-09-24",
-      "summary": "Африканский континент столкнётся с десятками тысяч дополнительных смертей от жары в связи с усилением феномена Эль-Ниньо. Климатические изменения увеличат нагрузку на системы здравоохранения региона.",
-      "category": "ecology",
-      "region": "Африка",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/the-green-guardian/2026-09-24-africa-faces-tens-of-thousands-of-additional-heat-deaths-as-el-nino-intensifies/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-24",
-      "id": "df9eba27cdc4"
     },
     {
       "title_ru": "AMD приобретет World Labs за $8,2 млрд",
@@ -1115,23 +999,6 @@
       "id": "c80885669f82"
     },
     {
-      "title_ru": "Город Эрмело в ЮАР готовится к очередному 'Дню ноль' из-за нехватки воды",
-      "title_en": "Ermelo braces for another Day Zero",
-      "date": "2026-09-24",
-      "summary": "Город Эрмело в провинции Мпумаланга, ЮАР, готовится к очередному 'Дню ноль' из-за нехватки воды. Власти ввели ограничения на водопользование и призывают жителей экономить воду.",
-      "category": "life",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/the-green-guardian/2026-09-24-ermelo-braces-for-another-day-zero/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-24",
-      "id": "767e10dd2add"
-    },
-    {
       "title_ru": "Во Франции задержаны сотни человек в ходе эскалации студенческих протестов",
       "title_en": "France: Hundreds arrested as student protests escalate",
       "date": "2026-09-30",
@@ -1285,23 +1152,6 @@
       "id": "6fe3f612bd56"
     },
     {
-      "title_ru": "В ЮАР прошел джазовый фестиваль, посвященный памяти Буси Мхлонго",
-      "title_en": "Three voices, one spirit: honouring Busi Mhlongo at Joy of Jazz",
-      "date": "2026-09-24",
-      "summary": "В ЮАР прошел джазовый фестиваль Joy of Jazz, посвященный памяти певицы Буси Мхлонго. На фестивале выступили три вокалистки, которые отдали дань уважения ее творчеству.",
-      "category": "culture",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/friday/2026-09-24-three-voices-one-spirit-honouring-busi-mhlongo-at-joy-of-jazz/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-24",
-      "id": "83e562389b83"
-    },
-    {
       "title_ru": "Nikon пересматривает победителя конкурса Small World in Motion после обвинений в использовании ИИ",
       "title_en": "Nikon 'Re-Reviewing' Winner of Small World in Motion Contest After AI Accusation",
       "date": "2026-10-01",
@@ -1317,10 +1167,333 @@
       "is_development": false,
       "first_reported": "2026-10-01",
       "id": "50da263dc172"
+    },
+    {
+      "title_ru": "В Южной Корее запущена реформированная прокуратура и новое следственное агентство",
+      "title_en": "S. Korea launches scaled-down prosecution, new investigation agency in major reform",
+      "date": "2026-10-02",
+      "summary": "В Южной Корее 2 октября вступила в силу масштабная реформа правоохранительной системы. Была создана новая независимая следственная служба, а полномочия прокуратуры сокращены.",
+      "category": "politics",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261002001551315"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "68e67b3b9912"
+    },
+    {
+      "title_ru": "В Венгрии парламент заблокирован после передачи его охраны антитеррористическому подразделению",
+      "title_en": "Parliament locks down as anti-terror unit takes over its security",
+      "date": "2026-10-02",
+      "summary": "Парламент Венгрии в Будапеште был заблокирован 2 октября после того, как его охрану передали антитеррористическому подразделению. Причины передачи не уточняются.",
+      "category": "politics",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/hungary/parliament-locks-down-as-anti-terror-unit-takes-over-its-security/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "d4552fe242f3"
+    },
+    {
+      "title_ru": "Студенческие протесты во Франции привели к закрытию 400 школ",
+      "title_en": "France closes 400 schools as education protests spiral into unrest",
+      "date": "2026-10-02",
+      "summary": "Во Франции 2 октября были закрыты 400 школ из-за продолжающихся студенческих протестов против ухудшения состояния учебных заведений и нехватки ресурсов. Премьер-министр провел экстренное совещание по кризису.",
+      "category": "conflicts",
+      "region": "Франция",
+      "sources": [
+        "www.dailysabah.com"
+      ],
+      "links": [
+        "https://www.dailysabah.com/world/europe/france-closes-400-schools-as-education-protests-spiral-into-unrest"
+      ],
+      "perspective": "Протестующие требуют улучшения условий обучения, власти ссылаются на угрозу общественному порядку",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "2203e45f13c7"
+    },
+    {
+      "title_ru": "ВС РФ взяли населенные пункты Грачевка и Сердобино в Харьковской области",
+      "title_en": "Russian army takes Kharkiv region's Grachevka and Serdobino",
+      "date": "2026-10-02",
+      "summary": "Министерство обороны России сообщило 2 октября о взятии населенных пунктов Грачевка и Сердобино в Харьковской области. За неделю в зоне действий группировки 'Север' ВСУ потеряли более 2000 военных.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8993769"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "1f43d98e78b7"
+    },
+    {
+      "title_ru": "В Белгородской области заявили о применении ВСУ химического вещества при ударах",
+      "title_en": "Belgorod region reports use of chemical substance by Ukrainian forces in strikes",
+      "date": "2026-10-02",
+      "summary": "Власти Белгородской области России заявили 2 октября, что Вооруженные силы Украины применяют химическое вещество при ударах по региону. Также сообщается об использовании боеприпасов с вольфрамовыми шариками.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/28175423"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "d60da08075ad"
+    },
+    {
+      "title_ru": "Минобороны РФ сообщило о поражении 17 судов с вооружением для ВСУ",
+      "title_en": "Russian Defense Ministry reports destruction of 17 vessels carrying weapons for Ukrainian forces",
+      "date": "2026-10-02",
+      "summary": "Министерство обороны России заявило 2 октября о поражении 17 судов, перевозивших вооружение для Вооруженных сил Украины. Информация была опубликована в сводке по специальной военной операции.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "rssexport.rbc.ru"
+      ],
+      "links": [
+        "https://www.rbc.ru/politics/28/09/2026/6aba9a601912c22506ca2de6"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "78611372a4d7"
+    },
+    {
+      "title_ru": "ЕС утвердил выделение 45 млрд евро для Украины",
+      "title_en": "EU locks in €45bn for Ukraine as it tells other allies to step up",
+      "date": "2026-10-02",
+      "summary": "Европейский союз 2 октября утвердил выделение 45 млрд евро для Украины. Одновременно ЕС призвал другие страны-союзники увеличить свою поддержку.",
+      "category": "politics",
+      "region": "Европа",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/world/eu-locks-in-e45bn-for-ukraine-as-it-tells-other-allies-to-step-up/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "53398686644a"
+    },
+    {
+      "title_ru": "В Венгрии опубликованы имена 50 000 секретных информаторов",
+      "title_en": "50,000 secret informer names go public — and some may still be active",
+      "date": "2026-10-02",
+      "summary": "В Венгрии 2 октября были обнародованы имена 50 000 секретных информаторов. По данным источников, некоторые из них могут продолжать свою деятельность.",
+      "category": "politics",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/hungary/50000-secret-informer-names-go-public-and-some-may-still-be-active/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "fa7af562edd5"
+    },
+    {
+      "title_ru": "В Венгрии ухудшился дефицит бюджета из-за опережающих расходов",
+      "title_en": "Spending races ahead of revenues as budget deficit deteriorates",
+      "date": "2026-10-02",
+      "summary": "В Венгрии зафиксировано ухудшение дефицита бюджета по состоянию на 2 октября. Расходы опережают доходы, что приводит к росту бюджетного дефицита.",
+      "category": "economy",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/economy/spending-races-ahead-of-revenues-as-budget-deficit-deteriorates/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "91cc8ad39341"
+    },
+    {
+      "title_ru": "США направили дополнительные системы Пэтриот в Саудовскую Аравию и Катар",
+      "title_en": "US sends two additional Patriot batteries to Saudi Arabia, Qatar — Axios",
+      "date": "2026-10-02",
+      "summary": "Соединенные Штаты направили две дополнительные батареи зенитно-ракетных комплексов Patriot в Саудовскую Аравию и Катар. Информация поступила от Axios 2 октября.",
+      "category": "conflicts",
+      "region": "Ближний Восток",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/world/2196417"
+      ],
+      "perspective": "США укрепляют оборону союзников, Иран рассматривает это как эскалацию",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "c8bd40a8fad9"
+    },
+    {
+      "title_ru": "В Йемене сбит саудовский беспилотник, проведены авиаудары по северным районам",
+      "title_en": "Yemen downs Saudi drone as Riyadh begs West, UAE for urgent help",
+      "date": "2026-10-02",
+      "summary": "Йеменские силы сообщили 2 октября о сбитии саудовского разведывательного беспилотника. Одновременно саудовская авиация нанесла удары по районам на севере Йемена.",
+      "category": "conflicts",
+      "region": "Йемен",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/09/30/777308/Yemen-Ansarullah-shoot-down-Saudi-reconaissance-drone-Sa-ada--Hazam-al-Asad"
+      ],
+      "perspective": "Йеменские силы заявляют о военных успехах, Саудовская Аравия продолжает военные операции",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "3df980f627b3"
+    },
+    {
+      "title_ru": "В ЮАР произошли два массовых расстрела с гибелью не менее 28 человек",
+      "title_en": "Two mass shootings in South Africa leave at least 28 dead",
+      "date": "2026-10-02",
+      "summary": "В Южно-Африканской Республике произошли два массовых расстрела в Йоханнесбурге и Кейптауне. В результате инцидентов погибло не менее 28 человек.",
+      "category": "life",
+      "region": "ЮАР",
+      "sources": [
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/article-south-africa-mass-shooting-johannesburg-cape-town/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "40765144cd48"
+    },
+    {
+      "title_ru": "Во Франции возникла новая тревога по поводу противозачаточных таблеток",
+      "title_en": "Fresh alert on contraceptive pill worries French women, but doctors warn against rushed decisions",
+      "date": "2026-10-02",
+      "summary": "Во Франции 1 октября была объявлена новая тревога по поводу безопасности противозачаточных таблеток. Врачи предупредили женщин о недопустимости поспешных решений без консультации с медиками.",
+      "category": "life",
+      "region": "Франция",
+      "sources": [
+        "www.lemonde.fr"
+      ],
+      "links": [
+        "https://www.lemonde.fr/en/france/article/2026/10/01/fresh-alert-on-contraceptive-pill-worries-french-women-but-doctors-warn-against-rushed-decisions_6758150_7.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "e74777307d70"
+    },
+    {
+      "title_ru": "В мире завершено строительство первой усовершенствованной геотермальной электростанции",
+      "title_en": "World's first enhanced geothermal power plant completed in just 23 months",
+      "date": "2026-10-02",
+      "summary": "В мире завершено строительство первой в мире усовершенствованной геотермальной электростанции. Строительство объекта заняло 23 месяца.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "7fc8cfa5436b"
+    },
+    {
+      "title_ru": "Губернатор Калифорнии наложил вето на закон о запрете 'очков-извращенцев'",
+      "title_en": "California governor vetoes bill banning use of 'pervert glasses' to secretly record people",
+      "date": "2026-10-02",
+      "summary": "Губернатор Калифорнии наложил вето на законопроект, запрещающий использование так называемых 'очков-извращенцев' для тайной записи людей. Решение было принято 1 октября.",
+      "category": "tech",
+      "region": "США",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "6c10b71b0562"
+    },
+    {
+      "title_ru": "В Парагвае запущен второй спутник GuaraníSat-2 с помощью SpaceX",
+      "title_en": "Paraguay's Second Satellite, GuaraníSat-2, Reaches Orbit via SpaceX",
+      "date": "2026-10-02",
+      "summary": "Второй парагвайский спутник GuaraníSat-2 был выведен на орбиту с помощью ракеты-носителя SpaceX. Запуск состоялся 2 октября.",
+      "category": "tech",
+      "region": "Парагвай",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/paraguay-guaranisat-2-satellite-space-2026/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "82b612b8a833"
+    },
+    {
+      "title_ru": "Лукашенко заявил о приверженности Минска интересам ЕАЭС",
+      "title_en": "Lukashenko: Minsk will never betray interests of EAEU",
+      "date": "2026-10-02",
+      "summary": "Президент Белоруссии Александр Лукашенко заявил 2 октября, что Минск никогда не предаст интересы Евразийского экономического союза. Заявление было сделано на встрече с премьер-министрами стран ЕАЭС.",
+      "category": "statement",
+      "region": "Белоруссия",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/ekonomika/28175659"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "f17dbc6523e4"
     }
   ],
   "_stats": {
-    "total_tokens": 88988,
-    "total_cost": 5.6669
+    "total_tokens": 107325,
+    "total_cost": 6.83646
   }
 }
