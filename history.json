@@ -20,26 +20,6 @@
       "id": "52ebbfa712d5"
     },
     {
-      "title_ru": "Meta открыла программу раннего доступа к новым функциям Muse",
-      "title_en": "Meta opens early access program for new Muse features",
-      "date": "2026-09-25",
-      "summary": "Компания Meta запустила программу раннего доступа к новым функциям своей ИИ-платформы Muse. Программа позволяет разработчикам тестировать расширенные возможности системы.",
-      "category": "ai",
-      "region": "США",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-25",
-      "id": "95a28a8ecd31",
-      "last_reported": "2026-09-25"
-    },
-    {
       "title_ru": "Израиль ужесточил ограничения в Рамалле и вокруг него",
       "title_en": "Israeli regime tightens restrictions in, around Ramallah",
       "date": "2026-09-27",
@@ -706,25 +686,6 @@
       "is_development": false,
       "first_reported": "2026-09-28",
       "id": "3bad1fe118fe"
-    },
-    {
-      "title_ru": "Африка столкнется с десятками тысяч дополнительных смертей от жары из-за Эль-Ниньо",
-      "title_en": "Africa faces tens of thousands of additional heat deaths as El Niño intensifies",
-      "date": "2026-09-25",
-      "summary": "Африка столкнется с десятками тысяч дополнительных смертей от жары по мере усиления явления Эль-Ниньо. Прогноз основан на климатических моделях и данных о здоровье населения.",
-      "category": "ecology",
-      "region": "Африка",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/the-green-guardian/2026-09-24-africa-faces-tens-of-thousands-of-additional-heat-deaths-as-el-nino-intensifies/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-25",
-      "id": "8b3421a53f2b"
     },
     {
       "title_ru": "Планеты-бродяги оказались способны формировать звезды",
@@ -1490,10 +1451,333 @@
       "is_development": false,
       "first_reported": "2026-10-02",
       "id": "f17dbc6523e4"
+    },
+    {
+      "title_ru": "G7 согласовали выпуск 100 млн баррелей нефти для стабилизации рынка",
+      "title_en": "G7 nations agree to release 100 million barrels of oil, including diesel, amid energy crunch",
+      "date": "2026-10-02",
+      "summary": "Страны G7 договорились выпустить 100 млн баррелей нефти из стратегических резервов, включая дизельное топливо. Решение принято для стабилизации мирового энергетического рынка.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "www.cbc.ca"
+      ],
+      "links": [
+        "https://www.cbc.ca/news/business/g7-trump-diesel-reserve-release-9.7366871?cmp=rss"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "cce431ff2b56"
+    },
+    {
+      "title_ru": "OPEC+ отложил пересмотр квот из-за войны в Иране",
+      "title_en": "OPEC+ reportedly delays capacity review after Iran war disrupts oil projects",
+      "date": "2026-10-02",
+      "summary": "Картель OPEC+ отложил пересмотр производственных мощностей стран-участниц. Решение связано с нарушением нефтяных проектов из-за войны в Иране.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/business/article-opec-reportedly-delays-quota-review-after-iran-war-disrupts-oil/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "8cbf740cae8f"
+    },
+    {
+      "title_ru": "Samsung начала массовое производство процессора Exynos 2700",
+      "title_en": "Samsung reportedly starts mass production of the Exynos 2700 for the Galaxy S27 series",
+      "date": "2026-10-03",
+      "summary": "Компания Samsung начала массовое производство процессора Exynos 2700 для смартфонов Galaxy S27. Чип будет использоваться в новых флагманских устройствах.",
+      "category": "tech",
+      "region": "Южная Корея",
+      "sources": [
+        "www.gizmochina.com"
+      ],
+      "links": [
+        "https://www.gizmochina.com/2026/10/03/samsung-exynos-2700-mass-production-galaxy-s27/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-03",
+      "id": "21f60fc600a1"
+    },
+    {
+      "title_ru": "Папа Лев XIV высказался против ИИ-искусства",
+      "title_en": "Pope Leo XIV is not a fan of AI-generated art",
+      "date": "2026-10-02",
+      "summary": "Папа Римский Лев XIV выразил критическое отношение к искусству, созданному с помощью искусственного интеллекта. Заявление сделано в контексте обсуждения технологий в культуре.",
+      "category": "ai",
+      "region": "Ватикан",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "d1139ba5b957"
+    },
+    {
+      "title_ru": "В Австралии автомобиль врезался в толпу болельщиков, 10 пострадавших",
+      "title_en": "Ten people injured, P-plater arrested after car crashes into Newcastle Knights fans",
+      "date": "2026-10-03",
+      "summary": "В Ньюкасле автомобиль врезался в толпу болельщиков регбийного клуба Newcastle Knights. В результате инцидента пострадали 10 человек, водитель задержан.",
+      "category": "life",
+      "region": "Австралия",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/national/nsw/newcastle-crash-multiple-people-injured-after-car-crashes-into-knights-fans-20261003-p612jm.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-03",
+      "id": "a3fdfa50568f"
+    },
+    {
+      "title_ru": "В США рынок труда замедлился в сентябре",
+      "title_en": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
+      "date": "2026-10-02",
+      "summary": "В США создано 29 тысяч рабочих мест в сентябре, что ниже ожиданий. Уровень безработицы вырос до 4,2%, что указывает на замедление рынка труда.",
+      "category": "life",
+      "region": "США",
+      "sources": [
+        "www.cnbc.com"
+      ],
+      "links": [
+        "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "47c9f2809735"
+    },
+    {
+      "title_ru": "В Великобритании предъявлены обвинения по делу о теракте против Фараджа",
+      "title_en": "Widdecombe suspect charged with planning terror act against Farage",
+      "date": "2026-10-03",
+      "summary": "В Великобритании предъявлены обвинения подозреваемому в планировании теракта против политика Найджела Фараджа. Дело связано с подготовкой террористического акта.",
+      "category": "conflicts",
+      "region": "Великобритания",
+      "sources": [
+        "feeds.bbci.co.uk"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss"
+      ],
+      "perspective": "Власти Великобритании рассматривают это как предотвращение террористической угрозы, в то время как обвиняемый может отрицать вину.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-10-03",
+      "id": "48fae41076bc"
+    },
+    {
+      "title_ru": "В Великобритании обвинили двух иранцев в подготовке теракта против еврейской общины",
+      "title_en": "Two Iranians in UK charged over terror plot targeting Manchester's Jewish community",
+      "date": "2026-10-03",
+      "summary": "В Великобритании предъявлены обвинения двум гражданам Ирана в подготовке террористического акта против еврейской общины Манчестера. Подозреваемые арестованы.",
+      "category": "conflicts",
+      "region": "Великобритания",
+      "sources": [
+        "timesofindia.indiatimes.com"
+      ],
+      "links": [
+        "https://timesofindia.indiatimes.com/world/uk/two-iranians-in-uk-charged-over-terror-plot-targeting-manchesters-jewish-community/articleshow/134654011.cms"
+      ],
+      "perspective": "Британские власти рассматривают это как предотвращение террористической угрозы, в то время как Иран может отрицать причастность.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-10-03",
+      "id": "6fac19c3216b"
+    },
+    {
+      "title_ru": "МАГАТЭ получило данные об атаках беспилотников в районе Запорожской АЭС",
+      "title_en": "МАГАТЭ получило информацию о нескольких атаках по объектам близ ЗАЭС",
+      "date": "2026-10-03",
+      "summary": "Международное агентство по атомной энергии получило информацию о нескольких атаках беспилотников по объектам вблизи Запорожской АЭС. Агентство уведомлено о серии атак БПЛА.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/mezhdunarodnaya-panorama/28178329"
+      ],
+      "perspective": "Россия сообщает об угрозах ядерной безопасности со стороны ВСУ, Украина может отрицать причастность к атакам на гражданские объекты.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-10-03",
+      "id": "e57116f441fa"
+    },
+    {
+      "title_ru": "Второй пилот Flydubai атаковал капитана топором в полете",
+      "title_en": "Co-pilot used axe to carry out 'terrorist act' on Flydubai flight",
+      "date": "2026-10-03",
+      "summary": "Второй пилот авиакомпании Flydubai атаковал капитана топором во время полета. ОАЭ квалифицировали инцидент как террористический акт.",
+      "category": "conflicts",
+      "region": "ОАЭ",
+      "sources": [
+        "www.ft.com"
+      ],
+      "links": [
+        "https://www.ft.com/content/36b90fa1-f61e-4563-8622-127cdb471101?syn-25a6b1a6=1"
+      ],
+      "perspective": "Власти ОАЭ рассматривают это как террористический акт, в то время как мотивы второго пилота остаются предметом расследования.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-10-03",
+      "id": "54f0a7fa1431"
+    },
+    {
+      "title_ru": "Российские компании утвердили выплату дивидендов",
+      "title_en": "Акционеры «Т-Технологий» утвердили дивиденды в размере 4,7 руб. на акцию",
+      "date": "2026-10-02",
+      "summary": "Акционеры компании «Т-Технологии» утвердили выплату дивидендов в размере 4,7 рубля на акцию. Решение принято на общем собрании акционеров.",
+      "category": "economy",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9004969"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "557a19d7c999"
+    },
+    {
+      "title_ru": "НОВАТЭК выплатит дивиденды за первое полугодие",
+      "title_en": "НОВАТЭК выплатит дивиденды за первое полугодие в размере 35,5 руб. на акцию",
+      "date": "2026-10-02",
+      "summary": "Компания НОВАТЭК утвердила выплату дивидендов за первое полугодие в размере 35,5 рубля на акцию. Выплата будет произведена акционерам.",
+      "category": "economy",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/8992031"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "ee2b7db5e76e"
+    },
+    {
+      "title_ru": "Трамп предложил назвать мост в Алабаме в его честь",
+      "title_en": "Трамп предложил назвать мост в Алабаме в его честь",
+      "date": "2026-10-03",
+      "summary": "Бывший президент США Дональд Трамп предложил назвать мост в штате Алабама в его честь. Заявление сделано в ходе публичного выступления.",
+      "category": "politics",
+      "region": "США",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9005549"
+      ],
+      "perspective": "Сторонники Трампа могут поддержать идею, в то время как оппоненты могут критиковать это как проявление нарциссизма.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-10-03",
+      "id": "305d00b3a81a"
+    },
+    {
+      "title_ru": "Трамп заявил, что США не будут запрещать экспорт дизельного топлива",
+      "title_en": "Трамп: США не будут вводить запрет на экспорт дизельного топлива",
+      "date": "2026-10-02",
+      "summary": "Президент США Дональд Трамп заявил, что администрация не будет вводить запрет на экспорт дизельного топлива. Решение принято после соглашения G7 о выпуске нефтяных резервов.",
+      "category": "politics",
+      "region": "США",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9005247"
+      ],
+      "perspective": "Администрация Трампа позиционирует это как меру поддержки энергетического рынка, в то время как критики могут указывать на влияние на внутренние цены.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "0ff3bc459faa"
+    },
+    {
+      "title_ru": "Иран раскритиковал Канаду за обращение с коренными народами",
+      "title_en": "Iran strongly criticizes Canada over treatment of Indigenous children",
+      "date": "2026-10-02",
+      "summary": "Министерство иностранных дел Ирана подвергло резкой критике Канаду за обращение с детьми коренных народов. Заявление сделано в контексте Дня правды и примирения.",
+      "category": "politics",
+      "region": "Иран",
+      "sources": [
+        "en.irna.ir"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86280966/Iran-strongly-criticizes-Canada-over-treatment-of-Indigenous"
+      ],
+      "perspective": "Иран использует это для критики западных стран, в то время как Канада может рассматривать это как вмешательство во внутренние дела.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "7f743148a059"
+    },
+    {
+      "title_ru": "Нетаньяху связал инцидент Flydubai с Ираном перед выборами",
+      "title_en": "Netanyahu connecting Flydubai incident to Iran to manipulate upcoming election: Report",
+      "date": "2026-10-03",
+      "summary": "Премьер-министр Израиля Биньямин Нетаньяху связал инцидент с авиакомпанией Flydubai с Ираном. По данным источников, это сделано для влияния на предстоящие парламентские выборы.",
+      "category": "statement",
+      "region": "Израиль",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/10/03/777486/Netanyahu-connecting-Flydubai-incident-to-Iran-to-manipulate-upcoming-general-election--Report"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-03",
+      "id": "5454f778d383"
+    },
+    {
+      "title_ru": "В Турции заблокированы более 1270 аккаунтов в X в сентябре",
+      "title_en": "Turkish authorities issued blocking orders for at least 1,270 X accounts in September",
+      "date": "2026-10-02",
+      "summary": "Турецкие власти издали приказы о блокировке не менее 1270 аккаунтов в социальной сети X в сентябре. Решение принято в рамках регулирования контента.",
+      "category": "politics",
+      "region": "Турция",
+      "sources": [
+        "www.turkishminute.com"
+      ],
+      "links": [
+        "https://www.turkishminute.com/2026/10/02/turkish-authorities-issued-blocking-orders-for-at-least-1270-x-accounts-in-september/"
+      ],
+      "perspective": "Власти Турции позиционируют это как меру безопасности, в то время как правозащитники могут критиковать ограничение свободы слова.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "11bb008e5246"
     }
   ],
   "_stats": {
-    "total_tokens": 107325,
-    "total_cost": 6.83646
+    "total_tokens": 127296,
+    "total_cost": 8.10782
   }
 }
