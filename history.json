@@ -1,120 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Израиль ужесточил ограничения в Рамалле и вокруг него",
-      "title_en": "Israeli regime tightens restrictions in, around Ramallah",
-      "date": "2026-09-27",
-      "summary": "Израильские власти ужесточили ограничения на передвижение в городе Рамалла и его окрестностях на Западном берегу реки Иордан. Меры включают усиление контроля на КПП.",
-      "category": "conflicts",
-      "region": "Палестина",
-      "sources": [
-        "en.mehrnews.com"
-      ],
-      "links": [
-        "https://en.mehrnews.com/news/248110/Israeli-regime-tightens-restrictions-in-around-Ramallah"
-      ],
-      "perspective": "Израиль объясняет меры соображениями безопасности, палестинцы считают их коллективным наказанием",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-27",
-      "id": "3acaeef497e6"
-    },
-    {
-      "title_ru": "Минобороны РФ сообщило об ударах по дата-центрам «Киевстар» и «Омега Телеком»",
-      "title_en": "Russian Defense Ministry reports strikes on Kyivstar and Omega Telecom data centers",
-      "date": "2026-09-27",
-      "summary": "Министерство обороны России заявило о нанесении ударов по дата-центрам украинских операторов «Киевстар» и «Омега Телеком». По данным ведомства, объекты использовались в интересах ВСУ.",
-      "category": "svo",
-      "region": "Украина",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8988146"
-      ],
-      "perspective": "Россия заявляет о поражении военной инфраструктуры, Украина рассматривает это как атаку на гражданские объекты",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-27",
-      "id": "4bbba04704d3"
-    },
-    {
-      "title_ru": "Минобороны РФ сообщило об ударе по судну с грузами для ВСУ в Одессу",
-      "title_en": "Russian Defense Ministry reports strike on ship carrying cargo for AFU to Odessa",
-      "date": "2026-09-27",
-      "summary": "Министерство обороны России заявило о нанесении удара по судну, перевозившему грузы для Вооруженных сил Украины в направлении Одессы. Цель была поражена в акватории Черного моря.",
-      "category": "svo",
-      "region": "Украина",
-      "sources": [
-        "rssexport.rbc.ru"
-      ],
-      "links": [
-        "https://www.rbc.ru/rbcfreenews/6ab8e4fe4ddd0b4ef150472a"
-      ],
-      "perspective": "Россия заявляет о пресечении военных поставок, Украина рассматривает это как атаку на гражданское судоходство",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-27",
-      "id": "cc5f396f9a54"
-    },
-    {
-      "title_ru": "Иранский парламент завершил рассмотрение законопроекта о безопасности Ормузского пролива",
-      "title_en": "Parliamentary commission completes review of Hormuz Strait security bill",
-      "date": "2026-09-27",
-      "summary": "Парламентская комиссия Ирана завершила рассмотрение законопроекта о безопасности Ормузского пролива. Документ регулирует вопросы контроля над стратегическим морским путем.",
-      "category": "politics",
-      "region": "Иран",
-      "sources": [
-        "en.irna.ir"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86276399/Parliamentary-commission-completes-review-of-Hormuz-Strait-security"
-      ],
-      "perspective": "Иран рассматривает это как защиту национальных интересов, США и союзники видят в этом угрозу свободе судоходства",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-27",
-      "id": "90bcdb154208"
-    },
-    {
-      "title_ru": "Трамп заявил о готовности США провести переговоры с Ираном",
-      "title_en": "Trump: US ready to hold talks with Iran",
-      "date": "2026-09-27",
-      "summary": "Президент США Дональд Трамп заявил, что администрация готова провести переговоры с Ираном в ближайшую неделю. Заявление сделано на фоне напряженности вокруг ядерной программы Ирана.",
-      "category": "statement",
-      "region": "США",
-      "sources": [
-        "www.belta.by"
-      ],
-      "links": [
-        "https://belta.by/world/view/tramp-ssha-provedut-peregovory-s-iranom-v-blizhajshuju-nedelju-803085-2026/"
-      ],
-      "perspective": "Трамп позиционирует это как мирную инициативу, критики сомневаются в реалистичности переговоров без предварительных условий",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-27",
-      "id": "5bc903bbd091"
-    },
-    {
-      "title_ru": "Южная Корея победила Японию и выиграла пятую подряд золотую медаль по бейсболу на Азиатских играх",
-      "title_en": "S. Korea beats Japan for 5th consecutive baseball gold medal",
-      "date": "2026-09-27",
-      "summary": "Южная Корея обыграла Японию в финале бейсбольного турнира Азиатских игр и завоевала золотую медаль. Это пятая подряд победа южнокорейской сборной в этом виде спорта на Азиатских играх.",
-      "category": "tech",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20260927003451315"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-27",
-      "id": "04ea25d046d2"
-    },
-    {
       "title_ru": "ЕС предложил меры по ограничению спроса на энергию в условиях ценового кризиса",
       "title_en": "EU floats energy demand curbs in price crisis letter",
       "date": "2026-09-28",
@@ -172,25 +58,6 @@
       "id": "c030f0dcd0ed"
     },
     {
-      "title_ru": "В Великобритании задержаны пять человек возле авиабазы США по подозрению в подготовке теракта",
-      "title_en": "U.K. police arrest 5 near airbase used by U.S. on suspicion of preparing a terrorist act",
-      "date": "2026-09-27",
-      "summary": "Полиция Великобритании задержала пять человек возле авиабазы, используемой США, по подозрению в подготовке террористического акта. Задержания произведены в рамках расследования.",
-      "category": "conflicts",
-      "region": "Великобритания",
-      "sources": [
-        "www.cbc.ca"
-      ],
-      "links": [
-        "https://www.cbc.ca/news/world/us-air-base-england-police-investigation-9.7360081?cmp=rss"
-      ],
-      "perspective": "Великобритания рассматривает это как предотвращение террористической угрозы",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-27",
-      "id": "5432db912090"
-    },
-    {
       "title_ru": "В Брянской области частично обрушился железнодорожный мост при атаке БПЛА",
       "title_en": "In Bryansk region, railway bridge partially collapsed during UAV attack",
       "date": "2026-09-28",
@@ -210,25 +77,6 @@
       "id": "6226abaa602f"
     },
     {
-      "title_ru": "Российские силы нанесли удары по целям связи и логистики в Киеве и Одессе",
-      "title_en": "Russian forces strike communications, logistics targets in Kiev, Odessa — ministry",
-      "date": "2026-09-27",
-      "summary": "Министерство обороны России сообщило о нанесении ударов по целям связи и логистики в Киеве и Одессе. Удары были направлены на военную инфраструктуру.",
-      "category": "svo",
-      "region": "Украина",
-      "sources": [
-        "tass.com"
-      ],
-      "links": [
-        "https://tass.com/defense/2193647"
-      ],
-      "perspective": "Россия заявляет о ударах по военным объектам, Украина рассматривает это как атаки на гражданскую инфраструктуру",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-27",
-      "id": "e3ddcb4cd553"
-    },
-    {
       "title_ru": "Китай показал самый слабый рост промышленной прибыли в этом году — 4,2% в августе",
       "title_en": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
       "date": "2026-09-28",
@@ -246,25 +94,6 @@
       "is_development": false,
       "first_reported": "2026-09-28",
       "id": "b52355594a7f"
-    },
-    {
-      "title_ru": "Великобритания ввела налоговые льготы и субсидии для борьбы с рекордно высокими ценами на топливо",
-      "title_en": "Europe turns to tax breaks, subsidies to tackle record-high fuel prices",
-      "date": "2026-09-27",
-      "summary": "Европейские страны, включая Великобританию, ввели налоговые льготы и субсидии для борьбы с рекордно высокими ценами на топливо. Меры направлены на снижение нагрузки на потребителей.",
-      "category": "economy",
-      "region": "Великобритания",
-      "sources": [
-        "www.dailysabah.com"
-      ],
-      "links": [
-        "https://www.dailysabah.com/business/economy/europe-turns-to-tax-breaks-subsidies-to-tackle-record-high-fuel-prices"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-27",
-      "id": "adadc09a6b35"
     },
     {
       "title_ru": "Песков заявил, что Россия продолжит контакты с руководством Сербии после отставки Вучича",
@@ -303,25 +132,6 @@
       "is_development": false,
       "first_reported": "2026-09-28",
       "id": "3943d9689aa8"
-    },
-    {
-      "title_ru": "Иран заявил о полной готовности к войне с США, но продолжает дипломатические усилия",
-      "title_en": "Iran 'fully prepared' for war to resume with US but still trying diplomacy: Araghchi",
-      "date": "2026-09-27",
-      "summary": "Заместитель министра иностранных дел Ирана Аббас Аракчи заявил, что страна полностью готова к возобновлению войны с США, но продолжает дипломатические усилия. Заявление сделано в интервью NBC News.",
-      "category": "statement",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/27/777141/Iran-fully-prepared-war-resume-US-still-pursuing-diplomacy-Araghchi-NBC-News-"
-      ],
-      "perspective": "Иран демонстрирует готовность к конфликту, но оставляет возможность для переговоров",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-27",
-      "id": "1b2f0970f0e8"
     },
     {
       "title_ru": "AMD приобретет World Labs за $8,2 млрд",
@@ -1811,10 +1621,299 @@
       "is_development": false,
       "first_reported": "2026-10-02",
       "id": "c93f1d3c8897"
+    },
+    {
+      "title_ru": "Зонд Juice использовал гравитацию Земли для разгона на пути к Юпитеру",
+      "title_en": "Juice spacecraft used Earth's gravity for acceleration on its way to Jupiter",
+      "date": "2026-10-05",
+      "summary": "Европейский космический зонд Juice совершил гравитационный маневр у Земли для увеличения скорости на пути к Юпитеру. Маневр выполнен в рамках миссии по исследованию ледяных спутников газового гиганта.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/cosmonautics/juice-zavernul-k-yupiteru"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-05",
+      "id": "46a46f6f7d3a"
+    },
+    {
+      "title_ru": "Витамин C снизил смертность у пациентов с предраковым состоянием крови",
+      "title_en": "Vitamin C reduced mortality in patients with pre-cancerous blood condition",
+      "date": "2026-10-05",
+      "summary": "Исследование показало, что прием витамина C снизил смертность у пациентов с миелодиспластическим синдромом. Результаты опубликованы в научном журнале.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/medicine/vitaminc-snizil-smertnost"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-05",
+      "id": "c11dbff714bb"
+    },
+    {
+      "title_ru": "Северная Корея провела пуск гиперзвуковой ракеты под руководством Ким Чен Ына",
+      "title_en": "North Korea's Kim oversees hypersonic missile launch, calls for bolstering war deterrent",
+      "date": "2026-10-04",
+      "summary": "Ким Чен Ын лично руководил испытательным пуском гиперзвуковой ракеты. После запуска он призвал усилить военный потенциал страны.",
+      "category": "tech",
+      "region": "КНДР",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261004000352315"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-04",
+      "id": "6c3137e53a2c"
+    },
+    {
+      "title_ru": "Папа Франциск выступил против ИИ-искусства",
+      "title_en": "The Pope Denounces AI Art: 'Algorithms Lack the Spark of Humanity'",
+      "date": "2026-10-05",
+      "summary": "Папа Римский Франциск заявил, что алгоритмы искусственного интеллекта лишены 'искры человечности'. Он высказал критику в отношении использования ИИ для создания произведений искусства.",
+      "category": "ai",
+      "region": "Ватикан",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/10/05/the-pope-denounces-ai-art-algorithms-lack-the-spark-of-humanity/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-05",
+      "id": "5189a79e1c94"
+    },
+    {
+      "title_ru": "В США приняты налоговые льготы для дата-центров в сельской местности",
+      "title_en": "Rural Data Centers Are in for a Big Federal Tax Break",
+      "date": "2026-10-04",
+      "summary": "Федеральное правительство США предоставило значительные налоговые льготы для строительства дата-центров в сельских районах. Мера направлена на стимулирование развития цифровой инфраструктуры.",
+      "category": "ai",
+      "region": "США",
+      "sources": [
+        "www.wired.com"
+      ],
+      "links": [
+        "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-04",
+      "id": "cd7c63888dce"
+    },
+    {
+      "title_ru": "В Сингапуре арестован мужчина за создание ИИ-изображения крокодила",
+      "title_en": "Man arrested after AI crocodile image sparks 2-day search at Singapore reservoir",
+      "date": "2026-10-05",
+      "summary": "Мужчина создал изображение крокодила с помощью искусственного интеллекта, что привело к двухдневным поискам рептилии в водохранилище. Власти Сингапура арестовали его за создание паники.",
+      "category": "ai",
+      "region": "Сингапур",
+      "sources": [
+        "timesofindia.indiatimes.com"
+      ],
+      "links": [
+        "https://timesofindia.indiatimes.com/world/rest-of-world/man-arrested-after-creating-ai-crocodile-image-at-singapore-reservoir-authorities-shut-water-activities-for-2-days-and-searched-for-reptile-that-never-existed/articleshow/134697400.cms"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-05",
+      "id": "64d0cb8d1ed9"
+    },
+    {
+      "title_ru": "В ЮАР произошли массовые расстрелы из-за нелегального оружия",
+      "title_en": "Mass Shootings Surge in South Africa as Illegal Guns Flood Streets",
+      "date": "2026-10-02",
+      "summary": "В Южной Африке резко возросло количество массовых расстрелов из-за распространения нелегального оружия. По данным полиции, на улицах циркулируют тысячи незарегистрированных стволов.",
+      "category": "life",
+      "region": "ЮАР",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/10/02/world/africa/south-africa-mass-shootings-guns.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-02",
+      "id": "63a841fe7f82"
+    },
+    {
+      "title_ru": "В Турции инфляция впервые за 5 лет опустилась ниже 30%",
+      "title_en": "Türkiye's inflation drops below 30% for 1st time in nearly 5 years",
+      "date": "2026-10-05",
+      "summary": "Уровень инфляции в Турции снизился до 29,8% в сентябре 2026 года. Это первый случай за почти пять лет, когда показатель опустился ниже 30%.",
+      "category": "life",
+      "region": "Турция",
+      "sources": [
+        "www.dailysabah.com"
+      ],
+      "links": [
+        "https://www.dailysabah.com/business/economy/turkiyes-inflation-drops-below-30-for-1st-time-in-nearly-5-years"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-05",
+      "id": "dc13cd390130"
+    },
+    {
+      "title_ru": "В Иране произошла террористическая атака с гибелью полицейских",
+      "title_en": "Two police officers killed in terrorist attack in southeastern Iran",
+      "date": "2026-10-05",
+      "summary": "В результате террористической атаки на юго-востоке Ирана погибли два полицейских. Нападение произошло в провинции Систан и Белуджистан.",
+      "category": "conflicts",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/10/05/777647/Two-police-officers-killed-terrorist-attack-southeastern-Iran"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-05",
+      "id": "ed6a9749c135"
+    },
+    {
+      "title_ru": "Ирак осудил осквернение флага США проиранскими ополченцами",
+      "title_en": "Iraq condemns 'desecration of US flag' by pro-Iran militias",
+      "date": "2026-10-05",
+      "summary": "Правительство Ирака осудило действия проиранских ополченцев, которые осквернили флаг США. Инцидент произошел в ходе акций протеста.",
+      "category": "conflicts",
+      "region": "Ирак",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/middle-east/article-910639"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-05",
+      "id": "0d333b0b525c"
+    },
+    {
+      "title_ru": "За ночь над Россией сбили 199 беспилотников ВСУ",
+      "title_en": "199 Ukrainian drones shot down over Russia overnight",
+      "date": "2026-10-05",
+      "summary": "Силы ПВО России за ночь сбили 199 беспилотных летательных аппаратов ВСУ над регионами страны. Об этом сообщило Министерство обороны РФ.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9006121"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-05",
+      "id": "1d97215917b6"
+    },
+    {
+      "title_ru": "Минобороны РФ отчиталось об ударе по сухогрузу в районе Одессы",
+      "title_en": "Russian Defense Ministry reports strike on dry cargo ship near Odessa",
+      "date": "2026-10-04",
+      "summary": "Министерство обороны России сообщило об ударе по иностранному сухогрузу в районе Одессы. По данным ведомства, судно перевозило вооружение для ВСУ.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9005763"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-04",
+      "id": "31a9b0648712"
+    },
+    {
+      "title_ru": "Трамп пригрозил Южной Корее повышением платы за отказ от проекта СПГ",
+      "title_en": "Trump threatens to 'charge' S. Korea 'more' if it rejects Alaska LNG project",
+      "date": "2026-10-03",
+      "summary": "Бывший президент США Дональд Трамп заявил, что повысит плату за военную защиту Южной Кореи, если та откажется от проекта сжиженного природного газа на Аляске. Угроза прозвучала в ходе предвыборной кампании.",
+      "category": "economy",
+      "region": "США",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261003000451315"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-03",
+      "id": "43241db32409"
+    },
+    {
+      "title_ru": "Флавио Болсонаро и Лула да Силва вышли во второй тур выборов в Бразилии",
+      "title_en": "Flavio Bolsonaro, Lula da Silva advance to second tour of presidential election",
+      "date": "2026-10-05",
+      "summary": "Правый кандидат Флавио Болсонаро и левый Лула да Силва вышли во второй тур президентских выборов в Бразилии. Первый тур состоялся 4 октября 2026 года.",
+      "category": "politics",
+      "region": "Бразилия",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/world/2197463"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-05",
+      "id": "e979320254de"
+    },
+    {
+      "title_ru": "Песков назвал возмездием продолжающиеся удары России по Украине",
+      "title_en": "Peskov calls ongoing Russian strikes on Ukraine retaliation",
+      "date": "2026-10-05",
+      "summary": "Пресс-секретарь президента России Дмитрий Песков заявил, что продолжающиеся удары РФ по Украине являются возмездием. Комментарий прозвучал на брифинге для журналистов.",
+      "category": "politics",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9006377"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-05",
+      "id": "b94a06a1b0a1"
+    },
+    {
+      "title_ru": "В Кремле отказались комментировать выборы в Бразилии",
+      "title_en": "Kremlin declines to comment on Brazil elections",
+      "date": "2026-10-05",
+      "summary": "Пресс-секретарь президента России Дмитрий Песков заявил, что Кремль не будет комментировать выборы в Бразилии до окончательного подведения результатов. Позиция озвучена на брифинге.",
+      "category": "politics",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9006402"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-05",
+      "id": "3c8f3cac43e1"
+    },
+    {
+      "title_ru": "Нобелевскую премию по медицине присудили за открытия в области оптогенетики",
+      "title_en": "Nobel Prize in Medicine awarded for discoveries in optogenetics",
+      "date": "2026-10-05",
+      "summary": "Нобелевскую премию по физиологии или медицине 2026 года присудили ученым за открытия в области оптогенетики. Метод позволяет управлять активностью нейронов с помощью света.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20261005/premiya-2122294448.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-05",
+      "id": "bc1bb7f9ea14"
     }
   ],
   "_stats": {
-    "total_tokens": 144654,
-    "total_cost": 9.19684
+    "total_tokens": 163513,
+    "total_cost": 10.392759999999999
   }
 }
