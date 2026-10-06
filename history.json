@@ -1,177 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "ЕС предложил меры по ограничению спроса на энергию в условиях ценового кризиса",
-      "title_en": "EU floats energy demand curbs in price crisis letter",
-      "date": "2026-09-28",
-      "summary": "Европейский союз предложил меры по ограничению спроса на энергию в письме, посвящённом ценовому кризису. Документ содержит рекомендации по управлению энергопотреблением в условиях высоких цен.",
-      "category": "tech",
-      "region": "Европа",
-      "sources": [
-        "www.taipeitimes.com"
-      ],
-      "links": [
-        "https://www.taipeitimes.com/News/biz/archives/2026/09/28/2003864987"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-28",
-      "id": "d1f6a1731943"
-    },
-    {
-      "title_ru": "В Венгрии выросла долгосрочная безработица при увеличении общего уровня безработицы",
-      "title_en": "Long-term unemployment grows as the jobless rate rises",
-      "date": "2026-09-28",
-      "summary": "В Венгрии зафиксирован рост долгосрочной безработицы на фоне увеличения общего уровня безработицы. Данные показывают ухудшение ситуации на рынке труда.",
-      "category": "life",
-      "region": "Венгрия",
-      "sources": [
-        "budapesttimes.hu"
-      ],
-      "links": [
-        "https://www.budapesttimes.hu/economy/long-term-unemployment-grows-as-the-jobless-rate-rises"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-28",
-      "id": "624da1ae19b5"
-    },
-    {
-      "title_ru": "В Венгрии снизилась рождаемость и выросла смертность, увеличив естественную убыль населения",
-      "title_en": "Births fall, deaths rise as natural decrease widens",
-      "date": "2026-09-28",
-      "summary": "В Венгрии сократилось число рождений и увеличилась смертность, что привело к росту естественной убыли населения. Демографические показатели продолжают ухудшаться.",
-      "category": "life",
-      "region": "Венгрия",
-      "sources": [
-        "budapesttimes.hu"
-      ],
-      "links": [
-        "https://www.budapesttimes.hu/health/births-fall-deaths-rise-as-natural-decrease-widens"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-28",
-      "id": "c030f0dcd0ed"
-    },
-    {
-      "title_ru": "В Брянской области частично обрушился железнодорожный мост при атаке БПЛА",
-      "title_en": "In Bryansk region, railway bridge partially collapsed during UAV attack",
-      "date": "2026-09-28",
-      "summary": "В Брянской области произошло частичное обрушение железнодорожного моста в результате атаки беспилотного летательного аппарата. Инцидент привёл к повреждению инфраструктуры.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8988388"
-      ],
-      "perspective": "Россия рассматривает это как атаку на свою инфраструктуру",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-28",
-      "id": "6226abaa602f"
-    },
-    {
-      "title_ru": "Китай показал самый слабый рост промышленной прибыли в этом году — 4,2% в августе",
-      "title_en": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
-      "date": "2026-09-28",
-      "summary": "Китай зафиксировал самый слабый рост промышленной прибыли в этом году — 4,2% в августе по сравнению с аналогичным периодом прошлого года. Показатель демонстрирует замедление экономической активности.",
-      "category": "economy",
-      "region": "Китай",
-      "sources": [
-        "www.cnbc.com"
-      ],
-      "links": [
-        "https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-28",
-      "id": "b52355594a7f"
-    },
-    {
-      "title_ru": "Песков заявил, что Россия продолжит контакты с руководством Сербии после отставки Вучича",
-      "title_en": "Peskov: Russia will continue contacts with Serbian leadership after Vucic's resignation",
-      "date": "2026-09-28",
-      "summary": "Пресс-секретарь президента России Дмитрий Песков заявил, что Россия продолжит контакты с руководством Сербии после отставки президента Александра Вучича. Российская сторона подтвердила намерение развивать отношения.",
-      "category": "politics",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8988547"
-      ],
-      "perspective": "Россия демонстрирует продолжение курса на сотрудничество с Сербией",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-28",
-      "id": "9ef37fced165"
-    },
-    {
-      "title_ru": "Папа Леон XIV посетил Францию, сделав акцент на теме Европы",
-      "title_en": "Leon XIV in Metz: the pope wishes to focus on Europe",
-      "date": "2026-09-28",
-      "summary": "Папа Леон XIV завершил трёхдневный визит во Францию, выступив в Меце с речью, в которой сделал акцент на теме Европы. В ходе визита понтифик подчеркнул значение христианства для европейской идентичности.",
-      "category": "politics",
-      "region": "Франция",
-      "sources": [
-        "www.france24.com"
-      ],
-      "links": [
-        "https://www.france24.com/fr/vid%C3%A9o/20260928-l%C3%A9on-xiv-%C3%A0-metz-le-pape-souhaite-mettre-l-accent-sur-l-europe"
-      ],
-      "perspective": "Ватикан подчёркивает роль христианства в европейской культуре",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-28",
-      "id": "3943d9689aa8"
-    },
-    {
-      "title_ru": "AMD приобретет World Labs за $8,2 млрд",
-      "title_en": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-      "date": "2026-09-28",
-      "summary": "Компания AMD объявила о приобретении World Labs, основанных Фэй-Фэй Ли, за 8,2 млрд долларов. Сделка направлена на усиление позиций в области искусственного интеллекта и высокопроизводительных вычислений.",
-      "category": "tech",
-      "region": "США",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-28",
-      "id": "8d642d46c15f"
-    },
-    {
-      "title_ru": "Космические лазеры впервые протестируют для генерации энергии",
-      "title_en": "Space Lasers Are About to Get Their First Real Test Generating Energy",
-      "date": "2026-09-28",
-      "summary": "Впервые будет проведено реальное испытание космических лазеров для генерации энергии. Тест направлен на проверку возможности передачи энергии из космоса на Землю.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "www.wired.com"
-      ],
-      "links": [
-        "https://www.wired.com/story/space-lasers-are-about-to-get-their-first-real-test-generating-energy/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-28",
-      "id": "f78857ec74b6"
-    },
-    {
       "title_ru": "OpenAI отменила выпуск новой модели ИИ из-за проблем с безопасностью",
       "title_en": "OpenAI cancels release of newest model due to safety concerns",
       "date": "2026-09-29",
@@ -362,65 +191,6 @@
       "id": "0a1de8831281"
     },
     {
-      "title_ru": "Иранский командующий заявил о полном контроле над Ормузским проливом",
-      "title_en": "Iran has full control over Strait of Hormuz, Persian Gulf: Senior commander",
-      "date": "2026-09-28",
-      "summary": "Старший командующий иранской армии заявил, что Иран имеет полный контроль над Ормузским проливом и Персидским заливом. Заявление сделано в контексте региональной безопасности.",
-      "category": "statement",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/28/777176/Iran-Army-Sayyari-Hormuz"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-28",
-      "id": "ceb96b13b983",
-      "last_reported": "2026-09-28"
-    },
-    {
-      "title_ru": "Фонд Мбеки предупредил об угрозе расового раскола в ЮАР",
-      "title_en": "Mbeki Foundation warns abandoning redress risks racial rupture in South Africa",
-      "date": "2026-09-28",
-      "summary": "Фонд Мбеки предупредил, что отказ от политики восстановления справедливости в ЮАР создает риск расового раскола в стране. Заявление сделано в контексте социальной политики.",
-      "category": "culture",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-09-28-mbeki-foundation-warns-abandoning-redress-risks-racial-rupture-in-south-africa/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-28",
-      "id": "aba1e9031fa6",
-      "last_reported": "2026-09-28"
-    },
-    {
-      "title_ru": "SmallRig представил оптические видоискатели для решения проблем съемки",
-      "title_en": "SmallRig’s Optical Viewfinders Solve Problems Both Real and Imagined",
-      "date": "2026-09-28",
-      "summary": "Компания SmallRig представила новые оптические видоискатели, предназначенные для решения как реальных, так и предполагаемых проблем при съемке. Продукт ориентирован на профессиональных фотографов и видеооператоров.",
-      "category": "photo",
-      "region": "Мир",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/09/28/smallrigs-optical-viewfinders-solve-problems-both-real-and-imagined/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-28",
-      "id": "3bad1fe118fe"
-    },
-    {
       "title_ru": "Планеты-бродяги оказались способны формировать звезды",
       "title_en": "Triggering star formation by free-floating planets",
       "date": "2026-09-29",
@@ -489,23 +259,6 @@
       "id": "c514206143ad"
     },
     {
-      "title_ru": "Восемь морских пехотинцев США ранены в результате иранской атаки у Ормузского пролива",
-      "title_en": "Eight US Marines injured in recent Iranian attack near Strait of Hormuz: Report",
-      "date": "2026-09-28",
-      "summary": "Восемь морских пехотинцев США получили ранения в результате недавней иранской атаки в районе Ормузского пролива. Инцидент произошел недалеко от стратегически важного пролива.",
-      "category": "conflicts",
-      "region": "Ближний Восток",
-      "sources": [
-        "PressTV"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/28/777168/Eight-US-Marines-injured-Iran-attack-Hormuz-Strait"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-28",
-      "id": "2e45d25cce5e"
-    },
-    {
       "title_ru": "Верховный суд США разрешил депортацию мигрантов в третьи страны",
       "title_en": "US Supreme Court lifts limits on third-country deportations",
       "date": "2026-09-29",
@@ -538,23 +291,6 @@
       "is_development": false,
       "first_reported": "2026-09-30",
       "id": "d06cae2196da"
-    },
-    {
-      "title_ru": "Путин ограничил распространение информации о российском ТЭК",
-      "title_en": "Putin restricts dissemination of information about Russian fuel and energy complex",
-      "date": "2026-09-28",
-      "summary": "Президент России Владимир Путин подписал указ об ограничении распространения информации о российском топливно-энергетическом комплексе. Решение принято 28 сентября.",
-      "category": "politics",
-      "region": "Россия",
-      "sources": [
-        "Коммерсантъ"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8988974"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-28",
-      "id": "275cecb3182f"
     },
     {
       "title_ru": "Иран получил ответ США на условия возобновления диалога",
@@ -1910,10 +1646,233 @@
       "is_development": false,
       "first_reported": "2026-10-05",
       "id": "bc1bb7f9ea14"
+    },
+    {
+      "title_ru": "Сеулские акции закрылись в минусе из-за падения технологических компаний на фоне роста доходности облигаций",
+      "title_en": "Seoul shares end lower on tech losses amid rising bond yields",
+      "date": "2026-10-06",
+      "summary": "Южнокорейский фондовый рынок завершил торги снижением. Падение произошло на фоне снижения котировок технологических компаний в условиях роста доходности государственных облигаций.",
+      "category": "tech",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261006006800320"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-06",
+      "id": "8971c155e140"
+    },
+    {
+      "title_ru": "Иран отправляет техническую делегацию в Катар для переговоров по иранским пилотам",
+      "title_en": "Iran to send technical delegation to Qatar for further talks on Iranian pilots: Minister",
+      "date": "2026-10-06",
+      "summary": "Иран направит техническую делегацию в Катар для дальнейших переговоров по вопросу иранских пилотов. Об этом заявил министр иностранных дел Ирана.",
+      "category": "politics",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/10/06/777727/Iran-send-technical-delegation-Qatar-for-further-talks-Iranian-pilots--Minister"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-06",
+      "id": "d8ef517f887c"
+    },
+    {
+      "title_ru": "Северная Корея предупредила о 'мощном противодействии' в случае вторжения Южной Кореи на свою территорию",
+      "title_en": "N. Korea warns of 'powerful counteraction' if S. Korea intrudes 'even a millimeter' into its territory",
+      "date": "2026-10-06",
+      "summary": "Северная Корея заявила о готовности применить 'мощное противодействие', если Южная Корея вторгнется на её территорию 'даже на миллиметр'. Заявление сделано в ответ на действия южнокорейской стороны.",
+      "category": "conflicts",
+      "region": "Корейский полуостров",
+      "perspective": "Северная Корея рассматривает действия Южной Кореи как нарушение суверенитета и готова к силовому ответу. Южная Корея, вероятно, рассматривает свои действия как законные в рамках обеспечения безопасности.",
+      "perspective_type": "assumed",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261006010600315"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-06",
+      "id": "9e95f9640293"
+    },
+    {
+      "title_ru": "За ночь над Россией сбили 868 беспилотников ВСУ",
+      "title_en": "За ночь над Россией сбили 868 беспилотников // Минобороны: силы ПВО за ночь сбили 868 БПЛА ВСУ над регионами России",
+      "date": "2026-10-06",
+      "summary": "Министерство обороны России сообщило, что за ночь силы противовоздушной обороны сбили 868 беспилотных летательных аппаратов ВСУ над регионами страны. Удары наносились по различным объектам.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9007050"
+      ],
+      "is_development": true,
+      "first_reported": "2026-10-06",
+      "id": "776effd5b7dc"
+    },
+    {
+      "title_ru": "Два коммерческих судна поражены дронами в Черном море у берегов Болгарии",
+      "title_en": "Two commercial ships hit with drones in Black Sea off Bulgaria",
+      "date": "2026-10-06",
+      "summary": "Два коммерческих судна подверглись атаке беспилотников в Черном море у побережья Болгарии. Инцидент произошел в международных водах, информация о повреждениях и пострадавших уточняется.",
+      "category": "svo",
+      "region": "Черное море",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/emergencies/2197969"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-06",
+      "id": "a98b895741b4"
+    },
+    {
+      "title_ru": "ВСУ атаковали 11 населенных пунктов Белгородской области за сутки",
+      "title_en": "ВСУ атаковали 11 населенных пунктов Белгородской области за сутки",
+      "date": "2026-10-06",
+      "summary": "Вооруженные силы Украины за сутки атаковали 11 населенных пунктов Белгородской области России. Об этом сообщили российские власти региона.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20261006/belgorod-2122575705.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-06",
+      "id": "76a9615aaf19"
+    },
+    {
+      "title_ru": "Португальские прокуроры расследуют использование США базы Лажеш во время войны с Ираном",
+      "title_en": "Portuguese prosecutors probe US use of Lajes base during war on Iran",
+      "date": "2026-10-06",
+      "summary": "Прокуроры Португалии начали расследование использования США военной базы Лажеш на Азорских островах во время войны с Ираном. Расследование касается возможных нарушений португальского законодательства.",
+      "category": "politics",
+      "region": "Португалия",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/10/04/777592/Portuguese-prosecutors-probe-US-military-use-of-Lajes-airbase-during-war-on-Iran"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-06",
+      "id": "1a4e2f5cfa33"
+    },
+    {
+      "title_ru": "Иран назначил нового посла в ОАЭ",
+      "title_en": "Iran appoints new ambassador to UAE",
+      "date": "2026-10-06",
+      "summary": "Иран назначил нового посла в Объединенные Арабские Эмираты. Назначение произошло в рамках дипломатических отношений между двумя странами.",
+      "category": "politics",
+      "region": "Иран",
+      "sources": [
+        "en.irna.ir"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86284973/Iran-appoints-new-ambassador-to-UAE"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-06",
+      "id": "67e9a3714bc4"
+    },
+    {
+      "title_ru": "Нобелевскую премию по физике получил бельгиец Хальцен за исследование нейтрино",
+      "title_en": "Нобелевскую премию по физике получил бельгиец Хальцен за исследование нейтрино",
+      "date": "2026-10-06",
+      "summary": "Нобелевскую премию по физике за 2026 год получил бельгийский ученый Хальцен. Премия присуждена за исследования космических нейтрино и создание нейтринной обсерватории IceCube.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9007146"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-06",
+      "id": "0fb973e8074f"
+    },
+    {
+      "title_ru": "Песков раскрыл формат прямой линии и пресс-конференции Путина",
+      "title_en": "Песков раскрыл формат прямой линии и пресс-конференции Путина",
+      "date": "2026-10-06",
+      "summary": "Пресс-секретарь президента России Дмитрий Песков сообщил, что прямая линия Владимира Путина в этом году снова будет совмещена с пресс-конференцией. Формат мероприятия останется прежним.",
+      "category": "politics",
+      "region": "Россия",
+      "sources": [
+        "rssexport.rbc.ru"
+      ],
+      "links": [
+        "https://www.rbc.ru/rbcfreenews/6ac214f69d07c6e52f5242ce"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-06",
+      "id": "dcd54763e513"
+    },
+    {
+      "title_ru": "Израиль отказал во въезде 33 гражданам Китая с поддельными японскими паспортами",
+      "title_en": "Israel denies entry to 33 Chinese nationals using fake Japanese passports at Allenby Crossing",
+      "date": "2026-10-06",
+      "summary": "Израильские пограничные службы отказали во въезде 33 гражданам Китая, которые пытались пересечь границу через контрольно-пропускной пункт Алленби с поддельными японскими паспортами.",
+      "category": "politics",
+      "region": "Израиль",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/israel-news/article-910761"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-06",
+      "id": "db7b995597f6"
+    },
+    {
+      "title_ru": "Иранский министр нефти подал в отставку, и.о. назначен глава NIOC",
+      "title_en": "Iran's oil minister resigns, NIOC chief appointed caretaker",
+      "date": "2026-10-06",
+      "summary": "Министр нефти Ирана подал в отставку. Временно исполняющим обязанности министра назначен глава Национальной иранской нефтяной компании (NIOC).",
+      "category": "economy",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/10/04/777627/Iran-oil-minister-Paknejad-resignation"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-06",
+      "id": "254b95d728b9"
+    },
+    {
+      "title_ru": "В Ленинградской области нашли уникальный средневековый клад с серебром",
+      "title_en": "В Ленинградской области нашли уникальный средневековый клад с серебром",
+      "date": "2026-10-04",
+      "summary": "Археологи обнаружили уникальный средневековый клад с серебряными предметами в Ленинградской области России. Находка датируется XIII-XIV веками и включает монеты и украшения.",
+      "category": "culture",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9005814"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-04",
+      "id": "2bb9738b0558"
     }
   ],
   "_stats": {
-    "total_tokens": 163513,
-    "total_cost": 10.392759999999999
+    "total_tokens": 180991,
+    "total_cost": 11.494819999999999
   }
 }
