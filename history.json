@@ -1,230 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "OpenAI отменила выпуск новой модели ИИ из-за проблем с безопасностью",
-      "title_en": "OpenAI cancels release of newest model due to safety concerns",
-      "date": "2026-09-29",
-      "summary": "Компания OpenAI отменила выпуск своей новейшей модели искусственного интеллекта из-за выявленных проблем с безопасностью. Решение принято после внутренней оценки рисков.",
-      "category": "ai",
-      "region": "США",
-      "sources": [
-        "www.lemonde.fr"
-      ],
-      "links": [
-        "https://www.lemonde.fr/en/pixels/article/2026/09/29/openai-cancels-release-of-newest-model-due-to-safety-concerns_6758062_13.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-29",
-      "id": "ea7b9f16026e"
-    },
-    {
-      "title_ru": "В Боливии выросли цены на продукты после сокращения субсидий на дизель",
-      "title_en": "Bolivia Food Prices Climb After Diesel Cut; Minimum Wage Now Worth About US$275",
-      "date": "2026-09-29",
-      "summary": "В Боливии после сокращения субсидий на дизельное топливо значительно выросли цены на продукты питания. Минимальная заработная плата сейчас составляет около 275 долларов США.",
-      "category": "life",
-      "region": "Боливия",
-      "sources": [
-        "riotimesonline.com"
-      ],
-      "links": [
-        "https://www.riotimesonline.com/bolivia-food-prices-families-minimum-wage-2026/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-29",
-      "id": "a79b027b2531"
-    },
-    {
-      "title_ru": "В Индонезии развернуты насосы для орошения засушливых сельхозугодий",
-      "title_en": "Ministry deploys three pumps to irrigate drought-hit Bekasi farmland",
-      "date": "2026-09-29",
-      "summary": "Министерство Индонезии развернуло три насоса для орошения сельскохозяйственных угодий в Бекаси, пострадавших от засухи. Меры направлены на поддержку местных фермеров.",
-      "category": "life",
-      "region": "Индонезия",
-      "sources": [
-        "en.antaranews.com"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/433369/ministry-deploys-three-pumps-to-irrigate-drought-hit-bekasi-farmland"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-29",
-      "id": "6480e316f37f"
-    },
-    {
-      "title_ru": "В Иерусалиме массовые беспорядки привели к 11 арестам и ранениям полиции",
-      "title_en": "Major overnight Jerusalem riot by leads to 11 arrests, Border Police injuries",
-      "date": "2026-09-29",
-      "summary": "Крупные ночные беспорядки в Иерусалиме привели к задержанию 11 человек и ранениям сотрудников пограничной полиции. Конфликт произошел в ходе протестных акций.",
-      "category": "conflicts",
-      "region": "Израиль",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/israel-news/article-910061"
-      ],
-      "perspective": "Израильские власти рассматривают инцидент как нарушение общественного порядка, участники протестов могут считать действия полиции репрессивными",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-29",
-      "id": "192e3f606fde"
-    },
-    {
-      "title_ru": "Средства ПВО России за сутки сбили 287 БПЛА и шесть авиабомб ВСУ",
-      "title_en": "Средства ПВО за сутки сбили 287 БПЛА и шесть авиабомб ВСУ",
-      "date": "2026-09-29",
-      "summary": "Российские средства противовоздушной обороны за сутки сбили 287 беспилотных летательных аппаратов и шесть авиабомб Вооруженных сил Украины. Данные опубликованы Министерством обороны РФ.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20260929/pvo-2120928814.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-29",
-      "id": "799f0f05ee18"
-    },
-    {
-      "title_ru": "ВСУ потеряли до 460 военных в зоне действий \"Центра\" за сутки",
-      "title_en": "ВСУ потеряли до 460 боевиков в зоне действий \"Центра\" за сутки",
-      "date": "2026-09-29",
-      "summary": "Вооруженные силы Украины потеряли до 460 военных в зоне действий группировки \"Центр\" за сутки. Потери зафиксированы в ходе боевых столкновений.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20260929/svo-2120928512.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-29",
-      "id": "103b40f2879a"
-    },
-    {
-      "title_ru": "Песков: Россия продолжает СВО из-за отсутствия здравых голосов на Западе",
-      "title_en": "Песков: Россия продолжает СВО из-за отсутствия здравых голосов на Западе",
-      "date": "2026-09-29",
-      "summary": "Пресс-секретарь президента РФ Дмитрий Песков заявил, что Россия продолжает специальную военную операцию из-за отсутствия здравых голосов на Западе. Заявление сделано в ходе брифинга для журналистов.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8989471"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-29",
-      "id": "1bd8b4bcfab1"
-    },
-    {
-      "title_ru": "Бразилия покрыла дефицит текущего счета за счет прямых иностранных инвестиций",
-      "title_en": "Brazil Foreign Direct Investment Covers Its August Deficit With the World",
-      "date": "2026-09-29",
-      "summary": "Бразилия покрыла дефицит текущего счета в августе за счет притока прямых иностранных инвестиций. Данные показывают устойчивость внешних финансов страны.",
-      "category": "economy",
-      "region": "Бразилия",
-      "sources": [
-        "riotimesonline.com"
-      ],
-      "links": [
-        "https://www.riotimesonline.com/brazil-current-account-deficit-foreign-direct-investment-august-2026/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-09-29",
-      "id": "ebbda571f134"
-    },
-    {
-      "title_ru": "Венгерский парламент отверг кандидатуру президента на пост прокурора",
-      "title_en": "Parliament votes 138–0 to reject president’s prosecutor pick",
-      "date": "2026-09-29",
-      "summary": "Парламент Венгрии единогласно проголосовал 138 голосами против 0 за отклонение кандидатуры президента на пост прокурора. Решение принято в ходе пленарного заседания.",
-      "category": "politics",
-      "region": "Венгрия",
-      "sources": [
-        "budapesttimes.hu"
-      ],
-      "links": [
-        "https://www.budapesttimes.hu/hungary/parliament-votes-138-0-to-reject-presidents-prosecutor-pick/"
-      ],
-      "perspective": "Правительство может рассматривать это как проявление независимости парламента, оппозиция может видеть в этом политическое противостояние",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-29",
-      "id": "b0e49ea2cc96"
-    },
-    {
-      "title_ru": "Главы десяти регионов России отказались от депутатских мандатов \"Единой России\"",
-      "title_en": "Главы десяти регионов отказались от депутатских мандатов \"Единой России\"",
-      "date": "2026-09-29",
-      "summary": "Главы десяти российских регионов отказались от депутатских мандатов партии \"Единая Россия\" в Государственной думе. Среди отказавшихся — действующие губернаторы и мэр Москвы.",
-      "category": "politics",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20260929/er-2120951029.html"
-      ],
-      "perspective": "Партия может представлять это как ротацию кадров, оппозиция может рассматривать как внутренние противоречия",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-09-29",
-      "id": "0a1de8831281"
-    },
-    {
-      "title_ru": "Планеты-бродяги оказались способны формировать звезды",
-      "title_en": "Triggering star formation by free-floating planets",
-      "date": "2026-09-29",
-      "summary": "Согласно научному исследованию, свободно плавающие планеты-бродяги могут запускать процесс формирования новых звезд. Это открытие меняет представления о звездообразовании.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "Naked Science"
-      ],
-      "links": [
-        "https://naked-science.ru/article/astronomy/triggering-star-formation-by-free-floating-planets"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-29",
-      "id": "6aacd9b1eba2"
-    },
-    {
-      "title_ru": "Микрорапторины научились летать независимо от птиц",
-      "title_en": "Microraptorines learned to fly",
-      "date": "2026-09-29",
-      "summary": "Палеонтологи установили, что микрорапторины - мелкие динозавры-тероподы - развили способность к полету независимо от птиц. Это открытие свидетельствует о конвергентной эволюции полета.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "Naked Science"
-      ],
-      "links": [
-        "https://naked-science.ru/article/paleontology/mikroraptoriny-nauchilis-letat"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-29",
-      "id": "f074e3d77fa5"
-    },
-    {
       "title_ru": "Германия одобрила реформу системы ухода",
       "title_en": "Germany news: Cabinet approves care reform bill",
       "date": "2026-09-30",
@@ -257,23 +33,6 @@
       "is_development": false,
       "first_reported": "2026-09-30",
       "id": "c514206143ad"
-    },
-    {
-      "title_ru": "Верховный суд США разрешил депортацию мигрантов в третьи страны",
-      "title_en": "US Supreme Court lifts limits on third-country deportations",
-      "date": "2026-09-29",
-      "summary": "Верховный суд США снял ограничения на депортацию мигрантов в третьи страны. Решение позволяет администрации Трампа возобновить эту практику.",
-      "category": "politics",
-      "region": "США",
-      "sources": [
-        "Le Monde"
-      ],
-      "links": [
-        "https://www.lemonde.fr/en/international/article/2026/09/29/us-supreme-court-lifts-limits-on-third-country-deportations_6758087_4.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-29",
-      "id": "cda7ada80a30"
     },
     {
       "title_ru": "Володин переизбран председателем Госдумы",
@@ -325,23 +84,6 @@
       "is_development": false,
       "first_reported": "2026-09-30",
       "id": "6b4954cd658e"
-    },
-    {
-      "title_ru": "Imagen добавила ручное редактирование RAW в свою ИИ-помощницу для фотографов",
-      "title_en": "Imagen Adds Full Manual RAW Editing to Its AI-Assisted Photo Workspace",
-      "date": "2026-09-29",
-      "summary": "Компания Imagen добавила функцию полного ручного редактирования RAW-файлов в свою ИИ-помощницу для фотографов. Обновление выпущено 29 сентября.",
-      "category": "photo",
-      "region": "Мир",
-      "sources": [
-        "Petapixel"
-      ],
-      "links": [
-        "https://petapixel.com/2026/09/29/imagen-adds-full-manual-raw-editing-to-its-ai-assisted-photo-workspace/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-29",
-      "id": "470c76c1dd0d"
     },
     {
       "title_ru": "Южная Корея и США выбрали электростанцию в Техасе первым проектом стратегических инвестиций",
@@ -446,23 +188,6 @@
       "id": "e783d225bab9"
     },
     {
-      "title_ru": "Саудовская Аравия нанесла более 30 авиаударов по Йемену за 24 часа",
-      "title_en": "Army spox: Saudi Arabia launches over 30 airstrikes across Yemen in 24 hours",
-      "date": "2026-09-29",
-      "summary": "Саудовская Аравия нанесла более 30 авиаударов по различным районам Йемена в течение 24 часов. Представитель йеменской армии сообщил о нанесенном ущербе.",
-      "category": "conflicts",
-      "region": "Йемен",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/29/777293/Saudi-Arabia-launches-35-strikes-across-Yemen-in-24-hours,-causing-damage--Army-spox"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-29",
-      "id": "26f56168182c"
-    },
-    {
       "title_ru": "Зеленский заявил об ударах по целям в Черном море и трех регионах РФ",
       "title_en": "Зеленський заявив про ураження цілей у Чорному морі та трьох регіонах РФ",
       "date": "2026-10-01",
@@ -529,23 +254,6 @@
       "is_development": false,
       "first_reported": "2026-10-01",
       "id": "33a655481484"
-    },
-    {
-      "title_ru": "В ЮАР Шадрак Сибия обвинил оперативную группу Мэдланги в организации своего ареста",
-      "title_en": "Sibiya accuses Madlanga task team of orchestrating arrest",
-      "date": "2026-09-29",
-      "summary": "Бывший высокопоставленный полицейский ЮАР Шадрак Сибия обвинил оперативную группу Мэдланги в организации своего ареста. Он заявил, что его задержание было сфабриковано.",
-      "category": "politics",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-09-29-sibiya-accuses-madlanga-task-team-of-orchestrating-arrest/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-29",
-      "id": "95a75b10016d"
     },
     {
       "title_ru": "Песков рассказал о докладах Дмитриева Путину об итогах переговоров в США",
@@ -1869,10 +1577,301 @@
       "is_development": false,
       "first_reported": "2026-10-04",
       "id": "2bb9738b0558"
+    },
+    {
+      "title_ru": "Южная Корея успешно запустила ракету Nuri с выводом спутников на орбиту",
+      "title_en": "S. Korea confirms successful 5th launch of Nuri space rocket",
+      "date": "2026-10-07",
+      "summary": "Южная Корея провела пятый успешный запуск ракеты-носителя Nuri. Ракета вывела основные спутники на орбиту высотой 570 км.",
+      "category": "tech",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261007003600320"
+      ],
+      "first_reported": "2026-10-07",
+      "id": "b0dd7b75b6d2"
+    },
+    {
+      "title_ru": "У белого карлика впервые обнаружен кандидат в планету второго поколения",
+      "title_en": "Candidate for second-generation planet found near white dwarf",
+      "date": "2026-10-07",
+      "summary": "Астрономы впервые обнаружили кандидата в планету второго поколения у белого карлика. Это свидетельствует о возможности формирования планет после гибели звезды.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/astronomy/kandidata-v-planetu-vtorogo-pokoleniya"
+      ],
+      "first_reported": "2026-10-07",
+      "id": "14fd770158f2"
+    },
+    {
+      "title_ru": "Вода на ранней Земле могла появиться из 'дождя' сухих камешков",
+      "title_en": "Water on early Earth could have come from 'rain' of dry pebbles",
+      "date": "2026-10 07",
+      "summary": "Новое исследование предполагает, что вода на ранней Земле могла образоваться из 'дождя' сухих камешков, содержавших водород. Это альтернативная гипотеза происхождения земной воды.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/physics/kamni-rannei-zemli"
+      ],
+      "first_reported": "2026-10 07",
+      "id": "1ccddeb0622e"
+    },
+    {
+      "title_ru": "Южная Корея начала расследование нефтепереработчиков по подозрению в сговоре о ценах",
+      "title_en": "Watchdog begins deliberations on oil refiners over alleged price rigging",
+      "date": "2026-10-07",
+      "summary": "Регулятор Южной Кореи начал рассмотрение дела против нефтеперерабатывающих компаний по подозрению в сговоре о ценах. Расследование касается возможного манипулирования ценами на нефтепродукты.",
+      "category": "economy",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261007004751320"
+      ],
+      "first_reported": "2026-10-07",
+      "id": "28068b13e08c"
+    },
+    {
+      "title_ru": "Минфин России прогнозирует рост реальных доходов россиян на 1,4% в 2027 году",
+      "title_en": "Siluanov forecasts 1.4% growth in Russians' incomes next year",
+      "date": "2026-10-05",
+      "summary": "Министр финансов России Антон Силуанов заявил, что реальные доходы россиян в 2027 году вырастут на 1,4%. Прогноз основан на текущих экономических показателях.",
+      "category": "economy",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9006567"
+      ],
+      "first_reported": "2026-10-05",
+      "id": "4fa3558be77f"
+    },
+    {
+      "title_ru": "Апелляционный суд Южной Кореи оправдал экс-президента Юн Сок Ёля по делу о политических фондах",
+      "title_en": "Appeals court acquits ex-President Yoon in political funds trial over opinion polls",
+      "date": "2026-10-07",
+      "summary": "Апелляционный суд Южной Кореи оправдал бывшего президента Юн Сок Ёля по делу о незаконном использовании политических фондов для финансирования опросов общественного мнения. Решение отменяет предыдущий приговор.",
+      "category": "politics",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261007005900315"
+      ],
+      "first_reported": "2026-10-07",
+      "id": "96095e87ea7f"
+    },
+    {
+      "title_ru": "Президент Индонезии Прабово провел совещание с 800 старшими офицерами армии и полиции",
+      "title_en": "Prabowo gathers 800 senior military, police officers at palace",
+      "date": "2026-10-07",
+      "summary": "Президент Индонезии Прабово Субианто собрал 800 старших офицеров армии и полиции во дворце для обсуждения национальных вызовов. Совещание посвящено вопросам безопасности и обороны.",
+      "category": "politics",
+      "region": "Индонезия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/434456/prabowo-gathers-800-senior-military-police-officers-at-palace"
+      ],
+      "first_reported": "2026-10-07",
+      "id": "237cfe77b625"
+    },
+    {
+      "title_ru": "США передали Литве партию ударных беспилотников Switchblade 600",
+      "title_en": "U.S. delivers batch of Switchblade 600 attack drones to Lithuania",
+      "date": "2026-10-07",
+      "summary": "США передали Литве первую партию ударных беспилотников Switchblade 600. Поставка осуществляется в рамках военной помощи и укрепления обороноспособности Литвы.",
+      "category": "politics",
+      "region": "Литва",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9008008"
+      ],
+      "first_reported": "2026-10-07",
+      "id": "f0cea77ef697"
+    },
+    {
+      "title_ru": "Иран сообщил о ликвидации террористических групп в Систане и Белуджистане",
+      "title_en": "Iran Intelligence Ministry, IRGC neutralize terrorist squads in Sistan and Baluchistan",
+      "date": "2026-10. 06",
+      "summary": "Министерство разведки Ирана и Корпус стражей исламской революции сообщили о ликвидации террористических групп в провинции Систан и Белуджистан. Операция проведена после теракта, в котором погибли два полицейских.",
+      "category": "conflicts",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/10/06/777736/Iranian-Intelligence-IRGC-neutralize-Takfiri-assassination-squads-in-Sistan-and-Baluchistan"
+      ],
+      "is_development": true,
+      "first_reported": "2026-10. 06",
+      "id": "302dbede9d7d"
+    },
+    {
+      "title_ru": "Второй пилот Flydubai планировал атаковать самолет до прихода в авиакомпанию",
+      "title_en": "FlyDubai co-pilot planned attack before joining airline, Israeli officials say",
+      "date": "2026-10-05",
+      "summary": "Израильские официальные лица заявили, что второй пилот Flydubai, атаковавший капитана топором, планировал теракт еще до прихода в авиакомпанию. Оман ранее запретил ему летать из-за опасений об экстремизме.",
+      "category": "conflicts",
+      "region": "ОАЭ",
+      "sources": [
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/article-flydubai-co-pilot-planned-attack/"
+      ],
+      "is_development": true,
+      "first_reported": "2026-10-05",
+      "id": "4feade8b9d70"
+    },
+    {
+      "title_ru": "Песков: разговор Путина и Трампа пока не согласовывался",
+      "title_en": "Peskov: Putin-Trump phone call not yet coordinated",
+      "date": "2026-10-07",
+      "summary": "Пресс-секретарь президента России Дмитрий Песков заявил, что телефонный разговор Владимира Путина и Дональда Трампа пока не согласовывался. Он отметил, что если США выступят с инициативой, беседу согласуют.",
+      "category": "politics",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20261007/peskov-2122884568.html"
+      ],
+      "first_reported": "2026-10-07",
+      "id": "5f380a2821f8"
+    },
+    {
+      "title_ru": "Глава МИД Беларуси прокомментировал планы Азербайджана принять председательство в СНГ",
+      "title_en": "Belarus Foreign Minister comments on Azerbaijan's plans to chair CIS in 2028",
+      "date": "2026-10-07",
+      "summary": "Министр иностранных дел Беларуси Сергей Алейник прокомментировал планы Азербайджана принять председательство в СНГ в 2028 году. Заявление сделано в контексте обсуждения будущего развития организации.",
+      "category": "politics",
+      "region": "Беларусь",
+      "sources": [
+        "www.belta.by"
+      ],
+      "links": [
+        "https://belta.by/politics/view/glava-mid-belarusi-prokommentiroval-plany-azerbajdzhana-prinjat-predsedatelstvo-v-sng-v-2028-godu-804791-2026/"
+      ],
+      "first_reported": "2026-10-07",
+      "id": "2d0012cbb9f9"
+    },
+    {
+      "title_ru": "Израиль заявил, что угонщик планировал разбить самолет в аэропорту Тель-Авива",
+      "title_en": "Hijacker planned to crash plane into Tel Aviv airport, says Israel",
+      "date": "2026-10-07",
+      "summary": "Израильские власти заявили, что второй пилот Flydubai, атаковавший капитана топором, планировал разбить самолет в аэропорту Тель-Авива. Инцидент произошел 3 октября во время рейса из Дубая.",
+      "category": "conflicts",
+      "region": "Израиль",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/world/middle-east/hijacker-planned-to-crash-plane-into-tel-aviv-airport-says-israel-20261007-p613op.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "is_development": true,
+      "first_reported": "2026-10-07",
+      "id": "2fe8ebacb790"
+    },
+    {
+      "title_ru": "В ЮАР суд отделил обвинения против Майезы от дела об убийстве AKA и Тибза",
+      "title_en": "Court separates Myeza charges from AKA and Tibz murder trial",
+      "date": "2026-10-06",
+      "summary": "Суд в ЮАР отделил обвинения против подозреваемого Майезы от основного дела об убийстве рэпера AKA и его менеджера Тибза. Решение принято для ускорения судебного процесса.",
+      "category": "politics",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-10-06-court-separates-myeza-charges-from-aka-and-tibz-murder-trial/"
+      ],
+      "first_reported": "2026-10-06",
+      "id": "81822e1f8e45"
+    },
+    {
+      "title_ru": "Три муниципалитета Южной Кореи добавлены в список 'депопуляционных' районов",
+      "title_en": "3 municipalities added to list of 'depopulation' areas, total at 92",
+      "date": "2026-10-07",
+      "summary": "Три муниципалитета Южной Кореи добавлены в официальный список районов с депопуляцией. Общее число таких районов достигло 92. Решение отражает демографические тенденции в стране.",
+      "category": "life",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261007004400315"
+      ],
+      "first_reported": "2026-10-07",
+      "id": "1d0f4ef2a9e1"
+    },
+    {
+      "title_ru": "Южнокорейская вона продолжает укрепляться к доллару США",
+      "title_en": "S. Korean won keeps climbing against U.S. dollar",
+      "date": "2026-10-07",
+      "summary": "Южнокорейская вона продолжает укрепляться по отношению к доллару США. Тренд наблюдается на фоне макроэкономических факторов и торгового баланса страны.",
+      "category": "economy",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261007008100320"
+      ],
+      "first_reported": "2026-10-07",
+      "id": "0c150bc08fcf"
+    },
+    {
+      "title_ru": "В ЮАР скончался бывший пресс-секретарь энергетической компании Eskom",
+      "title_en": "Former Eskom spokesperson, Khulu Phasiwe, dies at 52",
+      "date": "2026-10-06",
+      "summary": "Бывший пресс-секретарь южноафриканской энергетической компании Eskom Хулу Фасиве скончался в возрасте 52 лет. Он занимал должность пресс-секретаря с 2017 по — 2021 год.",
+      "category": "culture",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-10-06-former-eskom-spokesperson-khulu-phasiwe-dies-at-52/"
+      ],
+      "first_reported": "2026-10-06",
+      "id": "2fe3a39a64b6"
+    },
+    {
+      "title_ru": "Марсоход Curiosity отметил 5000-й день на Марсе панорамой песчаного хребта",
+      "title_en": "Curiosity Rover Celebrates Its 5,000th Day on Mars With Panorama of Sandy Ridge",
+      "date": "2026-10-06",
+      "summary": "Марсоход NASA Curiosity отметил свой 5000-й марсианский день (сол) панорамным снимком песчаного хребта. Ровер продолжает исследование кратера Гейла с 2012 года.",
+      "category": "photo",
+      "region": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/10/06/curiosity-rover-celebrates-its-5000th-day-on-mars-with-panorama-of-sandy-ridge/"
+      ],
+      "first_reported": "2026-10-06",
+      "id": "d0fe0a165d56"
     }
   ],
   "_stats": {
-    "total_tokens": 180991,
-    "total_cost": 11.494819999999999
+    "total_tokens": 199045,
+    "total_cost": 12.64678
   }
 }
