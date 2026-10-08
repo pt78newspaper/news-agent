@@ -1,91 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Германия одобрила реформу системы ухода",
-      "title_en": "Germany news: Cabinet approves care reform bill",
-      "date": "2026-09-30",
-      "summary": "Правительство Германии одобрило законопроект о реформе системы ухода. Реформа направлена на изменение условий оказания услуг по уходу.",
-      "category": "life",
-      "region": "Германия",
-      "sources": [
-        "DW"
-      ],
-      "links": [
-        "https://www.dw.com/en/germany-news-cabinet-approves-care-reform-bill/live-79481802?maca=en-rss-en-all-1573-xml-mrss"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-30",
-      "id": "21f337d836f1"
-    },
-    {
-      "title_ru": "Восемь палестинцев погибли в секторе Газа в результате израильских атак",
-      "title_en": "Eight Palestinians killed in Gaza Strip during Israeli attacks — Health Ministry",
-      "date": "2026-09-30",
-      "summary": "Министерство здравоохранения Палестины сообщило о гибели восьми палестинцев в секторе Газа в результате израильских атак. Инцидент произошел 30 сентября.",
-      "category": "conflicts",
-      "region": "Ближний Восток",
-      "sources": [
-        "ТАСС"
-      ],
-      "links": [
-        "https://tass.com/world/2194795"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-30",
-      "id": "c514206143ad"
-    },
-    {
-      "title_ru": "Володин переизбран председателем Госдумы",
-      "title_en": "Volodin re-elected as State Duma chairman",
-      "date": "2026-09-30",
-      "summary": "Вячеслав Володин переизбран председателем Государственной думы России. Он также сообщил об обновлении состава Госдумы на 41% по итогам выборов.",
-      "category": "politics",
-      "region": "Россия",
-      "sources": [
-        "Коммерсантъ"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8990289"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-30",
-      "id": "d06cae2196da"
-    },
-    {
-      "title_ru": "Иран получил ответ США на условия возобновления диалога",
-      "title_en": "Iran receives US response to conditions for resuming dialogue — authorities",
-      "date": "2026-09-30",
-      "summary": "Иран получил ответ США на условия возобновления диалога между двумя странами. Об этом сообщили иранские власти 30 сентября.",
-      "category": "politics",
-      "region": "Иран",
-      "sources": [
-        "ТАСС"
-      ],
-      "links": [
-        "https://tass.com/world/2194977"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-30",
-      "id": "b743f228ad15"
-    },
-    {
-      "title_ru": "Рамафоса приказал усилить борьбу с делами о гендерном насилии",
-      "title_en": "Ramaphosa orders GBV case crackdown",
-      "date": "2026-09-30",
-      "summary": "Президент ЮАР Сирил Рамафоса приказал усилить борьбу с делами о гендерном насилии. Решение принято после убийств в Экурхулени, которые подвергли проверке систему реагирования на гендерное насилие.",
-      "category": "politics",
-      "region": "ЮАР",
-      "sources": [
-        "Mail & Guardian"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-09-30-ramaphosa-orders-gbv-case-crackdown/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-30",
-      "id": "6b4954cd658e"
-    },
-    {
       "title_ru": "Южная Корея и США выбрали электростанцию в Техасе первым проектом стратегических инвестиций",
       "title_en": "Seoul, Washington pick Texas power plant as 1st project under strategic investment",
       "date": "2026-10-01",
@@ -101,40 +16,6 @@
       "is_development": false,
       "first_reported": "2026-10-01",
       "id": "b0eeb104c120"
-    },
-    {
-      "title_ru": "BMW выпустила электромобиль на $4400 дешевле аналогичной модели с ДВС",
-      "title_en": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
-      "date": "2026-09-30",
-      "summary": "Компания BMW представила электромобиль, который на $4400 дешевле аналогичной модели с двигателем внутреннего сгорания. Обе модели имеют одинаковую конструкцию.",
-      "category": "tech",
-      "region": "Германия",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-30",
-      "id": "7b86b34ebeba"
-    },
-    {
-      "title_ru": "DoorDash запустил ИИ-агента для заказа еды по текстовым сообщениям",
-      "title_en": "DoorDash launches an AI agent you can text to order food",
-      "date": "2026-09-30",
-      "summary": "Сервис доставки еды DoorDash запустил ИИ-агента, который позволяет заказывать еду через текстовые сообщения. Пользователи могут общаться с агентом для выбора и оформления заказа.",
-      "category": "ai",
-      "region": "США",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-30",
-      "id": "32c84c057723"
     },
     {
       "title_ru": "Сын использовал ИИ для спасения жизни матери с болезнью Паркинсона",
@@ -169,23 +50,6 @@
       "is_development": false,
       "first_reported": "2026-10-01",
       "id": "c80885669f82"
-    },
-    {
-      "title_ru": "Во Франции задержаны сотни человек в ходе эскалации студенческих протестов",
-      "title_en": "France: Hundreds arrested as student protests escalate",
-      "date": "2026-09-30",
-      "summary": "Во Франции задержаны сотни человек в ходе эскалации студенческих протестов. Некоторые протесты переросли в насилие, что привело к массовым арестам.",
-      "category": "conflicts",
-      "region": "Франция",
-      "sources": [
-        "rss.dw.com"
-      ],
-      "links": [
-        "https://www.dw.com/en/france-hundreds-arrested-as-student-protests-escalate/a-79495633?maca=en-rss-en-all-1573-xml-mrss"
-      ],
-      "is_development": false,
-      "first_reported": "2026-09-30",
-      "id": "e783d225bab9"
     },
     {
       "title_ru": "Зеленский заявил об ударах по целям в Черном море и трех регионах РФ",
@@ -1611,22 +1475,6 @@
       "id": "14fd770158f2"
     },
     {
-      "title_ru": "Вода на ранней Земле могла появиться из 'дождя' сухих камешков",
-      "title_en": "Water on early Earth could have come from 'rain' of dry pebbles",
-      "date": "2026-10 07",
-      "summary": "Новое исследование предполагает, что вода на ранней Земле могла образоваться из 'дождя' сухих камешков, содержавших водород. Это альтернативная гипотеза происхождения земной воды.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/physics/kamni-rannei-zemli"
-      ],
-      "first_reported": "2026-10 07",
-      "id": "1ccddeb0622e"
-    },
-    {
       "title_ru": "Южная Корея начала расследование нефтепереработчиков по подозрению в сговоре о ценах",
       "title_en": "Watchdog begins deliberations on oil refiners over alleged price rigging",
       "date": "2026-10-07",
@@ -1868,10 +1716,265 @@
       ],
       "first_reported": "2026-10-06",
       "id": "d0fe0a165d56"
+    },
+    {
+      "title_ru": "В Екатеринбурге побит рекорд 1937 года по годовому количеству осадков",
+      "title_en": "Yekaterinburg breaks 1937 record for annual precipitation",
+      "date": "2026-10-08",
+      "summary": "В Екатеринбурге зафиксировано рекордное годовое количество осадков, превысившее показатель 1937 года. Данные предоставлены метеорологическими службами.",
+      "category": "life",
+      "region": "Россия",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/obschestvo/28193503"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-08",
+      "id": "60adfe7aa804"
+    },
+    {
+      "title_ru": "Падение цен на продукты компенсирует рост стоимости услуг и топлива в Венгрии",
+      "title_en": "Falling food prices offset higher services and fuel costs",
+      "date": "2026-10-08",
+      "summary": "В Венгрии снижение цен на продукты питания компенсирует повышение стоимости услуг и топлива. Статистическое управление опубликовало данные об инфляции.",
+      "category": "life",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/economy/falling-food-prices-offset-higher-services-and-fuel-costs/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-08",
+      "id": "0819cc1fec83"
+    },
+    {
+      "title_ru": "Взрывы в Эр-Рияде",
+      "title_en": "Multiple explosions heard in Riyadh",
+      "date": "2026-10-08",
+      "summary": "В столице Саудовской Аравии Эр-Рияде слышны многочисленные взрывы. Информация о причинах и последствиях не уточняется.",
+      "category": "conflicts",
+      "region": "Саудовская Аравия",
+      "sources": [
+        "en.mehrnews.com"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/248426/Multiple-explosions-heard-in-Riyadh"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-08",
+      "id": "59f1053ffdc9"
+    },
+    {
+      "title_ru": "Полицейский убит на блокпосту в Анкаре",
+      "title_en": "Police officer killed in Ankara checkpoint shooting",
+      "date": "2026-10-07",
+      "summary": "Полицейский убит в результате стрельбы на блокпосту в Анкаре. Инцидент произошел во время проверки транспортных средств.",
+      "category": "conflicts",
+      "region": "Турция",
+      "sources": [
+        "www.turkishminute.com"
+      ],
+      "links": [
+        "https://www.turkishminute.com/2026/10/07/police-officer-killed-in-ankara-checkpoint-shooting/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-07",
+      "id": "f9f68369af6b"
+    },
+    {
+      "title_ru": "Силы ПВО отражают атаку беспилотников на Омскую область",
+      "title_en": "Air defense forces repel drone attack on Omsk region",
+      "date": "2026-10-08",
+      "summary": "Системы ПВО отражают атаку беспилотных летательных аппаратов на Омскую область. Губернатор региона Виталий Хоценко сообщил об инциденте.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9009057"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-08",
+      "id": "95d529d0a4a1"
+    },
+    {
+      "title_ru": "Правительство выделило почти 11 млрд рублей на поддержку закрытых аэропортов",
+      "title_en": "Government allocates nearly 11 billion rubles to support closed airports",
+      "date": "2026-10-08",
+      "summary": "Правительство России выделило дополнительно почти 11 млрд рублей на поддержку закрытых аэропортов. Решение принято в рамках программы развития транспортной инфраструктуры.",
+      "category": "economy",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9008703"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-08",
+      "id": "cbe95d8aa333"
+    },
+    {
+      "title_ru": "Бразилия готовится к решающему второму туру президентских выборов",
+      "title_en": "Brazil heads into decisive runoff as open race tests voter turnout and campaign strategy",
+      "date": "2026-10-08",
+      "summary": "Бразилия готовится к решающему второму туру президентских выборов между Лулой да Силвой и Флавио Болсонаро. Голосование назначено на 30 октября.",
+      "category": "politics",
+      "region": "Бразилия",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/10/06/777716/Brazil-heads-into-decisive-runoff-as-open-race-tests-voter-turnout-and-campaign-strategy"
+      ],
+      "is_development": true,
+      "first_reported": "2026-10-08",
+      "id": "b8882e37df7f"
+    },
+    {
+      "title_ru": "Израиль и Великобритания достигли соглашения о консульстве в Восточном Иерусалиме",
+      "title_en": "Israel and U.K. Cut Last-Minute Deal to Avoid Full Closure of British Consulate in East Jerusalem",
+      "date": "2026-10-08",
+      "summary": "Израиль и Великобритания достигли соглашения в последнюю минуту, чтобы избежать полного закрытия британского консульства в Восточном Иерусалиме. Большинство британских дипломатов покинет консульство.",
+      "category": "politics",
+      "region": "Израиль",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/10/08/world/europe/uk-israel-consulate-east-jerusalem-palestinians.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-08",
+      "id": "7aa5ef4b764c"
+    },
+    {
+      "title_ru": "Суд отменил запрет на освещение свидетелей по делу об убийстве AKA и Тибза в ЮАР",
+      "title_en": "Court lifts witness reporting ban in AKA and Tibz murder",
+      "date": "2026-10-07",
+      "summary": "Суд в Южной Африке отменил запрет на освещение информации о свидетелях по делу об убийстве рэпера AKA и предпринимателя Тибза. Решение принято Высоким судом Дурбана.",
+      "category": "politics",
+      "region": "Южная Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-10-07-court-lifts-witness-reporting-ban-in-aka-and-tibz-murder/"
+      ],
+      "is_development": true,
+      "first_reported": "2026-10-07",
+      "id": "1bd44197bbbf"
+    },
+    {
+      "title_ru": "ВОЗ призывает Россию предоставить больше информации о смерти в институте чумы",
+      "title_en": "WHO urges Russia to release more info on plague institute death",
+      "date": "2026-10-07",
+      "summary": "Всемирная организация здравоохранения призывает Россию предоставить больше информации о смерти сотрудницы в Сибирском научно-исследовательском институте чумы в Иркутске. ВОЗ заявляет о невозможности полностью оценить ситуацию.",
+      "category": "politics",
+      "region": "Россия",
+      "sources": [
+        "www.dailysabah.com"
+      ],
+      "links": [
+        "https://www.dailysabah.com/world/europe/who-urges-russia-to-release-more-info-on-plague-institute-death"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-07",
+      "id": "2ff39e67e201"
+    },
+    {
+      "title_ru": "США предъявят новые обвинения в пытках президенту Венесуэлы Мадуро и его жене",
+      "title_en": "US to lay fresh torture charges against Venezuela's Maduro and wife",
+      "date": "2026-10-08",
+      "summary": "Министерство юстиции США предъявит новые обвинения в пытках президенту Венесуэлы Николасу Мадуро и его жене Силии Флорес. Обвинения связаны с предполагаемыми нарушениями прав человека.",
+      "category": "politics",
+      "region": "США",
+      "sources": [
+        "rss.dw.com"
+      ],
+      "links": [
+        "https://www.dw.com/en/us-to-lay-fresh-torture-charges-against-venezuela-s-maduro-and-wife/a-79588019?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-08",
+      "id": "e0a37c96ba1a"
+    },
+    {
+      "title_ru": "Мета внедряет инструменты ИИ для обнаружения рекламы, ведущей к материалам о сексуальном насилии над детьми",
+      "title_en": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      "date": "2026-10-07",
+      "summary": "Компания Meta внедряет новые инструменты искусственного интеллекта для обнаружения рекламы, которая скрыто ведет к материалам о сексуальном насилии над детьми. Система анализирует поведение пользователей после кликов по рекламе.",
+      "category": "ai",
+      "region": "США",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-07",
+      "id": "1b241d22b40a"
+    },
+    {
+      "title_ru": "Ученые выяснили, как быстро вейп разрушает легкие и иммунитет",
+      "title_en": "Scientists found out how quickly vape destroys lungs and immunity",
+      "date": "2026-10-08",
+      "summary": "Исследователи установили, что использование электронных сигарет приводит к быстрому разрушению легочной ткани и ослаблению иммунной системы. Результаты опубликованы в научном журнале.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/medicine/vape-razrushaet-legkie"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-08",
+      "id": "32fb9dfc5045"
+    },
+    {
+      "title_ru": "Археологи впервые описали деревянную утварь, инструменты и палицу у неандертальцев",
+      "title_en": "Archaeologists first described wooden utensils, tools and club among Neanderthals",
+      "date": "2026-10-08",
+      "summary": "Археологи впервые систематически описали деревянные предметы быта, инструменты и палицу, использовавшиеся неандертальцами. Находки сделаны на территории Германии.",
+      "category": "tech",
+      "region": "Германия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/anthropology/neandertaltsy-delali-podnosy"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-08",
+      "id": "c95ecaef405a"
+    },
+    {
+      "title_ru": "Royal Air Maroc установит Starlink на 41 самолет",
+      "title_en": "Morocco's Royal Air Maroc to Fit Starlink on 41 Jets",
+      "date": "2026-10-08",
+      "summary": "Марокканская авиакомпания Royal Air Maroc установит спутниковый интернет Starlink на 41 самолет своего парка. Контракт заключен со SpaceX.",
+      "category": "tech",
+      "region": "Марокко",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/royal-air-maroc-starlink-41-jets-2026/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-08",
+      "id": "44593dabb64f"
     }
   ],
   "_stats": {
-    "total_tokens": 199045,
-    "total_cost": 12.64678
+    "total_tokens": 217613,
+    "total_cost": 13.822479999999999
   }
 }
