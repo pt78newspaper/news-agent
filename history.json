@@ -1,176 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Южная Корея и США выбрали электростанцию в Техасе первым проектом стратегических инвестиций",
-      "title_en": "Seoul, Washington pick Texas power plant as 1st project under strategic investment",
-      "date": "2026-10-01",
-      "summary": "Южная Корея и США выбрали электростанцию в Техасе в качестве первого проекта в рамках стратегических инвестиций. Это решение ускорит переговоры по вопросам безопасности между двумя странами.",
-      "category": "tech",
-      "region": "США",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261001000500320"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-01",
-      "id": "b0eeb104c120"
-    },
-    {
-      "title_ru": "Сын использовал ИИ для спасения жизни матери с болезнью Паркинсона",
-      "title_en": "Son who used AI to help save mum's life hopes case unlocks clues for other Parkinson's patients",
-      "date": "2026-10-01",
-      "summary": "Сын использовал искусственный интеллект для анализа данных и спасения жизни своей матери, страдающей болезнью Паркинсона. Этот случай может помочь другим пациентам с аналогичным заболеванием.",
-      "category": "ai",
-      "region": "Великобритания",
-      "sources": [
-        "feeds.bbci.co.uk"
-      ],
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cmy0zewj483wo?at_medium=RSS&at_campaign=rss"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-01",
-      "id": "56c02a85bda0"
-    },
-    {
-      "title_ru": "В Индонезии прогнозируют производство риса в 7,06 млн тонн",
-      "title_en": "BPS sees 7.06 million tons rice output, farmer index rises",
-      "date": "2026-10-01",
-      "summary": "Центральное статистическое агентство Индонезии прогнозирует производство риса в 7,06 млн тонн. Индекс благосостояния фермеров вырос на 0,21% в сентябре 2026 года.",
-      "category": "life",
-      "region": "Индонезия",
-      "sources": [
-        "en.antaranews.com"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/433712/bps-sees-706-million-tons-rice-output-farmer-index-rises"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-01",
-      "id": "c80885669f82"
-    },
-    {
-      "title_ru": "Зеленский заявил об ударах по целям в Черном море и трех регионах РФ",
-      "title_en": "Зеленський заявив про ураження цілей у Чорному морі та трьох регіонах РФ",
-      "date": "2026-10-01",
-      "summary": "Президент Украины Владимир Зеленский заявил об ударах по целям в Черном море и трех регионах России. Он сообщил о поражении военных объектов противника.",
-      "category": "svo",
-      "region": "Украина",
-      "sources": [
-        "www.ukrinform.ua"
-      ],
-      "links": [
-        "https://www.ukrinform.ua/rubric-ato/4169942-zelenskij-zaaviv-pro-urazenna-cilej-u-cornomu-mori-ta-troh-regionah-rf.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-01",
-      "id": "d1001d6ef836"
-    },
-    {
-      "title_ru": "Суд в Москве арестовал начальника управления Минобороны Никиташкина",
-      "title_en": "Суд в Москве арестовал начальника управления Минобороны Никиташкина",
-      "date": "2026-10-01",
-      "summary": "Суд в Москве арестовал начальника управления Министерства обороны России Никиташкина. Он обвиняется в совершении преступления, связанного со службой.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "rssexport.rbc.ru"
-      ],
-      "links": [
-        "https://www.rbc.ru/rbcfreenews/6abbbfeee0c90d6b80e6e4d5"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-01",
-      "id": "96438ab5fdd0"
-    },
-    {
-      "title_ru": "Минфин РФ: доходы от управления средствами ФНБ составят не менее 676,1 млрд рублей",
-      "title_en": "Минфин: доходы от управления средствами ФНБ составят не менее 676,1 млрд рублей",
-      "date": "2026-10-01",
-      "summary": "Министерство финансов России сообщило, что доходы от управления средствами Фонда национального благосостояния составят не менее 676,1 млрд рублей. Эти средства будут направлены на финансирование бюджетных расходов.",
-      "category": "economy",
-      "region": "Россия",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/ekonomika/28170707"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-01",
-      "id": "92f3499c01f6"
-    },
-    {
-      "title_ru": "Президент Южной Кореи запросит слушания по кандидату на пост главы следственного бюро",
-      "title_en": "President to request confirmation hearing for embattled nominee for chief of investigation bureau",
-      "date": "2026-10-01",
-      "summary": "Президент Южной Кореи запросит слушания по кандидату на пост главы следственного бюро, который столкнулся с противоречиями. Это решение следует за критикой в адрес номинанта.",
-      "category": "politics",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261001007751315"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-01",
-      "id": "33a655481484"
-    },
-    {
-      "title_ru": "Песков рассказал о докладах Дмитриева Путину об итогах переговоров в США",
-      "title_en": "Песков рассказал о докладах Дмитриева Путину об итогах переговоров в США",
-      "date": "2026-10-01",
-      "summary": "Пресс-секретарь президента России Дмитрий Песков сообщил, что помощник президента Максим Дмитриев докладывает Владимиру Путину об итогах своих контактов с представителями США. Контакты между сторонами продолжаются.",
-      "category": "politics",
-      "region": "Россия",
-      "sources": [
-        "rssexport.rbc.ru"
-      ],
-      "links": [
-        "https://www.rbc.ru/rbcfreenews/6abcdf5cd016f1b13d25a475"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-01",
-      "id": "583f950c410a"
-    },
-    {
-      "title_ru": "Нетаньяху заявил, что Израиль предупредил Британию об иранском теракте до инцидента на авиабазе",
-      "title_en": "Netanyahu says Israel warned Britain about Iranian terror plot before RAF airbase incident",
-      "date": "2026-10-01",
-      "summary": "Премьер-министр Израиля Биньямин Нетаньяху заявил, что Израиль предупредил Великобританию об иранском теракте до инцидента на авиабазе RAF. Он подчеркнул важность сотрудничества в борьбе с терроризмом.",
-      "category": "statement",
-      "region": "Израиль",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/israel-news/article-910266"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-01",
-      "id": "6fe3f612bd56"
-    },
-    {
-      "title_ru": "Nikon пересматривает победителя конкурса Small World in Motion после обвинений в использовании ИИ",
-      "title_en": "Nikon 'Re-Reviewing' Winner of Small World in Motion Contest After AI Accusation",
-      "date": "2026-10-01",
-      "summary": "Компания Nikon пересматривает победителя конкурса Small World in Motion после обвинений в использовании искусственного интеллекта. Организаторы проверяют соответствие работы правилам конкурса.",
-      "category": "photo",
-      "region": "Мир",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/10/01/nikon-re-reviewing-winner-of-small-world-in-motion-contest-after-ai-accusation/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-01",
-      "id": "50da263dc172"
-    },
-    {
       "title_ru": "В Южной Корее запущена реформированная прокуратура и новое следственное агентство",
       "title_en": "S. Korea launches scaled-down prosecution, new investigation agency in major reform",
       "date": "2026-10-02",
@@ -1971,10 +1801,333 @@
       "is_development": false,
       "first_reported": "2026-10-08",
       "id": "44593dabb64f"
+    },
+    {
+      "title_ru": "Иранские власти заявили о закрытии Ормузского пролива и блокировке незаконных маршрутов",
+      "title_en": "Strait of Hormuz remains 'closed', illegal routes to be blocked soon: IRGC advisor",
+      "date": "2026-10-09",
+      "summary": "Советник Корпуса стражей исламской революции Ирана заявил, что Ормузский пролив остается закрытым. Незаконные маршруты будут заблокированы в ближайшее время.",
+      "category": "conflicts",
+      "region": "Ближний Восток",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/10/07/777845/Strait-of-Hormuz-closed-illegal-routes-to-be-blocked--IRGC-"
+      ],
+      "perspective": "Иран заявляет о контроле над стратегическим проливом, что может рассматриваться как демонстрация силы",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-10-09",
+      "id": "9e664f789dea"
+    },
+    {
+      "title_ru": "Южная Корея отчиталась о росте продаж зимних товаров в магазинах",
+      "title_en": "Sales of winter products surge at convenience stores amid chilly weather",
+      "date": "2026-10-09",
+      "summary": "Продажи зимних товаров в магазинах Южной Кореи выросли на фоне похолодания. В частности, увеличились продажи грелок для рук и теплых напитков.",
+      "category": "life",
+      "region": "Дальний Восток",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261009001700320"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-09",
+      "id": "63f179a0f668"
+    },
+    {
+      "title_ru": "Армия России взяла населенный пункт Кияница в Сумской области",
+      "title_en": "Armiya Rossii vzyala Kiyanitsu v Sumskoy oblasti",
+      "date": "2026-10-09",
+      "summary": "Российские военные взяли под контроль населенный пункт Кияница в Сумской области Украины. Об этом сообщило Министерство обороны России.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9009821"
+      ],
+      "perspective": "Россия сообщает о продвижении своих войск на украинской территории",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-10-09",
+      "id": "6e27fcc8b4e0"
+    },
+    {
+      "title_ru": "Минобороны России сообщило об ударе по мосту через Оскол в Харьковской области",
+      "title_en": "Minoborony Rossii soobshchilo ob udare po mostu cherez Oskol v Kharkovskoy oblasti",
+      "date": "2026-10-09",
+      "summary": "Министерство обороны России заявило о нанесении удара по мосту через реку Оскол на купянском направлении в Харьковской области Украины.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9009643"
+      ],
+      "perspective": "Россия сообщает о нанесении ударов по инфраструктуре на украинской территории",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-10-09",
+      "id": "fabdfdc186b8"
+    },
+    {
+      "title_ru": "SpaceX рассказала о планах создания орбитальных дата-центров",
+      "title_en": "SpaceX рассказала, как будут устроены ее дата-центры на орбите",
+      "date": "2026-10-09",
+      "summary": "Компания SpaceX представила концепцию орбитальных дата-центров. Компания планирует размещать вычислительные мощности на низкой околоземной орбите.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/cosmonautics/spacex-data-tsentry-na-orbite"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-09",
+      "id": "28f6e0d60cee"
+    },
+    {
+      "title_ru": "SpaceX намерена стать полноценным мобильным оператором в США",
+      "title_en": "SpaceX намерена стать полноценным мобильным оператором в США",
+      "date": "2026-10-09",
+      "summary": "Компания SpaceX подала заявку в Федеральную комиссию по связи США на получение лицензии мобильного оператора. Компания планирует предоставлять услуги спутниковой связи Starlink для мобильных устройств.",
+      "category": "tech",
+      "region": "США",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9009608"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-09",
+      "id": "f0e6b0e8a87c"
+    },
+    {
+      "title_ru": "Власти Финляндии приостановили строительство дата-центров Google",
+      "title_en": "Vlasti Finlyandii priostanovili stroitelstvo data-tsentrov Google",
+      "date": "2026-10-07",
+      "summary": "Финские власти приостановили строительство дата-центров Google на территории страны. Решение связано с экологическими соображениями и энергопотреблением объектов.",
+      "category": "tech",
+      "region": "Финляндия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9007957"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-07",
+      "id": "280d342f390e"
+    },
+    {
+      "title_ru": "Google сделал бесплатным для всех детектор ИИ-изображений SynthID",
+      "title_en": "Google's SynthID AI Detector is Now Freely Available to Everyone",
+      "date": "2026-10-08",
+      "summary": "Компания Google открыла свободный доступ к инструменту SynthID для обнаружения изображений, созданных искусственным интеллектом. Ранее технология была доступна ограниченному кругу пользователей.",
+      "category": "ai",
+      "region": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/10/08/googles-synthid-ai-detector-is-now-freely-available-to-everyone/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-08",
+      "id": "a025692642ea"
+    },
+    {
+      "title_ru": "Премьер-министр Южной Кореи заявил о необходимости сохранения корейского языка в эпоху ИИ",
+      "title_en": "PM vows efforts to uphold value of Hangeul in AI era",
+      "date": "2026-10-09",
+      "summary": "Премьер-министр Южной Кореи Хан Дук Су заявил о необходимости сохранения и развития корейского языка хангыль в эпоху искусственного интеллекта. Он подчеркнул важность языковой идентичности.",
+      "category": "ai",
+      "region": "Дальний Восток",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261009003400315"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-09",
+      "id": "4dc09c0bded5"
+    },
+    {
+      "title_ru": "ЮАР отменила директиву о предоставлении убежища после протестов против мигрантов",
+      "title_en": "South Africa pulls asylum directive after violent protests",
+      "date": "2026-10-09",
+      "summary": "Власти ЮАР отозвали директиву о предоставлении убежища после насильственных протестов против мигрантов. Решение принято на фоне роста антииммигрантских настроений в стране.",
+      "category": "politics",
+      "region": "Африка",
+      "sources": [
+        "rss.dw.com"
+      ],
+      "links": [
+        "https://www.dw.com/en/south-africa-pulls-asylum-directive-after-violent-protests/a-79605037?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "perspective": "Власти ЮАР реагируют на общественное давление, отменяя миграционную политику",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-10-09",
+      "id": "cb6dd896dc54"
+    },
+    {
+      "title_ru": "Президент Ирана предложил создать формат 'СНГ+1' с участием Ирана",
+      "title_en": "Pezeshkian предложил создать формат 'СНГ+1' с участием Ирана",
+      "date": "2026-10-09",
+      "summary": "Президент Ирана Масуд Пезешкиан предложил создать формат 'СНГ+1' с участием Ирана. Инициатива озвучена на саммите Содружества Независимых Государств.",
+      "category": "politics",
+      "region": "Европа",
+      "sources": [
+        "www.belta.by"
+      ],
+      "links": [
+        "https://belta.by/politics/view/pezeshkian-predlozhil-sozdat-format-sng1-s-uchastiem-irana-805166-2026/"
+      ],
+      "perspective": "Иран предлагает расширить формат сотрудничества с постсоветскими странами",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-10-09",
+      "id": "8f66bb8e082a"
+    },
+    {
+      "title_ru": "Президент Казахстана предложил сформировать портфель флагманских проектов СНГ на 2027-2030 годы",
+      "title_en": "Tokayev предложил сформировать портфель флагманских проектов СНГ на 2027-2030 годы",
+      "date": "2026-10-09",
+      "summary": "Президент Казахстана Касым-Жомарт Токаев предложил сформировать портфель флагманских проектов Содружества Независимых Государств на период 2027-2030 годов. Инициатива озвучена на саммите СНГ.",
+      "category": "politics",
+      "region": "Европа",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/ekonomika/28198195"
+      ],
+      "perspective": "Казахстан предлагает конкретный план экономического сотрудничества в рамках СНГ",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-10-09",
+      "id": "3c0be0deaa28"
+    },
+    {
+      "title_ru": "Во Франции продолжаются протесты студентов на фоне долгового кризиса",
+      "title_en": "France's debt crisis and high school protests draw global attention",
+      "date": "2026-10-09",
+      "summary": "Во Франции продолжаются протесты студентов, которые привлекают международное внимание. Ситуация развивается на фоне рекордного государственного долга страны.",
+      "category": "politics",
+      "region": "Европа",
+      "sources": [
+        "www.lemonde.fr"
+      ],
+      "links": [
+        "https://www.lemonde.fr/en/international/article/2026/10/09/between-record-debt-and-high-school-protests-france-s-situation-draws-global-attention_6758409_4.html"
+      ],
+      "perspective": "Франция сталкивается с социальными протестами на фоне экономических проблем",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-10-09",
+      "id": "2848c30fa42c"
+    },
+    {
+      "title_ru": "Инфляция на многие товары повседневного спроса полностью обусловлена тарифами, заявили в ФРС Нью-Йорка",
+      "title_en": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+      "date": "2026-10-08",
+      "summary": "Экономисты Федерального резервного банка Нью-Йорка заявили, что инфляция на многие товары повседневного спроса полностью обусловлена тарифами. Исследование охватывает период после введения торговых ограничений.",
+      "category": "economy",
+      "region": "Мир",
+      "sources": [
+        "www.cnbc.com"
+      ],
+      "links": [
+        "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-08",
+      "id": "f35210682af3"
+    },
+    {
+      "title_ru": "Центробанк Индии впервые с 2023 года повысил процентные ставки",
+      "title_en": "India's central bank hikes rates for the first time since 2023 as inflation risks build",
+      "date": "2026-10-07",
+      "summary": "Резервный банк Индии повысил ключевую процентную ставку впервые с 2023 года. Решение принято на фоне роста инфляционных рисков в экономике страны.",
+      "category": "economy",
+      "region": "Южная и Юго-Восточная Азия",
+      "sources": [
+        "www.cnbc.com"
+      ],
+      "links": [
+        "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-07",
+      "id": "0f124d76d2e0"
+    },
+    {
+      "title_ru": "Ученые сравнили сон людей и собак и выяснили, кто первым нарушает ночной покой",
+      "title_en": "Uchenye sravnili son lyudey i sobak i vyyasnili, kto pervym narushaet nochnoy pokoy",
+      "date": "2026-10-09",
+      "summary": "Российские ученые провели исследование, сравнив сон людей и собак. Исследование показало, кто из них чаще нарушает ночной покой.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/biology/son-lyudei-i-sobak"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-09",
+      "id": "394df393af44"
+    },
+    {
+      "title_ru": "Президент России выступил за сохранение экосистемы Каспийского моря",
+      "title_en": "Putin zayavil, chto Rossiya vystupaet za sokhranenie ekosistemy Kaspiya",
+      "date": "2026-10-09",
+      "summary": "Президент России Владимир Путин заявил, что Россия выступает за сохранение экосистемы Каспийского моря. Он подчеркнул важность межгосударственного взаимодействия по этому вопросу.",
+      "category": "statement",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20261009/rossija-2123459456.html"
+      ],
+      "perspective": "Россия позиционирует себя как ответственного участника регионального экологического сотрудничества",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-10-09",
+      "id": "004b336a8b91"
     }
   ],
   "_stats": {
-    "total_tokens": 217613,
-    "total_cost": 13.822479999999999
+    "total_tokens": 238549,
+    "total_cost": 15.148679999999999
   }
 }
