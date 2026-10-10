@@ -1,367 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "В Южной Корее запущена реформированная прокуратура и новое следственное агентство",
-      "title_en": "S. Korea launches scaled-down prosecution, new investigation agency in major reform",
-      "date": "2026-10-02",
-      "summary": "В Южной Корее 2 октября вступила в силу масштабная реформа правоохранительной системы. Была создана новая независимая следственная служба, а полномочия прокуратуры сокращены.",
-      "category": "politics",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261002001551315"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "68e67b3b9912"
-    },
-    {
-      "title_ru": "В Венгрии парламент заблокирован после передачи его охраны антитеррористическому подразделению",
-      "title_en": "Parliament locks down as anti-terror unit takes over its security",
-      "date": "2026-10-02",
-      "summary": "Парламент Венгрии в Будапеште был заблокирован 2 октября после того, как его охрану передали антитеррористическому подразделению. Причины передачи не уточняются.",
-      "category": "politics",
-      "region": "Венгрия",
-      "sources": [
-        "budapesttimes.hu"
-      ],
-      "links": [
-        "https://www.budapesttimes.hu/hungary/parliament-locks-down-as-anti-terror-unit-takes-over-its-security/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "d4552fe242f3"
-    },
-    {
-      "title_ru": "Студенческие протесты во Франции привели к закрытию 400 школ",
-      "title_en": "France closes 400 schools as education protests spiral into unrest",
-      "date": "2026-10-02",
-      "summary": "Во Франции 2 октября были закрыты 400 школ из-за продолжающихся студенческих протестов против ухудшения состояния учебных заведений и нехватки ресурсов. Премьер-министр провел экстренное совещание по кризису.",
-      "category": "conflicts",
-      "region": "Франция",
-      "sources": [
-        "www.dailysabah.com"
-      ],
-      "links": [
-        "https://www.dailysabah.com/world/europe/france-closes-400-schools-as-education-protests-spiral-into-unrest"
-      ],
-      "perspective": "Протестующие требуют улучшения условий обучения, власти ссылаются на угрозу общественному порядку",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "2203e45f13c7"
-    },
-    {
-      "title_ru": "ВС РФ взяли населенные пункты Грачевка и Сердобино в Харьковской области",
-      "title_en": "Russian army takes Kharkiv region's Grachevka and Serdobino",
-      "date": "2026-10-02",
-      "summary": "Министерство обороны России сообщило 2 октября о взятии населенных пунктов Грачевка и Сердобино в Харьковской области. За неделю в зоне действий группировки 'Север' ВСУ потеряли более 2000 военных.",
-      "category": "svo",
-      "region": "Украина",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8993769"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "1f43d98e78b7"
-    },
-    {
-      "title_ru": "В Белгородской области заявили о применении ВСУ химического вещества при ударах",
-      "title_en": "Belgorod region reports use of chemical substance by Ukrainian forces in strikes",
-      "date": "2026-10-02",
-      "summary": "Власти Белгородской области России заявили 2 октября, что Вооруженные силы Украины применяют химическое вещество при ударах по региону. Также сообщается об использовании боеприпасов с вольфрамовыми шариками.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/proisshestviya/28175423"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "d60da08075ad"
-    },
-    {
-      "title_ru": "Минобороны РФ сообщило о поражении 17 судов с вооружением для ВСУ",
-      "title_en": "Russian Defense Ministry reports destruction of 17 vessels carrying weapons for Ukrainian forces",
-      "date": "2026-10-02",
-      "summary": "Министерство обороны России заявило 2 октября о поражении 17 судов, перевозивших вооружение для Вооруженных сил Украины. Информация была опубликована в сводке по специальной военной операции.",
-      "category": "svo",
-      "region": "Украина",
-      "sources": [
-        "rssexport.rbc.ru"
-      ],
-      "links": [
-        "https://www.rbc.ru/politics/28/09/2026/6aba9a601912c22506ca2de6"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "78611372a4d7"
-    },
-    {
-      "title_ru": "ЕС утвердил выделение 45 млрд евро для Украины",
-      "title_en": "EU locks in €45bn for Ukraine as it tells other allies to step up",
-      "date": "2026-10-02",
-      "summary": "Европейский союз 2 октября утвердил выделение 45 млрд евро для Украины. Одновременно ЕС призвал другие страны-союзники увеличить свою поддержку.",
-      "category": "politics",
-      "region": "Европа",
-      "sources": [
-        "budapesttimes.hu"
-      ],
-      "links": [
-        "https://www.budapesttimes.hu/world/eu-locks-in-e45bn-for-ukraine-as-it-tells-other-allies-to-step-up/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "53398686644a"
-    },
-    {
-      "title_ru": "В Венгрии опубликованы имена 50 000 секретных информаторов",
-      "title_en": "50,000 secret informer names go public — and some may still be active",
-      "date": "2026-10-02",
-      "summary": "В Венгрии 2 октября были обнародованы имена 50 000 секретных информаторов. По данным источников, некоторые из них могут продолжать свою деятельность.",
-      "category": "politics",
-      "region": "Венгрия",
-      "sources": [
-        "budapesttimes.hu"
-      ],
-      "links": [
-        "https://www.budapesttimes.hu/hungary/50000-secret-informer-names-go-public-and-some-may-still-be-active/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "fa7af562edd5"
-    },
-    {
-      "title_ru": "В Венгрии ухудшился дефицит бюджета из-за опережающих расходов",
-      "title_en": "Spending races ahead of revenues as budget deficit deteriorates",
-      "date": "2026-10-02",
-      "summary": "В Венгрии зафиксировано ухудшение дефицита бюджета по состоянию на 2 октября. Расходы опережают доходы, что приводит к росту бюджетного дефицита.",
-      "category": "economy",
-      "region": "Венгрия",
-      "sources": [
-        "budapesttimes.hu"
-      ],
-      "links": [
-        "https://www.budapesttimes.hu/economy/spending-races-ahead-of-revenues-as-budget-deficit-deteriorates/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "91cc8ad39341"
-    },
-    {
-      "title_ru": "США направили дополнительные системы Пэтриот в Саудовскую Аравию и Катар",
-      "title_en": "US sends two additional Patriot batteries to Saudi Arabia, Qatar — Axios",
-      "date": "2026-10-02",
-      "summary": "Соединенные Штаты направили две дополнительные батареи зенитно-ракетных комплексов Patriot в Саудовскую Аравию и Катар. Информация поступила от Axios 2 октября.",
-      "category": "conflicts",
-      "region": "Ближний Восток",
-      "sources": [
-        "tass.com"
-      ],
-      "links": [
-        "https://tass.com/world/2196417"
-      ],
-      "perspective": "США укрепляют оборону союзников, Иран рассматривает это как эскалацию",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "c8bd40a8fad9"
-    },
-    {
-      "title_ru": "В Йемене сбит саудовский беспилотник, проведены авиаудары по северным районам",
-      "title_en": "Yemen downs Saudi drone as Riyadh begs West, UAE for urgent help",
-      "date": "2026-10-02",
-      "summary": "Йеменские силы сообщили 2 октября о сбитии саудовского разведывательного беспилотника. Одновременно саудовская авиация нанесла удары по районам на севере Йемена.",
-      "category": "conflicts",
-      "region": "Йемен",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/09/30/777308/Yemen-Ansarullah-shoot-down-Saudi-reconaissance-drone-Sa-ada--Hazam-al-Asad"
-      ],
-      "perspective": "Йеменские силы заявляют о военных успехах, Саудовская Аравия продолжает военные операции",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "3df980f627b3"
-    },
-    {
-      "title_ru": "В ЮАР произошли два массовых расстрела с гибелью не менее 28 человек",
-      "title_en": "Two mass shootings in South Africa leave at least 28 dead",
-      "date": "2026-10-02",
-      "summary": "В Южно-Африканской Республике произошли два массовых расстрела в Йоханнесбурге и Кейптауне. В результате инцидентов погибло не менее 28 человек.",
-      "category": "life",
-      "region": "ЮАР",
-      "sources": [
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/world/article-south-africa-mass-shooting-johannesburg-cape-town/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "40765144cd48"
-    },
-    {
-      "title_ru": "Во Франции возникла новая тревога по поводу противозачаточных таблеток",
-      "title_en": "Fresh alert on contraceptive pill worries French women, but doctors warn against rushed decisions",
-      "date": "2026-10-02",
-      "summary": "Во Франции 1 октября была объявлена новая тревога по поводу безопасности противозачаточных таблеток. Врачи предупредили женщин о недопустимости поспешных решений без консультации с медиками.",
-      "category": "life",
-      "region": "Франция",
-      "sources": [
-        "www.lemonde.fr"
-      ],
-      "links": [
-        "https://www.lemonde.fr/en/france/article/2026/10/01/fresh-alert-on-contraceptive-pill-worries-french-women-but-doctors-warn-against-rushed-decisions_6758150_7.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "e74777307d70"
-    },
-    {
-      "title_ru": "В мире завершено строительство первой усовершенствованной геотермальной электростанции",
-      "title_en": "World's first enhanced geothermal power plant completed in just 23 months",
-      "date": "2026-10-02",
-      "summary": "В мире завершено строительство первой в мире усовершенствованной геотермальной электростанции. Строительство объекта заняло 23 месяца.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "7fc8cfa5436b"
-    },
-    {
-      "title_ru": "Губернатор Калифорнии наложил вето на закон о запрете 'очков-извращенцев'",
-      "title_en": "California governor vetoes bill banning use of 'pervert glasses' to secretly record people",
-      "date": "2026-10-02",
-      "summary": "Губернатор Калифорнии наложил вето на законопроект, запрещающий использование так называемых 'очков-извращенцев' для тайной записи людей. Решение было принято 1 октября.",
-      "category": "tech",
-      "region": "США",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "6c10b71b0562"
-    },
-    {
-      "title_ru": "В Парагвае запущен второй спутник GuaraníSat-2 с помощью SpaceX",
-      "title_en": "Paraguay's Second Satellite, GuaraníSat-2, Reaches Orbit via SpaceX",
-      "date": "2026-10-02",
-      "summary": "Второй парагвайский спутник GuaraníSat-2 был выведен на орбиту с помощью ракеты-носителя SpaceX. Запуск состоялся 2 октября.",
-      "category": "tech",
-      "region": "Парагвай",
-      "sources": [
-        "riotimesonline.com"
-      ],
-      "links": [
-        "https://www.riotimesonline.com/paraguay-guaranisat-2-satellite-space-2026/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "82b612b8a833"
-    },
-    {
-      "title_ru": "Лукашенко заявил о приверженности Минска интересам ЕАЭС",
-      "title_en": "Lukashenko: Minsk will never betray interests of EAEU",
-      "date": "2026-10-02",
-      "summary": "Президент Белоруссии Александр Лукашенко заявил 2 октября, что Минск никогда не предаст интересы Евразийского экономического союза. Заявление было сделано на встрече с премьер-министрами стран ЕАЭС.",
-      "category": "statement",
-      "region": "Белоруссия",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/ekonomika/28175659"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "f17dbc6523e4"
-    },
-    {
-      "title_ru": "G7 согласовали выпуск 100 млн баррелей нефти для стабилизации рынка",
-      "title_en": "G7 nations agree to release 100 million barrels of oil, including diesel, amid energy crunch",
-      "date": "2026-10-02",
-      "summary": "Страны G7 договорились выпустить 100 млн баррелей нефти из стратегических резервов, включая дизельное топливо. Решение принято для стабилизации мирового энергетического рынка.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "www.cbc.ca"
-      ],
-      "links": [
-        "https://www.cbc.ca/news/business/g7-trump-diesel-reserve-release-9.7366871?cmp=rss"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "cce431ff2b56"
-    },
-    {
-      "title_ru": "OPEC+ отложил пересмотр квот из-за войны в Иране",
-      "title_en": "OPEC+ reportedly delays capacity review after Iran war disrupts oil projects",
-      "date": "2026-10-02",
-      "summary": "Картель OPEC+ отложил пересмотр производственных мощностей стран-участниц. Решение связано с нарушением нефтяных проектов из-за войны в Иране.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/business/article-opec-reportedly-delays-quota-review-after-iran-war-disrupts-oil/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "8cbf740cae8f"
-    },
-    {
       "title_ru": "Samsung начала массовое производство процессора Exynos 2700",
       "title_en": "Samsung reportedly starts mass production of the Exynos 2700 for the Galaxy S27 series",
       "date": "2026-10-03",
@@ -381,25 +20,6 @@
       "id": "21f60fc600a1"
     },
     {
-      "title_ru": "Папа Лев XIV высказался против ИИ-искусства",
-      "title_en": "Pope Leo XIV is not a fan of AI-generated art",
-      "date": "2026-10-02",
-      "summary": "Папа Римский Лев XIV выразил критическое отношение к искусству, созданному с помощью искусственного интеллекта. Заявление сделано в контексте обсуждения технологий в культуре.",
-      "category": "ai",
-      "region": "Ватикан",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "d1139ba5b957"
-    },
-    {
       "title_ru": "В Австралии автомобиль врезался в толпу болельщиков, 10 пострадавших",
       "title_en": "Ten people injured, P-plater arrested after car crashes into Newcastle Knights fans",
       "date": "2026-10-03",
@@ -417,25 +37,6 @@
       "is_development": false,
       "first_reported": "2026-10-03",
       "id": "a3fdfa50568f"
-    },
-    {
-      "title_ru": "В США рынок труда замедлился в сентябре",
-      "title_en": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
-      "date": "2026-10-02",
-      "summary": "В США создано 29 тысяч рабочих мест в сентябре, что ниже ожиданий. Уровень безработицы вырос до 4,2%, что указывает на замедление рынка труда.",
-      "category": "life",
-      "region": "США",
-      "sources": [
-        "www.cnbc.com"
-      ],
-      "links": [
-        "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "47c9f2809735"
     },
     {
       "title_ru": "В Великобритании предъявлены обвинения по делу о теракте против Фараджа",
@@ -514,44 +115,6 @@
       "id": "54f0a7fa1431"
     },
     {
-      "title_ru": "Российские компании утвердили выплату дивидендов",
-      "title_en": "Акционеры «Т-Технологий» утвердили дивиденды в размере 4,7 руб. на акцию",
-      "date": "2026-10-02",
-      "summary": "Акционеры компании «Т-Технологии» утвердили выплату дивидендов в размере 4,7 рубля на акцию. Решение принято на общем собрании акционеров.",
-      "category": "economy",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9004969"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "557a19d7c999"
-    },
-    {
-      "title_ru": "НОВАТЭК выплатит дивиденды за первое полугодие",
-      "title_en": "НОВАТЭК выплатит дивиденды за первое полугодие в размере 35,5 руб. на акцию",
-      "date": "2026-10-02",
-      "summary": "Компания НОВАТЭК утвердила выплату дивидендов за первое полугодие в размере 35,5 рубля на акцию. Выплата будет произведена акционерам.",
-      "category": "economy",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/8992031"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "ee2b7db5e76e"
-    },
-    {
       "title_ru": "Трамп предложил назвать мост в Алабаме в его честь",
       "title_en": "Трамп предложил назвать мост в Алабаме в его честь",
       "date": "2026-10-03",
@@ -571,44 +134,6 @@
       "id": "305d00b3a81a"
     },
     {
-      "title_ru": "Трамп заявил, что США не будут запрещать экспорт дизельного топлива",
-      "title_en": "Трамп: США не будут вводить запрет на экспорт дизельного топлива",
-      "date": "2026-10-02",
-      "summary": "Президент США Дональд Трамп заявил, что администрация не будет вводить запрет на экспорт дизельного топлива. Решение принято после соглашения G7 о выпуске нефтяных резервов.",
-      "category": "politics",
-      "region": "США",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9005247"
-      ],
-      "perspective": "Администрация Трампа позиционирует это как меру поддержки энергетического рынка, в то время как критики могут указывать на влияние на внутренние цены.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "0ff3bc459faa"
-    },
-    {
-      "title_ru": "Иран раскритиковал Канаду за обращение с коренными народами",
-      "title_en": "Iran strongly criticizes Canada over treatment of Indigenous children",
-      "date": "2026-10-02",
-      "summary": "Министерство иностранных дел Ирана подвергло резкой критике Канаду за обращение с детьми коренных народов. Заявление сделано в контексте Дня правды и примирения.",
-      "category": "politics",
-      "region": "Иран",
-      "sources": [
-        "en.irna.ir"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86280966/Iran-strongly-criticizes-Canada-over-treatment-of-Indigenous"
-      ],
-      "perspective": "Иран использует это для критики западных стран, в то время как Канада может рассматривать это как вмешательство во внутренние дела.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "7f743148a059"
-    },
-    {
       "title_ru": "Нетаньяху связал инцидент Flydubai с Ираном перед выборами",
       "title_en": "Netanyahu connecting Flydubai incident to Iran to manipulate upcoming election: Report",
       "date": "2026-10-03",
@@ -626,25 +151,6 @@
       "is_development": false,
       "first_reported": "2026-10-03",
       "id": "5454f778d383"
-    },
-    {
-      "title_ru": "В Турции заблокированы более 1270 аккаунтов в X в сентябре",
-      "title_en": "Turkish authorities issued blocking orders for at least 1,270 X accounts in September",
-      "date": "2026-10-02",
-      "summary": "Турецкие власти издали приказы о блокировке не менее 1270 аккаунтов в социальной сети X в сентябре. Решение принято в рамках регулирования контента.",
-      "category": "politics",
-      "region": "Турция",
-      "sources": [
-        "www.turkishminute.com"
-      ],
-      "links": [
-        "https://www.turkishminute.com/2026/10/02/turkish-authorities-issued-blocking-orders-for-at-least-1270-x-accounts-in-september/"
-      ],
-      "perspective": "Власти Турции позиционируют это как меру безопасности, в то время как правозащитники могут критиковать ограничение свободы слова.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "11bb008e5246"
     },
     {
       "title_ru": "Ученые нашли участок мозга, важный для успешной беременности",
@@ -740,25 +246,6 @@
       "is_development": false,
       "first_reported": "2026-10-04",
       "id": "e7a44e2fc369"
-    },
-    {
-      "title_ru": "Сенатор США Берни Сандерс внес законопроект о запрете использования Flock федеральным правительством",
-      "title_en": "Sanders introduces bill to ban the federal government from using Flock",
-      "date": "2026-10-02",
-      "summary": "Сенатор Берни Сандерс внес законопроект, запрещающий федеральным агентствам США использовать систему распознавания автомобильных номеров Flock. Ранее федеральный судья назвал эту систему \"неразборчивым массовым наблюдением\".",
-      "category": "politics",
-      "region": "США",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/"
-      ],
-      "perspective": "Законопроект направлен на защиту приватности граждан",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "c93f1d3c8897"
     },
     {
       "title_ru": "Зонд Juice использовал гравитацию Земли для разгона на пути к Юпитеру",
@@ -861,23 +348,6 @@
       "is_development": false,
       "first_reported": "2026-10-05",
       "id": "64d0cb8d1ed9"
-    },
-    {
-      "title_ru": "В ЮАР произошли массовые расстрелы из-за нелегального оружия",
-      "title_en": "Mass Shootings Surge in South Africa as Illegal Guns Flood Streets",
-      "date": "2026-10-02",
-      "summary": "В Южной Африке резко возросло количество массовых расстрелов из-за распространения нелегального оружия. По данным полиции, на улицах циркулируют тысячи незарегистрированных стволов.",
-      "category": "life",
-      "region": "ЮАР",
-      "sources": [
-        "rss.nytimes.com"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/10/02/world/africa/south-africa-mass-shootings-guns.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-02",
-      "id": "63a841fe7f82"
     },
     {
       "title_ru": "В Турции инфляция впервые за 5 лет опустилась ниже 30%",
@@ -2124,10 +1594,318 @@
       "is_development": false,
       "first_reported": "2026-10-09",
       "id": "004b336a8b91"
+    },
+    {
+      "title_ru": "Полиция расширяет группу по расследованию взлома финансовых учреждений в Южной Корее",
+      "title_en": "Police expand team investigating recent hacking of financial institutions",
+      "date": "2026-10-09",
+      "summary": "Полиция Южной Кореи расширила состав группы, расследующей недавний взлом финансовых учреждений. Расследование продолжается.",
+      "category": "tech",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261009003600315"
+      ],
+      "first_reported": "2026-10-09",
+      "id": "e9c8765004e8"
+    },
+    {
+      "title_ru": "Глава SK обещает ускорить строительство нового кластера чипов на юго-западе",
+      "title_en": "SK chief vows to speed up construction of new chip cluster in southwest",
+      "date": "2026-10-09",
+      "summary": "Глава южнокорейской группы компаний SK пообещал ускорить строительство нового кластера по производству чипов в юго-западном регионе страны. Проект направлен на развитие полупроводниковой промышленности.",
+      "category": "tech",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261009004000320"
+      ],
+      "first_reported": "2026-10-09",
+      "id": "13f2cda7b9dd"
+    },
+    {
+      "title_ru": "Иран предлагает долгосрочный план действий по падению уровня Каспийского моря",
+      "title_en": "Iran proposes long-term action plan to address falling water level of Caspian Sea",
+      "date": "2026-10-09",
+      "summary": "Иран предложил долгосрочный план действий для решения проблемы падения уровня воды в Каспийском море. План направлен на экологическую стабилизацию региона.",
+      "category": "tech",
+      "region": "Иран",
+      "sources": [
+        "en.irna.ir"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86287637/Iran-proposes-long-term-action-plan-to-address-falling-water"
+      ],
+      "first_reported": "2026-10-09",
+      "id": "9210a410fa1c"
+    },
+    {
+      "title_ru": "ООН предупреждает о технологии для чтения мыслей граждан",
+      "title_en": "U.N. Warns Against Technology Used to Read Citizens’ Minds",
+      "date": "2026-10-09",
+      "summary": "Организация Объединенных Наций выступила с предупреждением о технологии, используемой для чтения мыслей граждан. Заявление касается потенциальных рисков для прав человека.",
+      "category": "ai",
+      "region": "Мир",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/10/08/world/europe/united-nations-technology-warning.html"
+      ],
+      "first_reported": "2026-10-09",
+      "id": "6ceaaf1e932a"
+    },
+    {
+      "title_ru": "Глава Ростелекома высказался о рисках атак ИИ",
+      "title_en": "Head of Rostelecom hopes humanity will calculate risks from AI attacks",
+      "date": "2026-10-10",
+      "summary": "Глава компании Ростелеком заявил, что надеется на способность человечества просчитать риски, связанные с возможными атаками искусственного интеллекта. Высказывание сделано в контексте общих технологических угроз.",
+      "category": "ai",
+      "region": "Россия",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/ekonomika/28201377"
+      ],
+      "first_reported": "2026-10-10",
+      "id": "58d1a7aac5ec"
+    },
+    {
+      "title_ru": "В Венгрии бюджет предусматривает больше средств для больниц",
+      "title_en": "Magyar’s budget: more for hospitals, less patience for the oligarchs",
+      "date": "2026-10-10",
+      "summary": "Правительство Венгрии представило проект бюджета, который предусматривает увеличение финансирования больниц. Одновременно документ содержит меры по ужесточению контроля над олигархами.",
+      "category": "life",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/hungary/magyars-budget-more-for-hospitals-less-patience-for-the-oligarchs/"
+      ],
+      "first_reported": "2026-10-10",
+      "id": "174ed71f23f2"
+    },
+    {
+      "title_ru": "Пять человек пострадали в ДТП в Вологодской области",
+      "title_en": "Five people injured in road accident in Vologda region",
+      "date": "2026.10-10",
+      "summary": "В Вологодской области произошло дорожно-транспортное происшествие, в результате которого пострадали пять человек. Информация подтверждена местными властями.",
+      "category": "life",
+      "region": "Россия",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/28201479"
+      ],
+      "first_reported": "2026.10-10",
+      "id": "6a433d7a6e57"
+    },
+    {
+      "title_ru": "Хуситы атаковали аэропорт Эр-Рияда, погибли три человека",
+      "title_en": "Three killed in attacks on Riyadh airport as Iran-backed Houthis step up strikes on Saudi Arabia",
+      "date": "2026-10-09",
+      "summary": "Боевики хуситского движения Йемена атаковали международный аэропорт Эр-Рияда. В результате нападения погибли три человека.",
+      "category": "conflicts",
+      "region": "Саудовская Аравия",
+      "perspective": "Хуситы заявляют об атаке как об ответе на действия саудовской коалиции. Саудовская Аравия и её союзники осуждают нападение как террористический акт.",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/article-saudi-houthi-attacks-riyadh-airport/"
+      ],
+      "first_reported": "2026-10-09",
+      "id": "384ac86f617a"
+    },
+    {
+      "title_ru": "Иранские силы предупредили суда о нарушении маршрутов в Ормузском проливе",
+      "title_en": "IRGC warns vessels against violating designated routes in Strait of Hormuz",
+      "date": "2026-10-09",
+      "summary": "Корпус стражей исламской революции Ирана предупредил суда о недопустимости нарушения установленных маршрутов в Ормузском проливе. Заявление сделано на фоне напряженности в регионе.",
+      "category": "conflicts",
+      "region": "Иран",
+      "perspective": "Иран заявляет о праве контролировать судоходство в своих территориальных водах. США и их союзники рассматривают такие действия как угрозу свободе судоходства.",
+      "perspective_type": "assumed",
+      "sources": [
+        "en.irna.ir"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86287769/IRGC-warns-vessels-against-violating-designated-routes-in-Strait"
+      ],
+      "first_reported": "2026-10-09",
+      "id": "2b581687c733"
+    },
+    {
+      "title_ru": "Минобороны России сообщило об ударе по объектам энергетики, используемым ВСУ",
+      "title_en": "Russian Defense Ministry: Russian Armed Forces hit energy facilities used by Ukrainian Armed Forces",
+      "date": "2026-10-10",
+      "summary": "Министерство обороны России заявило, что Вооруженные Силы РФ нанесли удар по объектам энергетики, используемым в интересах Вооруженных Сил Украины. Удар был нанесен в ходе специальной военной операции.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9023751"
+      ],
+      "first_reported": "2026-10-10",
+      "id": "1e83a1574f54"
+    },
+    {
+      "title_ru": "ВС России сорвали попытки деблокирования окруженных подразделений ВСУ",
+      "title_en": "Russian Armed Forces thwart attempts to unblock surrounded Ukrainian Armed Forces units",
+      "date": "2026-10-10",
+      "summary": "Вооруженные Силы России сорвали попытки деблокирования окруженных подразделений Вооруженных Сил Украины. Об этом сообщило Министерство обороны РФ.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20261010/popytki-2123652581"
+      ],
+      "first_reported": "2026-10-10",
+      "id": "1082896182f1"
+    },
+    {
+      "title_ru": "Минобороны России сообщило о потерях ВСУ в зоне действий группировки 'Центр'",
+      "title_en": "Russian Defense Ministry reports Ukrainian Armed Forces losses in 'Center' group area",
+      "date": "2026-10-10",
+      "summary": "Министерство обороны России предоставило данные о потерях Вооруженных Сил Украины в зоне действий группировки 'Центр'. Цифры потерь не уточняются.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20261010/vsu-2123653456.html"
+      ],
+      "first_reported": "2026-10-10",
+      "id": "e48647f52314"
+    },
+    {
+      "title_ru": "Глава немецкого региона назвал российский газ столпом благополучия Германии",
+      "title_en": "Head of German region calls Russian gas a pillar of Germany's prosperity",
+      "date": "2026-10-10",
+      "summary": "Глава одной из федеральных земель Германии заявил, что газ из России является столпом благополучия страны. Высказывание сделано в контексте обсуждения энергетической безопасности.",
+      "category": "economy",
+      "region": "Германия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20261010/gaz-2123647320.html"
+      ],
+      "first_reported": "2026-10-10",
+      "id": "2c013e167fa7"
+    },
+    {
+      "title_ru": "Южная Корея и Египет договорились о стратегическом партнерстве",
+      "title_en": "Lee, Egyptian president agree to elevate bilateral ties to strategic partnership",
+      "date": "2026-10-08",
+      "summary": "Президент Южной Кореи и президент Египта договорились о повышении уровня двусторонних отношений до стратегического партнерства. Соглашение касается экономического и политического сотрудничества.",
+      "category": "economy",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261008001252315"
+      ],
+      "first_reported": "2026-10-08",
+      "id": "5e7f0e0be3b6"
+    },
+    {
+      "title_ru": "Индия и провинция Мпумаланга развивают торговые отношения",
+      "title_en": "India–Mpumalanga: Building on Trade, Opening New Frontiers",
+      "date": "2026-10-09",
+      "summary": "Индия и южноафриканская провинция Мпумаланга развивают торговые отношения, открывая новые направления сотрудничества. Речь идет о расширении экономических связей.",
+      "category": "economy",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/thought-leader/the-diplomat/2026-10-09-india-mpumalanga-building-on-trade-opening-new-frontiers/"
+      ],
+      "first_reported": "2026-10-09",
+      "id": "f390dc08b169"
+    },
+    {
+      "title_ru": "Бывший глава немецкой разведки арестован по подозрению в шпионаже",
+      "title_en": "Former German spy chief arrested for attempted treason, espionage",
+      "date": "2026-10-06",
+      "summary": "Бывший глава немецкой разведки арестован по подозрению в государственной измене и шпионаже. Расследование ведется федеральной прокуратурой Германии.",
+      "category": "politics",
+      "region": "Германия",
+      "sources": [
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/article-former-german-spy-chief-august-hanning-arrested-attempted-treason/"
+      ],
+      "first_reported": "2026-10-06",
+      "id": "5d7345c251f2"
+    },
+    {
+      "title_ru": "Северная Корея осудила доклад США о торговле людьми как провокацию",
+      "title_en": "N. Korea slams U.S. human trafficking report as grave provocation",
+      "date": "2026-10-10",
+      "summary": "Северная Корея осудила ежегодный доклад Государственного департамента США о торговле людьми, назвав его серьезной провокацией. Заявление сделано Министерством иностранных дел КНДР.",
+      "category": "politics",
+      "region": "Северная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261010000400315"
+      ],
+      "first_reported": "2026-10-10",
+      "id": "f3a81b4709ec"
+    },
+    {
+      "title_ru": "В Южной Корее возникли опасения по альянсу с США из-за игнорирования разведки",
+      "title_en": "Spy agency snub raises U.S. alliance concerns in S. Korea",
+      "date": "2026-10-09",
+      "summary": "В Южной Корее возникли опасения по поводу альянса с США после того, как американская сторона проигнорировала южнокорейскую разведку в ходе одного из инцидентов. Ситуация обсуждается в политических кругах.",
+      "category": "politics",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261009003551315"
+      ],
+      "first_reported": "2026-10-09",
+      "id": "b9734b7f9103"
+    },
+    {
+      "title_ru": "Турция осудила атаки хуситов на саудовские аэропорты",
+      "title_en": "Türkiye condemns Houthi attacks on Saudi airports, urges restraint",
+      "date": "2026-10-10",
+      "summary": "Турция осудила атаки хуситов на аэропорты Саудовской Аравии и призвала к сдержанности. Заявление сделано Министерством иностранных дел Турции.",
+      "category": "politics",
+      "region": "Турция",
+      "sources": [
+        "www.dailysabah.com"
+      ],
+      "links": [
+        "https://www.dailysabah.com/politics/diplomacy/turkiye-condemns-houthi-attacks-on-saudi-airports-urges-restraint"
+      ],
+      "first_reported": "2026-10-10",
+      "id": "9d7962e475b0"
     }
   ],
   "_stats": {
-    "total_tokens": 238549,
-    "total_cost": 15.148679999999999
+    "total_tokens": 256612,
+    "total_cost": 16.30192
   }
 }
