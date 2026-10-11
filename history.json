@@ -1,158 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Samsung начала массовое производство процессора Exynos 2700",
-      "title_en": "Samsung reportedly starts mass production of the Exynos 2700 for the Galaxy S27 series",
-      "date": "2026-10-03",
-      "summary": "Компания Samsung начала массовое производство процессора Exynos 2700 для смартфонов Galaxy S27. Чип будет использоваться в новых флагманских устройствах.",
-      "category": "tech",
-      "region": "Южная Корея",
-      "sources": [
-        "www.gizmochina.com"
-      ],
-      "links": [
-        "https://www.gizmochina.com/2026/10/03/samsung-exynos-2700-mass-production-galaxy-s27/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-03",
-      "id": "21f60fc600a1"
-    },
-    {
-      "title_ru": "В Австралии автомобиль врезался в толпу болельщиков, 10 пострадавших",
-      "title_en": "Ten people injured, P-plater arrested after car crashes into Newcastle Knights fans",
-      "date": "2026-10-03",
-      "summary": "В Ньюкасле автомобиль врезался в толпу болельщиков регбийного клуба Newcastle Knights. В результате инцидента пострадали 10 человек, водитель задержан.",
-      "category": "life",
-      "region": "Австралия",
-      "sources": [
-        "www.smh.com.au"
-      ],
-      "links": [
-        "https://www.smh.com.au/national/nsw/newcastle-crash-multiple-people-injured-after-car-crashes-into-knights-fans-20261003-p612jm.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-03",
-      "id": "a3fdfa50568f"
-    },
-    {
-      "title_ru": "В Великобритании предъявлены обвинения по делу о теракте против Фараджа",
-      "title_en": "Widdecombe suspect charged with planning terror act against Farage",
-      "date": "2026-10-03",
-      "summary": "В Великобритании предъявлены обвинения подозреваемому в планировании теракта против политика Найджела Фараджа. Дело связано с подготовкой террористического акта.",
-      "category": "conflicts",
-      "region": "Великобритания",
-      "sources": [
-        "feeds.bbci.co.uk"
-      ],
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss"
-      ],
-      "perspective": "Власти Великобритании рассматривают это как предотвращение террористической угрозы, в то время как обвиняемый может отрицать вину.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-10-03",
-      "id": "48fae41076bc"
-    },
-    {
-      "title_ru": "В Великобритании обвинили двух иранцев в подготовке теракта против еврейской общины",
-      "title_en": "Two Iranians in UK charged over terror plot targeting Manchester's Jewish community",
-      "date": "2026-10-03",
-      "summary": "В Великобритании предъявлены обвинения двум гражданам Ирана в подготовке террористического акта против еврейской общины Манчестера. Подозреваемые арестованы.",
-      "category": "conflicts",
-      "region": "Великобритания",
-      "sources": [
-        "timesofindia.indiatimes.com"
-      ],
-      "links": [
-        "https://timesofindia.indiatimes.com/world/uk/two-iranians-in-uk-charged-over-terror-plot-targeting-manchesters-jewish-community/articleshow/134654011.cms"
-      ],
-      "perspective": "Британские власти рассматривают это как предотвращение террористической угрозы, в то время как Иран может отрицать причастность.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-10-03",
-      "id": "6fac19c3216b"
-    },
-    {
-      "title_ru": "МАГАТЭ получило данные об атаках беспилотников в районе Запорожской АЭС",
-      "title_en": "МАГАТЭ получило информацию о нескольких атаках по объектам близ ЗАЭС",
-      "date": "2026-10-03",
-      "summary": "Международное агентство по атомной энергии получило информацию о нескольких атаках беспилотников по объектам вблизи Запорожской АЭС. Агентство уведомлено о серии атак БПЛА.",
-      "category": "svo",
-      "region": "Украина",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/mezhdunarodnaya-panorama/28178329"
-      ],
-      "perspective": "Россия сообщает об угрозах ядерной безопасности со стороны ВСУ, Украина может отрицать причастность к атакам на гражданские объекты.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-10-03",
-      "id": "e57116f441fa"
-    },
-    {
-      "title_ru": "Второй пилот Flydubai атаковал капитана топором в полете",
-      "title_en": "Co-pilot used axe to carry out 'terrorist act' on Flydubai flight",
-      "date": "2026-10-03",
-      "summary": "Второй пилот авиакомпании Flydubai атаковал капитана топором во время полета. ОАЭ квалифицировали инцидент как террористический акт.",
-      "category": "conflicts",
-      "region": "ОАЭ",
-      "sources": [
-        "www.ft.com"
-      ],
-      "links": [
-        "https://www.ft.com/content/36b90fa1-f61e-4563-8622-127cdb471101?syn-25a6b1a6=1"
-      ],
-      "perspective": "Власти ОАЭ рассматривают это как террористический акт, в то время как мотивы второго пилота остаются предметом расследования.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-10-03",
-      "id": "54f0a7fa1431"
-    },
-    {
-      "title_ru": "Трамп предложил назвать мост в Алабаме в его честь",
-      "title_en": "Трамп предложил назвать мост в Алабаме в его честь",
-      "date": "2026-10-03",
-      "summary": "Бывший президент США Дональд Трамп предложил назвать мост в штате Алабама в его честь. Заявление сделано в ходе публичного выступления.",
-      "category": "politics",
-      "region": "США",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9005549"
-      ],
-      "perspective": "Сторонники Трампа могут поддержать идею, в то время как оппоненты могут критиковать это как проявление нарциссизма.",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-10-03",
-      "id": "305d00b3a81a"
-    },
-    {
-      "title_ru": "Нетаньяху связал инцидент Flydubai с Ираном перед выборами",
-      "title_en": "Netanyahu connecting Flydubai incident to Iran to manipulate upcoming election: Report",
-      "date": "2026-10-03",
-      "summary": "Премьер-министр Израиля Биньямин Нетаньяху связал инцидент с авиакомпанией Flydubai с Ираном. По данным источников, это сделано для влияния на предстоящие парламентские выборы.",
-      "category": "statement",
-      "region": "Израиль",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/10/03/777486/Netanyahu-connecting-Flydubai-incident-to-Iran-to-manipulate-upcoming-general-election--Report"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-03",
-      "id": "5454f778d383"
-    },
-    {
       "title_ru": "Ученые нашли участок мозга, важный для успешной беременности",
       "title_en": "Scientists find brain region that may be important for successful pregnancy",
       "date": "2026-10-04",
@@ -208,25 +56,6 @@
       "is_development": true,
       "first_reported": "2026-10-04",
       "id": "061a381534f7"
-    },
-    {
-      "title_ru": "Глава тюремной системы Теннесси ушел в отставку после неудачной казни",
-      "title_en": "Tennessee's prison chief resigns after botched execution of murderer Christa Pike",
-      "date": "2026-10-03",
-      "summary": "Начальник управления тюрем штата Теннесси подал в отставку после неудавшейся попытки казни осужденной убийцы Кристы Пайк. Губернатор штата принял отставку.",
-      "category": "politics",
-      "region": "США",
-      "sources": [
-        "rss.dw.com"
-      ],
-      "links": [
-        "https://www.dw.com/en/tennessee-s-prison-chief-resigns-after-botched-execution-of-murderer-christa-pike/a-79532481?maca=en-rss-en-all-1573-xml-mrss"
-      ],
-      "perspective": "Отставка последовала за критикой процедуры исполнения наказания",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-10-03",
-      "id": "6156a46135f4"
     },
     {
       "title_ru": "Канцлер Германии Мерц совершил внезапный визит в Киев",
@@ -433,23 +262,6 @@
       "is_development": false,
       "first_reported": "2026-10-04",
       "id": "31a9b0648712"
-    },
-    {
-      "title_ru": "Трамп пригрозил Южной Корее повышением платы за отказ от проекта СПГ",
-      "title_en": "Trump threatens to 'charge' S. Korea 'more' if it rejects Alaska LNG project",
-      "date": "2026-10-03",
-      "summary": "Бывший президент США Дональд Трамп заявил, что повысит плату за военную защиту Южной Кореи, если та откажется от проекта сжиженного природного газа на Аляске. Угроза прозвучала в ходе предвыборной кампании.",
-      "category": "economy",
-      "region": "США",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261003000451315"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-03",
-      "id": "43241db32409"
     },
     {
       "title_ru": "Флавио Болсонаро и Лула да Силва вышли во второй тур выборов в Бразилии",
@@ -1902,10 +1714,324 @@
       ],
       "first_reported": "2026-10-10",
       "id": "9d7962e475b0"
+    },
+    {
+      "title_ru": "Хуситы предупредили авиакомпании и пассажиров об опасности использования саудовских аэропортов",
+      "title_en": "Houthis reiterate warning against airlines, travelers using Saudi airports after attack kills 12",
+      "date": "2026-10-11",
+      "summary": "Движение хуситов повторило предупреждение авиакомпаниям и путешественникам об опасности использования аэропортов Саудовской Аравии. Заявление последовало после атаки на аэропорт Эр-Рияда, в результате которой погибли 12 человек.",
+      "category": "conflicts",
+      "region": "Йемен",
+      "perspective": "Хуситы заявляют о праве на самооборону и предупреждают о продолжении атак. Саудовская Аравия и её союзники рассматривают это как угрозу гражданской авиации.",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/middle-east/article-911273"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-11",
+      "id": "421973e1ea44"
+    },
+    {
+      "title_ru": "Силы ПВО России сбили 909 беспилотников ВСУ за сутки",
+      "title_en": "Russian air defense systems down over 900 Ukrainian drones in 24 hours",
+      "date": "2026-10-11",
+      "summary": "Российские средства противовоздушной обороны за сутки сбили 909 беспилотных летательных аппаратов Вооруженных сил Украины. Также уничтожены 2 авиабомбы.",
+      "category": "svo",
+      "region": "Россия",
+      "perspective": "Российская сторона сообщает об успешном отражении массированной атаки дронов. Украинская сторона не комментировала эти данные.",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.kommersant.ru",
+        "ria.ru",
+        "tass.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9023962",
+        "https://ria.ru/20261011/pvo-2123783098.html",
+        "https://tass.ru/armiya-i-opk/28203091"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-11",
+      "id": "ad24e55870c0"
+    },
+    {
+      "title_ru": "ВС РФ поразили цеха по производству дронов для ВСУ",
+      "title_en": "Russian forces hit drone production workshops for Ukrainian army",
+      "date": "2026-10-11",
+      "summary": "Вооруженные силы России нанесли удар по цехам, где производились беспилотные летательные аппараты для Вооруженных сил Украины. Целеуказание осуществлено в течение суток.",
+      "category": "svo",
+      "region": "Россия",
+      "perspective": "Российская сторона заявляет о нарушении производственной инфраструктуры противника. Украинская сторона не подтвердила информацию.",
+      "perspective_type": "assumed",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/armiya-i-opk/28203089"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-11",
+      "id": "79251a09e31a"
+    },
+    {
+      "title_ru": "В Харьковской области ВСУ потеряли более 65 военных в кольце окружения",
+      "title_en": "Ukrainian forces lose over 65 servicemen in encirclement in Kharkov Region",
+      "date": "2026-10-11",
+      "summary": "В Харьковской области Вооруженные силы Украины за сутки потеряли более 65 военнослужащих в кольце окружения. Российская группировка войск 'Север' продолжает наступательные действия.",
+      "category": "svo",
+      "region": "Россия",
+      "perspective": "Российская сторона сообщает о значительных потерях противника в ходе боевых действий. Украинская сторона не комментировала эти данные.",
+      "perspective_type": "assumed",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/armiya-i-opk/28203085"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-11",
+      "id": "a5b22ebf2d16"
+    },
+    {
+      "title_ru": "Банк Кореи получил доход от иностранных активов почти 17 трлн вон в 2025 году",
+      "title_en": "Bank of Korea's returns on foreign assets near 17 tln won in 2025",
+      "date": "2026-10-11",
+      "summary": "Банк Кореи получил доход от иностранных активов в размере почти 17 триллионов вон в 2025 году. Показатель отражает эффективность управления международными резервами.",
+      "category": "economy",
+      "region": "Южная Корея",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261011001100320"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-11",
+      "id": "f9766cc1897f"
+    },
+    {
+      "title_ru": "В Турции в ДТП с участием автобуса и грузовика погибли 11 человек",
+      "title_en": "11 people killed in bus-truck collision in Turkey",
+      "date": "2026-10-11",
+      "summary": "В Турции произошло дорожно-транспортное происшествие с участием автобуса и грузовика. В результате аварии погибли 11 человек.",
+      "category": "life",
+      "region": "Турция",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "www.belta.by",
+        "tass.ru"
+      ],
+      "links": [
+        "https://belta.by/world/view/v-turtsii-v-dtp-s-uchastiem-avtobusa-i-gruzovika-pogibli-11-chelovek-805409-2026/",
+        "https://tass.ru/proisshestviya/28203175"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-11",
+      "id": "65b51ec0905a"
+    },
+    {
+      "title_ru": "Во Франции продолжаются студенческие протесты против системы Parcoursup",
+      "title_en": "French student protests continue against Parcoursup higher education platform",
+      "date": "2026-10-11",
+      "summary": "Во Франции продолжаются студенческие протесты против системы Parcoursup, платформы доступа к высшему образованию. Протесты сопровождаются столкновениями с полицией, которая применяла слезоточивый газ.",
+      "category": "politics",
+      "region": "Франция",
+      "perspective": "Студенты требуют отмены системы, считая её несправедливой. Правительство ищет пути выхода из кризиса, признавая необходимость реформ.",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.lemonde.fr",
+        "rss.nytimes.com",
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.lemonde.fr/en/campus/article/2026/10/10/why-french-students-are-so-angry-about-parcoursup-the-higher-education-access-platform_6758447_11.html",
+        "https://www.nytimes.com/2026/10/08/world/europe/france-student-protests-paris.html",
+        "https://www.theglobeandmail.com/world/video-tear-gas-used-against-french-high-school-protesters/"
+      ],
+      "is_development": true,
+      "first_reported": "2026-10-11",
+      "id": "0b278dc54c1c"
+    },
+    {
+      "title_ru": "В Индонезии построят три завода по переработке яиц и мяса",
+      "title_en": "Indonesia to build three egg, meat processing plants",
+      "date": "2026-10-10",
+      "summary": "Правительство Индонезии планирует построить три завода по переработке яиц и мяса. Проект направлен на развитие пищевой промышленности и обеспечение продовольственной безопасности.",
+      "category": "tech",
+      "region": "Индонезия",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/434906/govt-to-build-three-egg-meat-processing-plants-minister"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-10",
+      "id": "f6fd7babe749"
+    },
+    {
+      "title_ru": "В Южной Корее обрушился потолочный материал в здании в Тэгу, пострадали 38 человек",
+      "title_en": "Ceiling material collapses in Daegu building, injures 38",
+      "date": "2026-10-10",
+      "summary": "В городе Тэгу в Южной Корее произошло обрушение потолочного материала в здании. В результате инцидента пострадали 38 человек.",
+      "category": "life",
+      "region": "Южная Корея",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261010001351315"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-10",
+      "id": "23ad1b931991"
+    },
+    {
+      "title_ru": "В Венгрии бюджет предусматривает увеличение финансирования больниц",
+      "title_en": "Hungary's budget allocates more funds for hospitals",
+      "date": "2026-10-10",
+      "summary": "Правительство Венгрии представило бюджет, который предусматривает увеличение финансирования больниц. Решение направлено на улучшение системы здравоохранения.",
+      "category": "life",
+      "region": "Венгрия",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/hungary/magyars-budget-more-for-hospitals-less-patience-for-the-oligarchs/"
+      ],
+      "is_development": true,
+      "first_reported": "2026-10-10",
+      "id": "a888b9902ac5"
+    },
+    {
+      "title_ru": "Основатель Telegram-канала 'Рыбарь' вернулся в Россию после задержания в Черногории",
+      "title_en": "Founder of 'Rybar' Telegram channel returns to Russia after detention in Montenegro",
+      "date": "2026-10-11",
+      "summary": "Основатель Telegram-канала 'Рыбарь' вернулся в Россию после задержания в Черногории. Черногорская полиция подозревала его в вербовке иностранцев для участия в СВО и депортировала как угрозу национальной безопасности.",
+      "category": "politics",
+      "region": "Россия",
+      "perspective": "Черногория рассматривала деятельность как угрозу безопасности. Российская сторона не комментировала обвинения.",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9023900"
+      ],
+      "is_development": true,
+      "first_reported": "2026-10-11",
+      "id": "9d1b72b56504"
+    },
+    {
+      "title_ru": "В ЮАР вице-президент Машатиле возобновил исполнение обязанностей после болезни",
+      "title_en": "Mashatile resumes his duties after illness",
+      "date": "2026-10-09",
+      "summary": "Вице-президент ЮАР Пол Машатиле возобновил исполнение своих обязанностей после перенесенного заболевания. Он вернулся к работе 9 октября 2026 года.",
+      "category": "politics",
+      "region": "ЮАР",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/politics/2026-10-09-mashatile-resumes-his-duties-after-illness/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-09",
+      "id": "593a3ef4199d"
+    },
+    {
+      "title_ru": "Песков заявил, что Шредер не обращает внимания на критику из-за встречи с Путиным",
+      "title_en": "Peskov says Schroeder not concerned about criticism over meeting with Putin",
+      "date": "2026-10-11",
+      "summary": "Пресс-секретарь президента России Дмитрий Песков заявил, что бывший канцлер Германии Герхард Шредер не обращает внимания на критику в связи со своей встречей с Владимиром Путиным. Встреча состоялась на днях рождения Путина.",
+      "category": "politics",
+      "region": "Россия",
+      "perspective": "Российская сторона подчеркивает нормальный характер встречи. Западные критики осуждают контакты с российским руководством.",
+      "perspective_type": "assumed",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20261011/shreder-2123788569.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-11",
+      "id": "703bcbbe3d18"
+    },
+    {
+      "title_ru": "Врачи рекомендуют женщинам переделать ранние генетические тесты на риски рака",
+      "title_en": "Doctors urge women to redo early genetic tests for cancer risks",
+      "date": "2026-10-11",
+      "summary": "Врачи рекомендуют женщинам, которые ранее прошли генетические тесты на риски онкологических заболеваний, переделать анализы. Современные технологии позволяют получить более точные результаты.",
+      "category": "tech",
+      "region": "США",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "feeds.washingtonpost.com"
+      ],
+      "links": [
+        "https://www.washingtonpost.com/health/2026/10/12/women-once-cleared-by-genetic-tests-cancer-risks-now-consider-retesting/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-11",
+      "id": "a2b9fea5ab62"
+    },
+    {
+      "title_ru": "Cloudflare приобрела Deno для улучшения своей модели программирования Workers",
+      "title_en": "Cloudflare acquires Deno to improve its Workers programming model",
+      "date": "2026-10-10",
+      "summary": "Компания Cloudflare приобрела разработчика среды выполнения JavaScript Deno. Сделка направлена на улучшение модели программирования Cloudflare Workers для облачных вычислений.",
+      "category": "tech",
+      "region": "США",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-10",
+      "id": "812ac26bb681"
+    },
+    {
+      "title_ru": "В Южной Корее разведывательное агентство опровергло сообщение о разведданных США по КНДР",
+      "title_en": "South Korean spy agency denies report U.S. only shares intelligence on N.K. missiles with S. Korea",
+      "date": "2026-10-11",
+      "summary": "Национальная разведывательная служба Южной Кореи опровергла сообщение о том, что США делятся разведданными по северокорейским ракетам только с Южной Кореей. Агентство заявило, что информация распространяется среди всех союзников.",
+      "category": "politics",
+      "region": "Южная Корея",
+      "perspective": "Южнокорейская сторона стремится сохранить доверие в альянсе. Сообщение могло создать напряженность в отношениях с другими партнерами.",
+      "perspective_type": "assumed",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261011000800315"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-11",
+      "id": "06acdb66c7bf"
     }
   ],
   "_stats": {
-    "total_tokens": 256612,
-    "total_cost": 16.30192
+    "total_tokens": 276605,
+    "total_cost": 17.5782
   }
 }
