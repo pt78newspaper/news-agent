@@ -1,82 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Ученые нашли участок мозга, важный для успешной беременности",
-      "title_en": "Scientists find brain region that may be important for successful pregnancy",
-      "date": "2026-10-04",
-      "summary": "Исследователи идентифицировали область мозга, которая может играть ключевую роль в поддержании беременности. Открытие имеет значение для понимания механизмов репродукции.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/medicine/uchastok-mozhet-byt-vazhen"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-04",
-      "id": "9ee4bdccbae0"
-    },
-    {
-      "title_ru": "Минобороны РФ сообщило об ударе ВСУ по жилым кварталам Белгорода",
-      "title_en": "Russian Defense Ministry reports Ukrainian strike on residential areas of Belgorod",
-      "date": "2026-10-04",
-      "summary": "Министерство обороны России заявило о ночном ударе ВСУ по жилым кварталам Белгорода. Сообщается о погибших среди гражданского населения.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20261004/belgorod-2122115907.html"
-      ],
-      "perspective": "Россия квалифицирует удар как террористический акт",
-      "perspective_type": "from_source",
-      "is_development": false,
-      "first_reported": "2026-10-04",
-      "id": "37eced67e7f3"
-    },
-    {
-      "title_ru": "Минобороны РФ заявило об усилении ударов по военным объектам Украины",
-      "title_en": "Russian Defense Ministry announces intensification of strikes on Ukrainian military facilities",
-      "date": "2026-10-04",
-      "summary": "Министерство обороны России объявило об усилении ударов по военным объектам и предприятиям ВПК Украины. Решение принято после заявлений Зеленского о намерении атаковать российские НПЗ.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/armiya-i-opk/28180101"
-      ],
-      "perspective": "Россия заявляет об ответных мерах на угрозы Украины",
-      "perspective_type": "from_source",
-      "is_development": true,
-      "first_reported": "2026-10-04",
-      "id": "061a381534f7"
-    },
-    {
-      "title_ru": "Канцлер Германии Мерц совершил внезапный визит в Киев",
-      "title_en": "Germany's Merz arrives in Kyiv to pledge more support",
-      "date": "2026-10-04",
-      "summary": "Канцлер Германии Фридрих Мерц прибыл с необъявленным визитом в Киев. Он пообещал Украине дополнительную поддержку на фоне эскалации российских атак.",
-      "category": "politics",
-      "region": "Украина",
-      "sources": [
-        "rss.dw.com"
-      ],
-      "links": [
-        "https://www.dw.com/en/germany-s-merz-arrives-in-kyiv-to-pledge-more-support/a-79534734?maca=en-rss-en-all-1573-xml-mrss"
-      ],
-      "perspective": "Германия демонстрирует солидарность с Украиной",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-10-04",
-      "id": "e7a44e2fc369"
-    },
-    {
       "title_ru": "Зонд Juice использовал гравитацию Земли для разгона на пути к Юпитеру",
       "title_en": "Juice spacecraft used Earth's gravity for acceleration on its way to Jupiter",
       "date": "2026-10-05",
@@ -111,23 +35,6 @@
       "id": "c11dbff714bb"
     },
     {
-      "title_ru": "Северная Корея провела пуск гиперзвуковой ракеты под руководством Ким Чен Ына",
-      "title_en": "North Korea's Kim oversees hypersonic missile launch, calls for bolstering war deterrent",
-      "date": "2026-10-04",
-      "summary": "Ким Чен Ын лично руководил испытательным пуском гиперзвуковой ракеты. После запуска он призвал усилить военный потенциал страны.",
-      "category": "tech",
-      "region": "КНДР",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261004000352315"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-04",
-      "id": "6c3137e53a2c"
-    },
-    {
       "title_ru": "Папа Франциск выступил против ИИ-искусства",
       "title_en": "The Pope Denounces AI Art: 'Algorithms Lack the Spark of Humanity'",
       "date": "2026-10-05",
@@ -143,23 +50,6 @@
       "is_development": false,
       "first_reported": "2026-10-05",
       "id": "5189a79e1c94"
-    },
-    {
-      "title_ru": "В США приняты налоговые льготы для дата-центров в сельской местности",
-      "title_en": "Rural Data Centers Are in for a Big Federal Tax Break",
-      "date": "2026-10-04",
-      "summary": "Федеральное правительство США предоставило значительные налоговые льготы для строительства дата-центров в сельских районах. Мера направлена на стимулирование развития цифровой инфраструктуры.",
-      "category": "ai",
-      "region": "США",
-      "sources": [
-        "www.wired.com"
-      ],
-      "links": [
-        "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-04",
-      "id": "cd7c63888dce"
     },
     {
       "title_ru": "В Сингапуре арестован мужчина за создание ИИ-изображения крокодила",
@@ -245,23 +135,6 @@
       "is_development": false,
       "first_reported": "2026-10-05",
       "id": "1d97215917b6"
-    },
-    {
-      "title_ru": "Минобороны РФ отчиталось об ударе по сухогрузу в районе Одессы",
-      "title_en": "Russian Defense Ministry reports strike on dry cargo ship near Odessa",
-      "date": "2026-10-04",
-      "summary": "Министерство обороны России сообщило об ударе по иностранному сухогрузу в районе Одессы. По данным ведомства, судно перевозило вооружение для ВСУ.",
-      "category": "svo",
-      "region": "Украина",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9005763"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-04",
-      "id": "31a9b0648712"
     },
     {
       "title_ru": "Флавио Болсонаро и Лула да Силва вышли во второй тур выборов в Бразилии",
@@ -536,23 +409,6 @@
       "is_development": false,
       "first_reported": "2026-10-06",
       "id": "254b95d728b9"
-    },
-    {
-      "title_ru": "В Ленинградской области нашли уникальный средневековый клад с серебром",
-      "title_en": "В Ленинградской области нашли уникальный средневековый клад с серебром",
-      "date": "2026-10-04",
-      "summary": "Археологи обнаружили уникальный средневековый клад с серебряными предметами в Ленинградской области России. Находка датируется XIII-XIV веками и включает монеты и украшения.",
-      "category": "culture",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9005814"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-04",
-      "id": "2bb9738b0558"
     },
     {
       "title_ru": "Южная Корея успешно запустила ракету Nuri с выводом спутников на орбиту",
@@ -2028,10 +1884,257 @@
       "is_development": false,
       "first_reported": "2026-10-11",
       "id": "06acdb66c7bf"
+    },
+    {
+      "title_ru": "В Ормузском проливе третий танкер подорвался на мине",
+      "title_en": "Third oil tanker catches fire in Hormuz after hitting mine",
+      "date": "2026-10-12",
+      "summary": "В Ормузском проливе третий нефтяной танкер загорелся после подрыва на мине. КСИР предупредил суда против отключения навигационных систем.",
+      "category": "conflicts",
+      "region": "Ближний Восток",
+      "sources": [
+        "en.mehrnews.com"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/248502/Third-oil-tanker-catches-fire-in-Strait-of-Hormuz"
+      ],
+      "perspective": "Иранские власти заявляют о нарушениях судами маршрутов, другие стороны могут рассматривать инцидент как угрозу судоходству в стратегическом проливе.",
+      "perspective_type": "assumed",
+      "is_development": true,
+      "first_reported": "2026-10-12",
+      "id": "f9e669ab5ea7"
+    },
+    {
+      "title_ru": "Йеменские силы предупредили авиакомпании об опасности использования саудовских аэропортов",
+      "title_en": "Yemeni army warns airlines, passengers not to use Saudi airports after Riyadh attack",
+      "date": "2026-10-12",
+      "summary": "Йеменская армия предупредила все авиакомпании и пассажиров не использовать аэропорты Саудовской Аравии после атаки на Эр-Рияд. Заявление последовало за ударами по саудовским аэропортам.",
+      "category": "conflicts",
+      "region": "Ближний Восток",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/10/11/778087/Yemeni-army-warns-airlines,-passengers-not-to-use-Saudi-airports-after-Riyadh-attack"
+      ],
+      "perspective": "Йеменские силы позиционируют это как ответ на атаки, Саудовская Аравия рассматривает удары как акт агрессии.",
+      "perspective_type": "assumed",
+      "is_development": true,
+      "first_reported": "2026-10-12",
+      "id": "c7156341d95e"
+    },
+    {
+      "title_ru": "Песков заявил о поиске Россией решений для мирного урегулирования по Украине",
+      "title_en": "Russia seeks solutions for peaceful settlement on Ukraine, Peskov says",
+      "date": "2026-10-12",
+      "summary": "Пресс-секретарь президента России Дмитрий Песков заявил, что Россия ищет решения для мирного урегулирования по Украине. Он также отметил, что перемирие нужно Киеву не для проведения выборов.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20261012/peskov-2123941642.html"
+      ],
+      "perspective": "Российская сторона заявляет о готовности к мирному урегулированию, украинская сторона может требовать иных условий.",
+      "perspective_type": "from_source",
+      "is_development": false,
+      "first_reported": "2026-10-12",
+      "id": "a575eac816de"
+    },
+    {
+      "title_ru": "ЕС ввел санкции против почти 1,6 тысячи предприятий ВПК России и их руководителей",
+      "title_en": "EU imposes sanctions against nearly 1,600 Russian defense industry enterprises and their managers",
+      "date": "2026-10-12",
+      "summary": "Евросоюз ввел санкции против почти 1,6 тысячи предприятий российского военно-промышленного комплекса и их руководителей. В список вошли компании \"Самолет\" и \"Кордиант\".",
+      "category": "svo",
+      "region": "Европа",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20261012/sanktsii-2123959260.html"
+      ],
+      "perspective": "ЕС рассматривает санкции как меру давления на российскую экономику, Россия называет их незаконными.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-10-12",
+      "id": "884da32ad9e2"
+    },
+    {
+      "title_ru": "Нобелевская премия по экономике присуждена американским ученым",
+      "title_en": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
+      "date": "2026-10-12",
+      "summary": "Нобелевская премия по экономическим наукам 2026 года присуждена американским экономистам Роберту Э. Холлу и Майклу Вудфорду. Премия вручена за их исследования.",
+      "category": "economy",
+      "region": "Мир",
+      "sources": [
+        "www.cnbc.com"
+      ],
+      "links": [
+        "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-12",
+      "id": "69a646a916f3"
+    },
+    {
+      "title_ru": "ЕС ввел санкции против бывшего и.о. премьера Украины Арбузова",
+      "title_en": "EU imposes sanctions against former acting prime minister of Ukraine Arbuzov",
+      "date": "2026-10-12",
+      "summary": "Евросоюз ввел санкции против бывшего исполняющего обязанности премьер-министра Украины Александра Арбузова. Санкции также затронули ряд российских компаний.",
+      "category": "politics",
+      "region": "Европа",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/mezhdunarodnaya-panorama/28205911"
+      ],
+      "perspective": "ЕС рассматривает санкции как меру против лиц, связанных с конфликтом, Россия может считать их вмешательством во внутренние дела.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-10-12",
+      "id": "6122cb02271e"
+    },
+    {
+      "title_ru": "Во Франции продолжаются протесты в школах, директора испытывают трудности",
+      "title_en": "French high school protests: Exhausted principals struggle to deal with violent clashes at their schools",
+      "date": "2026-10-12",
+      "summary": "Во Франции продолжаются протесты в средних школах, директора учебных заведений испытывают трудности в связи с насильственными столкновениями. Протесты не ослабевают, несмотря на обещания премьер-министра.",
+      "category": "politics",
+      "region": "Франция",
+      "sources": [
+        "www.lemonde.fr"
+      ],
+      "links": [
+        "https://www.lemonde.fr/en/france/article/2026/10/12/french-high-school-protests-exhausted-principals-struggle-to-deal-with-violent-clashes-at-their-schools_6758508_7.html"
+      ],
+      "perspective": "Протестующие требуют изменений в системе образования, власти пытаются восстановить порядок.",
+      "perspective_type": "from_source",
+      "is_development": true,
+      "first_reported": "2026-10-12",
+      "id": "f4efc9464293"
+    },
+    {
+      "title_ru": "Пакистан пообещал полную военную поддержку Саудовской Аравии после ударов хуситов",
+      "title_en": "Pakistan pledges full military backing to Saudi Arabia under Mecca pact after deadly Houthi strikes",
+      "date": "2026-10-12",
+      "summary": "Пакистан пообещал полную военную поддержку Саудовской Аравии в соответствии с Мекканским пактом после смертельных ударов хуситов. Заявление сделано на фоне эскалации конфликта в Йемене.",
+      "category": "politics",
+      "region": "Ближний Восток",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/middle-east/article-911413"
+      ],
+      "perspective": "Пакистан демонстрирует солидарность с Саудовской Аравией, хуситы могут рассматривать это как вмешательство.",
+      "perspective_type": "assumed",
+      "is_development": false,
+      "first_reported": "2026-10-12",
+      "id": "4d4b75f2cf60"
+    },
+    {
+      "title_ru": "В Венгрии бюджет предусматривает больше средств для больниц",
+      "title_en": "Magyar's budget: more for hospitals, less patience for the oligarchs",
+      "date": "2026-10-12",
+      "summary": "Правительство Венгрии представило бюджет, который предусматривает увеличение финансирования больниц. Бюджет также включает меры против олигархов.",
+      "category": "life",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/hungary/magyars-budget-more-for-hospitals-less-patience-for-the-oligarchs/"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": true,
+      "first_reported": "2026-10-12",
+      "id": "d234dca19a40"
+    },
+    {
+      "title_ru": "Российский рынок больших данных вырос на 20% за 2025 год",
+      "title_en": "Russian big data market grew by 20% in 2025",
+      "date": "2026-10-12",
+      "summary": "Российский рынок больших данных вырос на 20% за 2025 год. Данные приведены в отчете, опубликованном 12 октября 2026 года.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9024051"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-12",
+      "id": "2d426d56c6db"
+    },
+    {
+      "title_ru": "В России готовят кадры для космической отрасли",
+      "title_en": "How Russia trains personnel for the space industry",
+      "date": "2026-10-12",
+      "summary": "В России реализуются программы подготовки кадров для космической отрасли. Об этом сообщили 12 октября 2026 года.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "rssexport.rbc.ru"
+      ],
+      "links": [
+        "https://www.rbc.ru/economics/12/10/2026/6ac8a6b59a7947ab2b78d075"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-12",
+      "id": "6cb47aec7fe9"
+    },
+    {
+      "title_ru": "Папа Римский Лев XIV перенесет операцию на легком",
+      "title_en": "Pope Leo XIV to undergo lung surgery",
+      "date": "2026-10-12",
+      "summary": "Папа Римский Лев XIV перенесет операцию по удалению образования на легком. Операция запланирована на ближайшее время.",
+      "category": "life",
+      "region": "Ватикан",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/world/2200547"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-12",
+      "id": "aa8435d84a67"
+    },
+    {
+      "title_ru": "Астрономы обнаружили редкую тройную звездную систему с миллисекундным пульсаром",
+      "title_en": "Astronomers find rare triple-star system with a 3.2-millisecond pulsar",
+      "date": "2026-10-12",
+      "summary": "Астрономы обнаружили редкую тройную звездную систему, включающую миллисекундный пульсар с периодом 3,2 миллисекунды. Открытие сделано с использованием данных гамма-излучения и наблюдений за быстрыми радиоимпульсами.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "timesofindia.indiatimes.com"
+      ],
+      "links": [
+        "https://timesofindia.indiatimes.com/science/space/astronomers-combined-16-7-years-of-gamma-ray-data-with-4-9-years-of-fast-radio-observations-to-confirm-a-3-2-millisecond-pulsar-has-two-companions-including-a-sun-like-star-on-a-73-5-year-orbit/articleshow/134889802.cms"
+      ],
+      "perspective": "",
+      "perspective_type": "",
+      "is_development": false,
+      "first_reported": "2026-10-12",
+      "id": "0dfd44f79455"
     }
   ],
   "_stats": {
-    "total_tokens": 276605,
-    "total_cost": 17.5782
+    "total_tokens": 296148,
+    "total_cost": 18.81056
   }
 }
