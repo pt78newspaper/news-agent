@@ -1,210 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Зонд Juice использовал гравитацию Земли для разгона на пути к Юпитеру",
-      "title_en": "Juice spacecraft used Earth's gravity for acceleration on its way to Jupiter",
-      "date": "2026-10-05",
-      "summary": "Европейский космический зонд Juice совершил гравитационный маневр у Земли для увеличения скорости на пути к Юпитеру. Маневр выполнен в рамках миссии по исследованию ледяных спутников газового гиганта.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/cosmonautics/juice-zavernul-k-yupiteru"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-05",
-      "id": "46a46f6f7d3a"
-    },
-    {
-      "title_ru": "Витамин C снизил смертность у пациентов с предраковым состоянием крови",
-      "title_en": "Vitamin C reduced mortality in patients with pre-cancerous blood condition",
-      "date": "2026-10-05",
-      "summary": "Исследование показало, что прием витамина C снизил смертность у пациентов с миелодиспластическим синдромом. Результаты опубликованы в научном журнале.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/medicine/vitaminc-snizil-smertnost"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-05",
-      "id": "c11dbff714bb"
-    },
-    {
-      "title_ru": "Папа Франциск выступил против ИИ-искусства",
-      "title_en": "The Pope Denounces AI Art: 'Algorithms Lack the Spark of Humanity'",
-      "date": "2026-10-05",
-      "summary": "Папа Римский Франциск заявил, что алгоритмы искусственного интеллекта лишены 'искры человечности'. Он высказал критику в отношении использования ИИ для создания произведений искусства.",
-      "category": "ai",
-      "region": "Ватикан",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/10/05/the-pope-denounces-ai-art-algorithms-lack-the-spark-of-humanity/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-05",
-      "id": "5189a79e1c94"
-    },
-    {
-      "title_ru": "В Сингапуре арестован мужчина за создание ИИ-изображения крокодила",
-      "title_en": "Man arrested after AI crocodile image sparks 2-day search at Singapore reservoir",
-      "date": "2026-10-05",
-      "summary": "Мужчина создал изображение крокодила с помощью искусственного интеллекта, что привело к двухдневным поискам рептилии в водохранилище. Власти Сингапура арестовали его за создание паники.",
-      "category": "ai",
-      "region": "Сингапур",
-      "sources": [
-        "timesofindia.indiatimes.com"
-      ],
-      "links": [
-        "https://timesofindia.indiatimes.com/world/rest-of-world/man-arrested-after-creating-ai-crocodile-image-at-singapore-reservoir-authorities-shut-water-activities-for-2-days-and-searched-for-reptile-that-never-existed/articleshow/134697400.cms"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-05",
-      "id": "64d0cb8d1ed9"
-    },
-    {
-      "title_ru": "В Турции инфляция впервые за 5 лет опустилась ниже 30%",
-      "title_en": "Türkiye's inflation drops below 30% for 1st time in nearly 5 years",
-      "date": "2026-10-05",
-      "summary": "Уровень инфляции в Турции снизился до 29,8% в сентябре 2026 года. Это первый случай за почти пять лет, когда показатель опустился ниже 30%.",
-      "category": "life",
-      "region": "Турция",
-      "sources": [
-        "www.dailysabah.com"
-      ],
-      "links": [
-        "https://www.dailysabah.com/business/economy/turkiyes-inflation-drops-below-30-for-1st-time-in-nearly-5-years"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-05",
-      "id": "dc13cd390130"
-    },
-    {
-      "title_ru": "В Иране произошла террористическая атака с гибелью полицейских",
-      "title_en": "Two police officers killed in terrorist attack in southeastern Iran",
-      "date": "2026-10-05",
-      "summary": "В результате террористической атаки на юго-востоке Ирана погибли два полицейских. Нападение произошло в провинции Систан и Белуджистан.",
-      "category": "conflicts",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/10/05/777647/Two-police-officers-killed-terrorist-attack-southeastern-Iran"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-05",
-      "id": "ed6a9749c135"
-    },
-    {
-      "title_ru": "Ирак осудил осквернение флага США проиранскими ополченцами",
-      "title_en": "Iraq condemns 'desecration of US flag' by pro-Iran militias",
-      "date": "2026-10-05",
-      "summary": "Правительство Ирака осудило действия проиранских ополченцев, которые осквернили флаг США. Инцидент произошел в ходе акций протеста.",
-      "category": "conflicts",
-      "region": "Ирак",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/middle-east/article-910639"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-05",
-      "id": "0d333b0b525c"
-    },
-    {
-      "title_ru": "За ночь над Россией сбили 199 беспилотников ВСУ",
-      "title_en": "199 Ukrainian drones shot down over Russia overnight",
-      "date": "2026-10-05",
-      "summary": "Силы ПВО России за ночь сбили 199 беспилотных летательных аппаратов ВСУ над регионами страны. Об этом сообщило Министерство обороны РФ.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9006121"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-05",
-      "id": "1d97215917b6"
-    },
-    {
-      "title_ru": "Флавио Болсонаро и Лула да Силва вышли во второй тур выборов в Бразилии",
-      "title_en": "Flavio Bolsonaro, Lula da Silva advance to second tour of presidential election",
-      "date": "2026-10-05",
-      "summary": "Правый кандидат Флавио Болсонаро и левый Лула да Силва вышли во второй тур президентских выборов в Бразилии. Первый тур состоялся 4 октября 2026 года.",
-      "category": "politics",
-      "region": "Бразилия",
-      "sources": [
-        "tass.com"
-      ],
-      "links": [
-        "https://tass.com/world/2197463"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-05",
-      "id": "e979320254de"
-    },
-    {
-      "title_ru": "Песков назвал возмездием продолжающиеся удары России по Украине",
-      "title_en": "Peskov calls ongoing Russian strikes on Ukraine retaliation",
-      "date": "2026-10-05",
-      "summary": "Пресс-секретарь президента России Дмитрий Песков заявил, что продолжающиеся удары РФ по Украине являются возмездием. Комментарий прозвучал на брифинге для журналистов.",
-      "category": "politics",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9006377"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-05",
-      "id": "b94a06a1b0a1"
-    },
-    {
-      "title_ru": "В Кремле отказались комментировать выборы в Бразилии",
-      "title_en": "Kremlin declines to comment on Brazil elections",
-      "date": "2026-10-05",
-      "summary": "Пресс-секретарь президента России Дмитрий Песков заявил, что Кремль не будет комментировать выборы в Бразилии до окончательного подведения результатов. Позиция озвучена на брифинге.",
-      "category": "politics",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9006402"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-05",
-      "id": "3c8f3cac43e1"
-    },
-    {
-      "title_ru": "Нобелевскую премию по медицине присудили за открытия в области оптогенетики",
-      "title_en": "Nobel Prize in Medicine awarded for discoveries in optogenetics",
-      "date": "2026-10-05",
-      "summary": "Нобелевскую премию по физиологии или медицине 2026 года присудили ученым за открытия в области оптогенетики. Метод позволяет управлять активностью нейронов с помощью света.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20261005/premiya-2122294448.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-05",
-      "id": "bc1bb7f9ea14"
-    },
-    {
       "title_ru": "Сеулские акции закрылись в минусе из-за падения технологических компаний на фоне роста доходности облигаций",
       "title_en": "Seoul shares end lower on tech losses amid rising bond yields",
       "date": "2026-10-06",
@@ -459,22 +255,6 @@
       "id": "28068b13e08c"
     },
     {
-      "title_ru": "Минфин России прогнозирует рост реальных доходов россиян на 1,4% в 2027 году",
-      "title_en": "Siluanov forecasts 1.4% growth in Russians' incomes next year",
-      "date": "2026-10-05",
-      "summary": "Министр финансов России Антон Силуанов заявил, что реальные доходы россиян в 2027 году вырастут на 1,4%. Прогноз основан на текущих экономических показателях.",
-      "category": "economy",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9006567"
-      ],
-      "first_reported": "2026-10-05",
-      "id": "4fa3558be77f"
-    },
-    {
       "title_ru": "Апелляционный суд Южной Кореи оправдал экс-президента Юн Сок Ёля по делу о политических фондах",
       "title_en": "Appeals court acquits ex-President Yoon in political funds trial over opinion polls",
       "date": "2026-10-07",
@@ -538,23 +318,6 @@
       "is_development": true,
       "first_reported": "2026-10. 06",
       "id": "302dbede9d7d"
-    },
-    {
-      "title_ru": "Второй пилот Flydubai планировал атаковать самолет до прихода в авиакомпанию",
-      "title_en": "FlyDubai co-pilot planned attack before joining airline, Israeli officials say",
-      "date": "2026-10-05",
-      "summary": "Израильские официальные лица заявили, что второй пилот Flydubai, атаковавший капитана топором, планировал теракт еще до прихода в авиакомпанию. Оман ранее запретил ему летать из-за опасений об экстремизме.",
-      "category": "conflicts",
-      "region": "ОАЭ",
-      "sources": [
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/world/article-flydubai-co-pilot-planned-attack/"
-      ],
-      "is_development": true,
-      "first_reported": "2026-10-05",
-      "id": "4feade8b9d70"
     },
     {
       "title_ru": "Песков: разговор Путина и Трампа пока не согласовывался",
@@ -2131,10 +1894,333 @@
       "is_development": false,
       "first_reported": "2026-10-12",
       "id": "0dfd44f79455"
+    },
+    {
+      "title_ru": "Тайвань увеличивает мощности энергосистемы",
+      "title_en": "Energy boost",
+      "date": "2026-10-13",
+      "summary": "Тайвань объявил о расширении энергетических мощностей. Речь идет о развитии энергетической инфраструктуры острова.",
+      "category": "tech",
+      "region": "Тайвань",
+      "sources": [
+        "www.taipeitimes.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/taiwan/archives/2026/10/13/2003865884"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-13",
+      "id": "6c041102cbb2"
+    },
+    {
+      "title_ru": "Рацион беременной связали с риском колик и экземы у младенца",
+      "title_en": "Рацион беременной связали с риском колик и экземы у младенца",
+      "date": "2026-10-13",
+      "summary": "Ученые установили связь между питанием беременных женщин и риском развития колик и экземы у новорожденных. Исследование выявило корреляцию между определенными продуктами в рационе матери и здоровьем ребенка.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/medicine/ratsion-svyazali-s-riskom"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-13",
+      "id": "c84902a0420f"
+    },
+    {
+      "title_ru": "Плазма тоже воздействует: ученые выявили дополнительный источник волн при испытании материалов",
+      "title_en": "Плазма тоже воздействует: ученые из МФТИ выявили дополнительный источник волн при испытании материалов электронным пучком",
+      "date": "2026-10-13",
+      "summary": "Ученые из МФТИ обнаружили дополнительный источник волн при испытании материалов электронным пучком. Исследование показало влияние плазмы на процессы взаимодействия электронных пучков с материалами.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/column/dopolnitelnyj-istochnik-voln"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-13",
+      "id": "4aac6236c349"
+    },
+    {
+      "title_ru": "Скандал со шпионским ПО Pegasus углубляется: Польша изучает израильские технологии",
+      "title_en": "Pegasus spyware scandal deepens as Poland questions Israeli tech, strengthens ties with Turkey",
+      "date": "2026-10-13",
+      "summary": "Польша изучает израильские технологии в связи со скандалом вокруг шпионского ПО Pegasus. Одновременно Варшава укрепляет связи с Турцией в технологической сфере.",
+      "category": "ai",
+      "region": "Польша",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/business-and-innovation/article-911543"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-13",
+      "id": "f905b7cf4972"
+    },
+    {
+      "title_ru": "Один погибший и несколько пострадавших в инциденте с американскими горками в Джорджии",
+      "title_en": "One dead, several injured in incident involving a roller coaster at Six Flags in Georgia",
+      "date": "2026-10-13",
+      "summary": "В парке развлечений Six Flags в Джорджии произошел инцидент с американскими горками. В результате один человек погиб, несколько получили травмы.",
+      "category": "life",
+      "region": "США",
+      "sources": [
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/article-six-flags-roller-coaster-georgia-incident/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-13",
+      "id": "f16d35bb9406"
+    },
+    {
+      "title_ru": "Кибератака на сотни супермаркетов во Франции вывела из строя холодильные системы",
+      "title_en": "Cyberattack Hits Hundreds of Supermarket Refrigeration Systems in France",
+      "date": "2026-10-13",
+      "summary": "Кибератака затронула сотни супермаркетов во Франции, выведя из строя холодильные системы. Атака привела к размораживанию продуктов в торговых сетях.",
+      "category": "life",
+      "region": "Франция",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/10/13/world/europe/france-cyberattack-supermarkets-refrigeration.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-13",
+      "id": "d6e2789eb5dd"
+    },
+    {
+      "title_ru": "В Южной Корее полиции не хватает сотрудников для мониторинга нарушителей с электронными браслетами",
+      "title_en": "Police short of officers to monitor electronic anklet wearers despite rising violations",
+      "date": "2026-10-13",
+      "summary": "В Южной Корее полиция испытывает нехватку сотрудников для мониторинга лиц, носящих электронные браслеты. Количество нарушений среди этой категории растет.",
+      "category": "life",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261012007900315"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-13",
+      "id": "df1c47f3fc51"
+    },
+    {
+      "title_ru": "Иранские силы безопасности задержали трех террористов на юго-востоке страны",
+      "title_en": "Security forces arrest three terrorists in southeastern Iran",
+      "date": "2026-10-13",
+      "summary": "Иранские силы безопасности задержали трех террористов в юго-восточной провинции Систан и Белуджистан. Операция проведена в районе города Чабахар.",
+      "category": "conflicts",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/10/11/778088/Iran-Jaish-al-Zulm-Terrorist-Attack-Chabahar"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-13",
+      "id": "6c1ee63b1deb"
+    },
+    {
+      "title_ru": "Торговое судно подверглось атаке беспилотника в Черном море у берегов Болгарии",
+      "title_en": "Merchant ship comes under drone attack in Black Sea off Bulgaria — news website",
+      "date": "2026-10-13",
+      "summary": "Торговое судно подверглось атаке беспилотника в Черном море у берегов Болгарии. В результате атаки судно затонуло, 11 моряков пропали без вести.",
+      "category": "conflicts",
+      "region": "Болгария",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/emergencies/2201203"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-13",
+      "id": "2bfe68b02eeb"
+    },
+    {
+      "title_ru": "Минобороны России сообщило о потерях ВСУ в окружении под Харьковом",
+      "title_en": "Минобороны рассказало о потерях ВСУ в окружении под Харьковом за сутки",
+      "date": "2026-10-13",
+      "summary": "Министерство обороны России сообщило о потерях ВСУ в окружении под Харьковом за сутки. По данным ведомства, украинские войска понесли значительные потери в этом районе.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20261013/okruzhenie-2124160476.html"
+      ],
+      "is_development": true,
+      "first_reported": "2026-10-13",
+      "id": "5e8f5b74eb38"
+    },
+    {
+      "title_ru": "Песков прокомментировал сообщения о новом плане США и Европы по Украине",
+      "title_en": "Песков прокомментировал сообщения о новом плане США и Европы по Украине",
+      "date": "2026-10-13",
+      "summary": "Пресс-секретарь президента России Дмитрий Песков прокомментировал сообщения о новом плане США и Европы по Украине. Он также заявил, что новые санкции ЕС могут помешать топливной сделке между США и Россией.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9025469"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-13",
+      "id": "863d38172965"
+    },
+    {
+      "title_ru": "Франция столкнулась с крупнейшим дефицитом бюджета со времен COVID",
+      "title_en": "In charts: How one of the world's biggest economies got trapped by debt",
+      "date": "2026-10-13",
+      "summary": "Франция столкнулась с крупнейшим дефицитом бюджета со времен пандемии COVID-19. Анализ показывает, как одна из крупнейших экономик мира оказалась в долговой ловушке.",
+      "category": "economy",
+      "region": "Франция",
+      "sources": [
+        "www.cnbc.com"
+      ],
+      "links": [
+        "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-13",
+      "id": "66399271373f"
+    },
+    {
+      "title_ru": "ЮАР ужесточает регулирование пищевых добавок, что угрожает индустрии на 22 млрд рандов",
+      "title_en": "South Africa's supplement crackdown risks R22bn health industry",
+      "date": "2026-10-13",
+      "summary": "ЮАР ужесточает регулирование пищевых добавок, что угрожает индустрии стоимостью 22 млрд рандов. Новые меры могут серьезно повлиять на рынок пищевых добавок в стране.",
+      "category": "economy",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/thought-leader/2026-10-13-south-africa-s-supplement-crackdown-risks-r22bn-health-industry/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-13",
+      "id": "530c4f6fc4c0"
+    },
+    {
+      "title_ru": "Индия развернула 20 тысяч силовиков для подавления протестов в Дели",
+      "title_en": "India cracks down on Delhi protests with 20,000 security forces; 2,000 detained: Reports",
+      "date": "2026-10-13",
+      "summary": "Индия развернула 20 тысяч сотрудников силовых структур для подавления протестов в Дели. По сообщениям, задержано около 2 тысяч участников акций.",
+      "category": "politics",
+      "region": "Индия",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/10/12/778128/India-protests-crackdown-New-Delhi-elections"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-13",
+      "id": "7cf5ba05f956"
+    },
+    {
+      "title_ru": "Болгария вызвала российского посла после атаки беспилотника на судно в Черном море",
+      "title_en": "Bulgarian PM summons Russian ambassador after ship sinks in Black Sea drone attack",
+      "date": "2026-10-13",
+      "summary": "Премьер-министр Болгарии вызвал российского посла после атаки беспилотника на судно в Черном море. В результате атаки судно затонуло, 11 моряков пропали без вести.",
+      "category": "politics",
+      "region": "Болгария",
+      "sources": [
+        "feeds.bbci.co.uk"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-13",
+      "id": "56d690972068"
+    },
+    {
+      "title_ru": "ФСБ задержала россиянку по подозрению в подготовке теракта на военном аэродроме",
+      "title_en": "FSB detains Russian woman over Ukraine-backed plot to attack military airfield",
+      "date": "2026-10-13",
+      "summary": "ФСБ России задержала гражданку РФ по подозрению в подготовке теракта на военном аэродроме. По данным ведомства, женщина действовала по указанию украинских спецслужб.",
+      "category": "politics",
+      "region": "Россия",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/society/2201269"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-13",
+      "id": "1202e67c9157"
+    },
+    {
+      "title_ru": "Иранский диссидент Рамин Парса получил вид на жительство в Израиле",
+      "title_en": "Zionist Iranian dissident Ramin Parsa granted residency in Israel after years-long battle",
+      "date": "2026-10-13",
+      "summary": "Иранский диссидент Рамин Парса получил вид на жительство в Израиле после многолетней борьбы. Парса известен своей прозападной позицией и критикой иранского режима.",
+      "category": "politics",
+      "region": "Израиль",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/israel-news/article-911547"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-13",
+      "id": "ad2e04816ded"
+    },
+    {
+      "title_ru": "Южная Корея требует извинений от Украины за раскрытие данных о северокорейских военнопленных",
+      "title_en": "S. Korea maintains demand for Ukraine's apology over N.K. POW disclosure",
+      "date": "2026-10-13",
+      "summary": "Южная Корея продолжает требовать извинений от Украины за раскрытие данных о северокорейских военнопленных. Сеул настаивает на официальных извинениях от Киева.",
+      "category": "politics",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261013011000320"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-13",
+      "id": "263c9cfa1c04"
+    },
+    {
+      "title_ru": "Магнитные аксессуары могут влиять на камеру iPhone",
+      "title_en": "Magnetic Accessories Can Affect Your iPhone Camera",
+      "date": "2026-10-13",
+      "summary": "Магнитные аксессуары могут негативно влиять на работу камеры iPhone. Исследование показало, что магниты в чехлах и других аксессуарах могут вызывать проблемы с автофокусом и стабилизацией изображения.",
+      "category": "photo",
+      "region": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/10/13/magnetic-accessories-can-affect-your-iphone-camera/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-13",
+      "id": "a4788995a201"
     }
   ],
   "_stats": {
-    "total_tokens": 296148,
-    "total_cost": 18.81056
+    "total_tokens": 313944,
+    "total_cost": 19.94766
   }
 }
