@@ -1,212 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Сеулские акции закрылись в минусе из-за падения технологических компаний на фоне роста доходности облигаций",
-      "title_en": "Seoul shares end lower on tech losses amid rising bond yields",
-      "date": "2026-10-06",
-      "summary": "Южнокорейский фондовый рынок завершил торги снижением. Падение произошло на фоне снижения котировок технологических компаний в условиях роста доходности государственных облигаций.",
-      "category": "tech",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261006006800320"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-06",
-      "id": "8971c155e140"
-    },
-    {
-      "title_ru": "Иран отправляет техническую делегацию в Катар для переговоров по иранским пилотам",
-      "title_en": "Iran to send technical delegation to Qatar for further talks on Iranian pilots: Minister",
-      "date": "2026-10-06",
-      "summary": "Иран направит техническую делегацию в Катар для дальнейших переговоров по вопросу иранских пилотов. Об этом заявил министр иностранных дел Ирана.",
-      "category": "politics",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/10/06/777727/Iran-send-technical-delegation-Qatar-for-further-talks-Iranian-pilots--Minister"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-06",
-      "id": "d8ef517f887c"
-    },
-    {
-      "title_ru": "Северная Корея предупредила о 'мощном противодействии' в случае вторжения Южной Кореи на свою территорию",
-      "title_en": "N. Korea warns of 'powerful counteraction' if S. Korea intrudes 'even a millimeter' into its territory",
-      "date": "2026-10-06",
-      "summary": "Северная Корея заявила о готовности применить 'мощное противодействие', если Южная Корея вторгнется на её территорию 'даже на миллиметр'. Заявление сделано в ответ на действия южнокорейской стороны.",
-      "category": "conflicts",
-      "region": "Корейский полуостров",
-      "perspective": "Северная Корея рассматривает действия Южной Кореи как нарушение суверенитета и готова к силовому ответу. Южная Корея, вероятно, рассматривает свои действия как законные в рамках обеспечения безопасности.",
-      "perspective_type": "assumed",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261006010600315"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-06",
-      "id": "9e95f9640293"
-    },
-    {
-      "title_ru": "За ночь над Россией сбили 868 беспилотников ВСУ",
-      "title_en": "За ночь над Россией сбили 868 беспилотников // Минобороны: силы ПВО за ночь сбили 868 БПЛА ВСУ над регионами России",
-      "date": "2026-10-06",
-      "summary": "Министерство обороны России сообщило, что за ночь силы противовоздушной обороны сбили 868 беспилотных летательных аппаратов ВСУ над регионами страны. Удары наносились по различным объектам.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9007050"
-      ],
-      "is_development": true,
-      "first_reported": "2026-10-06",
-      "id": "776effd5b7dc"
-    },
-    {
-      "title_ru": "Два коммерческих судна поражены дронами в Черном море у берегов Болгарии",
-      "title_en": "Two commercial ships hit with drones in Black Sea off Bulgaria",
-      "date": "2026-10-06",
-      "summary": "Два коммерческих судна подверглись атаке беспилотников в Черном море у побережья Болгарии. Инцидент произошел в международных водах, информация о повреждениях и пострадавших уточняется.",
-      "category": "svo",
-      "region": "Черное море",
-      "sources": [
-        "tass.com"
-      ],
-      "links": [
-        "https://tass.com/emergencies/2197969"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-06",
-      "id": "a98b895741b4"
-    },
-    {
-      "title_ru": "ВСУ атаковали 11 населенных пунктов Белгородской области за сутки",
-      "title_en": "ВСУ атаковали 11 населенных пунктов Белгородской области за сутки",
-      "date": "2026-10-06",
-      "summary": "Вооруженные силы Украины за сутки атаковали 11 населенных пунктов Белгородской области России. Об этом сообщили российские власти региона.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20261006/belgorod-2122575705.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-06",
-      "id": "76a9615aaf19"
-    },
-    {
-      "title_ru": "Португальские прокуроры расследуют использование США базы Лажеш во время войны с Ираном",
-      "title_en": "Portuguese prosecutors probe US use of Lajes base during war on Iran",
-      "date": "2026-10-06",
-      "summary": "Прокуроры Португалии начали расследование использования США военной базы Лажеш на Азорских островах во время войны с Ираном. Расследование касается возможных нарушений португальского законодательства.",
-      "category": "politics",
-      "region": "Португалия",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/10/04/777592/Portuguese-prosecutors-probe-US-military-use-of-Lajes-airbase-during-war-on-Iran"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-06",
-      "id": "1a4e2f5cfa33"
-    },
-    {
-      "title_ru": "Иран назначил нового посла в ОАЭ",
-      "title_en": "Iran appoints new ambassador to UAE",
-      "date": "2026-10-06",
-      "summary": "Иран назначил нового посла в Объединенные Арабские Эмираты. Назначение произошло в рамках дипломатических отношений между двумя странами.",
-      "category": "politics",
-      "region": "Иран",
-      "sources": [
-        "en.irna.ir"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86284973/Iran-appoints-new-ambassador-to-UAE"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-06",
-      "id": "67e9a3714bc4"
-    },
-    {
-      "title_ru": "Нобелевскую премию по физике получил бельгиец Хальцен за исследование нейтрино",
-      "title_en": "Нобелевскую премию по физике получил бельгиец Хальцен за исследование нейтрино",
-      "date": "2026-10-06",
-      "summary": "Нобелевскую премию по физике за 2026 год получил бельгийский ученый Хальцен. Премия присуждена за исследования космических нейтрино и создание нейтринной обсерватории IceCube.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9007146"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-06",
-      "id": "0fb973e8074f"
-    },
-    {
-      "title_ru": "Песков раскрыл формат прямой линии и пресс-конференции Путина",
-      "title_en": "Песков раскрыл формат прямой линии и пресс-конференции Путина",
-      "date": "2026-10-06",
-      "summary": "Пресс-секретарь президента России Дмитрий Песков сообщил, что прямая линия Владимира Путина в этом году снова будет совмещена с пресс-конференцией. Формат мероприятия останется прежним.",
-      "category": "politics",
-      "region": "Россия",
-      "sources": [
-        "rssexport.rbc.ru"
-      ],
-      "links": [
-        "https://www.rbc.ru/rbcfreenews/6ac214f69d07c6e52f5242ce"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-06",
-      "id": "dcd54763e513"
-    },
-    {
-      "title_ru": "Израиль отказал во въезде 33 гражданам Китая с поддельными японскими паспортами",
-      "title_en": "Israel denies entry to 33 Chinese nationals using fake Japanese passports at Allenby Crossing",
-      "date": "2026-10-06",
-      "summary": "Израильские пограничные службы отказали во въезде 33 гражданам Китая, которые пытались пересечь границу через контрольно-пропускной пункт Алленби с поддельными японскими паспортами.",
-      "category": "politics",
-      "region": "Израиль",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/israel-news/article-910761"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-06",
-      "id": "db7b995597f6"
-    },
-    {
-      "title_ru": "Иранский министр нефти подал в отставку, и.о. назначен глава NIOC",
-      "title_en": "Iran's oil minister resigns, NIOC chief appointed caretaker",
-      "date": "2026-10-06",
-      "summary": "Министр нефти Ирана подал в отставку. Временно исполняющим обязанности министра назначен глава Национальной иранской нефтяной компании (NIOC).",
-      "category": "economy",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/10/04/777627/Iran-oil-minister-Paknejad-resignation"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-06",
-      "id": "254b95d728b9"
-    },
-    {
       "title_ru": "Южная Корея успешно запустила ракету Nuri с выводом спутников на орбиту",
       "title_en": "S. Korea confirms successful 5th launch of Nuri space rocket",
       "date": "2026-10-07",
@@ -369,22 +163,6 @@
       "id": "2fe8ebacb790"
     },
     {
-      "title_ru": "В ЮАР суд отделил обвинения против Майезы от дела об убийстве AKA и Тибза",
-      "title_en": "Court separates Myeza charges from AKA and Tibz murder trial",
-      "date": "2026-10-06",
-      "summary": "Суд в ЮАР отделил обвинения против подозреваемого Майезы от основного дела об убийстве рэпера AKA и его менеджера Тибза. Решение принято для ускорения судебного процесса.",
-      "category": "politics",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-10-06-court-separates-myeza-charges-from-aka-and-tibz-murder-trial/"
-      ],
-      "first_reported": "2026-10-06",
-      "id": "81822e1f8e45"
-    },
-    {
       "title_ru": "Три муниципалитета Южной Кореи добавлены в список 'депопуляционных' районов",
       "title_en": "3 municipalities added to list of 'depopulation' areas, total at 92",
       "date": "2026-10-07",
@@ -415,38 +193,6 @@
       ],
       "first_reported": "2026-10-07",
       "id": "0c150bc08fcf"
-    },
-    {
-      "title_ru": "В ЮАР скончался бывший пресс-секретарь энергетической компании Eskom",
-      "title_en": "Former Eskom spokesperson, Khulu Phasiwe, dies at 52",
-      "date": "2026-10-06",
-      "summary": "Бывший пресс-секретарь южноафриканской энергетической компании Eskom Хулу Фасиве скончался в возрасте 52 лет. Он занимал должность пресс-секретаря с 2017 по — 2021 год.",
-      "category": "culture",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-10-06-former-eskom-spokesperson-khulu-phasiwe-dies-at-52/"
-      ],
-      "first_reported": "2026-10-06",
-      "id": "2fe3a39a64b6"
-    },
-    {
-      "title_ru": "Марсоход Curiosity отметил 5000-й день на Марсе панорамой песчаного хребта",
-      "title_en": "Curiosity Rover Celebrates Its 5,000th Day on Mars With Panorama of Sandy Ridge",
-      "date": "2026-10-06",
-      "summary": "Марсоход NASA Curiosity отметил свой 5000-й марсианский день (сол) панорамным снимком песчаного хребта. Ровер продолжает исследование кратера Гейла с 2012 года.",
-      "category": "photo",
-      "region": "Мир",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/10/06/curiosity-rover-celebrates-its-5000th-day-on-mars-with-panorama-of-sandy-ridge/"
-      ],
-      "first_reported": "2026-10-06",
-      "id": "d0fe0a165d56"
     },
     {
       "title_ru": "В Екатеринбурге побит рекорд 1937 года по годовому количеству осадков",
@@ -1269,22 +1015,6 @@
       ],
       "first_reported": "2026-10-09",
       "id": "f390dc08b169"
-    },
-    {
-      "title_ru": "Бывший глава немецкой разведки арестован по подозрению в шпионаже",
-      "title_en": "Former German spy chief arrested for attempted treason, espionage",
-      "date": "2026-10-06",
-      "summary": "Бывший глава немецкой разведки арестован по подозрению в государственной измене и шпионаже. Расследование ведется федеральной прокуратурой Германии.",
-      "category": "politics",
-      "region": "Германия",
-      "sources": [
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/world/article-former-german-spy-chief-august-hanning-arrested-attempted-treason/"
-      ],
-      "first_reported": "2026-10-06",
-      "id": "5d7345c251f2"
     },
     {
       "title_ru": "Северная Корея осудила доклад США о торговле людьми как провокацию",
@@ -2217,10 +1947,282 @@
       "is_development": false,
       "first_reported": "2026-10-13",
       "id": "a4788995a201"
+    },
+    {
+      "title_ru": "Индонезия создает национальную команду для поддержки развития центров обработки данных",
+      "title_en": "Indonesia plans national team to support data center development",
+      "date": "2026-10-13",
+      "summary": "Индонезия планирует создать национальную команду для поддержки развития центров обработки данных. Команда будет координировать развитие инфраструктуры ЦОД в стране.",
+      "category": "tech",
+      "region": "Индонезия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/435305/indonesia-plans-national-team-to-support-data-center-development"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-13",
+      "id": "d5fd772fe35d"
+    },
+    {
+      "title_ru": "Hyundai Motor расширяет производственные мощности в Индии",
+      "title_en": "Hyundai Motor expands production capacity in India",
+      "date": "2026-10-14",
+      "summary": "Южнокорейская компания Hyundai Motor расширяет производственные мощности в Индии. Решение направлено на увеличение присутствия на индийском автомобильном рынке.",
+      "category": "tech",
+      "region": "Индия",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261014004000320"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-14",
+      "id": "1992abfb0132"
+    },
+    {
+      "title_ru": "SpaceX ограничивает работу Starlink в Украине, что нарушает военные операции",
+      "title_en": "SpaceX limits Starlink operations in Ukraine, disrupting military ops., missile defense capability",
+      "date": "2026-10-14",
+      "summary": "Компания SpaceX ограничила работу спутниковой системы Starlink в Украине. Ограничения нарушают военные операции и возможности противоракетной обороны Украины.",
+      "category": "ai",
+      "region": "Украина",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/international/internationalrussia-ukraine-war/article-911642"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-14",
+      "id": "1847abbd620e"
+    },
+    {
+      "title_ru": "Кибератака вывела из строя холодильные системы в сотнях французских супермаркетов",
+      "title_en": "A fridge hack spoiled food in hundreds of French supermarkets. Cybersecurity experts say it's a wake-up call",
+      "date": "2026-10-14",
+      "summary": "Кибератака вывела из строя холодильные системы в сотнях французских супермаркетов. В результате испортились продукты питания, произошли возгорания.",
+      "category": "life",
+      "region": "Франция",
+      "sources": [
+        "www.cbc.ca"
+      ],
+      "links": [
+        "https://www.cbc.ca/news/business/france-fridge-hack-smart-devices-food-system-9.7379613?cmp=rss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-14",
+      "id": "69179b2ef455"
+    },
+    {
+      "title_ru": "В России прогнозируют снижение энергопотребления на 0,5% в 2026 году",
+      "title_en": "В России спрогнозировали снижение энергопотребления на 0,5% в 2026 году",
+      "date": "2026-10-14",
+      "summary": "В России прогнозируют снижение энергопотребления на 0,5% в 2026 году. Прогноз основан на текущих экономических показателях.",
+      "category": "life",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9026116"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-14",
+      "id": "b422dc38bc34"
+    },
+    {
+      "title_ru": "Хуситы атаковали несколько объектов в Саудовской Аравии",
+      "title_en": "Хуситы атаковали несколько объектов в Саудовской Аравии",
+      "date": "2026-10-14",
+      "summary": "Йеменские хуситы атаковали несколько объектов в Саудовской Аравии. Среди целей - административное здание Saudi Aramco.",
+      "category": "conflicts",
+      "region": "Саудовская Аравия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20261014/khusity-2124422368.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-14",
+      "id": "a57b6fd8551d"
+    },
+    {
+      "title_ru": "Саудовская коалиция и хуситы обменялись приказами об эвакуации нефтяных объектов",
+      "title_en": "Saudi-led coalition, Houthis issue tit-for-tat evac orders for oil sites",
+      "date": "2026-10-13",
+      "summary": "Саудовская коалиция и йеменские хуситы обменялись приказами об эвакуации нефтяных объектов. Обе стороны предупредили о возможных атаках на нефтяную инфраструктуру.",
+      "category": "conflicts",
+      "region": "Йемен",
+      "sources": [
+        "www.dailysabah.com"
+      ],
+      "links": [
+        "https://www.dailysabah.com/world/mid-east/saudi-led-coalition-houthis-issue-tit-for-tat-evac-orders-for-oil-sites"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-13",
+      "id": "5777eec196a5"
+    },
+    {
+      "title_ru": "Украина столкнулась с ограничениями Starlink и пробелами в разведданных во время российской атаки",
+      "title_en": "Ukraine blindsided by Starlink restrictions and intelligence gaps during Russian attack",
+      "date": "2026-10-14",
+      "summary": "Украина столкнулась с ограничениями Starlink и пробелами в разведданных во время российской ракетной атаки. Ограничения SpaceX нарушили работу систем связи и обороны.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "www.ft.com"
+      ],
+      "links": [
+        "https://www.ft.com/content/37085602-726a-44dc-a859-51caab38eb75?syn-25a6b1a6=1"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-14",
+      "id": "f6285f6addbf"
+    },
+    {
+      "title_ru": "Украина не имела разведданных только о первой волне ночного ракетного обстрела",
+      "title_en": "Ukraine lacked intelligence only on first wave of overnight missile launch — air force",
+      "date": "2026-10-14",
+      "summary": "Украина не имела разведданных только о первой волне ночного ракетного обстрела. Об этом заявили в ВВС Украины.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/world/2201757"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-14",
+      "id": "9849ed3216a4"
+    },
+    {
+      "title_ru": "Цены на нефть растут на фоне оценки рисков поставок из Саудовской Аравии",
+      "title_en": "Oil prices edge higher as traders weigh Saudi supply risks",
+      "date": "2026-10-14",
+      "summary": "Цены на нефть растут на фоне оценки трейдерами рисков поставок из Саудовской Аравии. Рост связан с эскалацией конфликта в регионе.",
+      "category": "economy",
+      "region": "Мир",
+      "sources": [
+        "en.mehrnews.com"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/248573/Oil-prices-edge-higher-as-traders-weigh-Saudi-supply-risks"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-14",
+      "id": "c67c511c9344"
+    },
+    {
+      "title_ru": "Европейская комиссия готовит 23-й пакет санкций против России",
+      "title_en": "Politico узнало о подготовке ЕК 23-го пакета санкций против России",
+      "date": "2026-10-13",
+      "summary": "Европейская комиссия готовит 23-й пакет санкций против России. Пакет может быть представлен до конца 2026 года.",
+      "category": "economy",
+      "region": "Европа",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9025311"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-13",
+      "id": "ca1f0cb091c0"
+    },
+    {
+      "title_ru": "Венгрия разморозила 4,2 миллиарда евро после четырех лет заморозки",
+      "title_en": "Four years frozen, 4.2 billion euros unlocked — but at what cost?",
+      "date": "2026-10-14",
+      "summary": "Венгрия разморозила 4,2 миллиарда евро после четырех лет заморозки. Средства были заблокированы из-за споров с Европейским союзом.",
+      "category": "politics",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/hungary/four-years-frozen-4-2-billion-euros-unlocked-but-at-what-cost/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-14",
+      "id": "7d11f9246f10"
+    },
+    {
+      "title_ru": "Суд США разрешил CNN, MS NOW и Politico сохранить доступ в Белый дом",
+      "title_en": "US judge allows CNN, MS NOW and Politico reporters to keep White House access",
+      "date": "2026-10-14",
+      "summary": "Суд США разрешил журналистам CNN, MS NOW и Politico сохранить доступ в Белый дом. Решение основано на Первой поправке к Конституции США.",
+      "category": "politics",
+      "region": "США",
+      "sources": [
+        "timesofindia.indiatimes.com"
+      ],
+      "links": [
+        "https://timesofindia.indiatimes.com/world/us/us-judge-allows-cnn-ms-now-and-politico-reporters-to-keep-white-house-access-cites-first-amendment/articleshow/134936891.cms"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-14",
+      "id": "0182fc3b7d6f"
+    },
+    {
+      "title_ru": "Южная Корея осуждает атаки хуситов на гражданские объекты Саудовской Аравии",
+      "title_en": "S. Korea condemns Houthi attacks on Saudi civilian facilities",
+      "date": "2026-10-14",
+      "summary": "Южная Корея осудила атаки хуситов на гражданские объекты Саудовской Аравии. Заявление сделано в связи с эскалацией конфликта в регионе.",
+      "category": "politics",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261014008400315"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-14",
+      "id": "1361c91d474a"
+    },
+    {
+      "title_ru": "МИД РФ допустил встречу России и США по взаимным раздражителям до конца года",
+      "title_en": "В МИД РФ допустили встречу Москвы и Вашингтона по «взаимным раздражителям» до конца года",
+      "date": "2026-10-13",
+      "summary": "МИД России допустил возможность встречи с США по вопросам взаимных раздражителей до конца 2026 года. Об этом заявил заместитель министра иностранных дел Сергей Рябков.",
+      "category": "statement",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9025709"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-13",
+      "id": "fdd967976250"
+    },
+    {
+      "title_ru": "Конституционный суд ЮАР отклонил иск охотников против закона о благополучии животных",
+      "title_en": "ConCourt dismisses hunters' challenge to animal well-being law",
+      "date": "2026-10-12",
+      "summary": "Конституционный суд ЮАР отклонил иск охотников против закона о благополучии животных. Суд поддержал законодательные ограничения на охоту.",
+      "category": "ecology",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/the-green-guardian/2026-10-12-concourt-dismisses-hunters-challenge-to-animal-well-being-law/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-12",
+      "id": "c10e6b6b0680"
     }
   ],
   "_stats": {
-    "total_tokens": 313944,
-    "total_cost": 19.94766
+    "total_tokens": 331678,
+    "total_cost": 21.0678
   }
 }
