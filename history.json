@@ -1,102 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Южная Корея успешно запустила ракету Nuri с выводом спутников на орбиту",
-      "title_en": "S. Korea confirms successful 5th launch of Nuri space rocket",
-      "date": "2026-10-07",
-      "summary": "Южная Корея провела пятый успешный запуск ракеты-носителя Nuri. Ракета вывела основные спутники на орбиту высотой 570 км.",
-      "category": "tech",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261007003600320"
-      ],
-      "first_reported": "2026-10-07",
-      "id": "b0dd7b75b6d2"
-    },
-    {
-      "title_ru": "У белого карлика впервые обнаружен кандидат в планету второго поколения",
-      "title_en": "Candidate for second-generation planet found near white dwarf",
-      "date": "2026-10-07",
-      "summary": "Астрономы впервые обнаружили кандидата в планету второго поколения у белого карлика. Это свидетельствует о возможности формирования планет после гибели звезды.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/astronomy/kandidata-v-planetu-vtorogo-pokoleniya"
-      ],
-      "first_reported": "2026-10-07",
-      "id": "14fd770158f2"
-    },
-    {
-      "title_ru": "Южная Корея начала расследование нефтепереработчиков по подозрению в сговоре о ценах",
-      "title_en": "Watchdog begins deliberations on oil refiners over alleged price rigging",
-      "date": "2026-10-07",
-      "summary": "Регулятор Южной Кореи начал рассмотрение дела против нефтеперерабатывающих компаний по подозрению в сговоре о ценах. Расследование касается возможного манипулирования ценами на нефтепродукты.",
-      "category": "economy",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261007004751320"
-      ],
-      "first_reported": "2026-10-07",
-      "id": "28068b13e08c"
-    },
-    {
-      "title_ru": "Апелляционный суд Южной Кореи оправдал экс-президента Юн Сок Ёля по делу о политических фондах",
-      "title_en": "Appeals court acquits ex-President Yoon in political funds trial over opinion polls",
-      "date": "2026-10-07",
-      "summary": "Апелляционный суд Южной Кореи оправдал бывшего президента Юн Сок Ёля по делу о незаконном использовании политических фондов для финансирования опросов общественного мнения. Решение отменяет предыдущий приговор.",
-      "category": "politics",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261007005900315"
-      ],
-      "first_reported": "2026-10-07",
-      "id": "96095e87ea7f"
-    },
-    {
-      "title_ru": "Президент Индонезии Прабово провел совещание с 800 старшими офицерами армии и полиции",
-      "title_en": "Prabowo gathers 800 senior military, police officers at palace",
-      "date": "2026-10-07",
-      "summary": "Президент Индонезии Прабово Субианто собрал 800 старших офицеров армии и полиции во дворце для обсуждения национальных вызовов. Совещание посвящено вопросам безопасности и обороны.",
-      "category": "politics",
-      "region": "Индонезия",
-      "sources": [
-        "en.antaranews.com"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/434456/prabowo-gathers-800-senior-military-police-officers-at-palace"
-      ],
-      "first_reported": "2026-10-07",
-      "id": "237cfe77b625"
-    },
-    {
-      "title_ru": "США передали Литве партию ударных беспилотников Switchblade 600",
-      "title_en": "U.S. delivers batch of Switchblade 600 attack drones to Lithuania",
-      "date": "2026-10-07",
-      "summary": "США передали Литве первую партию ударных беспилотников Switchblade 600. Поставка осуществляется в рамках военной помощи и укрепления обороноспособности Литвы.",
-      "category": "politics",
-      "region": "Литва",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9008008"
-      ],
-      "first_reported": "2026-10-07",
-      "id": "f0cea77ef697"
-    },
-    {
       "title_ru": "Иран сообщил о ликвидации террористических групп в Систане и Белуджистане",
       "title_en": "Iran Intelligence Ministry, IRGC neutralize terrorist squads in Sistan and Baluchistan",
       "date": "2026-10. 06",
@@ -112,87 +16,6 @@
       "is_development": true,
       "first_reported": "2026-10. 06",
       "id": "302dbede9d7d"
-    },
-    {
-      "title_ru": "Песков: разговор Путина и Трампа пока не согласовывался",
-      "title_en": "Peskov: Putin-Trump phone call not yet coordinated",
-      "date": "2026-10-07",
-      "summary": "Пресс-секретарь президента России Дмитрий Песков заявил, что телефонный разговор Владимира Путина и Дональда Трампа пока не согласовывался. Он отметил, что если США выступят с инициативой, беседу согласуют.",
-      "category": "politics",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20261007/peskov-2122884568.html"
-      ],
-      "first_reported": "2026-10-07",
-      "id": "5f380a2821f8"
-    },
-    {
-      "title_ru": "Глава МИД Беларуси прокомментировал планы Азербайджана принять председательство в СНГ",
-      "title_en": "Belarus Foreign Minister comments on Azerbaijan's plans to chair CIS in 2028",
-      "date": "2026-10-07",
-      "summary": "Министр иностранных дел Беларуси Сергей Алейник прокомментировал планы Азербайджана принять председательство в СНГ в 2028 году. Заявление сделано в контексте обсуждения будущего развития организации.",
-      "category": "politics",
-      "region": "Беларусь",
-      "sources": [
-        "www.belta.by"
-      ],
-      "links": [
-        "https://belta.by/politics/view/glava-mid-belarusi-prokommentiroval-plany-azerbajdzhana-prinjat-predsedatelstvo-v-sng-v-2028-godu-804791-2026/"
-      ],
-      "first_reported": "2026-10-07",
-      "id": "2d0012cbb9f9"
-    },
-    {
-      "title_ru": "Израиль заявил, что угонщик планировал разбить самолет в аэропорту Тель-Авива",
-      "title_en": "Hijacker planned to crash plane into Tel Aviv airport, says Israel",
-      "date": "2026-10-07",
-      "summary": "Израильские власти заявили, что второй пилот Flydubai, атаковавший капитана топором, планировал разбить самолет в аэропорту Тель-Авива. Инцидент произошел 3 октября во время рейса из Дубая.",
-      "category": "conflicts",
-      "region": "Израиль",
-      "sources": [
-        "www.smh.com.au"
-      ],
-      "links": [
-        "https://www.smh.com.au/world/middle-east/hijacker-planned-to-crash-plane-into-tel-aviv-airport-says-israel-20261007-p613op.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
-      ],
-      "is_development": true,
-      "first_reported": "2026-10-07",
-      "id": "2fe8ebacb790"
-    },
-    {
-      "title_ru": "Три муниципалитета Южной Кореи добавлены в список 'депопуляционных' районов",
-      "title_en": "3 municipalities added to list of 'depopulation' areas, total at 92",
-      "date": "2026-10-07",
-      "summary": "Три муниципалитета Южной Кореи добавлены в официальный список районов с депопуляцией. Общее число таких районов достигло 92. Решение отражает демографические тенденции в стране.",
-      "category": "life",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261007004400315"
-      ],
-      "first_reported": "2026-10-07",
-      "id": "1d0f4ef2a9e1"
-    },
-    {
-      "title_ru": "Южнокорейская вона продолжает укрепляться к доллару США",
-      "title_en": "S. Korean won keeps climbing against U.S. dollar",
-      "date": "2026-10-07",
-      "summary": "Южнокорейская вона продолжает укрепляться по отношению к доллару США. Тренд наблюдается на фоне макроэкономических факторов и торгового баланса страны.",
-      "category": "economy",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261007008100320"
-      ],
-      "first_reported": "2026-10-07",
-      "id": "0c150bc08fcf"
     },
     {
       "title_ru": "В Екатеринбурге побит рекорд 1937 года по годовому количеству осадков",
@@ -244,23 +67,6 @@
       "is_development": false,
       "first_reported": "2026-10-08",
       "id": "59f1053ffdc9"
-    },
-    {
-      "title_ru": "Полицейский убит на блокпосту в Анкаре",
-      "title_en": "Police officer killed in Ankara checkpoint shooting",
-      "date": "2026-10-07",
-      "summary": "Полицейский убит в результате стрельбы на блокпосту в Анкаре. Инцидент произошел во время проверки транспортных средств.",
-      "category": "conflicts",
-      "region": "Турция",
-      "sources": [
-        "www.turkishminute.com"
-      ],
-      "links": [
-        "https://www.turkishminute.com/2026/10/07/police-officer-killed-in-ankara-checkpoint-shooting/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-07",
-      "id": "f9f68369af6b"
     },
     {
       "title_ru": "Силы ПВО отражают атаку беспилотников на Омскую область",
@@ -331,40 +137,6 @@
       "id": "7aa5ef4b764c"
     },
     {
-      "title_ru": "Суд отменил запрет на освещение свидетелей по делу об убийстве AKA и Тибза в ЮАР",
-      "title_en": "Court lifts witness reporting ban in AKA and Tibz murder",
-      "date": "2026-10-07",
-      "summary": "Суд в Южной Африке отменил запрет на освещение информации о свидетелях по делу об убийстве рэпера AKA и предпринимателя Тибза. Решение принято Высоким судом Дурбана.",
-      "category": "politics",
-      "region": "Южная Африка",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-10-07-court-lifts-witness-reporting-ban-in-aka-and-tibz-murder/"
-      ],
-      "is_development": true,
-      "first_reported": "2026-10-07",
-      "id": "1bd44197bbbf"
-    },
-    {
-      "title_ru": "ВОЗ призывает Россию предоставить больше информации о смерти в институте чумы",
-      "title_en": "WHO urges Russia to release more info on plague institute death",
-      "date": "2026-10-07",
-      "summary": "Всемирная организация здравоохранения призывает Россию предоставить больше информации о смерти сотрудницы в Сибирском научно-исследовательском институте чумы в Иркутске. ВОЗ заявляет о невозможности полностью оценить ситуацию.",
-      "category": "politics",
-      "region": "Россия",
-      "sources": [
-        "www.dailysabah.com"
-      ],
-      "links": [
-        "https://www.dailysabah.com/world/europe/who-urges-russia-to-release-more-info-on-plague-institute-death"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-07",
-      "id": "2ff39e67e201"
-    },
-    {
       "title_ru": "США предъявят новые обвинения в пытках президенту Венесуэлы Мадуро и его жене",
       "title_en": "US to lay fresh torture charges against Venezuela's Maduro and wife",
       "date": "2026-10-08",
@@ -380,23 +152,6 @@
       "is_development": false,
       "first_reported": "2026-10-08",
       "id": "e0a37c96ba1a"
-    },
-    {
-      "title_ru": "Мета внедряет инструменты ИИ для обнаружения рекламы, ведущей к материалам о сексуальном насилии над детьми",
-      "title_en": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-      "date": "2026-10-07",
-      "summary": "Компания Meta внедряет новые инструменты искусственного интеллекта для обнаружения рекламы, которая скрыто ведет к материалам о сексуальном насилии над детьми. Система анализирует поведение пользователей после кликов по рекламе.",
-      "category": "ai",
-      "region": "США",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-07",
-      "id": "1b241d22b40a"
     },
     {
       "title_ru": "Ученые выяснили, как быстро вейп разрушает легкие и иммунитет",
@@ -564,25 +319,6 @@
       "id": "f0e6b0e8a87c"
     },
     {
-      "title_ru": "Власти Финляндии приостановили строительство дата-центров Google",
-      "title_en": "Vlasti Finlyandii priostanovili stroitelstvo data-tsentrov Google",
-      "date": "2026-10-07",
-      "summary": "Финские власти приостановили строительство дата-центров Google на территории страны. Решение связано с экологическими соображениями и энергопотреблением объектов.",
-      "category": "tech",
-      "region": "Финляндия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9007957"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-07",
-      "id": "280d342f390e"
-    },
-    {
       "title_ru": "Google сделал бесплатным для всех детектор ИИ-изображений SynthID",
       "title_en": "Google's SynthID AI Detector is Now Freely Available to Everyone",
       "date": "2026-10-08",
@@ -714,25 +450,6 @@
       "is_development": false,
       "first_reported": "2026-10-08",
       "id": "f35210682af3"
-    },
-    {
-      "title_ru": "Центробанк Индии впервые с 2023 года повысил процентные ставки",
-      "title_en": "India's central bank hikes rates for the first time since 2023 as inflation risks build",
-      "date": "2026-10-07",
-      "summary": "Резервный банк Индии повысил ключевую процентную ставку впервые с 2023 года. Решение принято на фоне роста инфляционных рисков в экономике страны.",
-      "category": "economy",
-      "region": "Южная и Юго-Восточная Азия",
-      "sources": [
-        "www.cnbc.com"
-      ],
-      "links": [
-        "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-07",
-      "id": "0f124d76d2e0"
     },
     {
       "title_ru": "Ученые сравнили сон людей и собак и выяснили, кто первым нарушает ночной покой",
@@ -2219,10 +1936,292 @@
       "is_development": false,
       "first_reported": "2026-10-12",
       "id": "c10e6b6b0680"
+    },
+    {
+      "title_ru": "TSEC оптимистичен в связи с ростом спроса на зеленую энергию",
+      "title_en": "TSEC optimistic as green energy demand picks up",
+      "date": "2026-10-15",
+      "summary": "Тайваньская компания TSEC сообщила о росте спроса на зеленую энергию. Компания выражает оптимизм в связи с увеличением заказов на свою продукцию.",
+      "category": "tech",
+      "region": "Тайвань",
+      "sources": [
+        "www.taipeitimes.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/biz/archives/2026/10/15/2003865970"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-15",
+      "id": "282d753617bd"
+    },
+    {
+      "title_ru": "В МФТИ разработали метод анализа структуры сплавов с помощью терагерцевого излучения",
+      "title_en": "In MIPT learned to see the hidden structure of layered alloys using terahertz radiation",
+      "date": "2026-10-15",
+      "summary": "Ученые Московского физико-технического института разработали метод неразрушающего контроля структуры слоистых сплавов с использованием терагерцевого излучения. Метод позволяет анализировать внутреннюю структуру материалов без их повреждения.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/column/strukturu-sloistyh-splavov"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-15",
+      "id": "9af756ab552e"
+    },
+    {
+      "title_ru": "Продажи электромобилей в США демонстрируют признаки роста",
+      "title_en": "Electric vehicle sales in the US are showing signs of life",
+      "date": "2026-10-14",
+      "summary": "Продажи электромобилей в США начали показывать признаки восстановления после периода замедления. Данные указывают на возобновление интереса потребителей к электромобилям.",
+      "category": "tech",
+      "region": "США",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-14",
+      "id": "8fc47399e88c"
+    },
+    {
+      "title_ru": "Сеулские акции упали более чем на 7% на фоне проблем с чипами и инфляции",
+      "title_en": "Seoul shares crash over 7 pct on chip rout amid AI, inflation woes",
+      "date": "2026-10-15",
+      "summary": "Индекс KOSPI в Южной Корее упал более чем на 7% из-за проблем в секторе полупроводников и опасений по поводу инфляции. Падение связано с коррекцией на рынке чипов и макроэкономическими факторами.",
+      "category": "ai",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261015007200320"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-15",
+      "id": "71c0c4364440"
+    },
+    {
+      "title_ru": "В Пакистане при обрушении крыши школы погибли более 20 детей",
+      "title_en": "In Pakistan, more than 20 children killed in school roof collapse",
+      "date": "2026-10-15",
+      "summary": "В Пакистане обрушилась крыша школы, в результате чего погибли не менее 20 детей и учительница. Инцидент произошел в учебном заведении во время занятий.",
+      "category": "life",
+      "region": "Пакистан",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9026950"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-15",
+      "id": "6e003a4df2ff"
+    },
+    {
+      "title_ru": "КНДР обвинила Японию в 'зловещих намерениях' из-за атомных подводных лодок",
+      "title_en": "N. Korea accuses Japan of 'sinister intention' over nuclear-powered submarines",
+      "date": "2026-10-15",
+      "summary": "Северная Корея обвинила Японию в наличии 'зловещих намерений' в связи с планами Токио по строительству атомных подводных лодок. Заявление сделано через государственные СМИ КНДР.",
+      "category": "conflicts",
+      "region": "КНДР",
+      "perspective": "КНДР рассматривает японские планы как угрозу, Япония может считать их оборонительными",
+      "perspective_type": "from_source",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261015009100315"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-15",
+      "id": "512d6edda4d4"
+    },
+    {
+      "title_ru": "Судно затонуло в Ормузском проливе после подрыва на морской мине",
+      "title_en": "Ship navigating unauthorized route sinks in Strait of Hormuz after striking naval mine: IRGC",
+      "date": "2026-10-14",
+      "summary": "Судно, следовавшее по несанкционированному маршруту, затонуло в Ормузском проливе после подрыва на морской мине. Инцидент произошел в районе, контролируемом иранскими вооруженными силами.",
+      "category": "conflicts",
+      "region": "Иран",
+      "perspective": "Иран заявляет о нарушении судном установленных маршрутов, другие стороны могут рассматривать это как ограничение свободы судоходства",
+      "perspective_type": "from_source",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/10/14/778292/Ship-navigating-unauthorized-route-sinks-in-Strait-of-Hormuz-after-striking-naval-mine--IRGC"
+      ],
+      "is_development": true,
+      "first_reported": "2026-10-14",
+      "id": "1fe7a4b90bb4"
+    },
+    {
+      "title_ru": "ВС РФ поразили ТЭЦ-6 и ТЭС 'Трипольская' в Киевской области",
+      "title_en": "Russian Defense Ministry: Russian Armed Forces hit TPP-6 and Tripolskaya TPP in Kyiv region",
+      "date": "2026-10-14",
+      "summary": "Министерство обороны России сообщило о поражении ТЭЦ-6 и ТЭС 'Трипольская' в Киевской области. Удары были нанесены в рамках специальной военной операции.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9026093"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-14",
+      "id": "e698b9e0f403"
+    },
+    {
+      "title_ru": "В районе Брянской области установили оцепление из-за сбросов с БПЛА",
+      "title_en": "Cordon established in Bryansk region due to UAV drops",
+      "date": "2026-10-15",
+      "summary": "В одном из районов Брянской области установлено оцепление в связи со сбросами с беспилотных летательных аппаратов. Меры приняты для обеспечения безопасности населения.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/28216621"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-15",
+      "id": "c90479e292f9"
+    },
+    {
+      "title_ru": "Россия будет импортировать бензин минимум до конца года",
+      "title_en": "Russia will import gasoline at least until the end of the year, Novak said",
+      "date": "2026-10-15",
+      "summary": "Вице-премьер России Александр Новак заявил, что страна будет импортировать бензин как минимум до конца 2026 года. Решение связано с необходимостью обеспечения внутреннего рынка.",
+      "category": "economy",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20261015/rossija-2124640573.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-15",
+      "id": "778dfe2c396b"
+    },
+    {
+      "title_ru": "Россия к концу года займет более 10% мирового рынка дизеля",
+      "title_en": "Novak: Russia by the end of the year will occupy more than 10% of the world diesel market",
+      "date": "2026-10-14",
+      "summary": "Александр Новак сообщил, что Россия к концу 2026 года займет более 10% мирового рынка дизельного топлива. Прогноз основан на текущих объемах производства и экспорта.",
+      "category": "economy",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9026478"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-14",
+      "id": "15b4fbf1f08c"
+    },
+    {
+      "title_ru": "В Венгрии разморозили 4,2 миллиарда евро после четырех лет заморозки",
+      "title_en": "Four years frozen, 4.2 billion euros unlocked — but at what cost?",
+      "date": "2026-10-14",
+      "summary": "Венгрия получила доступ к 4,2 миллиардам евро из фондов ЕС после четырех лет их заморозки. Средства были разблокированы после выполнения страной определенных условий.",
+      "category": "politics",
+      "region": "Венгрия",
+      "perspective": "Правительство Венгрии рассматривает это как успех, оппозиция критикует условия разморозки",
+      "perspective_type": "assumed",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/hungary/four-years-frozen-4-2-billion-euros-unlocked-but-at-what-cost/"
+      ],
+      "is_development": true,
+      "first_reported": "2026-10-14",
+      "id": "d308a33a5374"
+    },
+    {
+      "title_ru": "В ЮАР избран новый национальный лидер COSATU",
+      "title_en": "New COSATU national leadership elected",
+      "date": "2026-10-14",
+      "summary": "В Южно-Африканской Республике избран новый национальный лидер Конгресса южноафриканских профсоюзов (COSATU). Выборы прошли на национальном съезде организации.",
+      "category": "politics",
+      "region": "ЮАР",
+      "perspective": "Новое руководство будет представлять интересы рабочих, оппозиция может критиковать процесс выборов",
+      "perspective_type": "assumed",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-10-14-new-cosa-national-leadership-elected/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-14",
+      "id": "0d3fdf19e9d7"
+    },
+    {
+      "title_ru": "Оман поддержал роль Пакистана в диалоге Ирана и США",
+      "title_en": "Oman backs Pakistan's role in Iran-US dialogue as lawmakers call for regional diplomacy",
+      "date": "2026-10-15",
+      "summary": "Оман поддержал посредническую роль Пакистана в диалоге между Ираном и США. Заявление сделано на фоне призывов парламентариев к региональной дипломатии.",
+      "category": "politics",
+      "region": "Оман",
+      "perspective": "Оман рассматривает Пакистан как посредника, другие региональные игроки могут иметь альтернативные подходы",
+      "perspective_type": "from_source",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/10/15/778342/Oman-backs-Pakistan%E2%80%99s-role-in-Iran-US-dialogue-as-lawmakers-call-for-regional-diplomacy"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-15",
+      "id": "bedebdab315e"
+    },
+    {
+      "title_ru": "Иран заявил о нейтрализации возможностей США на 17 региональных базах",
+      "title_en": "Iran has neutralized virtually all US capabilities at 17 regional bases: IRGC adviser",
+      "date": "2026-10-14",
+      "summary": "Советник Корпуса стражей исламской революции Ирана заявил, что страна нейтрализовала практически все возможности США на 17 региональных базах. Заявление сделано в контексте регионального противостояния.",
+      "category": "statement",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/10/14/778308/iran-has-neutralized-virtually-all-us-capabilities-at-17-regional-bases-irgc-adviser"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-14",
+      "id": "38e14b12de8b"
+    },
+    {
+      "title_ru": "Африка столкнулась с 'провалом адаптации' из-за недостатка климатического финансирования",
+      "title_en": "Africa faces 'failed adaptation' as climate finance falls billions short",
+      "date": "2026-10-13",
+      "summary": "Африканские страны столкнулись с риском 'провала адаптации' к изменению климата из-за недостаточного финансирования. Объем климатического финансирования для континента на миллиарды долларов ниже необходимого.",
+      "category": "ecology",
+      "region": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/the-green-guardian/2026-10-13-africa-faces-failed-adaptation-as-climate-finance-falls-billions-short/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-13",
+      "id": "f99b490f1a72"
     }
   ],
   "_stats": {
-    "total_tokens": 331678,
-    "total_cost": 21.0678
+    "total_tokens": 349729,
+    "total_cost": 22.21408
   }
 }
