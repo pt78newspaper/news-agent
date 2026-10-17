@@ -18,317 +18,6 @@
       "id": "302dbede9d7d"
     },
     {
-      "title_ru": "Иранские власти заявили о закрытии Ормузского пролива и блокировке незаконных маршрутов",
-      "title_en": "Strait of Hormuz remains 'closed', illegal routes to be blocked soon: IRGC advisor",
-      "date": "2026-10-09",
-      "summary": "Советник Корпуса стражей исламской революции Ирана заявил, что Ормузский пролив остается закрытым. Незаконные маршруты будут заблокированы в ближайшее время.",
-      "category": "conflicts",
-      "region": "Ближний Восток",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/10/07/777845/Strait-of-Hormuz-closed-illegal-routes-to-be-blocked--IRGC-"
-      ],
-      "perspective": "Иран заявляет о контроле над стратегическим проливом, что может рассматриваться как демонстрация силы",
-      "perspective_type": "from_source",
-      "is_development": false,
-      "first_reported": "2026-10-09",
-      "id": "9e664f789dea"
-    },
-    {
-      "title_ru": "Южная Корея отчиталась о росте продаж зимних товаров в магазинах",
-      "title_en": "Sales of winter products surge at convenience stores amid chilly weather",
-      "date": "2026-10-09",
-      "summary": "Продажи зимних товаров в магазинах Южной Кореи выросли на фоне похолодания. В частности, увеличились продажи грелок для рук и теплых напитков.",
-      "category": "life",
-      "region": "Дальний Восток",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261009001700320"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-09",
-      "id": "63f179a0f668"
-    },
-    {
-      "title_ru": "Армия России взяла населенный пункт Кияница в Сумской области",
-      "title_en": "Armiya Rossii vzyala Kiyanitsu v Sumskoy oblasti",
-      "date": "2026-10-09",
-      "summary": "Российские военные взяли под контроль населенный пункт Кияница в Сумской области Украины. Об этом сообщило Министерство обороны России.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9009821"
-      ],
-      "perspective": "Россия сообщает о продвижении своих войск на украинской территории",
-      "perspective_type": "from_source",
-      "is_development": false,
-      "first_reported": "2026-10-09",
-      "id": "6e27fcc8b4e0"
-    },
-    {
-      "title_ru": "Минобороны России сообщило об ударе по мосту через Оскол в Харьковской области",
-      "title_en": "Minoborony Rossii soobshchilo ob udare po mostu cherez Oskol v Kharkovskoy oblasti",
-      "date": "2026-10-09",
-      "summary": "Министерство обороны России заявило о нанесении удара по мосту через реку Оскол на купянском направлении в Харьковской области Украины.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9009643"
-      ],
-      "perspective": "Россия сообщает о нанесении ударов по инфраструктуре на украинской территории",
-      "perspective_type": "from_source",
-      "is_development": false,
-      "first_reported": "2026-10-09",
-      "id": "fabdfdc186b8"
-    },
-    {
-      "title_ru": "SpaceX рассказала о планах создания орбитальных дата-центров",
-      "title_en": "SpaceX рассказала, как будут устроены ее дата-центры на орбите",
-      "date": "2026-10-09",
-      "summary": "Компания SpaceX представила концепцию орбитальных дата-центров. Компания планирует размещать вычислительные мощности на низкой околоземной орбите.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/cosmonautics/spacex-data-tsentry-na-orbite"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-09",
-      "id": "28f6e0d60cee"
-    },
-    {
-      "title_ru": "SpaceX намерена стать полноценным мобильным оператором в США",
-      "title_en": "SpaceX намерена стать полноценным мобильным оператором в США",
-      "date": "2026-10-09",
-      "summary": "Компания SpaceX подала заявку в Федеральную комиссию по связи США на получение лицензии мобильного оператора. Компания планирует предоставлять услуги спутниковой связи Starlink для мобильных устройств.",
-      "category": "tech",
-      "region": "США",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9009608"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-09",
-      "id": "f0e6b0e8a87c"
-    },
-    {
-      "title_ru": "Премьер-министр Южной Кореи заявил о необходимости сохранения корейского языка в эпоху ИИ",
-      "title_en": "PM vows efforts to uphold value of Hangeul in AI era",
-      "date": "2026-10-09",
-      "summary": "Премьер-министр Южной Кореи Хан Дук Су заявил о необходимости сохранения и развития корейского языка хангыль в эпоху искусственного интеллекта. Он подчеркнул важность языковой идентичности.",
-      "category": "ai",
-      "region": "Дальний Восток",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261009003400315"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-09",
-      "id": "4dc09c0bded5"
-    },
-    {
-      "title_ru": "ЮАР отменила директиву о предоставлении убежища после протестов против мигрантов",
-      "title_en": "South Africa pulls asylum directive after violent protests",
-      "date": "2026-10-09",
-      "summary": "Власти ЮАР отозвали директиву о предоставлении убежища после насильственных протестов против мигрантов. Решение принято на фоне роста антииммигрантских настроений в стране.",
-      "category": "politics",
-      "region": "Африка",
-      "sources": [
-        "rss.dw.com"
-      ],
-      "links": [
-        "https://www.dw.com/en/south-africa-pulls-asylum-directive-after-violent-protests/a-79605037?maca=en-rss-en-all-1573-xml-mrss"
-      ],
-      "perspective": "Власти ЮАР реагируют на общественное давление, отменяя миграционную политику",
-      "perspective_type": "from_source",
-      "is_development": false,
-      "first_reported": "2026-10-09",
-      "id": "cb6dd896dc54"
-    },
-    {
-      "title_ru": "Президент Ирана предложил создать формат 'СНГ+1' с участием Ирана",
-      "title_en": "Pezeshkian предложил создать формат 'СНГ+1' с участием Ирана",
-      "date": "2026-10-09",
-      "summary": "Президент Ирана Масуд Пезешкиан предложил создать формат 'СНГ+1' с участием Ирана. Инициатива озвучена на саммите Содружества Независимых Государств.",
-      "category": "politics",
-      "region": "Европа",
-      "sources": [
-        "www.belta.by"
-      ],
-      "links": [
-        "https://belta.by/politics/view/pezeshkian-predlozhil-sozdat-format-sng1-s-uchastiem-irana-805166-2026/"
-      ],
-      "perspective": "Иран предлагает расширить формат сотрудничества с постсоветскими странами",
-      "perspective_type": "from_source",
-      "is_development": false,
-      "first_reported": "2026-10-09",
-      "id": "8f66bb8e082a"
-    },
-    {
-      "title_ru": "Президент Казахстана предложил сформировать портфель флагманских проектов СНГ на 2027-2030 годы",
-      "title_en": "Tokayev предложил сформировать портфель флагманских проектов СНГ на 2027-2030 годы",
-      "date": "2026-10-09",
-      "summary": "Президент Казахстана Касым-Жомарт Токаев предложил сформировать портфель флагманских проектов Содружества Независимых Государств на период 2027-2030 годов. Инициатива озвучена на саммите СНГ.",
-      "category": "politics",
-      "region": "Европа",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/ekonomika/28198195"
-      ],
-      "perspective": "Казахстан предлагает конкретный план экономического сотрудничества в рамках СНГ",
-      "perspective_type": "from_source",
-      "is_development": false,
-      "first_reported": "2026-10-09",
-      "id": "3c0be0deaa28"
-    },
-    {
-      "title_ru": "Во Франции продолжаются протесты студентов на фоне долгового кризиса",
-      "title_en": "France's debt crisis and high school protests draw global attention",
-      "date": "2026-10-09",
-      "summary": "Во Франции продолжаются протесты студентов, которые привлекают международное внимание. Ситуация развивается на фоне рекордного государственного долга страны.",
-      "category": "politics",
-      "region": "Европа",
-      "sources": [
-        "www.lemonde.fr"
-      ],
-      "links": [
-        "https://www.lemonde.fr/en/international/article/2026/10/09/between-record-debt-and-high-school-protests-france-s-situation-draws-global-attention_6758409_4.html"
-      ],
-      "perspective": "Франция сталкивается с социальными протестами на фоне экономических проблем",
-      "perspective_type": "from_source",
-      "is_development": false,
-      "first_reported": "2026-10-09",
-      "id": "2848c30fa42c"
-    },
-    {
-      "title_ru": "Ученые сравнили сон людей и собак и выяснили, кто первым нарушает ночной покой",
-      "title_en": "Uchenye sravnili son lyudey i sobak i vyyasnili, kto pervym narushaet nochnoy pokoy",
-      "date": "2026-10-09",
-      "summary": "Российские ученые провели исследование, сравнив сон людей и собак. Исследование показало, кто из них чаще нарушает ночной покой.",
-      "category": "tech",
-      "region": "Россия",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/biology/son-lyudei-i-sobak"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-09",
-      "id": "394df393af44"
-    },
-    {
-      "title_ru": "Президент России выступил за сохранение экосистемы Каспийского моря",
-      "title_en": "Putin zayavil, chto Rossiya vystupaet za sokhranenie ekosistemy Kaspiya",
-      "date": "2026-10-09",
-      "summary": "Президент России Владимир Путин заявил, что Россия выступает за сохранение экосистемы Каспийского моря. Он подчеркнул важность межгосударственного взаимодействия по этому вопросу.",
-      "category": "statement",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20261009/rossija-2123459456.html"
-      ],
-      "perspective": "Россия позиционирует себя как ответственного участника регионального экологического сотрудничества",
-      "perspective_type": "from_source",
-      "is_development": false,
-      "first_reported": "2026-10-09",
-      "id": "004b336a8b91"
-    },
-    {
-      "title_ru": "Полиция расширяет группу по расследованию взлома финансовых учреждений в Южной Корее",
-      "title_en": "Police expand team investigating recent hacking of financial institutions",
-      "date": "2026-10-09",
-      "summary": "Полиция Южной Кореи расширила состав группы, расследующей недавний взлом финансовых учреждений. Расследование продолжается.",
-      "category": "tech",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261009003600315"
-      ],
-      "first_reported": "2026-10-09",
-      "id": "e9c8765004e8"
-    },
-    {
-      "title_ru": "Глава SK обещает ускорить строительство нового кластера чипов на юго-западе",
-      "title_en": "SK chief vows to speed up construction of new chip cluster in southwest",
-      "date": "2026-10-09",
-      "summary": "Глава южнокорейской группы компаний SK пообещал ускорить строительство нового кластера по производству чипов в юго-западном регионе страны. Проект направлен на развитие полупроводниковой промышленности.",
-      "category": "tech",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261009004000320"
-      ],
-      "first_reported": "2026-10-09",
-      "id": "13f2cda7b9dd"
-    },
-    {
-      "title_ru": "Иран предлагает долгосрочный план действий по падению уровня Каспийского моря",
-      "title_en": "Iran proposes long-term action plan to address falling water level of Caspian Sea",
-      "date": "2026-10-09",
-      "summary": "Иран предложил долгосрочный план действий для решения проблемы падения уровня воды в Каспийском море. План направлен на экологическую стабилизацию региона.",
-      "category": "tech",
-      "region": "Иран",
-      "sources": [
-        "en.irna.ir"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86287637/Iran-proposes-long-term-action-plan-to-address-falling-water"
-      ],
-      "first_reported": "2026-10-09",
-      "id": "9210a410fa1c"
-    },
-    {
-      "title_ru": "ООН предупреждает о технологии для чтения мыслей граждан",
-      "title_en": "U.N. Warns Against Technology Used to Read Citizens’ Minds",
-      "date": "2026-10-09",
-      "summary": "Организация Объединенных Наций выступила с предупреждением о технологии, используемой для чтения мыслей граждан. Заявление касается потенциальных рисков для прав человека.",
-      "category": "ai",
-      "region": "Мир",
-      "sources": [
-        "rss.nytimes.com"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/10/08/world/europe/united-nations-technology-warning.html"
-      ],
-      "first_reported": "2026-10-09",
-      "id": "6ceaaf1e932a"
-    },
-    {
       "title_ru": "Глава Ростелекома высказался о рисках атак ИИ",
       "title_en": "Head of Rostelecom hopes humanity will calculate risks from AI attacks",
       "date": "2026-10-10",
@@ -375,42 +64,6 @@
       ],
       "first_reported": "2026.10-10",
       "id": "6a433d7a6e57"
-    },
-    {
-      "title_ru": "Хуситы атаковали аэропорт Эр-Рияда, погибли три человека",
-      "title_en": "Three killed in attacks on Riyadh airport as Iran-backed Houthis step up strikes on Saudi Arabia",
-      "date": "2026-10-09",
-      "summary": "Боевики хуситского движения Йемена атаковали международный аэропорт Эр-Рияда. В результате нападения погибли три человека.",
-      "category": "conflicts",
-      "region": "Саудовская Аравия",
-      "perspective": "Хуситы заявляют об атаке как об ответе на действия саудовской коалиции. Саудовская Аравия и её союзники осуждают нападение как террористический акт.",
-      "perspective_type": "assumed",
-      "sources": [
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/world/article-saudi-houthi-attacks-riyadh-airport/"
-      ],
-      "first_reported": "2026-10-09",
-      "id": "384ac86f617a"
-    },
-    {
-      "title_ru": "Иранские силы предупредили суда о нарушении маршрутов в Ормузском проливе",
-      "title_en": "IRGC warns vessels against violating designated routes in Strait of Hormuz",
-      "date": "2026-10-09",
-      "summary": "Корпус стражей исламской революции Ирана предупредил суда о недопустимости нарушения установленных маршрутов в Ормузском проливе. Заявление сделано на фоне напряженности в регионе.",
-      "category": "conflicts",
-      "region": "Иран",
-      "perspective": "Иран заявляет о праве контролировать судоходство в своих территориальных водах. США и их союзники рассматривают такие действия как угрозу свободе судоходства.",
-      "perspective_type": "assumed",
-      "sources": [
-        "en.irna.ir"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86287769/IRGC-warns-vessels-against-violating-designated-routes-in-Strait"
-      ],
-      "first_reported": "2026-10-09",
-      "id": "2b581687c733"
     },
     {
       "title_ru": "Минобороны России сообщило об ударе по объектам энергетики, используемым ВСУ",
@@ -477,22 +130,6 @@
       "id": "2c013e167fa7"
     },
     {
-      "title_ru": "Индия и провинция Мпумаланга развивают торговые отношения",
-      "title_en": "India–Mpumalanga: Building on Trade, Opening New Frontiers",
-      "date": "2026-10-09",
-      "summary": "Индия и южноафриканская провинция Мпумаланга развивают торговые отношения, открывая новые направления сотрудничества. Речь идет о расширении экономических связей.",
-      "category": "economy",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/thought-leader/the-diplomat/2026-10-09-india-mpumalanga-building-on-trade-opening-new-frontiers/"
-      ],
-      "first_reported": "2026-10-09",
-      "id": "f390dc08b169"
-    },
-    {
       "title_ru": "Северная Корея осудила доклад США о торговле людьми как провокацию",
       "title_en": "N. Korea slams U.S. human trafficking report as grave provocation",
       "date": "2026-10-10",
@@ -507,22 +144,6 @@
       ],
       "first_reported": "2026-10-10",
       "id": "f3a81b4709ec"
-    },
-    {
-      "title_ru": "В Южной Корее возникли опасения по альянсу с США из-за игнорирования разведки",
-      "title_en": "Spy agency snub raises U.S. alliance concerns in S. Korea",
-      "date": "2026-10-09",
-      "summary": "В Южной Корее возникли опасения по поводу альянса с США после того, как американская сторона проигнорировала южнокорейскую разведку в ходе одного из инцидентов. Ситуация обсуждается в политических кругах.",
-      "category": "politics",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261009003551315"
-      ],
-      "first_reported": "2026-10-09",
-      "id": "b9734b7f9103"
     },
     {
       "title_ru": "Турция осудила атаки хуситов на саудовские аэропорты",
@@ -758,25 +379,6 @@
       "is_development": true,
       "first_reported": "2026-10-11",
       "id": "9d1b72b56504"
-    },
-    {
-      "title_ru": "В ЮАР вице-президент Машатиле возобновил исполнение обязанностей после болезни",
-      "title_en": "Mashatile resumes his duties after illness",
-      "date": "2026-10-09",
-      "summary": "Вице-президент ЮАР Пол Машатиле возобновил исполнение своих обязанностей после перенесенного заболевания. Он вернулся к работе 9 октября 2026 года.",
-      "category": "politics",
-      "region": "ЮАР",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/politics/2026-10-09-mashatile-resumes-his-duties-after-illness/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-09",
-      "id": "593a3ef4199d"
     },
     {
       "title_ru": "Песков заявил, что Шредер не обращает внимания на критику из-за встречи с Путиным",
@@ -2243,10 +1845,333 @@
       "is_development": false,
       "first_reported": "2026-10-16 11:15:59+03:00",
       "id": "39cfb517ec08"
+    },
+    {
+      "title_ru": "Биологи выяснили, что мужская и женская кожа обновляется по-разному",
+      "title_en": "Biologists find that male and female skin renews differently",
+      "date": "2026-10-16",
+      "summary": "Российские биологи установили различия в процессах обновления кожи у мужчин и женщин. Исследование выявило фундаментальные различия в клеточных механизмах регенерации кожи в зависимости от пола.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/biology/kozha-pol"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-16",
+      "id": "0ee0a8d5f974"
+    },
+    {
+      "title_ru": "Астрономы вычислили скорость сжатия Луны по разломам на ее поверхности",
+      "title_en": "Astronomers calculate the rate of Moon's compression from faults on its surface",
+      "date": "2026-10-16",
+      "summary": "Ученые определили скорость сжатия Луны, анализируя разломы на ее поверхности. Исследование позволило количественно оценить процессы геологической активности спутника Земли.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/cosmonautics/szhatiye-luny-izuchili"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-16",
+      "id": "3bd64ded2aef"
+    },
+    {
+      "title_ru": "Ученые из России обнаружили микропластик во всех пробах снега Западной Сибири",
+      "title_en": "Russian scientists find microplastics in all snow samples from Western Siberia",
+      "date": "2026-10-16",
+      "summary": "Исследователи обнаружили микропластик во всех взятых пробах снега в Западной Сибири. Результаты свидетельствуют о повсеместном загрязнении окружающей среды пластиковыми частицами.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/column/mikroplastik-v-probah-snega"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-16",
+      "id": "761dc3e1610a"
+    },
+    {
+      "title_ru": "Физики обнаружили расчетный порог перехода карбина в полуметалл",
+      "title_en": "Physicists discover calculated threshold for carbyne transition to semimetal",
+      "date": "2026-10-16",
+      "summary": "Российские физики выявили расчетный порог перехода материала карбина в состояние полуметалла. Открытие имеет значение для разработки новых материалов с контролируемыми электронными свойствами.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/column/porog-perehoda-karbina"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-16",
+      "id": "3357c062aad6"
+    },
+    {
+      "title_ru": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "title_en": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "date": "2026-10-16",
+      "summary": "Актер Марк Уолберг высказался об использовании искусственного интеллекта в киноиндустрии. Он заявил о готовности к созданию ИИ-клона для продолжения своего творческого наследия.",
+      "category": "ai",
+      "region": "США",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-16",
+      "id": "0cbd0f969431"
+    },
+    {
+      "title_ru": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
+      "title_en": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
+      "date": "2026-10-15",
+      "summary": "Компания Intero Biosystems стала победителем конкурса Startup Battlefield на конференции Disrupt 2026. Событие демонстрирует развитие стартапов в области биотехнологий.",
+      "category": "ai",
+      "region": "США",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-15",
+      "id": "7d9a2c4d3458"
+    },
+    {
+      "title_ru": "Tax breaks help drive 10% increase in net earnings",
+      "title_en": "Tax breaks help drive 10% increase in net earnings",
+      "date": "2026-10-17",
+      "summary": "В Венгрии налоговые льготы способствовали росту чистых доходов населения на 10%. Мера направлена на повышение благосостояния граждан через фискальную политику.",
+      "category": "life",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/economy/tax-breaks-help-drive-10-increase-in-net-earnings/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-17",
+      "id": "59899471168e"
+    },
+    {
+      "title_ru": "Bolivia Regulator Sees Power Bills Up 1.44%",
+      "title_en": "Bolivia Regulator Sees Power Bills Up 1.44%",
+      "date": "2026-10-17",
+      "summary": "Регулятор Боливии прогнозирует рост счетов за электроэнергию на 1,44%. Повышение тарифов связано с экономическими решениями правительства.",
+      "category": "life",
+      "region": "Боливия",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/bolivia-power-bills-decree-5750-2026/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-17",
+      "id": "d9449cc33399"
+    },
+    {
+      "title_ru": "Iran giving Yemen's Houthis target intelligence for drone, missile strikes on Saudi Arabia - report",
+      "title_en": "Iran giving Yemen's Houthis target intelligence for drone, missile strikes on Saudi Arabia - report",
+      "date": "2026-10-17",
+      "summary": "Иран предоставляет хуситам в Йемене разведывательные данные для атак беспилотниками и ракетами по Саудовской Аравии. Действия усиливают напряженность в регионе.",
+      "category": "conflicts",
+      "region": "Ближний Восток",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/middle-east/article-911957"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-17",
+      "id": "5a18dad4e648"
+    },
+    {
+      "title_ru": "Yemen dismisses Saudi outrage over airport attacks, citing 274,302 attacks on Yemen in 12 years",
+      "title_en": "Yemen dismisses Saudi outrage over airport attacks, citing 274,302 attacks on Yemen in 12 years",
+      "date": "2026-10-17",
+      "summary": "Йемен отверг возмущение Саудовской Аравии атаками на аэропорты, сославшись на 274 302 атаки на Йемен за 12 лет. Заявление отражает эскалацию конфликта и взаимные обвинения.",
+      "category": "conflicts",
+      "region": "Ближний Восток",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/10/15/778397/Yemen-dismisses-Saudi-death-toll-announcement,-says-Riyadh-attacked-Yemen-274,302-over-12-years"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-17",
+      "id": "5542eafb253a"
+    },
+    {
+      "title_ru": "Над Орловской областью за ночь сбили 21 БПЛА",
+      "title_en": "21 UAVs shot down over Oryol Oblast overnight",
+      "date": "2026-10-17",
+      "summary": "Российские системы ПВО сбили 21 беспилотный летательный аппарат над Орловской областью за ночь. Инцидент произошел в ходе отражения воздушной атаки.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/28224909"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-17",
+      "id": "5cba3f1d2cba"
+    },
+    {
+      "title_ru": "Над Брянской областью за сутки сбили 147 БПЛА",
+      "title_en": "147 UAVs shot down over Bryansk Oblast in a day",
+      "date": "2026-10-17",
+      "summary": "За сутки над Брянской областью сбито 147 беспилотных летательных аппаратов. Российская ПВО продолжает отражать массированные атаки дронов.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/28224863"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-17",
+      "id": "c85553afc29c"
+    },
+    {
+      "title_ru": "Минобороны России сообщило об ударе по «Запорожстали» и сухогрузу в Одессе",
+      "title_en": "Russian Defense Ministry reports strike on Zaporizhstal and dry cargo ship in Odessa",
+      "date": "2026-10-17",
+      "summary": "Министерство обороны России сообщило о нанесении удара по металлургическому заводу «Запорожсталь» и сухогрузу в Одессе. Операция направлена на поражение промышленной и транспортной инфраструктуры.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9041003"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-17",
+      "id": "0634b9fce450"
+    },
+    {
+      "title_ru": "Trump waives several Russia sanctions before taking effect",
+      "title_en": "Trump waives several Russia sanctions before taking effect",
+      "date": "2026-10-17",
+      "summary": "Президент США Дональд Трамп отложил введение нескольких санкций против России до их вступления в силу. Решение принято в рамках использования исполнительных полномочий.",
+      "category": "economy",
+      "region": "США",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/10/17/778506/Trump-waives-several-Russia-sanctions-before-it-takes-effect"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-17",
+      "id": "7e487a7750d4"
+    },
+    {
+      "title_ru": "Trump orders not to apply sanctions against Russians under new law",
+      "title_en": "Trump orders not to apply sanctions against Russians under new law",
+      "date": "2026-10-17",
+      "summary": "Дональд Трамп распорядился не применять санкции против российских граждан в соответствии с новым законом. Указ приостанавливает действие санкционных мер до дальнейшего уведомления.",
+      "category": "economy",
+      "region": "США",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/world/2203431"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-17",
+      "id": "8eedf68febb4"
+    },
+    {
+      "title_ru": "Fannie Masemola to resume duties as national police commissioner",
+      "title_en": "Fannie Masemola to resume duties as national police commissioner",
+      "date": "2026-10-16",
+      "summary": "Фэнни Масемола вернется к обязанностям национального комиссара полиции ЮАР. Решение связано с кадровыми изменениями в правоохранительных органах страны.",
+      "category": "politics",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-10-16-fannie-masemola-to-resume-duties-as-national-police-commissioner/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-16",
+      "id": "bf2ab1cdd425"
+    },
+    {
+      "title_ru": "PM says national interests prevailed on all key issues at EU summit",
+      "title_en": "PM says national interests prevailed on all key issues at EU summit",
+      "date": "2026-10-17",
+      "summary": "Премьер-министр Венгрии Виктор Орбан заявил, что национальные интересы были защищены по всем ключевым вопросам на саммите ЕС. Заявление отражает позицию Венгрии в европейских переговорах.",
+      "category": "politics",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/hungary/pm-says-national-interests-prevailed-on-all-key-issues-at-eu-summit/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-17",
+      "id": "4fef372dafad"
+    },
+    {
+      "title_ru": "Lee formally appoints inaugural chief of agency in charge of major investigations",
+      "title_en": "Lee formally appoints inaugural chief of agency in charge of major investigations",
+      "date": "2026-10-15",
+      "summary": "Президент Южной Кореи Ли назначил первого руководителя агентства, отвечающего за крупные расследования. Решение является частью реформы правоохранительной системы страны.",
+      "category": "politics",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261015011000315"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-15",
+      "id": "a83716a58eb9"
+    },
+    {
+      "title_ru": "Pezeshkian: US sanctions ‘inhumane,’ Iran will not bow to pressure",
+      "title_en": "Pezeshkian: US sanctions ‘inhumane,’ Iran will not bow to pressure",
+      "date": "2026-10-17",
+      "summary": "Президент Ирана Масуд Пезешкиян назвал санкции США \"бесчеловечными\" и заявил, что Иран не поддастся давлению. Заявление отражает позицию Тегерана в отношении американской политики санкций.",
+      "category": "statement",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/10/16/778470/Iran-Armenia-Georgia-Pezeshkian"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-17",
+      "id": "bf2c844fcee6"
     }
   ],
   "_stats": {
-    "total_tokens": 368778,
-    "total_cost": 23.424319999999998
+    "total_tokens": 387317,
+    "total_cost": 24.604079999999996
   }
 }
