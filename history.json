@@ -18,38 +18,6 @@
       "id": "302dbede9d7d"
     },
     {
-      "title_ru": "Глава Ростелекома высказался о рисках атак ИИ",
-      "title_en": "Head of Rostelecom hopes humanity will calculate risks from AI attacks",
-      "date": "2026-10-10",
-      "summary": "Глава компании Ростелеком заявил, что надеется на способность человечества просчитать риски, связанные с возможными атаками искусственного интеллекта. Высказывание сделано в контексте общих технологических угроз.",
-      "category": "ai",
-      "region": "Россия",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/ekonomika/28201377"
-      ],
-      "first_reported": "2026-10-10",
-      "id": "58d1a7aac5ec"
-    },
-    {
-      "title_ru": "В Венгрии бюджет предусматривает больше средств для больниц",
-      "title_en": "Magyar’s budget: more for hospitals, less patience for the oligarchs",
-      "date": "2026-10-10",
-      "summary": "Правительство Венгрии представило проект бюджета, который предусматривает увеличение финансирования больниц. Одновременно документ содержит меры по ужесточению контроля над олигархами.",
-      "category": "life",
-      "region": "Венгрия",
-      "sources": [
-        "budapesttimes.hu"
-      ],
-      "links": [
-        "https://www.budapesttimes.hu/hungary/magyars-budget-more-for-hospitals-less-patience-for-the-oligarchs/"
-      ],
-      "first_reported": "2026-10-10",
-      "id": "174ed71f23f2"
-    },
-    {
       "title_ru": "Пять человек пострадали в ДТП в Вологодской области",
       "title_en": "Five people injured in road accident in Vologda region",
       "date": "2026.10-10",
@@ -64,102 +32,6 @@
       ],
       "first_reported": "2026.10-10",
       "id": "6a433d7a6e57"
-    },
-    {
-      "title_ru": "Минобороны России сообщило об ударе по объектам энергетики, используемым ВСУ",
-      "title_en": "Russian Defense Ministry: Russian Armed Forces hit energy facilities used by Ukrainian Armed Forces",
-      "date": "2026-10-10",
-      "summary": "Министерство обороны России заявило, что Вооруженные Силы РФ нанесли удар по объектам энергетики, используемым в интересах Вооруженных Сил Украины. Удар был нанесен в ходе специальной военной операции.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9023751"
-      ],
-      "first_reported": "2026-10-10",
-      "id": "1e83a1574f54"
-    },
-    {
-      "title_ru": "ВС России сорвали попытки деблокирования окруженных подразделений ВСУ",
-      "title_en": "Russian Armed Forces thwart attempts to unblock surrounded Ukrainian Armed Forces units",
-      "date": "2026-10-10",
-      "summary": "Вооруженные Силы России сорвали попытки деблокирования окруженных подразделений Вооруженных Сил Украины. Об этом сообщило Министерство обороны РФ.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20261010/popytki-2123652581"
-      ],
-      "first_reported": "2026-10-10",
-      "id": "1082896182f1"
-    },
-    {
-      "title_ru": "Минобороны России сообщило о потерях ВСУ в зоне действий группировки 'Центр'",
-      "title_en": "Russian Defense Ministry reports Ukrainian Armed Forces losses in 'Center' group area",
-      "date": "2026-10-10",
-      "summary": "Министерство обороны России предоставило данные о потерях Вооруженных Сил Украины в зоне действий группировки 'Центр'. Цифры потерь не уточняются.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20261010/vsu-2123653456.html"
-      ],
-      "first_reported": "2026-10-10",
-      "id": "e48647f52314"
-    },
-    {
-      "title_ru": "Глава немецкого региона назвал российский газ столпом благополучия Германии",
-      "title_en": "Head of German region calls Russian gas a pillar of Germany's prosperity",
-      "date": "2026-10-10",
-      "summary": "Глава одной из федеральных земель Германии заявил, что газ из России является столпом благополучия страны. Высказывание сделано в контексте обсуждения энергетической безопасности.",
-      "category": "economy",
-      "region": "Германия",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20261010/gaz-2123647320.html"
-      ],
-      "first_reported": "2026-10-10",
-      "id": "2c013e167fa7"
-    },
-    {
-      "title_ru": "Северная Корея осудила доклад США о торговле людьми как провокацию",
-      "title_en": "N. Korea slams U.S. human trafficking report as grave provocation",
-      "date": "2026-10-10",
-      "summary": "Северная Корея осудила ежегодный доклад Государственного департамента США о торговле людьми, назвав его серьезной провокацией. Заявление сделано Министерством иностранных дел КНДР.",
-      "category": "politics",
-      "region": "Северная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261010000400315"
-      ],
-      "first_reported": "2026-10-10",
-      "id": "f3a81b4709ec"
-    },
-    {
-      "title_ru": "Турция осудила атаки хуситов на саудовские аэропорты",
-      "title_en": "Türkiye condemns Houthi attacks on Saudi airports, urges restraint",
-      "date": "2026-10-10",
-      "summary": "Турция осудила атаки хуситов на аэропорты Саудовской Аравии и призвала к сдержанности. Заявление сделано Министерством иностранных дел Турции.",
-      "category": "politics",
-      "region": "Турция",
-      "sources": [
-        "www.dailysabah.com"
-      ],
-      "links": [
-        "https://www.dailysabah.com/politics/diplomacy/turkiye-condemns-houthi-attacks-on-saudi-airports-urges-restraint"
-      ],
-      "first_reported": "2026-10-10",
-      "id": "9d7962e475b0"
     },
     {
       "title_ru": "Хуситы предупредили авиакомпании и пассажиров об опасности использования саудовских аэропортов",
@@ -305,63 +177,6 @@
       "id": "0b278dc54c1c"
     },
     {
-      "title_ru": "В Индонезии построят три завода по переработке яиц и мяса",
-      "title_en": "Indonesia to build three egg, meat processing plants",
-      "date": "2026-10-10",
-      "summary": "Правительство Индонезии планирует построить три завода по переработке яиц и мяса. Проект направлен на развитие пищевой промышленности и обеспечение продовольственной безопасности.",
-      "category": "tech",
-      "region": "Индонезия",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "en.antaranews.com"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/434906/govt-to-build-three-egg-meat-processing-plants-minister"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-10",
-      "id": "f6fd7babe749"
-    },
-    {
-      "title_ru": "В Южной Корее обрушился потолочный материал в здании в Тэгу, пострадали 38 человек",
-      "title_en": "Ceiling material collapses in Daegu building, injures 38",
-      "date": "2026-10-10",
-      "summary": "В городе Тэгу в Южной Корее произошло обрушение потолочного материала в здании. В результате инцидента пострадали 38 человек.",
-      "category": "life",
-      "region": "Южная Корея",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261010001351315"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-10",
-      "id": "23ad1b931991"
-    },
-    {
-      "title_ru": "В Венгрии бюджет предусматривает увеличение финансирования больниц",
-      "title_en": "Hungary's budget allocates more funds for hospitals",
-      "date": "2026-10-10",
-      "summary": "Правительство Венгрии представило бюджет, который предусматривает увеличение финансирования больниц. Решение направлено на улучшение системы здравоохранения.",
-      "category": "life",
-      "region": "Венгрия",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "budapesttimes.hu"
-      ],
-      "links": [
-        "https://www.budapesttimes.hu/hungary/magyars-budget-more-for-hospitals-less-patience-for-the-oligarchs/"
-      ],
-      "is_development": true,
-      "first_reported": "2026-10-10",
-      "id": "a888b9902ac5"
-    },
-    {
       "title_ru": "Основатель Telegram-канала 'Рыбарь' вернулся в Россию после задержания в Черногории",
       "title_en": "Founder of 'Rybar' Telegram channel returns to Russia after detention in Montenegro",
       "date": "2026-10-11",
@@ -417,25 +232,6 @@
       "is_development": false,
       "first_reported": "2026-10-11",
       "id": "a2b9fea5ab62"
-    },
-    {
-      "title_ru": "Cloudflare приобрела Deno для улучшения своей модели программирования Workers",
-      "title_en": "Cloudflare acquires Deno to improve its Workers programming model",
-      "date": "2026-10-10",
-      "summary": "Компания Cloudflare приобрела разработчика среды выполнения JavaScript Deno. Сделка направлена на улучшение модели программирования Cloudflare Workers для облачных вычислений.",
-      "category": "tech",
-      "region": "США",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-10",
-      "id": "812ac26bb681"
     },
     {
       "title_ru": "В Южной Корее разведывательное агентство опровергло сообщение о разведданных США по КНДР",
@@ -2168,10 +1964,197 @@
       "is_development": false,
       "first_reported": "2026-10-17",
       "id": "bf2c844fcee6"
+    },
+    {
+      "title_ru": "Венесуэла планирует инвестиции в нефтяную отрасль на 76 млрд долларов",
+      "title_en": "Venezuela Sees US$76 Billion Oil Investment",
+      "date": "2026-10-18",
+      "summary": "Венесуэла планирует инвестировать 76 млрд долларов в нефтяную отрасль в течение пяти лет. Инвестиции направлены на развитие нефтяной промышленности страны.",
+      "category": "tech",
+      "region": "Венесуэла",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/venezuela-oil-investment-76-billion-five-years-2026/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-18",
+      "id": "dc7ce18a4477"
+    },
+    {
+      "title_ru": "Кения подтвердила четыре новых случая лихорадки Эбола",
+      "title_en": "Kenya Confirms Four New Ebola Cases",
+      "date": "2026-10-17",
+      "summary": "Кения подтвердила четыре новых случая заражения вирусом Эбола. Это развитие ранее объявленной вспышки заболевания в стране.",
+      "category": "life",
+      "region": "Кения",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html"
+      ],
+      "is_development": true,
+      "first_reported": "2026-10-17",
+      "id": "f4c738773fb5"
+    },
+    {
+      "title_ru": "Президент Египта объявил об уходе с поста в 2030 году",
+      "title_en": "Egypt's el-Sissi says he will step down in 2030, rules out another term",
+      "date": "2026-10-17",
+      "summary": "Президент Египта Абдель Фаттах ас-Сиси заявил, что покинет пост в 2030 году и не будет баллотироваться на новый срок. Это решение определяет политическую перспективу страны.",
+      "category": "politics",
+      "region": "Египет",
+      "sources": [
+        "www.dailysabah.com"
+      ],
+      "links": [
+        "https://www.dailysabah.com/world/africa/egypts-el-sissi-says-he-will-step-down-in-2030-rules-out-another-term"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-17",
+      "id": "5147b130cb72"
+    },
+    {
+      "title_ru": "Взрыв на военной базе в Канаде привел к гибели семи человек",
+      "title_en": "Seven killed in explosion at Canada military training base",
+      "date": "2026-10-18",
+      "summary": "Взрыв на военной тренировочной базе в провинции Альберта, Канада, привел к гибели семи человек. Произошел серьезный инцидент с возгоранием на объекте.",
+      "category": "life",
+      "region": "Канада",
+      "sources": [
+        "en.mehrnews.com"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/248670/Seven-killed-in-explosion-at-Canada-military-training-base"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-18",
+      "id": "8ce3512adbef"
+    },
+    {
+      "title_ru": "ВС России поразили логистический центр 'Новой почты' в Ровно",
+      "title_en": "ВС РФ поразили логистический центр 'Новой почты' в Ровно",
+      "date": "2026-10-18",
+      "summary": "Вооруженные силы России нанесли удар по логистическому центру компании 'Новая почта' в городе Ровно. Минобороны России назвало это одной из целей ночных ударов.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/armiya-i-opk/28226537"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-18",
+      "id": "d4a9a810ccb1"
+    },
+    {
+      "title_ru": "ВС России поразили сухогруз в Черном море",
+      "title_en": "ВС России поразили сухогруз в Черном море",
+      "date": "2026-10-18",
+      "summary": "Вооруженные силы России поразили сухогруз в Черном море, который перевозил грузы для Вооруженных сил Украины. Судно было атаковано в рамках операции.",
+      "category": "svo",
+      "region": "Черное море",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20261018/sukhogruz-2125201490.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-18",
+      "id": "e9e872e2dd1d"
+    },
+    {
+      "title_ru": "Кения сохранила рост ВВП на уровне 5,1% несмотря на нефтяной шок",
+      "title_en": "Kenya GDP Growth Is 5.1% Despite Oil Shock",
+      "date": "2026-10-18",
+      "summary": "Экономика Кении выросла на 5,1% во втором квартале 2026 года, несмотря на нефтяной шок. Показатель демонстрирует устойчивость экономики страны.",
+      "category": "economy",
+      "region": "Кения",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/kenya-gdp-growth-5-1-percent-second-quarter-2026/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-18",
+      "id": "1e61865255c8"
+    },
+    {
+      "title_ru": "Венесуэльский банковский кредит составляет лишь 3,4% ВВП",
+      "title_en": "Venezuela Bank Credit Is Just 3.4% of GDP",
+      "date": "2026-10-18",
+      "summary": "Объем банковского кредитования в Венесуэле составляет всего 3,4% от валового внутреннего продукта страны. Показатель отражает состояние финансового сектора.",
+      "category": "economy",
+      "region": "Венесуэла",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/venezuela-bank-credit-gdp-2026/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-18",
+      "id": "ff39ba927c02"
+    },
+    {
+      "title_ru": "Конституционный суд ЮАР вынес решение в пользу АНК по спору о кандидатах",
+      "title_en": "Constitutional Court rules in favour of ANC in IEC candidate nomination dispute",
+      "date": "2026-10-15",
+      "summary": "Конституционный суд ЮАР вынес решение в пользу Африканского национального конгресса в споре с Избирательной комиссией о номинации кандидатов. Решение урегулировало юридический спор.",
+      "category": "politics",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-10-15-constitutional-court-rules-in-favour-of-anc-in-iec-candidate-nomination-dispute/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-15",
+      "id": "6c7a68b8b8e6"
+    },
+    {
+      "title_ru": "Иранские СМИ сообщили о нападении поселенцев на европейских дипломатов в Западном береге",
+      "title_en": "European diplomats attacked by settlers in occupied West Bank",
+      "date": "2026-10-17",
+      "summary": "Европейские дипломаты подверглись нападению израильских поселенцев на Западном берегу реки Иордан. Инцидент произошел в ходе визита дипломатов.",
+      "category": "conflicts",
+      "region": "Западный берег",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/10/17/778563/Israel-settlers-attack-European-diplomats-West-Bank"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-17",
+      "id": "ee2af11a9f5e"
+    },
+    {
+      "title_ru": "Meta изменила условия использования на фоне опасений по поводу обучения ИИ на новостном контенте",
+      "title_en": "Meta revises terms amid concerns over AI training on news content",
+      "date": "2026-10-17",
+      "summary": "Компания Meta пересмотрела условия использования своих платформ после возникновения опасений по поводу использования новостного контента для обучения искусственного интеллекта. Изменения касаются политики скрапинга данных.",
+      "category": "ai",
+      "region": "Мир",
+      "sources": [
+        "www.dailysabah.com"
+      ],
+      "links": [
+        "https://www.dailysabah.com/business/tech/meta-revises-terms-amid-concerns-over-ai-training-on-news-content"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-17",
+      "id": "ca2758ad908e"
     }
   ],
   "_stats": {
-    "total_tokens": 387317,
-    "total_cost": 24.604079999999996
+    "total_tokens": 402755,
+    "total_cost": 25.573599999999995
   }
 }
