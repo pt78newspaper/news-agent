@@ -34,225 +34,6 @@
       "id": "6a433d7a6e57"
     },
     {
-      "title_ru": "Хуситы предупредили авиакомпании и пассажиров об опасности использования саудовских аэропортов",
-      "title_en": "Houthis reiterate warning against airlines, travelers using Saudi airports after attack kills 12",
-      "date": "2026-10-11",
-      "summary": "Движение хуситов повторило предупреждение авиакомпаниям и путешественникам об опасности использования аэропортов Саудовской Аравии. Заявление последовало после атаки на аэропорт Эр-Рияда, в результате которой погибли 12 человек.",
-      "category": "conflicts",
-      "region": "Йемен",
-      "perspective": "Хуситы заявляют о праве на самооборону и предупреждают о продолжении атак. Саудовская Аравия и её союзники рассматривают это как угрозу гражданской авиации.",
-      "perspective_type": "assumed",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/middle-east/article-911273"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-11",
-      "id": "421973e1ea44"
-    },
-    {
-      "title_ru": "Силы ПВО России сбили 909 беспилотников ВСУ за сутки",
-      "title_en": "Russian air defense systems down over 900 Ukrainian drones in 24 hours",
-      "date": "2026-10-11",
-      "summary": "Российские средства противовоздушной обороны за сутки сбили 909 беспилотных летательных аппаратов Вооруженных сил Украины. Также уничтожены 2 авиабомбы.",
-      "category": "svo",
-      "region": "Россия",
-      "perspective": "Российская сторона сообщает об успешном отражении массированной атаки дронов. Украинская сторона не комментировала эти данные.",
-      "perspective_type": "assumed",
-      "sources": [
-        "www.kommersant.ru",
-        "ria.ru",
-        "tass.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9023962",
-        "https://ria.ru/20261011/pvo-2123783098.html",
-        "https://tass.ru/armiya-i-opk/28203091"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-11",
-      "id": "ad24e55870c0"
-    },
-    {
-      "title_ru": "ВС РФ поразили цеха по производству дронов для ВСУ",
-      "title_en": "Russian forces hit drone production workshops for Ukrainian army",
-      "date": "2026-10-11",
-      "summary": "Вооруженные силы России нанесли удар по цехам, где производились беспилотные летательные аппараты для Вооруженных сил Украины. Целеуказание осуществлено в течение суток.",
-      "category": "svo",
-      "region": "Россия",
-      "perspective": "Российская сторона заявляет о нарушении производственной инфраструктуры противника. Украинская сторона не подтвердила информацию.",
-      "perspective_type": "assumed",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/armiya-i-opk/28203089"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-11",
-      "id": "79251a09e31a"
-    },
-    {
-      "title_ru": "В Харьковской области ВСУ потеряли более 65 военных в кольце окружения",
-      "title_en": "Ukrainian forces lose over 65 servicemen in encirclement in Kharkov Region",
-      "date": "2026-10-11",
-      "summary": "В Харьковской области Вооруженные силы Украины за сутки потеряли более 65 военнослужащих в кольце окружения. Российская группировка войск 'Север' продолжает наступательные действия.",
-      "category": "svo",
-      "region": "Россия",
-      "perspective": "Российская сторона сообщает о значительных потерях противника в ходе боевых действий. Украинская сторона не комментировала эти данные.",
-      "perspective_type": "assumed",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/armiya-i-opk/28203085"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-11",
-      "id": "a5b22ebf2d16"
-    },
-    {
-      "title_ru": "Банк Кореи получил доход от иностранных активов почти 17 трлн вон в 2025 году",
-      "title_en": "Bank of Korea's returns on foreign assets near 17 tln won in 2025",
-      "date": "2026-10-11",
-      "summary": "Банк Кореи получил доход от иностранных активов в размере почти 17 триллионов вон в 2025 году. Показатель отражает эффективность управления международными резервами.",
-      "category": "economy",
-      "region": "Южная Корея",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261011001100320"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-11",
-      "id": "f9766cc1897f"
-    },
-    {
-      "title_ru": "В Турции в ДТП с участием автобуса и грузовика погибли 11 человек",
-      "title_en": "11 people killed in bus-truck collision in Turkey",
-      "date": "2026-10-11",
-      "summary": "В Турции произошло дорожно-транспортное происшествие с участием автобуса и грузовика. В результате аварии погибли 11 человек.",
-      "category": "life",
-      "region": "Турция",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "www.belta.by",
-        "tass.ru"
-      ],
-      "links": [
-        "https://belta.by/world/view/v-turtsii-v-dtp-s-uchastiem-avtobusa-i-gruzovika-pogibli-11-chelovek-805409-2026/",
-        "https://tass.ru/proisshestviya/28203175"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-11",
-      "id": "65b51ec0905a"
-    },
-    {
-      "title_ru": "Во Франции продолжаются студенческие протесты против системы Parcoursup",
-      "title_en": "French student protests continue against Parcoursup higher education platform",
-      "date": "2026-10-11",
-      "summary": "Во Франции продолжаются студенческие протесты против системы Parcoursup, платформы доступа к высшему образованию. Протесты сопровождаются столкновениями с полицией, которая применяла слезоточивый газ.",
-      "category": "politics",
-      "region": "Франция",
-      "perspective": "Студенты требуют отмены системы, считая её несправедливой. Правительство ищет пути выхода из кризиса, признавая необходимость реформ.",
-      "perspective_type": "assumed",
-      "sources": [
-        "www.lemonde.fr",
-        "rss.nytimes.com",
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.lemonde.fr/en/campus/article/2026/10/10/why-french-students-are-so-angry-about-parcoursup-the-higher-education-access-platform_6758447_11.html",
-        "https://www.nytimes.com/2026/10/08/world/europe/france-student-protests-paris.html",
-        "https://www.theglobeandmail.com/world/video-tear-gas-used-against-french-high-school-protesters/"
-      ],
-      "is_development": true,
-      "first_reported": "2026-10-11",
-      "id": "0b278dc54c1c"
-    },
-    {
-      "title_ru": "Основатель Telegram-канала 'Рыбарь' вернулся в Россию после задержания в Черногории",
-      "title_en": "Founder of 'Rybar' Telegram channel returns to Russia after detention in Montenegro",
-      "date": "2026-10-11",
-      "summary": "Основатель Telegram-канала 'Рыбарь' вернулся в Россию после задержания в Черногории. Черногорская полиция подозревала его в вербовке иностранцев для участия в СВО и депортировала как угрозу национальной безопасности.",
-      "category": "politics",
-      "region": "Россия",
-      "perspective": "Черногория рассматривала деятельность как угрозу безопасности. Российская сторона не комментировала обвинения.",
-      "perspective_type": "assumed",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9023900"
-      ],
-      "is_development": true,
-      "first_reported": "2026-10-11",
-      "id": "9d1b72b56504"
-    },
-    {
-      "title_ru": "Песков заявил, что Шредер не обращает внимания на критику из-за встречи с Путиным",
-      "title_en": "Peskov says Schroeder not concerned about criticism over meeting with Putin",
-      "date": "2026-10-11",
-      "summary": "Пресс-секретарь президента России Дмитрий Песков заявил, что бывший канцлер Германии Герхард Шредер не обращает внимания на критику в связи со своей встречей с Владимиром Путиным. Встреча состоялась на днях рождения Путина.",
-      "category": "politics",
-      "region": "Россия",
-      "perspective": "Российская сторона подчеркивает нормальный характер встречи. Западные критики осуждают контакты с российским руководством.",
-      "perspective_type": "assumed",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20261011/shreder-2123788569.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-11",
-      "id": "703bcbbe3d18"
-    },
-    {
-      "title_ru": "Врачи рекомендуют женщинам переделать ранние генетические тесты на риски рака",
-      "title_en": "Doctors urge women to redo early genetic tests for cancer risks",
-      "date": "2026-10-11",
-      "summary": "Врачи рекомендуют женщинам, которые ранее прошли генетические тесты на риски онкологических заболеваний, переделать анализы. Современные технологии позволяют получить более точные результаты.",
-      "category": "tech",
-      "region": "США",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "feeds.washingtonpost.com"
-      ],
-      "links": [
-        "https://www.washingtonpost.com/health/2026/10/12/women-once-cleared-by-genetic-tests-cancer-risks-now-consider-retesting/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-11",
-      "id": "a2b9fea5ab62"
-    },
-    {
-      "title_ru": "В Южной Корее разведывательное агентство опровергло сообщение о разведданных США по КНДР",
-      "title_en": "South Korean spy agency denies report U.S. only shares intelligence on N.K. missiles with S. Korea",
-      "date": "2026-10-11",
-      "summary": "Национальная разведывательная служба Южной Кореи опровергла сообщение о том, что США делятся разведданными по северокорейским ракетам только с Южной Кореей. Агентство заявило, что информация распространяется среди всех союзников.",
-      "category": "politics",
-      "region": "Южная Корея",
-      "perspective": "Южнокорейская сторона стремится сохранить доверие в альянсе. Сообщение могло создать напряженность в отношениях с другими партнерами.",
-      "perspective_type": "assumed",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261011000800315"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-11",
-      "id": "06acdb66c7bf"
-    },
-    {
       "title_ru": "В Ормузском проливе третий танкер подорвался на мине",
       "title_en": "Third oil tanker catches fire in Hormuz after hitting mine",
       "date": "2026-10-12",
@@ -2151,10 +1932,257 @@
       "is_development": false,
       "first_reported": "2026-10-17",
       "id": "ca2758ad908e"
+    },
+    {
+      "title_ru": "Иранские борцы завоевали командные титулы на чемпионате мира U23 в США",
+      "title_en": "Iran captures U23 Greco-Roman world title with three golds in Las Vegas",
+      "date": "2026-10-19",
+      "summary": "Иранская команда по греко-римской борьбе завоевала командный титул на чемпионате мира U23 в Лас-Вегасе, США. Лидер Ирана Аятолла Хаменеи поздравил команду с победой.",
+      "category": "politics",
+      "region": "Иран",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/10/15/778343/Iran-U23-Greco-Roman-World-title-2026"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-19",
+      "id": "fd1b38084acf"
+    },
+    {
+      "title_ru": "Израильские силы задержали 10 подозреваемых в связи с нападением на журналиста и дипломатов в Западном береге",
+      "title_en": "IDF, Shin Bet arrest 10 suspects connected to attack on US journalist, EU diplomats in West Bank",
+      "date": "2026-10-19",
+      "summary": "Армия обороны Израиля и Шин Бет задержали 10 подозреваемых, связанных с нападением на американского журналиста и европейских дипломатов в Западном береге. Инцидент произошел в районе, контролируемом Израилем.",
+      "category": "conflicts",
+      "region": "Израиль",
+      "perspective": "Израиль рассматривает задержания как меру безопасности, палестинские источники могут расценивать как репрессии",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/israel-news/crime-in-israel/article-912116"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-19",
+      "id": "163ab89a0839"
+    },
+    {
+      "title_ru": "Канада осудила израильские атаки на оккупированном Западном береге",
+      "title_en": "Canada condemns Israeli attacks in occupied West Bank",
+      "date": "2026-10-19",
+      "summary": "Канада официально осудила израильские атаки на оккупированном Западном береге. Заявление сделано в контексте продолжающегося конфликта в регионе.",
+      "category": "conflicts",
+      "region": "Канада",
+      "perspective": "Канада выражает официальную позицию, Израиль может не соглашаться с формулировкой",
+      "perspective_type": "assumed",
+      "sources": [
+        "en.mehrnews.com"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/248700/Canada-condemns-Israeli-attacks-in-occupied-West-Bank"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-19",
+      "id": "fb98bfb9018e"
+    },
+    {
+      "title_ru": "Потери ВСУ за сутки в зоне СВО составили порядка 1 235 военных",
+      "title_en": "Потери ВСУ за сутки в зоне СВО составили порядка 1 235 военных",
+      "date": "2026-10-19",
+      "summary": "Министерство обороны России сообщило о потерях Вооруженных сил Украины за сутки в зоне специальной военной операции. Согласно данным, потери составили порядка 1 235 военнослужащих.",
+      "category": "svo",
+      "region": "Россия",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/armiya-i-opk/28229049"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-19",
+      "id": "f7e38ff7bc71"
+    },
+    {
+      "title_ru": "Юрий Трутнев перейдет на работу в Кремль",
+      "title_en": "Юрий Трутнев перейдет на работу в Кремль",
+      "date": "2026-10-19",
+      "summary": "Вице-премьер Юрий Трутнев переходит на работу в администрацию президента России. Кадровое перемещение связано с реорганизацией правительственного аппарата.",
+      "category": "politics",
+      "region": "Россия",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "rssexport.rbc.ru"
+      ],
+      "links": [
+        "https://www.rbc.ru/economics/19/10/2026/6ad5b66f9a7947ac614a7991"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-19",
+      "id": "3c16912437a3"
+    },
+    {
+      "title_ru": "В кабмин вернется позиция вице-премьера - министра финансов",
+      "title_en": "ТАСС: в кабмин спустя шесть лет вернется позиция вице-премьера - министра финансов",
+      "date": "2026-10-19",
+      "summary": "В правительстве России после шестилетнего перерыва восстанавливается должность вице-премьера - министра финансов. Решение связано с реструктуризацией экономического блока кабинета министров.",
+      "category": "politics",
+      "region": "Россия",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/politika/28229115"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-19",
+      "id": "7e5e27a7482e"
+    },
+    {
+      "title_ru": "США приостановили санкции против российского дизеля с учетом партнерства с Индией",
+      "title_en": "Рубио: США при приостановке санкций против РФ учитывали партнерство с Индией",
+      "date": "2026-10-19",
+      "summary": "Сенатор Марко Рубио заявил, что США при принятии решения о приостановке санкций против российского дизельного топлива учитывали партнерство с Индией. Решение связано с энергетическими потребностями союзников.",
+      "category": "economy",
+      "region": "США",
+      "perspective": "США объясняют решение стратегическими соображениями, Россия может рассматривать как ослабление санкционного давления",
+      "perspective_type": "assumed",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/mezhdunarodnaya-panorama/28229071"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-19",
+      "id": "2c6e091e346b"
+    },
+    {
+      "title_ru": "Альберта проводит референдум о сепаратизме",
+      "title_en": "As Alberta Holds a Referendum on Separatism, Premier Danielle Smith Has Alienated Both Sides",
+      "date": "2026-10-19",
+      "summary": "Провинция Альберта в Канаде проводит референдум о возможном отделении от страны. Премьер провинции Даниэль Смит столкнулась с критикой как со стороны сторонников, так и противников отделения.",
+      "category": "politics",
+      "region": "Канада",
+      "perspective": "Сторонники видят в референдуме демократический процесс, федеральные власти Канады выступают против отделения",
+      "perspective_type": "assumed",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/10/19/world/canada/alberta-referendum-danielle-smith.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-19",
+      "id": "117b175871a2"
+    },
+    {
+      "title_ru": "Индонезия объявила об окончании чрезвычайной ситуации с загрязнением цезием-137",
+      "title_en": "Indonesia declares end to Cesium-137 contamination emergency",
+      "date": "2026-10-19",
+      "summary": "Индонезия официально объявила об окончании чрезвычайной ситуации, связанной с загрязнением цезием-137. Решение принято после устранения последствий радиационного инцидента.",
+      "category": "life",
+      "region": "Индонезия",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/436473/indonesia-declares-end-to-cesium-137-contamination-emergency"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-19",
+      "id": "174bd9f35bfd"
+    },
+    {
+      "title_ru": "В Австралии произошел инцидент с нападением на офис депутата Хелен Хейнс",
+      "title_en": "Helen Haines attacked in 'serious incident' outside electorate office",
+      "date": "2026-10-19",
+      "summary": "В Австралии произошел серьезный инцидент с нападением на независимого депутата Хелен Хейнс возле ее избирательного офиса в Вангаратте. Полиция расследует происшествие.",
+      "category": "politics",
+      "region": "Австралия",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/national/helen-haines-injured-in-electorate-office-incident-20261019-p616v3.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-19",
+      "id": "7c3710290f90"
+    },
+    {
+      "title_ru": "В Венгрии обвинили Орбана в шутках о насильственном свержении конституционного строя",
+      "title_en": "Magyar accuses Orbán of joking about violent overthrow of constitutional order",
+      "date": "2026-10-19",
+      "summary": "Политик Петер Марджи обвинил премьер-министра Венгрии Виктора Орбана в шутках о насильственном свержении конституционного строя. Заявление сделано в контексте внутриполитической борьбы.",
+      "category": "politics",
+      "region": "Венгрия",
+      "perspective": "Оппозиция рассматривает слова как угрозу демократии, правительство может отрицать серьезность высказываний",
+      "perspective_type": "assumed",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/hungary/magyar-accuses-orban-of-joking-about-violent-overthrow-of-constitutional-order/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-19",
+      "id": "3bc5c666e383"
+    },
+    {
+      "title_ru": "Фотограф посетил 37 тюрем в 17 штатах США",
+      "title_en": "Land of the Free: Photographer Visits 37 Prisons in 17 States",
+      "date": "2026-10-18",
+      "summary": "Фотограф завершил проект, в ходе которого посетил 37 тюрем в 17 штатах США. Проект посвящен исследованию пенитенциарной системы страны.",
+      "category": "photo",
+      "region": "США",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/10/18/land-of-the-free-photographer-visits-37-prisons-in-17-states/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-18",
+      "id": "7ab5d59e0589"
+    },
+    {
+      "title_ru": "Африка должна владеть будущим продовольствия",
+      "title_en": "Africa must own the future of food",
+      "date": "2026-10-19",
+      "summary": "В ЮАР опубликована статья с призывом к африканским странам взять под контроль будущее продовольственной безопасности континента. Авторы подчеркивают необходимость развития собственного сельского хозяйства.",
+      "category": "ecology",
+      "region": "Африка",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/thought-leader/2026-10-19-africa-must-own-the-future-of-food/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-19",
+      "id": "26ddedd712fa"
     }
   ],
   "_stats": {
-    "total_tokens": 402755,
-    "total_cost": 25.573599999999995
+    "total_tokens": 420293,
+    "total_cost": 26.681419999999996
   }
 }
