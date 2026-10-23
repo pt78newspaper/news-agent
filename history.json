@@ -34,165 +34,6 @@
       "id": "6a433d7a6e57"
     },
     {
-      "title_ru": "TSEC оптимистичен в связи с ростом спроса на зеленую энергию",
-      "title_en": "TSEC optimistic as green energy demand picks up",
-      "date": "2026-10-15",
-      "summary": "Тайваньская компания TSEC сообщила о росте спроса на зеленую энергию. Компания выражает оптимизм в связи с увеличением заказов на свою продукцию.",
-      "category": "tech",
-      "region": "Тайвань",
-      "sources": [
-        "www.taipeitimes.com"
-      ],
-      "links": [
-        "https://www.taipeitimes.com/News/biz/archives/2026/10/15/2003865970"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-15",
-      "id": "282d753617bd"
-    },
-    {
-      "title_ru": "В МФТИ разработали метод анализа структуры сплавов с помощью терагерцевого излучения",
-      "title_en": "In MIPT learned to see the hidden structure of layered alloys using terahertz radiation",
-      "date": "2026-10-15",
-      "summary": "Ученые Московского физико-технического института разработали метод неразрушающего контроля структуры слоистых сплавов с использованием терагерцевого излучения. Метод позволяет анализировать внутреннюю структуру материалов без их повреждения.",
-      "category": "tech",
-      "region": "Россия",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/column/strukturu-sloistyh-splavov"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-15",
-      "id": "9af756ab552e"
-    },
-    {
-      "title_ru": "Сеулские акции упали более чем на 7% на фоне проблем с чипами и инфляции",
-      "title_en": "Seoul shares crash over 7 pct on chip rout amid AI, inflation woes",
-      "date": "2026-10-15",
-      "summary": "Индекс KOSPI в Южной Корее упал более чем на 7% из-за проблем в секторе полупроводников и опасений по поводу инфляции. Падение связано с коррекцией на рынке чипов и макроэкономическими факторами.",
-      "category": "ai",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261015007200320"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-15",
-      "id": "71c0c4364440"
-    },
-    {
-      "title_ru": "В Пакистане при обрушении крыши школы погибли более 20 детей",
-      "title_en": "In Pakistan, more than 20 children killed in school roof collapse",
-      "date": "2026-10-15",
-      "summary": "В Пакистане обрушилась крыша школы, в результате чего погибли не менее 20 детей и учительница. Инцидент произошел в учебном заведении во время занятий.",
-      "category": "life",
-      "region": "Пакистан",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9026950"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-15",
-      "id": "6e003a4df2ff"
-    },
-    {
-      "title_ru": "КНДР обвинила Японию в 'зловещих намерениях' из-за атомных подводных лодок",
-      "title_en": "N. Korea accuses Japan of 'sinister intention' over nuclear-powered submarines",
-      "date": "2026-10-15",
-      "summary": "Северная Корея обвинила Японию в наличии 'зловещих намерений' в связи с планами Токио по строительству атомных подводных лодок. Заявление сделано через государственные СМИ КНДР.",
-      "category": "conflicts",
-      "region": "КНДР",
-      "perspective": "КНДР рассматривает японские планы как угрозу, Япония может считать их оборонительными",
-      "perspective_type": "from_source",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261015009100315"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-15",
-      "id": "512d6edda4d4"
-    },
-    {
-      "title_ru": "В районе Брянской области установили оцепление из-за сбросов с БПЛА",
-      "title_en": "Cordon established in Bryansk region due to UAV drops",
-      "date": "2026-10-15",
-      "summary": "В одном из районов Брянской области установлено оцепление в связи со сбросами с беспилотных летательных аппаратов. Меры приняты для обеспечения безопасности населения.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/proisshestviya/28216621"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-15",
-      "id": "c90479e292f9"
-    },
-    {
-      "title_ru": "Россия будет импортировать бензин минимум до конца года",
-      "title_en": "Russia will import gasoline at least until the end of the year, Novak said",
-      "date": "2026-10-15",
-      "summary": "Вице-премьер России Александр Новак заявил, что страна будет импортировать бензин как минимум до конца 2026 года. Решение связано с необходимостью обеспечения внутреннего рынка.",
-      "category": "economy",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20261015/rossija-2124640573.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-15",
-      "id": "778dfe2c396b"
-    },
-    {
-      "title_ru": "Оман поддержал роль Пакистана в диалоге Ирана и США",
-      "title_en": "Oman backs Pakistan's role in Iran-US dialogue as lawmakers call for regional diplomacy",
-      "date": "2026-10-15",
-      "summary": "Оман поддержал посредническую роль Пакистана в диалоге между Ираном и США. Заявление сделано на фоне призывов парламентариев к региональной дипломатии.",
-      "category": "politics",
-      "region": "Оман",
-      "perspective": "Оман рассматривает Пакистан как посредника, другие региональные игроки могут иметь альтернативные подходы",
-      "perspective_type": "from_source",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/10/15/778342/Oman-backs-Pakistan%E2%80%99s-role-in-Iran-US-dialogue-as-lawmakers-call-for-regional-diplomacy"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-15",
-      "id": "bedebdab315e"
-    },
-    {
-      "title_ru": "Южная Корея импортировала рекордный объем СПГ из России",
-      "title_en": "South Korea's LNG imports from Russia hit highest since 2021 in September",
-      "date": "2026-10-15 19:08:06+03:00",
-      "summary": "В сентябре 2026 года Южная Корея импортировала из России 1,2 млн тонн сжиженного природного газа. Это максимальный объем с 2021 года, что составляет 16,6% от общего импорта СПГ страной.",
-      "category": "tech",
-      "region": "Южная Корея",
-      "sources": [
-        "tass.com"
-      ],
-      "links": [
-        "https://tass.com/economy/2202665"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-15 19:08:06+03:00",
-      "id": "860c97298a9e"
-    },
-    {
       "title_ru": "В ранней Вселенной обнаружена рекордно тесная пара черных дыр",
       "title_en": "В ранней Вселенной нашли рекордно тесную пару активных черных дыр",
       "date": "2026-10-16 06:40:00+00:00",
@@ -212,44 +53,6 @@
       "id": "72156ce3bd31"
     },
     {
-      "title_ru": "Правительства используют таргетированную рекламу для внедрения шпионского ПО",
-      "title_en": "Governments are hacking people with 'zero-click' spyware by showing them online ads",
-      "date": "2026-10-15 10:00:00+00:00",
-      "summary": "Лаборатория Citizen Lab сообщила, что правительства используют таргетированную онлайн-рекламу для внедрения шпионского ПО на устройства пользователей. Атаки не требуют взаимодействия с пользователем и используют уязвимости в iOS и Android.",
-      "category": "ai",
-      "region": "Мир",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-15 10:00:00+00:00",
-      "id": "309ba5c700fb"
-    },
-    {
-      "title_ru": "Amazon выпустила новые персональные ИИ-устройства",
-      "title_en": "Amazon's Bee launches two new personal AI devices, starting at $75",
-      "date": "2026-10-15 12:00:00+00:00",
-      "summary": "Компания Amazon представила два новых персональных ИИ-устройства под брендом Bee. Устройства предназначены для замены приложений и стоят от 75 долларов.",
-      "category": "ai",
-      "region": "США",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-15 12:00:00+00:00",
-      "id": "ccc31f3c46c0"
-    },
-    {
       "title_ru": "Столкновение автобуса с поездом у тоннеля под Ла-Маншем",
       "title_en": "Bus hits train near Channel Tunnel in France, 19 hurt",
       "date": "2026-10-16 07:08:17+02:00",
@@ -267,25 +70,6 @@
       "is_development": false,
       "first_reported": "2026-10-16 07:08:17+02:00",
       "id": "05691c632339"
-    },
-    {
-      "title_ru": "Расстрел в начальной школе Орегона",
-      "title_en": "Oregon elementary school shooting leaves five dead, including suspect, police say",
-      "date": "2026-10-15 23:01:06+00:00",
-      "summary": "В начальной школе в Бенде, штат Орегон, произошла стрельба. Погибли пять человек, включая подозреваемого, пострадали несколько детей и учителей.",
-      "category": "life",
-      "region": "США",
-      "sources": [
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/world/article-bend-oregon-elementary-school-shooting/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-15 23:01:06+00:00",
-      "id": "79515c5ac352"
     },
     {
       "title_ru": "Иран закрыл Ормузский пролив для судов",
@@ -343,44 +127,6 @@
       "is_development": false,
       "first_reported": "2026-10-16 11:11:57+03:00",
       "id": "57b42d6cc3e2"
-    },
-    {
-      "title_ru": "Израиль приостановил ввоз коммерческих товаров в Газу",
-      "title_en": "Israel suspends commercial goods entry into Gaza, a key source of supply for the war-torn territory",
-      "date": "2026-10-15 12:05:12+00:00",
-      "summary": "Израиль приостановил ввоз коммерческих товаров в сектор Газа. Эта мера затрагивает ключевой источник снабжения для территории, пострадавшей от конфликта.",
-      "category": "svo",
-      "region": "Израиль",
-      "sources": [
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/world/article-israel-cuts-commercial-goods-entry-gaza/"
-      ],
-      "perspective": "Израиль утверждает, что это мера безопасности, палестинские власти могут считать это коллективным наказанием",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-10-15 12:05:12+00:00",
-      "id": "f0719ce15c5c"
-    },
-    {
-      "title_ru": "Оптовые цены в США выросли на 6,3% в годовом выражении",
-      "title_en": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
-      "date": "2026-10-15 16:15:44+00:00",
-      "summary": "Оптовые цены в США в сентябре 2026 года выросли на 6,3% в годовом выражении. Это максимальный рост с 2022 года, что превысило ожидания аналитиков.",
-      "category": "economy",
-      "region": "США",
-      "sources": [
-        "www.cnbc.com"
-      ],
-      "links": [
-        "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-15 16:15:44+00:00",
-      "id": "013b3eeae161"
     },
     {
       "title_ru": "ВВП Беларуси вырос на 2% за январь-сентябрь",
@@ -504,23 +250,6 @@
       "is_development": false,
       "first_reported": "2026-10-16",
       "id": "0cbd0f969431"
-    },
-    {
-      "title_ru": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
-      "title_en": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
-      "date": "2026-10-15",
-      "summary": "Компания Intero Biosystems стала победителем конкурса Startup Battlefield на конференции Disrupt 2026. Событие демонстрирует развитие стартапов в области биотехнологий.",
-      "category": "ai",
-      "region": "США",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-15",
-      "id": "7d9a2c4d3458"
     },
     {
       "title_ru": "Tax breaks help drive 10% increase in net earnings",
@@ -710,23 +439,6 @@
       "id": "4fef372dafad"
     },
     {
-      "title_ru": "Lee formally appoints inaugural chief of agency in charge of major investigations",
-      "title_en": "Lee formally appoints inaugural chief of agency in charge of major investigations",
-      "date": "2026-10-15",
-      "summary": "Президент Южной Кореи Ли назначил первого руководителя агентства, отвечающего за крупные расследования. Решение является частью реформы правоохранительной системы страны.",
-      "category": "politics",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261015011000315"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-15",
-      "id": "a83716a58eb9"
-    },
-    {
       "title_ru": "Pezeshkian: US sanctions ‘inhumane,’ Iran will not bow to pressure",
       "title_en": "Pezeshkian: US sanctions ‘inhumane,’ Iran will not bow to pressure",
       "date": "2026-10-17",
@@ -878,23 +590,6 @@
       "is_development": false,
       "first_reported": "2026-10-18",
       "id": "ff39ba927c02"
-    },
-    {
-      "title_ru": "Конституционный суд ЮАР вынес решение в пользу АНК по спору о кандидатах",
-      "title_en": "Constitutional Court rules in favour of ANC in IEC candidate nomination dispute",
-      "date": "2026-10-15",
-      "summary": "Конституционный суд ЮАР вынес решение в пользу Африканского национального конгресса в споре с Избирательной комиссией о номинации кандидатов. Решение урегулировало юридический спор.",
-      "category": "politics",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-10-15-constitutional-court-rules-in-favour-of-anc-in-iec-candidate-nomination-dispute/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-15",
-      "id": "6c7a68b8b8e6"
     },
     {
       "title_ru": "Иранские СМИ сообщили о нападении поселенцев на европейских дипломатов в Западном береге",
@@ -1692,10 +1387,299 @@
       "is_development": false,
       "first_reported": "2026-10-22",
       "id": "fa2370c3142a"
+    },
+    {
+      "title_ru": "Марсотрясение в Долинах Маринер отследили до древнего разлома",
+      "title_en": "Marsquake in Mariner Valleys traced to ancient fault deep in crust",
+      "date": "2026-10-22",
+      "summary": "Ученые установили, что марсотрясение в Долинах Маринер связано с древним разломом в глубине марсианской коры. Исследование проведено на основе данных сейсмометра миссии InSight.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/astronomy/marsquake-under-marineris"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-22",
+      "id": "2ee32adc4f17"
+    },
+    {
+      "title_ru": "Южная Корея: Рю Хэ-ран лидирует после 36 лунок на турнире LPGA",
+      "title_en": "Ryu Hae-ran seizes 36-hole lead at LPGA event in S. Korea",
+      "date": "2026-10-23",
+      "summary": "Южнокорейская гольфистка Рю Хэ-ран заняла лидирующую позицию после двух раундов на турнире LPGA в Южной Корее. Она является третьей ракеткой мирового рейтинга.",
+      "category": "tech",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261023007900315"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-23",
+      "id": "3c55e5a9b153"
+    },
+    {
+      "title_ru": "Вспышка Эболы в Африке достигла максимального географического распространения",
+      "title_en": "Ebola Outbreak in Africa Reaches Widest Expansion Ever",
+      "date": "2026-10-22",
+      "summary": "Вспышка лихорадки Эбола в Африке достигла самого широкого географического распространения за всю историю наблюдений. В Демократической Республике Конго зафиксировано более 9700 случаев заражения.",
+      "category": "life",
+      "region": "Африка",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/10/22/health/ebola-nigeria-congo-kenya.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-22",
+      "id": "864ef674c83f"
+    },
+    {
+      "title_ru": "В Нижегородской области обломки дронов упали на жилые дома, есть пострадавшие",
+      "title_en": "Drone debris fell on residential buildings in Nizhny Novgorod region, casualties reported",
+      "date": "2026-10-23",
+      "summary": "В Нижегородской области обломки беспилотников упали на жилые дома, в результате есть пострадавшие. Власти открыли горячую линию для пострадавших.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "rssexport.rbc.ru"
+      ],
+      "links": [
+        "https://www.rbc.ru/rbcfreenews/6adb184ddf745d600c1befb5"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-23",
+      "id": "c0b042b062a0"
+    },
+    {
+      "title_ru": "В ДНР сотрудник МЧС ранен при повторной атаке ВСУ",
+      "title_en": "MChS employee wounded in repeated VSU attack in DNR",
+      "date": "2026-10-23",
+      "summary": "Сотрудник МЧС получил ранение при повторной атаке Вооруженных сил Украины на территории Донецкой Народной Республики. Инцидент произошел в ходе обстрела.",
+      "category": "svo",
+      "region": "ДНР",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20261023/dnr-2126485751.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-23",
+      "id": "5845b4534138"
+    },
+    {
+      "title_ru": "Цена на нефть Brent превысила $114 за баррель впервые с мая",
+      "title_en": "Price of Brent oil up above $114 per barrel on ICE first since May",
+      "date": "2026-10-23",
+      "summary": "Цена на нефть марки Brent на бирже ICE превысила $114 за баррель впервые с мая 2026 года. Рост связан с опасениями по поводу ИИ и снижением мировых запасов.",
+      "category": "economy",
+      "region": "Мир",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/economy/2206629"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-23",
+      "id": "018a73673daf"
+    },
+    {
+      "title_ru": "Венгрия: бывший глава центробанка арестован по делу о мошенничестве на €400 млн",
+      "title_en": "Ex-central bank chief held, remand in custody sought over €400m fraud",
+      "date": "2026-10-22",
+      "summary": "Бывший глава Национального банка Венгрии арестован по делу о мошенничестве на сумму 400 миллионов евро. Суд рассматривает ходатайство о его содержании под стражей.",
+      "category": "economy",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/hungary/ex-central-bank-chief-held-remand-in-custody-sought-over-e400m-fraud/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-22",
+      "id": "e59a78209074"
+    },
+    {
+      "title_ru": "ЮАР выделила 10 млрд рандов на временное снижение цен на топливо",
+      "title_en": "Budget 2026: Godongwana announces R10bn in temporary fuel relief",
+      "date": "2026-10-21",
+      "summary": "Министр финансов ЮАР Энох Годонгвана объявил о выделении 10 миллиардов рандов на временное снижение цен на топливо в рамках бюджета на 2026 год. Мера направлена на смягчение нагрузки на потребителей.",
+      "category": "politics",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-10-21-budget-2026-godongwana-announces-r10bn-in-temporary-fuel-relief/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-21",
+      "id": "7fbf19f84a72"
+    },
+    {
+      "title_ru": "Венгрия: президент призвал сохранить память о событиях 1956 года",
+      "title_en": "President calls on Hungarians to keep 1956’s memory alive",
+      "date": "2026-10-23",
+      "summary": "Президент Венгрии Тамаш Шуйок призвал венгров сохранить память о событиях 1956 года. Заявление сделано в преддверии годовщины Венгерского восстания.",
+      "category": "politics",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/hungary/president-calls-on-hungarians-to-keep-1956s-memory-alive/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-23",
+      "id": "0e028c60423b"
+    },
+    {
+      "title_ru": "Южная Корея: рейтинг одобрения президента Ли впервые с сентября достиг 40%",
+      "title_en": "Lee's approval rating hits 40 pct for 1st time since early Sept.: poll",
+      "date": "2026-10-23",
+      "summary": "Рейтинг одобрения президента Южной Кореи Ли Чжон Сона впервые с начала сентября достиг 40%, согласно опросу. Данные опубликованы агентством Yonhap.",
+      "category": "politics",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261023003200315"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-23",
+      "id": "982c5a1d793e"
+    },
+    {
+      "title_ru": "Нетаньяху заявил о подготовке к полному закрытию Западного берега",
+      "title_en": "Israel preparing 'full closure' of West Bank, Netanyahu says",
+      "date": "2026-10-23",
+      "summary": "Премьер-министр Израиля Биньямин Нетаньяху заявил, что страна готовится к полному закрытию Западного берега. Заявление сделано в контексте мер безопасности.",
+      "category": "conflicts",
+      "region": "Израиль",
+      "sources": [
+        "rss.dw.com"
+      ],
+      "links": [
+        "https://www.dw.com/en/israel-preparing-full-closure-of-west-bank-netanyahu-says/a-79739292?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-23",
+      "id": "2cc65f61fb40"
+    },
+    {
+      "title_ru": "В Гаазе больницы столкнулись с угрозой отключения электричества из-за нехватки топлива",
+      "title_en": "Gaza hospitals face looming blackout as generator supplies run out",
+      "date": "2026-10-23",
+      "summary": "Больницы в секторе Газа столкнулись с угрозой полного отключения электричества из-за истощения запасов топлива для генераторов. Ситуация связана с израильской блокадой.",
+      "category": "conflicts",
+      "region": "Газа",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/10/23/778981/Gaza-hospitals-face-looming-balckout"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-23",
+      "id": "e47518912019"
+    },
+    {
+      "title_ru": "В Австралии депутат Хелен Хейнс лишилась обеих ног после наезда автомобиля",
+      "title_en": "Australian lawmaker Helen Haines has both legs amputated after vehicle attack",
+      "date": "2026-10-21",
+      "summary": "Австралийский парламентарий Хелен Хейнс лишилась обеих ног после наезда автомобиля, который был квалифицирован как преднамеренное нападение. Водитель был арестован.",
+      "category": "life",
+      "region": "Австралия",
+      "sources": [
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/article-australian-lawmaker-helen-haines-vehicle-attack/"
+      ],
+      "is_development": true,
+      "first_reported": "2026-10-21",
+      "id": "a8914dd9809a"
+    },
+    {
+      "title_ru": "Венс: Трамп сознательно пошел на топливную сделку с Москвой",
+      "title_en": "Vance: Trump deliberately went for fuel deal with Moscow",
+      "date": "2026-10-23",
+      "summary": "Вице-президент США Джей Ди Венс заявил, что Дональд Трамп сознательно пошел на топливную сделку с Москвой. Заявление сделано в контексте обсуждения внешней политики.",
+      "category": "statement",
+      "region": "США",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/ekonomika/28245535"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-23",
+      "id": "4050df507ab8"
+    },
+    {
+      "title_ru": "ЮАР: Кот-д'Ивуар привез искусство шоколада и вкусы дипломатии",
+      "title_en": "Côte d’Ivoire Brings the Art of Chocolate and the Flavours of Diplomacy to South Africa",
+      "date": "2026-10-23",
+      "summary": "Кот-д'Ивуар представил искусство шоколада и вкусы дипломатии в Южной Африке в рамках культурного обмена. Мероприятие направлено на укрепление двусторонних отношений.",
+      "category": "culture",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/thought-leader/the-diplomat/2026-10-23-cote-d-ivoire-brings-the-art-of-chocolate-and-the-flavours-of-diplomacy-to-south-africa/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-23",
+      "id": "bf42a3793bb2"
+    },
+    {
+      "title_ru": "Sigma анонсировала компактную модульную гибридную камеру FP2",
+      "title_en": "Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera",
+      "date": "2026-10-23",
+      "summary": "Компания Sigma представила компактную модульную гибридную камеру FP2, позиционируя ее как идеальное решение для гибридной съемки. Камера сочетает фото- и видеовозможности.",
+      "category": "photo",
+      "region": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-23",
+      "id": "9ac61402d5e6"
+    },
+    {
+      "title_ru": "ООН предупредила о превышении миром целевого показателя потепления в 1,5°C",
+      "title_en": "UN warns world will exceed 1.5°C global warming target",
+      "date": "2026-10-21",
+      "summary": "Организация Объединенных Наций предупредила, что мир превысит целевой показатель глобального потепления в 1,5 градуса Цельсия. Заявление основано на текущих климатических тенденциях.",
+      "category": "ecology",
+      "region": "Мир",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/the-green-guardian/2026-10-21-un-warns-world-will-exceed-1-5degc-global-warming-target/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-21",
+      "id": "302468ea9ce4"
     }
   ],
   "_stats": {
-    "total_tokens": 472547,
-    "total_cost": 29.960619999999995
+    "total_tokens": 491026,
+    "total_cost": 31.140499999999996
   }
 }
