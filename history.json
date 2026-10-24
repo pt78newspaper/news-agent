@@ -34,224 +34,6 @@
       "id": "6a433d7a6e57"
     },
     {
-      "title_ru": "В ранней Вселенной обнаружена рекордно тесная пара черных дыр",
-      "title_en": "В ранней Вселенной нашли рекордно тесную пару активных черных дыр",
-      "date": "2026-10-16 06:40:00+00:00",
-      "summary": "Астрономы обнаружили в ранней Вселенной пару сверхмассивных черных дыр на рекордно малом расстоянии друг от друга. Объекты находятся на расстоянии 12,9 млрд световых лет от Земли.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/astronomy/rekordno-tesnuyu-paru-chernyh-dyr"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-16 06:40:00+00:00",
-      "id": "72156ce3bd31"
-    },
-    {
-      "title_ru": "Столкновение автобуса с поездом у тоннеля под Ла-Маншем",
-      "title_en": "Bus hits train near Channel Tunnel in France, 19 hurt",
-      "date": "2026-10-16 07:08:17+02:00",
-      "summary": "Автобус столкнулся с поездом на терминале тоннеля под Ла-Маншем во Франции. В результате инцидента пострадали 19 человек.",
-      "category": "life",
-      "region": "Франция",
-      "sources": [
-        "www.lemonde.fr"
-      ],
-      "links": [
-        "https://www.lemonde.fr/en/france/article/2026/10/16/bus-hits-train-near-channel-tunnel-in-france-19-hurt_6758665_7.html"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-16 07:08:17+02:00",
-      "id": "05691c632339"
-    },
-    {
-      "title_ru": "Иран закрыл Ормузский пролив для судов",
-      "title_en": "Strait of Hormuz closed, any passage requires coordination with Iran: Senior commander",
-      "date": "2026-10-16 08:27:37.430668+00:00",
-      "summary": "Иран объявил о закрытии Ормузского пролива для прохода судов. Командующий ВМС Ирана заявил, что любой проход требует координации с иранскими властями.",
-      "category": "conflicts",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/10/15/778364/Iran-Hormuz-Sayyari-coordination"
-      ],
-      "perspective": "Иран утверждает, что это ответ на нарушение его прав, другие страны могут рассматривать это как блокаду международного пролива",
-      "perspective_type": "assumed",
-      "is_development": true,
-      "first_reported": "2026-10-16 08:27:37.430668+00:00",
-      "id": "503c71abe56c"
-    },
-    {
-      "title_ru": "Танкер подорвался на мине в Ормузском проливе",
-      "title_en": "Ship navigating unauthorized route sinks in Strait of Hormuz after striking naval mine: IRGC",
-      "date": "2026-10-16 08:27:37.430750+00:00",
-      "summary": "Судно, следовавшее по несанкционированному маршруту, затонуло в Ормузском проливе после подрыва на морской мине. Инцидент произошел 14 октября 2026 года.",
-      "category": "conflicts",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/10/14/778292/Ship-navigating-unauthorized-route-sinks-in-Strait-of-Hormuz-after-striking-naval-mine--IRGC"
-      ],
-      "perspective": "Иран заявляет о нарушении судном установленных маршрутов, другие стороны могут считать это эскалацией напряженности",
-      "perspective_type": "assumed",
-      "is_development": true,
-      "first_reported": "2026-10-16 08:27:37.430750+00:00",
-      "id": "a38678e39719"
-    },
-    {
-      "title_ru": "Российские войска сбили 142 украинских боевых мультикоптера",
-      "title_en": "Russia's Battlegroup West shoots down 142 Ukrainian heavy combat multicopters in past day",
-      "date": "2026-10-16 11:11:57+03:00",
-      "summary": "Группировка войск 'Запад' ВС РФ за сутки сбила 142 украинских тяжелых боевых мультикоптера. Об этом сообщило Министерство обороны России 16 октября 2026 года.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "tass.com"
-      ],
-      "links": [
-        "https://tass.com/defense/2202859"
-      ],
-      "perspective": "Россия сообщает о успехах в противодействии украинским БПЛА, Украина может иметь другую оценку этих событий",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-10-16 11:11:57+03:00",
-      "id": "57b42d6cc3e2"
-    },
-    {
-      "title_ru": "ВВП Беларуси вырос на 2% за январь-сентябрь",
-      "title_en": "ВВП в Беларуси в январе-сентябре вырос на 2%",
-      "date": "2026-10-16 11:20:30+03:00",
-      "summary": "Валовой внутренний продукт Беларуси в январе-сентябре 2026 года вырос на 2% по сравнению с аналогичным периодом прошлого года. Данные опубликованы Белстатом.",
-      "category": "economy",
-      "region": "Беларусь",
-      "sources": [
-        "www.belta.by"
-      ],
-      "links": [
-        "https://belta.by/economics/view/vvp-v-belarusi-v-janvare-sentjabre-vyros-na-2-806224-2026/"
-      ],
-      "perspective": "",
-      "perspective_type": "",
-      "is_development": false,
-      "first_reported": "2026-10-16 11:20:30+03:00",
-      "id": "75c3c2eec1fc"
-    },
-    {
-      "title_ru": "Фон дер Ляйен пообещала не снимать с России санкции",
-      "title_en": "Фон дер Ляйен пообещала Зеленскому не снимать с России 'ни одной рестрикции'",
-      "date": "2026-10-16 11:15:59+03:00",
-      "summary": "Председатель Европейской комиссии Урсула фон дер Ляйен заявила президенту Украины Владимиру Зеленскому, что ЕС не снимет с России 'ни одной рестрикции'. Заявление сделано 16 октября 2026 года.",
-      "category": "statement",
-      "region": "Европа",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/mezhdunarodnaya-panorama/28221235"
-      ],
-      "perspective": "ЕС демонстрирует твердую позицию по санкциям, Россия может рассматривать это как продолжение конфронтации",
-      "perspective_type": "assumed",
-      "is_development": false,
-      "first_reported": "2026-10-16 11:15:59+03:00",
-      "id": "39cfb517ec08"
-    },
-    {
-      "title_ru": "Биологи выяснили, что мужская и женская кожа обновляется по-разному",
-      "title_en": "Biologists find that male and female skin renews differently",
-      "date": "2026-10-16",
-      "summary": "Российские биологи установили различия в процессах обновления кожи у мужчин и женщин. Исследование выявило фундаментальные различия в клеточных механизмах регенерации кожи в зависимости от пола.",
-      "category": "tech",
-      "region": "Россия",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/biology/kozha-pol"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-16",
-      "id": "0ee0a8d5f974"
-    },
-    {
-      "title_ru": "Астрономы вычислили скорость сжатия Луны по разломам на ее поверхности",
-      "title_en": "Astronomers calculate the rate of Moon's compression from faults on its surface",
-      "date": "2026-10-16",
-      "summary": "Ученые определили скорость сжатия Луны, анализируя разломы на ее поверхности. Исследование позволило количественно оценить процессы геологической активности спутника Земли.",
-      "category": "tech",
-      "region": "Россия",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/cosmonautics/szhatiye-luny-izuchili"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-16",
-      "id": "3bd64ded2aef"
-    },
-    {
-      "title_ru": "Ученые из России обнаружили микропластик во всех пробах снега Западной Сибири",
-      "title_en": "Russian scientists find microplastics in all snow samples from Western Siberia",
-      "date": "2026-10-16",
-      "summary": "Исследователи обнаружили микропластик во всех взятых пробах снега в Западной Сибири. Результаты свидетельствуют о повсеместном загрязнении окружающей среды пластиковыми частицами.",
-      "category": "tech",
-      "region": "Россия",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/column/mikroplastik-v-probah-snega"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-16",
-      "id": "761dc3e1610a"
-    },
-    {
-      "title_ru": "Физики обнаружили расчетный порог перехода карбина в полуметалл",
-      "title_en": "Physicists discover calculated threshold for carbyne transition to semimetal",
-      "date": "2026-10-16",
-      "summary": "Российские физики выявили расчетный порог перехода материала карбина в состояние полуметалла. Открытие имеет значение для разработки новых материалов с контролируемыми электронными свойствами.",
-      "category": "tech",
-      "region": "Россия",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/column/porog-perehoda-karbina"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-16",
-      "id": "3357c062aad6"
-    },
-    {
-      "title_ru": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-      "title_en": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-      "date": "2026-10-16",
-      "summary": "Актер Марк Уолберг высказался об использовании искусственного интеллекта в киноиндустрии. Он заявил о готовности к созданию ИИ-клона для продолжения своего творческого наследия.",
-      "category": "ai",
-      "region": "США",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-16",
-      "id": "0cbd0f969431"
-    },
-    {
       "title_ru": "Tax breaks help drive 10% increase in net earnings",
       "title_en": "Tax breaks help drive 10% increase in net earnings",
       "date": "2026-10-17",
@@ -403,23 +185,6 @@
       "is_development": false,
       "first_reported": "2026-10-17",
       "id": "8eedf68febb4"
-    },
-    {
-      "title_ru": "Fannie Masemola to resume duties as national police commissioner",
-      "title_en": "Fannie Masemola to resume duties as national police commissioner",
-      "date": "2026-10-16",
-      "summary": "Фэнни Масемола вернется к обязанностям национального комиссара полиции ЮАР. Решение связано с кадровыми изменениями в правоохранительных органах страны.",
-      "category": "politics",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-10-16-fannie-masemola-to-resume-duties-as-national-police-commissioner/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-16",
-      "id": "bf2ab1cdd425"
     },
     {
       "title_ru": "PM says national interests prevailed on all key issues at EU summit",
@@ -956,23 +721,6 @@
       "is_development": false,
       "first_reported": "2026-10-20",
       "id": "84eba38c6ee7"
-    },
-    {
-      "title_ru": "Бюджетный дефицит США вырос до почти 2 триллионов долларов в 2026 финансовом году",
-      "title_en": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
-      "date": "2026-10-16",
-      "summary": "Бюджетный дефицит США увеличился до почти 2 триллионов долларов в 2026 финансовом году. Рост составил 12% по сравнению с предыдущим годом.",
-      "category": "economy",
-      "region": "США",
-      "sources": [
-        "www.cnbc.com"
-      ],
-      "links": [
-        "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-16",
-      "id": "1c40058bc6e6"
     },
     {
       "title_ru": "Мишустин оценил вклад креативных индустрий в ВВП России",
@@ -1676,10 +1424,350 @@
       "is_development": false,
       "first_reported": "2026-10-21",
       "id": "302468ea9ce4"
+    },
+    {
+      "title_ru": "Геологи нашли способ удешевить поиск газа с помощью «торнадо»",
+      "title_en": "Geologists find way to reduce gas exploration costs using 'tornado'",
+      "date": "2026-10-23",
+      "summary": "Российские геологи разработали метод использования вихревых потоков для поиска газовых месторождений. Технология позволяет снизить затраты на разведку полезных ископаемых.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/column/poisk-gaza-i-tornado"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-23",
+      "id": "db3f1143114b"
+    },
+    {
+      "title_ru": "Ученые вырастили муравьев с телом рабочего и головой солдата",
+      "title_en": "Scientists grow ants with worker body and soldier head",
+      "date": "2026-10-24",
+      "summary": "Российские ученые создали гибридных муравьев, сочетающих тело рабочего и голову солдата. Эксперимент демонстрирует возможности управления развитием социальных насекомых.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/biology/muravii-soldaty"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-24",
+      "id": "f550941d8e60"
+    },
+    {
+      "title_ru": "Canva Releases AI Image Generator That Wasn't Trained on Photographs",
+      "title_en": "Canva Releases AI Image Generator That Wasn't Trained on Photographs",
+      "date": "2026-10-23",
+      "summary": "Компания Canva выпустила генератор изображений на основе ИИ, который не обучался на фотографиях. Технология использует альтернативные подходы к созданию визуального контента.",
+      "category": "ai",
+      "region": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/10/23/canva-releases-ai-image-generator-that-wasnt-trained-on-photographs/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-23",
+      "id": "b66de3d2fc6a"
+    },
+    {
+      "title_ru": "Ученые выяснили, почему мы откладываем перемены до понедельника или Нового года",
+      "title_en": "Scientists find out why we postpone changes until Monday or New Year",
+      "date": "2026-10-23",
+      "summary": "Российские исследователи изучили психологические механизмы откладывания важных решений до символических дат. Работа объясняет поведенческие паттерны планирования изменений.",
+      "category": "ai",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/psy/peremeny-do-ponedelnika"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-23",
+      "id": "abcd4f15e48f"
+    },
+    {
+      "title_ru": "Shark attack kills woman off South Africa coast, beaches closed",
+      "title_en": "Shark attack kills woman off South Africa coast, beaches closed",
+      "date": "2026-10-20",
+      "summary": "Женщина погибла в результате нападения акулы у побережья ЮАР. Власти закрыли пляжи в районе инцидента для обеспечения безопасности.",
+      "category": "life",
+      "region": "ЮАР",
+      "sources": [
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/article-shark-attack-kills-woman-off-south-africa-coast-beaches-closed/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-20",
+      "id": "9091672f5ff4"
+    },
+    {
+      "title_ru": "Employment remains stable, but long-term unemployment continues to rise",
+      "title_en": "Employment remains stable, but long-term unemployment continues to rise",
+      "date": "2026-10-23",
+      "summary": "В Венгрии общая занятость остается стабильной, но долгосрочная безработица продолжает расти. Статистика по��азывает структурные проблемы на рынке труда.",
+      "category": "life",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/economy/employment-remains-stable-but-long-term-unemployment-continues-to-rise/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-23",
+      "id": "5ccf344ebeca"
+    },
+    {
+      "title_ru": "Lab testing giant Quest Diagnostics confirms patients' personal and health data was compromised during breach",
+      "title_en": "Lab testing giant Quest Diagnostics confirms patients' personal and health data was compromised during breach",
+      "date": "2026-10-23",
+      "summary": "Крупная лабораторная сеть Quest Diagnostics подтвердила компрометацию персональных и медицинских данных пациентов при утечке. Инцидент затрагивает конфиденциальную информацию о здоровье.",
+      "category": "life",
+      "region": "США",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-23",
+      "id": "7943fd0ffa43"
+    },
+    {
+      "title_ru": "Italian students protest over rising living costs, poor school conditions",
+      "title_en": "Italian students protest over rising living costs, poor school conditions",
+      "date": "2026-10-24",
+      "summary": "Студенты в Италии проводят протесты против роста стоимости жизни и ухудшения условий в учебных заведениях. Акции отражают социально-экономические проблемы в системе образования.",
+      "category": "conflicts",
+      "region": "Италия",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/10/22/778905/Italian-students-protest-over-rising-living-costs,-rearmament,-poor-school-conditions"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-24",
+      "id": "dce64bff2ced"
+    },
+    {
+      "title_ru": "Fishermen in Italy halt activity in protest against rising fuel prices",
+      "title_en": "Fishermen in Italy halt activity in protest against rising fuel prices",
+      "date": "2026-10-24",
+      "summary": "Рыбаки в Италии приостановили деятельность в знак протеста против роста цен на топливо. Акция затрагивает рыболовную отрасль и отражает экономическое давление на производителей.",
+      "category": "conflicts",
+      "region": "Италия",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/10/23/779001/-Fishermen-in-Italy-halt-activity-in-protest-against-rising-fuel-prices"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-24",
+      "id": "75736d5d5621"
+    },
+    {
+      "title_ru": "Над Ульяновской областью сбили 16 беспилотников",
+      "title_en": "16 drones shot down over Ulyanovsk region",
+      "date": "2026-10-24",
+      "summary": "В Ульяновской области российские системы ПВО сбили 16 беспилотных летательных аппаратов. Инцидент произошел 24 октября 2026 года.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9059771"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-24",
+      "id": "22a2fb217758"
+    },
+    {
+      "title_ru": "В Курской области при атаке БПЛА пострадал мужчина",
+      "title_en": "Man injured in drone attack in Kursk region",
+      "date": "2026-10-24",
+      "summary": "В Курской области мужчина получил ранения в результате атаки беспилотного летательного аппарата. Инцидент произошел 24 октября 2026 года.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9059748"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-24",
+      "id": "3f646e445b5a"
+    },
+    {
+      "title_ru": "В Крыму в��лед за Севастополем ограничили подачу воды после атаки БПЛА",
+      "title_en": "Water supply restricted in Crimea after drone attack, following Sevastopol",
+      "date": "2026-10-24",
+      "summary": "В Крыму введены ограничения на подачу воды после атаки беспилотников, аналогичные ранее принятым в Севастополе. Решение связано с повреждениями инфраструктуры.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "rssexport.rbc.ru"
+      ],
+      "links": [
+        "https://www.rbc.ru/rbcfreenews/6adc662c3edd2419439b9784"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-24",
+      "id": "091ac307356b"
+    },
+    {
+      "title_ru": "Investor deposits at brokerages plunge on stock market volatility",
+      "title_en": "Investor deposits at brokerages plunge on stock market volatility",
+      "date": "2026-10-24",
+      "summary": "Депозиты инвесторов в южнокорейских брокерских компаниях резко сократились из-за волатильности на фондовом рынке. Данные отражают изменение поведения инвесторов в условиях нестабильности.",
+      "category": "economy",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261024001800320"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-24",
+      "id": "3989df34e2b9"
+    },
+    {
+      "title_ru": "Seoul proposes border talks with North",
+      "title_en": "Seoul proposes border talks with North",
+      "date": "2026-10-24",
+      "summary": "Южная Корея предложила провести переговоры с Северной Кореей по пограничным вопросам. Инициатива направлена на снижение напряженности на Корейском полуострове.",
+      "category": "politics",
+      "region": "Южная Корея",
+      "sources": [
+        "www.taipeitimes.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/world/archives/2026/10/24/2003866544"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-24",
+      "id": "b6b45d3c1242"
+    },
+    {
+      "title_ru": "North Korean leader Kim Jong Un arrives in Chinese border city",
+      "title_en": "North Korean leader Kim Jong Un arrives in Chinese border city",
+      "date": "2026-10-24",
+      "summary": "Лидер Северной Кореи Ким Чен Ын прибыл в пограничный город Китая. Визит состоялся 24 октября 2026 года, детали переговоров не раскрываются.",
+      "category": "politics",
+      "region": "КНДР",
+      "sources": [
+        "rss.dw.com"
+      ],
+      "links": [
+        "https://www.dw.com/en/north-korean-leader-kim-jong-un-arrives-in-chinese-border-city/a-79748580?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-24",
+      "id": "181f8637ff44"
+    },
+    {
+      "title_ru": "Final countdown to Australia's new international airport",
+      "title_en": "Final countdown to Australia's new international airport",
+      "date": "2026-10-24",
+      "summary": "Австралия приближается к завершению строительства нового международного аэропорта. Инфраструктурный проект является одним из крупнейших в стране за последние десятилетия.",
+      "category": "politics",
+      "region": "Австралия",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/national/final-countdown-to-australias-new-international-airport-20261024-p618au.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-24",
+      "id": "c8d4952cff50"
+    },
+    {
+      "title_ru": "Cuba mocks US 'desperation' calling on Cubans to work with CIA",
+      "title_en": "Cuba mocks US 'desperation' calling on Cubans to work with CIA",
+      "date": "2026-10-24",
+      "summary": "Куба высмеяла «отчаяние» США, призывающих кубинцев сотрудничать с ЦРУ. Заявление сделано в ответ на американские инициативы по изменению политической ситуации на острове.",
+      "category": "statement",
+      "region": "Куба",
+      "sources": [
+        "www.lemonde.fr"
+      ],
+      "links": [
+        "https://www.lemonde.fr/en/international/article/2026/10/24/cuba-mocks-us-desperation-calling-on-cubans-to-work-with-cia_6762736_4.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-24",
+      "id": "7583c1806360"
+    },
+    {
+      "title_ru": "Côte d'Ivoire Brings the Art of Chocolate and the Flavours of Diplomacy to South Africa",
+      "title_en": "Côte d'Ivoire Brings the Art of Chocolate and the Flavours of Diplomacy to South Africa",
+      "date": "2026-10-23",
+      "summary": "Кот-д'Ивуар представил искусство производства шоколада в ЮАР в рамках культурно-дипломатической инициативы. Проект направлен на укрепление международных связей через гастрономию.",
+      "category": "culture",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/thought-leader/the-diplomat/2026-10-23-cote-d-ivoire-brings-the-art-of-chocolate-and-the-flavours-of-diplomacy-to-south-africa/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-23",
+      "id": "a383c371007e"
+    },
+    {
+      "title_ru": "Webb Photographs a 'Turbulent Cauldron of Star Formation'",
+      "title_en": "Webb Photographs a 'Turbulent Cauldron of Star Formation'",
+      "date": "2026-10-23",
+      "summary": "Космический телескоп Джеймса Уэбба запечатлел область активного звездообразования, описываемую как «турбулентный котел». Снимок демонстрирует процессы формирования новых звезд.",
+      "category": "photo",
+      "region": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/10/23/webb-photographs-a-turbulent-cauldron-of-star-formation/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-23",
+      "id": "99c86ae8c618"
+    },
+    {
+      "title_ru": "From motor oil to the runway: Engen reimagines waste through Xtreme Kouture",
+      "title_en": "From motor oil to the runway: Engen reimagines waste through Xtreme Kouture",
+      "date": "2026-10-23",
+      "summary": "Компания Engen в ЮАР представила проект переработки моторного масла в материалы для модной индустрии. Инициатива демонстрирует подход к творческой утилизации промышленных отходов.",
+      "category": "ecology",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/partner-content/2026-10-23-from-motor-oil-to-the-runway-engen-reimagines-waste-through-xtreme-kouture/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-23",
+      "id": "45475fba726c"
     }
   ],
   "_stats": {
-    "total_tokens": 491026,
-    "total_cost": 31.140499999999996
+    "total_tokens": 510664,
+    "total_cost": 32.396699999999996
   }
 }
