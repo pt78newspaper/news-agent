@@ -34,108 +34,6 @@
       "id": "6a433d7a6e57"
     },
     {
-      "title_ru": "Венесуэла планирует инвестиции в нефтяную отрасль на 76 млрд долларов",
-      "title_en": "Venezuela Sees US$76 Billion Oil Investment",
-      "date": "2026-10-18",
-      "summary": "Венесуэла планирует инвестировать 76 млрд долларов в нефтяную отрасль в течение пяти лет. Инвестиции направлены на развитие нефтяной промышленности страны.",
-      "category": "tech",
-      "region": "Венесуэла",
-      "sources": [
-        "riotimesonline.com"
-      ],
-      "links": [
-        "https://www.riotimesonline.com/venezuela-oil-investment-76-billion-five-years-2026/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-18",
-      "id": "dc7ce18a4477"
-    },
-    {
-      "title_ru": "Взрыв на военной базе в Канаде привел к гибели семи человек",
-      "title_en": "Seven killed in explosion at Canada military training base",
-      "date": "2026-10-18",
-      "summary": "Взрыв на военной тренировочной базе в провинции Альберта, Канада, привел к гибели семи человек. Произошел серьезный инцидент с возгоранием на объекте.",
-      "category": "life",
-      "region": "Канада",
-      "sources": [
-        "en.mehrnews.com"
-      ],
-      "links": [
-        "https://en.mehrnews.com/news/248670/Seven-killed-in-explosion-at-Canada-military-training-base"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-18",
-      "id": "8ce3512adbef"
-    },
-    {
-      "title_ru": "ВС России поразили логистический центр 'Новой почты' в Ровно",
-      "title_en": "ВС РФ поразили логистический центр 'Новой почты' в Ровно",
-      "date": "2026-10-18",
-      "summary": "Вооруженные силы России нанесли удар по логистическому центру компании 'Новая почта' в городе Ровно. Минобороны России назвало это одной из целей ночных ударов.",
-      "category": "svo",
-      "region": "Украина",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/armiya-i-opk/28226537"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-18",
-      "id": "d4a9a810ccb1"
-    },
-    {
-      "title_ru": "ВС России поразили сухогруз в Черном море",
-      "title_en": "ВС России поразили сухогруз в Черном море",
-      "date": "2026-10-18",
-      "summary": "Вооруженные силы России поразили сухогруз в Черном море, который перевозил грузы для Вооруженных сил Украины. Судно было атаковано в рамках операции.",
-      "category": "svo",
-      "region": "Черное море",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20261018/sukhogruz-2125201490.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-18",
-      "id": "e9e872e2dd1d"
-    },
-    {
-      "title_ru": "Кения сохранила рост ВВП на уровне 5,1% несмотря на нефтяной шок",
-      "title_en": "Kenya GDP Growth Is 5.1% Despite Oil Shock",
-      "date": "2026-10-18",
-      "summary": "Экономика Кении выросла на 5,1% во втором квартале 2026 года, несмотря на нефтяной шок. Показатель демонстрирует устойчивость экономики страны.",
-      "category": "economy",
-      "region": "Кения",
-      "sources": [
-        "riotimesonline.com"
-      ],
-      "links": [
-        "https://www.riotimesonline.com/kenya-gdp-growth-5-1-percent-second-quarter-2026/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-18",
-      "id": "1e61865255c8"
-    },
-    {
-      "title_ru": "Венесуэльский банковский кредит составляет лишь 3,4% ВВП",
-      "title_en": "Venezuela Bank Credit Is Just 3.4% of GDP",
-      "date": "2026-10-18",
-      "summary": "Объем банковского кредитования в Венесуэле составляет всего 3,4% от валового внутреннего продукта страны. Показатель отражает состояние финансового сектора.",
-      "category": "economy",
-      "region": "Венесуэла",
-      "sources": [
-        "riotimesonline.com"
-      ],
-      "links": [
-        "https://www.riotimesonline.com/venezuela-bank-credit-gdp-2026/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-18",
-      "id": "ff39ba927c02"
-    },
-    {
       "title_ru": "Иранские борцы завоевали командные титулы на чемпионате мира U23 в США",
       "title_en": "Iran captures U23 Greco-Roman world title with three golds in Las Vegas",
       "date": "2026-10-19",
@@ -343,25 +241,6 @@
       "is_development": false,
       "first_reported": "2026-10-19",
       "id": "3bc5c666e383"
-    },
-    {
-      "title_ru": "Фотограф посетил 37 тюрем в 17 штатах США",
-      "title_en": "Land of the Free: Photographer Visits 37 Prisons in 17 States",
-      "date": "2026-10-18",
-      "summary": "Фотограф завершил проект, в ходе которого посетил 37 тюрем в 17 штатах США. Проект посвящен исследованию пенитенциарной системы страны.",
-      "category": "photo",
-      "region": "США",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/10/18/land-of-the-free-photographer-visits-37-prisons-in-17-states/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-18",
-      "id": "7ab5d59e0589"
     },
     {
       "title_ru": "Африка должна владеть будущим продовольствия",
@@ -1764,10 +1643,231 @@
       "is_development": false,
       "first_reported": "2026-10-24 15:00:34+00:00",
       "id": "97a0959ce887"
+    },
+    {
+      "title_ru": "Новая вакцина от меланомы снижает риск рецидива на 40%",
+      "title_en": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent",
+      "date": "2026-10-24 11:30:00+00:00",
+      "summary": "Клинические испытания показали, что новая мРНК-вакцина снижает риск рецидива меланомы более чем на 40%. Результаты опубликованы в рецензируемом журнале.",
+      "category": "tech",
+      "region": "США",
+      "sources": [
+        "Wired"
+      ],
+      "links": [
+        "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-24 11:30:00+00:00",
+      "id": "62050f0ac11f"
+    },
+    {
+      "title_ru": "Беларусь договорилась о поставках сельхозтехники в Монголию",
+      "title_en": "Лукашенко: Беларусь договорилась с Монголией о новых поставках техники для сельского хозяйства",
+      "date": "2026-10-26 12:05:54+03:00",
+      "summary": "Беларусь и Монголия заключили соглашение о новых поставках сельскохозяйственной техники. Президент Лукашенко заявил об этом на встрече с монгольской делегацией.",
+      "category": "tech",
+      "region": "Беларусь",
+      "sources": [
+        "БелТА"
+      ],
+      "links": [
+        "https://belta.by/president/view/lukashenko-belarus-dogovorilas-s-mongoliej-o-novyh-postavkah-tehniki-dlja-selskogo-hozjajstva-807748-2026/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-26 12:05:54+03:00",
+      "id": "dbbd8c34103f"
+    },
+    {
+      "title_ru": "Автор книги о технологическом либертарианстве критикует идеологию",
+      "title_en": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+      "date": "2026-10-25 20:20:08+00:00",
+      "summary": "Автор книги \"Cyberselfish\" выпустила новое издание, в котором критикует технологический либертарианство. Книга анализирует влияние этой идеологии на технологическую индустрию.",
+      "category": "ai",
+      "region": "США",
+      "sources": [
+        "TechCrunch"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-25 20:20:08+00:00",
+      "id": "4311509fa813"
+    },
+    {
+      "title_ru": "Перепады температуры связаны с риском аутоиммунных заболеваний у женщин",
+      "title_en": "Перепады температуры связали с риском развития аутоиммунных заболеваний у женщин",
+      "date": "2026-10-26 08:30:41+00:00",
+      "summary": "Исследование показало связь между перепадами температуры и повышенным риском развития аутоиммунных заболеваний у женщин. Данные основаны на анализе медицинских записей.",
+      "category": "life",
+      "region": "Россия",
+      "sources": [
+        "Naked Science"
+      ],
+      "links": [
+        "https://naked-science.ru/article/medicine/perepady-temperatury-svyazali"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-26 08:30:41+00:00",
+      "id": "562070c70b13"
+    },
+    {
+      "title_ru": "28 инцидентов с супертанкерами в Ормузском проливе в октябре",
+      "title_en": "October Strait Of Hormuz Attacks: 28 incidents hit over 30 supertankers; data shows record spike",
+      "date": "2026-10-26 12:51:35+05:30",
+      "summary": "В октябре в Ормузском проливе зафиксировано 28 инцидентов с участием более 30 супертанкеров. Это рекордный показатель за месяц.",
+      "category": "conflicts",
+      "region": "Ближний Восток",
+      "sources": [
+        "Times of India"
+      ],
+      "links": [
+        "https://timesofindia.indiatimes.com/world/middle-east/october-records-highest-number-of-ship-attacks-in-strait-of-hormuz/articleshow/135204669.cms"
+      ],
+      "is_development": true,
+      "first_reported": "2026-10-26 12:51:35+05:30",
+      "id": "b685140db6e3"
+    },
+    {
+      "title_ru": "Иран заявил о состоянии войны и готовности к самообороне",
+      "title_en": "Iran in state of war, not hesitate to defend itself: Baghaei",
+      "date": "2026-10-26 07:50:02+00:00",
+      "summary": "Представитель иранского правительства Мохаммад Багаэи заявил, что Иран находится в состоянии войны и не будет колебаться в защите себя. Заявление сделано на фоне напряженности в регионе.",
+      "category": "conflicts",
+      "region": "Иран",
+      "sources": [
+        "Mehr News"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/248928/Iran-in-a-state-of-war-not-hesitate-to-defend-itself-Baghae"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-26 07:50:02+00:00",
+      "id": "226cab75641b"
+    },
+    {
+      "title_ru": "Потери ВСУ за сутки составили около 1285 военных",
+      "title_en": "Потери ВСУ за сутки в зоне СВО составили порядка 1 285 военных",
+      "date": "2026-10-26 12:05:05+03:00",
+      "summary": "Министерство обороны России сообщило, что потери ВСУ за сутки в зоне специальной военной операции составили около 1285 военнослужащих. Данные представлены по всем направлениям.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "ТАСС"
+      ],
+      "links": [
+        "https://tass.ru/armiya-i-opk/28253545"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-26 12:05:05+03:00",
+      "id": "51f9142cd7c4"
+    },
+    {
+      "title_ru": "Энергетические рынки не вернутся к довоенным уровням в 2027 году",
+      "title_en": "Energy markets unlikely to return to pre-war levels in 2027",
+      "date": "2026-10-26 06:59:28+00:00",
+      "summary": "Аналитики прогнозируют, что энергетические рынки не вернутся к довоенным уровням в 2027 году. Это связано с продолжающейся напряженностью в регионе Персидского залива.",
+      "category": "economy",
+      "region": "Ближний Восток",
+      "sources": [
+        "Mehr News"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/248925/Energy-markets-unlikely-to-return-to-pre-war-levels-in-2027"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-26 06:59:28+00:00",
+      "id": "716358536136"
+    },
+    {
+      "title_ru": "Инфляция в Великобритании выросла до 3,5%",
+      "title_en": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+      "date": "2026-10-21 07:50:10+00:00",
+      "summary": "Инфляция потребительских цен в Великобритании в сентябре выросла до 3,5% в годовом выражении. Это укрепило ожидания повышения процентных ставок.",
+      "category": "economy",
+      "region": "Великобритания",
+      "sources": [
+        "CNBC"
+      ],
+      "links": [
+        "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-21 07:50:10+00:00",
+      "id": "d7ff69ee28c2"
+    },
+    {
+      "title_ru": "Мари Ле Пен начала предвыборную кампанию во Франции",
+      "title_en": "2027 French presidential election: Le Pen launches campaign with mix of radicalism and 'optimism'",
+      "date": "2026-10-26 10:05:04+01:00",
+      "summary": "Мари Ле Пен официально начала предвыборную кампанию на президентских выборах 2027 года во Франции. Она представила программу, сочетающую радикализм и \"оптимизм\".",
+      "category": "politics",
+      "region": "Франция",
+      "sources": [
+        "Le Monde"
+      ],
+      "links": [
+        "https://www.lemonde.fr/en/politics/article/2026/10/26/2027-french-presidential-election-le-pen-launches-campaign-with-mix-of-radicalism-and-optimism_6764353_5.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-26 10:05:04+01:00",
+      "id": "b02baf023e22"
+    },
+    {
+      "title_ru": "Коалиция Вучича набрала менее 40% голосов на выборах в Сербии",
+      "title_en": "Коалиция Вучича набирает менее 40% голосов на выборах в Сербии",
+      "date": "2026-10-26 10:20:38+03:00",
+      "summary": "Коалиция президента Сербии Александра Вучича набрала менее 40% голосов на парламентских выборах. Оппозиция получила преимущество более чем в 9,5 процентных пунктов.",
+      "category": "politics",
+      "region": "Сербия",
+      "sources": [
+        "РИА Новости"
+      ],
+      "links": [
+        "https://ria.ru/20261026/serbiya-2126996146.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-26 10:20:38+03:00",
+      "id": "e3c073a54f12"
+    },
+    {
+      "title_ru": "Иран заявил, что управление Ормузским проливом не вернется к довоенной эре",
+      "title_en": "Strait of Hormuz management will never return to pre-war era: Iran FM",
+      "date": "2026-10-26 09:18:22.983139+00:00",
+      "summary": "Министр иностранных дел Ирана заявил, что управление Ормузским проливом никогда не вернется к довоенной эре. Это заявление сделано на фоне напряженности в регионе.",
+      "category": "statement",
+      "region": "Иран",
+      "sources": [
+        "Press TV"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/10/25/779150/Iran-Hormuz-Strait-no-longer-same-before"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-26 09:18:22.983139+00:00",
+      "id": "fdeec2a82d24"
+    },
+    {
+      "title_ru": "В ЮАР проходит национальная кампания за ответственное мужское лидерство",
+      "title_en": "EmpowaMEN™: South Africa’s National Signature Gathering for Responsible Masculinity and Accountable Leadership",
+      "date": "2026-10-23 12:14:15+00:00",
+      "summary": "В ЮАР запущена национальная кампания EmpowaMEN™ по сбору подписей за ответственное мужское лидерство и подотчетность. Инициатива направлена на борьбу с гендерным насилием.",
+      "category": "culture",
+      "region": "ЮАР",
+      "sources": [
+        "Mail & Guardian"
+      ],
+      "links": [
+        "https://mg.co.za/partner-content/2026-10-23-empowamentm-south-africa-s-national-signature-gathering-for-responsible-masculinity-and-accountable-leadership/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-23 12:14:15+00:00",
+      "id": "bf64114dcbd8"
     }
   ],
   "_stats": {
-    "total_tokens": 527008,
-    "total_cost": 33.44074
+    "total_tokens": 544810,
+    "total_cost": 34.572779999999995
   }
 }
