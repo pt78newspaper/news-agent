@@ -34,251 +34,6 @@
       "id": "6a433d7a6e57"
     },
     {
-      "title_ru": "Иранские борцы завоевали командные титулы на чемпионате мира U23 в США",
-      "title_en": "Iran captures U23 Greco-Roman world title with three golds in Las Vegas",
-      "date": "2026-10-19",
-      "summary": "Иранская команда по греко-римской борьбе завоевала командный титул на чемпионате мира U23 в Лас-Вегасе, США. Лидер Ирана Аятолла Хаменеи поздравил команду с победой.",
-      "category": "politics",
-      "region": "Иран",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/10/15/778343/Iran-U23-Greco-Roman-World-title-2026"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-19",
-      "id": "fd1b38084acf"
-    },
-    {
-      "title_ru": "Израильские силы задержали 10 подозреваемых в связи с нападением на журналиста и дипломатов в Западном береге",
-      "title_en": "IDF, Shin Bet arrest 10 suspects connected to attack on US journalist, EU diplomats in West Bank",
-      "date": "2026-10-19",
-      "summary": "Армия обороны Израиля и Шин Бет задержали 10 подозреваемых, связанных с нападением на американского журналиста и европейских дипломатов в Западном береге. Инцидент произошел в районе, контролируемом Израилем.",
-      "category": "conflicts",
-      "region": "Израиль",
-      "perspective": "Израиль рассматривает задержания как меру безопасности, палестинские источники могут расценивать как репрессии",
-      "perspective_type": "assumed",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/israel-news/crime-in-israel/article-912116"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-19",
-      "id": "163ab89a0839"
-    },
-    {
-      "title_ru": "Канада осудила израильские атаки на оккупированном Западном береге",
-      "title_en": "Canada condemns Israeli attacks in occupied West Bank",
-      "date": "2026-10-19",
-      "summary": "Канада официально осудила израильские атаки на оккупированном Западном береге. Заявление сделано в контексте продолжающегося конфликта в регионе.",
-      "category": "conflicts",
-      "region": "Канада",
-      "perspective": "Канада выражает официальную позицию, Израиль может не соглашаться с формулировкой",
-      "perspective_type": "assumed",
-      "sources": [
-        "en.mehrnews.com"
-      ],
-      "links": [
-        "https://en.mehrnews.com/news/248700/Canada-condemns-Israeli-attacks-in-occupied-West-Bank"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-19",
-      "id": "fb98bfb9018e"
-    },
-    {
-      "title_ru": "Потери ВСУ за сутки в зоне СВО составили порядка 1 235 военных",
-      "title_en": "Потери ВСУ за сутки в зоне СВО составили порядка 1 235 военных",
-      "date": "2026-10-19",
-      "summary": "Министерство обороны России сообщило о потерях Вооруженных сил Украины за сутки в зоне специальной военной операции. Согласно данным, потери составили порядка 1 235 военнослужащих.",
-      "category": "svo",
-      "region": "Россия",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/armiya-i-opk/28229049"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-19",
-      "id": "f7e38ff7bc71"
-    },
-    {
-      "title_ru": "Юрий Трутнев перейдет на работу в Кремль",
-      "title_en": "Юрий Трутнев перейдет на работу в Кремль",
-      "date": "2026-10-19",
-      "summary": "Вице-премьер Юрий Трутнев переходит на работу в администрацию президента России. Кадровое перемещение связано с реорганизацией правительственного аппарата.",
-      "category": "politics",
-      "region": "Россия",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "rssexport.rbc.ru"
-      ],
-      "links": [
-        "https://www.rbc.ru/economics/19/10/2026/6ad5b66f9a7947ac614a7991"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-19",
-      "id": "3c16912437a3"
-    },
-    {
-      "title_ru": "В кабмин вернется позиция вице-премьера - министра финансов",
-      "title_en": "ТАСС: в кабмин спустя шесть лет вернется позиция вице-премьера - министра финансов",
-      "date": "2026-10-19",
-      "summary": "В правительстве России после шестилетнего перерыва восстанавливается должность вице-премьера - министра финансов. Решение связано с реструктуризацией экономического блока кабинета министров.",
-      "category": "politics",
-      "region": "Россия",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/politika/28229115"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-19",
-      "id": "7e5e27a7482e"
-    },
-    {
-      "title_ru": "США приостановили санкции против российского дизеля с учетом партнерства с Индией",
-      "title_en": "Рубио: США при приостановке санкций против РФ учитывали партнерство с Индией",
-      "date": "2026-10-19",
-      "summary": "Сенатор Марко Рубио заявил, что США при принятии решения о приостановке санкций против российского дизельного топлива учитывали партнерство с Индией. Решение связано с энергетическими потребностями союзников.",
-      "category": "economy",
-      "region": "США",
-      "perspective": "США объясняют решение стратегическими соображениями, Россия может рассматривать как ослабление санкционного давления",
-      "perspective_type": "assumed",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/mezhdunarodnaya-panorama/28229071"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-19",
-      "id": "2c6e091e346b"
-    },
-    {
-      "title_ru": "Альберта проводит референдум о сепаратизме",
-      "title_en": "As Alberta Holds a Referendum on Separatism, Premier Danielle Smith Has Alienated Both Sides",
-      "date": "2026-10-19",
-      "summary": "Провинция Альберта в Канаде проводит референдум о возможном отделении от страны. Премьер провинции Даниэль Смит столкнулась с критикой как со стороны сторонников, так и противников отделения.",
-      "category": "politics",
-      "region": "Канада",
-      "perspective": "Сторонники видят в референдуме демократический процесс, федеральные власти Канады выступают против отделения",
-      "perspective_type": "assumed",
-      "sources": [
-        "rss.nytimes.com"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/10/19/world/canada/alberta-referendum-danielle-smith.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-19",
-      "id": "117b175871a2"
-    },
-    {
-      "title_ru": "Индонезия объявила об окончании чрезвычайной ситуации с загрязнением цезием-137",
-      "title_en": "Indonesia declares end to Cesium-137 contamination emergency",
-      "date": "2026-10-19",
-      "summary": "Индонезия официально объявила об окончании чрезвычайной ситуации, связанной с загрязнением цезием-137. Решение принято после устранения последствий радиационного инцидента.",
-      "category": "life",
-      "region": "Индонезия",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "en.antaranews.com"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/436473/indonesia-declares-end-to-cesium-137-contamination-emergency"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-19",
-      "id": "174bd9f35bfd"
-    },
-    {
-      "title_ru": "В Австралии произошел инцидент с нападением на офис депутата Хелен Хейнс",
-      "title_en": "Helen Haines attacked in 'serious incident' outside electorate office",
-      "date": "2026-10-19",
-      "summary": "В Австралии произошел серьезный инцидент с нападением на независимого депутата Хелен Хейнс возле ее избирательного офиса в Вангаратте. Полиция расследует происшествие.",
-      "category": "politics",
-      "region": "Австралия",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "www.smh.com.au"
-      ],
-      "links": [
-        "https://www.smh.com.au/national/helen-haines-injured-in-electorate-office-incident-20261019-p616v3.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-19",
-      "id": "7c3710290f90"
-    },
-    {
-      "title_ru": "В Венгрии обвинили Орбана в шутках о насильственном свержении конституционного строя",
-      "title_en": "Magyar accuses Orbán of joking about violent overthrow of constitutional order",
-      "date": "2026-10-19",
-      "summary": "Политик Петер Марджи обвинил премьер-министра Венгрии Виктора Орбана в шутках о насильственном свержении конституционного строя. Заявление сделано в контексте внутриполитической борьбы.",
-      "category": "politics",
-      "region": "Венгрия",
-      "perspective": "Оппозиция рассматривает слова как угрозу демократии, правительство может отрицать серьезность высказываний",
-      "perspective_type": "assumed",
-      "sources": [
-        "budapesttimes.hu"
-      ],
-      "links": [
-        "https://www.budapesttimes.hu/hungary/magyar-accuses-orban-of-joking-about-violent-overthrow-of-constitutional-order/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-19",
-      "id": "3bc5c666e383"
-    },
-    {
-      "title_ru": "Африка должна владеть будущим продовольствия",
-      "title_en": "Africa must own the future of food",
-      "date": "2026-10-19",
-      "summary": "В ЮАР опубликована статья с призывом к африканским странам взять под контроль будущее продовольственной безопасности континента. Авторы подчеркивают необходимость развития собственного сельского хозяйства.",
-      "category": "ecology",
-      "region": "Африка",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/thought-leader/2026-10-19-africa-must-own-the-future-of-food/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-19",
-      "id": "26ddedd712fa"
-    },
-    {
-      "title_ru": "Amazon профинансирует 12 малых ядерных реакторов на бывшей угольной электростанции в Индиане",
-      "title_en": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
-      "date": "2026-10-19",
-      "summary": "Компания Amazon объявила о финансировании строительства 12 малых модульных ядерных реакторов на территории бывшей угольной электростанции в штате Индиана, США. Проект направлен на развитие низкоуглеродной энергетики.",
-      "category": "tech",
-      "region": "США",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-19",
-      "id": "d3be445f63e8"
-    },
-    {
       "title_ru": "Южная Корея отзывает часть сотрудников посольства из Украины на фоне спора о северокорейских военнопленных",
       "title_en": "S. Korea to withdraw some embassy staff from Ukraine amid N.K. POW dispute",
       "date": "2026-10-20",
@@ -1864,10 +1619,237 @@
       "is_development": false,
       "first_reported": "2026-10-23 12:14:15+00:00",
       "id": "bf64114dcbd8"
+    },
+    {
+      "title_ru": "Израильский оборонный сектор: сделки M&A достигли $3,26 млрд в первой половине 2026 года",
+      "title_en": "Israeli defense tech M&A surges to $3.26 billion in first half of 2026",
+      "date": "2026-10-27",
+      "summary": "В первой половине 2026 года объем сделок слияний и поглощений в израильском оборонно-технологическом секторе достиг 3,26 миллиарда долларов США. Это отражает рост инвестиционной активности в данной отрасли.",
+      "category": "tech",
+      "region": "Израиль",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/defense-and-tech/article-913006"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-27",
+      "id": "b3764d7485a0"
+    },
+    {
+      "title_ru": "Астрономы установили двухэтапное формирование диска Млечного Пути",
+      "title_en": "Astronomers find Milky Way's disk formed in two stages",
+      "date": "2026-10-27",
+      "summary": "Астрономические исследования показали, что диск нашей галактики Млечный Путь формировался в два отдельных этапа. Это открытие меняет представление о процессе галактической эволюции.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/astronomy/disk-mlechnogo-puti-v-dva-etapa"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-27",
+      "id": "3228085720b9"
+    },
+    {
+      "title_ru": "Компания Anthropic подала документы на IPO с целью привлечения $100 млрд",
+      "title_en": "AI company Anthropic files its IPO in hopes of raising $100 billion",
+      "date": "2026-10-26",
+      "summary": "Компания Anthropic, занимающаяся разработкой искусственного интеллекта, подала документы на проведение первичного публичного размещения акций. Компания рассчитывает привлечь до 100 миллиардов долларов США.",
+      "category": "ai",
+      "region": "США",
+      "sources": [
+        "rss.dw.com"
+      ],
+      "links": [
+        "https://www.dw.com/en/ai-company-anthropic-files-its-ipo-in-hopes-of-raising-100-billion/a-79768876?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-26",
+      "id": "6c825e3d1eac"
+    },
+    {
+      "title_ru": "Кризис водоснабжения в Бронкхорстспруйте обнажает системные проблемы ЮАР",
+      "title_en": "Bronkhorstspruit crisis highlights SA's water service failures",
+      "date": "2026-10-26",
+      "summary": "Кризис водоснабжения в городе Бронкхорстспруит в ЮАР выявил системные сбои в работе водоснабжающих служб страны. Ситуация подчеркивает хронические проблемы инфраструктуры.",
+      "category": "life",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/the-green-guardian/2026-10-26-bronkhorstspruit-crisis-highlights-sa-s-water-service-failures/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-26",
+      "id": "8c6645d3ebbb"
+    },
+    {
+      "title_ru": "Во Франции продолжаются студенческие протесты несмотря на уступки властей",
+      "title_en": "France Makes Concessions to Students, but Not Enough to Halt Protests",
+      "date": "2026-10-26",
+      "summary": "Правительство Франции пошло на уступки студентам, однако протестные акции продолжаются. Власти не смогли полностью удовлетворить требования демонстрантов.",
+      "category": "conflicts",
+      "region": "Франция",
+      "perspective": "Власти видят в протестах угрозу общественному порядку, протестующие считают уступки недостаточными",
+      "perspective_type": "assumed",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/10/26/world/europe/france-student-protests.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-26",
+      "id": "8f5fc06fefd0"
+    },
+    {
+      "title_ru": "Минобороны России сообщило об ударе по мосту «Южный» в Киеве",
+      "title_en": "Russian Defense Ministry reports strike on 'Southern' bridge in Kyiv",
+      "date": "2026-10-27",
+      "summary": "Министерство обороны России заявило о нанесении удара по мосту «Южный» в Киеве. Сообщается о поражении объекта транспортной инфраструктуры.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9061346"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-27",
+      "id": "a85e2bdd334c"
+    },
+    {
+      "title_ru": "Минобороны России сообщило о взятии населенного пункта Общее в Запорожской области",
+      "title_en": "Russian Defense Ministry reports capture of Obshchee in Zaporizhzhia region",
+      "date": "2026-10-26",
+      "summary": "Министерство обороны России заявило о взятии под контроль населенного пункта Общее в Запорожской области. Сообщение поступило 26 октября 2026 года.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9060601"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-26",
+      "id": "2daa0fae7994"
+    },
+    {
+      "title_ru": "Венгрия подписала соглашения на €254 млн с ЕЭЗ и Норвежским фондом",
+      "title_en": "Government signs €254m EEA and Norwegian Fund agreements after years of deadlock",
+      "date": "2026-10-27",
+      "summary": "Правительство Венгрии подписало соглашения с Европейской экономической зоной и Норвежским фондом на сумму 254 миллиона евро. Переговоры по этим соглашениям были заблокированы в течение нескольких лет.",
+      "category": "economy",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/economy/government-signs-e254m-eea-and-norwegian-fund-agreements-after-years-of-deadlock/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-27",
+      "id": "2d83bd42a573"
+    },
+    {
+      "title_ru": "В Израиле начались парламентские выборы",
+      "title_en": "Opening of polling stations in Israel, Netanyahu faces test at the polls",
+      "date": "2026-10-27",
+      "summary": "В Израиле 27 октября 2026 года открылись избирательные участки для проведения парламентских выборов. Действующий премьер-министр Биньямин Нетаньяху проходит испытание на выборах.",
+      "category": "politics",
+      "region": "Израиль",
+      "perspective": "Выборы рассматриваются как референдум о политике действующего правительства",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.france24.com"
+      ],
+      "links": [
+        "https://www.france24.com/fr/moyen-orient/20261027-direct-ouverture-bureaux-vote-isra%C3%ABl-netanyahu-%C3%A9preuve-urnes"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-27",
+      "id": "9d073738330a"
+    },
+    {
+      "title_ru": "Иран переходит к устойчивой логистике на фоне морских ограничений",
+      "title_en": "Iran shifts toward resilient logistics amid maritime restrictions",
+      "date": "2026-10-26",
+      "summary": "Иран переходит к созданию устойчивых логистических цепочек в условиях действующих морских ограничений. Страна адаптирует свою транспортную систему к текущим вызовам.",
+      "category": "politics",
+      "region": "Иран",
+      "perspective": "Иран представляет это как ответ на внешнее давление, другие страны могут видеть в этом обход санкций",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/10/26/779198/Iran-shifts-toward-resilient-logistics"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-26",
+      "id": "7e7bdc27006c"
+    },
+    {
+      "title_ru": "Дональд Трамп пообещал $1 млн за информацию о мошенничестве на выборах",
+      "title_en": "Donald Trump offers $1 million for information on election fraud",
+      "date": "2026-10-27",
+      "summary": "Бывший президент США Дональд Трамп пообещал вознаграждение в размере 1 миллиона долларов за информацию, которая докажет факты мошенничества на выборах. Заявление сделано 27 октября 2026 года.",
+      "category": "statement",
+      "region": "США",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9061405"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-27",
+      "id": "5989318431a7"
+    },
+    {
+      "title_ru": "Apple представила новый iPad mini с OLED-дисплеем и чипом A20 Pro",
+      "title_en": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
+      "date": "2026-10-26",
+      "summary": "Компания Apple представила новую модель планшета iPad mini с OLED-дисплеем и более производительным процессором A20 Pro. Анонс состоялся 26 октября 2026 года.",
+      "category": "photo",
+      "region": "Мир",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-26",
+      "id": "b02eedf3567f"
+    },
+    {
+      "title_ru": "Новый отчет требует сотни триллионов репараций за колониальный экологический ущерб",
+      "title_en": "New Report Calls for Hundreds of Trillions in Reparations Over British Colonial Environmental Damage",
+      "date": "2026-10-26",
+      "summary": "Новый отчет призывает к выплате сотен триллионов долларов в качестве репараций за экологический ущерб, нанесенный британским колониализмом. Документ опубликован 26 октября 2026 года.",
+      "category": "ecology",
+      "region": "Мир",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/partner-content/2026-10-26-new-report-calls-for-hundreds-of-trillions-in-reparations-over-british-colonial-environmental-damage/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-26",
+      "id": "b93657ce67e1"
     }
   ],
   "_stats": {
-    "total_tokens": 544810,
-    "total_cost": 34.572779999999995
+    "total_tokens": 563615,
+    "total_cost": 35.75733999999999
   }
 }
