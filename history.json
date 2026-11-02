@@ -34,142 +34,6 @@
       "id": "6a433d7a6e57"
     },
     {
-      "title_ru": "Войска РФ за сутки атаковали 15 населенных пунктов Харьковской области, есть погибший и пострадавшие",
-      "title_en": "Війська РФ за добу атакували 15 населених пунктів Харківщини, є загиблий і постраждалі",
-      "date": "2026-10-25 09:24:15+02:00",
-      "summary": "Российские войска за сутки атаковали 15 населенных пунктов Харьковской области Украины. В результате обстрелов есть погибший и пострадавшие.",
-      "category": "svo",
-      "region": "Украина",
-      "sources": [
-        "www.ukrinform.ua"
-      ],
-      "links": [
-        "https://www.ukrinform.ua/rubric-regions/4177932-vijska-rf-za-dobu-atakuvali-15-naselenih-punktiv-harkivsini-e-zagiblij-i-postrazdali.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-25 09:24:15+02:00",
-      "id": "ff884ab589c0"
-    },
-    {
-      "title_ru": "В Курской области сбили 174 украинских беспилотника за сутки",
-      "title_en": "Хинштейн: за сутки в Курской области сбили 174 украинских беспилотника ВСУ",
-      "date": "2026-10-25 10:06:19+03:00",
-      "summary": "В Курской области России за сутки сбили 174 украинских беспилотника. Об этом сообщил губернатор региона.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9059972"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-25 10:06:19+03:00",
-      "id": "572a3a7bcfbf"
-    },
-    {
-      "title_ru": "В Австралии кандидат Джесс Уилсон пообещала запретить фразу 'Глобализируйте интифаду' в случае избрания",
-      "title_en": "Jess Wilson vows to ban 'Globalise the intifada' phrase if elected",
-      "date": "2026-10-25 19:06:58+11:00",
-      "summary": "Кандидат в парламент Австралии Джесс Уилсон заявила, что в случае избрания будет добиваться запрета фразы 'Глобализируйте интифаду'. Она назвала эту фразу призывом к насилию.",
-      "category": "politics",
-      "region": "Австралия",
-      "sources": [
-        "www.smh.com.au"
-      ],
-      "links": [
-        "https://www.smh.com.au/national/victoria/jess-wilson-vows-to-ban-globalise-the-intifada-phrase-if-elected-20261025-p618fn.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-25 19:06:58+11:00",
-      "id": "317151d410aa"
-    },
-    {
-      "title_ru": "Лидер КНДР Ким Чен Ын посетил китайский город Даньдун и пообещал развивать отношения с Китаем",
-      "title_en": "(2nd LD) N.K. leader vows to advance ties with China during surprise Dandong visit",
-      "date": "2026-10-25 14:03:58+09:00",
-      "summary": "Лидер КНДР Ким Чен Ын совершил неожиданный визит в китайский приграничный город Даньдун. Он заявил о намерении развивать отношения с Китаем.",
-      "category": "politics",
-      "region": "КНДР",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261025000352315"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-25 14:03:58+09:00",
-      "id": "87038b880d92"
-    },
-    {
-      "title_ru": "В Сербии назначены досрочные парламентские выборы",
-      "title_en": "Serbia to hold early parliamentary elections",
-      "date": "2026-10-25 04:38:01+03:00",
-      "summary": "В Сербии назначены досрочные парламентские выборы. Дата проведения выборов не уточняется.",
-      "category": "politics",
-      "region": "Сербия",
-      "sources": [
-        "tass.com"
-      ],
-      "links": [
-        "https://tass.com/world/2207383"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-25 04:38:01+03:00",
-      "id": "05d2ac393924"
-    },
-    {
-      "title_ru": "В Онтарио проходят муниципальные выборы, включая семь мэрских гонок",
-      "title_en": "Ontario municipal elections: A look at 7 mayoral races as voters head to the polls",
-      "date": "2026-10-25 04:00:00+00:00",
-      "summary": "В канадской провинции Онтарио проходят муниципальные выборы. Избиратели голосуют в семи мэрских гонках в различных городах региона.",
-      "category": "politics",
-      "region": "Канада",
-      "sources": [
-        "www.cbc.ca"
-      ],
-      "links": [
-        "https://www.cbc.ca/news/canada/ontario-municipal-elections-explainer-9.7392950?cmp=rss"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-25 04:00:00+00:00",
-      "id": "c236df99dc48"
-    },
-    {
-      "title_ru": "В Австралии женщина борется за жизнь после перестрелки из движущейся машины",
-      "title_en": "Innocent woman fighting for life after drive-by shooting",
-      "date": "2026-10-25 18:32:09+11:00",
-      "summary": "В Австралии невинная женщина борется за жизнь после перестрелки из движущейся машины. Пострадавшая получила огнестрельные ранения.",
-      "category": "life",
-      "region": "Австралия",
-      "sources": [
-        "www.smh.com.au"
-      ],
-      "links": [
-        "https://www.smh.com.au/national/innocent-woman-fighting-for-life-after-drive-by-shooting-20261025-p618fv.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-25 18:32:09+11:00",
-      "id": "1ee76689e54b"
-    },
-    {
-      "title_ru": "В Южной Корее начался плей-офф КВО между командами 'Львы' и 'Тигры'",
-      "title_en": "Tigers manager predicts low-scoring KBO postseason battle vs. Lions",
-      "date": "2026-10-25 14:05:09+09:00",
-      "summary": "В Южной Корее начался плей-офф Корейской бейсбольной организации между командами 'Львы' и 'Тигры'. Менеджер 'Тигров' прогнозирует низкорезультативную серию.",
-      "category": "culture",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261025003400315"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-25 14:05:09+09:00",
-      "id": "41db5a63fa52"
-    },
-    {
       "title_ru": "Беларусь договорилась о поставках сельхозтехники в Монголию",
       "title_en": "Лукашенко: Беларусь договорилась с Монголией о новых поставках техники для сельского хозяйства",
       "date": "2026-10-26 12:05:54+03:00",
@@ -185,23 +49,6 @@
       "is_development": false,
       "first_reported": "2026-10-26 12:05:54+03:00",
       "id": "dbbd8c34103f"
-    },
-    {
-      "title_ru": "Автор книги о технологическом либертарианстве критикует идеологию",
-      "title_en": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
-      "date": "2026-10-25 20:20:08+00:00",
-      "summary": "Автор книги \"Cyberselfish\" выпустила новое издание, в котором критикует технологический либертарианство. Книга анализирует влияние этой идеологии на технологическую индустрию.",
-      "category": "ai",
-      "region": "США",
-      "sources": [
-        "TechCrunch"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-25 20:20:08+00:00",
-      "id": "4311509fa813"
     },
     {
       "title_ru": "Перепады температуры связаны с риском аутоиммунных заболеваний у женщин",
@@ -1830,10 +1677,231 @@
       "is_development": false,
       "first_reported": "2026-11-01",
       "id": "7318d82fb925"
+    },
+    {
+      "title_ru": "Турция выбрала подрядчиков для 7 ветроэнергетических проектов по программе YEKA",
+      "title_en": "Türkiye selects contractors for 7 wind power projects under YEKA",
+      "date": "2026-11-02",
+      "summary": "Турция определила подрядчиков для строительства семи ветроэнергетических проектов в рамках программы YEKA (Renewable Energy Resources Areas). Проекты направлены на увеличение доли возобновляемых источников энергии в энергобалансе страны.",
+      "category": "tech",
+      "region": "Турция",
+      "sources": [
+        "www.dailysabah.com"
+      ],
+      "links": [
+        "https://www.dailysabah.com/business/energy/turkiye-selects-contractors-for-7-wind-power-projects-under-yeka"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-02",
+      "id": "e9b2b9b63b7d"
+    },
+    {
+      "title_ru": "Лаос рассматривает ветроэнергетику для планов по возобновляемым источникам энергии",
+      "title_en": "Laos looks to wind energy for its renewables plans",
+      "date": "2026-11-02",
+      "summary": "Лаос изучает возможности развития ветроэнергетики как часть своих планов по расширению использования возобновляемых источников энергии. Страна стремится диверсифицировать энергетический сектор.",
+      "category": "tech",
+      "region": "Лаос",
+      "sources": [
+        "www.taipeitimes.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/world/archives/2026/11/02/2003867017"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-02",
+      "id": "af6b8a48e076"
+    },
+    {
+      "title_ru": "Словакия модернизирует крупнейшую энергетическую 'батарею' на 200 млн евро",
+      "title_en": "Slovakia's biggest energy 'battery' gets a €200 million upgrade",
+      "date": "2026-10-29",
+      "summary": "Словакия инвестирует 200 млн евро в модернизацию своей крупнейшей системы накопления энергии. Проект направлен на повышение стабильности энергосистемы и интеграцию возобновляемых источников.",
+      "category": "tech",
+      "region": "Словакия",
+      "sources": [
+        "spectator.sme.sk"
+      ],
+      "links": [
+        "https://spectator.sme.sk/business/c/slovakia-s-biggest-energy-battery-gets-a-200m-upgrade?utm_source=rss&utm_medium=feed&utm_campaign=spectator-rss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-29",
+      "id": "1a8b887804b4"
+    },
+    {
+      "title_ru": "Метеорит из Сахары оказался обломком Марса возрастом 4,1 миллиарда лет",
+      "title_en": "Meteorite from Sahara turned out to be a fragment of Mars aged 4.1 billion years",
+      "date": "2026-11-02",
+      "summary": "Ученые установили, что метеорит, найденный в Сахаре, является фрагментом марсианской породы возрастом 4,1 миллиарда лет. Открытие предоставляет уникальные данные о ранней истории Марса.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/astronomy/iz-sahary-okazalsya"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-02",
+      "id": "2924f1f39b29"
+    },
+    {
+      "title_ru": "Мое путешествие в центр американского политического спам-текстового ада",
+      "title_en": "My Journey to the Center of America's Political Spam Text Hell",
+      "date": "2026-11-02",
+      "summary": "В США зафиксирован масштабный рост политических спам-рассылок через текстовые сообщения в предвыборный период. Явление стало системной проблемой, затрагивающей миллионы пользователей.",
+      "category": "ai",
+      "region": "США",
+      "sources": [
+        "www.wired.com"
+      ],
+      "links": [
+        "https://www.wired.com/story/my-journey-to-the-center-of-americas-political-spam-text-hell"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-02",
+      "id": "8285dc987f4c"
+    },
+    {
+      "title_ru": "Хэллоуин стал смертоносным по всей территории США из-за стрельбы",
+      "title_en": "Halloween turns deadly across US as gun violence leaves at least 24 dead, 94 injured",
+      "date": "2026-11-02",
+      "summary": "В ходе празднования Хэллоуина в США произошли многочисленные случаи стрельбы. По предварительным данным, погибло не менее 24 человек, 94 получили ранения в различных инцидентах по всей стране.",
+      "category": "life",
+      "region": "США",
+      "sources": [
+        "timesofindia.indiatimes.com"
+      ],
+      "links": [
+        "https://timesofindia.indiatimes.com/world/us/halloween-turns-deadly-across-us-as-gun-violence-leaves-at-least-24-dead-94-injured/articleshow/135454052.cms"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-02",
+      "id": "e0cc1397ebd7"
+    },
+    {
+      "title_ru": "Австралия опасается рецессии, вызванной повышением ставок РБА",
+      "title_en": "The rate rise that stops the economy? Fears of an RBA-induced recession",
+      "date": "2026-11-02",
+      "summary": "В Австралии растут опасения, что повышение процентных ставок Резервным банком Австралии может привести к экономической рецессии. Эксперты обсуждают риски замедления экономического роста.",
+      "category": "life",
+      "region": "Австралия",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/politics/federal/the-rate-rise-that-stops-the-economy-fears-of-an-rba-induced-recession-20261102-p61aic.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-02",
+      "id": "b2e941175dde"
+    },
+    {
+      "title_ru": "Иран передал в ИМО доказательства атак США и Израиля на порты и морскую инфраструктуру",
+      "title_en": "Exclusive | Iran submits evidence of US-Israeli attacks on ports, maritime infrastructure to IMO",
+      "date": "2026-11-01",
+      "summary": "Иран представил Международной морской организации доказательства атак США и Израиля на иранские порты и морскую инфраструктуру. Документы включают материалы о повреждениях объектов.",
+      "category": "conflicts",
+      "region": "Иран",
+      "sources": [
+        "en.irna.ir"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86309209/Exclusive-Iran-submits-evidence-of-US-Israeli-attacks-on-ports"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-01",
+      "id": "be9759749025"
+    },
+    {
+      "title_ru": "Песков: возобновить транзит российского газа через Украину пока невозможно",
+      "title_en": "Peskov: возобновить транзит российского газа через Украину пока невозможно",
+      "date": "2026-11-02",
+      "summary": "Пресс-секретарь президента России Дмитрий Песков заявил, что возобновление транзита российского газа через Украину в настоящее время невозможно. Комментарий последовал после сообщений о предложениях США.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "www.belta.by"
+      ],
+      "links": [
+        "https://belta.by/world/view/peskov-vozobnovit-tranzit-rossijskogo-gaza-cherez-ukrainu-poka-nevozmozhno-808914-2026/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-02",
+      "id": "7c5d65835a11"
+    },
+    {
+      "title_ru": "Лантратова сообщила о 'созвонах' с Трамп при подготовке миссии в Алешках",
+      "title_en": "Лантратова сообщила о 'созвонах' с Трамп при подготовке миссии в Алешках",
+      "date": "2026-11-02",
+      "summary": "Уполномоченный по правам человека в РФ Татьяна Лантратова сообщила о контактах с командой Дональда Трампа при подготовке гуманитарной миссии в Алешках. Переговоры велись на этапе организации операции.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "rssexport.rbc.ru"
+      ],
+      "links": [
+        "https://www.rbc.ru/rbcfreenews/6ae8689c6e7c2beba23d8bdf"
+      ],
+      "is_development": true,
+      "first_reported": "2026-11-02",
+      "id": "c24a7b6e8533"
+    },
+    {
+      "title_ru": "Песков назвал промежуточные выборы в США внутренним делом Америки",
+      "title_en": "Песков назвал промежуточные выборы в США внутренним делом Америки",
+      "date": "2026-11-02",
+      "summary": "Пресс-секретарь президента России Дмитрий Песков заявил, что промежуточные выборы в США являются внутренним делом Америки. Россия не комментирует внутриполитические процессы в других странах.",
+      "category": "politics",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20261102/peskov-2128609804.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-02",
+      "id": "cf4e0d9329e9"
+    },
+    {
+      "title_ru": "Иранский дипломат высмеял европейские опасения по поводу экономических последствий атак США и Израиля",
+      "title_en": "Iranian envoy derides European concerns over economic fallout of US-Israeli aggression",
+      "date": "2026-11-01",
+      "summary": "Иранский дипломат отверг европейские опасения по поводу экономических последствий атак США и Израиля против Ирана. Представитель заявил, что Европа должна сосредоточиться на прекращении поддержки агрессии.",
+      "category": "statement",
+      "region": "Иран",
+      "sources": [
+        "en.irna.ir"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86309407/Iranian-envoy-derides-European-concerns-over-economic-fallout"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-01",
+      "id": "231216195267"
+    },
+    {
+      "title_ru": "Фотограф запечатлел Международную космическую станцию и Юпитер в одном кадре",
+      "title_en": "Photographer Captures International Space Station and Jupiter in the Same Frame",
+      "date": "2026-11-01",
+      "summary": "Фотографу удалось сделать снимок, на котором одновременно видны Международная космическая станция и планета Юпитер. Кадр сделан с длинной выдержкой и демонстрирует движение станции на фоне звезд.",
+      "category": "photo",
+      "region": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/11/01/photographer-captures-international-space-station-and-jupiter-in-the-same-frame/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-01",
+      "id": "e790840d7e5a"
     }
   ],
   "_stats": {
-    "total_tokens": 657502,
-    "total_cost": 41.688039999999994
+    "total_tokens": 675618,
+    "total_cost": 42.842699999999994
   }
 }
