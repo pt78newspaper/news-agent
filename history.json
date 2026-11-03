@@ -34,159 +34,6 @@
       "id": "6a433d7a6e57"
     },
     {
-      "title_ru": "Беларусь договорилась о поставках сельхозтехники в Монголию",
-      "title_en": "Лукашенко: Беларусь договорилась с Монголией о новых поставках техники для сельского хозяйства",
-      "date": "2026-10-26 12:05:54+03:00",
-      "summary": "Беларусь и Монголия заключили соглашение о новых поставках сельскохозяйственной техники. Президент Лукашенко заявил об этом на встрече с монгольской делегацией.",
-      "category": "tech",
-      "region": "Беларусь",
-      "sources": [
-        "БелТА"
-      ],
-      "links": [
-        "https://belta.by/president/view/lukashenko-belarus-dogovorilas-s-mongoliej-o-novyh-postavkah-tehniki-dlja-selskogo-hozjajstva-807748-2026/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-26 12:05:54+03:00",
-      "id": "dbbd8c34103f"
-    },
-    {
-      "title_ru": "Перепады температуры связаны с риском аутоиммунных заболеваний у женщин",
-      "title_en": "Перепады температуры связали с риском развития аутоиммунных заболеваний у женщин",
-      "date": "2026-10-26 08:30:41+00:00",
-      "summary": "Исследование показало связь между перепадами температуры и повышенным риском развития аутоиммунных заболеваний у женщин. Данные основаны на анализе медицинских записей.",
-      "category": "life",
-      "region": "Россия",
-      "sources": [
-        "Naked Science"
-      ],
-      "links": [
-        "https://naked-science.ru/article/medicine/perepady-temperatury-svyazali"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-26 08:30:41+00:00",
-      "id": "562070c70b13"
-    },
-    {
-      "title_ru": "28 инцидентов с супертанкерами в Ормузском проливе в октябре",
-      "title_en": "October Strait Of Hormuz Attacks: 28 incidents hit over 30 supertankers; data shows record spike",
-      "date": "2026-10-26 12:51:35+05:30",
-      "summary": "В октябре в Ормузском проливе зафиксировано 28 инцидентов с участием более 30 супертанкеров. Это рекордный показатель за месяц.",
-      "category": "conflicts",
-      "region": "Ближний Восток",
-      "sources": [
-        "Times of India"
-      ],
-      "links": [
-        "https://timesofindia.indiatimes.com/world/middle-east/october-records-highest-number-of-ship-attacks-in-strait-of-hormuz/articleshow/135204669.cms"
-      ],
-      "is_development": true,
-      "first_reported": "2026-10-26 12:51:35+05:30",
-      "id": "b685140db6e3"
-    },
-    {
-      "title_ru": "Иран заявил о состоянии войны и готовности к самообороне",
-      "title_en": "Iran in state of war, not hesitate to defend itself: Baghaei",
-      "date": "2026-10-26 07:50:02+00:00",
-      "summary": "Представитель иранского правительства Мохаммад Багаэи заявил, что Иран находится в состоянии войны и не будет колебаться в защите себя. Заявление сделано на фоне напряженности в регионе.",
-      "category": "conflicts",
-      "region": "Иран",
-      "sources": [
-        "Mehr News"
-      ],
-      "links": [
-        "https://en.mehrnews.com/news/248928/Iran-in-a-state-of-war-not-hesitate-to-defend-itself-Baghae"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-26 07:50:02+00:00",
-      "id": "226cab75641b"
-    },
-    {
-      "title_ru": "Потери ВСУ за сутки составили около 1285 военных",
-      "title_en": "Потери ВСУ за сутки в зоне СВО составили порядка 1 285 военных",
-      "date": "2026-10-26 12:05:05+03:00",
-      "summary": "Министерство обороны России сообщило, что потери ВСУ за сутки в зоне специальной военной операции составили около 1285 военнослужащих. Данные представлены по всем направлениям.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "ТАСС"
-      ],
-      "links": [
-        "https://tass.ru/armiya-i-opk/28253545"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-26 12:05:05+03:00",
-      "id": "51f9142cd7c4"
-    },
-    {
-      "title_ru": "Энергетические рынки не вернутся к довоенным уровням в 2027 году",
-      "title_en": "Energy markets unlikely to return to pre-war levels in 2027",
-      "date": "2026-10-26 06:59:28+00:00",
-      "summary": "Аналитики прогнозируют, что энергетические рынки не вернутся к довоенным уровням в 2027 году. Это связано с продолжающейся напряженностью в регионе Персидского залива.",
-      "category": "economy",
-      "region": "Ближний Восток",
-      "sources": [
-        "Mehr News"
-      ],
-      "links": [
-        "https://en.mehrnews.com/news/248925/Energy-markets-unlikely-to-return-to-pre-war-levels-in-2027"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-26 06:59:28+00:00",
-      "id": "716358536136"
-    },
-    {
-      "title_ru": "Мари Ле Пен начала предвыборную кампанию во Франции",
-      "title_en": "2027 French presidential election: Le Pen launches campaign with mix of radicalism and 'optimism'",
-      "date": "2026-10-26 10:05:04+01:00",
-      "summary": "Мари Ле Пен официально начала предвыборную кампанию на президентских выборах 2027 года во Франции. Она представила программу, сочетающую радикализм и \"оптимизм\".",
-      "category": "politics",
-      "region": "Франция",
-      "sources": [
-        "Le Monde"
-      ],
-      "links": [
-        "https://www.lemonde.fr/en/politics/article/2026/10/26/2027-french-presidential-election-le-pen-launches-campaign-with-mix-of-radicalism-and-optimism_6764353_5.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-26 10:05:04+01:00",
-      "id": "b02baf023e22"
-    },
-    {
-      "title_ru": "Коалиция Вучича набрала менее 40% голосов на выборах в Сербии",
-      "title_en": "Коалиция Вучича набирает менее 40% голосов на выборах в Сербии",
-      "date": "2026-10-26 10:20:38+03:00",
-      "summary": "Коалиция президента Сербии Александра Вучича набрала менее 40% голосов на парламентских выборах. Оппозиция получила преимущество более чем в 9,5 процентных пунктов.",
-      "category": "politics",
-      "region": "Сербия",
-      "sources": [
-        "РИА Новости"
-      ],
-      "links": [
-        "https://ria.ru/20261026/serbiya-2126996146.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-26 10:20:38+03:00",
-      "id": "e3c073a54f12"
-    },
-    {
-      "title_ru": "Иран заявил, что управление Ормузским проливом не вернется к довоенной эре",
-      "title_en": "Strait of Hormuz management will never return to pre-war era: Iran FM",
-      "date": "2026-10-26 09:18:22.983139+00:00",
-      "summary": "Министр иностранных дел Ирана заявил, что управление Ормузским проливом никогда не вернется к довоенной эре. Это заявление сделано на фоне напряженности в регионе.",
-      "category": "statement",
-      "region": "Иран",
-      "sources": [
-        "Press TV"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/10/25/779150/Iran-Hormuz-Strait-no-longer-same-before"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-26 09:18:22.983139+00:00",
-      "id": "fdeec2a82d24"
-    },
-    {
       "title_ru": "Израильский оборонный сектор: сделки M&A достигли $3,26 млрд в первой половине 2026 года",
       "title_en": "Israeli defense tech M&A surges to $3.26 billion in first half of 2026",
       "date": "2026-10-27",
@@ -221,59 +68,6 @@
       "id": "3228085720b9"
     },
     {
-      "title_ru": "Компания Anthropic подала документы на IPO с целью привлечения $100 млрд",
-      "title_en": "AI company Anthropic files its IPO in hopes of raising $100 billion",
-      "date": "2026-10-26",
-      "summary": "Компания Anthropic, занимающаяся разработкой искусственного интеллекта, подала документы на проведение первичного публичного размещения акций. Компания рассчитывает привлечь до 100 миллиардов долларов США.",
-      "category": "ai",
-      "region": "США",
-      "sources": [
-        "rss.dw.com"
-      ],
-      "links": [
-        "https://www.dw.com/en/ai-company-anthropic-files-its-ipo-in-hopes-of-raising-100-billion/a-79768876?maca=en-rss-en-all-1573-xml-mrss"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-26",
-      "id": "6c825e3d1eac"
-    },
-    {
-      "title_ru": "Кризис водоснабжения в Бронкхорстспруйте обнажает системные проблемы ЮАР",
-      "title_en": "Bronkhorstspruit crisis highlights SA's water service failures",
-      "date": "2026-10-26",
-      "summary": "Кризис водоснабжения в городе Бронкхорстспруит в ЮАР выявил системные сбои в работе водоснабжающих служб страны. Ситуация подчеркивает хронические проблемы инфраструктуры.",
-      "category": "life",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/the-green-guardian/2026-10-26-bronkhorstspruit-crisis-highlights-sa-s-water-service-failures/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-26",
-      "id": "8c6645d3ebbb"
-    },
-    {
-      "title_ru": "Во Франции продолжаются студенческие протесты несмотря на уступки властей",
-      "title_en": "France Makes Concessions to Students, but Not Enough to Halt Protests",
-      "date": "2026-10-26",
-      "summary": "Правительство Франции пошло на уступки студентам, однако протестные акции продолжаются. Власти не смогли полностью удовлетворить требования демонстрантов.",
-      "category": "conflicts",
-      "region": "Франция",
-      "perspective": "Власти видят в протестах угрозу общественному порядку, протестующие считают уступки недостаточными",
-      "perspective_type": "assumed",
-      "sources": [
-        "rss.nytimes.com"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/10/26/world/europe/france-student-protests.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-26",
-      "id": "8f5fc06fefd0"
-    },
-    {
       "title_ru": "Минобороны России сообщило об ударе по мосту «Южный» в Киеве",
       "title_en": "Russian Defense Ministry reports strike on 'Southern' bridge in Kyiv",
       "date": "2026-10-27",
@@ -289,23 +83,6 @@
       "is_development": false,
       "first_reported": "2026-10-27",
       "id": "a85e2bdd334c"
-    },
-    {
-      "title_ru": "Минобороны России сообщило о взятии населенного пункта Общее в Запорожской области",
-      "title_en": "Russian Defense Ministry reports capture of Obshchee in Zaporizhzhia region",
-      "date": "2026-10-26",
-      "summary": "Министерство обороны России заявило о взятии под контроль населенного пункта Общее в Запорожской области. Сообщение поступило 26 октября 2026 года.",
-      "category": "svo",
-      "region": "Украина",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9060601"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-26",
-      "id": "2daa0fae7994"
     },
     {
       "title_ru": "Венгрия подписала соглашения на €254 млн с ЕЭЗ и Норвежским фондом",
@@ -345,25 +122,6 @@
       "id": "9d073738330a"
     },
     {
-      "title_ru": "Иран переходит к устойчивой логистике на фоне морских ограничений",
-      "title_en": "Iran shifts toward resilient logistics amid maritime restrictions",
-      "date": "2026-10-26",
-      "summary": "Иран переходит к созданию устойчивых логистических цепочек в условиях действующих морских ограничений. Страна адаптирует свою транспортную систему к текущим вызовам.",
-      "category": "politics",
-      "region": "Иран",
-      "perspective": "Иран представляет это как ответ на внешнее давление, другие страны могут видеть в этом обход санкций",
-      "perspective_type": "assumed",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/10/26/779198/Iran-shifts-toward-resilient-logistics"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-26",
-      "id": "7e7bdc27006c"
-    },
-    {
       "title_ru": "Дональд Трамп пообещал $1 млн за информацию о мошенничестве на выборах",
       "title_en": "Donald Trump offers $1 million for information on election fraud",
       "date": "2026-10-27",
@@ -379,40 +137,6 @@
       "is_development": false,
       "first_reported": "2026-10-27",
       "id": "5989318431a7"
-    },
-    {
-      "title_ru": "Apple представила новый iPad mini с OLED-дисплеем и чипом A20 Pro",
-      "title_en": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
-      "date": "2026-10-26",
-      "summary": "Компания Apple представила новую модель планшета iPad mini с OLED-дисплеем и более производительным процессором A20 Pro. Анонс состоялся 26 октября 2026 года.",
-      "category": "photo",
-      "region": "Мир",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-26",
-      "id": "b02eedf3567f"
-    },
-    {
-      "title_ru": "Новый отчет требует сотни триллионов репараций за колониальный экологический ущерб",
-      "title_en": "New Report Calls for Hundreds of Trillions in Reparations Over British Colonial Environmental Damage",
-      "date": "2026-10-26",
-      "summary": "Новый отчет призывает к выплате сотен триллионов долларов в качестве репараций за экологический ущерб, нанесенный британским колониализмом. Документ опубликован 26 октября 2026 года.",
-      "category": "ecology",
-      "region": "Мир",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/partner-content/2026-10-26-new-report-calls-for-hundreds-of-trillions-in-reparations-over-british-colonial-environmental-damage/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-26",
-      "id": "b93657ce67e1"
     },
     {
       "title_ru": "Ford представит самый дешевый американский электромобиль с функцией питания дома",
@@ -589,23 +313,6 @@
       "is_development": false,
       "first_reported": "2026-10-28",
       "id": "acc41d0b34c5"
-    },
-    {
-      "title_ru": "Венгрия запретит политикам управлять спортивными клубами",
-      "title_en": "Government submits law to ban politicians from running sports clubs",
-      "date": "2026-10-26",
-      "summary": "Правительство Венгрии внесло законопроект, запрещающий политикам управлять спортивными клубами. Закон направлен на разделение политической деятельности и спортивного менеджмента.",
-      "category": "politics",
-      "region": "Венгрия",
-      "sources": [
-        "budapesttimes.hu"
-      ],
-      "links": [
-        "https://www.budapesttimes.hu/sports/government-submits-law-to-ban-politicians-from-running-sports-clubs/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-26",
-      "id": "30df8fff4bbf"
     },
     {
       "title_ru": "Трамп заявил о скорой встрече с Путиным и Зеленским",
@@ -1526,23 +1233,6 @@
       "id": "d19d18ce6655"
     },
     {
-      "title_ru": "Иран завоевал титул чемпиона мира по греко-римской борьбе",
-      "title_en": "Iran crowned Greco-Roman world champions early as Esmaeili, Mohmadi reach finals",
-      "date": "2026-10-26",
-      "summary": "Иранская сборная по греко-римской борьбе досрочно завоевала титул чемпиона мира на чемпионате 2026 года. Иранские борцы Эсмаили и Мохмади вышли в финалы, обеспечив команде победу.",
-      "category": "politics",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/10/26/779242/Iran-crowned-Greco-Roman-world-champions-early-as-Esmaeili,-Mohmadi-reach-finals"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-26",
-      "id": "d4e6cfa81755"
-    },
-    {
       "title_ru": "В Германии прошли протесты против роста стоимости жизни",
       "title_en": "Shops looted as German cost of living protests turn violent",
       "date": "2026-11-01",
@@ -1898,10 +1588,248 @@
       "is_development": false,
       "first_reported": "2026-11-01",
       "id": "e790840d7e5a"
+    },
+    {
+      "title_ru": "Сеть атомных часов зафиксировала, как притяжение Луны и Солнца изменило ход времени на Земле",
+      "title_en": "Network of atomic clocks detects how Moon and Sun gravity changed time on Earth",
+      "date": "2026-11-03",
+      "summary": "Международная сеть атомных часов зафиксировала изменение хода времени на Земле под влиянием гравитационного притяжения Луны и Солнца. Это первое прямое измерение релятивистских эффектов от лунно-солнечного притяжения на временную шкалу.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/physics/prityazhenie-izmenilo-hod-vremeni"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-03",
+      "id": "3d8667a5661b"
+    },
+    {
+      "title_ru": "Fujifilm инвестирует более 63 млн долларов в пятикратное увеличение производства магнитной ленты",
+      "title_en": "Fujifilm Spending Over $63 Million to Quintuple Magnetic Tape Production",
+      "date": "2026-11-02",
+      "summary": "Компания Fujifilm объявила о инвестициях более 63 млн долларов для пятикратного увеличения производства магнитной ленты. Решение связано с растущим спросом на магнитные ленты для долгосрочного хранения данных.",
+      "category": "tech",
+      "region": "Япония",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/11/02/fujifilm-spending-over-63-million-to-quintuple-magnetic-tape-production/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-02",
+      "id": "d4e26ea957bf"
+    },
+    {
+      "title_ru": "В Южной Корее акции упали более чем на 3% на фоне обострения проблем с ИИ",
+      "title_en": "Seoul shares dip over 3 pct amid escalating AI woes",
+      "date": "2026-11-03",
+      "summary": "Фондовый рынок Южной Кореи снизился более чем на 3% из-за обострения проблем в секторе искусственного интеллекта. Падение произошло на фоне растущих опасений инвесторов относительно технологических компаний.",
+      "category": "ai",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261103007952320"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-03",
+      "id": "9c8fb67b17f1"
+    },
+    {
+      "title_ru": "В Бангладеш протесты работников швейной промышленности продолжаются четвертый день",
+      "title_en": "Bangladesh garment workers wage protests enter 4th day",
+      "date": "2026-11-03",
+      "summary": "В Бангладеш протесты работников швейной промышленности за повышение заработной платы продолжаются четвертый день. Акции сопровождались столкновениями с полицией.",
+      "category": "life",
+      "region": "Бангладеш",
+      "sources": [
+        "www.dailysabah.com"
+      ],
+      "links": [
+        "https://www.dailysabah.com/world/asia-pacific/bangladesh-garment-workers-wage-protests-enter-4th-day"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-03",
+      "id": "368161ad0d35"
+    },
+    {
+      "title_ru": "В Венгрии естественная убыль населения увеличилась из-за более быстрого падения рождаемости",
+      "title_en": "Natural population decline widens as births drop faster than deaths",
+      "date": "2026-11-02",
+      "summary": "В Венгрии естественная убыль населения увеличилась из-за более быстрого падения рождаемости по сравнению со смертностью. Данные демонстрируют продолжающуюся демографическую тенденцию.",
+      "category": "life",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/health/natural-population-decline-widens-as-births-drop-faster-than-deaths/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-02",
+      "id": "1148166282bd"
+    },
+    {
+      "title_ru": "В Австралии суд рассматривает иск против запрета соцсетей для лиц младше 16 лет",
+      "title_en": "Australian Court Hears Challenge to Social Media Ban",
+      "date": "2026-11-03",
+      "summary": "Верховный суд Австралии рассматривает иск против закона, запрещающего лицам младше 16 лет доступ к социальным сетям. Платформы Reddit и другие оспаривают законодательство как 'непродуманное'.",
+      "category": "life",
+      "region": "Австралия",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/11/03/world/asia/australia-social-media-ban-high-court.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-03",
+      "id": "d4997d125672"
+    },
+    {
+      "title_ru": "Лукашенко предложил провести мирные переговоры по Украине в Минске",
+      "title_en": "Lukashenko proposes to hold peace talks on Ukraine in Minsk",
+      "date": "2026-11-03",
+      "summary": "Президент Белоруссии Александр Лукашенко предложил провести мирные переговоры по Украине в Минске. Он заявил, что Белоруссия хочет скорейшего решения конфликта.",
+      "category": "svo",
+      "region": "Белоруссия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9079807"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-03",
+      "id": "2853d54b531d"
+    },
+    {
+      "title_ru": "Лавров объяснил, что для России означает равная безопасность с Западом",
+      "title_en": "Lavrov explains what equal security with West means for Russia",
+      "date": "2026-11-03",
+      "summary": "Министр иностранных дел России Сергей Лавров заявил, что равная безопасность с Западом для России означает отсутствие угроз от военной инфраструктуры НАТО у границ. Он также отметил, что Киев не будет отменять законы о русском языке.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20261103/lavrov-2128934516.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-03",
+      "id": "947bcef982d8"
+    },
+    {
+      "title_ru": "ВВП США в третьем квартале вырос на 3,4%, инфляция в сентябре ускорилась",
+      "title_en": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+      "date": "2026-10-29",
+      "summary": "ВВП США в третьем квартале 2026 года вырос на 3,4%, что превысило ожидания экономистов. Одновременно инфляция в сентябре ускорилась, что создает сложности для денежно-кредитной политики.",
+      "category": "economy",
+      "region": "США",
+      "sources": [
+        "www.cnbc.com"
+      ],
+      "links": [
+        "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-29",
+      "id": "77d2c7abf1f9"
+    },
+    {
+      "title_ru": "Путин включил вице-премьера Кожемяко в состав Совета безопасности",
+      "title_en": "Putin includes Deputy Prime Minister Kozhemyako in Security Council",
+      "date": "2026-11-03",
+      "summary": "Президент России Владимир Путин включил вице-премьера - полномочного представителя на Дальнем Востоке Олега Кожемяко в состав Совета безопасности РФ. Решение оформлено соответствующим указом.",
+      "category": "politics",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9079760"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-03",
+      "id": "b0e956d8fbf0"
+    },
+    {
+      "title_ru": "В ЮАР оспаривают решение Трампа по AGOA",
+      "title_en": "SA challenges Trump's AGOA decision",
+      "date": "2026-11-03",
+      "summary": "Южноафриканские власти оспаривают решение администрации Трампа по программе AGOA (Закон о росте и возможностях Африки). Речь идет о торговых преференциях для африканских стран.",
+      "category": "politics",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-11-03-sa-challenges-trump-s-agoa-decision/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-03",
+      "id": "7d990309e6f6"
+    },
+    {
+      "title_ru": "В Венгрии 4 ноября будут рассекречены архивные файлы агентов коммунистической эпохи",
+      "title_en": "Secret communist-era agent files to be released on 4 November",
+      "date": "2026-11-02",
+      "summary": "В Венгрии 4 ноября 2026 года будут рассекречены архивные файлы агентов коммунистической эпохи. Решение принято в рамках политики открытости исторических документов.",
+      "category": "politics",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/hungary/secret-communist-era-agent-files-to-be-released-on-4-november/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-02",
+      "id": "0249b53e9982"
+    },
+    {
+      "title_ru": "Иран и Китай имеют схожие взгляды по многим международным и региональным вопросам",
+      "title_en": "Bagheri: Iran and China share similar views on many international and regional issues",
+      "date": "2026-11-02",
+      "summary": "Заместитель министра иностранных дел Ирана Али Багери заявил, что Иран и Китай имеют схожие взгляды по многим международным и региональным вопросам. Заявление сделано в ходе встречи с китайским коллегой.",
+      "category": "statement",
+      "region": "Иран",
+      "sources": [
+        "en.irna.ir"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86310672/Bagheri-Iran-and-China-share-similar-views-on-many-international"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-02",
+      "id": "9230502433cc"
+    },
+    {
+      "title_ru": "В ЮАР три года спустя район Канана продолжает жить со зловонием из-за пренебрежения",
+      "title_en": "Three years on, Kanana is still living with the stench of neglect",
+      "date": "2026-10-29",
+      "summary": "В ЮАР три года спустя после обещаний район Канана продолжает жить со зловонием из-за пренебрежения инфраструктурой. Жители сообщают о нерешенных проблемах с канализацией и водоснабжением.",
+      "category": "ecology",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-10-29-three-years-on-kanana-is-still-living-with-the-stench-of-neglect/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-10-29",
+      "id": "b5e56f149f08"
     }
   ],
   "_stats": {
-    "total_tokens": 675618,
-    "total_cost": 42.842699999999994
+    "total_tokens": 692655,
+    "total_cost": 43.923019999999994
   }
 }
