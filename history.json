@@ -34,145 +34,6 @@
       "id": "6a433d7a6e57"
     },
     {
-      "title_ru": "Израильский оборонный сектор: сделки M&A достигли $3,26 млрд в первой половине 2026 года",
-      "title_en": "Israeli defense tech M&A surges to $3.26 billion in first half of 2026",
-      "date": "2026-10-27",
-      "summary": "В первой половине 2026 года объем сделок слияний и поглощений в израильском оборонно-технологическом секторе достиг 3,26 миллиарда долларов США. Это отражает рост инвестиционной активности в данной отрасли.",
-      "category": "tech",
-      "region": "Израиль",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/defense-and-tech/article-913006"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-27",
-      "id": "b3764d7485a0"
-    },
-    {
-      "title_ru": "Астрономы установили двухэтапное формирование диска Млечного Пути",
-      "title_en": "Astronomers find Milky Way's disk formed in two stages",
-      "date": "2026-10-27",
-      "summary": "Астрономические исследования показали, что диск нашей галактики Млечный Путь формировался в два отдельных этапа. Это открытие меняет представление о процессе галактической эволюции.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/astronomy/disk-mlechnogo-puti-v-dva-etapa"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-27",
-      "id": "3228085720b9"
-    },
-    {
-      "title_ru": "Минобороны России сообщило об ударе по мосту «Южный» в Киеве",
-      "title_en": "Russian Defense Ministry reports strike on 'Southern' bridge in Kyiv",
-      "date": "2026-10-27",
-      "summary": "Министерство обороны России заявило о нанесении удара по мосту «Южный» в Киеве. Сообщается о поражении объекта транспортной инфраструктуры.",
-      "category": "svo",
-      "region": "Украина",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9061346"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-27",
-      "id": "a85e2bdd334c"
-    },
-    {
-      "title_ru": "Венгрия подписала соглашения на €254 млн с ЕЭЗ и Норвежским фондом",
-      "title_en": "Government signs €254m EEA and Norwegian Fund agreements after years of deadlock",
-      "date": "2026-10-27",
-      "summary": "Правительство Венгрии подписало соглашения с Европейской экономической зоной и Норвежским фондом на сумму 254 миллиона евро. Переговоры по этим соглашениям были заблокированы в течение нескольких лет.",
-      "category": "economy",
-      "region": "Венгрия",
-      "sources": [
-        "budapesttimes.hu"
-      ],
-      "links": [
-        "https://www.budapesttimes.hu/economy/government-signs-e254m-eea-and-norwegian-fund-agreements-after-years-of-deadlock/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-27",
-      "id": "2d83bd42a573",
-      "last_reported": "2026-10-27"
-    },
-    {
-      "title_ru": "В Израиле начались парламентские выборы",
-      "title_en": "Opening of polling stations in Israel, Netanyahu faces test at the polls",
-      "date": "2026-10-27",
-      "summary": "В Израиле 27 октября 2026 года открылись избирательные участки для проведения парламентских выборов. Действующий премьер-министр Биньямин Нетаньяху проходит испытание на выборах.",
-      "category": "politics",
-      "region": "Израиль",
-      "perspective": "Выборы рассматриваются как референдум о политике действующего правительства",
-      "perspective_type": "assumed",
-      "sources": [
-        "www.france24.com"
-      ],
-      "links": [
-        "https://www.france24.com/fr/moyen-orient/20261027-direct-ouverture-bureaux-vote-isra%C3%ABl-netanyahu-%C3%A9preuve-urnes"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-27",
-      "id": "9d073738330a"
-    },
-    {
-      "title_ru": "Дональд Трамп пообещал $1 млн за информацию о мошенничестве на выборах",
-      "title_en": "Donald Trump offers $1 million for information on election fraud",
-      "date": "2026-10-27",
-      "summary": "Бывший президент США Дональд Трамп пообещал вознаграждение в размере 1 миллиона долларов за информацию, которая докажет факты мошенничества на выборах. Заявление сделано 27 октября 2026 года.",
-      "category": "statement",
-      "region": "США",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9061405"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-27",
-      "id": "5989318431a7"
-    },
-    {
-      "title_ru": "Ford представит самый дешевый американский электромобиль с функцией питания дома",
-      "title_en": "Ford Fathom will be the cheapest American EV capable of powering a house",
-      "date": "2026-10-27",
-      "summary": "Компания Ford анонсировала модель Fathom, которая станет самым доступным американским электромобилем с функцией питания дома. Электромобиль сможет обеспечивать электроэнергией жилые помещения.",
-      "category": "tech",
-      "region": "США",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-27",
-      "id": "bc3ef44e1b73"
-    },
-    {
-      "title_ru": "GM переходит на гибридные автомобили",
-      "title_en": "GM is embracing hybrids now",
-      "date": "2026-10-27",
-      "summary": "General Motors объявила о стратегическом переходе к производству гибридных автомобилей. Компания меняет подход к электромобилям в пользу гибридных технологий.",
-      "category": "tech",
-      "region": "США",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-27",
-      "id": "095ee1453883"
-    },
-    {
       "title_ru": "В МФТИ предложили управлять магнитными системами с помощью света",
       "title_en": "В МФТИ предложили управлять магнитными системами с помощью света",
       "date": "2026-10-28",
@@ -245,23 +106,6 @@
       "is_development": false,
       "first_reported": "2026-10-28",
       "id": "8db9506d6b2e"
-    },
-    {
-      "title_ru": "Турция задержала 85 человек по подозрению в саботаже Starlink в Польше",
-      "title_en": "Turkey detains 85 in raids on gang suspected in Poland Starlink sabotage",
-      "date": "2026-10-27",
-      "summary": "Турецкая полиция провела рейды и задержала 85 человек по подозрению в причастности к саботажу системы Starlink в Польше. Задержанные подозреваются в участии в преступной группировке.",
-      "category": "conflicts",
-      "region": "Турция",
-      "sources": [
-        "www.turkishminute.com"
-      ],
-      "links": [
-        "https://www.turkishminute.com/2026/10/27/turkey-detains-85-in-raids-on-gang-suspected-in-poland-starlink-sabotage/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-27",
-      "id": "c9c8cd7a376b"
     },
     {
       "title_ru": "Силы ПВО России за сутки сбили две ракеты «Нептун» и 617 беспилотников ВСУ",
@@ -347,40 +191,6 @@
       "is_development": false,
       "first_reported": "2026-10-28",
       "id": "58c5551d0cfe"
-    },
-    {
-      "title_ru": "Sigma анонсировала камеру FP2",
-      "title_en": "Sigma FP2 Announced",
-      "date": "2026-10-27",
-      "summary": "Компания Sigma официально представила новую камеру FP2. Анонс состоялся в рамках обновления линейки фотографического оборудования.",
-      "category": "photo",
-      "region": "Мир",
-      "sources": [
-        "photographylife.com"
-      ],
-      "links": [
-        "https://photographylife.com/news/photo-news-2026-10-26"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-27",
-      "id": "4ff396ff52a5"
-    },
-    {
-      "title_ru": "В Восточно-Капской провинции ЮАР сильные дожди угрожают жизни людей",
-      "title_en": "Heavy rains threaten lives in the Eastern Cape",
-      "date": "2026-10-27",
-      "summary": "В Восточно-Капской провинции ЮАР продолжаются сильные дожди, создающие угрозу для жизни населения. Осадки вызывают наводнения и осложняют ситуацию в регионе.",
-      "category": "ecology",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-10-27-heavy-rains-threaten-lives-in-the-eastern-cape/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-27",
-      "id": "a96fb4c6846d"
     },
     {
       "title_ru": "В Китае нашли древнее животное с шипами вокруг рта",
@@ -1010,23 +820,6 @@
       "is_development": false,
       "first_reported": "2026-10-30",
       "id": "442e5fcb943b"
-    },
-    {
-      "title_ru": "Сальвадор направил сотни солдат на Гаити после нападения банд",
-      "title_en": "El Salvador deploys hundreds of soldiers to Haiti as four still missing after gang attack",
-      "date": "2026-10-27",
-      "summary": "Сальвадор направил сотни солдат на Гаити после нападения банд. Четыре человека до сих пор числятся пропавшими без вести.",
-      "category": "conflicts",
-      "region": "Гаити",
-      "sources": [
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/world/article-el-salvador-soldiers-haiti-gang-attack/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-27",
-      "id": "b487acb49031"
     },
     {
       "title_ru": "Силы ПВО уничтожили пять дронов, летевших на Москву",
@@ -1826,10 +1619,282 @@
       "is_development": false,
       "first_reported": "2026-10-29",
       "id": "b5e56f149f08"
+    },
+    {
+      "title_ru": "IDF начинает модернизацию барьера на границе с Газой с использованием новых технологий",
+      "title_en": "IDF begins upgrading Gaza border barrier with new technology, infrastructure",
+      "date": "2026-11-04",
+      "summary": "Армия обороны Израиля начала модернизацию барьера на границе с сектором Газа. Работы включают внедрение новых технологий и инфраструктурных решений для усиления пограничной системы.",
+      "category": "tech",
+      "region": "Израиль",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/israel-news/defense-news/article-913772"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "bdbdddb45eba"
+    },
+    {
+      "title_ru": "Венгрия отменяет местные взносы в региональный фонд развития",
+      "title_en": "Government to scrap local contribution to regional development fund",
+      "date": "2026-11-01",
+      "summary": "Правительство Венгрии приняло решение отменить местные взносы в региональный фонд развития. Решение направлено на изменение системы финансирования региональных проектов.",
+      "category": "politics",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/hungary/government-to-scrap-local-contribution-to-regional-development-fund/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-01",
+      "id": "4f8fd6cb3b1b"
+    },
+    {
+      "title_ru": "В ЮАР снизились цены на топливо",
+      "title_en": "Drop in fuel price",
+      "date": "2026-11-03",
+      "summary": "В Южно-Африканской Республике зафиксировано снижение цен на топливо. Изменение затрагивает потребителей и предприятия страны.",
+      "category": "life",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-11-03-drop-in-fuel-price/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-03",
+      "id": "52a489ea20dd"
+    },
+    {
+      "title_ru": "Кибератаки нарушили работу холодильников в супермаркетах Европы",
+      "title_en": "Cyberattacks leave supermarket fridges across Europe running hot",
+      "date": "2026-11-04",
+      "summary": "Кибератаки на супермаркеты в Европе привели к сбоям в работе холодильного оборудования. Инциденты затронули торговые сети в нескольких странах.",
+      "category": "conflicts",
+      "region": "Европа",
+      "sources": [
+        "www.dailysabah.com"
+      ],
+      "links": [
+        "https://www.dailysabah.com/business/tech/cyberattacks-leave-supermarket-fridges-across-europe-running-hot"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "b5f85db8ec1c"
+    },
+    {
+      "title_ru": "В ЛНР при ударах ВСУ погибли два человека",
+      "title_en": "В ЛНР за сутки при ударах ВСУ погибли два человека",
+      "date": "2026-11-04",
+      "summary": "В Луганской Народной Республике в результате ударов Вооруженных сил Украины погибли два человека. Инцидент произошел за последние сутки.",
+      "category": "svo",
+      "region": "ЛНР",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20261104/lnr-2129170576.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "fa1de9cfd3e9"
+    },
+    {
+      "title_ru": "В Запорожской области при атаке БПЛА нарушено электроснабжение",
+      "title_en": "В Запорожской области при атаке БПЛА нарушено электроснабжение",
+      "date": "2026-11-04",
+      "summary": "В Запорожской области в результате атаки беспилотного летательного аппарата произошло нарушение электроснабжения. Инцидент затронул объекты инфраструктуры региона.",
+      "category": "svo",
+      "region": "Запорожская область",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/28285567"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "2241dc29dfc4"
+    },
+    {
+      "title_ru": "Инфляция в еврозоне достигла 4% впервые за три года",
+      "title_en": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
+      "date": "2026-11-04",
+      "summary": "Уровень инфляции в еврозоне достиг 4% в октябре 2026 года. Это произошло впервые за три года на фоне ожиданий повышения процентных ставок.",
+      "category": "economy",
+      "region": "Еврозона",
+      "sources": [
+        "www.cnbc.com"
+      ],
+      "links": [
+        "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "33cffebaeda2"
+    },
+    {
+      "title_ru": "В ЮАР проходят местные выборы",
+      "title_en": "LIVE: Local government elections",
+      "date": "2026-11-04",
+      "summary": "В Южно-Африканской Республике 4 ноября 2026 года проходят выборы в местные органы власти. Голосование рассматривается как проверка управленческой компетентности действующей власти.",
+      "category": "politics",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-11-04-live-local-government-elections/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "dfafc10a6095"
+    },
+    {
+      "title_ru": "Трамп заявил, что не намерен применять ядерное оружие против Ирана",
+      "title_en": "Трамп заявил, что не намерен применять ядерное оружие против Ирана",
+      "date": "2026-11-04",
+      "summary": "Президент США Дональд Трамп заявил, что не видит необходимости в применении ядерного оружия против Ирана. Заявление сделано в контексте международных отношений между странами.",
+      "category": "statement",
+      "region": "США",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/mezhdunarodnaya-panorama/28285775"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "3417eb7d175e"
+    },
+    {
+      "title_ru": "Трамп исключил ЮАР из торговой программы AGOA",
+      "title_en": "Trump Removes South Africa From the African Growth and Opportunity Act Trade Program",
+      "date": "2026-11-02",
+      "summary": "Администрация президента США Дональда Трампа исключила Южно-Африканскую Республику из торговой программы AGOA. Решение затрагивает экономические отношения между странами.",
+      "category": "economy",
+      "region": "США",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/11/02/world/africa/trump-south-africa-trade-program-agoa.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-02",
+      "id": "6f54f1fee81b"
+    },
+    {
+      "title_ru": "В Венгрии уволен глава института из-за нераскрытых контрактов с предыдущим режимом",
+      "title_en": "Government sacks institute chief over undisclosed contracts with previous regime",
+      "date": "2026-11-04",
+      "summary": "Правительство Венгрии уволило руководителя института из-за нераскрытых контрактов с предыдущим политическим режимом. Решение принято в рамках проверки деятельности учреждения.",
+      "category": "politics",
+      "region": "Венгрия",
+      "sources": [
+        "budapesttimes.hu"
+      ],
+      "links": [
+        "https://www.budapesttimes.hu/diplomacy/government-sacks-institute-chief-over-undisclosed-contracts-with-previous-regime/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "5470929965f9"
+    },
+    {
+      "title_ru": "Азиатский кубок в Саудовской Аравии перенесен из-за конфликта на Ближнем Востоке",
+      "title_en": "Asian Cup postponed due to Middle East conflict",
+      "date": "2026-11-03",
+      "summary": "Футбольный турнир Азиатский кубок, который должен был пройти в Саудовской Аравии, перенесен на неопределенный срок. Причиной переноса стал конфликт на Ближнем Востоке.",
+      "category": "life",
+      "region": "Саудовская Аравия",
+      "sources": [
+        "rss.dw.com"
+      ],
+      "links": [
+        "https://www.dw.com/en/asian-cup-postponed-due-to-middle-east-conflict/a-79837334?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-03",
+      "id": "d3808e71f153"
+    },
+    {
+      "title_ru": "В Иране прошли митинги в память о событиях 13 Абана",
+      "title_en": "Aban 13 rallies kick off in Tehran",
+      "date": "2026-11-04",
+      "summary": "В Тегеране начались митинги в память о событиях 13 Абана. Мероприятия включают церемонии поминовения и шествия по улицам города.",
+      "category": "politics",
+      "region": "Иран",
+      "sources": [
+        "en.irna.ir"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86312008/Aban-13-rallies-kick-off-in-Tehran"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "94013b029c5d"
+    },
+    {
+      "title_ru": "Корпорация Hoban Construction стала крупнейшим акционером Hanjin KAL",
+      "title_en": "Hoban Construction emerges as Hanjin KAL's largest shareholder",
+      "date": "2026-11-04",
+      "summary": "Южнокорейская строительная компания Hoban Construction стала крупнейшим акционером авиакомпании Hanjin KAL. Сделка изменила структуру собственности компании.",
+      "category": "economy",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261104011000320"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "21518aab2998"
+    },
+    {
+      "title_ru": "В Иране заявили о готовности к беспрецедентному ответу на просчеты",
+      "title_en": "Iran chooses diplomacy, warns of unprecedented response to miscalculation: Official",
+      "date": "2026-11-04",
+      "summary": "Иранский официальный представитель заявил, что страна выбирает дипломатический путь, но предупредил о беспрецедентном ответе на любые просчеты. Заявление сделано в контексте международных отношений.",
+      "category": "conflicts",
+      "region": "Иран",
+      "sources": [
+        "en.irna.ir"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86311863/Iran-chooses-diplomacy-warns-of-unprecedented-response-to-miscalculation"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "790ba75b621c"
+    },
+    {
+      "title_ru": "В ЮАР приостановлен промысел сардин из-за массовой гибели рыбы от вируса",
+      "title_en": "Sardine fishing in South Africa on hold after mass mortality linked to virus",
+      "date": "2026-11-04",
+      "summary": "В Южно-Африканской Республике приостановлен промысел сардин после массовой гибели рыбы. Причиной гибели стал вирус, поразивший популяцию.",
+      "category": "life",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/the-green-guardian/2026-11-04-sardine-fishing-in-south-africa-on-hold-after-mass-mortality-linked-to-virus/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "9b733062b956"
     }
   ],
   "_stats": {
-    "total_tokens": 692655,
-    "total_cost": 43.923019999999994
+    "total_tokens": 710686,
+    "total_cost": 45.06141999999999
   }
 }
