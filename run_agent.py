@@ -471,9 +471,6 @@ def generate_html(events, config, usage=None, api_key=None):
     html = html.replace("__SYSTEM_PROMPT__", get_system_prompt())
     html = html.replace("__COUNTRIES_LIST__", countries_list)
     html = html.replace("__SOURCES_HTML__", sources_html)
-    admin_token = os.environ.get("ADMIN_TOKEN", "")
-    html = html.replace("__ADMIN_TOKEN__", admin_token)
-
     # Archive from history
     archive_html = ""
     history_raw = load_json(HISTORY_FILE, [])
