@@ -1891,10 +1891,129 @@
       "is_development": false,
       "first_reported": "2026-11-04",
       "id": "9b733062b956"
+    },
+    {
+      "title_ru": "Израиль использует роботов в бою для снижения рисков для солдат",
+      "title_en": "Robots frequently used in battle to reduce risk to soldiers, IDF chief Zamir says",
+      "date": "2026-11-04",
+      "summary": "Начальник Генштаба Армии обороны Израиля генерал-лейтенант Херци Ха-Леви заявил, что израильские военные активно используют роботов в боевых операциях. Это позволяет снизить риски для личного состава при выполнении опасных задач.",
+      "category": "tech",
+      "region": "Израиль",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/israel-news/defense-news/article-913851"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "21e3b4ee49ed"
+    },
+    {
+      "title_ru": "Северная Корея запустила несколько ракет в сторону Японского моря",
+      "title_en": "N. Korea fires multiple missiles toward East Sea: JCS",
+      "date": "2026-11-04",
+      "summary": "Северная Корея осуществила запуск нескольких ракет в направлении Японского моря. Южнокорейский Объединенный комитет начальников штабов подтвердил факт пусков, детали о типах ракет не уточняются.",
+      "category": "conflicts",
+      "region": "Северная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261104005551315"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "f2dc354e3e29"
+    },
+    {
+      "title_ru": "Иран оценил торговый потенциал с Афганистаном в 10 млрд долларов",
+      "title_en": "Iran-Afghanistan trade potential estimated at $10 billion: Official",
+      "date": "2026-11-04",
+      "summary": "Иранский официальный представитель заявил, что торговый потенциал между Ираном и Афганистаном оценивается в 10 миллиардов долларов. Заявление сделано в контексте развития экономических отношений между странами.",
+      "category": "economy",
+      "region": "Иран",
+      "sources": [
+        "en.irna.ir"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86312534/Iran-Afghanistan-trade-potential-estimated-at-10-billion-Official"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "64df0f53c2b7"
+    },
+    {
+      "title_ru": "В Нью-Йорке женщина умерла во время марафона",
+      "title_en": "Woman collapses, dies while running New York City Marathon",
+      "date": "2026-11-04",
+      "summary": "Женщина скончалась во время участия в Нью-Йоркском марафоне после того, как потеряла сознание на трассе. Медицинские службы оказали помощь, но спасти участницу не удалось.",
+      "category": "life",
+      "region": "США",
+      "sources": [
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/article-new-york-city-marathon-death/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "e441cbacabb5"
+    },
+    {
+      "title_ru": "Представитель Ирана заявил о готовности к ответу на любые угрозы",
+      "title_en": "Top security official: Anyone who confronts Iran, will have to pay price for it",
+      "date": "2026-11-04",
+      "summary": "Высокопоставленный представитель иранских силовых структур заявил, что любая страна, которая вступит в конфронтацию с Ираном, заплатит за это высокую цену. Заявление сделано в контексте региональных напряжений.",
+      "category": "statement",
+      "region": "Иран",
+      "sources": [
+        "en.irna.ir"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86312862/Top-security-official-Anyone-who-confronts-Iran-will-have-to"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "2d85c8b1fc26"
+    },
+    {
+      "title_ru": "Представители бизнеса обсудят с Путиным проблемы неплатежей",
+      "title_en": "Представители бизнеса обсудят с Путиным проблемы неплатежей",
+      "date": "2026-11-04",
+      "summary": "Представители российского бизнеса проведут встречу с президентом Владимиром Путиным для обсуждения проблем неплатежей в экономике. Встреча запланирована на ближайшее время.",
+      "category": "politics",
+      "region": "Россия",
+      "sources": [
+        "rssexport.rbc.ru"
+      ],
+      "links": [
+        "https://www.rbc.ru/business/28/10/2026/6ae1b4b6180efc817562b9d6"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "11f18ed0b79a"
+    },
+    {
+      "title_ru": "SK Group возглавит совет директоров американского подразделения SK hynix по ИИ",
+      "title_en": "SK Group chairman to chair board of SK hynix's U.S. AI arm",
+      "date": "2026-11-04",
+      "summary": "Председатель совета директоров SK Group Чхэ Тхэ Вон возглавит совет директоров американского подразделения SK hynix, занимающегося искусственным интеллектом. Решение направлено на усиление стратегического контроля над ИИ-направлением.",
+      "category": "ai",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261104011300320"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "9525303de7c0"
     }
   ],
   "_stats": {
-    "total_tokens": 710686,
-    "total_cost": 45.06141999999999
+    "total_tokens": 728452,
+    "total_cost": 46.17335999999999
   }
 }
