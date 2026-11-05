@@ -34,182 +34,6 @@
       "id": "6a433d7a6e57"
     },
     {
-      "title_ru": "В МФТИ предложили управлять магнитными системами с помощью света",
-      "title_en": "В МФТИ предложили управлять магнитными системами с помощью света",
-      "date": "2026-10-28",
-      "summary": "Исследователи Московского физико-технического института разработали метод управления магнитными системами с использованием света. Технология позволяет контролировать магнитные свойства материалов оптическим воздействием.",
-      "category": "tech",
-      "region": "Россия",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/column/upravlyat-magnitnymi-sistemami"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-28",
-      "id": "f43795aa87fa"
-    },
-    {
-      "title_ru": "«Росатом» начал использовать ИИ для прогнозирования поломок на трех АЭС",
-      "title_en": "«Росатом» начал использовать искусственный интеллект для прогнозирования поломок на трех АЭС",
-      "date": "2026-10-28",
-      "summary": "Госкорпорация «Росатом» внедрила систему искусственного интеллекта для прогнозирования поломок оборудования на трех атомных электростанциях. ИИ анализирует данные для предсказания технических сбоев.",
-      "category": "ai",
-      "region": "Россия",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/column/ii-prognoziruet-polomki-na-aes"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-28",
-      "id": "2fd18bea9f0d"
-    },
-    {
-      "title_ru": "Венгрия удвоит детские пособия с 2027 года",
-      "title_en": "Government to double child benefit from 2027",
-      "date": "2026-10-28",
-      "summary": "Правительство Венгрии приняло решение об удвоении размера детских пособий с 2027 года. Мера направлена на поддержку семей с детьми.",
-      "category": "life",
-      "region": "Венгрия",
-      "sources": [
-        "budapesttimes.hu"
-      ],
-      "links": [
-        "https://www.budapesttimes.hu/hungary/government-to-double-child-benefit-from-2027/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-28",
-      "id": "cafa82eb5e89"
-    },
-    {
-      "title_ru": "В Испании при столкновении поездов погибли 46 человек",
-      "title_en": "В Испании при столкновении двух поездов погибли 46 человек",
-      "date": "2026-10-28",
-      "summary": "В Испании произошло столкновение двух поездов между Мадридом и Андалусией, в результате которого погибли 46 человек. Движение на участке приостановлено.",
-      "category": "life",
-      "region": "Испания",
-      "sources": [
-        "tass.ru",
-        "www.belta.by",
-        "www.kommersant.ru",
-        "ria.ru"
-      ],
-      "links": [
-        "https://tass.ru/proisshestviya/28261573",
-        "https://belta.by/world/view/v-ispanii-pri-stolknovenii-dvuh-poezdov-pogibli-46-chelovek-808135-2026/",
-        "https://www.kommersant.ru/doc/9062632",
-        "https://ria.ru/20261028/ispanija-2127492037.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-28",
-      "id": "8db9506d6b2e"
-    },
-    {
-      "title_ru": "Силы ПВО России за сутки сбили две ракеты «Нептун» и 617 беспилотников ВСУ",
-      "title_en": "Силы ПВО за сутки сбили две ракеты «Нептун» и 617 беспилотников ВСУ",
-      "date": "2026-10-28",
-      "summary": "Российские силы ПВО за последние сутки перехватили две украинские ракеты «Нептун» и 617 беспилотных летательных аппаратов. Системы противовоздушной обороны работали по различным направлениям.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "rssexport.rbc.ru"
-      ],
-      "links": [
-        "https://www.rbc.ru/rbcfreenews/6ae13286ff0888d511d5c812"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-28",
-      "id": "5a70f8545bab"
-    },
-    {
-      "title_ru": "ВСУ потеряли до 20 военных в зоне действий «Днепра» за сутки",
-      "title_en": "ВСУ за сутки потеряли до 20 военных в зоне действий \"Днепра\"",
-      "date": "2026-10-28",
-      "summary": "Вооруженные силы Украины потеряли до 20 военнослужащих в зоне ответственности группировки «Днепр» за последние сутки. Потери зафиксированы в ходе боевых действий.",
-      "category": "svo",
-      "region": "Украина",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20261028/dnepr-2127483796.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-28",
-      "id": "97da43d5b092"
-    },
-    {
-      "title_ru": "Lula победил на выборах президента Бразилии",
-      "title_en": "Lula wins Brazil runoff, faces political challenges, US pressure",
-      "date": "2026-10-28",
-      "summary": "Луис Инасиу Лула да Силва победил во втором туре президентских выборов в Бразилии, получив исторический четвертый срок. Победа подтверждена официальными результатами.",
-      "category": "politics",
-      "region": "Бразилия",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/10/27/779276/Lula-wins-Brazil-runoff-faces-political-challenges-US-pressure"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-28",
-      "id": "acc41d0b34c5"
-    },
-    {
-      "title_ru": "Трамп заявил о скорой встрече с Путиным и Зеленским",
-      "title_en": "Трамп заявил о скорой встрече с Путиным и Зеленским",
-      "date": "2026-10-28",
-      "summary": "Бывший президент США Дональд Трамп объявил о планах провести встречу с Владимиром Путиным и Владимиром Зеленским в ближайшее время. Встреча должна состояться в рамках урегулирования конфликта.",
-      "category": "statement",
-      "region": "США",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9062444"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-28",
-      "id": "c2db54be5b03"
-    },
-    {
-      "title_ru": "В Южной Африке проходит саммит Singularity Summit 2026",
-      "title_en": "Global thought leaders converge for Singularity Summit in Sandton",
-      "date": "2026-10-28",
-      "summary": "В Сандтоне (ЮАР) проходит саммит Singularity Summit 2026, на который съехались мировые эксперты и мыслители. Мероприятие посвящено технологическим инновациям и будущему развития.",
-      "category": "culture",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/partner-content/2026-10-28-global-thought-leaders-converge-for-singularity-summit-in-sandton/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-28",
-      "id": "58c5551d0cfe"
-    },
-    {
-      "title_ru": "В Китае нашли древнее животное с шипами вокруг рта",
-      "title_en": "Ancient animal with spines around mouth found in China",
-      "date": "2026-10-28",
-      "summary": "Китайские палеонтологи обнаружили окаменелости древнего животного возрастом около 518 миллионов лет. У существа были шипы вокруг рта, что является уникальной особенностью для организмов того периода.",
-      "category": "tech",
-      "region": "Китай",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/paleontology/drevnie-shipy"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-28",
-      "id": "f3b8498194bd"
-    },
-    {
       "title_ru": "Даже однократное употребление систем нагревания табака повредило сосуды и ДНК",
       "title_en": "Even single use of tobacco heating systems damaged blood vessels and DNA",
       "date": "2026-10-29",
@@ -363,23 +187,6 @@
       "id": "363dd7727c5e"
     },
     {
-      "title_ru": "США предупредили союзников о возможных новых ударах по Ирану после промежуточных выборов",
-      "title_en": "U.S. warns allies of renewed strikes on Iran after midterm elections, sources say",
-      "date": "2026-10-28",
-      "summary": "Администрация США предупредила союзников о возможных новых ударах по Ирану после промежуточных выборов в ноябре. Информация поступила от источников, знакомых с ситуацией.",
-      "category": "politics",
-      "region": "США",
-      "sources": [
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/world/article-us-iran-war-trump-tehran/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-28",
-      "id": "02450b7f7a66"
-    },
-    {
       "title_ru": "США и АСЕАН обсуждают оборонную структуру, Сингапур назначен для переговоров",
       "title_en": "US taps Singapore to advance defense framework talks with ASEAN next year",
       "date": "2026-10-29",
@@ -414,23 +221,6 @@
       "id": "bfab77c8a58f"
     },
     {
-      "title_ru": "Машатиле призвал южноафриканцев чтить О.Р. Тамбо через активное гражданство",
-      "title_en": "Mashatile urges South Africans to honour O.R. Tambo through active citizenship",
-      "date": "2026-10-28",
-      "summary": "Вице-президент ЮАР Пол Машатиле призвал граждан чтить память Оливера Тамбо через активное гражданство. Заявление было сделано в годовщину рождения бывшего президента АНК.",
-      "category": "culture",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/politics/2026-10-28-mashatile-urges-south-africans-to-honour-o-r-tambo-through-active-citizenship/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-28",
-      "id": "fb785674c917"
-    },
-    {
       "title_ru": "Capture One добавил удаление случайных волос и новые инструменты цветокоррекции",
       "title_en": "Capture One Adds Stray Hair Removal and New Color Editing Tools",
       "date": "2026-10-29",
@@ -446,23 +236,6 @@
       "is_development": false,
       "first_reported": "2026-10-29",
       "id": "4dabee4df0cb"
-    },
-    {
-      "title_ru": "В ЮАР распределяют гуманитарную помощь пострадавшим от наводнений",
-      "title_en": "National Lotteries Commission distributes humanitarian relief parcels to families affected by floods",
-      "date": "2026-10-28",
-      "summary": "Национальная комиссия по лотереям ЮАР через Красный Крест распределяет гуманитарные посылки семьям в Лимпопо и Мпумаланге, пострадавшим от наводнений. Помощь предоставляется на основе исследовательского финансирования.",
-      "category": "ecology",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/partner-content/2026-10-28-the-national-lotteries-commission-through-research-based-funding-to-the-south-african-red-cross-society-distributes-humanitarian-relief-parcels-to-families-in-limpopo-and-mpumalanga-affected-by-floods-disaster/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-28",
-      "id": "cf8dedc51e84"
     },
     {
       "title_ru": "Российские ученые создали индекс квантового риска для защиты данных",
@@ -497,23 +270,6 @@
       "is_development": false,
       "first_reported": "2026-10-29",
       "id": "c0c8d141186c"
-    },
-    {
-      "title_ru": "Росатом поставил первую партию топлива для второго реактора АЭС в Бангладеш",
-      "title_en": "Rosatom delivers first batch of fuel for second reactor of Bangladesh NPP",
-      "date": "2026-10-28",
-      "summary": "Российская госкорпорация Росатом осуществила поставку первой партии ядерного топлива для второго энергоблока атомной электростанции Руппур в Бангладеш. Это часть проекта строительства АЭС российского дизайна.",
-      "category": "tech",
-      "region": "Бангладеш",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9062809"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-28",
-      "id": "bab758563ae2"
     },
     {
       "title_ru": "Путин назвал Маска гением",
