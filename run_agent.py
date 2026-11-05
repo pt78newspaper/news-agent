@@ -1,4 +1,4 @@
-import sys, os, json, hashlib, requests, difflib, re
+import sys, os, json, hashlib, requests, difflib, re, random
 from datetime import datetime, timedelta
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from news_agent.fetcher import fetch_all
@@ -348,7 +348,7 @@ def _get_area(cluster):
     return ""
 
 
-def select_clusters(clusters, config=None):
+def select_clusters(clusters, config=None, rng=None):
     areas = {conf.get("area") for conf in (config.get("sources", {}).values() if config else {})} if config else set()
     if not areas:
         areas = set(AREAS_ORDER)
@@ -379,6 +379,13 @@ def select_clusters(clusters, config=None):
             a["category"] = cat
         by_area_cat.setdefault(area, {}).setdefault(cat, []).append(c)
 
+    # rotate: largest-cluster order is biased towards yesterday's headlines;
+    # a date-seeded shuffle re-picks a different slice of the pool each day
+    if rng:
+        for area_pools in by_area_cat.values():
+            for pool in area_pools.values():
+                rng.shuffle(pool)
+
     selected = []
     chosen = set()
     for area in sorted(areas):
@@ -395,12 +402,37 @@ def select_clusters(clusters, config=None):
         for area in sorted(areas):
             if area != "Мир":
                 pool.extend(by_area_cat.get(area, {}).get(cat, []))
+        if rng:
+            rng.shuffle(pool)
         take = pool[:n]
         for c in take:
             if id(c) not in chosen:
                 selected.append(c)
                 chosen.add(id(c))
     return selected
+
+
+def cap_regions(events, max_per=4):
+    """Hard diversity cap: no more than max_per events for one region string."""
+    counts = {}
+    out = []
+    for ev in events:
+        r = (ev.get("region") or "Мир").strip()
+        counts[r] = counts.get(r, 0) + 1
+        if counts[r] > max_per:
+            print(f"  [CAP] dropped extra event for '{r}': {(ev.get('title_ru') or '')[:60]}")
+            continue
+        out.append(ev)
+    return out
+
+
+def append_runlog(metrics):
+    path = "output/runlog.jsonl"
+    os.makedirs("output", exist_ok=True)
+    entry = {"ts": datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S")}
+    entry.update(metrics)
+    with open(path, "a", encoding="utf-8") as f:
+        f.write(json.dumps(entry, ensure_ascii=False) + "\n")
 
 
 def generate_html(events, config, usage=None, api_key=None):
@@ -622,10 +654,11 @@ def main():
         generate_html([], config)
         return
 
+    run_date = datetime.utcnow().strftime("%Y-%m-%d")
     clusters = cluster_news(articles)
     print(f"Total clusters: {len(clusters)}")
 
-    selected = select_clusters(clusters, config)
+    selected = select_clusters(clusters, config, rng=random.Random(run_date))
     from collections import Counter
     sel_cats = Counter(c[0].get("category", "politics") for c in selected)
     print(f"  Selected for AI: {len(selected)} clusters ({dict(sel_cats)})")
@@ -648,23 +681,32 @@ def main():
                 input_links.add(a["link"])
     print(f"History: {len(history)} past events, {len(known_links)} known links")
 
+    n_selected_before = len(selected)
     selected = prefilter_clusters(selected, history, days=HISTORY_DAYS, known_links=known_links)
+    prefilter_dropped = n_selected_before - len(selected)
 
     usage = None
     events = None
+    validated_dropped = 0
+    n_in = 0
+    postfilter_dropped = 0
     if api_key:
         events, usage = summarize_news(selected, api_key, history)
         if events:
-            run_date = datetime.utcnow().strftime("%Y-%m-%d")
+            run_date_full = datetime.utcnow().strftime("%Y-%m-%d")
+            n_in = len(events)
             events = validate_events(events, input_links)
+            validated_dropped = n_in - len(events)
             for ev in events:
-                ev["date"] = normalize_date(ev.get("date"), run_date)
+                ev["date"] = normalize_date(ev.get("date"), run_date_full)
             if events:
                 from collections import Counter
                 cat_dist = Counter(e.get("category", "politics") for e in events)
                 print(f"  Cat distribution: {dict(cat_dist)}")
                 events = postfilter_events(events, history, days=HISTORY_DAYS, known_links=known_links)
+                postfilter_dropped = n_in - validated_dropped - len(events)
                 if events:
+                    events = cap_regions(events, max_per=4)
                     cat_dist2 = Counter(e.get("category", "politics") for e in events)
                     print(f"  Cat distribution (after post-filter): {dict(cat_dist2)}")
         if usage:
@@ -677,8 +719,23 @@ def main():
         print("AI failed or disabled, generating empty page.")
         events = []
 
+    published = len(events)
     save_history(events, usage)
     events = dedup_events(sort_events(events))
+    append_runlog({
+        "date": run_date,
+        "articles": len(articles),
+        "clusters": len(clusters),
+        "selected_clusters": len(selected),
+        "prefilter_dropped": prefilter_dropped,
+        "ai_events": n_in,
+        "validated_dropped": validated_dropped,
+        "postfilter_dropped": postfilter_dropped,
+        "published": published,
+        "tokens": (usage or {}).get("tokens", 0),
+        "cost": (usage or {}).get("cost", 0),
+        "history_size": len(history),
+    })
     generate_html(events, config, usage, api_key)
 
 
