@@ -2327,10 +2327,276 @@
       "is_development": false,
       "first_reported": "2026-11-05",
       "id": "ec10b3ae5e39"
+    },
+    {
+      "title_ru": "В ЮАР открыты пять новых центров обучения естественным наукам",
+      "title_en": "Investing in South Africa's STEM Future: Five New Science Teaching and Learning Centers Established in the Western Cape",
+      "date": "2026-11-05",
+      "summary": "В Западной Капской провинции ЮАР созданы пять новых центров обучения естественным наукам. Они предназначены для расширения доступа к практическому STEM-образованию и лабораторным занятиям в школах с ограниченными ресурсами.",
+      "category": "tech",
+      "region": "ЮАР",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/partner-content/2026-11-05-investing-in-south-africa-s-stem-future-five-new-science-teaching-and-learning-centers-established-in-the-western-cape/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-05",
+      "id": "622da7ecefd8"
+    },
+    {
+      "title_ru": "Венчурная фирма Sequoia сокращает масштабы после 20 лет расширения",
+      "title_en": "Sequoia hits rewind, undoing 20 years of expansion",
+      "date": "2026-11-04",
+      "summary": "Венчурная фирма Sequoia консолидируется в меньшую компанию, ориентированную на район залива Сан-Франциско. Она закрывает программы и офисы, созданные за 20 лет расширения, одновременно объявив о новых фондах на сумму около 10 миллиардов долларов.",
+      "category": "tech",
+      "region": "США",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "1f52ed7fa440"
+    },
+    {
+      "title_ru": "В Южной Корее активирован механизм ограничения продаж на KOSPI при резком падении",
+      "title_en": "KRX activates sell-side sidecar for KOSPI on sharp decline",
+      "date": "2026-11-05",
+      "summary": "Корейская биржа активировала механизм ограничения продаж (sidecar) для индекса KOSPI на фоне резкого падения. Это мера по стабилизации рынка.",
+      "category": "ai",
+      "region": "Южная Корея",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261105002500320"
+      ],
+      "is_development": true,
+      "first_reported": "2026-11-05",
+      "id": "0643a8e97686"
+    },
+    {
+      "title_ru": "Суд США разрешил вручить иск террористке через социальную сеть X",
+      "title_en": "Sbarro bombing terrorist Ahlam Tamimi served with US lawsuit via X",
+      "date": "2026-11-04",
+      "summary": "Окружной суд США по округу Колумбия постановил, что Арнольд и Фримет Рот, родители 15-летней Малки Рот, могут вручить террористке Ахлам Тамими судебные документы через социальные сети. Речь идет о взрыве в пиццерии Sbarro в 2001 году.",
+      "category": "ai",
+      "region": "США",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/international/article-913857"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "28413d6cfaa8"
+    },
+    {
+      "title_ru": "В ЮАР снизилась явка избирателей на фоне апатии",
+      "title_en": "The long queues that once defined our democracy are becoming a distant memory",
+      "date": "2026-11-04",
+      "summary": "На местных выборах в ЮАР наблюдается снижение явки избирателей и апатия. На избирательных участках в Тембисе тихо, в отличие от исторически длинных очередей, которые были символом демократии.",
+      "category": "life",
+      "region": "ЮАР",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-11-04-the-long-queues-that-once-defined-our-democracy-are-becoming-a-distant-memory/"
+      ],
+      "is_development": true,
+      "first_reported": "2026-11-04",
+      "id": "f77f019b17df"
+    },
+    {
+      "title_ru": "В Калгари мошенница получила год тюрьмы за обман пожилых людей",
+      "title_en": "Judge rejects grandparent scammer's bid to back out of guilty plea, sends her to jail instead",
+      "date": "2026-11-04",
+      "summary": "Женщина из Калгари, признавшаяся в краже тысяч долларов у пожилых жертв по схеме 'обзвона бабушек и дедушек', приговорена к 12 месяцам тюрьмы и году условно. Суд отказался позволить ей отозвать признание вины.",
+      "category": "life",
+      "region": "Канада",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "www.cbc.ca"
+      ],
+      "links": [
+        "https://www.cbc.ca/news/canada/calgary/alana-duncan-fraud-plea-sentence-grandparent-scam-9.7410026?cmp=rss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "5ab757ae5562"
+    },
+    {
+      "title_ru": "В Иране заявили о готовности к беспрецедентному ответу на просчеты",
+      "title_en": "Iran emerges as world’s fourth-largest power: Military chief",
+      "date": "2026-11-04",
+      "summary": "Начальник штаба Вооруженных сил Ирана генерал-майор Али Абдоллахи заявил, что Иран стал четвертой по величине державой в мире, установив контроль над Ормузским проливом. Он предупредил о готовности к беспрецедентному ответу на любые просчеты противника.",
+      "category": "conflicts",
+      "region": "Иран",
+      "perspective": "Иранская сторона позиционирует это как укрепление обороноспособности и суверенитета, в то время как США и их союзники могут рассматривать это как эскалацию региональной напряженности.",
+      "perspective_type": "assumed",
+      "sources": [
+        "en.irna.ir"
+      ],
+      "links": [
+        "https://en.irna.ir/photo/86312269/Iran-emerges-as-world-s-fourth-largest-power-Military-chief"
+      ],
+      "is_development": true,
+      "first_reported": "2026-11-04",
+      "id": "bd4778c39be3"
+    },
+    {
+      "title_ru": "Россия требует от нового генсека ООН скорректировать позицию по Украине",
+      "title_en": "Russia has right to demand new UN Secretary-General adjust stance on Ukraine — MFA",
+      "date": "2026-11-05",
+      "summary": "По словам представителя МИД России Кирилла Логвинова, Россия публично поставила конкретные вопросы и будет настаивать на столь же конкретных ответах от нового генерального секретаря ООН относительно его позиции по Украине.",
+      "category": "svo",
+      "region": "Россия",
+      "perspective": "Россия рассматривает это как законное требование по защите своих интересов, в то время как Запад может считать это попыткой давления на международные институты.",
+      "perspective_type": "assumed",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/politics/2213133"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-05",
+      "id": "038e6659987b"
+    },
+    {
+      "title_ru": "Глава Росатома назвал героями работников Запорожской АЭС",
+      "title_en": "Rosatom CEO calls Zaporozhye NPP workers who continue reporting for duty heroes",
+      "date": "2026-11-04",
+      "summary": "Генеральный директор Росатома Алексей Лихачев назвал героями работников Запорожской АЭС, которые продолжают выходить на работу. Он также отметил, что ВСУ делают все возможное, чтобы как можно больше людей стали свидетелями жертв их преступлений.",
+      "category": "svo",
+      "region": "Россия",
+      "perspective": "Российская сторона представляет это как героизм сотрудников под обстрелами, в то время как Украина и ее союзники могут обвинять Россию в милитаризации объекта.",
+      "perspective_type": "assumed",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/society/2213005"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "0df8500223e8"
+    },
+    {
+      "title_ru": "В США нет единого мнения о дальнейших шагах в отношении Ирана",
+      "title_en": "No accord within US administration on next steps in Iran after congressional elections",
+      "date": "2026-11-05",
+      "summary": "В администрации США нет согласия относительно следующих шагов в отношении Ирана после промежуточных выборов в Конгресс. По данным газеты, некоторые чиновники призывают президента Дональда Трампа нанести новые удары по Ирану.",
+      "category": "economy",
+      "region": "США",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/world/2213037"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-05",
+      "id": "63e7d0012c52"
+    },
+    {
+      "title_ru": "В США началась подготовка к президентской гонке 2028 года",
+      "title_en": "The next US presidential race has begun",
+      "date": "2026-11-05",
+      "summary": "Республиканцы и демократы начали позиционировать себя для участия в гонке за пост президента США в 2028 году. Это ранний этап подготовки к следующим выборам.",
+      "category": "politics",
+      "region": "США",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "www.ft.com"
+      ],
+      "links": [
+        "https://www.ft.com/content/a7fe8e95-bd9a-4cd7-a308-f156073cd074?syn-25a6b1a6=1"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-05",
+      "id": "22272c9d7468"
+    },
+    {
+      "title_ru": "Делегация Брестской области Беларуси посетит две китайские провинции",
+      "title_en": "Нужны новые идеи и проекты. Делегация Брестской области посетит две китайские провинции",
+      "date": "2026-11-05",
+      "summary": "Делегация Брестской области Беларуси посетит две китайские провинции с целью увеличения товарооборота и поиска новых идей и проектов. В программе посещение большого количества предприятий.",
+      "category": "politics",
+      "region": "Беларусь",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "www.belta.by"
+      ],
+      "links": [
+        "https://belta.by/economics/view/nuzhny-novye-idei-i-proekty-delegatsija-brestskoj-oblasti-posetit-dve-kitajskie-provintsii-809498-2026/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-05",
+      "id": "4b9b6ccb9163"
+    },
+    {
+      "title_ru": "Иранский парламентарий обвинил США в стремлении лишить иранцев достойного будущего",
+      "title_en": "US seeks to deny Iranian people a dignified future: Official",
+      "date": "2026-11-04",
+      "summary": "Заместитель председателя парламента Ирана Хамидреза Хаджи Бабаи заявил, что разногласия Ирана с США проистекают из решимости иранского народа сохранить свое достоинство и обеспечить уважаемое будущее. Он обвинил США в стремлении лишить иранцев этого будущего.",
+      "category": "statement",
+      "region": "Иран",
+      "perspective": "Иранская сторона рассматривает это как защиту национального суверенитета, в то время как США могут считать это риторикой, оправдывающей внутреннюю политику.",
+      "perspective_type": "from_source",
+      "sources": [
+        "en.irna.ir"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86312137/US-seeks-to-deny-Iranian-people-a-dignified-future-Official"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "1eaee80ad4cb"
+    },
+    {
+      "title_ru": "OM System рассматривала возможность выпуска полнокадровых камер",
+      "title_en": "OM System Almost Considered Making Full Frame Cameras | The PetaPixel Podcast",
+      "date": "2026-11-04",
+      "summary": "Руководители компании OM System раскрыли, что однажды рассматривали возможность расширения в сегмент полнокадровых камер. Об этом стало известно в подкасте PetaPixel.",
+      "category": "photo",
+      "region": "Мир",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/11/04/om-system-almost-considered-making-full-frame-cameras-the-petapixel-podcast/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "1d599a770ecb"
     }
   ],
   "_stats": {
-    "total_tokens": 789512,
-    "total_cost": 50.005659999999985
+    "total_tokens": 808149,
+    "total_cost": 51.20277999999998
   }
 }
