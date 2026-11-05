@@ -1,4 +1,4 @@
-﻿import os, requests, json, time
+﻿import os, requests, json, time, re
 from datetime import datetime, timedelta
 
 GPTUNNEL_API = "https://gptunnel.ru/v1/chat/completions"
@@ -73,6 +73,13 @@ def get_system_prompt():
     return "Системная роль: " + SYS_PROMPT + "\n\nПромт пользователя:\n" + prompt
 
 
+def _clip_text(s, n=200):
+    """Strip HTML and collapse whitespace; first `n` chars only."""
+    s = re.sub(r"<[^>]+>", " ", s or "")
+    s = re.sub(r"\s+", " ", s).strip()
+    return s[:n]
+
+
 def _build_news_block(clusters, max_per=5):
     news_block = ""
     for idx, cluster in enumerate(clusters, 1):
@@ -88,6 +95,7 @@ def _build_news_block(clusters, max_per=5):
             cat = CAT_HINTS.get(a.get("category", "politics"), a.get("category", "politics"))
             news_block += (
                 f"[{a['region_label']}] ({cat}) {a['title']}{kw_str}\n"
+                f"  Суть: {_clip_text(a.get('summary', ''))}\n"
                 f"  Регион: {area} | Источник: {a['source_name']} — {a['link']}\n"
                 f"  Дата: {a.get('published', 'неизвестно')}\n"
             )
