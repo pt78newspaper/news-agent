@@ -2021,10 +2021,146 @@
       "is_development": false,
       "first_reported": "2026-11-04",
       "id": "cbc3ba07e8c6"
+    },
+    {
+      "title_ru": "США планируют прекратить участие ЮАР в программе AGOA к 2027 году",
+      "title_en": "The AGOA hit will be small on GDP but heavy on jobs",
+      "date": "2026-11-04",
+      "summary": "Администрация Трампа планирует прекратить участие ЮАР в программе Африканского закона о росте и возможностях (AGOA) к 2027 году. Решение угрожает ключевым экспортным секторам и занятости в Южной Африке.",
+      "category": "economy",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/thought-leader/2026-11-04-agoa/"
+      ],
+      "is_development": true,
+      "first_reported": "2026-11-04",
+      "id": "f1299aec0c54"
+    },
+    {
+      "title_ru": "Суд отменил лицензию Sizekhaya на проведение национальной лотереи в ЮАР",
+      "title_en": "Court sets aside Sizekhaya's National Lottery licence",
+      "date": "2026-11-03",
+      "summary": "Высокий суд Северного Гаутенга отменил решение о выдаче лицензии на проведение Четвертой национальной лотереи компании Sizekhaya Holdings. Суд признал, что министр Паркс Тау создал незаконный параллельный оценочный комитет.",
+      "category": "politics",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-11-03-court-sets-aside-sizekhaya-s-national-lottery-licence/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-03",
+      "id": "30f8defc0340"
+    },
+    {
+      "title_ru": "Две избирательные станции в Квазулу-Натале закрыты после кражи бюллетеней",
+      "title_en": "Two KZN voting stations closed, ballot papers stolen – IEC",
+      "date": "2026-11-04",
+      "summary": "Избирательная комиссия ЮАР закрыла две избирательные станции в провинции Квазулу-Натал после кражи бюллетеней и печати безопасности. Комиссия ввела строгие протоколы проверки.",
+      "category": "politics",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-11-04-two-kzn-voting-stations-closed-ballot-papers-stolen-iec/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "da010f7a435d"
+    },
+    {
+      "title_ru": "В Белгородской области при атаках ВСУ за сутки погибли пять человек",
+      "title_en": "В Белгородской области при атаках ВСУ за сутки погибли пять человек",
+      "date": "2026-11-05",
+      "summary": "В Белгородской области в результате атак Вооруженных сил Украины за сутки погибли пять человек. Еще 13 человек получили ранения.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/proisshestviya/28287737"
+      ],
+      "is_development": true,
+      "first_reported": "2026-11-05",
+      "id": "4abbe2aa2fa9"
+    },
+    {
+      "title_ru": "В Харьковской области шесть человек пострадали от российских ударов за сутки",
+      "title_en": "На Харківщині за добу через російські удари шестеро постраждалих",
+      "date": "2026-11-05",
+      "summary": "В Харьковской области шесть человек пострадали в результате российских ударов за сутки. Под обстрелом находились Харьков и еще 17 населенных пунктов области.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "www.ukrinform.ua"
+      ],
+      "links": [
+        "https://www.ukrinform.ua/rubric-regions/4181601-na-harkivsini-za-dobu-cerez-rosijski-udari-sestero-postrazdalih.html"
+      ],
+      "is_development": true,
+      "first_reported": "2026-11-05",
+      "id": "5bff92869cd7"
+    },
+    {
+      "title_ru": "Миграция древних людей на север могла способствовать распространению генов 'жаворонков'",
+      "title_en": "Миграция древних людей на север могла способствовать распространению генов «жаворонков»",
+      "date": "2026-11-05",
+      "summary": "Генетическая предрасположенность к раннему пробуждению усиливалась по мере расселения древних людей в северные широты. К такому выводу пришли ученые, изучившие варианты генов, связанных с циркадными ритмами.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/anthropology/migratsiya-sposobstvovala-genu-zhavoronka"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-05",
+      "id": "9c02be737cb3"
+    },
+    {
+      "title_ru": "Астрономы нашли способ отличить потенциально обитаемую экзопланету с кислородной атмосферой",
+      "title_en": "Астрономы нашли способ отличить потенциально обитаемую экзопланету с кислородной атмосферой",
+      "date": "2026-11-04",
+      "summary": "Астрономы разработали метод определения потенциально обитаемых экзопланет с кислородной атмосферой. Телескопы нового поколения позволят обнаружить кислород в атмосфере далеких миров.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/astronomy/o2-dominated-atmospheres-on-terrestrial-exoplanets"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "907cdb633dca"
+    },
+    {
+      "title_ru": "Samsung сохранила лидирующие позиции на мировом рынке DRAM в третьем квартале",
+      "title_en": "Samsung retains top spots in global DRAM market in Q3",
+      "date": "2026-11-05",
+      "summary": "Южнокорейская компания Samsung Electronics сохранила лидирующие позиции на мировом рынке DRAM в третьем квартале 2026 года. Компания занимает первое место по рыночной доле.",
+      "category": "tech",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261105008800320"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-05",
+      "id": "bf91797181b7"
     }
   ],
   "_stats": {
-    "total_tokens": 748928,
-    "total_cost": 47.46293999999999
+    "total_tokens": 771766,
+    "total_cost": 48.897519999999986
   }
 }
