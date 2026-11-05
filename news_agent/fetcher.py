@@ -1,16 +1,18 @@
 import feedparser, requests, hashlib
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from dateutil import parser as dateparser
 from urllib.parse import urlparse
 
 USER_AGENT = "NewsAgentPT78/1.0"
+MAX_AGE_HOURS = 48  # freshness window: ignore RSS items older than this
 
-def fetch_rss(url, timeout=20):
+def fetch_rss(url, timeout=20, max_age_hours=MAX_AGE_HOURS):
     try:
         headers = {"User-Agent": USER_AGENT}
         resp = requests.get(url, timeout=timeout, headers=headers)
         resp.raise_for_status()
         feed = feedparser.parse(resp.content)
+        min_pub = datetime.now(timezone.utc) - timedelta(hours=max_age_hours)
         entries = []
         for entry in feed.entries:
             pub = None
@@ -21,6 +23,8 @@ def fetch_rss(url, timeout=20):
                 pub = datetime.now(timezone.utc)
             if pub.tzinfo is None:
                 pub = pub.replace(tzinfo=timezone.utc)
+            if pub < min_pub:
+                continue  # stale item: feeds keep 24-72h windows, runs are daily
             link = getattr(entry, "link", "")
             title = getattr(entry, "title", "")
             summary = getattr(entry, "summary", "") or getattr(entry, "description", "")

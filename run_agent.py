@@ -4,9 +4,26 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from news_agent.fetcher import fetch_all
 from news_agent.analyzer import cluster_news, extract_keywords
 from news_agent.ai_summarizer import summarize_news, get_system_prompt
+from news_agent.dates import normalize_date
 
 STATS_FILE = "output/stats.json"
 HISTORY_FILE = "output/history.json"
+HISTORY_DAYS = 7  # one window for AI prompt, pre/post filters and history trimming
+
+# Rule 6 of the prompt bans gadget-fan news; the model skips only by title, so we
+# re-check its output here. Gadgets are allowed in the photo category and when
+# the story is about industry (factories, layoffs, sanctions, bankruptcy).
+GADGET_RE = re.compile(
+    r"iphone|айфон|galaxy\s?[sza]\s?\d|galaxy (?:book|watch|ring)|pixel\s?\d"
+    r"|xiaomi|redmi|poco|реалми|поко|oppo|vivo|oneplus|nothing phone|смартфон|гаджет"
+    r"|смарт[- ](?:часы|браслет)|наушник|airpods|планшет|teardown|unboxing",
+    re.I,
+)
+INDUSTRY_RE = re.compile(
+    r"завод|производств|увольн|банкрот|санкци|закрытие|supplier|factory|chipmaker"
+    r"|полупроводник|чип|производител",
+    re.I,
+)
 
 
 def load_json(path, default):
@@ -56,16 +73,16 @@ def save_history(events, stats=None):
     if stats:
         old_stats["total_tokens"] += stats.get("tokens", 0)
         old_stats["total_cost"] += stats.get("cost", 0)
-        
+
     from datetime import datetime, timedelta
 
-    cutoff = (datetime.utcnow() - timedelta(days=7)).strftime("%Y-%m-%d")
+    cutoff = (datetime.utcnow() - timedelta(days=HISTORY_DAYS)).strftime("%Y-%m-%d")
     recent = [e for e in old_events if (e.get("date") or e.get("first_reported", ""))[:10] >= cutoff]
     save_json(HISTORY_FILE, {"_events": recent, "_stats": old_stats})
 
 
 def hash_event(e):
-    raw = normalize_title(e.get("title_ru", "") + " " + e.get("title_en", "") + " " + e.get("date", ""))
+    raw = normalize_title(e.get("title_ru", "") + " " + e.get("title_en", ""))
     return hashlib.md5(raw.encode("utf-8")).hexdigest()[:12]
 
 
@@ -95,7 +112,19 @@ def _titles_similar(t1, t2, threshold=0.75):
     return difflib.SequenceMatcher(None, t1.lower(), t2.lower()).ratio() > threshold
 
 
-def _clusters_similar_to_history(cluster, history_events, days=4):
+def _event_new_links(links, known_links):
+    """True if at least one article link was never published before.
+
+    known_links=None means 'no information' (lenient: treat as new).
+    """
+    if known_links is None:
+        return True
+    if not links:
+        return False  # nothing to prove novelty with
+    return any(l not in known_links for l in links)
+
+
+def _clusters_similar_to_history(cluster, history_events, days=HISTORY_DAYS):
     cutoff = (datetime.utcnow() - timedelta(days=days)).strftime("%Y-%m-%d")
     recent = [e for e in history_events if (e.get("date") or e.get("first_reported", ""))[:10] >= cutoff]
     if not recent:
@@ -112,24 +141,29 @@ def _clusters_similar_to_history(cluster, history_events, days=4):
     return False
 
 
-def prefilter_clusters(clusters, history, days=4):
+def prefilter_clusters(clusters, history, days=HISTORY_DAYS, known_links=None):
     if not history:
         return clusters
     filtered = []
     dropped = 0
     for c in clusters:
+        title = c[0].get("title", "")[:80] if c else ""
+        links = [a.get("link") for a in c if a.get("link")]
+        if not _event_new_links(links, known_links):
+            dropped += 1
+            print(f"  [PRE-FILTER] Dropped cluster with only known links: {title}")
+            continue
         if _clusters_similar_to_history(c, history, days):
             dropped += 1
-            title = c[0].get("title", "")[:80] if c else ""
             print(f"  [PRE-FILTER] Dropped duplicate cluster: {title}")
-        else:
-            filtered.append(c)
+            continue
+        filtered.append(c)
     if dropped:
         print(f"  [PRE-FILTER] Dropped {dropped} clusters, {len(filtered)} remaining")
     return filtered
 
 
-def postfilter_events(events, history, days=4):
+def postfilter_events(events, history, days=HISTORY_DAYS, known_links=None):
     if not history or not events:
         return events
     cutoff = (datetime.utcnow() - timedelta(days=days)).strftime("%Y-%m-%d")
@@ -139,23 +173,68 @@ def postfilter_events(events, history, days=4):
     filtered = []
     dropped = 0
     for ev in events:
-        is_dup = False
-        ev_kw = set(_get_event_keywords(ev))
         ev_title = ev.get("title_ru", "") or ev.get("title_en", "")
+        ev_links = [l for l in ev.get("links", []) if l]
+        has_new = _event_new_links(ev_links, known_links)
+        if not has_new:
+            dropped += 1
+            print(f"  [POST-FILTER] Dropped event with only known links: {ev_title[:80]}")
+            continue
+        is_dup = False
+        dup_hist_title = ""
+        ev_kw = set(_get_event_keywords(ev))
         for hist in recent:
-            if ev.get("is_development"):
-                continue
             hist_kw = set(_get_event_keywords(hist))
             hist_title = hist.get("title_ru", "") or hist.get("title_en", "")
             if len(ev_kw & hist_kw) >= 3 or _titles_similar(ev_title, hist_title):
                 is_dup = True
-                print(f"  [POST-FILTER] Dropped duplicate event: {ev_title[:80]} ~ {hist_title[:80]}")
+                dup_hist_title = hist_title
                 break
-        if not is_dup:
-            filtered.append(ev)
+        if is_dup:
+            if has_new:
+                # repeated topic BUT fresh sources = genuine development
+                ev["is_development"] = True
+                print(f"  [POST-FILTER] Kept as development of '{dup_hist_title[:60]}': {ev_title[:80]}")
+            else:
+                dropped += 1
+                print(f"  [POST-FILTER] Dropped duplicate event: {ev_title[:80]} ~ {dup_hist_title[:80]}")
+                continue
+        filtered.append(ev)
     if dropped:
         print(f"  [POST-FILTER] Dropped {dropped} events, {len(filtered)} remaining")
     return filtered
+
+
+def gadget_ad_like(ev):
+    """Rule 6: consumer-gadget announcements/reviews are ads, not news."""
+    title = ev.get("title_ru", "") + " " + ev.get("title_en", "")
+    if not GADGET_RE.search(title):
+        return False
+    if ev.get("category") == "photo":
+        return False
+    body = title + " " + ev.get("summary", "") + " " + (ev.get("perspective", "") or "")
+    return not INDUSTRY_RE.search(body)
+
+
+def validate_events(events, valid_links=None):
+    """Check AI output: links must come from the input, gadget ads banned."""
+    out = []
+    for ev in events:
+        t = (ev.get("title_ru") or ev.get("title_en") or "")[:70]
+        links = [l for l in (ev.get("links") or []) if l]
+        if valid_links is not None:
+            kept = [l for l in links if l in valid_links]
+            if links and not kept:
+                print(f"  [VALIDATE] dropped event (no known links): {t}")
+                continue
+            if len(kept) != len(links):
+                print(f"  [VALIDATE] stripped {len(links) - len(kept)} unknown links: {t}")
+            ev["links"] = kept
+        if gadget_ad_like(ev):
+            print(f"  [VALIDATE] dropped gadget-like event: {t}")
+            continue
+        out.append(ev)
+    return out
 
 
 AREAS_ORDER = ["Россия", "Северная и Центральная Америка", "Южная Америка", "Европа", "Ближний Восток", "Дальний Восток", "Южная и Юго-Восточная Азия", "Океания и Австралия", "Африка"]
@@ -558,22 +637,36 @@ def main():
     else:
         history = history_raw if isinstance(history_raw, list) else []
         old_stats = {}
-    print(f"History: {len(history)} past events")
+    known_links = set()
+    if isinstance(history, list):
+        for he in history:
+            known_links.update(l for l in (he.get("links") or []) if l)
+    input_links = set()
+    for c in selected:
+        for a in c:
+            if a.get("link"):
+                input_links.add(a["link"])
+    print(f"History: {len(history)} past events, {len(known_links)} known links")
 
-    selected = prefilter_clusters(selected, history, days=4)
+    selected = prefilter_clusters(selected, history, days=HISTORY_DAYS, known_links=known_links)
 
     usage = None
     events = None
     if api_key:
         events, usage = summarize_news(selected, api_key, history)
         if events:
-            from collections import Counter
-            cat_dist = Counter(e.get("category", "politics") for e in events)
-            print(f"  Cat distribution: {dict(cat_dist)}")
-            events = postfilter_events(events, history, days=4)
+            run_date = datetime.utcnow().strftime("%Y-%m-%d")
+            events = validate_events(events, input_links)
+            for ev in events:
+                ev["date"] = normalize_date(ev.get("date"), run_date)
             if events:
-                cat_dist2 = Counter(e.get("category", "politics") for e in events)
-                print(f"  Cat distribution (after post-filter): {dict(cat_dist2)}")
+                from collections import Counter
+                cat_dist = Counter(e.get("category", "politics") for e in events)
+                print(f"  Cat distribution: {dict(cat_dist)}")
+                events = postfilter_events(events, history, days=HISTORY_DAYS, known_links=known_links)
+                if events:
+                    cat_dist2 = Counter(e.get("category", "politics") for e in events)
+                    print(f"  Cat distribution (after post-filter): {dict(cat_dist2)}")
         if usage:
             cumul_tokens = old_stats.get("total_tokens", 0) + usage.get("tokens", 0)
             cumul_cost = old_stats.get("total_cost", 0) + usage.get("cost", 0)

@@ -172,24 +172,31 @@ def _build_payload(news_block, history_block):
                 }
             }
         }],
-        "tool_choice": "auto",
+        "tool_choice": {"type": "function", "name": "report_news"},
         "temperature": 0.3,
         "max_tokens": 8192
     }
 
 
-def _history_block(history):
+def _history_block(history, days=7, max_events=90):
     history_block = ""
     if history:
-        cutoff = (datetime.utcnow() - timedelta(days=4)).strftime("%Y-%m-%d")
+        cutoff = (datetime.utcnow() - timedelta(days=days)).strftime("%Y-%m-%d")
         recent = [e for e in history if (e.get("date") or e.get("first_reported", ""))[:10] >= cutoff]
         if recent:
-            history_block = "\n\n=== ИСТОРИЯ: события за последние 4 дня (НЕ ПОВТОРЯЙ ЭТИ СОБЫТИЯ) ===\n"
-            for ev in recent:
+            history_block = (
+                f"\n\n=== ИСТОРИЯ: события за последние {days} дней"
+                " (НЕ ПОВТОРЯЙ ИХ. Включай снова ТОЛЬКО если появились существенно"
+                " новые факты — тогда поставь is_development=true) ===\n"
+            )
+            for ev in recent[-max_events:]:
                 cat = ev.get("category", "")
-                cat_str = f" [{cat}]" if cat else ""
-                date = ev.get("date", "") or ev.get("first_reported", "")
-                history_block += f"- {ev.get('title_ru', '')}{cat_str} ({date[:10]})\n"
+                region = ev.get("region", "") or ""
+                date = (ev.get("date", "") or ev.get("first_reported", ""))[:10]
+                title = (ev.get("title_ru", "") or "")[:90]
+                title_en = (ev.get("title_en", "") or "")[:66]
+                extra = f" | EN: {title_en}" if title_en else ""
+                history_block += f"- {date} [{cat or '?'}] ({region}) {title}{extra}\n"
     return history_block
 
 
