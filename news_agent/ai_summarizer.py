@@ -172,7 +172,7 @@ def _build_payload(news_block, history_block):
                 }
             }
         }],
-        "tool_choice": {"type": "function", "name": "report_news"},
+        "tool_choice": {"type": "function", "function": {"name": "report_news"}},
         "temperature": 0.3,
         "max_tokens": 8192
     }
@@ -211,6 +211,9 @@ def _call_ai(payload, api_key):
             if resp.status_code == 200:
                 break
             print(f"  [AI ERROR] attempt {attempt+1}: {resp.status_code} {resp.text[:100]}")
+            if 400 <= resp.status_code < 500:
+                print("  [AI ERROR] client error on identical payload: retrying will not help")
+                break
         except Exception as e:
             print(f"  [AI ERROR] attempt {attempt+1}: {e}")
         if attempt < MAX_RETRIES - 1:
