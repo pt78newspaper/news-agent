@@ -715,11 +715,31 @@ def main():
             usage["total_tokens"] = round(cumul_tokens, 2)
             usage["total_cost"] = round(cumul_cost, 4)
 
-    if not events:
-        print("AI failed or disabled, generating empty page.")
-        events = []
-
     published = len(events)
+    ai_ok = bool(events)
+    if not ai_ok:
+        # AI outage: keep the previous edition online instead of publishing
+        # an empty page. The workflow deploys ./output with keep_files=true,
+        # so a missing index.html leaves the current site untouched.
+        print("AI failed or returned nothing: previous edition stays online")
+        save_history([], usage)
+        append_runlog({
+            "date": run_date,
+            "articles": len(articles),
+            "clusters": len(clusters),
+            "selected_clusters": len(selected),
+            "prefilter_dropped": prefilter_dropped,
+            "ai_ok": False,
+            "ai_events": 0,
+            "validated_dropped": 0,
+            "postfilter_dropped": 0,
+            "published": 0,
+            "tokens": 0,
+            "cost": 0,
+            "history_size": len(history),
+        })
+        return
+
     save_history(events, usage)
     events = dedup_events(sort_events(events))
     append_runlog({
@@ -728,6 +748,7 @@ def main():
         "clusters": len(clusters),
         "selected_clusters": len(selected),
         "prefilter_dropped": prefilter_dropped,
+        "ai_ok": True,
         "ai_events": n_in,
         "validated_dropped": validated_dropped,
         "postfilter_dropped": postfilter_dropped,
