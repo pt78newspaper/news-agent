@@ -31,6 +31,8 @@ jobs:
             mkdir -p output
             mv history.json output/ 2>/dev/null
             echo "history loaded"
+            git checkout origin/gh-pages -- runlog.jsonl 2>/dev/null || true
+            if [ -f runlog.jsonl ]; then mv runlog.jsonl output/ ; echo "runlog loaded"; fi
           else
             echo "no gh-pages branch yet"
           fi
