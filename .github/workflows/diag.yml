@@ -1,0 +1,22 @@
+name: Diag GPTunnel
+
+on:
+  workflow_dispatch:
+
+jobs:
+  diag:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Network diagnostics to gptunnel.ru
+        run: |
+          set +e
+          echo "=== DNS (A/AAAA) ==="
+          getent ahosts gptunnel.ru | head -10 || true
+          echo "=== IPv4 ==="
+          curl -4 -o /dev/null -m 12 -sS -w "IPv4: HTTP %{http_code} connect %{time_connect}s\n" https://gptunnel.ru/ 2>&1 || echo "IPv4: FAIL"
+          echo "=== IPv6 ==="
+          curl -6 -o /dev/null -m 12 -sS -w "IPv6: HTTP %{http_code} connect %{time_connect}s\n" https://gptunnel.ru/ 2>&1 || echo "IPv6: FAIL (ok if no IPv6 on runner)"
+          echo "=== verbose TCP (last lines) ==="
+          curl -4 -v -m 12 https://gptunnel.ru/v1/models -o /dev/null 2>&1 | tail -20
+          echo "=== control: another https site ==="
+          curl -4 -o /dev/null -m 12 -sS -w "api.github.com: HTTP %{http_code} connect %{time_connect}s\n" https://api.github.com/
