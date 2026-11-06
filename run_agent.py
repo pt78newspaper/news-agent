@@ -722,6 +722,15 @@ def main():
         # an empty page. The workflow deploys ./output with keep_files=true,
         # so a missing index.html leaves the current site untouched.
         print("AI failed or returned nothing: previous edition stays online")
+        # the workflow checkout may still carry stale output/ artifacts on main;
+        # never let them take over the published site
+        stale = os.path.join("output", "index.html")
+        try:
+            if os.path.exists(stale):
+                os.remove(stale)
+                print("  removed stale output/index.html from workspace")
+        except OSError:
+            pass
         save_history([], usage)
         append_runlog({
             "date": run_date,
