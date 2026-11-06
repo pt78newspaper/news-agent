@@ -2202,10 +2202,214 @@
       "is_development": false,
       "first_reported": "2026-11-04",
       "id": "1d599a770ecb"
+    },
+    {
+      "title_ru": "Группы требуют остановить строительство волнолома для СПГ-терминала",
+      "title_en": "Groups urge stopping work on LNG terminal breakwater",
+      "date": "2026-11-06",
+      "summary": "Экологические группы на Тайване призвали остановить строительство волнолома для терминала сжиженного природного газа. Проект вызывает опасения по поводу воздействия на окружающую среду.",
+      "category": "tech",
+      "region": "Тайвань",
+      "sources": [
+        "www.taipeitimes.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/06/2003867262"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "fb776ad5bfb5"
+    },
+    {
+      "title_ru": "В России нашли способ получать ферменты из зерновых отходов",
+      "title_en": "В России нашли способ одновременно получать ферменты для расщепления биомассы и кормовые добавки из зерновых отходов",
+      "date": "2026-11-05",
+      "summary": "Российские исследователи разработали технологию одновременного получения ферментов для расщепления биомассы и кормовых добавок из зерновых отходов. Метод позволяет повысить эффективность переработки сельскохозяйственных отходов.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20261106/yazyk-2129635771.html"
+      ],
+      "is_development": true,
+      "first_reported": "2026-11-05",
+      "id": "eb6ae5066849"
+    },
+    {
+      "title_ru": "Плотная женская грудь повысила риск рака",
+      "title_en": "Плотная женская грудь повысила риск рака",
+      "date": "2026-11-04",
+      "summary": "Высокая плотность ткани молочной железы повышает риск развития рака груди. Исследования показали, что в плотных тканях клетки эффективнее устраняют повреждения ДНК, что может способствовать развитию опухолей.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/medicine/plotnaya-grud-povyshaet-risk"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "802e47eac63b"
+    },
+    {
+      "title_ru": "Вещество из семян тыквы защитило мышцы от последствий кислородного голодания",
+      "title_en": "Вещество из семян тыквы защитило мышцы от последствий кислородного голодания",
+      "date": "2026-11-05",
+      "summary": "Тригонеллин, содержащийся в семенах тыквы и кофейных зернах, помогает защитить митохондрии в клетках скелетных мышц от повреждения при кислородном голодании. Исследование проведено российскими учеными.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/column/veshhestvo-iz-semyan-tykvy"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-05",
+      "id": "0565a58d47c0"
+    },
+    {
+      "title_ru": "Ожидается рост поставок ИИ-серверов на 36%",
+      "title_en": "Global AI server shipments expected to jump 36%",
+      "date": "2026-11-06",
+      "summary": "Мировые поставки серверов для искусственного интеллекта в 2026 году ожидаются на уровне 36% роста. Прогноз основан на данных аналитиков рынка.",
+      "category": "ai",
+      "region": "Мир",
+      "sources": [
+        "www.taipeitimes.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/biz/archives/2026/11/06/2003867228"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "e7bbc0f2ee35"
+    },
+    {
+      "title_ru": "Женщина и двое мужчин получили ножевые ранения в Мельбурне",
+      "title_en": "Woman and two men stabbed at home in Melbourne",
+      "date": "2026-11-06",
+      "summary": "В Данденонге на юго-востоке Мельбурна женщина получила ножевые ранения и борется за жизнь, двое мужчин серьезно ранены. Инцидент произошел в частном доме.",
+      "category": "life",
+      "region": "Австралия",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/national/woman-and-two-men-stabbed-at-home-in-melbourne-20261106-p61c4x.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "91b2ab71f068"
+    },
+    {
+      "title_ru": "Кожемяко предложил меры по сохранению русского языка",
+      "title_en": "Кожемяко предложил ряд мер по сохранению русского языка",
+      "date": "2026-11-06",
+      "summary": "Вице-премьер России Александр Кожемяко предложил ряд мер по сохранению русского языка. Предложения направлены на укрепление позиций языка.",
+      "category": "politics",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20261106/yazyk-2129635771.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "f78ab925e04f"
+    },
+    {
+      "title_ru": "В ЮАР рассматривают иск об исключении Малемы из Судебной комиссии",
+      "title_en": "Helen Suzman Foundation wants Malema out of JSC",
+      "date": "2026-11-05",
+      "summary": "Фонд Хелен Сусман подал иск об исключении лидера партии EFF Джулиуса Малемы из Судебной комиссии ЮАР. Слушание назначено на следующую неделю в Высоком суде Западного Кейпа.",
+      "category": "politics",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/politics/2026-11-05-helen-suzman-foundation-wants-malema-out-of-jsc/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-05",
+      "id": "285956cd6c37"
+    },
+    {
+      "title_ru": "Европа в начале ноября рекордно отбирает газ из хранилищ",
+      "title_en": "ТАСС: Европа в начале ноября рекордно отбирает газ из хранилищ",
+      "date": "2026-11-06",
+      "summary": "Запасы газа в подземных хранилищах Европы к концу газовых суток 3 ноября сократились до 74,07%. Это на 15,77 процентного пункта ниже среднего показателя на указанную дату за последние пять лет.",
+      "category": "economy",
+      "region": "Европа",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/ekonomika/28291387"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "aa04f638ed50"
+    },
+    {
+      "title_ru": "Улов лосося в Японии составляет 3% от пика 2003 года",
+      "title_en": "In Focus: Salmon disappearing as Japan's catch just 3% of 2003 peak",
+      "date": "2026-11-06",
+      "summary": "Улов лосося в Японии сократился до 3% от пикового уровня 2003 года. Тенденция отражает значительное снижение популяции лосося в японских водах.",
+      "category": "economy",
+      "region": "Япония",
+      "sources": [
+        "asia.nikkei.com"
+      ],
+      "links": [
+        "https://asia.nikkei.com/photos/in-focus-salmon-disappearing-as-japan-s-catch-just-3-of-2003-peak"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "09dc09237ea1"
+    },
+    {
+      "title_ru": "Американский гражданин осужден за убийство в Италии",
+      "title_en": "American Is Convicted of Murder in Case That Gripped Italy",
+      "date": "2026-11-05",
+      "summary": "Американский гражданин осужден за убийство российской женщины и ее малолетней дочери, чьи тела были найдены в парке Рима. Дело привлекло внимание общественности в Италии.",
+      "category": "politics",
+      "region": "Италия",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/11/05/world/europe/italy-american-murder-case.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-05",
+      "id": "7a20f8f4e963"
+    },
+    {
+      "title_ru": "Основатель Envision назван лидером устойчивого развития на премии Reuters",
+      "title_en": "Envision Founder and CEO Lei Zhang Named Sustainability Trailblazer at Reuters Global Sustainability Awards 2026",
+      "date": "2026-11-06",
+      "summary": "Лэй Чжан, основатель и генеральный директор компании Envision, получил награду Sustainability Trailblazer на премии Reuters Global Sustainability Awards 2026. Награда вручена за достижения в области устойчивого развития.",
+      "category": "politics",
+      "region": "Китай",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/440723/envision-founder-and-ceo-lei-zhang-named-sustainability-trailblazer-at-reuters-global-sustainability-awards-2026"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "466e0d70fc79"
     }
   ],
   "_stats": {
-    "total_tokens": 808149,
-    "total_cost": 51.20277999999998
+    "total_tokens": 824452,
+    "total_cost": 52.24691999999998
   }
 }
