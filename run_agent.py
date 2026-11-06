@@ -207,10 +207,12 @@ def postfilter_events(events, history, days=HISTORY_DAYS, known_links=None):
 
 def gadget_ad_like(ev):
     """Rule 6: consumer-gadget announcements/reviews are ads, not news."""
+    # only consumer-tech categories are at risk; in life/politics a phone
+    # merely playing a role in the story is not an ad
+    if ev.get("category") not in ("tech", "ai"):
+        return False
     title = ev.get("title_ru", "") + " " + ev.get("title_en", "")
     if not GADGET_RE.search(title):
-        return False
-    if ev.get("category") == "photo":
         return False
     body = title + " " + ev.get("summary", "") + " " + (ev.get("perspective", "") or "")
     return not INDUSTRY_RE.search(body)
