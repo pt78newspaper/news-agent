@@ -215,7 +215,7 @@ def _call_ai(payload, api_key):
             resp = requests.post(GPTUNNEL_API, headers={
                 "Authorization": f"Bearer {api_key}",
                 "Content-Type": "application/json"
-            }, json=payload, timeout=300)
+            }, json=payload, timeout=(30, 270))  # fast-fail on unreachable host, long read for generation
             if resp.status_code == 200:
                 break
             print(f"  [AI ERROR] attempt {attempt+1}: {resp.status_code} {resp.text[:100]}")
