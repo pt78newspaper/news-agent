@@ -1,1 +1,2 @@
 {"ts": "2026-11-05 11:28:05", "date": "2026-11-05", "articles": 1473, "clusters": 770, "selected_clusters": 30, "prefilter_dropped": 2, "ai_events": 17, "validated_dropped": 1, "postfilter_dropped": 2, "published": 14, "tokens": 18637, "cost": 1.19712, "history_size": 137}
+{"ts": "2026-11-06 06:40:11", "date": "2026-11-06", "articles": 1544, "clusters": 802, "selected_clusters": 27, "prefilter_dropped": 1, "ai_events": 0, "validated_dropped": 0, "postfilter_dropped": 0, "published": 0, "tokens": 0, "cost": 0, "history_size": 151}
