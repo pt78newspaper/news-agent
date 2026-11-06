@@ -221,7 +221,7 @@ def _call_ai(payload, api_key):
             print(f"  [AI ERROR] attempt {attempt+1}: {resp.status_code} {resp.text[:100]}")
             if 400 <= resp.status_code < 500:
                 print("  [AI ERROR] client error on identical payload: retrying will not help")
-                break
+                return None, None
         except Exception as e:
             print(f"  [AI ERROR] attempt {attempt+1}: {e}")
         if attempt < MAX_RETRIES - 1:
@@ -232,14 +232,20 @@ def _call_ai(payload, api_key):
         return None, None
 
     resp.encoding = "utf-8"
-    data = resp.json()
-    usage = data.get("usage", {})
+    try:
+        data = resp.json()
+    except ValueError:
+        print("  [AI ERROR] non-JSON response")
+        return None, None
+    usage = data.get("usage") or {}
     total_cost = usage.get("total_cost", 0)
     total_tokens = usage.get("total_tokens", 0)
     p_tokens = usage.get("prompt_tokens", total_tokens)
     c_tokens = usage.get("completion_tokens", 0)
     print(f"  AI: {total_tokens} tokens (in {p_tokens} / out {c_tokens}), cost {total_cost}")
-
+    if not data.get("choices"):
+        print(f"  [AI ERROR] response without choices: {str(data)[:200]}")
+        return None, {"tokens": total_tokens, "cost": total_cost}
     msg = data["choices"][0]["message"]
     if msg.get("tool_calls"):
         for tc in msg["tool_calls"]:
