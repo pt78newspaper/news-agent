@@ -2406,10 +2406,248 @@
       "is_development": false,
       "first_reported": "2026-11-06",
       "id": "466e0d70fc79"
+    },
+    {
+      "title_ru": "Израильский министр снял вето на участие ультраортодоксальных партий в коалиции",
+      "title_en": "Liberman drops veto on haredi parties in coalition, opposition in talks with UTJ - report",
+      "date": "2026-11-05",
+      "summary": "Министр финансов Израиля Авигдор Либерман снял вето на участие ультраортодоксальных партий в коалиции. Оппозиция ведет переговоры с партией \"Яхадут ха-Тора\" о возможности принятия более мягкого закона о воинской службе.",
+      "category": "politics",
+      "region": "Израиль",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/israel-election-2026/article-914006"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-05",
+      "id": "c583043e2807"
+    },
+    {
+      "title_ru": "В Австралии объявлено вознаграждение в 250 тысяч долларов за одного из самых разыскиваемых преступников",
+      "title_en": "Police put $250k bounty on one of Australia’s most wanted",
+      "date": "2026-11-06",
+      "summary": "Полиция Австралии объявила вознаграждение в размере 250 тысяч австралийских долларов за информацию, ведущую к поимке одного из самых разыскиваемых преступников страны. Детали преступления не уточняются.",
+      "category": "politics",
+      "region": "Австралия",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/national/police-put-250k-bounty-on-one-of-australia-s-most-wanted-20261106-p61c4r.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "692e4a532088"
+    },
+    {
+      "title_ru": "В Белгородскую область направлена гуманитарная помощь по поручению Лантратовой",
+      "title_en": "В Белгородскую область отправили гумпомощь по поручению Лантратовой",
+      "date": "2026-11-06",
+      "summary": "В Белгородскую область направлена гуманитарная помощь по поручению уполномоченного по правам ребенка Марии Лантратовой. Помощь предназначена для жителей региона.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20261106/pomosch-2129638522.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "21dfd4ed7339"
+    },
+    {
+      "title_ru": "Армянская оппозиция объявила об объединении сил",
+      "title_en": "Оппозиция Армении объявила об объединении сил",
+      "date": "2026-11-05",
+      "summary": "Лидер парламентской фракции \"Сильная Армения\" Нарек Карапетян объявил об объединении оппозиционных сил страны. Участники встречи оппозиционных партий подписали совместное заявление.",
+      "category": "politics",
+      "region": "Армения",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9080487"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-05",
+      "id": "514093fa77d6"
+    },
+    {
+      "title_ru": "Иран рассматривает \"конкретные предложения\" по ядерной программе",
+      "title_en": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
+      "date": "2026-11-05",
+      "summary": "Иран рассматривает \"конкретные предложения\" по своей ядерной программе, заявили официальные лица. Готовность Тегерана к повторному вовлечению в переговоры указывает на некоторый успех дипломатических усилий Катара по предотвращению полномасштабной войны между США и Ираном.",
+      "category": "politics",
+      "region": "Иран",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-05",
+      "id": "351be85ed2d7"
+    },
+    {
+      "title_ru": "В Ормузском проливе два танкера загорелись из-за подрыва на минах",
+      "title_en": "КСИР: в Ормузском проливе два танкера загорелись из-за подрыва на минах",
+      "date": "2026-11-06",
+      "summary": "В Ормузском проливе два танкера загорелись после подрыва на минах. Судда пытались пройти по маршруту, не разрешенному Ираном. Информация поступила от Корпуса стражей исламской революции Ирана (КСИР).",
+      "category": "conflicts",
+      "region": "Иран",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/mezhdunarodnaya-panorama/28291631"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "729d538a4ac3"
+    },
+    {
+      "title_ru": "В Израиле уничтожается инфраструктура, необходимая для восстановления Южного Ливана",
+      "title_en": "Israel Is Destroying the Machinery South Lebanon Needs to Rebuild",
+      "date": "2026-11-05",
+      "summary": "Израильские удары по строительной технике и водной инфраструктуре в Южном Ливане блокируют усилия по восстановлению, не позволяя перемещенным семьям вернуться в свои дома.",
+      "category": "conflicts",
+      "region": "Ливан",
+      "sources": [
+        "www.wired.com"
+      ],
+      "links": [
+        "https://www.wired.com/story/israel-is-destroying-the-machinery-south-lebanon-needs-to-rebuild/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-05",
+      "id": "c95dfabb4137"
+    },
+    {
+      "title_ru": "В ЮАР жители Софиатауна требуют решений проблем с преступностью и инфраструктурой",
+      "title_en": "Sophiatown’s patience is wearing thin",
+      "date": "2026-11-05",
+      "summary": "Жители района Софиатаун в ЮАР, разочарованные ростом преступности, перебоями с водоснабжением и невывозом мусора, пришли на избирательные участки, требуя срочных решений и подотчетного руководства.",
+      "category": "life",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-11-05-sophiatown-s-patience-is-wearing-thin/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-05",
+      "id": "871533bfa792"
+    },
+    {
+      "title_ru": "Британский гражданин, инфицированный вирусом Эбола в Конго, будет эвакуирован в Великобританию",
+      "title_en": "British Citizen Infected With Ebola in Congo to Be Evacuated to UK, BBC Reports",
+      "date": "2026-11-05",
+      "summary": "Британский гражданин, инфицированный вирусом Эбола в Демократической Республике Конго, будет эвакуирован в Великобританию. Правительство заявило, что риск для британской общественности от болезни низкий. Текущая вспышка в Африке широко распространилась по континенту, унеся жизни более 5000 человек.",
+      "category": "life",
+      "region": "Великобритания",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/11/05/world/europe/british-ebola-case-congo-uk.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-05",
+      "id": "75f11aaceb14"
+    },
+    {
+      "title_ru": "Состояние австралийского парламентария Хелен Хейнс улучшилось до стабильного",
+      "title_en": "Helen Haines’ condition improves to stable",
+      "date": "2026-11-06",
+      "summary": "Состояние федерального парламентария Австралии Хелен Хейнс улучшилось до стабильного, она продолжает восстановление в больнице после потери обеих ног в результате предполагаемой атаки с использованием автомобиля.",
+      "category": "life",
+      "region": "Австралия",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/national/helen-haines-condition-improves-to-stable-20261106-p61c5o.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "f3e8345bde19"
+    },
+    {
+      "title_ru": "Российские физики создали перспективные материалы для суперскоростных вычислительных устройств",
+      "title_en": "Созданы перспективные материалы для суперскоростных вычислительных устройств",
+      "date": "2026-11-06",
+      "summary": "Российские физики создали перспективные материалы для устройств хранения большого объема данных и их высокоскоростной обработки. Работа может подтолкнуть к прорыву в создании суперскоростных вычислительных устройств.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/nauka/28291423"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "04b55dd84a72"
+    },
+    {
+      "title_ru": "Северная Корея готовит хакеров мирового уровня с детства, заявил перебежчик",
+      "title_en": "North Korea's army of world-class hackers is secret weapon that took down Binance",
+      "date": "2026-11-06",
+      "summary": "Северная Корея систематически отбирает самых умных детей и готовит из них хакеров-оперативников, заявил северокорейский перебежчик Ким Хын-кван. По его словам, \"нет другой страны, которая готовила бы хакеров подобным образом\".",
+      "category": "tech",
+      "region": "Северная Корея",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/international/article-914038"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "98bc0dfbed89"
+    },
+    {
+      "title_ru": "В США избиратели отвергли финансирование Илона Маска на промежуточных выборах",
+      "title_en": "Voters Set $400 Million of Elon Musk’s Money on Fire",
+      "date": "2026-11-04",
+      "summary": "Избиратели на промежуточных выборах в США отвергли кандидатов, поддержанных Илоном Маском. Из каждого отслеживаемого доллара, который Маск вложил в уже определившиеся гонки, более 99 центов пошли на гонку, которую он проиграл.",
+      "category": "politics",
+      "region": "США",
+      "sources": [
+        "www.wired.com"
+      ],
+      "links": [
+        "https://www.wired.com/story/voters-set-dollar400-million-of-elon-musks-money-on-fire/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "cd573c84fa1e"
+    },
+    {
+      "title_ru": "Хореограф Винсент Мантсое представляет танцевальную постановку, основанную на духовном наследии",
+      "title_en": "Dreamscapes of memory and self-discovery",
+      "date": "2026-11-05",
+      "summary": "Известный хореограф Винсент Мантсое объединил 30 лет духовного наследия и движения в своей сюрреалистической танцевальной постановке \"Сон Мфеяне/Ипупо\". Работа создана во время его резиденции в Университете Йоханнесбурга.",
+      "category": "culture",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/friday/2026-11-05-dreamscapes-of-memory-and-self-discovery/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-05",
+      "id": "6ce72d905f3d"
     }
   ],
   "_stats": {
-    "total_tokens": 824452,
-    "total_cost": 52.24691999999998
+    "total_tokens": 841307,
+    "total_cost": 53.32595999999998
   }
 }
