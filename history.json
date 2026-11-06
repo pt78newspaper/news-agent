@@ -2644,10 +2644,248 @@
       "is_development": false,
       "first_reported": "2026-11-05",
       "id": "6ce72d905f3d"
+    },
+    {
+      "title_ru": "Иран оснастит 12 000 школ солнечными электростанциями",
+      "title_en": "Iran to equip 12,000 schools with solar power plants",
+      "date": "2026-11-05",
+      "summary": "Иран планирует оснастить 12 000 школ по всей стране солнечными электростанциями в рамках первого этапа проекта возобновляемой энергетики. Необходимое оборудование уже отправлено в провинции.",
+      "category": "tech",
+      "region": "Иран",
+      "sources": [
+        "en.irna.ir"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86313129/Iran-to-equip-12-000-schools-with-solar-power-plants"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-05",
+      "id": "9a9c6e81ff38"
+    },
+    {
+      "title_ru": "Airbnb запустит ИИ-агента для планирования путешествий в первой половине 2027 года",
+      "title_en": "Airbnb says it's launching an AI travel agent in the first half of 2027",
+      "date": "2026-11-05",
+      "summary": "Airbnb объявил о запуске ИИ-агента для помощи путешественникам в планировании поездок, сравнении вариантов, управлении бронированиями и получении помощи во время пребывания. Запуск запланирован на первую половину 2027 года.",
+      "category": "ai",
+      "region": "США",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-05",
+      "id": "e2804408fe45"
+    },
+    {
+      "title_ru": "В Новой Зеландии кампания перед выборами сосредоточена на стоимости жизни и здравоохранении",
+      "title_en": "New Zealand election campaign dominated by cost of living, healthcare",
+      "date": "2026-11-06",
+      "summary": "Избирательная кампания в Новой Зеландии доминирует темами стоимости жизни и здравоохранения. Эти вопросы стали центральными в предвыборных дебатах.",
+      "category": "life",
+      "region": "Новая Зеландия",
+      "sources": [
+        "asia.nikkei.com"
+      ],
+      "links": [
+        "https://asia.nikkei.com/politics/new-zealand-election-campaign-dominated-by-cost-of-living-healthcare"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "5c6965aef671"
+    },
+    {
+      "title_ru": "Турецкий солдат убит выстрелом, предположительно с иранской территории",
+      "title_en": "Turkish soldier killed by gunfire believed to have come from Iran: ministry",
+      "date": "2026-11-05",
+      "summary": "Турецкий солдат, убитый при реагировании на незаконный переход на иранской границе на прошлой неделе, был поражен выстрелом, который, как полагают, был произведен с иранской стороны. Об этом сообщило агентство ANKA.",
+      "category": "conflicts",
+      "region": "Турция",
+      "sources": [
+        "www.turkishminute.com"
+      ],
+      "links": [
+        "https://www.turkishminute.com/2026/11/05/turkish-soldier-killed-by-gunfire-believed-to-have-come-from-iran-ministry/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-05",
+      "id": "8887cdba84cc"
+    },
+    {
+      "title_ru": "Американские войска прибыли в Эстонию на ротацию подразделений НАТО",
+      "title_en": "Американские войска прибыли в Эстонию на ротацию подразделений НАТО",
+      "date": "2026-11-06",
+      "summary": "Американские военные подразделения прибыли в Эстонию для ротации в рамках усиления присутствия НАТО в регионе. Это часть регулярной смены контингентов альянса.",
+      "category": "svo",
+      "region": "Эстония",
+      "sources": [
+        "ria.ru"
+      ],
+      "links": [
+        "https://ria.ru/20261106/estonija-2129685232.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "9e38282afaad"
+    },
+    {
+      "title_ru": "Toyota возвращает Celica в премьер-ралли после 32-летнего перерыва",
+      "title_en": "Toyota to bring Celica back to premier rally racing after 32-year break",
+      "date": "2026-11-06",
+      "summary": "Toyota возвращает модель Celica в премьер-ралли после 32-летнего перерыва. Компания планирует участие в высших раллийных соревнованиях.",
+      "category": "economy",
+      "region": "Япония",
+      "sources": [
+        "asia.nikkei.com"
+      ],
+      "links": [
+        "https://asia.nikkei.com/business/automobiles/toyota-to-bring-celica-back-to-premier-rally-racing-after-32-year-break"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "8d9eec79a94f"
+    },
+    {
+      "title_ru": "В ЮАР на выборах в Орании снова появился один голос за партию EFF",
+      "title_en": "The mystery EFF voter in Orania strikes again",
+      "date": "2026-11-05",
+      "summary": "Партия Economic Freedom Fighters снова получила один голос в консервативном африканерском городе Орания на местных выборах 2026 года. Это возродило интерес к личности загадочного избирателя.",
+      "category": "politics",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/politics/2026-11-05-the-mystery-eff-voter-in-orania-strikes-again/"
+      ],
+      "is_development": true,
+      "first_reported": "2026-11-05",
+      "id": "07b077e13cde"
+    },
+    {
+      "title_ru": "В Израиле арабские партии добились значительных успехов на выборах",
+      "title_en": "My Word: Arab voting and the bigger picture - opinion",
+      "date": "2026-11-06",
+      "summary": "Арабские партии добились значительных успехов на выборах в Израиле. Это создает как вызовы, так и возможности для еврейско-арабских отношений в стране.",
+      "category": "politics",
+      "region": "Израиль",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/opinion/article-913896"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "0848bf777571"
+    },
+    {
+      "title_ru": "Генерал СБУ встретил сотрудников НАБУ с оружием в руках",
+      "title_en": "Генерал СБУ встретил пришедших сотрудников НАБУ с оружием в руках",
+      "date": "2026-11-06",
+      "summary": "Первый заместитель начальника Департамента защиты национальной государственности СБУ Сергей Дука встретил сотрудников НАБУ с оружием в руках при проведении следственных действий. Вооруженные подчиненные генерала также мешали работе детективов.",
+      "category": "politics",
+      "region": "Украина",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/mezhdunarodnaya-panorama/28292291"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "ac5605044df6"
+    },
+    {
+      "title_ru": "Мосгорсуд оставил в силе приговор блогеру Лерчек",
+      "title_en": "Мосгорсуд оставил в силе приговор Лерчек",
+      "date": "2026-11-05",
+      "summary": "Московский городской суд в апелляции утвердил приговор блогеру Валерии Чекалиной (Лерчек) по делу о незаконных валютных операциях. Приговор был изменен в части дополнительного наказания, основная часть осталась без изменений.",
+      "category": "politics",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9080788"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-05",
+      "id": "4c9e2bdce37f"
+    },
+    {
+      "title_ru": "В Мексике заблокированы счета бывшего главы избирательного института",
+      "title_en": "Finance Ministry blocks accounts of former electoral institute chief and associates",
+      "date": "2026-11-05",
+      "summary": "Министерство финансов Мексики заблокировало счета бывшего президента Национального избирательного института Гуадалупе Таддеи и 24 других лиц. Это произошло через несколько дней после внезапной отставки Таддеи.",
+      "category": "politics",
+      "region": "Мексика",
+      "sources": [
+        "mexiconewsdaily.com"
+      ],
+      "links": [
+        "https://mexiconewsdaily.com/news/finance-ministry-blocks-ine-chief-accounts-electoral-corruption/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-05",
+      "id": "b7f47f57a2ad"
+    },
+    {
+      "title_ru": "Демократ Боттомс победила на выборах губернатора Джорджии",
+      "title_en": "Democrat Bottoms wins Georgia, becomes first Black woman governor in U.S.",
+      "date": "2026-11-04",
+      "summary": "Демократ Кейша Лэнс Боттомс победила на выборах губернатора Джорджии 3 ноября. Она стала первой чернокожей женщиной, избранной губернатором штата в США.",
+      "category": "politics",
+      "region": "США",
+      "sources": [
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/video-democrat-bottoms-wins-georgia-becomes-first-black-woman-governor-in-us/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-04",
+      "id": "a8cddd775789"
+    },
+    {
+      "title_ru": "Трамп пытается отменить 34 обвинительных приговора по делу о выплатах за молчание",
+      "title_en": "Trump seeks to overturn 34 felony convictions in New York hush money appeal",
+      "date": "2026-11-06",
+      "summary": "Адвокаты Дональда Трампа просят апелляционный суд Нью-Йорка отменить 34 обвинительных приговора по делу о выплате 130 000 долларов Сторми Дэниелс. Основаниями названы иммунитет и юридические вопросы.",
+      "category": "politics",
+      "region": "США",
+      "sources": [
+        "timesofindia.indiatimes.com"
+      ],
+      "links": [
+        "https://timesofindia.indiatimes.com/world/us/two-years-after-donald-trumps-conviction-on-34-felony-counts-over-a-130000-payment-to-stormy-daniels-his-lawyers-ask-a-new-york-appeals-court-to-overturn-the-verdict-on-immunity-and-legal-grounds/articleshow/135599716.cms"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "ce959b2ae328"
+    },
+    {
+      "title_ru": "В Таиланде нашли зубы доисторической 'гигантской крысы'",
+      "title_en": "В Таиланде нашли зубы доисторической «гигантской крысы»",
+      "date": "2026-11-06",
+      "summary": "На территории юга Таиланда обнаружены два окаменелых зуба грызуна, обитавшего 33-38 миллионов лет назад. Исследователи идентифицировали вымерший вид весом около 30 килограммов.",
+      "category": "culture",
+      "region": "Таиланд",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/paleontology/eotsen-zuby-gigantskii-gryzun"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "2da27e696257"
     }
   ],
   "_stats": {
-    "total_tokens": 841307,
-    "total_cost": 53.32595999999998
+    "total_tokens": 857635,
+    "total_cost": 54.36033999999998
   }
 }
