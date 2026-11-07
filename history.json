@@ -34,176 +34,6 @@
       "id": "6a433d7a6e57"
     },
     {
-      "title_ru": "Российские ученые создали индекс квантового риска для защиты данных",
-      "title_en": "Russian scientists create quantum risk index for data protection",
-      "date": "2026-10-30",
-      "summary": "Российские ученые разработали индекс квантового риска для оценки уязвимости криптографических систем перед квантовыми атаками. Индекс предназначен для защиты данных в условиях развития квантовых технологий.",
-      "category": "tech",
-      "region": "Россия",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/column/indeks-kvantovogo-riska"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-30",
-      "id": "4256a2fd58b1"
-    },
-    {
-      "title_ru": "В Подмосковье с начала года более 9 тыс. женщин из других регионов стали матерями",
-      "title_en": "More than 9,000 women from other regions became mothers in Moscow region since start of year",
-      "date": "2026-10-30",
-      "summary": "В Московской области с начала 2026 года более 9 тысяч женщин, прибывших из других регионов России, стали матерями. Данные свидетельствуют о внутренней миграции населения в столичный регион.",
-      "category": "life",
-      "region": "Россия",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/obschestvo/28271191"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-30",
-      "id": "d1ef3802d1dc"
-    },
-    {
-      "title_ru": "Иран перехватил враждебный истребитель над островом Кешм",
-      "title_en": "IRGC intercepts, averts 'hostile fighter jet' over Qeshm Island",
-      "date": "2026-10-30",
-      "summary": "Корпус стражей исламской революции Ирана перехватил и отогнал враждебный истребитель над островом Кешм в Персидском заливе. Инцидент произошел согласно сообщениям местных источников.",
-      "category": "conflicts",
-      "region": "Иран",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/middle-east/iran-news/article-913328"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-30",
-      "id": "e25ea5859d9b"
-    },
-    {
-      "title_ru": "Украинские энергоинфраструктуры подверглись ударам",
-      "title_en": "Ukraine energy infrastructure targeted",
-      "date": "2026-10-30",
-      "summary": "На Украине подверглись ударам объекты энергетической инфраструктуры. Одновременно ожидается прибытие гуманитарного конвоя в Олешки.",
-      "category": "svo",
-      "region": "Украина",
-      "sources": [
-        "www.france24.com"
-      ],
-      "links": [
-        "https://www.france24.com/fr/europe/20261030-ukraine-en-direct-frappes-meurtri%C3%A8res-dans-la-r%C3%A9gion-de-kiev-le-r%C3%A9seau-%C3%A9lectrique-cibl%C3%A9"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-30",
-      "id": "3ef4359be4f6"
-    },
-    {
-      "title_ru": "Путин заявил о развитии торгово-экономических отношений РФ и Судана",
-      "title_en": "Putin says Russia-Sudan trade and economic relations developing",
-      "date": "2026-10-30",
-      "summary": "Президент России Владимир Путин заявил о развитии торгово-экономических отношений между Россией и Суданом. В ходе встречи с лидером Судана обсуждались вопросы двустороннего сотрудничества.",
-      "category": "economy",
-      "region": "Россия",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/ekonomika/28271063"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-30",
-      "id": "8870af9e49c6"
-    },
-    {
-      "title_ru": "Израильские выборы не дали большинства ни Нетаньяху, ни оппозиции",
-      "title_en": "Israel's final election results give neither Netanyahu nor opposition a majority",
-      "date": "2026-10-30",
-      "summary": "Окончательные результаты парламентских выборов в Израиле показали, что ни действующий премьер-министр Биньямин Нетаньяху, ни оппозиция не получили большинства в Кнессете. Это создает сложности для формирования правительства.",
-      "category": "politics",
-      "region": "Израиль",
-      "sources": [
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/world/article-israel-election-final-results-netanyahu-loses-majority/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-30",
-      "id": "9440bea8aba5"
-    },
-    {
-      "title_ru": "Судан предложил России создать свободную экономическую зону на Красном море",
-      "title_en": "Sudan proposes creating free economic zone on Red Sea with Russia",
-      "date": "2026-10-30",
-      "summary": "Судан предложил России создать свободную экономическую зону на побережье Красного моря. Предложение было озвучено в ходе переговоров между лидерами двух стран.",
-      "category": "politics",
-      "region": "Судан",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/mezhdunarodnaya-panorama/28271119"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-30",
-      "id": "ee54cd32835c"
-    },
-    {
-      "title_ru": "Путин назвал Судан важным партнером России в арабском мире и в Африке",
-      "title_en": "Putin calls Sudan important partner for Russia in Arab world and Africa",
-      "date": "2026-10-30",
-      "summary": "Президент России Владимир Путин заявил, что Судан является важным партнером России как в арабском мире, так и в Африке. Заявление сделано в ходе встречи с лидером Судана.",
-      "category": "statement",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20261030/putin--2128081701.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-30",
-      "id": "4c18f09c465a"
-    },
-    {
-      "title_ru": "Sony представила систему расширения Rialto 65 стоимостью 80 000 долларов",
-      "title_en": "Sony's $80,000 Rialto 65 Extension System requires $60,000 camera",
-      "date": "2026-10-30",
-      "summary": "Компания Sony представила систему расширения Rialto 65 для профессиональных кинокамер стоимостью 80 000 долларов. Система требует использования камеры стоимостью 60 000 долларов и предназначена для киноиндустрии.",
-      "category": "photo",
-      "region": "Мир",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/10/30/sonys-jaw-dropping-80000-rialto-65-extension-system-requires-a-60000-camera/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-30",
-      "id": "9252632878c8"
-    },
-    {
-      "title_ru": "В Помпеях нашли шкаф с женским туалетным набором и детскими амулетами",
-      "title_en": "In Pompeii, a cabinet with a woman's toilet set and children's amulets was found",
-      "date": "2026-10-30",
-      "summary": "Археологи обнаружили в Помпеях шкаф с женским туалетным набором и детскими амулетами. Находка датируется периодом до извержения Везувия в 79 году н.э.",
-      "category": "tech",
-      "region": "Италия",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/archeology/pompei-shkaf-detskie-amulety"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-30",
-      "id": "50e456b4336b"
-    },
-    {
       "title_ru": "Иран ускоряет восстановление нефтехимических комплексов, пострадавших от войны",
       "title_en": "Iran accelerates rebuilding of petrochemical complexes hit by US-Zionist war: Deputy oil minister",
       "date": "2026-10-31",
@@ -255,23 +85,6 @@
       "id": "09d381d2825b"
     },
     {
-      "title_ru": "В Алешках начали раздавать гуманитарную помощь жителям",
-      "title_en": "In Aleshki, they began distributing humanitarian aid to residents",
-      "date": "2026-10-30",
-      "summary": "В Алешках начали раздавать гуманитарную помощь жителям. Распределение организовано для поддержки населения.",
-      "category": "life",
-      "region": "Украина",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9077431"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-30",
-      "id": "442e5fcb943b"
-    },
-    {
       "title_ru": "Силы ПВО уничтожили пять дронов, летевших на Москву",
       "title_en": "Air defense forces destroyed five drones flying towards Moscow",
       "date": "2026-10-31",
@@ -304,74 +117,6 @@
       "is_development": false,
       "first_reported": "2026-10-31",
       "id": "bfd6c596de2f"
-    },
-    {
-      "title_ru": "Шотландская полиция начала расследование в отношении бывшего принца Эндрю и Эпштейна",
-      "title_en": "Scottish police open probe into former prince Andrew and Epstein's visit to king's estate",
-      "date": "2026-10-30",
-      "summary": "Шотландская полиция начала расследование в отношении бывшего принца Эндрю и Джеффри Эпштейна. Расследование касается их визита в королевское поместье Балморал.",
-      "category": "politics",
-      "region": "Великобритания",
-      "sources": [
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/world/article-former-prince-andrew-epstein-scottish-police-conduct-inquiries/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-30",
-      "id": "77256b2df1c1"
-    },
-    {
-      "title_ru": "Израиль запретил международной делегации въезд на Западный берег во время сбора оливок",
-      "title_en": "Israel bars international delegation from entering West Bank during olive harvest - report",
-      "date": "2026-10-30",
-      "summary": "Израиль запретил международной делегации въезд на Западный берег во время сбора оливок. Решение принято в период сбора урожая.",
-      "category": "politics",
-      "region": "Израиль",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/israel-news/article-913360"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-30",
-      "id": "29f5a1505e30"
-    },
-    {
-      "title_ru": "Пезешкиан: Мы должны быть настолько сильными, чтобы никто не осмелился посягать на нашу территорию и идентичность",
-      "title_en": "Pezeshkian: We must be so strong that no one dares to covet our territory and identity",
-      "date": "2026-10-30",
-      "summary": "Президент Ирана Масуме Пезешкиан заявил, что страна должна быть настолько сильной, чтобы никто не осмелился посягать на её территорию и идентичность. Заявление сделано в контексте укрепления обороноспособности.",
-      "category": "statement",
-      "region": "Иран",
-      "sources": [
-        "en.irna.ir"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86307693/Pezeshkian-We-must-be-so-strong-that-no-one-dares-to-covet-our"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-30",
-      "id": "3557ed711a14"
-    },
-    {
-      "title_ru": "Климатические изменения подвергают молодых и пожилых в ЮАР большему риску от экстремальной жары",
-      "title_en": "Climate change puts SA's young and old at greater risk from extreme heat",
-      "date": "2026-10-30",
-      "summary": "Климатические изменения подвергают молодых и пожилых в ЮАР большему риску от экстремальной жары. Исследование показывает уязвимость возрастных групп.",
-      "category": "ecology",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/the-green-guardian/2026-10-30-climate-change-puts-sa-s-young-and-old-at-greater-risk-from-extreme-heat/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-30",
-      "id": "1d7dea9b3241"
     },
     {
       "title_ru": "Южная Корея: экспорт в октябре достиг 115,3 млрд долларов благодаря продажам чипов",
@@ -510,23 +255,6 @@
       "id": "0513b4a262df"
     },
     {
-      "title_ru": "Хакеры взломали Claude от Anthropic и заразили тысячи устройств",
-      "title_en": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
-      "date": "2026-10-30",
-      "summary": "В результате атаки на цепочку поставок вредоносные расширения для ИИ-системы Claude от компании Anthropic были установлены на тысячи устройств. Атака затронула системы разработчиков.",
-      "category": "ai",
-      "region": "Мир",
-      "sources": [
-        "www.wired.com"
-      ],
-      "links": [
-        "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-30",
-      "id": "cfc0bc4a5cfe"
-    },
-    {
       "title_ru": "Марсианская пыль опасна для астронавтов, показал марсоход Perseverance",
       "title_en": "Perseverance показал, что марсианская пыль опасна для высаживающихся на нем астронавтов",
       "date": "2026-11-01",
@@ -542,23 +270,6 @@
       "is_development": false,
       "first_reported": "2026-11-01",
       "id": "4c5589855112"
-    },
-    {
-      "title_ru": "Взломанный Hasselblad X2D II 100C снимает видео, имеет ChatGPT и работает на Linux",
-      "title_en": "Hacked Hasselblad X2D II 100C Shoots Video, Has ChatGPT, and Runs Linux",
-      "date": "2026-10-30",
-      "summary": "Энтузиасты взломали камеру Hasselblad X2D II 100C, добавив возможность съемки видео, интеграцию с ChatGPT и операционную систему Linux. Модификация позволяет камере выполнять функции, не предусмотренные производителем.",
-      "category": "photo",
-      "region": "Мир",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/10/30/hacked-hasselblad-x2d-ii-100c-shoots-video-has-chatgpt-and-runs-linux/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-30",
-      "id": "18f8310234b7"
     },
     {
       "title_ru": "Редкий перец Voatsiperifery под угрозой из-за вырубки лесов на Мадагаскаре",
@@ -2882,10 +2593,282 @@
       "is_development": false,
       "first_reported": "2026-11-06",
       "id": "2da27e696257"
+    },
+    {
+      "title_ru": "Физики нашли свидетельство сверхредкого распада B-мезона спустя 40 лет поисков",
+      "title_en": "Neutral B meson decay 3 sigma",
+      "date": "2026-11-06",
+      "summary": "Ученые с использованием данных детектора LHCb Большого адронного коллайдера сообщили об ультраредком распаде нейтрального B-мезона на пару мюон — антимюон со статистической значимостью 3.2σ. Поиски этого распада велись около 40 лет.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/physics/neutral-b-meson-decay-3-sigma"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "1657f526d364"
+    },
+    {
+      "title_ru": "В скифской гробнице Тувы нашли древнейшие следы употребления конопли как психоактивного растения",
+      "title_en": "Cannabis tuva",
+      "date": "2026-11-06",
+      "summary": "Археологи обнаружили в скифском кургане на территории Тувы семена конопли и человеческие волосы со следами психоактивных веществ. Возраст находок составил около 2800 лет, что делает их древнейшим известным свидетельством употребления конопли в качестве психоактивного растения.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/archeology/kannabis-tuva"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "6d2ecb75a6aa"
+    },
+    {
+      "title_ru": "Fox завершила приобретение Roku за 22 миллиарда долларов",
+      "title_en": "Fox completes its $22B acquisition of Roku",
+      "date": "2026-11-06",
+      "summary": "Медиакомпания Fox завершила сделку по приобретению стримингового гиганта Roku за 22 миллиарда долларов. Сделка была завершена через несколько месяцев после начала проверки Министерством юстиции США.",
+      "category": "tech",
+      "region": "США",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "bad5b95d32e5"
+    },
+    {
+      "title_ru": "Стартап Potential Sciences использует ИИ для разработки лекарств без лабораторных работ",
+      "title_en": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+      "date": "2026-11-05",
+      "summary": "Стартап Potential Sciences, поддерживаемый правительством Великобритании, использует ИИ-модели, обученные на компьютерно-генерируемых биохимических данных, для ускорения разработки новых лекарств.",
+      "category": "ai",
+      "region": "Великобритания",
+      "sources": [
+        "www.wired.com"
+      ],
+      "links": [
+        "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-05",
+      "id": "7813f7d9617a"
+    },
+    {
+      "title_ru": "В Израиле объявлены предупреждения о наводнениях и грозах",
+      "title_en": "Government issues warnings for northern, central Israel amid heavy thunderstorms, fears of flooding",
+      "date": "2026-11-06",
+      "summary": "Метеорологическая служба Израиля выпустила предупреждения о наводнениях, внезапных паводках, грозах и опасных условиях для купания в северных и центральных районах страны. Предупреждения действуют до субботнего вечера.",
+      "category": "life",
+      "region": "Израиль",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/israel-news/article-914094"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "bd765b6e49b5"
+    },
+    {
+      "title_ru": "В Канаде используют ДНК-тестирование для идентификации медведя-гризли после смертельной атаки",
+      "title_en": "In B.C.'s Great Bear Rainforest, DNA testing crucial to finding grizzly behind deadly attack",
+      "date": "2026-11-06",
+      "summary": "Расследование предполагаемой смертельной атаки медведя-гризли в Британской Колумбии включает профилирование ДНК для идентификации животного, ответственного за нападение.",
+      "category": "life",
+      "region": "Канада",
+      "sources": [
+        "www.cbc.ca"
+      ],
+      "links": [
+        "https://www.cbc.ca/news/canada/british-columbia/bear-captured-grizzly-dna-bella-coola-attack-9.7412821?cmp=rss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "5ba7b095fcb2"
+    },
+    {
+      "title_ru": "Иранский парламентарий отверг утверждения Израиля о химическом оружии как безосновательные",
+      "title_en": "Iranian MP rejects Tel Aviv’s claim on chemical weapons as baseless",
+      "date": "2026-11-06",
+      "summary": "Председатель комитета по национальной безопасности и внешней политике иранского парламента отверг сообщения западных СМИ, ссылающихся на израильских чиновников, о том, что Иран планирует использовать химическое оружие.",
+      "category": "conflicts",
+      "region": "Иран",
+      "sources": [
+        "en.irna.ir"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86314133/Iranian-MP-rejects-Tel-Aviv-s-claim-on-chemical-weapons-as-baseless"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "d0f9f84cc79f"
+    },
+    {
+      "title_ru": "Трамп заявил, что США атаковали иранские системы ПВО",
+      "title_en": "Trump says US attacks Iranian air defense systems",
+      "date": "2026-11-07",
+      "summary": "Президент США Дональд Трамп заявил, что Соединенные Штаты атаковали иранские системы противовоздушной обороны. Он не уточнил, когда произошел удар.",
+      "category": "conflicts",
+      "region": "США",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/world/2214145"
+      ],
+      "is_development": true,
+      "first_reported": "2026-11-07",
+      "id": "cc85133b1bca"
+    },
+    {
+      "title_ru": "Трамп отметил значительный прогресс в урегулировании украинского конфликта",
+      "title_en": "Trump sees significant progress in resolving Ukrainian conflict",
+      "date": "2026-11-07",
+      "summary": "Президент США Дональд Трамп отметил хорошую работу с Россией и Украиной в контексте урегулирования украинского конфликта. Он заявил о значительном прогрессе в этом направлении.",
+      "category": "svo",
+      "region": "США",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/world/2214151"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-07",
+      "id": "0840f2f6d170"
+    },
+    {
+      "title_ru": "Bank of America рекомендует покупать новый тайваньский доллар",
+      "title_en": "Bank of America advises NT dollar buys",
+      "date": "2026-11-07",
+      "summary": "Bank of America дал рекомендацию покупать новый тайваньский доллар.",
+      "category": "economy",
+      "region": "Тайвань",
+      "sources": [
+        "www.taipeitimes.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/biz/archives/2026/11/07/2003867288"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-07",
+      "id": "46b8dcc3963c"
+    },
+    {
+      "title_ru": "Центробанк России установил курс доллара на 7-9 ноября на уровне 82,14 рубля",
+      "title_en": "Bank of Russia sets dollar rate at 82.14 rubles for November 7-9",
+      "date": "2026-11-06",
+      "summary": "Банк России установил официальный курс доллара США на период с 7 по 9 ноября на уровне 82,14 рубля за доллар. Официальный курс юаня был установлен на уровне 12,2651 рубля, что на 0,81 копейки выше предыдущего значения.",
+      "category": "economy",
+      "region": "Россия",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/economy/2214021"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "f9b8a7e0a973"
+    },
+    {
+      "title_ru": "Гана похвалила Канаду за выступление против 'несправедливой глобальной системы' для африканских стран",
+      "title_en": "Ghana praises Canada for advocating against a ‘rigged global system’ for African countries",
+      "date": "2026-11-05",
+      "summary": "Гана высоко оценила позицию Канады, которая в течение нескольких лет выступает за реформу правил финансирования для развивающихся стран, многие из которых сталкиваются с высокими процентными ставками и неподъемной долговой нагрузкой.",
+      "category": "economy",
+      "region": "Канада",
+      "sources": [
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/canada/article-ghana-praises-canada-carney-fix-rigged-world-african-countries/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-05",
+      "id": "bbfd4878c55f"
+    },
+    {
+      "title_ru": "Университет Кейптауна рассматривает санкции против членов совета из-за неподтвержденных заявлений",
+      "title_en": "UCT weighs sanctions over ‘Islamist control’ claims",
+      "date": "2026-11-05",
+      "summary": "Университет Кейптауна рассматривает возможность дисциплинарных мер в отношении членов совета Марка Оппенгеймера и Дэвида Ансары после того, как расследование отставного судьи Махомеда Навсы отвергло неподтвержденные заявления.",
+      "category": "politics",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-11-05-uct-weighs-sanctions-over-islamist-control-claims/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-05",
+      "id": "92afddc0b2db"
+    },
+    {
+      "title_ru": "Захарова: отношения с Японией будут восстановлены в случае ее отказа от санкций",
+      "title_en": "Захарова: отношения с Японией будут восстановлены в случае ее отказа от санкций",
+      "date": "2026-11-05",
+      "summary": "Официальный представитель МИД России Мария Захарова заявила, что Москва восстановит диалог с Токио при условии полного отказа Японии от недружественного курса.",
+      "category": "politics",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9081262"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-05",
+      "id": "7207ab04c389"
+    },
+    {
+      "title_ru": "Трамп назначил встречи в Мар-а-Лаго, включая встречи по России",
+      "title_en": "Trump says has scheduled meetings at Mar-a-Lago, including on Russia",
+      "date": "2026-11-07",
+      "summary": "Президент США Дональд Трамп заявил, что назначил встречи в своей резиденции Мар-а-Лаго, включая встречи, касающиеся России. Он не предоставил других деталей о предстоящих встречах.",
+      "category": "politics",
+      "region": "США",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/world/2214147"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-07",
+      "id": "3bdee2988c29"
+    },
+    {
+      "title_ru": "МЧС назвало причиной гибели 17 альпинистов в Кабардино-Балкарии обвал ледника из-за климатических изменений",
+      "title_en": "МЧС назвало причину гибели 17 альпинистов в горах Кабардино-Балкарии",
+      "date": "2026-11-06",
+      "summary": "Первый заместитель главы регионального ГУ МЧС Кабардино-Балкарии Эльдар Хашхожев заявил, что причиной гибели 17 альпинистов в ущелье Безенги стал обвал горного ледника из-за климатических изменений.",
+      "category": "ecology",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9081356"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "f8a347aad54d"
     }
   ],
   "_stats": {
-    "total_tokens": 857635,
-    "total_cost": 54.36033999999998
+    "total_tokens": 874743,
+    "total_cost": 55.458779999999976
   }
 }
