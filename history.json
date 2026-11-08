@@ -1,23 +1,6 @@
 {
   "_events": [
     {
-      "title_ru": "Иран сообщил о ликвидации террористических групп в Систане и Белуджистане",
-      "title_en": "Iran Intelligence Ministry, IRGC neutralize terrorist squads in Sistan and Baluchistan",
-      "date": "2026-10. 06",
-      "summary": "Министерство разведки Ирана и Корпус стражей исламской революции сообщили о ликвидации террористических групп в провинции Систан и Белуджистан. Операция проведена после теракта, в котором погибли два полицейских.",
-      "category": "conflicts",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/10/06/777736/Iranian-Intelligence-IRGC-neutralize-Takfiri-assassination-squads-in-Sistan-and-Baluchistan"
-      ],
-      "is_development": true,
-      "first_reported": "2026-10. 06",
-      "id": "302dbede9d7d"
-    },
-    {
       "title_ru": "Пять человек пострадали в ДТП в Вологодской области",
       "title_en": "Five people injured in road accident in Vologda region",
       "date": "2026.10-10",
@@ -32,91 +15,6 @@
       ],
       "first_reported": "2026.10-10",
       "id": "6a433d7a6e57"
-    },
-    {
-      "title_ru": "Иран ускоряет восстановление нефтехимических комплексов, пострадавших от войны",
-      "title_en": "Iran accelerates rebuilding of petrochemical complexes hit by US-Zionist war: Deputy oil minister",
-      "date": "2026-10-31",
-      "summary": "Иран ускоряет восстановление нефтехимических комплексов, пострадавших от войны. Об этом заявил заместитель министра нефти страны.",
-      "category": "tech",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/10/31/779581/iran-accelerates-rebuilding-of-petrochemical-complexes-hit-by-us-zionist-war"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-31",
-      "id": "b4b976547343"
-    },
-    {
-      "title_ru": "Ученые подтвердили, что кожура фруктов и овощей действительно полезна",
-      "title_en": "Scientists have confirmed that the peel of fruits and vegetables is really healthy",
-      "date": "2026-10-31",
-      "summary": "Ученые подтвердили, что кожура фруктов и овощей действительно полезна для здоровья. Исследование показало её питательную ценность.",
-      "category": "ai",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/medicine/skolko-ovoshhei-i-fruktov"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-31",
-      "id": "fbb0154695b0"
-    },
-    {
-      "title_ru": "В Южной Корее не нашли нарушений, связанных с наркотиками, в ходе спецоперации накануне Хэллоуина",
-      "title_en": "No drug-related violations found in special crackdown on eve of Halloween",
-      "date": "2026-10-31",
-      "summary": "В Южной Корее не нашли нарушений, связанных с наркотиками, в ходе специальной операции накануне Хэллоуина. Проверка проводилась в развлекательных заведениях.",
-      "category": "life",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261031001200315"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-31",
-      "id": "09d381d2825b"
-    },
-    {
-      "title_ru": "Силы ПВО уничтожили пять дронов, летевших на Москву",
-      "title_en": "Air defense forces destroyed five drones flying towards Moscow",
-      "date": "2026-10-31",
-      "summary": "Силы ПВО уничтожили пять дронов, летевших на Москву. Воздушная атака была отражена.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20261031/pvo-2128310788.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-31",
-      "id": "5fc3ec0dc074"
-    },
-    {
-      "title_ru": "По гражданским объектам Белгородской области выпустили около 370 БПЛА за сутки",
-      "title_en": "About 370 UAVs were launched at civilian objects in the Belgorod region per day",
-      "date": "2026-10-31",
-      "summary": "По гражданским объектам Белгородской области выпустили около 370 БПЛА за сутки. Атаки зафиксированы на приграничной территории.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/proisshestviya/28274365"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-31",
-      "id": "bfd6c596de2f"
     },
     {
       "title_ru": "Южная Корея: экспорт в октябре достиг 115,3 млрд долларов благодаря продажам чипов",
@@ -170,23 +68,6 @@
       "id": "87e03bc85e28"
     },
     {
-      "title_ru": "Силы ПВО сбили 15 БПЛА вблизи Москвы",
-      "title_en": "Число сбитых вблизи Москвы БПЛА достигло 15",
-      "date": "2026-10-31",
-      "summary": "Силы противовоздушной обороны России 31 октября 2026 года сбили 15 беспилотных летательных аппаратов вблизи Москвы. Ранее сообщалось о сбитии шести, затем более десяти дронов.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9078267"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-31",
-      "id": "67ae7230205b"
-    },
-    {
       "title_ru": "Северная Корея испытала кассетную боеголовку для тактических баллистических ракет",
       "title_en": "N. Korea tests cluster bomb mountable on tactical ballistic missiles",
       "date": "2026-11-01",
@@ -219,40 +100,6 @@
       "is_development": false,
       "first_reported": "2026-11-01",
       "id": "d0d4ef8bb473"
-    },
-    {
-      "title_ru": "Великобритания готова принести официальные извинения за роль в работорговле",
-      "title_en": "Le Royaume-Uni prêt à présenter des excuses officielles pour son rôle dans l'esclavage",
-      "date": "2026-10-31",
-      "summary": "Великобритания готова представить официальные извинения за свою роль в трансатлантической работорговле. Об этом заявил политик Энди Бернем.",
-      "category": "politics",
-      "region": "Великобритания",
-      "sources": [
-        "www.france24.com"
-      ],
-      "links": [
-        "https://www.france24.com/fr/europe/20261031-andy-burnham-royaume-uni-pr%C3%AAt-pr%C3%A9senter-excuses-pour-son-r%C3%B4le-dans-esclavage-traite-transatlantique"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-31",
-      "id": "40ae9369fafc"
-    },
-    {
-      "title_ru": "Турция выдвинула кандидата на пост генерального секретаря ООН",
-      "title_en": "La Turquie ajoute son candidat à la course à la direction de l'ONU",
-      "date": "2026-10-31",
-      "summary": "Турция выдвинула своего кандидата на пост генерального секретаря ООН. В гонку за руководство организацией вступил Феридун Синирлиоглу.",
-      "category": "politics",
-      "region": "Турция",
-      "sources": [
-        "www.france24.com"
-      ],
-      "links": [
-        "https://www.france24.com/fr/asie-pacifique/20261031-turquie-ajoute-candidat-course-direction-onu-antonio-gutteres-feridun-sinirlioglu"
-      ],
-      "is_development": false,
-      "first_reported": "2026-10-31",
-      "id": "0513b4a262df"
     },
     {
       "title_ru": "Марсианская пыль опасна для астронавтов, показал марсоход Perseverance",
@@ -2865,10 +2712,333 @@
       "is_development": false,
       "first_reported": "2026-11-06",
       "id": "f8a347aad54d"
+    },
+    {
+      "title_ru": "NASA объявило контракт на $10 млрд на лунный грузовой посадочный модуль",
+      "title_en": "NASA announces $10b. contract for lunar cargo lander in push toward eventual long-term moon base",
+      "date": "2026-11-08",
+      "summary": "NASA объявило контракт стоимостью $10 млрд на разработку лунного грузового посадочного модуля для создания долгосрочной лунной базы. Среди компаний, претендующих на контракт, — SpaceX Илона Маска, Blue Origin Джеффа Безоса и Northrop Grumman Space Systems.",
+      "category": "tech",
+      "region": "США",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/science/space/article-914177"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-08",
+      "id": "cee4a847c1c7"
+    },
+    {
+      "title_ru": "Иран остановил контрабанду 8 млн литров топлива в сутки",
+      "title_en": "Eight million liters of daily fuel smuggling stopped: Anti-smuggling HQ",
+      "date": "2026-11-08",
+      "summary": "Иран перешел к прогнозному программному управлению для перекрытия лазеек на границах и защиты субсидируемых энергоресурсов от контрабандистов. Антиконтрабандный штаб сообщил о предотвращении контрабанды 8 млн литров топлива в сутки.",
+      "category": "tech",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/11/08/780248/eight-million-liters-of-daily-fuel-smuggling-stopped-anti-smuggling-hq"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-08",
+      "id": "c96d4f10130f"
+    },
+    {
+      "title_ru": "Астрономы уточнили массу черной дыры M87",
+      "title_en": "Астрономы «взвесили» первую «сфотографированную» черную дыру",
+      "date": "2026-11-08",
+      "summary": "Астрономы уточнили массу черной дыры M87, чью тень ранее удалось сфотографировать, по движению окружающих звезд. Новые измерения показали, что её масса примерно на миллиард солнечных масс меньше, чем показывали первые оценки.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/astronomy/vzvesili-sfotografirovannuyu-chernuyu"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-08",
+      "id": "f164ee5507ef"
+    },
+    {
+      "title_ru": "Родители требуют более безопасных телефонов для детей",
+      "title_en": "Parents want safer phones for kids. These companies are answering the call.",
+      "date": "2026-11-07",
+      "summary": "Растет число компаний, создающих телефоны, специально разработанные для детей, с ограниченным функционалом или минималистичным дизайном. Это ответ на запрос родителей на альтернативы неограниченным смартфонам.",
+      "category": "ai",
+      "region": "США",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-07",
+      "id": "3860a11ce921"
+    },
+    {
+      "title_ru": "В Израиле ЦАХАЛ столкнулся с острым кадровым кризисом",
+      "title_en": "IDF faces severe manpower crisis as recently released reservists called back to duty",
+      "date": "2026-11-08",
+      "summary": "Армия обороны Израиля столкнулась с острым кадровым кризисом, в связи с чем недавно демобилизованных резервистов вызывают обратно на службу. Высшее командование ЦАХАЛ рассматривает вопрос о публичном заявлении о нехватке примерно 15 000 солдат.",
+      "category": "life",
+      "region": "Израиль",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/israel-news/article-914181"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-08",
+      "id": "32d7fb073850"
+    },
+    {
+      "title_ru": "Индонезия выделила $48,7 млн на скидки для новогодних поездок",
+      "title_en": "Indonesia allocates $48.7 million for year-end travel discounts",
+      "date": "2026-11-08",
+      "summary": "Правительство Индонезии выделило 883 млрд рупий (около $48,7 млн) в качестве стимулирующего финансирования на транспорт для новогодних праздников. Министерство транспорта прогнозирует мобильность 120 млн путешественников в период рождественских и новогодних праздников.",
+      "category": "life",
+      "region": "Индонезия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/441035/indonesia-allocates-487-million-for-year-end-travel-discounts"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-08",
+      "id": "ab0a6a34a486"
+    },
+    {
+      "title_ru": "Индонезия ужесточила контроль за субсидированным рисом после случаев мошенничества",
+      "title_en": "Indonesian govt tightens checks on subsidized rice after fraud cases",
+      "date": "2026-11-08",
+      "summary": "Национальное агентство по продовольствию Индонезии и полицейская группа по продовольствию договорились ужесточить надзор за распределением субсидированного риса. Это решение принято после выявления случаев мошенничества.",
+      "category": "life",
+      "region": "Индонезия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/441171/indonesian-govt-tightens-checks-on-subsidized-rice-after-fraud-cases"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-08",
+      "id": "07c58394cd07"
+    },
+    {
+      "title_ru": "В Мадриде прошли протесты из-за жилищного кризиса",
+      "title_en": "Faces from the front lines of Spain’s housing crisis",
+      "date": "2026-11-07",
+      "summary": "В Мадриде и по всей Испании прошли протесты из-за жилищного кризиса. Широкое экономическое недовольство мобилизовало протестующих выйти на улицы.",
+      "category": "life",
+      "region": "Испания",
+      "sources": [
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/article-faces-front-lines-spain-housing-crisis-madrid-economy/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-07",
+      "id": "c7c758e0ab08"
+    },
+    {
+      "title_ru": "Иран обвинил Израиль в усугублении гуманитарного кризиса в Газе",
+      "title_en": "Israeli regime deepening Gaza crisis: Hamas",
+      "date": "2026-11-08",
+      "summary": "Движение ХАМАС заявило, что израильский режим намеренно усугубляет гуманитарную катастрофу в секторе Газа. Заявление было распространено иранским информационным агентством IRNA.",
+      "category": "conflicts",
+      "region": "Ближний Восток",
+      "sources": [
+        "en.irna.ir"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86315746/Israeli-regime-deepening-Gaza-crisis-Hamas"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-08",
+      "id": "d2a47f90ed49"
+    },
+    {
+      "title_ru": "В Лондоне прошла акция протеста против войны у посольства США",
+      "title_en": "'No to War' chants fill streets outside US Embassy in London",
+      "date": "2026-11-07",
+      "summary": "Антивоенные активисты, представители гражданского общества и десятки иранцев, проживающих в Великобритании, собрались у посольства США в Лондоне в субботу. Они протестовали против военной политики Вашингтона.",
+      "category": "conflicts",
+      "region": "Великобритания",
+      "sources": [
+        "en.irna.ir"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86315150/No-to-War-chants-fill-streets-outside-US-Embassy-in-London"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-07",
+      "id": "3281ff319ef5"
+    },
+    {
+      "title_ru": "КСИР заявил, что план 'Железные ворота' не позволит США обрушить экономику Ирана",
+      "title_en": "КСИР: план 'Железные ворота' не позволит США обрушить экономику Ирана",
+      "date": "2026-11-08",
+      "summary": "Официальный представитель Корпуса стражей исламской революции Хочейн Мохеби заявил, что план 'Железные ворота' не позволит США обрушить экономику Ирана. Он отметил, что предсказания США о крахе иранской экономики в течение двух недель не сбылись.",
+      "category": "conflicts",
+      "region": "Иран",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/mezhdunarodnaya-panorama/28295975"
+      ],
+      "is_development": true,
+      "first_reported": "2026-11-08",
+      "id": "30a6fee534e8"
+    },
+    {
+      "title_ru": "США выплатят до $20 млн за данные о ядерной программе Ирана",
+      "title_en": "США выплатят до $20 млн за данные о ядерной программе Ирана",
+      "date": "2026-11-07",
+      "summary": "Госдепартамент США объявил о выплате до $20 млн за информацию о ядерной программе Ирана. Власти также готовы оказать лицам поддержку в переезде за границу.",
+      "category": "conflicts",
+      "region": "США",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9091836"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-07",
+      "id": "87fa69895bf7"
+    },
+    {
+      "title_ru": "Иран изучает предложения по урегулированию конфликта с США",
+      "title_en": "Bloomberg узнал о прогрессе в переговорах США и Ирана по ядерной программе",
+      "date": "2026-11-06",
+      "summary": "Иранское руководство изучает предложения катарских посредников по урегулированию конфликта с США, включая вопросы ядерной программы. Об этом сообщило агентство Bloomberg со ссылкой на дипломата.",
+      "category": "conflicts",
+      "region": "Иран",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9091372"
+      ],
+      "is_development": true,
+      "first_reported": "2026-11-06",
+      "id": "c87ceee4ded4"
+    },
+    {
+      "title_ru": "Индонезия получила инвестиционные обязательства на $138 млн из Европы",
+      "title_en": "Indonesia lands $138 million in investment commitments from Europe",
+      "date": "2026-11-08",
+      "summary": "Индонезийская холдинговая компания по промышленным зонам PT Danareksa получила инвестиционные обязательства на сумму $138 млн от европейских инвесторов.",
+      "category": "economy",
+      "region": "Индонезия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/441107/indonesia-lands-138-million-in-investment-commitments-from-europe"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-08",
+      "id": "75d8cd0a72f3"
+    },
+    {
+      "title_ru": "Индонезия стремится поддержать экономический рост через стимулы в четвертом квартале",
+      "title_en": "Govt seeks to sustain economic growth through Q4 stimulus measures",
+      "date": "2026-11-08",
+      "summary": "Заместитель координирующего министра по экономическим вопросам Индонезии Драджад Хари Вибово заявил, что правительство стремится поддержать экономический рост через меры стимулирования в четвертом квартале.",
+      "category": "economy",
+      "region": "Индонезия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/441075/govt-seeks-to-sustain-economic-growth-through-q4-stimulus-measures"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-08",
+      "id": "69b4fe2cd5ee"
+    },
+    {
+      "title_ru": "В ЮАР снизилось доверие к избирательной комиссии при высокой удовлетворенности выборами",
+      "title_en": "Shorter queues, high satisfaction — but voter trust in IEC slips",
+      "date": "2026-11-06",
+      "summary": "Опрос HSRC показал, что избиратели в ЮАР столкнулись с более короткими очередями и были удовлетворены муниципальными выборами 2026 года. При этом доверие к Независимой избирательной комиссии продолжает снижаться.",
+      "category": "politics",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-11-06-shorter-queues-high-satisfaction-but-voter-trust-in-iec-slips/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "da9a499a3568"
+    },
+    {
+      "title_ru": "Лукашенко выразил соболезнования Польше после теракта в Кракове",
+      "title_en": "Лукашенко выразил соболезнования народу Польши в связи с терактом в Кракове",
+      "date": "2026-11-08",
+      "summary": "Президент Белоруссии Александр Лукашенко выразил соболезнования народу Польши в связи с террористическим актом в Кракове 7 ноября. В Белоруссии с глубокой скорбью восприняли известие о теракте, жертвами которого стали граждане Польши и других стран.",
+      "category": "politics",
+      "region": "Беларусь",
+      "sources": [
+        "www.belta.by"
+      ],
+      "links": [
+        "https://belta.by/president/view/lukashenko-vyrazil-soboleznovanija-narodu-polshi-v-svjazi-s-teraktom-v-krakove-809916-2026/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-08",
+      "id": "4f31549e4283"
+    },
+    {
+      "title_ru": "Иракский министр заявил, что США просили закрыть пограничные переходы с Ираном",
+      "title_en": "US asked Iraq to close border crossings with Iran: FM Hussein",
+      "date": "2026-11-07",
+      "summary": "Министр иностранных дел Ирака Фуад Хусейн заявил, что США просили Багдад закрыть все пограничные переходы с Ираном, кроме двух. Об этом сообщило иранское агентство Mehr News.",
+      "category": "politics",
+      "region": "Ирак",
+      "sources": [
+        "en.mehrnews.com"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/249221/US-asked-Iraq-to-close-border-crossings-with-Iran-FM-Hussein"
+      ],
+      "is_development": true,
+      "first_reported": "2026-11-07",
+      "id": "38aa1f7611d0"
+    },
+    {
+      "title_ru": "В Крыму и Севастополе ввели льготную ипотеку под 8%",
+      "title_en": "В Крыму и Севастополе ввели льготную ипотеку под 8%",
+      "date": "2026-11-06",
+      "summary": "С 1 ноября в Крыму и Севастополе заработала программа льготной ипотеки под 8% годовых на покупку жилья. Программа действует на территориях воссоединенных субъектов Российской Федерации.",
+      "category": "politics",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9091436"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-06",
+      "id": "34559e4c6e53"
     }
   ],
   "_stats": {
-    "total_tokens": 874743,
-    "total_cost": 55.458779999999976
+    "total_tokens": 893331,
+    "total_cost": 56.65707999999998
   }
 }
