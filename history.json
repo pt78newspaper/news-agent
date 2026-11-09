@@ -17,125 +17,6 @@
       "id": "6a433d7a6e57"
     },
     {
-      "title_ru": "Южная Корея: экспорт в октябре достиг 115,3 млрд долларов благодаря продажам чипов",
-      "title_en": "S. Korea's monthly exports hit US$115.3 bln in Oct. on strong chip sales",
-      "date": "2026-11-01",
-      "summary": "Экспорт Южной Кореи в октябре 2026 года составил 115,3 млрд долларов США. Рост обеспечен сильными продажами полупроводников.",
-      "category": "economy",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261101000952320"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-01",
-      "id": "78b8ca89667e"
-    },
-    {
-      "title_ru": "Беларусь повысила размеры социальных пособий и прожиточного минимума",
-      "title_en": "В Беларуси повысились размеры бюджета прожиточного минимума",
-      "date": "2026-11-01",
-      "summary": "В Беларуси с 1 ноября 2026 года повышены размеры бюджета прожиточного минимума. Также увеличены пособия по уходу за пожилыми и инвалидами, государственная адресная социальная помощь и пособия семьям с детьми.",
-      "category": "life",
-      "region": "Беларусь",
-      "sources": [
-        "www.belta.by"
-      ],
-      "links": [
-        "https://belta.by/society/view/v-belarusi-povysilis-razmery-bjudzheta-prozhitochnogo-minimuma-808771-2026/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-01",
-      "id": "ed0a673aa247"
-    },
-    {
-      "title_ru": "В Нижегородской области женщина пострадала от обломков БПЛА",
-      "title_en": "В Нижегородской области из-за падения обломков БПЛА пострадала женщина",
-      "date": "2026-11-01",
-      "summary": "В Нижегородской области России 1 ноября 2026 года женщина получила травмы из-за падения обломков беспилотного летательного аппарата. Произошло это во время массовой атаки дронов на регион.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/proisshestviya/28276003"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-01",
-      "id": "87e03bc85e28"
-    },
-    {
-      "title_ru": "Северная Корея испытала кассетную боеголовку для тактических баллистических ракет",
-      "title_en": "N. Korea tests cluster bomb mountable on tactical ballistic missiles",
-      "date": "2026-11-01",
-      "summary": "Северная Корея провела испытания кассетной боеголовки, которую можно устанавливать на тактические баллистические ракеты. Тест проведен в рамках военной программы Ким Чен Ына.",
-      "category": "conflicts",
-      "region": "Северная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261101000451315"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-01",
-      "id": "d19d18ce6655"
-    },
-    {
-      "title_ru": "В Германии прошли протесты против роста стоимости жизни",
-      "title_en": "Shops looted as German cost of living protests turn violent",
-      "date": "2026-11-01",
-      "summary": "В Германии 1 ноября 2026 года прошли протесты против роста стоимости жизни, которые переросли в беспорядки. В 34 городах страны молодежь поколения Z вышла на акции, в ходе некоторых из них произошли грабежи магазинов.",
-      "category": "politics",
-      "region": "Германия",
-      "sources": [
-        "feeds.bbci.co.uk"
-      ],
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-01",
-      "id": "d0d4ef8bb473"
-    },
-    {
-      "title_ru": "Марсианская пыль опасна для астронавтов, показал марсоход Perseverance",
-      "title_en": "Perseverance показал, что марсианская пыль опасна для высаживающихся на нем астронавтов",
-      "date": "2026-11-01",
-      "summary": "Марсоход Perseverance NASA предоставил данные, показывающие, что марсианская пыль представляет опасность для астронавтов, которые будут высаживаться на планете. Исследование опубликовано 1 ноября 2026 года.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/astronomy/marsianskaya-pyl-opasna-astronavtov"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-01",
-      "id": "4c5589855112"
-    },
-    {
-      "title_ru": "Редкий перец Voatsiperifery под угрозой из-за вырубки лесов на Мадагаскаре",
-      "title_en": "Prized Voatsiperifery pepper at risk as forests in Madagascar face destruction",
-      "date": "2026-11-01",
-      "summary": "Редкий перец Voatsiperifery, произрастающий на Мадагаскаре, находится под угрозой исчезновения из-за вырубки лесов. Этот ценный сорт перца собирают с диких лиан в тропических лесах острова.",
-      "category": "ecology",
-      "region": "Мадагаскар",
-      "sources": [
-        "www.taipeitimes.com"
-      ],
-      "links": [
-        "https://www.taipeitimes.com/News/world/archives/2026/11/01/2003866970"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-01",
-      "id": "7318d82fb925"
-    },
-    {
       "title_ru": "Турция выбрала подрядчиков для 7 ветроэнергетических проектов по программе YEKA",
       "title_en": "Türkiye selects contractors for 7 wind power projects under YEKA",
       "date": "2026-11-02",
@@ -238,23 +119,6 @@
       "id": "b2e941175dde"
     },
     {
-      "title_ru": "Иран передал в ИМО доказательства атак США и Израиля на порты и морскую инфраструктуру",
-      "title_en": "Exclusive | Iran submits evidence of US-Israeli attacks on ports, maritime infrastructure to IMO",
-      "date": "2026-11-01",
-      "summary": "Иран представил Международной морской организации доказательства атак США и Израиля на иранские порты и морскую инфраструктуру. Документы включают материалы о повреждениях объектов.",
-      "category": "conflicts",
-      "region": "Иран",
-      "sources": [
-        "en.irna.ir"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86309209/Exclusive-Iran-submits-evidence-of-US-Israeli-attacks-on-ports"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-01",
-      "id": "be9759749025"
-    },
-    {
       "title_ru": "Песков: возобновить транзит российского газа через Украину пока невозможно",
       "title_en": "Peskov: возобновить транзит российского газа через Украину пока невозможно",
       "date": "2026-11-02",
@@ -304,40 +168,6 @@
       "is_development": false,
       "first_reported": "2026-11-02",
       "id": "cf4e0d9329e9"
-    },
-    {
-      "title_ru": "Иранский дипломат высмеял европейские опасения по поводу экономических последствий атак США и Израиля",
-      "title_en": "Iranian envoy derides European concerns over economic fallout of US-Israeli aggression",
-      "date": "2026-11-01",
-      "summary": "Иранский дипломат отверг европейские опасения по поводу экономических последствий атак США и Израиля против Ирана. Представитель заявил, что Европа должна сосредоточиться на прекращении поддержки агрессии.",
-      "category": "statement",
-      "region": "Иран",
-      "sources": [
-        "en.irna.ir"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86309407/Iranian-envoy-derides-European-concerns-over-economic-fallout"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-01",
-      "id": "231216195267"
-    },
-    {
-      "title_ru": "Фотограф запечатлел Международную космическую станцию и Юпитер в одном кадре",
-      "title_en": "Photographer Captures International Space Station and Jupiter in the Same Frame",
-      "date": "2026-11-01",
-      "summary": "Фотографу удалось сделать снимок, на котором одновременно видны Международная космическая станция и планета Юпитер. Кадр сделан с длинной выдержкой и демонстрирует движение станции на фоне звезд.",
-      "category": "photo",
-      "region": "Мир",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/11/01/photographer-captures-international-space-station-and-jupiter-in-the-same-frame/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-01",
-      "id": "e790840d7e5a"
     },
     {
       "title_ru": "Сеть атомных часов зафиксировала, как притяжение Луны и Солнца изменило ход времени на Земле",
@@ -559,23 +389,6 @@
       "is_development": false,
       "first_reported": "2026-11-04",
       "id": "bdbdddb45eba"
-    },
-    {
-      "title_ru": "Венгрия отменяет местные взносы в региональный фонд развития",
-      "title_en": "Government to scrap local contribution to regional development fund",
-      "date": "2026-11-01",
-      "summary": "Правительство Венгрии приняло решение отменить местные взносы в региональный фонд развития. Решение направлено на изменение системы финансирования региональных проектов.",
-      "category": "politics",
-      "region": "Венгрия",
-      "sources": [
-        "budapesttimes.hu"
-      ],
-      "links": [
-        "https://www.budapesttimes.hu/hungary/government-to-scrap-local-contribution-to-regional-development-fund/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-01",
-      "id": "4f8fd6cb3b1b"
     },
     {
       "title_ru": "В ЮАР снизились цены на топливо",
@@ -3035,10 +2848,335 @@
       "is_development": false,
       "first_reported": "2026-11-06",
       "id": "34559e4c6e53"
+    },
+    {
+      "title_ru": "Сильное землетрясение в центральной Японии, пострадали не менее 22 человек",
+      "title_en": "Strong earthquake hits central Japan, injuring at least 22",
+      "date": "2026-11-08",
+      "summary": "Землетрясение магнитудой 5,7 произошло в центральной Японии. В результате пострадали не менее 22 человек, повреждены витрины магазинов.",
+      "category": "life",
+      "region": "Япония",
+      "sources": [
+        "www.taipeitimes.com",
+        "www.dailysabah.com",
+        "en.mehrnews.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/front/archives/2026/11/09/2003867401",
+        "https://www.dailysabah.com/world/asia-pacific/at-least-22-wounded-when-strong-earthquake-rocks-central-japan",
+        "https://en.mehrnews.com/news/249240/VIDEO-A-5-7-magnitude-jolts-Japan-dozens-injured"
+      ],
+      "first_reported": "2026-11-08",
+      "id": "45854dcf1349"
+    },
+    {
+      "title_ru": "Корейская Kia впервые за 12 лет выполнит годовой план продаж",
+      "title_en": "Kia expected to meet annual sales target for 1st time in 12 yrs: industry data",
+      "date": "2026-11-08",
+      "summary": "Kia Corp. ожидает выполнения годового плана продаж впервые за 12 лет, согласно данным индустрии.",
+      "category": "economy",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261108001100320"
+      ],
+      "first_reported": "2026-11-08",
+      "id": "158194106eff"
+    },
+    {
+      "title_ru": "Российские силы нанесли удар по подстанции, питающей украинские оборонные предприятия",
+      "title_en": "Russian forces hit Kamenskaya substation feeding Ukrainian defense enterprises",
+      "date": "2026-11-08",
+      "summary": "Российские силы поразили Каменскую подстанцию, питающую оборонные предприятия Украины в Днепропетровской области.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/defense/2214489"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-08",
+      "id": "da2dc06fd8ea"
+    },
+    {
+      "title_ru": "Российские силы поразили два судна с грузами для украинской армии",
+      "title_en": "Russian forces hit two vessels with weapons, cargoes for Ukrainian army",
+      "date": "2026-11-08",
+      "summary": "Российские силы нанесли удары по судам и грузам двойного назначения в порту Черноморск и в Черном море к юго-западу от Одессы.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/defense/2214487"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-08",
+      "id": "519fd1ace857"
+    },
+    {
+      "title_ru": "Украинские силы нанесли удар по центру Луганска, пострадавших нет",
+      "title_en": "Ukrainian forces strike central Lugansk again as rescuers work — law enforcers",
+      "date": "2026-11-09",
+      "summary": "Украинские силы нанесли удар по центру Луганска. Боевая часть второго дрона не сдетонировала, пострадавших нет.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/politics/2214759"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-09",
+      "id": "1b4922bf6f68"
+    },
+    {
+      "title_ru": "В Киеве ликвидировали пожары после атаки российских дронов",
+      "title_en": "У Києві ліквідували пожежі після атаки російських дронів",
+      "date": "2026-11-09",
+      "summary": "В Киеве спасатели ликвидировали пожары, вызванные российской атакой утром 9 ноября.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "www.ukrinform.ua"
+      ],
+      "links": [
+        "https://www.ukrinform.ua/rubric-regions/4182913-u-kievi-likviduvali-pozezi-pisla-ataki-rosijskih-droniv.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-09",
+      "id": "aa6fad711056"
+    },
+    {
+      "title_ru": "КСИР предупредил о 'меняющих правила игры' сюрпризах в случае новой агрессии против Ирана",
+      "title_en": "IRGC Aerospace Force to unleash 'game-changing' surprises if Iran attacked again: Spokesman",
+      "date": "2026-11-07",
+      "summary": "КСИР предупредил, что в случае третьей волны неспровоцированной агрессии против Ирана Воздушно-космические силы Корпуса раскроют свои сюрпризные возможности.",
+      "category": "conflicts",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/11/07/780150/irgc-aerospace-force-to-unleash-game-changing-surprises-in-the-event-of-fresh-aggression-spokesman"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-07",
+      "id": "bb67b402917a"
+    },
+    {
+      "title_ru": "КСИР предупредил о более жестком ответе в случае атак США на иранские суда",
+      "title_en": "IRGC warns it will 'hit harder' if US attacks Iran's vessels",
+      "date": "2026-11-08",
+      "summary": "Представитель КСИР генерал Мохеби предупредил о более жестком ответе в случае атак США на иранские суда.",
+      "category": "conflicts",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/11/08/780257/irgc-vows-to-hit-harder-if-us-attacks-irans-vessels"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-08",
+      "id": "f1efe2217622"
+    },
+    {
+      "title_ru": "Иранские эксперты проводят реверс-инжиниринг захваченного американского военного оборудования",
+      "title_en": "Iran reverse-engineering captured US military equipment: IRGC adviser",
+      "date": "2026-11-08",
+      "summary": "Советник Воздушно-космических сил КСИР заявил, что иранские эксперты проводят реверс-инжиниринг американского оборудования, захваченного во время 40-дневной навязанной войны.",
+      "category": "conflicts",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/11/08/780263/iran-reverse-engineering-captured-us-equipment-irgc-adviser"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-08",
+      "id": "a8a8840278cd"
+    },
+    {
+      "title_ru": "Политическая напряженность в Польше обострилась после атаки в Кракове",
+      "title_en": "En Pologne, les tensions politiques exacerbées après l'attaque de Cracovie",
+      "date": "2026-11-09",
+      "summary": "В Польше политическая напряженность обострилась после атаки в Кракове. Нападавший умер от полученных ран в больнице.",
+      "category": "politics",
+      "region": "Польша",
+      "sources": [
+        "www.france24.com"
+      ],
+      "links": [
+        "https://www.france24.com/fr/europe/20261109-pologne-tensions-politiques-exacerb%C3%A9es-apr%C3%A8s-attaque-cracovie-extreme-droite-tusk"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-09",
+      "id": "022671a79a8c"
+    },
+    {
+      "title_ru": "Прокуроры обвинили президента Парагвая в коррупции после краха банка",
+      "title_en": "How a Bank Implosion in Paraguay Ensnared a President",
+      "date": "2026-11-09",
+      "summary": "Прокуроры обвинили президента Парагвая Сантьяго Пенью в переводе почти миллиарда долларов государственных средств в банк Уэно, пока его руководители выдавали безрассудные инсайдерские кредиты.",
+      "category": "politics",
+      "region": "Парагвай",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-09",
+      "id": "6922ae2fa808"
+    },
+    {
+      "title_ru": "Мэр Хьюстона заявил, что полиция больше не будет вызывать ICE, если обвинения не предусматривают тюремного заключения",
+      "title_en": "Houston mayor says police will no longer call ICE unless charges are jailable",
+      "date": "2026-11-07",
+      "summary": "Мэр Хьюстона издал приказ, согласно которому полиция больше не будет вызывать ICE, если обвинения не предусматривают тюремного заключения. Приказ последовал после выборов, на которых демократы выиграли все государственные должности.",
+      "category": "politics",
+      "region": "США",
+      "sources": [
+        "feeds.washingtonpost.com"
+      ],
+      "links": [
+        "https://www.washingtonpost.com/nation/2026/11/07/houston-mayor-says-police-will-no-longer-call-ice-unless-charges-are-jailable/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-07",
+      "id": "a2c00fdf8a6a"
+    },
+    {
+      "title_ru": "Африка должна переключиться с импорта на промышленность для роста автопрома",
+      "title_en": "Africa must shift gears from imports to industry",
+      "date": "2026-11-08",
+      "summary": "Автомобильный сектор Африки обладает значительным потенциалом роста, но для его раскрытия необходимо превратить торговые рамки АфКФТА в интегрированные региональные цепочки создания стоимости, местные производственные центры и квалифицированные рабочие места.",
+      "category": "economy",
+      "region": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/thought-leader/2026-11-08-africa-must-shift-gears-from-imports-to-industry/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-08",
+      "id": "5ad78d191d5d"
+    },
+    {
+      "title_ru": "Израильский комиссар полиции обратился к генпрокурору из-за замороженных назначений старших офицеров",
+      "title_en": "Israel Police chief turns to A-G over stalled senior appointments, bypassing Ben-Gvir",
+      "date": "2026-11-09",
+      "summary": "Комиссар полиции Израиля Дани Леви попросил генпрокурора Бахарав-Миару разрешить продвижение назначений старших офицеров полиции без подписи министра Бен-Гвира.",
+      "category": "politics",
+      "region": "Израиль",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/israel-news/article-914305"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-09",
+      "id": "84122a2bf10a"
+    },
+    {
+      "title_ru": "Израильские, российские и связанные с MAGA аккаунты усилили 'враждебные нарративы' о беспорядках во Франции",
+      "title_en": "Israeli, Russian, MAGA-linked accounts amplified 'hostile narratives' on France riots, reports say",
+      "date": "2026-11-09",
+      "summary": "Согласно оценке, 10 самых просматриваемых постов в X от израильских чиновников, правительственных аккаунтов, СМИ и инфлюенсеров связывали беспорядки с радикальным исламизмом и миграцией.",
+      "category": "politics",
+      "region": "Израиль",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/international/article-914306"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-09",
+      "id": "1cf5549bceff"
+    },
+    {
+      "title_ru": "Credit Saison и АБР будут сотрудничать по кредитам для малого бизнеса Азии",
+      "title_en": "Credit Saison, ADB to partner on loans for Asia's small businesses",
+      "date": "2026-11-09",
+      "summary": "Японская компания Credit Saison и Азиатский банк развития договорились о партнерстве по предоставлению кредитов для малого бизнеса в Азии.",
+      "category": "economy",
+      "region": "Азия",
+      "sources": [
+        "asia.nikkei.com"
+      ],
+      "links": [
+        "https://asia.nikkei.com/business/finance/credit-saison-adb-to-partner-on-loans-for-asia-s-small-businesses"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-09",
+      "id": "f817c5e989d4"
+    },
+    {
+      "title_ru": "Авторы могут защищаться от обвинений в использовании ИИ с помощью инструментов 'бумажного следа'",
+      "title_en": "Authors Can Defend Against AI Allegations With 'Paper Trail' Tools. Is It Enough?",
+      "date": "2026-11-09",
+      "summary": "Поскольку издательская индустрия борется с паранойей относительно происхождения рукописей, писатели оказались в невозможной ситуации. Авторы могут использовать инструменты 'бумажного следа' для защиты от обвинений в использовании ИИ.",
+      "category": "ai",
+      "region": "США",
+      "sources": [
+        "www.wired.com"
+      ],
+      "links": [
+        "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-09",
+      "id": "3482215ad907"
+    },
+    {
+      "title_ru": "Эти роботизированные руки работают на водорослях",
+      "title_en": "These Robotic Arms Are Powered by Algae. Watch How They Move",
+      "date": "2026-11-09",
+      "summary": "Ключом к движению этих гибких роботов являются фотосинтетические способности водорослей. Роботизированные руки сделаны из водорослей.",
+      "category": "tech",
+      "region": "США",
+      "sources": [
+        "www.wired.com"
+      ],
+      "links": [
+        "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-09",
+      "id": "ffdcc67076b9"
+    },
+    {
+      "title_ru": "Кофе вывел женщин из группы риска по слабоумию",
+      "title_en": "Кофе вывел женщин из группы риска по слабоумию",
+      "date": "2026-11-09",
+      "summary": "Десятилетия наблюдений за большим числом людей показали, что кофе снижает риск развития слабоумия у женщин.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/medicine/kofe-vyvel-zhenshhin-iz"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-09",
+      "id": "44edb5cf86e7"
     }
   ],
   "_stats": {
-    "total_tokens": 893331,
-    "total_cost": 56.65707999999998
+    "total_tokens": 910761,
+    "total_cost": 57.77349999999998
   }
 }
