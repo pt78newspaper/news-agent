@@ -17,142 +17,6 @@
       "id": "6a433d7a6e57"
     },
     {
-      "title_ru": "Сеть атомных часов зафиксировала, как притяжение Луны и Солнца изменило ход времени на Земле",
-      "title_en": "Network of atomic clocks detects how Moon and Sun gravity changed time on Earth",
-      "date": "2026-11-03",
-      "summary": "Международная сеть атомных часов зафиксировала изменение хода времени на Земле под влиянием гравитационного притяжения Луны и Солнца. Это первое прямое измерение релятивистских эффектов от лунно-солнечного притяжения на временную шкалу.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/physics/prityazhenie-izmenilo-hod-vremeni"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-03",
-      "id": "3d8667a5661b"
-    },
-    {
-      "title_ru": "В Южной Корее акции упали более чем на 3% на фоне обострения проблем с ИИ",
-      "title_en": "Seoul shares dip over 3 pct amid escalating AI woes",
-      "date": "2026-11-03",
-      "summary": "Фондовый рынок Южной Кореи снизился более чем на 3% из-за обострения проблем в секторе искусственного интеллекта. Падение произошло на фоне растущих опасений инвесторов относительно технологических компаний.",
-      "category": "ai",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261103007952320"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-03",
-      "id": "9c8fb67b17f1"
-    },
-    {
-      "title_ru": "В Бангладеш протесты работников швейной промышленности продолжаются четвертый день",
-      "title_en": "Bangladesh garment workers wage protests enter 4th day",
-      "date": "2026-11-03",
-      "summary": "В Бангладеш протесты работников швейной промышленности за повышение заработной платы продолжаются четвертый день. Акции сопровождались столкновениями с полицией.",
-      "category": "life",
-      "region": "Бангладеш",
-      "sources": [
-        "www.dailysabah.com"
-      ],
-      "links": [
-        "https://www.dailysabah.com/world/asia-pacific/bangladesh-garment-workers-wage-protests-enter-4th-day"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-03",
-      "id": "368161ad0d35"
-    },
-    {
-      "title_ru": "В Австралии суд рассматривает иск против запрета соцсетей для лиц младше 16 лет",
-      "title_en": "Australian Court Hears Challenge to Social Media Ban",
-      "date": "2026-11-03",
-      "summary": "Верховный суд Австралии рассматривает иск против закона, запрещающего лицам младше 16 лет доступ к социальным сетям. Платформы Reddit и другие оспаривают законодательство как 'непродуманное'.",
-      "category": "life",
-      "region": "Австралия",
-      "sources": [
-        "rss.nytimes.com"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/11/03/world/asia/australia-social-media-ban-high-court.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-03",
-      "id": "d4997d125672"
-    },
-    {
-      "title_ru": "Лукашенко предложил провести мирные переговоры по Украине в Минске",
-      "title_en": "Lukashenko proposes to hold peace talks on Ukraine in Minsk",
-      "date": "2026-11-03",
-      "summary": "Президент Белоруссии Александр Лукашенко предложил провести мирные переговоры по Украине в Минске. Он заявил, что Белоруссия хочет скорейшего решения конфликта.",
-      "category": "svo",
-      "region": "Белоруссия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9079807"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-03",
-      "id": "2853d54b531d"
-    },
-    {
-      "title_ru": "Лавров объяснил, что для России означает равная безопасность с Западом",
-      "title_en": "Lavrov explains what equal security with West means for Russia",
-      "date": "2026-11-03",
-      "summary": "Министр иностранных дел России Сергей Лавров заявил, что равная безопасность с Западом для России означает отсутствие угроз от военной инфраструктуры НАТО у границ. Он также отметил, что Киев не будет отменять законы о русском языке.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20261103/lavrov-2128934516.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-03",
-      "id": "947bcef982d8"
-    },
-    {
-      "title_ru": "Путин включил вице-премьера Кожемяко в состав Совета безопасности",
-      "title_en": "Putin includes Deputy Prime Minister Kozhemyako in Security Council",
-      "date": "2026-11-03",
-      "summary": "Президент России Владимир Путин включил вице-премьера - полномочного представителя на Дальнем Востоке Олега Кожемяко в состав Совета безопасности РФ. Решение оформлено соответствующим указом.",
-      "category": "politics",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9079760"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-03",
-      "id": "b0e956d8fbf0"
-    },
-    {
-      "title_ru": "В ЮАР оспаривают решение Трампа по AGOA",
-      "title_en": "SA challenges Trump's AGOA decision",
-      "date": "2026-11-03",
-      "summary": "Южноафриканские власти оспаривают решение администрации Трампа по программе AGOA (Закон о росте и возможностях Африки). Речь идет о торговых преференциях для африканских стран.",
-      "category": "politics",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-11-03-sa-challenges-trump-s-agoa-decision/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-03",
-      "id": "7d990309e6f6"
-    },
-    {
       "title_ru": "IDF начинает модернизацию барьера на границе с Газой с использованием новых технологий",
       "title_en": "IDF begins upgrading Gaza border barrier with new technology, infrastructure",
       "date": "2026-11-04",
@@ -168,23 +32,6 @@
       "is_development": false,
       "first_reported": "2026-11-04",
       "id": "bdbdddb45eba"
-    },
-    {
-      "title_ru": "В ЮАР снизились цены на топливо",
-      "title_en": "Drop in fuel price",
-      "date": "2026-11-03",
-      "summary": "В Южно-Африканской Республике зафиксировано снижение цен на топливо. Изменение затрагивает потребителей и предприятия страны.",
-      "category": "life",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-11-03-drop-in-fuel-price/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-03",
-      "id": "52a489ea20dd"
     },
     {
       "title_ru": "Кибератаки нарушили работу холодильников в супермаркетах Европы",
@@ -304,23 +151,6 @@
       "is_development": false,
       "first_reported": "2026-11-04",
       "id": "5470929965f9"
-    },
-    {
-      "title_ru": "Азиатский кубок в Саудовской Аравии перенесен из-за конфликта на Ближнем Востоке",
-      "title_en": "Asian Cup postponed due to Middle East conflict",
-      "date": "2026-11-03",
-      "summary": "Футбольный турнир Азиатский кубок, который должен был пройти в Саудовской Аравии, перенесен на неопределенный срок. Причиной переноса стал конфликт на Ближнем Востоке.",
-      "category": "life",
-      "region": "Саудовская Аравия",
-      "sources": [
-        "rss.dw.com"
-      ],
-      "links": [
-        "https://www.dw.com/en/asian-cup-postponed-due-to-middle-east-conflict/a-79837334?maca=en-rss-en-all-1573-xml-mrss"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-03",
-      "id": "d3808e71f153"
     },
     {
       "title_ru": "В Иране прошли митинги в память о событиях 13 Абана",
@@ -780,23 +610,6 @@
       "is_development": true,
       "first_reported": "2026-11-04",
       "id": "f1299aec0c54"
-    },
-    {
-      "title_ru": "Суд отменил лицензию Sizekhaya на проведение национальной лотереи в ЮАР",
-      "title_en": "Court sets aside Sizekhaya's National Lottery licence",
-      "date": "2026-11-03",
-      "summary": "Высокий суд Северного Гаутенга отменил решение о выдаче лицензии на проведение Четвертой национальной лотереи компании Sizekhaya Holdings. Суд признал, что министр Паркс Тау создал незаконный параллельный оценочный комитет.",
-      "category": "politics",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-11-03-court-sets-aside-sizekhaya-s-national-lottery-licence/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-03",
-      "id": "30f8defc0340"
     },
     {
       "title_ru": "Две избирательные станции в Квазулу-Натале закрыты после кражи бюллетеней",
@@ -3258,10 +3071,186 @@
       "is_development": false,
       "first_reported": "2026-11-09",
       "id": "19c7117a8a41"
+    },
+    {
+      "title_ru": "X-energy получила разрешение на строительство первых малых модульных ядерных реакторов",
+      "title_en": "X-energy gets green light to build its first small modular nuclear reactors",
+      "date": "2026-11-10",
+      "summary": "Компания X-energy получила разрешение на строительство от Комиссии по ядерному регулированию США. Разрешение позволяет построить четыре реактора в Техасе.",
+      "category": "tech",
+      "region": "США",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/"
+      ],
+      "first_reported": "2026-11-10",
+      "id": "3860128c9879"
+    },
+    {
+      "title_ru": "Южная Корея выделила $20 млн на проекты ИИ в Азиатском банке развития",
+      "title_en": "S. Korea pledges US$20 mln to ADB fund for AI projects",
+      "date": "2026-11-11",
+      "summary": "Южная Корея обязалась внести 20 миллионов долларов США в фонд Азиатского банка развития для проектов в области искусственного интеллекта. Средства будут направлены на поддержку инициатив в сфере ИИ.",
+      "category": "ai",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261111009000320"
+      ],
+      "first_reported": "2026-11-11",
+      "id": "bf26e2eaa70c"
+    },
+    {
+      "title_ru": "Спрос на новостройки Москвы снизился на 63% за год",
+      "title_en": "\"Metrium\": spros na novostroyki Moskvy snizilsya na 63% za god",
+      "date": "2026-11-11",
+      "summary": "По данным компании \"Метриум\", спрос на новостройки в Москве упал на 63% за год. Клиенты быстрее раскупают наиболее доступные объекты, укладывающиеся в лимиты семейной ипотеки.",
+      "category": "life",
+      "region": "Россия",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/nedvizhimost/28306541"
+      ],
+      "first_reported": "2026-11-11",
+      "id": "a34d3db6dbe5"
+    },
+    {
+      "title_ru": "В Испании прошла первая за 14 лет всеобщая забастовка из-за жилищного кризиса",
+      "title_en": "Spain roiled by first general strike in 14 years",
+      "date": "2026-11-11",
+      "summary": "Профсоюзы организовали всеобщую забастовку в Испании из-за роста стоимости жилья и низких зарплат. Кризис стал главной темой политических дебатов перед досрочными выборами 29 ноября.",
+      "category": "life",
+      "region": "Испания",
+      "sources": [
+        "www.ft.com"
+      ],
+      "links": [
+        "https://www.ft.com/content/d93d41fc-943c-449b-948c-57a4464f564f?syn-25a6b1a6=1"
+      ],
+      "first_reported": "2026-11-11",
+      "id": "2912ca86a6d4"
+    },
+    {
+      "title_ru": "Протестующие забросали молоком Джо Байдена во время визита в Дублин",
+      "title_en": "Two arrested after protesters throw milk at Joe Biden during Trinity College Dublin visit",
+      "date": "2026-11-11",
+      "summary": "Полиция арестовала двух мужчин после того, как протестующие забросали молоком бывшего президента США Джо Байдена в Дублине. Инцидент произошел во время визита Байдена в Тринити-колледж.",
+      "category": "conflicts",
+      "region": "Ирландия",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/international/article-914559"
+      ],
+      "first_reported": "2026-11-11",
+      "id": "ad0df55db51d"
+    },
+    {
+      "title_ru": "Иранский танкер подорвался на морской мине к востоку от Ормузского пролива",
+      "title_en": "Violating oil tanker catches fire east of Strait of Hormuz: Iran Army",
+      "date": "2026-11-11",
+      "summary": "Иранская армия сообщила, что нефтяной танкер, нарушивший навигационные ограничения, загорелся после столкновения с морской миной к востоку от Ормузского пролива.",
+      "category": "conflicts",
+      "region": "Иран",
+      "sources": [
+        "en.irna.ir"
+      ],
+      "links": [
+        "https://en.irna.ir/news/86318775/Violating-oil-tanker-catches-fire-east-of-Strait-of-Hormuz-Iran"
+      ],
+      "first_reported": "2026-11-11",
+      "id": "fb31c4ee7556"
+    },
+    {
+      "title_ru": "Лавров: Россия не согласится на немедленное прекращение конфликта на Украине",
+      "title_en": "Lavrov: Russia ne soglasitsya na nemедlennoe prekrashchenie konflikta na Ukraine",
+      "date": "2026-11-10",
+      "summary": "Министр иностранных дел РФ Сергей Лавров заявил, что Россия не согласится на предложение Европы о немедленном прекращении конфликта на Украине. По его словам, призывы европейских политиков направлены на ослабление позиций России.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9093743"
+      ],
+      "first_reported": "2026-11-10",
+      "id": "50378c6939f6"
+    },
+    {
+      "title_ru": "Испания возобновила импорт российского СПГ после перерыва",
+      "title_en": "Ispaniya vozobnovila import rossiyskogo SPG posle pereryva",
+      "date": "2026-11-11",
+      "summary": "Испания в октябре возобновила импорт российского сжиженного природного газа после первого за пять лет перерыва в сентябре. Данные предоставил оператор испанской газотранспортной системы Enagas.",
+      "category": "economy",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9094339"
+      ],
+      "first_reported": "2026-11-11",
+      "id": "56527666db7c"
+    },
+    {
+      "title_ru": "Производство стали и проката в России сократилось в октябре на 2–4,7%",
+      "title_en": "Proizvodstvo stali i prokata v oktyabre sokratilos na 2–4,7%",
+      "date": "2026-11-11",
+      "summary": "По предварительным данным корпорации \"Чермет\", выпуск стали в России сократился в октябре на 2% в годовом исчислении и на 1,8% к сентябрю. Производство проката упало на 4,7% год к году.",
+      "category": "economy",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9094071"
+      ],
+      "first_reported": "2026-11-11",
+      "id": "7f18358ec1a0"
+    },
+    {
+      "title_ru": "Президент ЮАР утвердил повышение зарплат госслужащим на 4%",
+      "title_en": "Cosatu decries public office-bearers’ salary increases as excessive",
+      "date": "2026-11-11",
+      "summary": "Президент ЮАР Сирил Рамафоса утвердил повышение зарплат политикам, традиционным лидерам и судьям до 4%. Решение вызвало критику со стороны профсоюзной федерации Cosatu.",
+      "category": "politics",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-11-11-cosatu-decries-public-office-bearers-salary-increases-as-excessive/"
+      ],
+      "first_reported": "2026-11-11",
+      "id": "459efbe44762"
+    },
+    {
+      "title_ru": "Рубио: США намерены как можно скорее прекратить оплачивать оружие для Израиля",
+      "title_en": "Rubio: SShA namereny kak mozhno skoree prekratit oplachivat oruzhie dlya Izrailya",
+      "date": "2026-11-10",
+      "summary": "Госсекретарь США Марко Рубио заявил, что администрация президента Дональда Трампа намерена быстрее свернуть программу военного финансирования Израиля в размере 4 миллиардов долларов. Заявление сделано в Париже.",
+      "category": "politics",
+      "region": "США",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9093305"
+      ],
+      "first_reported": "2026-11-10",
+      "id": "a7654ded0801"
     }
   ],
   "_stats": {
-    "total_tokens": 930146,
-    "total_cost": 59.01487999999998
+    "total_tokens": 948132,
+    "total_cost": 60.141619999999975
   }
 }
