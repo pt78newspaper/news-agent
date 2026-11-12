@@ -17,329 +17,6 @@
       "id": "6a433d7a6e57"
     },
     {
-      "title_ru": "IDF начинает модернизацию барьера на границе с Газой с использованием новых технологий",
-      "title_en": "IDF begins upgrading Gaza border barrier with new technology, infrastructure",
-      "date": "2026-11-04",
-      "summary": "Армия обороны Израиля начала модернизацию барьера на границе с сектором Газа. Работы включают внедрение новых технологий и инфраструктурных решений для усиления пограничной системы.",
-      "category": "tech",
-      "region": "Израиль",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/israel-news/defense-news/article-913772"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "bdbdddb45eba"
-    },
-    {
-      "title_ru": "Кибератаки нарушили работу холодильников в супермаркетах Европы",
-      "title_en": "Cyberattacks leave supermarket fridges across Europe running hot",
-      "date": "2026-11-04",
-      "summary": "Кибератаки на супермаркеты в Европе привели к сбоям в работе холодильного оборудования. Инциденты затронули торговые сети в нескольких странах.",
-      "category": "conflicts",
-      "region": "Европа",
-      "sources": [
-        "www.dailysabah.com"
-      ],
-      "links": [
-        "https://www.dailysabah.com/business/tech/cyberattacks-leave-supermarket-fridges-across-europe-running-hot"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "b5f85db8ec1c"
-    },
-    {
-      "title_ru": "В ЛНР при ударах ВСУ погибли два человека",
-      "title_en": "В ЛНР за сутки при ударах ВСУ погибли два человека",
-      "date": "2026-11-04",
-      "summary": "В Луганской Народной Республике в результате ударов Вооруженных сил Украины погибли два человека. Инцидент произошел за последние сутки.",
-      "category": "svo",
-      "region": "ЛНР",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20261104/lnr-2129170576.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "fa1de9cfd3e9"
-    },
-    {
-      "title_ru": "В Запорожской области при атаке БПЛА нарушено электроснабжение",
-      "title_en": "В Запорожской области при атаке БПЛА нарушено электроснабжение",
-      "date": "2026-11-04",
-      "summary": "В Запорожской области в результате атаки беспилотного летательного аппарата произошло нарушение электроснабжения. Инцидент затронул объекты инфраструктуры региона.",
-      "category": "svo",
-      "region": "Запорожская область",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/proisshestviya/28285567"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "2241dc29dfc4"
-    },
-    {
-      "title_ru": "Инфляция в еврозоне достигла 4% впервые за три года",
-      "title_en": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
-      "date": "2026-11-04",
-      "summary": "Уровень инфляции в еврозоне достиг 4% в октябре 2026 года. Это произошло впервые за три года на фоне ожиданий повышения процентных ставок.",
-      "category": "economy",
-      "region": "Еврозона",
-      "sources": [
-        "www.cnbc.com"
-      ],
-      "links": [
-        "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "33cffebaeda2"
-    },
-    {
-      "title_ru": "В ЮАР проходят местные выборы",
-      "title_en": "LIVE: Local government elections",
-      "date": "2026-11-04",
-      "summary": "В Южно-Африканской Республике 4 ноября 2026 года проходят выборы в местные органы власти. Голосование рассматривается как проверка управленческой компетентности действующей власти.",
-      "category": "politics",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-11-04-live-local-government-elections/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "dfafc10a6095"
-    },
-    {
-      "title_ru": "Трамп заявил, что не намерен применять ядерное оружие против Ирана",
-      "title_en": "Трамп заявил, что не намерен применять ядерное оружие против Ирана",
-      "date": "2026-11-04",
-      "summary": "Президент США Дональд Трамп заявил, что не видит необходимости в применении ядерного оружия против Ирана. Заявление сделано в контексте международных отношений между странами.",
-      "category": "statement",
-      "region": "США",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/mezhdunarodnaya-panorama/28285775"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "3417eb7d175e"
-    },
-    {
-      "title_ru": "В Венгрии уволен глава института из-за нераскрытых контрактов с предыдущим режимом",
-      "title_en": "Government sacks institute chief over undisclosed contracts with previous regime",
-      "date": "2026-11-04",
-      "summary": "Правительство Венгрии уволило руководителя института из-за нераскрытых контрактов с предыдущим политическим режимом. Решение принято в рамках проверки деятельности учреждения.",
-      "category": "politics",
-      "region": "Венгрия",
-      "sources": [
-        "budapesttimes.hu"
-      ],
-      "links": [
-        "https://www.budapesttimes.hu/diplomacy/government-sacks-institute-chief-over-undisclosed-contracts-with-previous-regime/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "5470929965f9"
-    },
-    {
-      "title_ru": "В Иране прошли митинги в память о событиях 13 Абана",
-      "title_en": "Aban 13 rallies kick off in Tehran",
-      "date": "2026-11-04",
-      "summary": "В Тегеране начались митинги в память о событиях 13 Абана. Мероприятия включают церемонии поминовения и шествия по улицам города.",
-      "category": "politics",
-      "region": "Иран",
-      "sources": [
-        "en.irna.ir"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86312008/Aban-13-rallies-kick-off-in-Tehran"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "94013b029c5d"
-    },
-    {
-      "title_ru": "Корпорация Hoban Construction стала крупнейшим акционером Hanjin KAL",
-      "title_en": "Hoban Construction emerges as Hanjin KAL's largest shareholder",
-      "date": "2026-11-04",
-      "summary": "Южнокорейская строительная компания Hoban Construction стала крупнейшим акционером авиакомпании Hanjin KAL. Сделка изменила структуру собственности компании.",
-      "category": "economy",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261104011000320"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "21518aab2998"
-    },
-    {
-      "title_ru": "В Иране заявили о готовности к беспрецедентному ответу на просчеты",
-      "title_en": "Iran chooses diplomacy, warns of unprecedented response to miscalculation: Official",
-      "date": "2026-11-04",
-      "summary": "Иранский официальный представитель заявил, что страна выбирает дипломатический путь, но предупредил о беспрецедентном ответе на любые просчеты. Заявление сделано в контексте международных отношений.",
-      "category": "conflicts",
-      "region": "Иран",
-      "sources": [
-        "en.irna.ir"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86311863/Iran-chooses-diplomacy-warns-of-unprecedented-response-to-miscalculation"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "790ba75b621c"
-    },
-    {
-      "title_ru": "В ЮАР приостановлен промысел сардин из-за массовой гибели рыбы от вируса",
-      "title_en": "Sardine fishing in South Africa on hold after mass mortality linked to virus",
-      "date": "2026-11-04",
-      "summary": "В Южно-Африканской Республике приостановлен промысел сардин после массовой гибели рыбы. Причиной гибели стал вирус, поразивший популяцию.",
-      "category": "life",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/the-green-guardian/2026-11-04-sardine-fishing-in-south-africa-on-hold-after-mass-mortality-linked-to-virus/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "9b733062b956"
-    },
-    {
-      "title_ru": "Израиль использует роботов в бою для снижения рисков для солдат",
-      "title_en": "Robots frequently used in battle to reduce risk to soldiers, IDF chief Zamir says",
-      "date": "2026-11-04",
-      "summary": "Начальник Генштаба Армии обороны Израиля генерал-лейтенант Херци Ха-Леви заявил, что израильские военные активно используют роботов в боевых операциях. Это позволяет снизить риски для личного состава при выполнении опасных задач.",
-      "category": "tech",
-      "region": "Израиль",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/israel-news/defense-news/article-913851"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "21e3b4ee49ed"
-    },
-    {
-      "title_ru": "Северная Корея запустила несколько ракет в сторону Японского моря",
-      "title_en": "N. Korea fires multiple missiles toward East Sea: JCS",
-      "date": "2026-11-04",
-      "summary": "Северная Корея осуществила запуск нескольких ракет в направлении Японского моря. Южнокорейский Объединенный комитет начальников штабов подтвердил факт пусков, детали о типах ракет не уточняются.",
-      "category": "conflicts",
-      "region": "Северная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261104005551315"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "f2dc354e3e29"
-    },
-    {
-      "title_ru": "Иран оценил торговый потенциал с Афганистаном в 10 млрд долларов",
-      "title_en": "Iran-Afghanistan trade potential estimated at $10 billion: Official",
-      "date": "2026-11-04",
-      "summary": "Иранский официальный представитель заявил, что торговый потенциал между Ираном и Афганистаном оценивается в 10 миллиардов долларов. Заявление сделано в контексте развития экономических отношений между странами.",
-      "category": "economy",
-      "region": "Иран",
-      "sources": [
-        "en.irna.ir"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86312534/Iran-Afghanistan-trade-potential-estimated-at-10-billion-Official"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "64df0f53c2b7"
-    },
-    {
-      "title_ru": "В Нью-Йорке женщина умерла во время марафона",
-      "title_en": "Woman collapses, dies while running New York City Marathon",
-      "date": "2026-11-04",
-      "summary": "Женщина скончалась во время участия в Нью-Йоркском марафоне после того, как потеряла сознание на трассе. Медицинские службы оказали помощь, но спасти участницу не удалось.",
-      "category": "life",
-      "region": "США",
-      "sources": [
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/world/article-new-york-city-marathon-death/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "e441cbacabb5"
-    },
-    {
-      "title_ru": "Представитель Ирана заявил о готовности к ответу на любые угрозы",
-      "title_en": "Top security official: Anyone who confronts Iran, will have to pay price for it",
-      "date": "2026-11-04",
-      "summary": "Высокопоставленный представитель иранских силовых структур заявил, что любая страна, которая вступит в конфронтацию с Ираном, заплатит за это высокую цену. Заявление сделано в контексте региональных напряжений.",
-      "category": "statement",
-      "region": "Иран",
-      "sources": [
-        "en.irna.ir"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86312862/Top-security-official-Anyone-who-confronts-Iran-will-have-to"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "2d85c8b1fc26"
-    },
-    {
-      "title_ru": "Представители бизнеса обсудят с Путиным проблемы неплатежей",
-      "title_en": "Представители бизнеса обсудят с Путиным проблемы неплатежей",
-      "date": "2026-11-04",
-      "summary": "Представители российского бизнеса проведут встречу с президентом Владимиром Путиным для обсуждения проблем неплатежей в экономике. Встреча запланирована на ближайшее время.",
-      "category": "politics",
-      "region": "Россия",
-      "sources": [
-        "rssexport.rbc.ru"
-      ],
-      "links": [
-        "https://www.rbc.ru/business/28/10/2026/6ae1b4b6180efc817562b9d6"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "11f18ed0b79a"
-    },
-    {
-      "title_ru": "SK Group возглавит совет директоров американского подразделения SK hynix по ИИ",
-      "title_en": "SK Group chairman to chair board of SK hynix's U.S. AI arm",
-      "date": "2026-11-04",
-      "summary": "Председатель совета директоров SK Group Чхэ Тхэ Вон возглавит совет директоров американского подразделения SK hynix, занимающегося искусственным интеллектом. Решение направлено на усиление стратегического контроля над ИИ-направлением.",
-      "category": "ai",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261104011300320"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "9525303de7c0"
-    },
-    {
       "title_ru": "Китай развивает солнечную энергетику на Тибетском нагорье",
       "title_en": "China’s solar push reshapes traditional ways of life on Tibet’s high plateau",
       "date": "2026-11-05",
@@ -406,40 +83,6 @@
       "is_development": true,
       "first_reported": "2026-11-05",
       "id": "ee03821c6da6"
-    },
-    {
-      "title_ru": "В ЮАР на выборах возникли проблемы с бюллетенями и технические сбои",
-      "title_en": "Ballot shortages and technical glitches disrupt voting as frustrated residents are turned away",
-      "date": "2026-11-04",
-      "summary": "На местных выборах в ЮАР в нескольких избирательных участках закончились бюллетени и произошли технические сбои. Избирательная комиссия сообщила о закрытии двух участков в провинции Квазулу-Натал из-за краж бюллетеней.",
-      "category": "life",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-11-04-ballot-shortages-and-technical-glitches-disrupt-voting-as-frustrated-residents-are-turned-away/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "c388910de193"
-    },
-    {
-      "title_ru": "Иран сбил американский беспилотник MQ-1 над островом Кешм",
-      "title_en": "IRGC downs 15th advanced US MQ-1 drone over Qeshm Island",
-      "date": "2026-11-04",
-      "summary": "Корпус стражей исламской революции Ирана сбил американский беспилотник MQ-1 над островом Кешм. Командующий КСИР предупредил противников о последствиях повторения 'просчетов'.",
-      "category": "conflicts",
-      "region": "Иран",
-      "sources": [
-        "en.irna.ir"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86312921/IRGC-downs-15th-advanced-US-MQ-1-drone-over-Qeshm-Island"
-      ],
-      "is_development": true,
-      "first_reported": "2026-11-04",
-      "id": "f5c5a314c299"
     },
     {
       "title_ru": "ВСУ атаковали Белгородскую область более 150 раз за сутки",
@@ -527,23 +170,6 @@
       "id": "f0735fd6cfff"
     },
     {
-      "title_ru": "Трамп заявил, что не намерен применять ядерное оружие против Ирана",
-      "title_en": "Trump says no need to use nukes against Iran",
-      "date": "2026-11-04",
-      "summary": "Президент США Дональд Трамп заявил, что не видит необходимости применять ядерное оружие против Ирана. Он также сообщил, что не планирует увольнять министра обороны Хегсета.",
-      "category": "politics",
-      "region": "США",
-      "sources": [
-        "tass.com"
-      ],
-      "links": [
-        "https://tass.com/world/2212875"
-      ],
-      "is_development": true,
-      "first_reported": "2026-11-04",
-      "id": "3031b3ffd3e3"
-    },
-    {
       "title_ru": "В ЮАР проходят местные выборы, ANC может потерять позиции",
       "title_en": "ANC facing further losses in South Africa’s local elections",
       "date": "2026-11-05",
@@ -559,74 +185,6 @@
       "is_development": true,
       "first_reported": "2026-11-05",
       "id": "bc73df1700d0"
-    },
-    {
-      "title_ru": "Командующий КСИР предупредил врагов о последствиях повторения просчетов",
-      "title_en": "IRGC commander warns enemies against repeating 'miscalculations'",
-      "date": "2026-11-04",
-      "summary": "Командующий Корпусом стражей исламской революции Ирана предупредил противников страны о готовности дать беспрецедентный ответ на повторение 'просчетов'. Заявление сделано после сбития американского беспилотника.",
-      "category": "statement",
-      "region": "Иран",
-      "sources": [
-        "en.irna.ir"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86312691/IRGC-commander-warns-enemies-against-repeating-miscalculations"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "fae136c55dbb"
-    },
-    {
-      "title_ru": "Canon представила таймерные пульты для астрофотографов и компактный микрофон",
-      "title_en": "Canon Announces Timer Remotes for Astrophotographers and a Compact Hotshoe Mic",
-      "date": "2026-11-04",
-      "summary": "Компания Canon представила новые таймерные пульты дистанционного управления для астрофотографов и компактный микрофон для горячего башмака камеры. Также были выпущены крупные обновления прошивки для системы Cinema EOS.",
-      "category": "photo",
-      "region": "Мир",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/11/04/canon-announces-timer-remotes-for-astrophotographers-and-a-compact-hotshoe-mic/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "cbc3ba07e8c6"
-    },
-    {
-      "title_ru": "США планируют прекратить участие ЮАР в программе AGOA к 2027 году",
-      "title_en": "The AGOA hit will be small on GDP but heavy on jobs",
-      "date": "2026-11-04",
-      "summary": "Администрация Трампа планирует прекратить участие ЮАР в программе Африканского закона о росте и возможностях (AGOA) к 2027 году. Решение угрожает ключевым экспортным секторам и занятости в Южной Африке.",
-      "category": "economy",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/thought-leader/2026-11-04-agoa/"
-      ],
-      "is_development": true,
-      "first_reported": "2026-11-04",
-      "id": "f1299aec0c54"
-    },
-    {
-      "title_ru": "Две избирательные станции в Квазулу-Натале закрыты после кражи бюллетеней",
-      "title_en": "Two KZN voting stations closed, ballot papers stolen – IEC",
-      "date": "2026-11-04",
-      "summary": "Избирательная комиссия ЮАР закрыла две избирательные станции в провинции Квазулу-Натал после кражи бюллетеней и печати безопасности. Комиссия ввела строгие протоколы проверки.",
-      "category": "politics",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-11-04-two-kzn-voting-stations-closed-ballot-papers-stolen-iec/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "da010f7a435d"
     },
     {
       "title_ru": "В Белгородской области при атаках ВСУ за сутки погибли пять человек",
@@ -678,23 +236,6 @@
       "is_development": false,
       "first_reported": "2026-11-05",
       "id": "9c02be737cb3"
-    },
-    {
-      "title_ru": "Астрономы нашли способ отличить потенциально обитаемую экзопланету с кислородной атмосферой",
-      "title_en": "Астрономы нашли способ отличить потенциально обитаемую экзопланету с кислородной атмосферой",
-      "date": "2026-11-04",
-      "summary": "Астрономы разработали метод определения потенциально обитаемых экзопланет с кислородной атмосферой. Телескопы нового поколения позволят обнаружить кислород в атмосфере далеких миров.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/astronomy/o2-dominated-atmospheres-on-terrestrial-exoplanets"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "907cdb633dca"
     },
     {
       "title_ru": "Samsung сохранила лидирующие позиции на мировом рынке DRAM в третьем квартале",
@@ -816,57 +357,6 @@
       "id": "2d137206dd8d"
     },
     {
-      "title_ru": "В ЮАР молодёжь теряет веру в выборы из-за безработицы и нехватки воды",
-      "title_en": "What is the point of voting?: Ivory Park Extension 2 youth lose faith in the ballot",
-      "date": "2026-11-04",
-      "summary": "Молодые жители района Айвори Парк Экстеншн 2 в ЮАР заявляют, что голосование потеряло смысл. Их разочарование вызвано устойчивой безработицей и хронической нехваткой воды.",
-      "category": "politics",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-11-04-what-is-the-point-of-voting-ivory-park-extension-2-youth-lose-faith-in-the-ballot/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "4d0f49406316"
-    },
-    {
-      "title_ru": "Президент Израиля начал консультации по формированию правительства",
-      "title_en": "Israel’s President Starts Talks on Whether Netanyahu or Eisenkot Can Form a Government",
-      "date": "2026-11-04",
-      "summary": "Президент Израиля Ицхак Герцог начал двухдневные консультации с лидерами партий. Цель — определить, кому предоставить первый шанс на формирование коалиции: действующему премьер-министру Биньямину Нетаньяху или его соперникам.",
-      "category": "politics",
-      "region": "Израиль",
-      "sources": [
-        "rss.nytimes.com"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "08b150d6ee80"
-    },
-    {
-      "title_ru": "В Иране растут призывы к созданию ядерного оружия после войны с США",
-      "title_en": "More Iranians Call for Nuclear Weapons After War With U.S.",
-      "date": "2026-11-04",
-      "summary": "Некоторые иранские религиозные деятели и официальные лица призывают страну восстановить сдерживание, отказавшись от давнего обязательства не создавать ядерную бомбу. Эти призывы звучат после войны с США.",
-      "category": "politics",
-      "region": "Иран",
-      "sources": [
-        "rss.nytimes.com"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "feb990e008e7"
-    },
-    {
       "title_ru": "Иранская миссия в Вене раскритиковала двойные стандарты главы МАГАТЭ",
       "title_en": "Iran mission in Vienna criticizes Grossi's double standard",
       "date": "2026-11-05",
@@ -903,25 +393,6 @@
       "id": "622da7ecefd8"
     },
     {
-      "title_ru": "Венчурная фирма Sequoia сокращает масштабы после 20 лет расширения",
-      "title_en": "Sequoia hits rewind, undoing 20 years of expansion",
-      "date": "2026-11-04",
-      "summary": "Венчурная фирма Sequoia консолидируется в меньшую компанию, ориентированную на район залива Сан-Франциско. Она закрывает программы и офисы, созданные за 20 лет расширения, одновременно объявив о новых фондах на сумму около 10 миллиардов долларов.",
-      "category": "tech",
-      "region": "США",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "1f52ed7fa440"
-    },
-    {
       "title_ru": "В Южной Корее активирован механизм ограничения продаж на KOSPI при резком падении",
       "title_en": "KRX activates sell-side sidecar for KOSPI on sharp decline",
       "date": "2026-11-05",
@@ -941,82 +412,6 @@
       "id": "0643a8e97686"
     },
     {
-      "title_ru": "Суд США разрешил вручить иск террористке через социальную сеть X",
-      "title_en": "Sbarro bombing terrorist Ahlam Tamimi served with US lawsuit via X",
-      "date": "2026-11-04",
-      "summary": "Окружной суд США по округу Колумбия постановил, что Арнольд и Фримет Рот, родители 15-летней Малки Рот, могут вручить террористке Ахлам Тамими судебные документы через социальные сети. Речь идет о взрыве в пиццерии Sbarro в 2001 году.",
-      "category": "ai",
-      "region": "США",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/international/article-913857"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "28413d6cfaa8"
-    },
-    {
-      "title_ru": "В ЮАР снизилась явка избирателей на фоне апатии",
-      "title_en": "The long queues that once defined our democracy are becoming a distant memory",
-      "date": "2026-11-04",
-      "summary": "На местных выборах в ЮАР наблюдается снижение явки избирателей и апатия. На избирательных участках в Тембисе тихо, в отличие от исторически длинных очередей, которые были символом демократии.",
-      "category": "life",
-      "region": "ЮАР",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-11-04-the-long-queues-that-once-defined-our-democracy-are-becoming-a-distant-memory/"
-      ],
-      "is_development": true,
-      "first_reported": "2026-11-04",
-      "id": "f77f019b17df"
-    },
-    {
-      "title_ru": "В Калгари мошенница получила год тюрьмы за обман пожилых людей",
-      "title_en": "Judge rejects grandparent scammer's bid to back out of guilty plea, sends her to jail instead",
-      "date": "2026-11-04",
-      "summary": "Женщина из Калгари, признавшаяся в краже тысяч долларов у пожилых жертв по схеме 'обзвона бабушек и дедушек', приговорена к 12 месяцам тюрьмы и году условно. Суд отказался позволить ей отозвать признание вины.",
-      "category": "life",
-      "region": "Канада",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "www.cbc.ca"
-      ],
-      "links": [
-        "https://www.cbc.ca/news/canada/calgary/alana-duncan-fraud-plea-sentence-grandparent-scam-9.7410026?cmp=rss"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "5ab757ae5562"
-    },
-    {
-      "title_ru": "В Иране заявили о готовности к беспрецедентному ответу на просчеты",
-      "title_en": "Iran emerges as world’s fourth-largest power: Military chief",
-      "date": "2026-11-04",
-      "summary": "Начальник штаба Вооруженных сил Ирана генерал-майор Али Абдоллахи заявил, что Иран стал четвертой по величине державой в мире, установив контроль над Ормузским проливом. Он предупредил о готовности к беспрецедентному ответу на любые просчеты противника.",
-      "category": "conflicts",
-      "region": "Иран",
-      "perspective": "Иранская сторона позиционирует это как укрепление обороноспособности и суверенитета, в то время как США и их союзники могут рассматривать это как эскалацию региональной напряженности.",
-      "perspective_type": "assumed",
-      "sources": [
-        "en.irna.ir"
-      ],
-      "links": [
-        "https://en.irna.ir/photo/86312269/Iran-emerges-as-world-s-fourth-largest-power-Military-chief"
-      ],
-      "is_development": true,
-      "first_reported": "2026-11-04",
-      "id": "bd4778c39be3"
-    },
-    {
       "title_ru": "Россия требует от нового генсека ООН скорректировать позицию по Украине",
       "title_en": "Russia has right to demand new UN Secretary-General adjust stance on Ukraine — MFA",
       "date": "2026-11-05",
@@ -1034,25 +429,6 @@
       "is_development": false,
       "first_reported": "2026-11-05",
       "id": "038e6659987b"
-    },
-    {
-      "title_ru": "Глава Росатома назвал героями работников Запорожской АЭС",
-      "title_en": "Rosatom CEO calls Zaporozhye NPP workers who continue reporting for duty heroes",
-      "date": "2026-11-04",
-      "summary": "Генеральный директор Росатома Алексей Лихачев назвал героями работников Запорожской АЭС, которые продолжают выходить на работу. Он также отметил, что ВСУ делают все возможное, чтобы как можно больше людей стали свидетелями жертв их преступлений.",
-      "category": "svo",
-      "region": "Россия",
-      "perspective": "Российская сторона представляет это как героизм сотрудников под обстрелами, в то время как Украина и ее союзники могут обвинять Россию в милитаризации объекта.",
-      "perspective_type": "assumed",
-      "sources": [
-        "tass.com"
-      ],
-      "links": [
-        "https://tass.com/society/2213005"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "0df8500223e8"
     },
     {
       "title_ru": "В США нет единого мнения о дальнейших шагах в отношении Ирана",
@@ -1112,44 +488,6 @@
       "id": "4b9b6ccb9163"
     },
     {
-      "title_ru": "Иранский парламентарий обвинил США в стремлении лишить иранцев достойного будущего",
-      "title_en": "US seeks to deny Iranian people a dignified future: Official",
-      "date": "2026-11-04",
-      "summary": "Заместитель председателя парламента Ирана Хамидреза Хаджи Бабаи заявил, что разногласия Ирана с США проистекают из решимости иранского народа сохранить свое достоинство и обеспечить уважаемое будущее. Он обвинил США в стремлении лишить иранцев этого будущего.",
-      "category": "statement",
-      "region": "Иран",
-      "perspective": "Иранская сторона рассматривает это как защиту национального суверенитета, в то время как США могут считать это риторикой, оправдывающей внутреннюю политику.",
-      "perspective_type": "from_source",
-      "sources": [
-        "en.irna.ir"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86312137/US-seeks-to-deny-Iranian-people-a-dignified-future-Official"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "1eaee80ad4cb"
-    },
-    {
-      "title_ru": "OM System рассматривала возможность выпуска полнокадровых камер",
-      "title_en": "OM System Almost Considered Making Full Frame Cameras | The PetaPixel Podcast",
-      "date": "2026-11-04",
-      "summary": "Руководители компании OM System раскрыли, что однажды рассматривали возможность расширения в сегмент полнокадровых камер. Об этом стало известно в подкасте PetaPixel.",
-      "category": "photo",
-      "region": "Мир",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/11/04/om-system-almost-considered-making-full-frame-cameras-the-petapixel-podcast/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "1d599a770ecb"
-    },
-    {
       "title_ru": "Группы требуют остановить строительство волнолома для СПГ-терминала",
       "title_en": "Groups urge stopping work on LNG terminal breakwater",
       "date": "2026-11-06",
@@ -1182,23 +520,6 @@
       "is_development": true,
       "first_reported": "2026-11-05",
       "id": "eb6ae5066849"
-    },
-    {
-      "title_ru": "Плотная женская грудь повысила риск рака",
-      "title_en": "Плотная женская грудь повысила риск рака",
-      "date": "2026-11-04",
-      "summary": "Высокая плотность ткани молочной железы повышает риск развития рака груди. Исследования показали, что в плотных тканях клетки эффективнее устраняют повреждения ДНК, что может способствовать развитию опухолей.",
-      "category": "tech",
-      "region": "Россия",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/medicine/plotnaya-grud-povyshaet-risk"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "802e47eac63b"
     },
     {
       "title_ru": "Вещество из семян тыквы защитило мышцы от последствий кислородного голодания",
@@ -1558,23 +879,6 @@
       "id": "98bc0dfbed89"
     },
     {
-      "title_ru": "В США избиратели отвергли финансирование Илона Маска на промежуточных выборах",
-      "title_en": "Voters Set $400 Million of Elon Musk’s Money on Fire",
-      "date": "2026-11-04",
-      "summary": "Избиратели на промежуточных выборах в США отвергли кандидатов, поддержанных Илоном Маском. Из каждого отслеживаемого доллара, который Маск вложил в уже определившиеся гонки, более 99 центов пошли на гонку, которую он проиграл.",
-      "category": "politics",
-      "region": "США",
-      "sources": [
-        "www.wired.com"
-      ],
-      "links": [
-        "https://www.wired.com/story/voters-set-dollar400-million-of-elon-musks-money-on-fire/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "cd573c84fa1e"
-    },
-    {
       "title_ru": "Хореограф Винсент Мантсое представляет танцевальную постановку, основанную на духовном наследии",
       "title_en": "Dreamscapes of memory and self-discovery",
       "date": "2026-11-05",
@@ -1777,23 +1081,6 @@
       "is_development": false,
       "first_reported": "2026-11-05",
       "id": "b7f47f57a2ad"
-    },
-    {
-      "title_ru": "Демократ Боттомс победила на выборах губернатора Джорджии",
-      "title_en": "Democrat Bottoms wins Georgia, becomes first Black woman governor in U.S.",
-      "date": "2026-11-04",
-      "summary": "Демократ Кейша Лэнс Боттомс победила на выборах губернатора Джорджии 3 ноября. Она стала первой чернокожей женщиной, избранной губернатором штата в США.",
-      "category": "politics",
-      "region": "США",
-      "sources": [
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/world/video-democrat-bottoms-wins-georgia-becomes-first-black-woman-governor-in-us/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-04",
-      "id": "a8cddd775789"
     },
     {
       "title_ru": "Трамп пытается отменить 34 обвинительных приговора по делу о выплатах за молчание",
@@ -3247,10 +2534,270 @@
       ],
       "first_reported": "2026-11-10",
       "id": "a7654ded0801"
+    },
+    {
+      "title_ru": "Metalenz приобрела израильский стартап PxE Imaging для замены цветных фильтров Байера",
+      "title_en": "New Sensor Tech Could Replace Bayer Color Filter and Transform Mobile Photography",
+      "date": "2026-11-11",
+      "summary": "Компания Metalenz приобрела израильский стартап PxE Imaging. Технология Holocoder от PxE может заменить цветной фильтр Байера, используемый в традиционных сенсорах изображения.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/11/11/new-sensor-tech-could-replace-bayer-color-filter-and-transform-mobile-photography/"
+      ],
+      "first_reported": "2026-11-11",
+      "id": "0017491ac407"
+    },
+    {
+      "title_ru": "Добыча нефти в России в октябре выросла до 8,6 млн баррелей в сутки",
+      "title_en": "Добыча нефти в России в октябре выросла до 8,6 млн баррелей в сутки",
+      "date": "2026-11-11",
+      "summary": "В октябре 2026 года Россия увеличила добычу нефти на 41 тыс. баррелей в сутки по сравнению с предыдущим месяцем. Среднесуточный объем производства достиг 8,668 млн баррелей.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9094756"
+      ],
+      "first_reported": "2026-11-11",
+      "id": "9253161cd40d"
+    },
+    {
+      "title_ru": "Группа «Аэрофлот» за 10 месяцев сократила перевозки на 1,1%",
+      "title_en": "Группа \"Аэрофлот\" за 10 месяцев сократила перевозки на 1,1%",
+      "date": "2026-11-12",
+      "summary": "Компания перевезла 46,7 млн пассажиров за 10 месяцев 2026 года. Объем перевозок сократился на 1,1% по сравнению с аналогичным периодом прошлого года.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/ekonomika/28311267"
+      ],
+      "first_reported": "2026-11-12",
+      "id": "dfadda8da712"
+    },
+    {
+      "title_ru": "Anthropic готовится к IPO на Nasdaq как первая «чистая» акция ИИ",
+      "title_en": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market",
+      "date": "2026-11-12",
+      "summary": "Американская компания в области искусственного интеллекта Anthropic планирует дебют на бирже Nasdaq. Ожидаемое IPO рассматривается как тест для первой «чистой» акции ИИ на волатильном рынке.",
+      "category": "ai",
+      "region": "США",
+      "sources": [
+        "www.cbc.ca"
+      ],
+      "links": [
+        "https://www.cbc.ca/news/business/anthropic-ipo-9.7418028?cmp=rss"
+      ],
+      "first_reported": "2026-11-12",
+      "id": "6ad2aa6060a4"
+    },
+    {
+      "title_ru": "Ставки на долгосрочную аренду квартир в России снизились на 4% за год",
+      "title_en": "Ставки на долгосрочную аренду квартир снизились на 4% за год",
+      "date": "2026-11-11",
+      "summary": "Средняя стоимость долгосрочной аренды квартиры в России в октябре 2026 года составила 33,6 тыс. руб. в месяц. В годовом выражении показатель упал на 4%.",
+      "category": "life",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9094130"
+      ],
+      "first_reported": "2026-11-11",
+      "id": "bc8cc0254a1f"
+    },
+    {
+      "title_ru": "В Казахстане задержали главу ФНБ «Самрук-Казына» по подозрению в коррупции",
+      "title_en": "В Казахстане задержали главу ФНБ «Самрук-Казына» по подозрению в коррупции",
+      "date": "2026-11-12",
+      "summary": "Антикоррупционные органы Казахстана задержали председателя фонда национального благосостояния «Самрук-Казына» Нурлана Жакупова. Также задержан глава «Казахстанских железных дорог».",
+      "category": "life",
+      "region": "Казахстан",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9095326"
+      ],
+      "first_reported": "2026-11-12",
+      "id": "278875110c66"
+    },
+    {
+      "title_ru": "Израильские силы убили палестинского подростка и ранили троих на Западном берегу",
+      "title_en": "Israeli forces kill Palestinian teen, injure 3 in occupied West Bank",
+      "date": "2026-11-12",
+      "summary": "Израильские силы убили палестинского подростка и ранили трех других человек на Западном берегу. Отца убитого подростка задержали.",
+      "category": "conflicts",
+      "region": "Палестина",
+      "perspective": "Израильские силы проводят контртеррористическую операцию; палестинцы считают это внесудебной казнью.",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/11/10/780377/israeli-forces-kill-palestinian-teen-wound-3-in-occupied-west-bank"
+      ],
+      "first_reported": "2026-11-12",
+      "id": "0ec2d69ac2c2"
+    },
+    {
+      "title_ru": "Иран угрожает ударами по базам США в Европе в случае их использования для атак",
+      "title_en": "Iran threatens strikes on US bases in Europe if used for attacks",
+      "date": "2026-11-11",
+      "summary": "Иранский представитель по вопросам безопасности Мохсен заявил, что Иран может нанести удары по военным базам США за пределами Ближнего Востока, включая объекты в Европе. Угроза обусловлена возможностью использования этих баз для атак против Ирана.",
+      "category": "conflicts",
+      "region": "Иран",
+      "perspective": "Иран предупреждает о возможном ответе на агрессию; США и их союзники рассматривают это как эскалацию.",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.dailysabah.com"
+      ],
+      "links": [
+        "https://www.dailysabah.com/world/mid-east/iran-threatens-strikes-on-us-bases-in-europe-if-used-for-attacks"
+      ],
+      "first_reported": "2026-11-11",
+      "id": "1f1d190a8bec"
+    },
+    {
+      "title_ru": "Зеленский сообщил о новых ограничениях скорости работы системы Starshield",
+      "title_en": "Zelensky says Starshield speed is being limited again, hampering Ukraine's defenses",
+      "date": "2026-11-12",
+      "summary": "Президент Украины Владимир Зеленский заявил, что скорость работы американской спутниковой системы связи Starshield снова ограничена. По его словам, это нарушает военные операции по всей линии фронта.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/international/internationalrussia-ukraine-war/article-914688"
+      ],
+      "first_reported": "2026-11-12",
+      "id": "5bbf750b9975"
+    },
+    {
+      "title_ru": "Матовиенко: Россия благодарна США за усилия по урегулированию украинского конфликта",
+      "title_en": "Russia grateful for US efforts to help resolve Ukraine conflict — senate speaker",
+      "date": "2026-11-12",
+      "summary": "Спикер Совета Федерации Валентина Матвиенко заявила, что Россия благодарна США за дипломатические усилия по урегулированию конфликта на Украине. Она отметила, что «активная дипломатическая работа» продолжается.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/politics/2216851"
+      ],
+      "first_reported": "2026-11-12",
+      "id": "35d8d580b262"
+    },
+    {
+      "title_ru": "Южнокорейская вона достигла 15-дневного максимума к доллару США",
+      "title_en": "S. Korean won hits 15-day high against U.S. dollar on foreign inflows",
+      "date": "2026-11-12",
+      "summary": "Южнокорейская вона укрепилась до самого высокого уровня за 15 дней по отношению к доллару США. Рост обусловлен притоком иностранного капитала.",
+      "category": "economy",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261112009900320"
+      ],
+      "first_reported": "2026-11-12",
+      "id": "2973e85a9f58"
+    },
+    {
+      "title_ru": "Министр иностранных дел КНДР осудила призыв G7 к денуклеаризации",
+      "title_en": "N. Korean FM slams G7 nations' call for denuclearization, says its nuclear pursuit remains 'steadfast'",
+      "date": "2026-11-12",
+      "summary": "Министр иностранных дел КНДР Чхве Сон Хви осудила призыв стран G7 к денуклеаризации Корейского полуострова. Она заявила, что ядерная программа КНДР остается «непоколебимой».",
+      "category": "politics",
+      "region": "КНДР",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261112012200315"
+      ],
+      "first_reported": "2026-11-12",
+      "id": "342eaeefef18"
+    },
+    {
+      "title_ru": "Турецкий суд освободил журналиста, арестованного за пост о кризисе фонда",
+      "title_en": "Turkish court orders release of journalist jailed over fund crisis post",
+      "date": "2026-11-11",
+      "summary": "Турецкий суд постановил освободить журналиста Али Таракчы после 46 дней содержания под стражей до суда. Его арестовали за пост в социальной сети, в котором предсказывалась отставка министра во время кризиса с инвестиционным фондом.",
+      "category": "politics",
+      "region": "Турция",
+      "sources": [
+        "www.turkishminute.com"
+      ],
+      "links": [
+        "https://www.turkishminute.com/2026/11/11/turkish-court-orders-release-of-journalist-jailed-over-fund-crisis-post/"
+      ],
+      "first_reported": "2026-11-11",
+      "id": "1783fa05e18e"
+    },
+    {
+      "title_ru": "В ЮАР арестован десятый подозреваемый по делу о вербовке для войны в Украине",
+      "title_en": "Hawks arrest 10th suspect in alleged Russia-Ukraine recruitment case",
+      "date": "2026-11-12",
+      "summary": "В ЮАР спецподразделение Hawks арестовало десятого подозреваемого по делу о попытке вербовки для участия в войне между Россией и Украиной. Подозреваемый якобы пытался выехать из ЮАР для присоединения к конфликту.",
+      "category": "politics",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-11-12-hawks-arrest-10th-suspect-in-alleged-russia-ukraine-recruitment-case/"
+      ],
+      "first_reported": "2026-11-12",
+      "id": "c67e88631e0a"
+    },
+    {
+      "title_ru": "Байден заявил, что не стал бы баллотироваться на второй срок, если бы знал о раке",
+      "title_en": "Biden says he wouldn’t have run for a second term in 2024 if he had known he had cancer",
+      "date": "2026-11-11",
+      "summary": "Бывший президент США Джо Байден заявил, что не стал бы баллотироваться на второй срок в 2024 году, если бы знал, что у него метастатический рак простаты. Диагноз был поставлен через несколько месяцев после ухода с поста в 2025 году.",
+      "category": "statement",
+      "region": "США",
+      "sources": [
+        "www.theglobeandmail.com"
+      ],
+      "links": [
+        "https://www.theglobeandmail.com/world/us-politics/article-biden-second-term-president-cancer/"
+      ],
+      "first_reported": "2026-11-11",
+      "id": "a82ff0edf97e"
+    },
+    {
+      "title_ru": "Иранские девушки завоевали историческую бронзу по футзалу на Юношеских Олимпийских играх",
+      "title_en": "Iranian girls stage stunning comeback to claim historic futsal bronze at Youth Olympics",
+      "date": "2026-11-12",
+      "summary": "Молодежная женская сборная Ирана по футзалу одержала победу над Италией со счетом 5:2, отыгравшись с двух мячей. Команда завоевала первую в истории Ирана бронзовую медаль на Юношеских Олимпийских играх.",
+      "category": "culture",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/11/12/780551/iranian-girls-stage-stunning-comeback-to-claim-historic-futsal-bronze-at-youth-olympics"
+      ],
+      "first_reported": "2026-11-12",
+      "id": "1f750d57eec4"
     }
   ],
   "_stats": {
-    "total_tokens": 948132,
-    "total_cost": 60.141619999999975
+    "total_tokens": 969019,
+    "total_cost": 61.464639999999974
   }
 }
