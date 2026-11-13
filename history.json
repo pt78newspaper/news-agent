@@ -17,477 +17,6 @@
       "id": "6a433d7a6e57"
     },
     {
-      "title_ru": "Китай развивает солнечную энергетику на Тибетском нагорье",
-      "title_en": "China’s solar push reshapes traditional ways of life on Tibet’s high plateau",
-      "date": "2026-11-05",
-      "summary": "Китай расширяет строительство солнечных электростанций на Тибетском нагорье. Проекты меняют традиционный уклад жизни местного населения.",
-      "category": "tech",
-      "region": "Китай",
-      "sources": [
-        "www.taipeitimes.com"
-      ],
-      "links": [
-        "https://www.taipeitimes.com/News/feat/archives/2026/11/05/2003867181"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "38968e53c945"
-    },
-    {
-      "title_ru": "В России нашли способ получать ферменты из зерновых отходов",
-      "title_en": "В России нашли способ одновременно получать ферменты для расщепления крахмала и белков с помощью зерновых отходов",
-      "date": "2026-11-05",
-      "summary": "Российские ученые разработали метод одновременного получения ферментов для расщепления крахмала и белков из зерновых отходов. Технология позволяет использовать отходы сельского хозяйства.",
-      "category": "tech",
-      "region": "Россия",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/column/fermenty-dlya-rasshhepleniya"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "6902fe037121"
-    },
-    {
-      "title_ru": "Астрономы обнаружили систему с будущим слиянием нейтронных звезд",
-      "title_en": "Астрономы обнаружили систему с будущим слиянием нейтронных звезд",
-      "date": "2026-11-05",
-      "summary": "Астрономы обнаружили двойную систему, в которой через миллионы лет произойдет слияние нейтронных звезд. Открытие поможет изучению гравитационных волн.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/astronomy/sistemu-s-sliyaniem-neitronnyh-zvezd"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "03a563888aef"
-    },
-    {
-      "title_ru": "В Южной Корее акции упали более чем на 5% из-за опасений по регуляции ИИ",
-      "title_en": "(2nd LD) Seoul shares plunge over 5 pct on AI regulation concerns after U.S. midterms",
-      "date": "2026-11-05",
-      "summary": "Индекс фондового рынка Южной Кореи упал более чем на 5% после промежуточных выборов в США. Основной причиной падения стали опасения инвесторов по поводу ужесточения регулирования искусственного интеллекта.",
-      "category": "ai",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261105007252320"
-      ],
-      "is_development": true,
-      "first_reported": "2026-11-05",
-      "id": "ee03821c6da6"
-    },
-    {
-      "title_ru": "ВСУ атаковали Белгородскую область более 150 раз за сутки",
-      "title_en": "ВСУ атаковали Белгородскую область более 150 раз за сутки",
-      "date": "2026-11-05",
-      "summary": "Вооруженные силы Украины за сутки нанесли более 150 ударов по Белгородской области России. По данным российских властей, в результате атак погибли пять человек.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20261105/belgorod-2129291096.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "08caa92b1315"
-    },
-    {
-      "title_ru": "На фронте за сутки произошло 184 боестолкновения",
-      "title_en": "На фронті за добу сталися 184 боєзіткнення Сил оборони з армією РФ",
-      "date": "2026-11-05",
-      "summary": "За сутки на линии фронта в Украине произошло 184 боестолкновения между украинскими силами обороны и российской армией. Об этом сообщили украинские военные.",
-      "category": "svo",
-      "region": "Украина",
-      "sources": [
-        "www.ukrinform.ua"
-      ],
-      "links": [
-        "https://www.ukrinform.ua/rubric-ato/4181593-na-fronti-za-dobu-stalisa-184-boezitknenna-sil-oboroni-z-armieu-rf.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "499299ed2953"
-    },
-    {
-      "title_ru": "Цены на нефть упали ниже $100 после промежуточных выборов в США",
-      "title_en": "Crude crashes below $100: Brent, WTI hit over two-month lows after midterm elections",
-      "date": "2026-11-05",
-      "summary": "Цены на нефть марки Brent и WTI упали ниже $100 за баррель, достигнув минимумов за более чем два месяца. Падение произошло после промежуточных выборов в США, на которых республиканцы потерпели поражение.",
-      "category": "economy",
-      "region": "Мир",
-      "sources": [
-        "timesofindia.indiatimes.com"
-      ],
-      "links": [
-        "https://timesofindia.indiatimes.com/business/international-business/crude-crashes-below-100-brent-wti-hit-over-two-month-lows-as-trump-loses-us-midterm-elections/articleshow/135555678.cms"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "7b522902ffa2"
-    },
-    {
-      "title_ru": "Южная Корея попросила отсрочить налог на доход от криптовалют на два года",
-      "title_en": "(LEAD) S. Korea to seek 2-year delay in tax on cryptocurrency gains",
-      "date": "2026-11-05",
-      "summary": "Правительство Южной Кореи намерено добиться отсрочки введения налога на доход от криптовалют на два года. Соответствующее решение было принято на заседании кабинета министров.",
-      "category": "economy",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261105005751320"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "b0d5aace00f7"
-    },
-    {
-      "title_ru": "В Южной Корее внесен законопроект о специальном прокуроре по фальсификациям",
-      "title_en": "(LEAD) Special counsel bill on alleged fabricated indictments introduced at plenary session",
-      "date": "2026-11-05",
-      "summary": "В парламенте Южной Кореи на пленарном заседании внесен законопроект о назначении специального прокурора для расследования предполагаемых фактов фальсификации обвинений. Подкомитет уже одобрил документ.",
-      "category": "politics",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261105004751315"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "f0735fd6cfff"
-    },
-    {
-      "title_ru": "В ЮАР проходят местные выборы, ANC может потерять позиции",
-      "title_en": "ANC facing further losses in South Africa’s local elections",
-      "date": "2026-11-05",
-      "summary": "В ЮАР проходят местные выборы, по предварительным данным, правящая партия Африканский национальный конгресс может потерять дополнительные позиции. Результаты выборов публикуются в режиме реального времени.",
-      "category": "politics",
-      "region": "ЮАР",
-      "sources": [
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/world/article-anc-facing-further-losses-in-south-africas-local-elections/"
-      ],
-      "is_development": true,
-      "first_reported": "2026-11-05",
-      "id": "bc73df1700d0"
-    },
-    {
-      "title_ru": "В Белгородской области при атаках ВСУ за сутки погибли пять человек",
-      "title_en": "В Белгородской области при атаках ВСУ за сутки погибли пять человек",
-      "date": "2026-11-05",
-      "summary": "В Белгородской области в результате атак Вооруженных сил Украины за сутки погибли пять человек. Еще 13 человек получили ранения.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/proisshestviya/28287737"
-      ],
-      "is_development": true,
-      "first_reported": "2026-11-05",
-      "id": "4abbe2aa2fa9"
-    },
-    {
-      "title_ru": "В Харьковской области шесть человек пострадали от российских ударов за сутки",
-      "title_en": "На Харківщині за добу через російські удари шестеро постраждалих",
-      "date": "2026-11-05",
-      "summary": "В Харьковской области шесть человек пострадали в результате российских ударов за сутки. Под обстрелом находились Харьков и еще 17 населенных пунктов области.",
-      "category": "svo",
-      "region": "Украина",
-      "sources": [
-        "www.ukrinform.ua"
-      ],
-      "links": [
-        "https://www.ukrinform.ua/rubric-regions/4181601-na-harkivsini-za-dobu-cerez-rosijski-udari-sestero-postrazdalih.html"
-      ],
-      "is_development": true,
-      "first_reported": "2026-11-05",
-      "id": "5bff92869cd7"
-    },
-    {
-      "title_ru": "Миграция древних людей на север могла способствовать распространению генов 'жаворонков'",
-      "title_en": "Миграция древних людей на север могла способствовать распространению генов «жаворонков»",
-      "date": "2026-11-05",
-      "summary": "Генетическая предрасположенность к раннему пробуждению усиливалась по мере расселения древних людей в северные широты. К такому выводу пришли ученые, изучившие варианты генов, связанных с циркадными ритмами.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/anthropology/migratsiya-sposobstvovala-genu-zhavoronka"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "9c02be737cb3"
-    },
-    {
-      "title_ru": "Samsung сохранила лидирующие позиции на мировом рынке DRAM в третьем квартале",
-      "title_en": "Samsung retains top spots in global DRAM market in Q3",
-      "date": "2026-11-05",
-      "summary": "Южнокорейская компания Samsung Electronics сохранила лидирующие позиции на мировом рынке DRAM в третьем квартале 2026 года. Компания занимает первое место по рыночной доле.",
-      "category": "tech",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261105008800320"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "bf91797181b7"
-    },
-    {
-      "title_ru": "Южная Корея отложила налог на доход от криптовалют на два года",
-      "title_en": "(URGENT) S. Korea to seek 2-year delay in taxation of cryptocurrency gains",
-      "date": "2026-11-05",
-      "summary": "Южная Корея планирует отсрочить введение налога на доход от криптовалют на два года. Решение принято в связи с рыночной ситуацией.",
-      "category": "economy",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261105005600320"
-      ],
-      "is_development": true,
-      "first_reported": "2026-11-05",
-      "id": "e85e94acc4b1"
-    },
-    {
-      "title_ru": "Южная Корея зафиксировала рекордный профицит счёта текущих операций",
-      "title_en": "(URGENT) S. Korea posts record high current account surplus of over US$60 bln in Sept.",
-      "date": "2026-11-05",
-      "summary": "В сентябре Южная Корея зафиксировала рекордный профицит счёта текущих операций, превысивший 60 млрд долларов США. Показатель достиг исторического максимума.",
-      "category": "economy",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261105000900320"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "44e5985132e0"
-    },
-    {
-      "title_ru": "Президент Южной Кореи призвал перевести рост экспорта в восстановление внутреннего спроса",
-      "title_en": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
-      "date": "2026-11-05",
-      "summary": "Президент Южной Кореи Ли Джэ Мён поручил правительству создать условия для перевода роста экспорта в восстановление внутреннего спроса. Он потребовал ускорить реализацию мер по стимулированию потребления.",
-      "category": "economy",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261105007351315"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "0da9b1851b2c"
-    },
-    {
-      "title_ru": "В Беларуси заблокировали фишинговые сайты и иностранные реквизиты мошенников",
-      "title_en": "За минувшие сутки в милицию поступило около 300 сообщений о звонках телефонных аферистов",
-      "date": "2026-11-05",
-      "summary": "За сутки в МВД Беларуси поступило около 300 сообщений о звонках телефонных мошенников. Отдел по борьбе с мошенничеством инициировал блокировку четырёх фишинговых сайтов и девяти иностранных платёжных реквизитов.",
-      "category": "life",
-      "region": "Беларусь",
-      "sources": [
-        "www.belta.by"
-      ],
-      "links": [
-        "https://belta.by/society/view/za-minuvshie-sutki-v-militsiju-postupilo-okolo-300-soobschenij-o-zvonkah-telefonnyh-aferistov-809439-2026/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "daeb9fa9378a"
-    },
-    {
-      "title_ru": "В Курской области за сутки сбили 189 украинских беспилотников",
-      "title_en": "В Курской области за сутки сбили 189 беспилотников ВСУ",
-      "date": "2026-11-05",
-      "summary": "В Курской области за сутки силы ПВО сбили 189 украинских беспилотников. Пострадал один человек.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/proisshestviya/28287729"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "27f09ff67d79"
-    },
-    {
-      "title_ru": "Силы ПВО за ночь сбили 496 украинских БПЛА над российскими регионами",
-      "title_en": "ПВО за ночь сбила 496 украинских беспилотников над российскими регионами",
-      "date": "2026-11-05",
-      "summary": "Силы ПВО за ночь сбили 496 украинских беспилотников над регионами России, Азовским и Черным морями. Об этом сообщило Министерство обороны РФ.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "rssexport.rbc.ru"
-      ],
-      "links": [
-        "https://www.rbc.ru/politics/04/11/2026/6aea6554a5497ae345d6fae5"
-      ],
-      "is_development": true,
-      "first_reported": "2026-11-05",
-      "id": "2d137206dd8d"
-    },
-    {
-      "title_ru": "Иранская миссия в Вене раскритиковала двойные стандарты главы МАГАТЭ",
-      "title_en": "Iran mission in Vienna criticizes Grossi's double standard",
-      "date": "2026-11-05",
-      "summary": "Иранская миссия в Вене раскритиковала главу МАГАТЭ Рафаэля Гросси за двойные стандарты. В заявлении говорится, что он выразил озабоченность по поводу 60% обогащённого урана Ирана, но промолчал о незаконных ударах по ядерным объектам.",
-      "category": "statement",
-      "region": "Иран",
-      "sources": [
-        "en.mehrnews.com"
-      ],
-      "links": [
-        "https://en.mehrnews.com/news/249180/Iran-mission-in-Vienna-criticizes-Grossi-s-double-standard"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "ec10b3ae5e39"
-    },
-    {
-      "title_ru": "В ЮАР открыты пять новых центров обучения естественным наукам",
-      "title_en": "Investing in South Africa's STEM Future: Five New Science Teaching and Learning Centers Established in the Western Cape",
-      "date": "2026-11-05",
-      "summary": "В Западной Капской провинции ЮАР созданы пять новых центров обучения естественным наукам. Они предназначены для расширения доступа к практическому STEM-образованию и лабораторным занятиям в школах с ограниченными ресурсами.",
-      "category": "tech",
-      "region": "ЮАР",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/partner-content/2026-11-05-investing-in-south-africa-s-stem-future-five-new-science-teaching-and-learning-centers-established-in-the-western-cape/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "622da7ecefd8"
-    },
-    {
-      "title_ru": "В Южной Корее активирован механизм ограничения продаж на KOSPI при резком падении",
-      "title_en": "KRX activates sell-side sidecar for KOSPI on sharp decline",
-      "date": "2026-11-05",
-      "summary": "Корейская биржа активировала механизм ограничения продаж (sidecar) для индекса KOSPI на фоне резкого падения. Это мера по стабилизации рынка.",
-      "category": "ai",
-      "region": "Южная Корея",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261105002500320"
-      ],
-      "is_development": true,
-      "first_reported": "2026-11-05",
-      "id": "0643a8e97686"
-    },
-    {
-      "title_ru": "Россия требует от нового генсека ООН скорректировать позицию по Украине",
-      "title_en": "Russia has right to demand new UN Secretary-General adjust stance on Ukraine — MFA",
-      "date": "2026-11-05",
-      "summary": "По словам представителя МИД России Кирилла Логвинова, Россия публично поставила конкретные вопросы и будет настаивать на столь же конкретных ответах от нового генерального секретаря ООН относительно его позиции по Украине.",
-      "category": "svo",
-      "region": "Россия",
-      "perspective": "Россия рассматривает это как законное требование по защите своих интересов, в то время как Запад может считать это попыткой давления на международные институты.",
-      "perspective_type": "assumed",
-      "sources": [
-        "tass.com"
-      ],
-      "links": [
-        "https://tass.com/politics/2213133"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "038e6659987b"
-    },
-    {
-      "title_ru": "В США нет единого мнения о дальнейших шагах в отношении Ирана",
-      "title_en": "No accord within US administration on next steps in Iran after congressional elections",
-      "date": "2026-11-05",
-      "summary": "В администрации США нет согласия относительно следующих шагов в отношении Ирана после промежуточных выборов в Конгресс. По данным газеты, некоторые чиновники призывают президента Дональда Трампа нанести новые удары по Ирану.",
-      "category": "economy",
-      "region": "США",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "tass.com"
-      ],
-      "links": [
-        "https://tass.com/world/2213037"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "63e7d0012c52"
-    },
-    {
-      "title_ru": "В США началась подготовка к президентской гонке 2028 года",
-      "title_en": "The next US presidential race has begun",
-      "date": "2026-11-05",
-      "summary": "Республиканцы и демократы начали позиционировать себя для участия в гонке за пост президента США в 2028 году. Это ранний этап подготовки к следующим выборам.",
-      "category": "politics",
-      "region": "США",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "www.ft.com"
-      ],
-      "links": [
-        "https://www.ft.com/content/a7fe8e95-bd9a-4cd7-a308-f156073cd074?syn-25a6b1a6=1"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "22272c9d7468"
-    },
-    {
-      "title_ru": "Делегация Брестской области Беларуси посетит две китайские провинции",
-      "title_en": "Нужны новые идеи и проекты. Делегация Брестской области посетит две китайские провинции",
-      "date": "2026-11-05",
-      "summary": "Делегация Брестской области Беларуси посетит две китайские провинции с целью увеличения товарооборота и поиска новых идей и проектов. В программе посещение большого количества предприятий.",
-      "category": "politics",
-      "region": "Беларусь",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "www.belta.by"
-      ],
-      "links": [
-        "https://belta.by/economics/view/nuzhny-novye-idei-i-proekty-delegatsija-brestskoj-oblasti-posetit-dve-kitajskie-provintsii-809498-2026/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "4b9b6ccb9163"
-    },
-    {
       "title_ru": "Группы требуют остановить строительство волнолома для СПГ-терминала",
       "title_en": "Groups urge stopping work on LNG terminal breakwater",
       "date": "2026-11-06",
@@ -503,40 +32,6 @@
       "is_development": false,
       "first_reported": "2026-11-06",
       "id": "fb776ad5bfb5"
-    },
-    {
-      "title_ru": "В России нашли способ получать ферменты из зерновых отходов",
-      "title_en": "В России нашли способ одновременно получать ферменты для расщепления биомассы и кормовые добавки из зерновых отходов",
-      "date": "2026-11-05",
-      "summary": "Российские исследователи разработали технологию одновременного получения ферментов для расщепления биомассы и кормовых добавок из зерновых отходов. Метод позволяет повысить эффективность переработки сельскохозяйственных отходов.",
-      "category": "tech",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20261106/yazyk-2129635771.html"
-      ],
-      "is_development": true,
-      "first_reported": "2026-11-05",
-      "id": "eb6ae5066849"
-    },
-    {
-      "title_ru": "Вещество из семян тыквы защитило мышцы от последствий кислородного голодания",
-      "title_en": "Вещество из семян тыквы защитило мышцы от последствий кислородного голодания",
-      "date": "2026-11-05",
-      "summary": "Тригонеллин, содержащийся в семенах тыквы и кофейных зернах, помогает защитить митохондрии в клетках скелетных мышц от повреждения при кислородном голодании. Исследование проведено российскими учеными.",
-      "category": "tech",
-      "region": "Россия",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/column/veshhestvo-iz-semyan-tykvy"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "0565a58d47c0"
     },
     {
       "title_ru": "Ожидается рост поставок ИИ-серверов на 36%",
@@ -590,23 +85,6 @@
       "id": "f78ab925e04f"
     },
     {
-      "title_ru": "В ЮАР рассматривают иск об исключении Малемы из Судебной комиссии",
-      "title_en": "Helen Suzman Foundation wants Malema out of JSC",
-      "date": "2026-11-05",
-      "summary": "Фонд Хелен Сусман подал иск об исключении лидера партии EFF Джулиуса Малемы из Судебной комиссии ЮАР. Слушание назначено на следующую неделю в Высоком суде Западного Кейпа.",
-      "category": "politics",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/politics/2026-11-05-helen-suzman-foundation-wants-malema-out-of-jsc/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "285956cd6c37"
-    },
-    {
       "title_ru": "Европа в начале ноября рекордно отбирает газ из хранилищ",
       "title_en": "ТАСС: Европа в начале ноября рекордно отбирает газ из хранилищ",
       "date": "2026-11-06",
@@ -641,23 +119,6 @@
       "id": "09dc09237ea1"
     },
     {
-      "title_ru": "Американский гражданин осужден за убийство в Италии",
-      "title_en": "American Is Convicted of Murder in Case That Gripped Italy",
-      "date": "2026-11-05",
-      "summary": "Американский гражданин осужден за убийство российской женщины и ее малолетней дочери, чьи тела были найдены в парке Рима. Дело привлекло внимание общественности в Италии.",
-      "category": "politics",
-      "region": "Италия",
-      "sources": [
-        "rss.nytimes.com"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/11/05/world/europe/italy-american-murder-case.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "7a20f8f4e963"
-    },
-    {
       "title_ru": "Основатель Envision назван лидером устойчивого развития на премии Reuters",
       "title_en": "Envision Founder and CEO Lei Zhang Named Sustainability Trailblazer at Reuters Global Sustainability Awards 2026",
       "date": "2026-11-06",
@@ -673,23 +134,6 @@
       "is_development": false,
       "first_reported": "2026-11-06",
       "id": "466e0d70fc79"
-    },
-    {
-      "title_ru": "Израильский министр снял вето на участие ультраортодоксальных партий в коалиции",
-      "title_en": "Liberman drops veto on haredi parties in coalition, opposition in talks with UTJ - report",
-      "date": "2026-11-05",
-      "summary": "Министр финансов Израиля Авигдор Либерман снял вето на участие ультраортодоксальных партий в коалиции. Оппозиция ведет переговоры с партией \"Яхадут ха-Тора\" о возможности принятия более мягкого закона о воинской службе.",
-      "category": "politics",
-      "region": "Израиль",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/israel-election-2026/article-914006"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "c583043e2807"
     },
     {
       "title_ru": "В Австралии объявлено вознаграждение в 250 тысяч долларов за одного из самых разыскиваемых преступников",
@@ -726,40 +170,6 @@
       "id": "21dfd4ed7339"
     },
     {
-      "title_ru": "Армянская оппозиция объявила об объединении сил",
-      "title_en": "Оппозиция Армении объявила об объединении сил",
-      "date": "2026-11-05",
-      "summary": "Лидер парламентской фракции \"Сильная Армения\" Нарек Карапетян объявил об объединении оппозиционных сил страны. Участники встречи оппозиционных партий подписали совместное заявление.",
-      "category": "politics",
-      "region": "Армения",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9080487"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "514093fa77d6"
-    },
-    {
-      "title_ru": "Иран рассматривает \"конкретные предложения\" по ядерной программе",
-      "title_en": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
-      "date": "2026-11-05",
-      "summary": "Иран рассматривает \"конкретные предложения\" по своей ядерной программе, заявили официальные лица. Готовность Тегерана к повторному вовлечению в переговоры указывает на некоторый успех дипломатических усилий Катара по предотвращению полномасштабной войны между США и Ираном.",
-      "category": "politics",
-      "region": "Иран",
-      "sources": [
-        "rss.nytimes.com"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "351be85ed2d7"
-    },
-    {
       "title_ru": "В Ормузском проливе два танкера загорелись из-за подрыва на минах",
       "title_en": "КСИР: в Ормузском проливе два танкера загорелись из-за подрыва на минах",
       "date": "2026-11-06",
@@ -775,57 +185,6 @@
       "is_development": false,
       "first_reported": "2026-11-06",
       "id": "729d538a4ac3"
-    },
-    {
-      "title_ru": "В Израиле уничтожается инфраструктура, необходимая для восстановления Южного Ливана",
-      "title_en": "Israel Is Destroying the Machinery South Lebanon Needs to Rebuild",
-      "date": "2026-11-05",
-      "summary": "Израильские удары по строительной технике и водной инфраструктуре в Южном Ливане блокируют усилия по восстановлению, не позволяя перемещенным семьям вернуться в свои дома.",
-      "category": "conflicts",
-      "region": "Ливан",
-      "sources": [
-        "www.wired.com"
-      ],
-      "links": [
-        "https://www.wired.com/story/israel-is-destroying-the-machinery-south-lebanon-needs-to-rebuild/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "c95dfabb4137"
-    },
-    {
-      "title_ru": "В ЮАР жители Софиатауна требуют решений проблем с преступностью и инфраструктурой",
-      "title_en": "Sophiatown’s patience is wearing thin",
-      "date": "2026-11-05",
-      "summary": "Жители района Софиатаун в ЮАР, разочарованные ростом преступности, перебоями с водоснабжением и невывозом мусора, пришли на избирательные участки, требуя срочных решений и подотчетного руководства.",
-      "category": "life",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-11-05-sophiatown-s-patience-is-wearing-thin/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "871533bfa792"
-    },
-    {
-      "title_ru": "Британский гражданин, инфицированный вирусом Эбола в Конго, будет эвакуирован в Великобританию",
-      "title_en": "British Citizen Infected With Ebola in Congo to Be Evacuated to UK, BBC Reports",
-      "date": "2026-11-05",
-      "summary": "Британский гражданин, инфицированный вирусом Эбола в Демократической Республике Конго, будет эвакуирован в Великобританию. Правительство заявило, что риск для британской общественности от болезни низкий. Текущая вспышка в Африке широко распространилась по континенту, унеся жизни более 5000 человек.",
-      "category": "life",
-      "region": "Великобритания",
-      "sources": [
-        "rss.nytimes.com"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/11/05/world/europe/british-ebola-case-congo-uk.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "75f11aaceb14"
     },
     {
       "title_ru": "Состояние австралийского парламентария Хелен Хейнс улучшилось до стабильного",
@@ -879,57 +238,6 @@
       "id": "98bc0dfbed89"
     },
     {
-      "title_ru": "Хореограф Винсент Мантсое представляет танцевальную постановку, основанную на духовном наследии",
-      "title_en": "Dreamscapes of memory and self-discovery",
-      "date": "2026-11-05",
-      "summary": "Известный хореограф Винсент Мантсое объединил 30 лет духовного наследия и движения в своей сюрреалистической танцевальной постановке \"Сон Мфеяне/Ипупо\". Работа создана во время его резиденции в Университете Йоханнесбурга.",
-      "category": "culture",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/friday/2026-11-05-dreamscapes-of-memory-and-self-discovery/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "6ce72d905f3d"
-    },
-    {
-      "title_ru": "Иран оснастит 12 000 школ солнечными электростанциями",
-      "title_en": "Iran to equip 12,000 schools with solar power plants",
-      "date": "2026-11-05",
-      "summary": "Иран планирует оснастить 12 000 школ по всей стране солнечными электростанциями в рамках первого этапа проекта возобновляемой энергетики. Необходимое оборудование уже отправлено в провинции.",
-      "category": "tech",
-      "region": "Иран",
-      "sources": [
-        "en.irna.ir"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86313129/Iran-to-equip-12-000-schools-with-solar-power-plants"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "9a9c6e81ff38"
-    },
-    {
-      "title_ru": "Airbnb запустит ИИ-агента для планирования путешествий в первой половине 2027 года",
-      "title_en": "Airbnb says it's launching an AI travel agent in the first half of 2027",
-      "date": "2026-11-05",
-      "summary": "Airbnb объявил о запуске ИИ-агента для помощи путешественникам в планировании поездок, сравнении вариантов, управлении бронированиями и получении помощи во время пребывания. Запуск запланирован на первую половину 2027 года.",
-      "category": "ai",
-      "region": "США",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "e2804408fe45"
-    },
-    {
       "title_ru": "В Новой Зеландии кампания перед выборами сосредоточена на стоимости жизни и здравоохранении",
       "title_en": "New Zealand election campaign dominated by cost of living, healthcare",
       "date": "2026-11-06",
@@ -945,23 +253,6 @@
       "is_development": false,
       "first_reported": "2026-11-06",
       "id": "5c6965aef671"
-    },
-    {
-      "title_ru": "Турецкий солдат убит выстрелом, предположительно с иранской территории",
-      "title_en": "Turkish soldier killed by gunfire believed to have come from Iran: ministry",
-      "date": "2026-11-05",
-      "summary": "Турецкий солдат, убитый при реагировании на незаконный переход на иранской границе на прошлой неделе, был поражен выстрелом, который, как полагают, был произведен с иранской стороны. Об этом сообщило агентство ANKA.",
-      "category": "conflicts",
-      "region": "Турция",
-      "sources": [
-        "www.turkishminute.com"
-      ],
-      "links": [
-        "https://www.turkishminute.com/2026/11/05/turkish-soldier-killed-by-gunfire-believed-to-have-come-from-iran-ministry/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "8887cdba84cc"
     },
     {
       "title_ru": "Американские войска прибыли в Эстонию на ротацию подразделений НАТО",
@@ -998,23 +289,6 @@
       "id": "8d9eec79a94f"
     },
     {
-      "title_ru": "В ЮАР на выборах в Орании снова появился один голос за партию EFF",
-      "title_en": "The mystery EFF voter in Orania strikes again",
-      "date": "2026-11-05",
-      "summary": "Партия Economic Freedom Fighters снова получила один голос в консервативном африканерском городе Орания на местных выборах 2026 года. Это возродило интерес к личности загадочного избирателя.",
-      "category": "politics",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/politics/2026-11-05-the-mystery-eff-voter-in-orania-strikes-again/"
-      ],
-      "is_development": true,
-      "first_reported": "2026-11-05",
-      "id": "07b077e13cde"
-    },
-    {
       "title_ru": "В Израиле арабские партии добились значительных успехов на выборах",
       "title_en": "My Word: Arab voting and the bigger picture - opinion",
       "date": "2026-11-06",
@@ -1047,40 +321,6 @@
       "is_development": false,
       "first_reported": "2026-11-06",
       "id": "ac5605044df6"
-    },
-    {
-      "title_ru": "Мосгорсуд оставил в силе приговор блогеру Лерчек",
-      "title_en": "Мосгорсуд оставил в силе приговор Лерчек",
-      "date": "2026-11-05",
-      "summary": "Московский городской суд в апелляции утвердил приговор блогеру Валерии Чекалиной (Лерчек) по делу о незаконных валютных операциях. Приговор был изменен в части дополнительного наказания, основная часть осталась без изменений.",
-      "category": "politics",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9080788"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "4c9e2bdce37f"
-    },
-    {
-      "title_ru": "В Мексике заблокированы счета бывшего главы избирательного института",
-      "title_en": "Finance Ministry blocks accounts of former electoral institute chief and associates",
-      "date": "2026-11-05",
-      "summary": "Министерство финансов Мексики заблокировало счета бывшего президента Национального избирательного института Гуадалупе Таддеи и 24 других лиц. Это произошло через несколько дней после внезапной отставки Таддеи.",
-      "category": "politics",
-      "region": "Мексика",
-      "sources": [
-        "mexiconewsdaily.com"
-      ],
-      "links": [
-        "https://mexiconewsdaily.com/news/finance-ministry-blocks-ine-chief-accounts-electoral-corruption/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "b7f47f57a2ad"
     },
     {
       "title_ru": "Трамп пытается отменить 34 обвинительных приговора по делу о выплатах за молчание",
@@ -1166,23 +406,6 @@
       "is_development": false,
       "first_reported": "2026-11-06",
       "id": "bad5b95d32e5"
-    },
-    {
-      "title_ru": "Стартап Potential Sciences использует ИИ для разработки лекарств без лабораторных работ",
-      "title_en": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
-      "date": "2026-11-05",
-      "summary": "Стартап Potential Sciences, поддерживаемый правительством Великобритании, использует ИИ-модели, обученные на компьютерно-генерируемых биохимических данных, для ускорения разработки новых лекарств.",
-      "category": "ai",
-      "region": "Великобритания",
-      "sources": [
-        "www.wired.com"
-      ],
-      "links": [
-        "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "7813f7d9617a"
     },
     {
       "title_ru": "В Израиле объявлены предупреждения о наводнениях и грозах",
@@ -1302,57 +525,6 @@
       "is_development": false,
       "first_reported": "2026-11-06",
       "id": "f9b8a7e0a973"
-    },
-    {
-      "title_ru": "Гана похвалила Канаду за выступление против 'несправедливой глобальной системы' для африканских стран",
-      "title_en": "Ghana praises Canada for advocating against a ‘rigged global system’ for African countries",
-      "date": "2026-11-05",
-      "summary": "Гана высоко оценила позицию Канады, которая в течение нескольких лет выступает за реформу правил финансирования для развивающихся стран, многие из которых сталкиваются с высокими процентными ставками и неподъемной долговой нагрузкой.",
-      "category": "economy",
-      "region": "Канада",
-      "sources": [
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/canada/article-ghana-praises-canada-carney-fix-rigged-world-african-countries/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "bbfd4878c55f"
-    },
-    {
-      "title_ru": "Университет Кейптауна рассматривает санкции против членов совета из-за неподтвержденных заявлений",
-      "title_en": "UCT weighs sanctions over ‘Islamist control’ claims",
-      "date": "2026-11-05",
-      "summary": "Университет Кейптауна рассматривает возможность дисциплинарных мер в отношении членов совета Марка Оппенгеймера и Дэвида Ансары после того, как расследование отставного судьи Махомеда Навсы отвергло неподтвержденные заявления.",
-      "category": "politics",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-11-05-uct-weighs-sanctions-over-islamist-control-claims/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "92afddc0b2db"
-    },
-    {
-      "title_ru": "Захарова: отношения с Японией будут восстановлены в случае ее отказа от санкций",
-      "title_en": "Захарова: отношения с Японией будут восстановлены в случае ее отказа от санкций",
-      "date": "2026-11-05",
-      "summary": "Официальный представитель МИД России Мария Захарова заявила, что Москва восстановит диалог с Токио при условии полного отказа Японии от недружественного курса.",
-      "category": "politics",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9081262"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-05",
-      "id": "7207ab04c389"
     },
     {
       "title_ru": "Трамп назначил встречи в Мар-а-Лаго, включая встречи по России",
@@ -2794,10 +1966,320 @@
       ],
       "first_reported": "2026-11-12",
       "id": "1f750d57eec4"
+    },
+    {
+      "title_ru": "Древние люди начали собирать сувениры уже 500 тысяч лет назад",
+      "title_en": "Ancient humans started collecting souvenirs 500,000 years ago",
+      "date": "2026-11-12",
+      "summary": "Ученые установили, что привычка сохранять предметы на память о важных событиях и местах могла возникнуть около 500 тысяч лет назад. Это свидетельствует о более раннем развитии символического поведения у предков человека.",
+      "category": "tech",
+      "region": "Мир",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/archeology/drevnie-suvenirs"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-12",
+      "id": "88a785a004a7"
+    },
+    {
+      "title_ru": "Synchron приостановил клинические испытания мозгового импланта из-за проблем с производительностью",
+      "title_en": "Synchron Pauses Trials of Its Brain Implant Due to Performance Issues",
+      "date": "2026-11-12",
+      "summary": "Стартап Synchron, разрабатывающий интерфейс мозг-компьютер, приостановил клинические испытания своего устройства из-за проблем с производительностью. Компания планирует обновить аппаратное обеспечение импланта и работает над новым устройством.",
+      "category": "tech",
+      "region": "США",
+      "sources": [
+        "www.wired.com"
+      ],
+      "links": [
+        "https://www.wired.com/story/synchron-pauses-trials-of-its-brain-implant-due-to-performance-issues/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-12",
+      "id": "cadcc7b2e2c3"
+    },
+    {
+      "title_ru": "Nvidia акции упали почти на 10% после сообщения о возможном увольнении Дженсена Хуанга",
+      "title_en": "Nvidia shares plunge almost 10% on report board may oust Jensen Huang",
+      "date": "2026-11-13",
+      "summary": "Акции Nvidia упали почти на 10% после сообщений о том, что совет директоров компании может отстранить от должностей основателя и CEO Дженсена Хуанга. Это вызвало волнения на технологическом рынке.",
+      "category": "ai",
+      "region": "США",
+      "sources": [
+        "asia.nikkei.com"
+      ],
+      "links": [
+        "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-shares-plunge-almost-10-on-report-board-may-oust-jensen-huang"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-13",
+      "id": "d89abc59616e"
+    },
+    {
+      "title_ru": "ЕС проводит первый саммит по искусственному интеллекту",
+      "title_en": "EU leaders gather for first ever AI summit",
+      "date": "2026-11-13",
+      "summary": "Лидеры стран Европейского союза собрались на первый саммит по искусственному интеллекту. Саммит проходит на фоне растущих опасений по поводу глобального воздействия ИИ, а также стремления Европы занять позицию в его развитии и регулировании.",
+      "category": "ai",
+      "region": "Европа",
+      "sources": [
+        "rss.dw.com"
+      ],
+      "links": [
+        "https://www.dw.com/en/eu-leaders-gather-for-first-ever-ai-summit/a-79937463?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-13",
+      "id": "ad85409432e4"
+    },
+    {
+      "title_ru": "Три человека погибли при пожаре в доме на востоке Москвы",
+      "title_en": "Three people died in a fire in a house in eastern Moscow",
+      "date": "2026-11-13",
+      "summary": "Два ребенка и взрослый погибли при пожаре в жилом доме в районе Гольяново на востоке Москвы. Инцидент произошел в ночь на 13 ноября.",
+      "category": "life",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9095962"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-13",
+      "id": "a57005b0f29c"
+    },
+    {
+      "title_ru": "В Энергодаре погиб 15-й сотрудник Запорожской АЭС",
+      "title_en": "The 15th employee of Zaporizhzhia NPP died in Energodar",
+      "date": "2026-11-11",
+      "summary": "В Энергодаре в результате обстрела погиб еще один сотрудник Запорожской атомной электростанции. По данным пресс-службы ЗАЭС, это 15-й погибший сотрудник станции.",
+      "category": "life",
+      "region": "Украина",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9095003"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-11",
+      "id": "e846f8d4a22c"
+    },
+    {
+      "title_ru": "Израильский суд отказал в освобождении 14 палестинских врачей из Газы",
+      "title_en": "Israeli courts reject petitions to release 14 Gaza doctors held without charge",
+      "date": "2026-11-13",
+      "summary": "Верховный суд Израиля отклонил ходатайство об освобождении 14 палестинских врачей, включая директора больницы Камаль Адван Хуссам Абу Сафия. Врачи содержатся без предъявления обвинений.",
+      "category": "conflicts",
+      "region": "Израиль",
+      "perspective": "Палестинские источники называют это произвольным задержанием, израильские власти могут ссылаться на соображения безопасности.",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/11/11/780515/israeli-courts-refuse-to-release-14-gaza-doctors-held-without-charge"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-13",
+      "id": "34171a1bfa76"
+    },
+    {
+      "title_ru": "Израильский удар по больнице Нассер в Газе: 6 погибших",
+      "title_en": "Israeli Strikes on Gaza Hospital Kill 6 and Injure Dozens, Health Officials Say",
+      "date": "2026-11-12",
+      "summary": "Израильский удар по медицинскому комплексу Нассер в южной части сектора Газа привел к гибели шести человек и ранениям десятков. Израильские власти заявили, что ХАМАС создал командный центр на территории больницы, в то время как ХАМАС назвал атаку военным преступлением.",
+      "category": "conflicts",
+      "region": "Израиль",
+      "perspective": "Израиль утверждает о военном использовании объекта ХАМАС, палестинские стороны и международные наблюдатели говорят об ударе по гражданской инфраструктуре.",
+      "perspective_type": "assumed",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-12",
+      "id": "8814aee49ea0"
+    },
+    {
+      "title_ru": "Украина потеряла 630 локомотивов из-за российских ударов",
+      "title_en": "Ukraine has lost 630 locomotives due to Russian strikes",
+      "date": "2026-11-13",
+      "summary": "С начала полномасштабной войны Украина потеряла 630 локомотивов в результате российских ударов. Почти 400 из них были уничтожены в текущем году.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "www.ukrinform.ua"
+      ],
+      "links": [
+        "https://www.ukrinform.ua/rubric-economy/4184304-kalasnik-cerez-rosijski-udari-ukraina-vtratila-vze-630-lokomotiviv-majze-400-iz-nih-cogo-roku.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-13",
+      "id": "c0673ae584a1"
+    },
+    {
+      "title_ru": "Российские силы атаковали высоковольтные подстанции в Украине",
+      "title_en": "Russian forces attacked high-voltage substations again overnight",
+      "date": "2026-11-13",
+      "summary": "В ночь на 13 ноября российские силы нанесли удары по высоковольтным подстанциям на территории Украины. Под атаками также оказались медицинские учреждения, логистическая инфраструктура и жилые дома.",
+      "category": "svo",
+      "region": "Украина",
+      "sources": [
+        "www.ukrinform.ua"
+      ],
+      "links": [
+        "https://www.ukrinform.ua/rubric-economy/4184298-unoci-rosiani-znovu-atakuvali-visokovoltni-pidstancii-koreckij.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-13",
+      "id": "1c454e23f543"
+    },
+    {
+      "title_ru": "Алико Данготе запустил проект топливопровода в Намибии на $2,5 млрд",
+      "title_en": "Dangote bets on Africa making its own wealth",
+      "date": "2026-11-12",
+      "summary": "Нигерийский промышленник Алико Данготе запустил проект строительства топливопровода в Намибии стоимостью 2,5 миллиарда долларов. Проект является частью его общеафриканской стратегии по переработке ресурсов континента на месте.",
+      "category": "economy",
+      "region": "Намибия",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/thought-leader/2026-11-12-dangote-bets-on-africa-making-its-own-wealth/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-12",
+      "id": "60a72c23bae1"
+    },
+    {
+      "title_ru": "Сбербанк решил продать маркетплейсам 700 тыс. кв. м складов",
+      "title_en": "Sber decided to sell 700 thousand sq. m of warehouses to marketplaces",
+      "date": "2026-11-12",
+      "summary": "Сбербанк намерен до конца года продать маркетплейсам около 700 тысяч квадратных метров невостребованных складских площадей. Решение было озвучено председателем правления Германом Грефом.",
+      "category": "economy",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9095569"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-12",
+      "id": "3bfa976bca0e"
+    },
+    {
+      "title_ru": "ВТБ и Т-банк готовы внедрить кнопку равноудаленного помощника в приложениях",
+      "title_en": "VTB and T-Bank are ready to install a button for an equidistant assistant in applications",
+      "date": "2026-11-13",
+      "summary": "ВТБ и Т-банк рассматривают возможность внедрения в своих приложениях функции \"кнопки равноудаленного помощника\". Председатель правления Т-банка Станислав Близнюк отметил необходимость развития таких технологий с учетом рисков рекомендательных алгоритмов.",
+      "category": "economy",
+      "region": "Россия",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/ekonomika/28315485"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-13",
+      "id": "510942872f65"
+    },
+    {
+      "title_ru": "США предложили России подготовить соглашение о безопасности в Европе",
+      "title_en": "US proposed that Russia prepare a security agreement in Europe",
+      "date": "2026-11-12",
+      "summary": "США предложили России подготовить соглашение о безопасности в Европе. Вашингтон и Пекин сочли важным проведение трехсторонних встреч с участием Москвы.",
+      "category": "politics",
+      "region": "США",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9095106"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-12",
+      "id": "1c1c891beec1"
+    },
+    {
+      "title_ru": "Белый дом пригрозил демократам \"уголовным преследованием\" за расследования",
+      "title_en": "White House threatens Democrats with 'criminal prosecution' for investigations",
+      "date": "2026-11-11",
+      "summary": "Белый дом предупредил, что расследования в отношении представителей исполнительной власти, анонсированные победившими на промежуточных выборах демократами, могут быть приравнены к \"уголовно наказуемому деянию\".",
+      "category": "politics",
+      "region": "США",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9095011"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-11",
+      "id": "38b770df078a"
+    },
+    {
+      "title_ru": "ФНС запретила блогеру Самойловой открывать новый бизнес в России до 2029 года",
+      "title_en": "Tax Service banned blogger Samoilova from opening a new business in Russia until 2029",
+      "date": "2026-11-13",
+      "summary": "Федеральная налоговая служба запретила блогеру Оксане Самойловой регистрировать новый бизнес в России до сентября 2029 года. Решение было принято 24 сентября и связано с указанием недостоверных сведений.",
+      "category": "politics",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9108701"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-13",
+      "id": "3ae7647d297e"
+    },
+    {
+      "title_ru": "Иранский министр критикует недостаток внимания западных СМИ к ситуации в Газе",
+      "title_en": "Araghchi lashes out at lack of media attention to Gaza genocide",
+      "date": "2026-11-13",
+      "summary": "Министр иностранных дел Ирана Хоссейн Амирабдоллахиан раскритиковал недостаточное внимание западных СМИ к ситуации в Газе, которую он охарактеризовал как геноцид. Он подчеркнул, что катастрофическая ситуация в Газе больше не привлекает должного внимания.",
+      "category": "statement",
+      "region": "Иран",
+      "sources": [
+        "en.mehrnews.com"
+      ],
+      "links": [
+        "https://en.mehrnews.com/news/249371/Araghchi-lashes-out-at-lack-of-media-attention-to-Gaza-genoci"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-13",
+      "id": "057592063483"
+    },
+    {
+      "title_ru": "Черепа священных кошек Древнего Египта раскрыли их тяжелую жизнь",
+      "title_en": "Skulls of sacred cats of Ancient Egypt revealed their hard life",
+      "date": "2026-11-11",
+      "summary": "Анализ черепов кошачьих мумий из Древнего Египта показал, что животные, предназначенные для жертвоприношений богам, жили в тяжелых условиях. На черепах обнаружены следы травм и признаки плохого содержания.",
+      "category": "culture",
+      "region": "Египет",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/archeology/cherepa-koshki-drevnii-egipet"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-11",
+      "id": "def0d5cb8a55"
     }
   ],
   "_stats": {
-    "total_tokens": 969019,
-    "total_cost": 61.464639999999974
+    "total_tokens": 988102,
+    "total_cost": 62.680819999999976
   }
 }
