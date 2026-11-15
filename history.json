@@ -17,74 +17,6 @@
       "id": "6a433d7a6e57"
     },
     {
-      "title_ru": "Трамп заявил, что США атаковали иранские системы ПВО",
-      "title_en": "Trump says US attacks Iranian air defense systems",
-      "date": "2026-11-07",
-      "summary": "Президент США Дональд Трамп заявил, что Соединенные Штаты атаковали иранские системы противовоздушной обороны. Он не уточнил, когда произошел удар.",
-      "category": "conflicts",
-      "region": "США",
-      "sources": [
-        "tass.com"
-      ],
-      "links": [
-        "https://tass.com/world/2214145"
-      ],
-      "is_development": true,
-      "first_reported": "2026-11-07",
-      "id": "cc85133b1bca"
-    },
-    {
-      "title_ru": "Трамп отметил значительный прогресс в урегулировании украинского конфликта",
-      "title_en": "Trump sees significant progress in resolving Ukrainian conflict",
-      "date": "2026-11-07",
-      "summary": "Президент США Дональд Трамп отметил хорошую работу с Россией и Украиной в контексте урегулирования украинского конфликта. Он заявил о значительном прогрессе в этом направлении.",
-      "category": "svo",
-      "region": "США",
-      "sources": [
-        "tass.com"
-      ],
-      "links": [
-        "https://tass.com/world/2214151"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-07",
-      "id": "0840f2f6d170"
-    },
-    {
-      "title_ru": "Bank of America рекомендует покупать новый тайваньский доллар",
-      "title_en": "Bank of America advises NT dollar buys",
-      "date": "2026-11-07",
-      "summary": "Bank of America дал рекомендацию покупать новый тайваньский доллар.",
-      "category": "economy",
-      "region": "Тайвань",
-      "sources": [
-        "www.taipeitimes.com"
-      ],
-      "links": [
-        "https://www.taipeitimes.com/News/biz/archives/2026/11/07/2003867288"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-07",
-      "id": "46b8dcc3963c"
-    },
-    {
-      "title_ru": "Трамп назначил встречи в Мар-а-Лаго, включая встречи по России",
-      "title_en": "Trump says has scheduled meetings at Mar-a-Lago, including on Russia",
-      "date": "2026-11-07",
-      "summary": "Президент США Дональд Трамп заявил, что назначил встречи в своей резиденции Мар-а-Лаго, включая встречи, касающиеся России. Он не предоставил других деталей о предстоящих встречах.",
-      "category": "politics",
-      "region": "США",
-      "sources": [
-        "tass.com"
-      ],
-      "links": [
-        "https://tass.com/world/2214147"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-07",
-      "id": "3bdee2988c29"
-    },
-    {
       "title_ru": "NASA объявило контракт на $10 млрд на лунный грузовой посадочный модуль",
       "title_en": "NASA announces $10b. contract for lunar cargo lander in push toward eventual long-term moon base",
       "date": "2026-11-08",
@@ -134,23 +66,6 @@
       "is_development": false,
       "first_reported": "2026-11-08",
       "id": "f164ee5507ef"
-    },
-    {
-      "title_ru": "Родители требуют более безопасных телефонов для детей",
-      "title_en": "Parents want safer phones for kids. These companies are answering the call.",
-      "date": "2026-11-07",
-      "summary": "Растет число компаний, создающих телефоны, специально разработанные для детей, с ограниченным функционалом или минималистичным дизайном. Это ответ на запрос родителей на альтернативы неограниченным смартфонам.",
-      "category": "ai",
-      "region": "США",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-07",
-      "id": "3860a11ce921"
     },
     {
       "title_ru": "В Израиле ЦАХАЛ столкнулся с острым кадровым кризисом",
@@ -204,23 +119,6 @@
       "id": "07c58394cd07"
     },
     {
-      "title_ru": "В Мадриде прошли протесты из-за жилищного кризиса",
-      "title_en": "Faces from the front lines of Spain’s housing crisis",
-      "date": "2026-11-07",
-      "summary": "В Мадриде и по всей Испании прошли протесты из-за жилищного кризиса. Широкое экономическое недовольство мобилизовало протестующих выйти на улицы.",
-      "category": "life",
-      "region": "Испания",
-      "sources": [
-        "www.theglobeandmail.com"
-      ],
-      "links": [
-        "https://www.theglobeandmail.com/world/article-faces-front-lines-spain-housing-crisis-madrid-economy/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-07",
-      "id": "c7c758e0ab08"
-    },
-    {
       "title_ru": "Иран обвинил Израиль в усугублении гуманитарного кризиса в Газе",
       "title_en": "Israeli regime deepening Gaza crisis: Hamas",
       "date": "2026-11-08",
@@ -238,23 +136,6 @@
       "id": "d2a47f90ed49"
     },
     {
-      "title_ru": "В Лондоне прошла акция протеста против войны у посольства США",
-      "title_en": "'No to War' chants fill streets outside US Embassy in London",
-      "date": "2026-11-07",
-      "summary": "Антивоенные активисты, представители гражданского общества и десятки иранцев, проживающих в Великобритании, собрались у посольства США в Лондоне в субботу. Они протестовали против военной политики Вашингтона.",
-      "category": "conflicts",
-      "region": "Великобритания",
-      "sources": [
-        "en.irna.ir"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86315150/No-to-War-chants-fill-streets-outside-US-Embassy-in-London"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-07",
-      "id": "3281ff319ef5"
-    },
-    {
       "title_ru": "КСИР заявил, что план 'Железные ворота' не позволит США обрушить экономику Ирана",
       "title_en": "КСИР: план 'Железные ворота' не позволит США обрушить экономику Ирана",
       "date": "2026-11-08",
@@ -270,23 +151,6 @@
       "is_development": true,
       "first_reported": "2026-11-08",
       "id": "30a6fee534e8"
-    },
-    {
-      "title_ru": "США выплатят до $20 млн за данные о ядерной программе Ирана",
-      "title_en": "США выплатят до $20 млн за данные о ядерной программе Ирана",
-      "date": "2026-11-07",
-      "summary": "Госдепартамент США объявил о выплате до $20 млн за информацию о ядерной программе Ирана. Власти также готовы оказать лицам поддержку в переезде за границу.",
-      "category": "conflicts",
-      "region": "США",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9091836"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-07",
-      "id": "87fa69895bf7"
     },
     {
       "title_ru": "Индонезия получила инвестиционные обязательства на $138 млн из Европы",
@@ -338,23 +202,6 @@
       "is_development": false,
       "first_reported": "2026-11-08",
       "id": "4f31549e4283"
-    },
-    {
-      "title_ru": "Иракский министр заявил, что США просили закрыть пограничные переходы с Ираном",
-      "title_en": "US asked Iraq to close border crossings with Iran: FM Hussein",
-      "date": "2026-11-07",
-      "summary": "Министр иностранных дел Ирака Фуад Хусейн заявил, что США просили Багдад закрыть все пограничные переходы с Ираном, кроме двух. Об этом сообщило иранское агентство Mehr News.",
-      "category": "politics",
-      "region": "Ирак",
-      "sources": [
-        "en.mehrnews.com"
-      ],
-      "links": [
-        "https://en.mehrnews.com/news/249221/US-asked-Iraq-to-close-border-crossings-with-Iran-FM-Hussein"
-      ],
-      "is_development": true,
-      "first_reported": "2026-11-07",
-      "id": "38aa1f7611d0"
     },
     {
       "title_ru": "Сильное землетрясение в центральной Японии, пострадали не менее 22 человек",
@@ -461,23 +308,6 @@
       "id": "aa6fad711056"
     },
     {
-      "title_ru": "КСИР предупредил о 'меняющих правила игры' сюрпризах в случае новой агрессии против Ирана",
-      "title_en": "IRGC Aerospace Force to unleash 'game-changing' surprises if Iran attacked again: Spokesman",
-      "date": "2026-11-07",
-      "summary": "КСИР предупредил, что в случае третьей волны неспровоцированной агрессии против Ирана Воздушно-космические силы Корпуса раскроют свои сюрпризные возможности.",
-      "category": "conflicts",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/11/07/780150/irgc-aerospace-force-to-unleash-game-changing-surprises-in-the-event-of-fresh-aggression-spokesman"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-07",
-      "id": "bb67b402917a"
-    },
-    {
       "title_ru": "КСИР предупредил о более жестком ответе в случае атак США на иранские суда",
       "title_en": "IRGC warns it will 'hit harder' if US attacks Iran's vessels",
       "date": "2026-11-08",
@@ -544,23 +374,6 @@
       "is_development": false,
       "first_reported": "2026-11-09",
       "id": "6922ae2fa808"
-    },
-    {
-      "title_ru": "Мэр Хьюстона заявил, что полиция больше не будет вызывать ICE, если обвинения не предусматривают тюремного заключения",
-      "title_en": "Houston mayor says police will no longer call ICE unless charges are jailable",
-      "date": "2026-11-07",
-      "summary": "Мэр Хьюстона издал приказ, согласно которому полиция больше не будет вызывать ICE, если обвинения не предусматривают тюремного заключения. Приказ последовал после выборов, на которых демократы выиграли все государственные должности.",
-      "category": "politics",
-      "region": "США",
-      "sources": [
-        "feeds.washingtonpost.com"
-      ],
-      "links": [
-        "https://www.washingtonpost.com/nation/2026/11/07/houston-mayor-says-police-will-no-longer-call-ice-unless-charges-are-jailable/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-07",
-      "id": "a2c00fdf8a6a"
     },
     {
       "title_ru": "Африка должна переключиться с импорта на промышленность для роста автопрома",
@@ -2069,10 +1882,180 @@
       "is_development": false,
       "first_reported": "2026-11-13",
       "id": "26a4e5e05b44"
+    },
+    {
+      "title_ru": "«Росатом» рассматривает пять вариантов атомной электростанции для Луны",
+      "title_en": "Rosatom considers five options for lunar nuclear power plant",
+      "date": "2026-11-14",
+      "summary": "Госкорпорация «Росатом» разрабатывает пять вариантов атомной электростанции для освоения Луны. Проект необходим для обеспечения энергией масштабных лунных миссий независимо от лунного дня и ночи.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/column/varianti-atomnoj-elektrostantsii"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-14",
+      "id": "abc640277aa0"
+    },
+    {
+      "title_ru": "Венгрия обнаружила почти 18 млн евро наличными в лесу по делу экс-министра",
+      "title_en": "Hungary finds nearly €18 million in cash in forest in ex-minister case",
+      "date": "2026-11-14",
+      "summary": "Венгерские следователи изъяли наличные на сумму почти 18 млн евро, спрятанные в лесных массивах и хозяйственных постройках. Деньги обнаружены в рамках коррупционного расследования бывшего министра национального развития Миклоша Шестака.",
+      "category": "politics",
+      "region": "Венгрия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9109675"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-14",
+      "id": "ea097cc90946"
+    },
+    {
+      "title_ru": "В ЮАР экс-замглавы полиции и три бывших чиновника предстанут перед судом по делу о синих мигающих огнях",
+      "title_en": "Former EMPD deputy chief, three ex-officials to face court over blue lights scandal",
+      "date": "2026-11-13",
+      "summary": "Бывший заместитель начальника полиции метрополии Экурхулени Джулиус Мхванази и три бывших старших муниципальных чиновника предстанут перед региональным судом. Их обвиняют в скандале с незаконным использованием синих мигающих огней на служебных автомобилях.",
+      "category": "politics",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-11-13-mkhwanazi-and-former-ekurhuleni-officials-to-face-regional-court-over-blue-lights-scandal/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-13",
+      "id": "3a54598f599f"
+    },
+    {
+      "title_ru": "В Южной Корее лучший сдавший экзамен на налогового бухгалтера сдался из-за списывания с помощью ИИ",
+      "title_en": "Top scorer in tax accountant exam turns himself in over AI-assisted cheating",
+      "date": "2026-11-15",
+      "summary": "Лучший сдавший экзамен на сертифицированного налогового бухгалтера в Южной Корее добровольно явился в полицию. Он признался в использовании искусственного интеллекта для помощи при сдаче экзамена.",
+      "category": "ai",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261115000700315"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-15",
+      "id": "e83c1b5160f9"
+    },
+    {
+      "title_ru": "Украина рассматривает переход на израильско-итальянские спутниковые терминалы вместо Starlink",
+      "title_en": "Ukraine moving toward Israeli-Italian satellite terminals instead of Starlink - report",
+      "date": "2026-11-15",
+      "summary": "Украина изучает возможность перехода на спутниковые терминалы израильско-итальянского производства в качестве альтернативы системе Starlink. Новые терминалы могут обеспечить альтернативный канал связи для управления беспилотниками.",
+      "category": "tech",
+      "region": "Украина",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/defense-and-tech/article-914912"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-15",
+      "id": "d120ce91b168"
+    },
+    {
+      "title_ru": "В Укрзалізниці не ожидают увеличения грузовых перевозок в 2027 году из-за блокады портов",
+      "title_en": "Ukrzaliznytsia does not expect increase in freight traffic in 2027 due to port blockade",
+      "date": "2026-11-15",
+      "summary": "Государственная компания «Укрзалізниця» не прогнозирует роста объема грузовых перевозок в следующем году. Основной причиной называется продолжающаяся блокада морских портов Украины.",
+      "category": "economy",
+      "region": "Украина",
+      "sources": [
+        "www.ukrinform.ua"
+      ],
+      "links": [
+        "https://www.ukrinform.ua/rubric-economy/4184841-v-ukrzaliznici-ne-ocikuut-na-zbilsenna-vantaznih-perevezen-u-2027-roci.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-15",
+      "id": "1bd844645e3b"
+    },
+    {
+      "title_ru": "Израильские силы подтвердили ликвидацию командира бригады ХАМАС в Рафиате в результате удара в Газе",
+      "title_en": "IDF, Shin Bet confirm death of Hamas's Rafah Brigade commander in targeted Gaza strike",
+      "date": "2026-11-15",
+      "summary": "Армия обороны Израиля и служба общей безопасности Шин Бет подтвердили ликвидацию командира бригады ХАМАС в Рафиате в результате целенаправленного удара в секторе Газа. Министр обороны Израиля Кац сообщил об этом в социальных сетях.",
+      "category": "conflicts",
+      "region": "Израиль/Палестина",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/israel-news/defense-news/article-914887"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-15",
+      "id": "9baf86b520a1"
+    },
+    {
+      "title_ru": "В США приостановлены авиарейсы по всей стране из-за планового обновления оборудования",
+      "title_en": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "date": "2026-11-14",
+      "summary": "Министр транспорта США заявил, что массовая отмена авиарейсов по всей стране вызвана плановым обновлением оборудования. Глава Федерального управления гражданской авиации Брайан Бедфорд также заявил об отсутствии доказательств причастности ИИ к сбою.",
+      "category": "life",
+      "region": "США",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-14",
+      "id": "f7044f261592"
+    },
+    {
+      "title_ru": "Премьер Манитобы заявил о достижении предела возможностей провинции по снижению стоимости жизни",
+      "title_en": "Premier says Manitoba nearing limits of what it can do on affordability",
+      "date": "2026-11-13",
+      "summary": "Премьер канадской провинции Манитоба Ваб Кинеу заявил, что правительство провинции достигло предела своих возможностей по снижению стоимости жизни без сокращения доходов бюджета. Теперь власти намерены перейти к действиям против крупных корпораций.",
+      "category": "politics",
+      "region": "Канада",
+      "sources": [
+        "www.cbc.ca"
+      ],
+      "links": [
+        "https://www.cbc.ca/news/canada/manitoba/affordability-cost-of-living-oil-companies-grocery-stores-9.7421904?cmp=rss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-13",
+      "id": "0be77bcc16db"
+    },
+    {
+      "title_ru": "Бангладешский фотограф выиграл $200 000 в конкурсе с призовым фондом $1 млн",
+      "title_en": "Bangladeshi Photographer wins $200,000 for “Family” in the World’s Richest $1 Million Photo Contest",
+      "date": "2026-11-14",
+      "summary": "Бангладешский фотограф стал победителем 15-го ежегодного конкурса HIPA, самого крупного по призовому фонду в мире фотографии. Тема этого года — «Семья», общий призовой фонд составляет $1 млн.",
+      "category": "photo",
+      "region": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/11/14/bangladeshi-photographer-wins-200000-for-family-in-the-worlds-richest-1-million-photo-contest/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-14",
+      "id": "1e4710579b72"
     }
   ],
   "_stats": {
-    "total_tokens": 1006847,
-    "total_cost": 63.879999999999974
+    "total_tokens": 1025764,
+    "total_cost": 65.05719999999998
   }
 }
