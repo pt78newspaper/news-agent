@@ -17,263 +17,6 @@
       "id": "6a433d7a6e57"
     },
     {
-      "title_ru": "NASA объявило контракт на $10 млрд на лунный грузовой посадочный модуль",
-      "title_en": "NASA announces $10b. contract for lunar cargo lander in push toward eventual long-term moon base",
-      "date": "2026-11-08",
-      "summary": "NASA объявило контракт стоимостью $10 млрд на разработку лунного грузового посадочного модуля для создания долгосрочной лунной базы. Среди компаний, претендующих на контракт, — SpaceX Илона Маска, Blue Origin Джеффа Безоса и Northrop Grumman Space Systems.",
-      "category": "tech",
-      "region": "США",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/science/space/article-914177"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-08",
-      "id": "cee4a847c1c7"
-    },
-    {
-      "title_ru": "Иран остановил контрабанду 8 млн литров топлива в сутки",
-      "title_en": "Eight million liters of daily fuel smuggling stopped: Anti-smuggling HQ",
-      "date": "2026-11-08",
-      "summary": "Иран перешел к прогнозному программному управлению для перекрытия лазеек на границах и защиты субсидируемых энергоресурсов от контрабандистов. Антиконтрабандный штаб сообщил о предотвращении контрабанды 8 млн литров топлива в сутки.",
-      "category": "tech",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/11/08/780248/eight-million-liters-of-daily-fuel-smuggling-stopped-anti-smuggling-hq"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-08",
-      "id": "c96d4f10130f"
-    },
-    {
-      "title_ru": "Астрономы уточнили массу черной дыры M87",
-      "title_en": "Астрономы «взвесили» первую «сфотографированную» черную дыру",
-      "date": "2026-11-08",
-      "summary": "Астрономы уточнили массу черной дыры M87, чью тень ранее удалось сфотографировать, по движению окружающих звезд. Новые измерения показали, что её масса примерно на миллиард солнечных масс меньше, чем показывали первые оценки.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/astronomy/vzvesili-sfotografirovannuyu-chernuyu"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-08",
-      "id": "f164ee5507ef"
-    },
-    {
-      "title_ru": "В Израиле ЦАХАЛ столкнулся с острым кадровым кризисом",
-      "title_en": "IDF faces severe manpower crisis as recently released reservists called back to duty",
-      "date": "2026-11-08",
-      "summary": "Армия обороны Израиля столкнулась с острым кадровым кризисом, в связи с чем недавно демобилизованных резервистов вызывают обратно на службу. Высшее командование ЦАХАЛ рассматривает вопрос о публичном заявлении о нехватке примерно 15 000 солдат.",
-      "category": "life",
-      "region": "Израиль",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/israel-news/article-914181"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-08",
-      "id": "32d7fb073850"
-    },
-    {
-      "title_ru": "Индонезия выделила $48,7 млн на скидки для новогодних поездок",
-      "title_en": "Indonesia allocates $48.7 million for year-end travel discounts",
-      "date": "2026-11-08",
-      "summary": "Правительство Индонезии выделило 883 млрд рупий (около $48,7 млн) в качестве стимулирующего финансирования на транспорт для новогодних праздников. Министерство транспорта прогнозирует мобильность 120 млн путешественников в период рождественских и новогодних праздников.",
-      "category": "life",
-      "region": "Индонезия",
-      "sources": [
-        "en.antaranews.com"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/441035/indonesia-allocates-487-million-for-year-end-travel-discounts"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-08",
-      "id": "ab0a6a34a486"
-    },
-    {
-      "title_ru": "Индонезия ужесточила контроль за субсидированным рисом после случаев мошенничества",
-      "title_en": "Indonesian govt tightens checks on subsidized rice after fraud cases",
-      "date": "2026-11-08",
-      "summary": "Национальное агентство по продовольствию Индонезии и полицейская группа по продовольствию договорились ужесточить надзор за распределением субсидированного риса. Это решение принято после выявления случаев мошенничества.",
-      "category": "life",
-      "region": "Индонезия",
-      "sources": [
-        "en.antaranews.com"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/441171/indonesian-govt-tightens-checks-on-subsidized-rice-after-fraud-cases"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-08",
-      "id": "07c58394cd07"
-    },
-    {
-      "title_ru": "Иран обвинил Израиль в усугублении гуманитарного кризиса в Газе",
-      "title_en": "Israeli regime deepening Gaza crisis: Hamas",
-      "date": "2026-11-08",
-      "summary": "Движение ХАМАС заявило, что израильский режим намеренно усугубляет гуманитарную катастрофу в секторе Газа. Заявление было распространено иранским информационным агентством IRNA.",
-      "category": "conflicts",
-      "region": "Ближний Восток",
-      "sources": [
-        "en.irna.ir"
-      ],
-      "links": [
-        "https://en.irna.ir/news/86315746/Israeli-regime-deepening-Gaza-crisis-Hamas"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-08",
-      "id": "d2a47f90ed49"
-    },
-    {
-      "title_ru": "КСИР заявил, что план 'Железные ворота' не позволит США обрушить экономику Ирана",
-      "title_en": "КСИР: план 'Железные ворота' не позволит США обрушить экономику Ирана",
-      "date": "2026-11-08",
-      "summary": "Официальный представитель Корпуса стражей исламской революции Хочейн Мохеби заявил, что план 'Железные ворота' не позволит США обрушить экономику Ирана. Он отметил, что предсказания США о крахе иранской экономики в течение двух недель не сбылись.",
-      "category": "conflicts",
-      "region": "Иран",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/mezhdunarodnaya-panorama/28295975"
-      ],
-      "is_development": true,
-      "first_reported": "2026-11-08",
-      "id": "30a6fee534e8"
-    },
-    {
-      "title_ru": "Индонезия получила инвестиционные обязательства на $138 млн из Европы",
-      "title_en": "Indonesia lands $138 million in investment commitments from Europe",
-      "date": "2026-11-08",
-      "summary": "Индонезийская холдинговая компания по промышленным зонам PT Danareksa получила инвестиционные обязательства на сумму $138 млн от европейских инвесторов.",
-      "category": "economy",
-      "region": "Индонезия",
-      "sources": [
-        "en.antaranews.com"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/441107/indonesia-lands-138-million-in-investment-commitments-from-europe"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-08",
-      "id": "75d8cd0a72f3"
-    },
-    {
-      "title_ru": "Индонезия стремится поддержать экономический рост через стимулы в четвертом квартале",
-      "title_en": "Govt seeks to sustain economic growth through Q4 stimulus measures",
-      "date": "2026-11-08",
-      "summary": "Заместитель координирующего министра по экономическим вопросам Индонезии Драджад Хари Вибово заявил, что правительство стремится поддержать экономический рост через меры стимулирования в четвертом квартале.",
-      "category": "economy",
-      "region": "Индонезия",
-      "sources": [
-        "en.antaranews.com"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/441075/govt-seeks-to-sustain-economic-growth-through-q4-stimulus-measures"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-08",
-      "id": "69b4fe2cd5ee"
-    },
-    {
-      "title_ru": "Лукашенко выразил соболезнования Польше после теракта в Кракове",
-      "title_en": "Лукашенко выразил соболезнования народу Польши в связи с терактом в Кракове",
-      "date": "2026-11-08",
-      "summary": "Президент Белоруссии Александр Лукашенко выразил соболезнования народу Польши в связи с террористическим актом в Кракове 7 ноября. В Белоруссии с глубокой скорбью восприняли известие о теракте, жертвами которого стали граждане Польши и других стран.",
-      "category": "politics",
-      "region": "Беларусь",
-      "sources": [
-        "www.belta.by"
-      ],
-      "links": [
-        "https://belta.by/president/view/lukashenko-vyrazil-soboleznovanija-narodu-polshi-v-svjazi-s-teraktom-v-krakove-809916-2026/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-08",
-      "id": "4f31549e4283"
-    },
-    {
-      "title_ru": "Сильное землетрясение в центральной Японии, пострадали не менее 22 человек",
-      "title_en": "Strong earthquake hits central Japan, injuring at least 22",
-      "date": "2026-11-08",
-      "summary": "Землетрясение магнитудой 5,7 произошло в центральной Японии. В результате пострадали не менее 22 человек, повреждены витрины магазинов.",
-      "category": "life",
-      "region": "Япония",
-      "sources": [
-        "www.taipeitimes.com",
-        "www.dailysabah.com",
-        "en.mehrnews.com"
-      ],
-      "links": [
-        "https://www.taipeitimes.com/News/front/archives/2026/11/09/2003867401",
-        "https://www.dailysabah.com/world/asia-pacific/at-least-22-wounded-when-strong-earthquake-rocks-central-japan",
-        "https://en.mehrnews.com/news/249240/VIDEO-A-5-7-magnitude-jolts-Japan-dozens-injured"
-      ],
-      "first_reported": "2026-11-08",
-      "id": "45854dcf1349"
-    },
-    {
-      "title_ru": "Корейская Kia впервые за 12 лет выполнит годовой план продаж",
-      "title_en": "Kia expected to meet annual sales target for 1st time in 12 yrs: industry data",
-      "date": "2026-11-08",
-      "summary": "Kia Corp. ожидает выполнения годового плана продаж впервые за 12 лет, согласно данным индустрии.",
-      "category": "economy",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261108001100320"
-      ],
-      "first_reported": "2026-11-08",
-      "id": "158194106eff"
-    },
-    {
-      "title_ru": "Российские силы нанесли удар по подстанции, питающей украинские оборонные предприятия",
-      "title_en": "Russian forces hit Kamenskaya substation feeding Ukrainian defense enterprises",
-      "date": "2026-11-08",
-      "summary": "Российские силы поразили Каменскую подстанцию, питающую оборонные предприятия Украины в Днепропетровской области.",
-      "category": "svo",
-      "region": "Украина",
-      "sources": [
-        "tass.com"
-      ],
-      "links": [
-        "https://tass.com/defense/2214489"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-08",
-      "id": "da2dc06fd8ea"
-    },
-    {
-      "title_ru": "Российские силы поразили два судна с грузами для украинской армии",
-      "title_en": "Russian forces hit two vessels with weapons, cargoes for Ukrainian army",
-      "date": "2026-11-08",
-      "summary": "Российские силы нанесли удары по судам и грузам двойного назначения в порту Черноморск и в Черном море к юго-западу от Одессы.",
-      "category": "svo",
-      "region": "Украина",
-      "sources": [
-        "tass.com"
-      ],
-      "links": [
-        "https://tass.com/defense/2214487"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-08",
-      "id": "519fd1ace857"
-    },
-    {
       "title_ru": "Украинские силы нанесли удар по центру Луганска, пострадавших нет",
       "title_en": "Ukrainian forces strike central Lugansk again as rescuers work — law enforcers",
       "date": "2026-11-09",
@@ -308,40 +51,6 @@
       "id": "aa6fad711056"
     },
     {
-      "title_ru": "КСИР предупредил о более жестком ответе в случае атак США на иранские суда",
-      "title_en": "IRGC warns it will 'hit harder' if US attacks Iran's vessels",
-      "date": "2026-11-08",
-      "summary": "Представитель КСИР генерал Мохеби предупредил о более жестком ответе в случае атак США на иранские суда.",
-      "category": "conflicts",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/11/08/780257/irgc-vows-to-hit-harder-if-us-attacks-irans-vessels"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-08",
-      "id": "f1efe2217622"
-    },
-    {
-      "title_ru": "Иранские эксперты проводят реверс-инжиниринг захваченного американского военного оборудования",
-      "title_en": "Iran reverse-engineering captured US military equipment: IRGC adviser",
-      "date": "2026-11-08",
-      "summary": "Советник Воздушно-космических сил КСИР заявил, что иранские эксперты проводят реверс-инжиниринг американского оборудования, захваченного во время 40-дневной навязанной войны.",
-      "category": "conflicts",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/11/08/780263/iran-reverse-engineering-captured-us-equipment-irgc-adviser"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-08",
-      "id": "a8a8840278cd"
-    },
-    {
       "title_ru": "Политическая напряженность в Польше обострилась после атаки в Кракове",
       "title_en": "En Pologne, les tensions politiques exacerbées après l'attaque de Cracovie",
       "date": "2026-11-09",
@@ -374,23 +83,6 @@
       "is_development": false,
       "first_reported": "2026-11-09",
       "id": "6922ae2fa808"
-    },
-    {
-      "title_ru": "Африка должна переключиться с импорта на промышленность для роста автопрома",
-      "title_en": "Africa must shift gears from imports to industry",
-      "date": "2026-11-08",
-      "summary": "Автомобильный сектор Африки обладает значительным потенциалом роста, но для его раскрытия необходимо превратить торговые рамки АфКФТА в интегрированные региональные цепочки создания стоимости, местные производственные центры и квалифицированные рабочие места.",
-      "category": "economy",
-      "region": "Африка",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/thought-leader/2026-11-08-africa-must-shift-gears-from-imports-to-industry/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-08",
-      "id": "5ad78d191d5d"
     },
     {
       "title_ru": "Израильский комиссар полиции обратился к генпрокурору из-за замороженных назначений старших офицеров",
@@ -595,40 +287,6 @@
       "is_development": false,
       "first_reported": "2026-11-10",
       "id": "6d3f5df930ee"
-    },
-    {
-      "title_ru": "Израильские силы совершили рейд на дома и школу в южной Сирии, установили блокпосты",
-      "title_en": "Israeli forces raid homes, school in southern Syria, set up checkpoints",
-      "date": "2026-11-08",
-      "summary": "Израильские силы совершили рейд на дома и школу в южной Сирии и установили блокпосты. Центр Sijil, отслеживающий действия Израиля в Сирии, зафиксировал в октябре 395 нарушений со стороны израильских солдат, что на 41,1% больше, чем в сентябре.",
-      "category": "conflicts",
-      "region": "Сирия",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/11/08/780221/israeli-forces-raid-school-in-southern-syria-set-up-checkpoints"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-08",
-      "id": "1ed4b1d1737e"
-    },
-    {
-      "title_ru": "Израильские силы обстреляли южный Ливан на фоне продолжающихся нарушений перемирия",
-      "title_en": "Israeli forces shell southern Lebanon amid continued ceasefire violations",
-      "date": "2026-11-08",
-      "summary": "Израильские силы провели подрывы в южном Ливане, включая взрыв в городе Завтар аш-Шаркия. Действия происходят на фоне продолжающихся нарушений режима прекращения огня.",
-      "category": "conflicts",
-      "region": "Ливан",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/11/08/780237/israeli-forces-shell-southern-lebanon-amid-continued-ceasefire-violations"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-08",
-      "id": "c3b36f1dd821"
     },
     {
       "title_ru": "ВСУ атаковали автобус, следовавший по маршруту Лисичанск — Луганск",
@@ -2052,10 +1710,299 @@
       "is_development": false,
       "first_reported": "2026-11-14",
       "id": "1e4710579b72"
+    },
+    {
+      "title_ru": "Starship совершил первую успешную посадку второй ступени",
+      "title_en": "SpaceX Starship completes fifteenth test flight",
+      "date": "2026-11-15",
+      "summary": "15 ноября 2026 года SpaceX впервые успешно вернула из космоса вторую ступень ракеты Starship. Посадка выполнена с первой попытки, что открывает эру полностью многоразовых космических систем.",
+      "category": "tech",
+      "region": "США",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/cosmonautics/lyudi-vpervye-vernuli-vtoruyu-stupen"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-15",
+      "id": "34118ebc811c"
+    },
+    {
+      "title_ru": "ЮАР призывает к развитию собственных ИИ-инноваций",
+      "title_en": "Ramaphosa calls on SA to move beyond consuming technology and develop home-grown innovations",
+      "date": "2026-11-16",
+      "summary": "Президент ЮАР Сирил Рамафоса во время визита в Кремниевую долину призвал страну перейти от потребления технологий к разработке собственных ИИ-решений. Эксперты подчеркнули необходимость снижения зависимости от западных технологий.",
+      "category": "ai",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/tech/2026-11-16-ramaphosa-calls-on-sa-to-move-beyond-consuming-technology-and-develop-home-grown-innovations/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-16",
+      "id": "e439f128f64c"
+    },
+    {
+      "title_ru": "Cequence Security и KPMG выпустили отчет по управлению агентным ИИ",
+      "title_en": "Cequence Security and KPMG Collaborate on Joint Report Examining how Organisations can Govern and Secure Agentic AI",
+      "date": "2026-11-16",
+      "summary": "Компания Cequence Security совместно с KPMG опубликовала отчет об управлении и защите агентного искусственного интеллекта. Документ содержит рекомендации по обеспечению безопасности ИИ-систем.",
+      "category": "ai",
+      "region": "Мир",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/442911/cequence-security-and-kpmg-collaborate-on-joint-report-examining-how-organisations-can-govern-and-secure-agentic-ai"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-16",
+      "id": "99a5615c2b7c"
+    },
+    {
+      "title_ru": "Болгария прекращает военную помощь Украине",
+      "title_en": "Bulgaria halts military aid to Ukraine",
+      "date": "2026-11-14",
+      "summary": "Премьер-министр Болгарии Румен Радев заявил о прекращении поставок оружия и боеприпасов Украине со складов болгарской армии. Решение принято на фоне пересмотра внешнеполитического курса страны.",
+      "category": "svo",
+      "region": "Болгария",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9109668"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-14",
+      "id": "3cf96e6ed791"
+    },
+    {
+      "title_ru": "Эстония предлагает закрыть границу с Россией на неопределенный срок",
+      "title_en": "Estonia’s PM proposes closing border with Russia indefinitely — news website",
+      "date": "2026-11-16",
+      "summary": "Премьер-министр Эстонии Кристен Михаэль предложил закрыть границу с Россией на неопределенный срок. Пограничная служба готовится к возможному наплыву мигрантов в случае принятия такого решения.",
+      "category": "svo",
+      "region": "Эстония",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/world/2218645"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-16",
+      "id": "46378c6ed304"
+    },
+    {
+      "title_ru": "Южная Корея и Таиланд ускорят переговоры по экономическому партнерству",
+      "title_en": "S. Korea, Thailand agree to accelerate negotiations on economic partnership agreement",
+      "date": "2026-11-16",
+      "summary": "Южная Корея и Таиланд договорились ускорить переговоры по соглашению об экономическом партнерстве. Соглашение было достигнуто в ходе встречи президентов двух стран в Маниле.",
+      "category": "economy",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261116008851315"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-16",
+      "id": "ef550f0b447e"
+    },
+    {
+      "title_ru": "Канада рассматривает сотрудничество с китайскими автопроизводителями",
+      "title_en": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
+      "date": "2026-11-16",
+      "summary": "Бывший глава Банка Англии Марк Карни заявил, что Канада может обратиться к китайским автопроизводителям в случае провала торговых переговоров с США. Это рассматривается как альтернатива для развития автомобильной промышленности.",
+      "category": "economy",
+      "region": "Канада",
+      "sources": [
+        "www.cbc.ca"
+      ],
+      "links": [
+        "https://www.cbc.ca/news/politics/canada-china-carney-auto-9.7423156?cmp=rss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-16",
+      "id": "66f390270f91"
+    },
+    {
+      "title_ru": "Австралия откладывает законы о занижении цен на жилье",
+      "title_en": "Minns shelves underquoting laws amid housing slump and backlash from Sydney agents",
+      "date": "2026-11-16",
+      "summary": "Правительство штата Новый Южный Уэльс отложило введение законов о занижении цен на недвижимость. Решение принято из-за непредвиденного спада на рынке жилья и противодействия риэлторов Сиднея.",
+      "category": "life",
+      "region": "Австралия",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/national/nsw/minns-to-shelve-underquoting-laws-amid-unforeseen-housing-slump-backlash-from-sydney-agents-20261116-p61enz.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-16",
+      "id": "91758f039b7a"
+    },
+    {
+      "title_ru": "В Ленобласти обновили правила работы социального такси",
+      "title_en": "Leningrad region updates social taxi rules",
+      "date": "2026-11-16",
+      "summary": "Власти Ленинградской области обновили правила работы социального такси. Перечень социально значимых объектов разделен на основной и дополнительный для оптимизации маршрутов.",
+      "category": "life",
+      "region": "Россия",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/obschestvo/28321269"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-16",
+      "id": "3ed22df44001"
+    },
+    {
+      "title_ru": "Израиль расширяет операции на юге Ливана",
+      "title_en": "Northern Command expands southern Lebanon sweeps as Hezbollah tests Israel's border readiness",
+      "date": "2026-11-16",
+      "summary": "Армия обороны Израиля под командованием Северного округа расширяет операции на юге Ливана для контроля стратегических высот и основных транспортных артерий. Цель — усилить оборону границы.",
+      "category": "conflicts",
+      "region": "Израиль",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/israel-news/defense-news/article-915023"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-16",
+      "id": "b732493d6e78"
+    },
+    {
+      "title_ru": "Иран сообщает о провале блокады США",
+      "title_en": "News Review: Failed US blockade of Iran",
+      "date": "2026-11-16",
+      "summary": "Согласно отчету The New York Times, попытки США ужесточить блокаду Ирана путем закрытия его сухопутных маршрутов провалились. Иранские власти заявляют о сохранении транспортных коридоров.",
+      "category": "conflicts",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/11/12/780562/news-review-us-failed-blockade-of-iran"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-16",
+      "id": "4bfe592a9186"
+    },
+    {
+      "title_ru": "Бразилия рассматривает изменения в национальном экзамене для поступления в вузы",
+      "title_en": "Brazil Weighs Big Changes to College Exam",
+      "date": "2026-11-16",
+      "summary": "Министр образования Бразилии Леонардо Барчини заявил, что федеральное агентство Inep представит предложение по изменению национального экзамена Enem. Реформа направлена на модернизацию системы образования.",
+      "category": "politics",
+      "region": "Бразилия",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/brazil-enem-exam-changes-barchini-inep/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-16",
+      "id": "0867a5c03925"
+    },
+    {
+      "title_ru": "Индонезия подтверждает статус развивающегося рынка и продолжает реформы",
+      "title_en": "Reform push continues as Indonesia holds emerging market status: IDX",
+      "date": "2026-11-16",
+      "summary": "Индонезийская фондовая биржа подтвердила приверженность ускорению реформ на рынке капитала после сохранения страной статуса развивающегося рынка. Реформы направлены на повышение привлекательности для инвесторов.",
+      "category": "politics",
+      "region": "Индонезия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/442975/reform-push-continues-as-indonesia-holds-emerging-market-status-idx"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-16",
+      "id": "ffb553d5fafc"
+    },
+    {
+      "title_ru": "Белоруссия обсудила свою роль в формировании ЕАО",
+      "title_en": "Belarus discusses its role in formation of EAO",
+      "date": "2026-11-16",
+      "summary": "На встрече у президента Беларуси Александра Лукашенко обсуждалась роль страны в формировании Евразийского объединения. Глава государства отметил серьезный вклад белорусов в создание этого края.",
+      "category": "politics",
+      "region": "Беларусь",
+      "sources": [
+        "www.belta.by"
+      ],
+      "links": [
+        "https://belta.by/president/view/kak-mladshaja-sestra-ili-doch-rol-belarusi-v-formirovanii-eao-stala-predmetom-obsuzhdenija-na-vstreche-811091-2026/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-16",
+      "id": "a963f3bc177f"
+    },
+    {
+      "title_ru": "Трамп обвиняет администрацию Байдена в ущербе гражданской авиации США",
+      "title_en": "Trump accuses Biden administration of damaging US civil aviation",
+      "date": "2026-11-16",
+      "summary": "Президент США Дональд Трамп заявил, что администрация его предшественника Джо Байдена ухудшила состояние гражданской авиации страны. По его словам, старая и сломанная система стала еще хуже.",
+      "category": "statement",
+      "region": "США",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/world/2218413"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-16",
+      "id": "a9b5aa3114e3"
+    },
+    {
+      "title_ru": "В Саудовской Аравии найдены следы древнейшего применения яда на охоте",
+      "title_en": "Traces of earliest poison use found in Saudi Arabia",
+      "date": "2026-11-16",
+      "summary": "Археологи обнаружили на берегу древнего озера Мундафан в Саудовской Аравии свидетельства использования яда древними людьми. Находка включает остатки растений, животных и тысячи каменных орудий.",
+      "category": "culture",
+      "region": "Саудовская Аравия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/archeology/v-saudovskoi-nashli-sledy"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-16",
+      "id": "b4581a3d35f4"
+    },
+    {
+      "title_ru": "Авиаудары по Ирану могут пролить свет на целесообразность строительства плотин",
+      "title_en": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
+      "date": "2026-11-16",
+      "summary": "Авиаудары по иранским ракетным объектам могут помочь экологам понять причины строительства обширной сети водных проектов. Ранее экологи не находили очевидного обоснования для этих сооружений.",
+      "category": "ecology",
+      "region": "Иран",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/11/16/world/europe/iran-dams-missile-sites-environmentalists.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-16",
+      "id": "16897b8ca742"
     }
   ],
   "_stats": {
-    "total_tokens": 1025764,
-    "total_cost": 65.05719999999998
+    "total_tokens": 1044729,
+    "total_cost": 66.26885999999998
   }
 }
