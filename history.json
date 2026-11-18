@@ -17,209 +17,6 @@
       "id": "6a433d7a6e57"
     },
     {
-      "title_ru": "Спутники составили глобальную карту истощения подземных вод",
-      "title_en": "Satellites compiled global map of groundwater depletion",
-      "date": "2026-11-10",
-      "summary": "Спутниковый анализ позволил составить карту истощения подземных вод по всей планете. Наибольшее сокращение запасов происходит там, где подземные воды активно используются для орошения сельскохозяйственных земель.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/climate/sostavili-kartu-istoshheniya-vod"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-10",
-      "id": "e4c8cb66b78e"
-    },
-    {
-      "title_ru": "NASA объявило о разработке экспериментального самолета X-70 Fractal",
-      "title_en": "Here’s What We Know About the X-70 Fractal, NASA’s Experimental New Plane",
-      "date": "2026-11-10",
-      "summary": "NASA объявило о разработке экспериментального самолета X-70 Fractal, предназначенного для исследования новых возможностей полета. Детали конструкции и эксплуатации остаются засекреченными.",
-      "category": "tech",
-      "region": "США",
-      "sources": [
-        "www.wired.com"
-      ],
-      "links": [
-        "https://www.wired.com/story/heres-what-we-know-about-the-x-70-fractal-nasas-experimental-new-plane/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-10",
-      "id": "31c470e4174b"
-    },
-    {
-      "title_ru": "В Канаде легально содержат львов и тигров в частных владениях",
-      "title_en": "Lions and tigers are kept legally in Ontario backyards. No one knows how many there are",
-      "date": "2026-11-10",
-      "summary": "В провинции Онтарио, Канада, легально разрешено частное владение львами и тиграми. Провинциальные власти не могут назвать точное количество таких хищников, содержащихся в частных владениях.",
-      "category": "life",
-      "region": "Канада",
-      "sources": [
-        "www.cbc.ca"
-      ],
-      "links": [
-        "https://www.cbc.ca/news/canada/ontario-exotic-animal-ownership-9.7393011?cmp=rss"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-10",
-      "id": "989c8cd08d6a"
-    },
-    {
-      "title_ru": "Массовая кража меди привела к отключению электричества и закрытию магазинов в Ипсвиче",
-      "title_en": "Power cut and stores closed after massive copper theft in Ipswich",
-      "date": "2026-11-10",
-      "summary": "Массовая кража меди в Ипсвиче, Австралия, привела к отключению электричества и вынудила магазины закрыться. Инцидент произошел в торговом центре Town Square Redbank Plains.",
-      "category": "life",
-      "region": "Австралия",
-      "sources": [
-        "www.smh.com.au"
-      ],
-      "links": [
-        "https://www.smh.com.au/national/power-cut-and-stores-closed-after-massive-copper-theft-in-ipswich-20261110-p61d2x.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-10",
-      "id": "6d3f5df930ee"
-    },
-    {
-      "title_ru": "ВСУ атаковали автобус, следовавший по маршруту Лисичанск — Луганск",
-      "title_en": "Ukrainian forces attacked a bus on the Lysychansk-Luhansk route",
-      "date": "2026-11-10",
-      "summary": "Вооруженные силы Украины атаковали автобус, следовавший по маршруту Лисичанск — Луганск. Инцидент произошел на территории, контролируемой ЛНР.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20261110/vsu-2130613564.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-10",
-      "id": "275b3f8441e7"
-    },
-    {
-      "title_ru": "Южнокорейские акции выросли более чем на 4%, завершив трехдневное падение",
-      "title_en": "Seoul shares soar over 4 pct to snap 3-day slide on tech rally, oil prices fall",
-      "date": "2026-11-10",
-      "summary": "Южнокорейские акции завершили торги ростом более чем на 4%, прервав трехдневное падение. Рост был обусловлен ралли технологических компаний и падением цен на нефть.",
-      "category": "economy",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261110007300320"
-      ],
-      "is_development": true,
-      "first_reported": "2026-11-10",
-      "id": "bcc36691a9eb"
-    },
-    {
-      "title_ru": "Десять крупнейших компаний обеспечили более 60% экспорта Южной Кореи в третьем квартале",
-      "title_en": "Top 10 firms take up over 60 pct of S. Korea's exports in Q3 amid chip boom",
-      "date": "2026-11-10",
-      "summary": "Десять крупнейших компаний Южной Кореи обеспечили более 60% общего экспорта страны в третьем квартале 2026 года. Рост доли связан с бумом в секторе полупроводников.",
-      "category": "economy",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261110002000320"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-10",
-      "id": "9f8e3ab6db45"
-    },
-    {
-      "title_ru": "Данные о валютных интервенциях Японии подчеркивают сложность укрепления иены",
-      "title_en": "Japan FX intervention data underscores challenge of reversing weak yen",
-      "date": "2026-11-10",
-      "summary": "Опубликованные данные о валютных интервенциях Банка Японии подчеркивают сложность задачи по развороту тенденции к ослаблению японской иены.",
-      "category": "economy",
-      "region": "Япония",
-      "sources": [
-        "asia.nikkei.com"
-      ],
-      "links": [
-        "https://asia.nikkei.com/business/markets/currencies/japan-fx-intervention-data-underscores-challenge-of-reversing-weak-yen"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-10",
-      "id": "ea47660e9763"
-    },
-    {
-      "title_ru": "Рособрнадзор объявил предостережения МФТИ и еще четырем вузам",
-      "title_en": "Rosobrnadzor issued warnings to MIPT and four other universities",
-      "date": "2026-11-10",
-      "summary": "Рособрнадзор объявил предостережения пяти вузам из-за нарушений обязательных требований в сфере образования. Среди учебных заведений — Московский физико-технический институт (МФТИ) и Национальный исследовательский университет ИТМО.",
-      "category": "politics",
-      "region": "Россия",
-      "sources": [
-        "ria.ru"
-      ],
-      "links": [
-        "https://ria.ru/20261110/rosobrnadzor-2130559910.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-10",
-      "id": "95d8c662e28f"
-    },
-    {
-      "title_ru": "Франция пригрозила Ирану жесткой ответной реакцией за кибератаку на холодильные системы",
-      "title_en": "France threatened Iran with a harsh response for a large-scale cyberattack on refrigeration systems",
-      "date": "2026-11-10",
-      "summary": "Франция не исключает любых мер, включая те, о которых не будет сообщать публично, в ответ на кибератаки в октябре на холодильные системы французских супермаркетов. Париж также будет добиваться санкций против Ирана на уровне ЕС.",
-      "category": "statement",
-      "region": "Франция",
-      "sources": [
-        "www.ukrinform.ua"
-      ],
-      "links": [
-        "https://www.ukrinform.ua/rubric-world/4183288-francia-prigrozila-iranu-zorstkou-vidpoviddu-za-masstabnu-kiberataku-na-holodilni-sistemi.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-10",
-      "id": "4b521f0f0f62"
-    },
-    {
-      "title_ru": "Фотограф погибла во время съемки винтажного самолета",
-      "title_en": "Photographer Killed While Capturing Vintage Airplane",
-      "date": "2026-11-10",
-      "summary": "Фотограф погибла после того, как ее сбил винтажный самолет, который она фотографировала. Инцидент произошел во время фотосессии.",
-      "category": "photo",
-      "region": "Мир",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/11/10/photographer-killed-while-capturing-vintage-airplane/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-10",
-      "id": "979e07f4778b"
-    },
-    {
-      "title_ru": "X-energy получила разрешение на строительство первых малых модульных ядерных реакторов",
-      "title_en": "X-energy gets green light to build its first small modular nuclear reactors",
-      "date": "2026-11-10",
-      "summary": "Компания X-energy получила разрешение на строительство от Комиссии по ядерному регулированию США. Разрешение позволяет построить четыре реактора в Техасе.",
-      "category": "tech",
-      "region": "США",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/"
-      ],
-      "first_reported": "2026-11-10",
-      "id": "3860128c9879"
-    },
-    {
       "title_ru": "Южная Корея выделила $20 млн на проекты ИИ в Азиатском банке развития",
       "title_en": "S. Korea pledges US$20 mln to ADB fund for AI projects",
       "date": "2026-11-11",
@@ -300,22 +97,6 @@
       "id": "fb31c4ee7556"
     },
     {
-      "title_ru": "Лавров: Россия не согласится на немедленное прекращение конфликта на Украине",
-      "title_en": "Lavrov: Russia ne soglasitsya na nemедlennoe prekrashchenie konflikta na Ukraine",
-      "date": "2026-11-10",
-      "summary": "Министр иностранных дел РФ Сергей Лавров заявил, что Россия не согласится на предложение Европы о немедленном прекращении конфликта на Украине. По его словам, призывы европейских политиков направлены на ослабление позиций России.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9093743"
-      ],
-      "first_reported": "2026-11-10",
-      "id": "50378c6939f6"
-    },
-    {
       "title_ru": "Испания возобновила импорт российского СПГ после перерыва",
       "title_en": "Ispaniya vozobnovila import rossiyskogo SPG posle pereryva",
       "date": "2026-11-11",
@@ -362,22 +143,6 @@
       ],
       "first_reported": "2026-11-11",
       "id": "459efbe44762"
-    },
-    {
-      "title_ru": "Рубио: США намерены как можно скорее прекратить оплачивать оружие для Израиля",
-      "title_en": "Rubio: SShA namereny kak mozhno skoree prekratit oplachivat oruzhie dlya Izrailya",
-      "date": "2026-11-10",
-      "summary": "Госсекретарь США Марко Рубио заявил, что администрация президента Дональда Трампа намерена быстрее свернуть программу военного финансирования Израиля в размере 4 миллиардов долларов. Заявление сделано в Париже.",
-      "category": "politics",
-      "region": "США",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9093305"
-      ],
-      "first_reported": "2026-11-10",
-      "id": "a7654ded0801"
     },
     {
       "title_ru": "Metalenz приобрела израильский стартап PxE Imaging для замены цветных фильтров Байера",
@@ -2033,10 +1798,248 @@
       "is_development": false,
       "first_reported": "2026-11-17",
       "id": "2a951ccc93cd"
+    },
+    {
+      "title_ru": "Израиль одобрил пилотную программу для 250 иностранных водителей грузовиков",
+      "title_en": "Israel approves 250 foreign truck drivers in pilot program to address shortage",
+      "date": "2026-11-18",
+      "summary": "Израиль одобрил пилотную программу для привлечения 250 иностранных водителей грузовиков для решения проблемы нехватки кадров. Программа разработана совместно с Управлением по вопросам населения и иммиграции и Министерством экономики.",
+      "category": "tech",
+      "region": "Израиль",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/israel-news/article-915258"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-18",
+      "id": "9e2e72b3f86c"
+    },
+    {
+      "title_ru": "Индонезия повысила ключевую ставку до 6% для защиты рупии",
+      "title_en": "BI raises rate to 6 percent to defend rupiah against Fed moves",
+      "date": "2026-11-18",
+      "summary": "Банк Индонезии повысил ключевую процентную ставку на 25 базисных пунктов до 6%. Это упреждающая мера для защиты рупии от действий Федеральной резервной системы США.",
+      "category": "economy",
+      "region": "Индонезия",
+      "sources": [
+        "en.antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/443543/bi-raises-rate-to-6-percent-to-defend-rupiah-against-fed-moves"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-18",
+      "id": "60bc18b9d2a4"
+    },
+    {
+      "title_ru": "Корпус военно-транспортного самолета Ан-12 потерпел крушение в Кемеровской области",
+      "title_en": "Минобороны сообщило о гибели 19 человек при крушении Ан-12",
+      "date": "2026-11-17",
+      "summary": "Министерство обороны России подтвердило крушение военно-транспортного самолета Ан-12 в Кемеровской области. На борту находились 19 человек, все они погибли.",
+      "category": "life",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9112079"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-17",
+      "id": "c37321c617f8"
+    },
+    {
+      "title_ru": "В ЮАР сообщили об угрозе взрыва в деловом центре Сандтон",
+      "title_en": "Bomb threat leads to road closures in Sandton CBD",
+      "date": "2026-11-16",
+      "summary": "Сообщение об угрозе взрыва возле Элис-Лейн и Сандтон-Драйв привело к закрытию дорог и проверкам полицейским саперным подразделением в деловом центре Сандтон.",
+      "category": "conflicts",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-11-16-bomb-threat-leads-to-road-closures-in-sandton-cbd/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-16",
+      "id": "69b4590ad263"
+    },
+    {
+      "title_ru": "ФСБ сообщила о предотвращении атак БПЛА на корабли и аэродромы на юге России",
+      "title_en": "ФСБ сообщила о предотвращении атак БПЛА на корабли и аэродромы на юге России",
+      "date": "2026-11-17",
+      "summary": "ФСБ сообщила, что в нескольких российских регионах готовились атаки на корабли, суда и военные аэродромы. Для диверсий планировалось использовать беспилотные летательные аппараты и гидроциклы.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9111264"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-17",
+      "id": "08b4ecdbebf3"
+    },
+    {
+      "title_ru": "Британия передала США арестованного по подозрению в шпионаже в пользу России",
+      "title_en": "Британия передала США арестованного по подозрению в шпионаже в пользу России",
+      "date": "2026-11-18",
+      "summary": "Антитеррористическое подразделение полиции Великобритании сообщило, что американский военный, арестованный 10 ноября по подозрению в шпионаже в пользу России, передан правоохранительным органам США.",
+      "category": "svo",
+      "region": "Великобритания",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9112331"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-18",
+      "id": "40d8cb91af9f"
+    },
+    {
+      "title_ru": "Совет директоров Industrial Development Corporation уволил генерального директора",
+      "title_en": "Exclusive: IDC CEO fired",
+      "date": "2026-11-17",
+      "summary": "Совет директоров Industrial Development Corporation уволил генерального директора Ммакгоси Лекхете. Решение принято из-за растущих опасений по поводу корпоративного управления и бизнес-показателей.",
+      "category": "politics",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-11-17-exclusive-idc-ceo-fired/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-17",
+      "id": "3995315a8460"
+    },
+    {
+      "title_ru": "Спор о кредите Airbus на 3 млрд евро может возобновить торговый спор США и ЕС",
+      "title_en": "Could the Airbus' €3 billion loan row reignite a US-EU trade dispute?",
+      "date": "2026-11-17",
+      "summary": "США заявляют, что пакет финансирования Airbus на 3 млрд евро может противоречить трансатлантическому перемирию по субсидиям для авиастроения. Чиновники ЕС настаивают, что финансирование соответствует рыночным правилам.",
+      "category": "politics",
+      "region": "Европа",
+      "sources": [
+        "rss.dw.com"
+      ],
+      "links": [
+        "https://www.dw.com/en/could-the-airbus-€3-billion-loan-row-reignite-a-us-eu-trade-dispute/a-79943075?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-17",
+      "id": "368f318aec29"
+    },
+    {
+      "title_ru": "Иранский спикер парламента заявил, что регионального мира не будет без прекращения войны Израиля с Ливаном",
+      "title_en": "No regional peace without end to Israeli war on Lebanon: Ghalibaf",
+      "date": "2026-11-16",
+      "summary": "Спикер парламента Ирана Мохаммад Багер Галибаф заявил, что Тегеран придает особое значение вопросу Ливана в процессе переговоров с Вашингтоном. Он утверждает, что регионального мира не будет без прекращения войны Израиля с Ливаном.",
+      "category": "statement",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/11/16/780895/no-regional-peace-without-end-to-israeli-war-on-lebanon-irans-qalibaf"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-16",
+      "id": "be2878299c7a"
+    },
+    {
+      "title_ru": "Физики описали новый вид радиоактивности — одновременный α-β-распад",
+      "title_en": "Физики описали новый вид радиоактивности — одновременный α-β-распад",
+      "date": "2026-11-18",
+      "summary": "Ученые-физики описали новый вид радиоактивного распада, при котором происходит одновременное испускание альфа- и бета-частиц. Ранее считалось, что эти типы распадов происходят независимо.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/physics/new-alpha-beta-decay"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-18",
+      "id": "e3b1b585dec1"
+    },
+    {
+      "title_ru": "Южная Корея призвала членов АТЭС обеспечить стабильные поставки критически важных минералов и энергии",
+      "title_en": "Lee calls on APEC members to work together to ensure stable supply of critical minerals, energy",
+      "date": "2026-11-18",
+      "summary": "Президент Южной Кореи Ли Джэ Мён на саммите АТЭС призвал членов организации совместно работать над обеспечением стабильных поставок критически важных минералов и энергии.",
+      "category": "economy",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261118009600315"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-18",
+      "id": "75356b312e75"
+    },
+    {
+      "title_ru": "Корь официально вернулась в США",
+      "title_en": "‘A new Wild West’: Measles is officially back in the US. What now?",
+      "date": "2026-11-18",
+      "summary": "Корь, крайне заразное и потенциально смертельное заболевание, официально вернулась в США. Страна готовится к новым вспышкам после снижения уровня вакцинации.",
+      "category": "life",
+      "region": "США",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/world/north-america/a-new-wild-west-measles-is-officially-back-in-the-us-what-now-20261118-p61f61.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-18",
+      "id": "a8c7adbf3127"
+    },
+    {
+      "title_ru": "Владелец торгового центра в Бразилии открыл новое крыло в Бразилиа за 55 млн долларов",
+      "title_en": "Brazil Mall Owner Opens US$55M Brasília Wing",
+      "date": "2026-11-18",
+      "summary": "Компания Multiplan открыла новое крыло торгового центра ParkShopping в Бразилиа 18 ноября. Добавлено около 60 магазинов, включая Coach и LEGO, на сумму около 55 млн долларов США.",
+      "category": "economy",
+      "region": "Бразилия",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/multiplan-parkshopping-brasilia-expansion-opens/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-18",
+      "id": "cea11955e5c0"
+    },
+    {
+      "title_ru": "В ЦБ ожидают появления первых ПИФ на криптовалюту в 2027 году",
+      "title_en": "В ЦБ ожидают появления первых ПИФ на криптовалюту в 2027 году",
+      "date": "2026-11-18",
+      "summary": "Банк России ожидает, что первые паевые инвестиционные фонды на криптовалюту появятся в 2027 году. Покупать криптовалюту смогут фонды, предназначенные для квалифицированных инвесторов.",
+      "category": "economy",
+      "region": "Россия",
+      "sources": [
+        "rssexport.rbc.ru"
+      ],
+      "links": [
+        "https://www.rbc.ru/quote/18/11/2026/6afd833634567f786de81fcb"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-18",
+      "id": "2db17adbaec8"
     }
   ],
   "_stats": {
-    "total_tokens": 1063123,
-    "total_cost": 67.44955999999998
+    "total_tokens": 1081002,
+    "total_cost": 68.58105999999998
   }
 }
