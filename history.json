@@ -17,202 +17,6 @@
       "id": "6a433d7a6e57"
     },
     {
-      "title_ru": "Группа «Аэрофлот» за 10 месяцев сократила перевозки на 1,1%",
-      "title_en": "Группа \"Аэрофлот\" за 10 месяцев сократила перевозки на 1,1%",
-      "date": "2026-11-12",
-      "summary": "Компания перевезла 46,7 млн пассажиров за 10 месяцев 2026 года. Объем перевозок сократился на 1,1% по сравнению с аналогичным периодом прошлого года.",
-      "category": "tech",
-      "region": "Россия",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/ekonomika/28311267"
-      ],
-      "first_reported": "2026-11-12",
-      "id": "dfadda8da712"
-    },
-    {
-      "title_ru": "Anthropic готовится к IPO на Nasdaq как первая «чистая» акция ИИ",
-      "title_en": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market",
-      "date": "2026-11-12",
-      "summary": "Американская компания в области искусственного интеллекта Anthropic планирует дебют на бирже Nasdaq. Ожидаемое IPO рассматривается как тест для первой «чистой» акции ИИ на волатильном рынке.",
-      "category": "ai",
-      "region": "США",
-      "sources": [
-        "www.cbc.ca"
-      ],
-      "links": [
-        "https://www.cbc.ca/news/business/anthropic-ipo-9.7418028?cmp=rss"
-      ],
-      "first_reported": "2026-11-12",
-      "id": "6ad2aa6060a4"
-    },
-    {
-      "title_ru": "В Казахстане задержали главу ФНБ «Самрук-Казына» по подозрению в коррупции",
-      "title_en": "В Казахстане задержали главу ФНБ «Самрук-Казына» по подозрению в коррупции",
-      "date": "2026-11-12",
-      "summary": "Антикоррупционные органы Казахстана задержали председателя фонда национального благосостояния «Самрук-Казына» Нурлана Жакупова. Также задержан глава «Казахстанских железных дорог».",
-      "category": "life",
-      "region": "Казахстан",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9095326"
-      ],
-      "first_reported": "2026-11-12",
-      "id": "278875110c66"
-    },
-    {
-      "title_ru": "Израильские силы убили палестинского подростка и ранили троих на Западном берегу",
-      "title_en": "Israeli forces kill Palestinian teen, injure 3 in occupied West Bank",
-      "date": "2026-11-12",
-      "summary": "Израильские силы убили палестинского подростка и ранили трех других человек на Западном берегу. Отца убитого подростка задержали.",
-      "category": "conflicts",
-      "region": "Палестина",
-      "perspective": "Израильские силы проводят контртеррористическую операцию; палестинцы считают это внесудебной казнью.",
-      "perspective_type": "assumed",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/11/10/780377/israeli-forces-kill-palestinian-teen-wound-3-in-occupied-west-bank"
-      ],
-      "first_reported": "2026-11-12",
-      "id": "0ec2d69ac2c2"
-    },
-    {
-      "title_ru": "Зеленский сообщил о новых ограничениях скорости работы системы Starshield",
-      "title_en": "Zelensky says Starshield speed is being limited again, hampering Ukraine's defenses",
-      "date": "2026-11-12",
-      "summary": "Президент Украины Владимир Зеленский заявил, что скорость работы американской спутниковой системы связи Starshield снова ограничена. По его словам, это нарушает военные операции по всей линии фронта.",
-      "category": "svo",
-      "region": "Украина",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/international/internationalrussia-ukraine-war/article-914688"
-      ],
-      "first_reported": "2026-11-12",
-      "id": "5bbf750b9975"
-    },
-    {
-      "title_ru": "Матовиенко: Россия благодарна США за усилия по урегулированию украинского конфликта",
-      "title_en": "Russia grateful for US efforts to help resolve Ukraine conflict — senate speaker",
-      "date": "2026-11-12",
-      "summary": "Спикер Совета Федерации Валентина Матвиенко заявила, что Россия благодарна США за дипломатические усилия по урегулированию конфликта на Украине. Она отметила, что «активная дипломатическая работа» продолжается.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "tass.com"
-      ],
-      "links": [
-        "https://tass.com/politics/2216851"
-      ],
-      "first_reported": "2026-11-12",
-      "id": "35d8d580b262"
-    },
-    {
-      "title_ru": "Южнокорейская вона достигла 15-дневного максимума к доллару США",
-      "title_en": "S. Korean won hits 15-day high against U.S. dollar on foreign inflows",
-      "date": "2026-11-12",
-      "summary": "Южнокорейская вона укрепилась до самого высокого уровня за 15 дней по отношению к доллару США. Рост обусловлен притоком иностранного капитала.",
-      "category": "economy",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261112009900320"
-      ],
-      "first_reported": "2026-11-12",
-      "id": "2973e85a9f58"
-    },
-    {
-      "title_ru": "Министр иностранных дел КНДР осудила призыв G7 к денуклеаризации",
-      "title_en": "N. Korean FM slams G7 nations' call for denuclearization, says its nuclear pursuit remains 'steadfast'",
-      "date": "2026-11-12",
-      "summary": "Министр иностранных дел КНДР Чхве Сон Хви осудила призыв стран G7 к денуклеаризации Корейского полуострова. Она заявила, что ядерная программа КНДР остается «непоколебимой».",
-      "category": "politics",
-      "region": "КНДР",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261112012200315"
-      ],
-      "first_reported": "2026-11-12",
-      "id": "342eaeefef18"
-    },
-    {
-      "title_ru": "В ЮАР арестован десятый подозреваемый по делу о вербовке для войны в Украине",
-      "title_en": "Hawks arrest 10th suspect in alleged Russia-Ukraine recruitment case",
-      "date": "2026-11-12",
-      "summary": "В ЮАР спецподразделение Hawks арестовало десятого подозреваемого по делу о попытке вербовки для участия в войне между Россией и Украиной. Подозреваемый якобы пытался выехать из ЮАР для присоединения к конфликту.",
-      "category": "politics",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-11-12-hawks-arrest-10th-suspect-in-alleged-russia-ukraine-recruitment-case/"
-      ],
-      "first_reported": "2026-11-12",
-      "id": "c67e88631e0a"
-    },
-    {
-      "title_ru": "Иранские девушки завоевали историческую бронзу по футзалу на Юношеских Олимпийских играх",
-      "title_en": "Iranian girls stage stunning comeback to claim historic futsal bronze at Youth Olympics",
-      "date": "2026-11-12",
-      "summary": "Молодежная женская сборная Ирана по футзалу одержала победу над Италией со счетом 5:2, отыгравшись с двух мячей. Команда завоевала первую в истории Ирана бронзовую медаль на Юношеских Олимпийских играх.",
-      "category": "culture",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/11/12/780551/iranian-girls-stage-stunning-comeback-to-claim-historic-futsal-bronze-at-youth-olympics"
-      ],
-      "first_reported": "2026-11-12",
-      "id": "1f750d57eec4"
-    },
-    {
-      "title_ru": "Древние люди начали собирать сувениры уже 500 тысяч лет назад",
-      "title_en": "Ancient humans started collecting souvenirs 500,000 years ago",
-      "date": "2026-11-12",
-      "summary": "Ученые установили, что привычка сохранять предметы на память о важных событиях и местах могла возникнуть около 500 тысяч лет назад. Это свидетельствует о более раннем развитии символического поведения у предков человека.",
-      "category": "tech",
-      "region": "Мир",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/archeology/drevnie-suvenirs"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-12",
-      "id": "88a785a004a7"
-    },
-    {
-      "title_ru": "Synchron приостановил клинические испытания мозгового импланта из-за проблем с производительностью",
-      "title_en": "Synchron Pauses Trials of Its Brain Implant Due to Performance Issues",
-      "date": "2026-11-12",
-      "summary": "Стартап Synchron, разрабатывающий интерфейс мозг-компьютер, приостановил клинические испытания своего устройства из-за проблем с производительностью. Компания планирует обновить аппаратное обеспечение импланта и работает над новым устройством.",
-      "category": "tech",
-      "region": "США",
-      "sources": [
-        "www.wired.com"
-      ],
-      "links": [
-        "https://www.wired.com/story/synchron-pauses-trials-of-its-brain-implant-due-to-performance-issues/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-12",
-      "id": "cadcc7b2e2c3"
-    },
-    {
       "title_ru": "Nvidia акции упали почти на 10% после сообщения о возможном увольнении Дженсена Хуанга",
       "title_en": "Nvidia shares plunge almost 10% on report board may oust Jensen Huang",
       "date": "2026-11-13",
@@ -283,25 +87,6 @@
       "id": "34171a1bfa76"
     },
     {
-      "title_ru": "Израильский удар по больнице Нассер в Газе: 6 погибших",
-      "title_en": "Israeli Strikes on Gaza Hospital Kill 6 and Injure Dozens, Health Officials Say",
-      "date": "2026-11-12",
-      "summary": "Израильский удар по медицинскому комплексу Нассер в южной части сектора Газа привел к гибели шести человек и ранениям десятков. Израильские власти заявили, что ХАМАС создал командный центр на территории больницы, в то время как ХАМАС назвал атаку военным преступлением.",
-      "category": "conflicts",
-      "region": "Израиль",
-      "perspective": "Израиль утверждает о военном использовании объекта ХАМАС, палестинские стороны и международные наблюдатели говорят об ударе по гражданской инфраструктуре.",
-      "perspective_type": "assumed",
-      "sources": [
-        "rss.nytimes.com"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-12",
-      "id": "8814aee49ea0"
-    },
-    {
       "title_ru": "Украина потеряла 630 локомотивов из-за российских ударов",
       "title_en": "Ukraine has lost 630 locomotives due to Russian strikes",
       "date": "2026-11-13",
@@ -336,40 +121,6 @@
       "id": "1c454e23f543"
     },
     {
-      "title_ru": "Алико Данготе запустил проект топливопровода в Намибии на $2,5 млрд",
-      "title_en": "Dangote bets on Africa making its own wealth",
-      "date": "2026-11-12",
-      "summary": "Нигерийский промышленник Алико Данготе запустил проект строительства топливопровода в Намибии стоимостью 2,5 миллиарда долларов. Проект является частью его общеафриканской стратегии по переработке ресурсов континента на месте.",
-      "category": "economy",
-      "region": "Намибия",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/thought-leader/2026-11-12-dangote-bets-on-africa-making-its-own-wealth/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-12",
-      "id": "60a72c23bae1"
-    },
-    {
-      "title_ru": "Сбербанк решил продать маркетплейсам 700 тыс. кв. м складов",
-      "title_en": "Sber decided to sell 700 thousand sq. m of warehouses to marketplaces",
-      "date": "2026-11-12",
-      "summary": "Сбербанк намерен до конца года продать маркетплейсам около 700 тысяч квадратных метров невостребованных складских площадей. Решение было озвучено председателем правления Германом Грефом.",
-      "category": "economy",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9095569"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-12",
-      "id": "3bfa976bca0e"
-    },
-    {
       "title_ru": "ВТБ и Т-банк готовы внедрить кнопку равноудаленного помощника в приложениях",
       "title_en": "VTB and T-Bank are ready to install a button for an equidistant assistant in applications",
       "date": "2026-11-13",
@@ -385,23 +136,6 @@
       "is_development": false,
       "first_reported": "2026-11-13",
       "id": "510942872f65"
-    },
-    {
-      "title_ru": "США предложили России подготовить соглашение о безопасности в Европе",
-      "title_en": "US proposed that Russia prepare a security agreement in Europe",
-      "date": "2026-11-12",
-      "summary": "США предложили России подготовить соглашение о безопасности в Европе. Вашингтон и Пекин сочли важным проведение трехсторонних встреч с участием Москвы.",
-      "category": "politics",
-      "region": "США",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9095106"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-12",
-      "id": "1c1c891beec1"
     },
     {
       "title_ru": "ФНС запретила блогеру Самойловой открывать новый бизнес в России до 2029 года",
@@ -504,23 +238,6 @@
       "is_development": false,
       "first_reported": "2026-11-13",
       "id": "0ef5f46625b3"
-    },
-    {
-      "title_ru": "Nectar запустила ИИ-агента для автоматизации поиска и взаимодействия с создателями контента для брендов",
-      "title_en": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "date": "2026-11-12",
-      "summary": "Новый ИИ-агент Nectar автоматизирует маркетинг влияния, помогая брендам находить создателей контента, управлять взаимодействием и партнерствами, а также отслеживать результаты кампаний.",
-      "category": "ai",
-      "region": "США",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-12",
-      "id": "ac2c5796b352"
     },
     {
       "title_ru": "Мужчина застрелен на сельской территории в Западной Австралии",
@@ -633,25 +350,6 @@
       "id": "8a9eeee49b8f"
     },
     {
-      "title_ru": "Бизнесмен изменил показания в комиссии по расследованию коррупции в ЮАР",
-      "title_en": "Cat changes tune on Idac, Sibiya and Cele",
-      "date": "2026-11-12",
-      "summary": "Бизнесмен Вусимузи \"Кэт\" Матлала изменил свои показания в комиссии Мадланга относительно платежей Бхекки Селе и Шадраку Сибия, обвинив антикоррупционных следователей в изменении его заявлений.",
-      "category": "politics",
-      "region": "ЮАР",
-      "perspective": "Свидетель обвиняет следствие в манипуляциях",
-      "perspective_type": "from_source",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-11-12-cat-changes-tune-on-idac-sibiya-and-cele/"
-      ],
-      "is_development": true,
-      "first_reported": "2026-11-12",
-      "id": "0f0e1999d75f"
-    },
-    {
       "title_ru": "Лидеры блока Эйзенкота опасаются, что Беннет может предпочесть новые выборы партнерству с харедимными партиями",
       "title_en": "Eisenkot bloc leaders fear Bennett may prefer new elections over partnering with haredi parties",
       "date": "2026-11-14",
@@ -671,25 +369,6 @@
       "id": "35e3375a07e5"
     },
     {
-      "title_ru": "Словакия стала менее принимающей ЛГБТ+ через четыре года после убийств в Тепларен",
-      "title_en": "Slovakia less LGBT+ accepting four years after Tepláreň murders",
-      "date": "2026-11-12",
-      "summary": "Социологические данные указывают на снижение уровня принятия ЛГБТ+ людей в Словакии через четыре года после убийств в клубе \"Тепларе\" в Братиславе.",
-      "category": "politics",
-      "region": "Словакия",
-      "perspective": "Общественные настроения сместились в сторону меньшей толерантности",
-      "perspective_type": "assumed",
-      "sources": [
-        "spectator.sme.sk"
-      ],
-      "links": [
-        "https://spectator.sme.sk/politics-and-society/c/news-digest-four-years-after-teplaren-murders-slovakia-is-becoming-less-accepting-of-lgbti-people?utm_source=rss&utm_medium=feed&utm_campaign=spectator-rss"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-12",
-      "id": "f9f039309089"
-    },
-    {
       "title_ru": "Байден обвинил Нетаньяху в нарушении обещаний и приоритете политического выживания над интересами Израиля",
       "title_en": "Biden accuses Netanyahu of broken promises, prioritizing political survival over Israel in memoir",
       "date": "2026-11-14",
@@ -705,23 +384,6 @@
       "is_development": false,
       "first_reported": "2026-11-14",
       "id": "e4bcb492e7b5"
-    },
-    {
-      "title_ru": "Сотрудники Университета Кейптауна опасались репрессий, оставив обвинения против вице-канцлера без проверки",
-      "title_en": "Staff fears left UCT allegations untested",
-      "date": "2026-11-12",
-      "summary": "Обвинения в адрес вице-канцлера Университета Кейптауна профессора Мосы Мошабелы остались в основном непроверенными после того, как несколько сотрудников опасались репрессий, если их имена будут названы.",
-      "category": "culture",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-11-12-staff-fears-left-uct-allegations-untested/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-12",
-      "id": "f62500e60403"
     },
     {
       "title_ru": "Фотограф может подать в суд на компанию по производству пазлов за использование его фотографий",
@@ -2048,10 +1710,276 @@
       "is_development": false,
       "first_reported": "2026-11-18",
       "id": "d449769f225c"
+    },
+    {
+      "title_ru": "Химики нашли способ очищать воду с помощью ржавых гвоздей и старых батареек",
+      "title_en": "Chemists find way to purify water using rusty nails and old batteries",
+      "date": "2026-11-20",
+      "summary": "Российские химики разработали метод очистки воды от красителей и других трудноудаляемых веществ с использованием отходов металлов. Технология позволяет связывать загрязнители химически, избегая дорогостоящего центрифугирования.",
+      "category": "tech",
+      "region": "Россия",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/chemistry/rusty-nails-batteries-adsorb"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-20",
+      "id": "2b275c8ca10a"
+    },
+    {
+      "title_ru": "Rayzher и Messer заключили соглашение о полупроводниковых газах",
+      "title_en": "Rayzher, Messer ink deal over semiconductor gases",
+      "date": "2026-11-20",
+      "summary": "Компании Rayzher и Messer заключили соглашение о поставках газов для полупроводниковой промышленности. Детали сделки не раскрываются.",
+      "category": "tech",
+      "region": "Дальний Восток",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "www.taipeitimes.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/biz/archives/2026/11/20/2003868044"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-20",
+      "id": "2ae47df7dcd1"
+    },
+    {
+      "title_ru": "Ледяные кольца оказались в десятки раз ярче своих планет",
+      "title_en": "Icy rings are dozens of times brighter than their planets",
+      "date": "2026-11-20",
+      "summary": "Расчеты астрономов показали, что ледяные кольца газовых гигантов и их спутники для земных телескопов могут быть в десятки раз ярче самих планет. Это означает, что многие системы с такими кольцами будет легче обнаружить.",
+      "category": "tech",
+      "region": "Россия",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/astronomy/ledyanye-koltsa-okazalis-v-desyatki-raz-yarche-svoih-planet"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-20",
+      "id": "6354d97b4fe0"
+    },
+    {
+      "title_ru": "В Иркутске отменили решение о сносе самовольно построенного дома за счет собственников",
+      "title_en": "In Irkutsk, the decision to demolish an unauthorized building at the expense of the owners was canceled",
+      "date": "2026-11-20",
+      "summary": "В Иркутске отменено решение о сносе самовольно построенного дома за счет собственников. Решение о сносе здания осталось в силе, но порядок финансирования изменен.",
+      "category": "life",
+      "region": "Россия",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "tass.ru"
+      ],
+      "links": [
+        "https://tass.ru/obschestvo/28339751"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-20",
+      "id": "093e85e70516"
+    },
+    {
+      "title_ru": "В Италии началась всеобщая забастовка против роста стоимости жизни",
+      "title_en": "A general strike against the cost of living has begun in Italy",
+      "date": "2026-11-20",
+      "summary": "20 ноября в Италии работники всех секторов экономики участвуют в 24-часовой всеобщей забастовке против роста стоимости жизни. Акция уже вызвала перебои в работе ряда учреждений и общественного транспорта.",
+      "category": "life",
+      "region": "Европа",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "www.ukrinform.ua"
+      ],
+      "links": [
+        "https://www.ukrinform.ua/rubric-world/4186798-v-italii-rozpocavsa-zagalnij-strajk-proti-zrostanna-vartosti-zitta.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-20",
+      "id": "885802553b48"
+    },
+    {
+      "title_ru": "Ливанский телеведущий надел кипу из сериала 'Фауда' на политика, желающего стать послом в Израиле",
+      "title_en": "Lebanese TV host puts 'Fauda' kippah on politician who wants to be ambassador to Israel",
+      "date": "2026-11-20",
+      "summary": "Ливанский медиаперсонаж Чарльз Джаббур, известный критикой Хезболлы и поддержкой связей с Израилем, смеялся, когда телеведущий надел на его голову кипу с израильской тематикой. Джаббур выразил желание стать послом Ливана в Израиле.",
+      "category": "conflicts",
+      "region": "Ближний Восток",
+      "perspective": "Действие рассматривается как провокационное в контексте напряженных ливано-израильских отношений и позиции Хезболлы.",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/middle-east/article-915568"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-20",
+      "id": "23ab290b88f9"
+    },
+    {
+      "title_ru": "Тегеранские журналисты осудили отчеты NYT и CNN как предлог для атак на гражданскую инфраструктуру",
+      "title_en": "Tehran journalists slam NYT, CNN reports as pretext for attacks on civilian infrastructure",
+      "date": "2026-11-20",
+      "summary": "Ассоциация журналистов Тегерана предупредила, что использование медиаинструментов для оправдания атак на территорию независимой страны и ее жизненно важную инфраструктуру не является профессиональной журналистикой.",
+      "category": "conflicts",
+      "region": "Ближний Восток",
+      "perspective": "Иранские журналисты рассматривают западные репортажи как подготовку информационного фона для военных действий. Западные СМИ и НПО могут считать такие заявления пропагандой.",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/11/18/781026/tehran-journalists-condemn-nyt-cnn-reports-as-pretext-for-attacks-on-civilian-infrastructure"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-20",
+      "id": "d07ba16b9e95"
+    },
+    {
+      "title_ru": "От налога на пассивные доходы освободили доходные ПИФы",
+      "title_en": "Income mutual funds exempted from tax on passive income",
+      "date": "2026-11-19",
+      "summary": "Госдума РФ приняла во втором чтении поправки к Налоговому кодексу, освобождающие доходные паевые инвестиционные фонды от налога на пассивные доходы. Изменения касаются регулирования операций с паевыми инвестиционными фондами.",
+      "category": "economy",
+      "region": "Россия",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9114179"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-19",
+      "id": "e48ca285825b"
+    },
+    {
+      "title_ru": "Квартальный ВВП стран ОЭСР замедлился в третьем квартале до средних 0,6%",
+      "title_en": "Quarterly GDP of OECD countries slowed to an average of 0.6% in the third quarter",
+      "date": "2026-11-20",
+      "summary": "Рост ВВП стран-участниц ОЭСР (38 экономик) замедлился в третьем квартале до средних 0,6% с 0,7% во втором квартале. Данные опубликованы 19 ноября.",
+      "category": "economy",
+      "region": "Мир",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9114228"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-20",
+      "id": "7d75662193cb"
+    },
+    {
+      "title_ru": "Южноафриканцы готовы к президенту любой расы",
+      "title_en": "South Africans are ready for a president of any race",
+      "date": "2026-11-19",
+      "summary": "Новые опросы Института расовых отношений показывают, что подавляющее большинство южноафриканцев при выборе президента отдают приоритет компетентности, а не расовой принадлежности. Это контрастирует с тревогой комментаторов по поводу перспективы белого президента.",
+      "category": "politics",
+      "region": "Африка",
+      "perspective": "Опрос отражает сдвиг в общественных настроениях, в то время как часть политического и медийного истеблишмента может сохранять расовую повестку.",
+      "perspective_type": "assumed",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/thought-leader/2026-11-19-south-africans-are-ready-for-a-president-of-any-race-why-are-commentators-so-surprised/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-19",
+      "id": "d836e2029b66"
+    },
+    {
+      "title_ru": "Си Цзиньпин призвал страны АТР объединиться, «чтобы пережить бури»",
+      "title_en": "Xi Jinping called on APEC countries to unite 'to weather the storms'",
+      "date": "2026-11-19",
+      "summary": "Председатель КНР Си Цзиньпин заявил, что странам Азиатско-Тихоокеанского региона необходимо объединить усилия и поддерживать друг друга, «чтобы пережить бури». Заявление сделано на церемонии открытия саммита АТЭС.",
+      "category": "politics",
+      "region": "Китай",
+      "perspective": "Заявление позиционирует Китай как лидера региональной интеграции и стабильности в условиях глобальной неопределенности.",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9113180"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-19",
+      "id": "bf645944a82f"
+    },
+    {
+      "title_ru": "На деловом саммите АТЭС поддержали создание зоны свободной торговли в АТР",
+      "title_en": "APEC Business Summit supports creation of free trade area in Asia-Pacific",
+      "date": "2026-11-18",
+      "summary": "Участники делового саммита Азиатско-Тихоокеанского экономического сотрудничества поддержали создание зоны свободной торговли в Азиатско-Тихоокеанском регионе. Это следует из принятой на саммите инициативы.",
+      "category": "politics",
+      "region": "Мир",
+      "perspective": "Инициатива отражает стремление бизнес-сообщества региона к углублению экономической интеграции, несмотря на возможные политические разногласия между странами.",
+      "perspective_type": "assumed",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9112934"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-18",
+      "id": "ba3b83b40aa3"
+    },
+    {
+      "title_ru": "Элбанез защитил свой упрек Путину, заявив, что потребовал немедленно остановить войну",
+      "title_en": "Albanese defends Putin rebuke, says he told him to stop war now",
+      "date": "2026-11-20",
+      "summary": "Премьер-министр Австралии Энтони Элбанез заявил, что он «очень четко сказал президенту Путину вчера, что ему нужно остановить свою войну, и остановить ее сейчас». Заявление сделано на фоне визита Си Цзиньпина, который выразил желание укрепить связи с Австралией.",
+      "category": "statement",
+      "region": "Океания и Австралия",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/politics/federal/xi-wants-stronger-bonds-with-australia-as-albanese-defends-putin-rebuke-20261120-p61fto.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-20",
+      "id": "5436d681b5ae"
+    },
+    {
+      "title_ru": "Легендарный фотограф Эллен фон Унверт заявила, что «в фэшн-фотографии больше нет денег»",
+      "title_en": "Legendary Photographer Ellen Von Unwerth Says ‘There’s No Money Left in Fashion Photography’",
+      "date": "2026-11-19",
+      "summary": "Эллен фон Унверт, один из самых востребованных фэшн-фотографов современности, заявила, что в индустрии сегодня не осталось денег. Подробности не раскрываются.",
+      "category": "photo",
+      "region": "Мир",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/11/19/legendary-photographer-ellen-von-unwerth-says-theres-no-money-left-in-fashion-photography/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-19",
+      "id": "fa86dcbc1d4b"
     }
   ],
   "_stats": {
-    "total_tokens": 1098541,
-    "total_cost": 69.69693999999998
+    "total_tokens": 1116981,
+    "total_cost": 70.88297999999999
   }
 }
