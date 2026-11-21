@@ -17,178 +17,6 @@
       "id": "6a433d7a6e57"
     },
     {
-      "title_ru": "Nvidia акции упали почти на 10% после сообщения о возможном увольнении Дженсена Хуанга",
-      "title_en": "Nvidia shares plunge almost 10% on report board may oust Jensen Huang",
-      "date": "2026-11-13",
-      "summary": "Акции Nvidia упали почти на 10% после сообщений о том, что совет директоров компании может отстранить от должностей основателя и CEO Дженсена Хуанга. Это вызвало волнения на технологическом рынке.",
-      "category": "ai",
-      "region": "США",
-      "sources": [
-        "asia.nikkei.com"
-      ],
-      "links": [
-        "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-shares-plunge-almost-10-on-report-board-may-oust-jensen-huang"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-13",
-      "id": "d89abc59616e"
-    },
-    {
-      "title_ru": "ЕС проводит первый саммит по искусственному интеллекту",
-      "title_en": "EU leaders gather for first ever AI summit",
-      "date": "2026-11-13",
-      "summary": "Лидеры стран Европейского союза собрались на первый саммит по искусственному интеллекту. Саммит проходит на фоне растущих опасений по поводу глобального воздействия ИИ, а также стремления Европы занять позицию в его развитии и регулировании.",
-      "category": "ai",
-      "region": "Европа",
-      "sources": [
-        "rss.dw.com"
-      ],
-      "links": [
-        "https://www.dw.com/en/eu-leaders-gather-for-first-ever-ai-summit/a-79937463?maca=en-rss-en-all-1573-xml-mrss"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-13",
-      "id": "ad85409432e4"
-    },
-    {
-      "title_ru": "Три человека погибли при пожаре в доме на востоке Москвы",
-      "title_en": "Three people died in a fire in a house in eastern Moscow",
-      "date": "2026-11-13",
-      "summary": "Два ребенка и взрослый погибли при пожаре в жилом доме в районе Гольяново на востоке Москвы. Инцидент произошел в ночь на 13 ноября.",
-      "category": "life",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9095962"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-13",
-      "id": "a57005b0f29c"
-    },
-    {
-      "title_ru": "Израильский суд отказал в освобождении 14 палестинских врачей из Газы",
-      "title_en": "Israeli courts reject petitions to release 14 Gaza doctors held without charge",
-      "date": "2026-11-13",
-      "summary": "Верховный суд Израиля отклонил ходатайство об освобождении 14 палестинских врачей, включая директора больницы Камаль Адван Хуссам Абу Сафия. Врачи содержатся без предъявления обвинений.",
-      "category": "conflicts",
-      "region": "Израиль",
-      "perspective": "Палестинские источники называют это произвольным задержанием, израильские власти могут ссылаться на соображения безопасности.",
-      "perspective_type": "assumed",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/11/11/780515/israeli-courts-refuse-to-release-14-gaza-doctors-held-without-charge"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-13",
-      "id": "34171a1bfa76"
-    },
-    {
-      "title_ru": "Украина потеряла 630 локомотивов из-за российских ударов",
-      "title_en": "Ukraine has lost 630 locomotives due to Russian strikes",
-      "date": "2026-11-13",
-      "summary": "С начала полномасштабной войны Украина потеряла 630 локомотивов в результате российских ударов. Почти 400 из них были уничтожены в текущем году.",
-      "category": "svo",
-      "region": "Украина",
-      "sources": [
-        "www.ukrinform.ua"
-      ],
-      "links": [
-        "https://www.ukrinform.ua/rubric-economy/4184304-kalasnik-cerez-rosijski-udari-ukraina-vtratila-vze-630-lokomotiviv-majze-400-iz-nih-cogo-roku.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-13",
-      "id": "c0673ae584a1"
-    },
-    {
-      "title_ru": "Российские силы атаковали высоковольтные подстанции в Украине",
-      "title_en": "Russian forces attacked high-voltage substations again overnight",
-      "date": "2026-11-13",
-      "summary": "В ночь на 13 ноября российские силы нанесли удары по высоковольтным подстанциям на территории Украины. Под атаками также оказались медицинские учреждения, логистическая инфраструктура и жилые дома.",
-      "category": "svo",
-      "region": "Украина",
-      "sources": [
-        "www.ukrinform.ua"
-      ],
-      "links": [
-        "https://www.ukrinform.ua/rubric-economy/4184298-unoci-rosiani-znovu-atakuvali-visokovoltni-pidstancii-koreckij.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-13",
-      "id": "1c454e23f543"
-    },
-    {
-      "title_ru": "ВТБ и Т-банк готовы внедрить кнопку равноудаленного помощника в приложениях",
-      "title_en": "VTB and T-Bank are ready to install a button for an equidistant assistant in applications",
-      "date": "2026-11-13",
-      "summary": "ВТБ и Т-банк рассматривают возможность внедрения в своих приложениях функции \"кнопки равноудаленного помощника\". Председатель правления Т-банка Станислав Близнюк отметил необходимость развития таких технологий с учетом рисков рекомендательных алгоритмов.",
-      "category": "economy",
-      "region": "Россия",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/ekonomika/28315485"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-13",
-      "id": "510942872f65"
-    },
-    {
-      "title_ru": "ФНС запретила блогеру Самойловой открывать новый бизнес в России до 2029 года",
-      "title_en": "Tax Service banned blogger Samoilova from opening a new business in Russia until 2029",
-      "date": "2026-11-13",
-      "summary": "Федеральная налоговая служба запретила блогеру Оксане Самойловой регистрировать новый бизнес в России до сентября 2029 года. Решение было принято 24 сентября и связано с указанием недостоверных сведений.",
-      "category": "politics",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9108701"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-13",
-      "id": "3ae7647d297e"
-    },
-    {
-      "title_ru": "Иранский министр критикует недостаток внимания западных СМИ к ситуации в Газе",
-      "title_en": "Araghchi lashes out at lack of media attention to Gaza genocide",
-      "date": "2026-11-13",
-      "summary": "Министр иностранных дел Ирана Хоссейн Амирабдоллахиан раскритиковал недостаточное внимание западных СМИ к ситуации в Газе, которую он охарактеризовал как геноцид. Он подчеркнул, что катастрофическая ситуация в Газе больше не привлекает должного внимания.",
-      "category": "statement",
-      "region": "Иран",
-      "sources": [
-        "en.mehrnews.com"
-      ],
-      "links": [
-        "https://en.mehrnews.com/news/249371/Araghchi-lashes-out-at-lack-of-media-attention-to-Gaza-genoci"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-13",
-      "id": "057592063483"
-    },
-    {
-      "title_ru": "Биологи нашли способ защитить органы от старения, заблокировав один белок",
-      "title_en": "Biologists find a way to protect organs from aging by blocking one protein",
-      "date": "2026-11-13",
-      "summary": "Ученые провели эксперимент на мышах и выяснили, что белок гранзим К стимулирует возрастные повреждения печени, почек и сердца. Понимание механизма открывает путь к созданию лекарств для защиты внутренних органов от старения.",
-      "category": "tech",
-      "region": "Россия",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/biology/granzim-k-starenie-organov"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-13",
-      "id": "124ac1aaab1f"
-    },
-    {
       "title_ru": "Космическая пыль указала на древний резервуар воды в области пояса Койпера",
       "title_en": "Cosmic dust points to an ancient reservoir of water in the Kuiper Belt region",
       "date": "2026-11-14",
@@ -223,23 +51,6 @@
       "id": "7521b71429a4"
     },
     {
-      "title_ru": "Google выполнил требования безопасности Южной Кореи для данных высокоточных карт",
-      "title_en": "Google complies with S. Korea's security requirements for high-precision map data: gov't",
-      "date": "2026-11-13",
-      "summary": "Правительство Южной Кореи заявило, что Google выполнил требования национальной безопасности для предоставления данных высокоточных карт на территории страны.",
-      "category": "ai",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261113004251320"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-13",
-      "id": "0ef5f46625b3"
-    },
-    {
       "title_ru": "Мужчина застрелен на сельской территории в Западной Австралии",
       "title_en": "Man shot dead at rural WA property",
       "date": "2026-11-14",
@@ -255,23 +66,6 @@
       "is_development": false,
       "first_reported": "2026-11-14",
       "id": "cbe29ec3c62b"
-    },
-    {
-      "title_ru": "Три человека погибли в аварии лодки на разлившейся реке возле Скуомиша, Британская Колумбия",
-      "title_en": "3 dead after boat crash in flooded river near Squamish, B.C.",
-      "date": "2026-11-13",
-      "summary": "Три человека погибли после того, как лодка потерпела крушение на реке Скуомиш в четверг.",
-      "category": "life",
-      "region": "Канада",
-      "sources": [
-        "www.cbc.ca"
-      ],
-      "links": [
-        "https://www.cbc.ca/news/canada/british-columbia/3-dead-squamish-boating-incident-9.7420872?cmp=rss"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-13",
-      "id": "7e4b805665e2"
     },
     {
       "title_ru": "Израильские силы убили не менее 245 палестинских детей на Западном берегу с октября 2023 года, по данным ООН",
@@ -331,25 +125,6 @@
       "id": "a95a8311a5a8"
     },
     {
-      "title_ru": "Взрыв на газовозе после удара о морскую мину к востоку от Ормузского пролива",
-      "title_en": "Massive explosion as violating LPG carrier hits naval mine east of Strait of Hormuz: IRGC",
-      "date": "2026-11-13",
-      "summary": "Газовоз загорелся к востоку от Ормузского пролива после удара о морскую мину, когда судно пыталось пройти по несанкционированному маршруту, сообщил Корпус стражей исламской революции.",
-      "category": "conflicts",
-      "region": "Иран",
-      "perspective": "Иранские силы сообщают о нарушении судном установленных маршрутов",
-      "perspective_type": "from_source",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/11/13/780623/massive-explosion-as-violating-lpg-carrier-hits-naval-mine-east-of-strait-of-hormuz"
-      ],
-      "is_development": true,
-      "first_reported": "2026-11-13",
-      "id": "8a9eeee49b8f"
-    },
-    {
       "title_ru": "Лидеры блока Эйзенкота опасаются, что Беннет может предпочесть новые выборы партнерству с харедимными партиями",
       "title_en": "Eisenkot bloc leaders fear Bennett may prefer new elections over partnering with haredi parties",
       "date": "2026-11-14",
@@ -386,40 +161,6 @@
       "id": "e4bcb492e7b5"
     },
     {
-      "title_ru": "Фотограф может подать в суд на компанию по производству пазлов за использование его фотографий",
-      "title_en": "Photographer Can Take Jigsaw Puzzle Company to Court Over Use of His Photos",
-      "date": "2026-11-13",
-      "summary": "Фотограф может продолжить свой иск о нарушении авторских прав против канадского производителя пазлов, который, как утверждается, использовал его изображения на своих головоломках.",
-      "category": "photo",
-      "region": "Канада",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/11/13/photographer-can-take-jigsaw-puzzle-company-to-court-over-use-of-his-photos/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-13",
-      "id": "7f617fd15f92"
-    },
-    {
-      "title_ru": "Стелко возвращает на работу 175 уволенных сотрудников на сталелитейном заводе в Гамильтоне",
-      "title_en": "Stelco recalling 175 laid-off workers at Hamilton steel plant",
-      "date": "2026-11-13",
-      "summary": "Канадская сталелитейная компания Stelco возвращает на работу 175 ранее уволенных сотрудников на своем заводе в Гамильтоне.",
-      "category": "ecology",
-      "region": "Канада",
-      "sources": [
-        "www.cbc.ca"
-      ],
-      "links": [
-        "https://www.cbc.ca/news/politics/stelco-recalling-175-laid-off-workers-9.7420949?cmp=rss"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-13",
-      "id": "26a4e5e05b44"
-    },
-    {
       "title_ru": "«Росатом» рассматривает пять вариантов атомной электростанции для Луны",
       "title_en": "Rosatom considers five options for lunar nuclear power plant",
       "date": "2026-11-14",
@@ -452,23 +193,6 @@
       "is_development": false,
       "first_reported": "2026-11-14",
       "id": "ea097cc90946"
-    },
-    {
-      "title_ru": "В ЮАР экс-замглавы полиции и три бывших чиновника предстанут перед судом по делу о синих мигающих огнях",
-      "title_en": "Former EMPD deputy chief, three ex-officials to face court over blue lights scandal",
-      "date": "2026-11-13",
-      "summary": "Бывший заместитель начальника полиции метрополии Экурхулени Джулиус Мхванази и три бывших старших муниципальных чиновника предстанут перед региональным судом. Их обвиняют в скандале с незаконным использованием синих мигающих огней на служебных автомобилях.",
-      "category": "politics",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-11-13-mkhwanazi-and-former-ekurhuleni-officials-to-face-regional-court-over-blue-lights-scandal/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-13",
-      "id": "3a54598f599f"
     },
     {
       "title_ru": "В Южной Корее лучший сдавший экзамен на налогового бухгалтера сдался из-за списывания с помощью ИИ",
@@ -554,23 +278,6 @@
       "is_development": false,
       "first_reported": "2026-11-14",
       "id": "f7044f261592"
-    },
-    {
-      "title_ru": "Премьер Манитобы заявил о достижении предела возможностей провинции по снижению стоимости жизни",
-      "title_en": "Premier says Manitoba nearing limits of what it can do on affordability",
-      "date": "2026-11-13",
-      "summary": "Премьер канадской провинции Манитоба Ваб Кинеу заявил, что правительство провинции достигло предела своих возможностей по снижению стоимости жизни без сокращения доходов бюджета. Теперь власти намерены перейти к действиям против крупных корпораций.",
-      "category": "politics",
-      "region": "Канада",
-      "sources": [
-        "www.cbc.ca"
-      ],
-      "links": [
-        "https://www.cbc.ca/news/canada/manitoba/affordability-cost-of-living-oil-companies-grocery-stores-9.7421904?cmp=rss"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-13",
-      "id": "0be77bcc16db"
     },
     {
       "title_ru": "Бангладешский фотограф выиграл $200 000 в конкурсе с призовым фондом $1 млн",
@@ -1976,10 +1683,239 @@
       "is_development": false,
       "first_reported": "2026-11-19",
       "id": "fa86dcbc1d4b"
+    },
+    {
+      "title_ru": "Новые геотермальные стартапы предлагают решение энергетических проблем дата-центров",
+      "title_en": "Super-hot rock geothermal could end data center energy woes",
+      "date": "2026-11-20",
+      "summary": "Стартапы в области геотермальной энергетики разрабатывают технологии сверхгорячих пород для производства тераватт электроэнергии практически в любой точке мира. Эти проекты направлены на решение энергетических проблем дата-центров.",
+      "category": "tech",
+      "region": "США",
+      "sources": [
+        "techcrunch.com"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-20",
+      "id": "799618436039"
+    },
+    {
+      "title_ru": "Китайский зонд восстановил историю крупнейшего удара по Луне",
+      "title_en": "Историю крупнейшего удара по Луне восстановили по образцам «Чанъэ-6»",
+      "date": "2026-11-20",
+      "summary": "Китайский автоматический аппарат \"Чанъэ-6\" доставил образцы с южного полюса Луны, позволившие восстановить историю крупнейшего удара небесного тела в Солнечной системе. Диаметр образовавшейся впадины превышает две тысячи километров.",
+      "category": "tech",
+      "region": "Китай",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/astronomy/udara-po-lune-vosstanovili"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-20",
+      "id": "f99cea0a101c"
+    },
+    {
+      "title_ru": "Студенты в Словакии протестуют против роста цен на жилье и военных расходов",
+      "title_en": "Студенты в Словакии вышли на митинг против роста цен на жилье и военных расходов",
+      "date": "2026-11-21",
+      "summary": "Студенты в Словакии провели митинг, критикуя власти за недостаточное финансирование образования и здравоохранения, отсутствие мер по борьбе с климатическими изменениями и рост цен на жилье. Также протест направлен против увеличения военных расходов.",
+      "category": "life",
+      "region": "Словакия",
+      "sources": [
+        "www.belta.by"
+      ],
+      "links": [
+        "https://belta.by/world/view/studenty-v-slovakii-vyshli-na-miting-protiv-rosta-tsen-na-zhilje-i-voennyh-rashodov-811975-2026/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-21",
+      "id": "ad0eaaaa678b"
+    },
+    {
+      "title_ru": "В Кривом Роге число пострадавших от обстрелов выросло до 60",
+      "title_en": "У Кривому Розі кількість постраждалих через ворожі обстріли зросла до 60",
+      "date": "2026-11-21",
+      "summary": "Количество пострадавших в результате обстрелов Кривого Рога увеличилось до 60 человек. В больницах остаются 28 пострадавших.",
+      "category": "life",
+      "region": "Украина",
+      "sources": [
+        "www.ukrinform.ua"
+      ],
+      "links": [
+        "https://www.ukrinform.ua/rubric-regions/4187075-u-krivomu-rozi-kilkist-postrazdalih-cerez-vorozi-obstrili-zrosla-do-60.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-21",
+      "id": "9b670eb32b65"
+    },
+    {
+      "title_ru": "Международный суд признал Мьянму виновной в геноциде рохинджа",
+      "title_en": "Myanmar committed genocide against Rohingya, ICJ rules in landmark verdict",
+      "date": "2026-11-21",
+      "summary": "Международный суд в Гааге признал Мьянму виновной в геноциде против мусульман-рохинджа. Суд установил, что единственным разумным объяснением действий военных было намерение уничтожить значительную часть рохинджа.",
+      "category": "conflicts",
+      "region": "Мьянма",
+      "sources": [
+        "asia.nikkei.com",
+        "www.presstv.ir",
+        "www.theglobeandmail.com",
+        "www.dailysabah.com"
+      ],
+      "links": [
+        "https://asia.nikkei.com/politics/international-relations/myanmar-committed-genocide-against-rohingya-icj-rules-in-landmark-verdict",
+        "https://presstv.co.uk/Detail/2026/11/19/781113/worlds-top-court-myanmar-committed-genocide-against-rohingya-minority",
+        "https://www.theglobeandmail.com/world/article-rohingya-bangladesh-genocide-verdict-want-to-go-home-to-myanmar/",
+        "https://www.dailysabah.com/politics/turkiye-welcomes-landmark-icj-ruling-on-myanmars-rohingya-genocide/news"
+      ],
+      "is_development": true,
+      "first_reported": "2026-11-21",
+      "id": "565b598bfaf8"
+    },
+    {
+      "title_ru": "Гвинея заблокировала вещание телеканала Буркина-Фасо из-за карикатур",
+      "title_en": "Guinée/Burkina Faso: tensions après la diffusion de caricatures de M. Doumbouya",
+      "date": "2026-11-20",
+      "summary": "Гвинея заблокировала вещание государственного телеканала Буркина-Фасо RTB после публикации критического редакционного материала с карикатурой на президента Гвинеи Мамади Думбуя. Это привело к росту напряженности между странами.",
+      "category": "conflicts",
+      "region": "Западная Африка",
+      "sources": [
+        "www.france24.com"
+      ],
+      "links": [
+        "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261120-guin%C3%A9e-burkina-faso-tensions-apr%C3%A8s-la-diffusion-de-caricatures-de-m-doumbouya"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-20",
+      "id": "085c041e2c25"
+    },
+    {
+      "title_ru": "США требуют от Украины заключить мирное соглашение с Россией к январю",
+      "title_en": "US pushing Ukraine to reach peace deal with Russia before Democrats take Congress - report",
+      "date": "2026-11-21",
+      "summary": "США требуют от Украины достичь мирного соглашения с Россией к началу января 2027 года. Белый дом надеется заключить сделку до того, как демократы получат контроль над Конгрессом.",
+      "category": "svo",
+      "region": "США",
+      "sources": [
+        "www.jpost.com",
+        "tass.com"
+      ],
+      "links": [
+        "https://www.jpost.com/international/internationalrussia-ukraine-war/article-915625",
+        "https://tass.com/world/2222687"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-21",
+      "id": "29344847526f"
+    },
+    {
+      "title_ru": "Путин заявил, что поддержка Украины Западом обусловлена эгоистичными интересами",
+      "title_en": "Ukraine should understand fight against Russia not supported out of love for it — Putin",
+      "date": "2026-11-20",
+      "summary": "Президент России Владимир Путин заявил, что поддержка Украины Западом осуществляется по эгоистичным причинам, а не из любви к Украине. По его словам, цель Запада — ослабить и расчленить всех.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/politics/2222749"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-20",
+      "id": "d811af3aa7b5"
+    },
+    {
+      "title_ru": "Правительство России определило приоритеты надзорной деятельности на 2027 год",
+      "title_en": "В правительстве определили приоритеты надзорной деятельности в 2027 году",
+      "date": "2026-11-20",
+      "summary": "Вице-премьер и глава аппарата правительства Ирина Окладникова обозначила приоритеты контрольно-надзорной деятельности на 2027 год. Впервые определены ключевые направления проверочной работы.",
+      "category": "economy",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9126480"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-20",
+      "id": "abac2e876b72"
+    },
+    {
+      "title_ru": "Власти Замбии подвергли критике за нарушения прав человека",
+      "title_en": "Zambia Church Council Voices Rights Concern",
+      "date": "2026-11-21",
+      "summary": "Совет церквей Замбии выразил обеспокоенность ростом нетерпимости и произвольными арестами в стране. Организация призвала правительство уважать свободы и права человека.",
+      "category": "politics",
+      "region": "Замбия",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/zambia-council-of-churches-arbitrary-arrests-concern/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-21",
+      "id": "637c041c8374"
+    },
+    {
+      "title_ru": "Суд в Мозамбике рассматривает дело оппозиционного политика Мондлане",
+      "title_en": "Mozambique's Mondlane trial puts judicial independence and rule of law under scrutiny",
+      "date": "2026-11-20",
+      "summary": "Верховный суд Мозамбика рассматривает дело оппозиционного политика Венанио Мондлане. Судьи исследуют, привели ли его политические выступления к послевыборному насилию, что ставит под вопрос независимость судебной системы.",
+      "category": "politics",
+      "region": "Мозамбик",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/thought-leader/2026-11-20-mozambique-s-mondlane-trial-puts-judicial-independence-and-rule-of-law-under-scrutiny/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-20",
+      "id": "4fa60b9c5633"
+    },
+    {
+      "title_ru": "Пакистан отправит первого астронавта на китайском космическом корабле",
+      "title_en": "Pakistan to send 1st astronaut on Chinese space mission",
+      "date": "2026-11-21",
+      "summary": "Пакистан готовится отправить своего первого астронавта в космос на борту китайского пилотируемого корабля. Это станет важной вехой в космической программе страны и развитии сотрудничества с Китаем.",
+      "category": "culture",
+      "region": "Пакистан",
+      "sources": [
+        "www.dailysabah.com"
+      ],
+      "links": [
+        "https://www.dailysabah.com/world/asia-pacific/pakistan-to-send-1st-astronaut-on-chinese-space-mission"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-21",
+      "id": "b99b3124a7f9"
+    },
+    {
+      "title_ru": "Heipi представил гибридную головку штатива для фото и видео",
+      "title_en": "Heipi’s Hybrid Tripod Head Quickly Swaps Between Ball, Fluid, and Gimbal Head Modes",
+      "date": "2026-11-19",
+      "summary": "Компания Heipi представила гибридную головку штатива \"2-в-1\" для фото и видеосъемки. Устройство позволяет быстро переключаться между шаровой, флюидной и карданной головками.",
+      "category": "photo",
+      "region": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/11/19/heipis-hybrid-tripod-head-quickly-swaps-between-ball-fluid-and-gimbal-head-modes/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-19",
+      "id": "8269db920373"
     }
   ],
   "_stats": {
-    "total_tokens": 1116981,
-    "total_cost": 70.88297999999999
+    "total_tokens": 1135212,
+    "total_cost": 72.03258
   }
 }
