@@ -17,184 +17,6 @@
       "id": "6a433d7a6e57"
     },
     {
-      "title_ru": "Космическая пыль указала на древний резервуар воды в области пояса Койпера",
-      "title_en": "Cosmic dust points to an ancient reservoir of water in the Kuiper Belt region",
-      "date": "2026-11-14",
-      "summary": "Изотопный анализ частиц космической пыли, собранных в земной стратосфере, показал, что на окраине Солнечной системы существовал крупный резервуар воды с повышенным содержанием тяжелых изотопов кислорода.",
-      "category": "tech",
-      "region": "Россия",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/astronomy/kosmicheskaya-pyl-koipera"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-14",
-      "id": "60214751a4e8"
-    },
-    {
-      "title_ru": "SpaceX Starship совершил пятнадцатый испытательный полет",
-      "title_en": "SpaceX Starship completes fifteenth test flight",
-      "date": "2026-11-14",
-      "summary": "SpaceX запустила пятнадцатый испытательный полет своей ракеты Starship. Компания отказалась от попытки поймать первую ступень, но надеялась на успешное возвращение космического корабля.",
-      "category": "tech",
-      "region": "США",
-      "sources": [
-        "www.france24.com"
-      ],
-      "links": [
-        "https://www.france24.com/fr/vid%C3%A9o/20261114-la-m%C3%A9gafus%C3%A9e-starship-r%C3%A9ussit-partiellement-son-quinzi%C3%A8me-vol-d-essai"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-14",
-      "id": "7521b71429a4"
-    },
-    {
-      "title_ru": "Мужчина застрелен на сельской территории в Западной Австралии",
-      "title_en": "Man shot dead at rural WA property",
-      "date": "2026-11-14",
-      "summary": "Начато расследование убийства на сельской территории к юго-востоку от Перта после того, как мужчина был застрелен, а другой мужчина взят под стражу полицией.",
-      "category": "life",
-      "region": "Австралия",
-      "sources": [
-        "www.smh.com.au"
-      ],
-      "links": [
-        "https://www.smh.com.au/national/man-shot-dead-at-rural-wa-property-20261114-p61e6n.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-14",
-      "id": "cbe29ec3c62b"
-    },
-    {
-      "title_ru": "Израильские силы убили не менее 245 палестинских детей на Западном берегу с октября 2023 года, по данным ООН",
-      "title_en": "Israeli forces kill at least 245 Palestinian children in West Bank since October 2023: UN",
-      "date": "2026-11-14",
-      "summary": "По данным Верховного комиссара ООН по правам человека, среди погибших 41 несовершеннолетний, которые погибли в инцидентах с сообщениями о метании камней.",
-      "category": "conflicts",
-      "region": "Палестина",
-      "perspective": "ООН фиксирует гибель детей в результате действий израильских сил",
-      "perspective_type": "from_source",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/11/14/780684/un-israeli-forces-have-killed-245-palestinian-children-in-west-bank-since-oct-2023"
-      ],
-      "is_development": true,
-      "first_reported": "2026-11-14",
-      "id": "f2a231dba2ed"
-    },
-    {
-      "title_ru": "Четыре человека погибли в столкновениях кланов в Южном Судане",
-      "title_en": "Four Die as South Sudan Clans Clash Again",
-      "date": "2026-11-14",
-      "summary": "По меньшей мере четыре человека погибли в возобновившихся столкновениях между двумя кланами в Тондж Ист, Южный Судан, заявил государственный министр; число жертв не подтверждено.",
-      "category": "conflicts",
-      "region": "Южный Судан",
-      "perspective": "Местные власти сообщают о жертвах в межклановом конфликте",
-      "perspective_type": "from_source",
-      "sources": [
-        "riotimesonline.com"
-      ],
-      "links": [
-        "https://www.riotimesonline.com/four-die-as-south-sudan-clans-clash-again-tonj-east/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-14",
-      "id": "74e23c6d7fc5"
-    },
-    {
-      "title_ru": "Военная обувь привела полицию к секретной карте границы Газы в доме палестинца на Западном берегу",
-      "title_en": "Military boots lead police to classified Gaza border map in Palestinian’s West Bank home",
-      "date": "2026-11-14",
-      "summary": "На вопрос о своих ботинках мужчина сказал, что они принадлежат его сыну, а затем сообщил офицерам, что у него дома есть еще военное снаряжение.",
-      "category": "conflicts",
-      "region": "Палестина",
-      "perspective": "Израильские силы обнаружили секретные материалы в ходе обыска",
-      "perspective_type": "assumed",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/israel-news/defense-news/article-914853"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-14",
-      "id": "a95a8311a5a8"
-    },
-    {
-      "title_ru": "Лидеры блока Эйзенкота опасаются, что Беннет может предпочесть новые выборы партнерству с харедимными партиями",
-      "title_en": "Eisenkot bloc leaders fear Bennett may prefer new elections over partnering with haredi parties",
-      "date": "2026-11-14",
-      "summary": "Переговоры о создании правительства блока Эйзенкота продолжают выявлять разногласия среди потенциальных партнеров по коалиции, при этом возникают вопросы о позиции Беннета.",
-      "category": "politics",
-      "region": "Израиль",
-      "perspective": "Внутриполитические трения затрудняют формирование правительства",
-      "perspective_type": "assumed",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914850"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-14",
-      "id": "35e3375a07e5"
-    },
-    {
-      "title_ru": "Байден обвинил Нетаньяху в нарушении обещаний и приоритете политического выживания над интересами Израиля",
-      "title_en": "Biden accuses Netanyahu of broken promises, prioritizing political survival over Israel in memoir",
-      "date": "2026-11-14",
-      "summary": "Бывший президент США Джо Байден обвинил Нетаньяху в том, что он давал обещания, которые никогда не собирался выполнять, и ставил свое политическое выживание выше долгосрочных интересов Израиля.",
-      "category": "statement",
-      "region": "США",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/international/article-914840"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-14",
-      "id": "e4bcb492e7b5"
-    },
-    {
-      "title_ru": "«Росатом» рассматривает пять вариантов атомной электростанции для Луны",
-      "title_en": "Rosatom considers five options for lunar nuclear power plant",
-      "date": "2026-11-14",
-      "summary": "Госкорпорация «Росатом» разрабатывает пять вариантов атомной электростанции для освоения Луны. Проект необходим для обеспечения энергией масштабных лунных миссий независимо от лунного дня и ночи.",
-      "category": "tech",
-      "region": "Россия",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/column/varianti-atomnoj-elektrostantsii"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-14",
-      "id": "abc640277aa0"
-    },
-    {
-      "title_ru": "Венгрия обнаружила почти 18 млн евро наличными в лесу по делу экс-министра",
-      "title_en": "Hungary finds nearly €18 million in cash in forest in ex-minister case",
-      "date": "2026-11-14",
-      "summary": "Венгерские следователи изъяли наличные на сумму почти 18 млн евро, спрятанные в лесных массивах и хозяйственных постройках. Деньги обнаружены в рамках коррупционного расследования бывшего министра национального развития Миклоша Шестака.",
-      "category": "politics",
-      "region": "Венгрия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9109675"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-14",
-      "id": "ea097cc90946"
-    },
-    {
       "title_ru": "В Южной Корее лучший сдавший экзамен на налогового бухгалтера сдался из-за списывания с помощью ИИ",
       "title_en": "Top scorer in tax accountant exam turns himself in over AI-assisted cheating",
       "date": "2026-11-15",
@@ -263,40 +85,6 @@
       "id": "9baf86b520a1"
     },
     {
-      "title_ru": "В США приостановлены авиарейсы по всей стране из-за планового обновления оборудования",
-      "title_en": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
-      "date": "2026-11-14",
-      "summary": "Министр транспорта США заявил, что массовая отмена авиарейсов по всей стране вызвана плановым обновлением оборудования. Глава Федерального управления гражданской авиации Брайан Бедфорд также заявил об отсутствии доказательств причастности ИИ к сбою.",
-      "category": "life",
-      "region": "США",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-14",
-      "id": "f7044f261592"
-    },
-    {
-      "title_ru": "Бангладешский фотограф выиграл $200 000 в конкурсе с призовым фондом $1 млн",
-      "title_en": "Bangladeshi Photographer wins $200,000 for “Family” in the World’s Richest $1 Million Photo Contest",
-      "date": "2026-11-14",
-      "summary": "Бангладешский фотограф стал победителем 15-го ежегодного конкурса HIPA, самого крупного по призовому фонду в мире фотографии. Тема этого года — «Семья», общий призовой фонд составляет $1 млн.",
-      "category": "photo",
-      "region": "Мир",
-      "sources": [
-        "petapixel.com"
-      ],
-      "links": [
-        "https://petapixel.com/2026/11/14/bangladeshi-photographer-wins-200000-for-family-in-the-worlds-richest-1-million-photo-contest/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-14",
-      "id": "1e4710579b72"
-    },
-    {
       "title_ru": "Starship совершил первую успешную посадку второй ступени",
       "title_en": "SpaceX Starship completes fifteenth test flight",
       "date": "2026-11-15",
@@ -346,23 +134,6 @@
       "is_development": false,
       "first_reported": "2026-11-16",
       "id": "99a5615c2b7c"
-    },
-    {
-      "title_ru": "Болгария прекращает военную помощь Украине",
-      "title_en": "Bulgaria halts military aid to Ukraine",
-      "date": "2026-11-14",
-      "summary": "Премьер-министр Болгарии Румен Радев заявил о прекращении поставок оружия и боеприпасов Украине со складов болгарской армии. Решение принято на фоне пересмотра внешнеполитического курса страны.",
-      "category": "svo",
-      "region": "Болгария",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9109668"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-14",
-      "id": "3cf96e6ed791"
     },
     {
       "title_ru": "Эстония предлагает закрыть границу с Россией на неопределенный срок",
@@ -1912,10 +1683,265 @@
       "is_development": false,
       "first_reported": "2026-11-19",
       "id": "8269db920373"
+    },
+    {
+      "title_ru": "В Новосибирске создан Центр коллективного пользования «Сибирский кольцевой источник фотонов»",
+      "title_en": "SKIF. Who draws from the source of photons?",
+      "date": "2026-11-21",
+      "summary": "В наукограде Кольцово под Новосибирском создан суперсовременный научный объект — источник синхротронного излучения. Центр коллективного пользования «Сибирский кольцевой источник фотонов» предназначен для научных исследований.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/physics/skif-kto-cherpaet-iz-istochnika-fotonov"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-21",
+      "id": "dd7b5fff8976"
+    },
+    {
+      "title_ru": "Глобальный энергетический кризис усиливает стремление Африки к доступу к электричеству",
+      "title_en": "Global energy crisis sharpens Africa's push for electricity access",
+      "date": "2026-11-20",
+      "summary": "Глобальный энергетический кризис усилил переход к возобновляемым источникам энергии. Африка сталкивается с проблемами в преобразовании огромного солнечного потенциала в надежное электроснабжение и всеобщий доступ к электричеству.",
+      "category": "tech",
+      "region": "Африка",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/the-green-guardian/2026-11-20-global-energy-crisis-sharpens-africa-s-push-for-electricity-access/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-20",
+      "id": "63eb034d25c6"
+    },
+    {
+      "title_ru": "Китай тайно скупает ИИ-чипы, обходя ограничения США",
+      "title_en": "China’s secret AI chip hunt: How its spyverse is helping firms bypass US curbs",
+      "date": "2026-11-22",
+      "summary": "Китай ведет тайную охоту на ИИ-чипы, используя разведывательные сети для помощи компаниям в обходе американских ограничений. Страна стремится обеспечить поставки критически важных компонентов для развития искусственного интеллекта.",
+      "category": "ai",
+      "region": "Китай",
+      "sources": [
+        "timesofindia.indiatimes.com"
+      ],
+      "links": [
+        "https://timesofindia.indiatimes.com/world/china/chinas-secret-ai-chip-hunt-how-its-spyverse-is-helping-firms-bypass-us-curbs/articleshow/136071843.cms"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-22",
+      "id": "f104a07d3b6a"
+    },
+    {
+      "title_ru": "Полиция арестовала почти 300 человек на протестах против визита Трампа в Манилу",
+      "title_en": "Philippine police arrest nearly 300 as thousands protest Trump’s Manila visit",
+      "date": "2026-11-22",
+      "summary": "Полиция Филиппин арестовала почти 300 человек во время протестов против визита президента США Дональда Трампа в Манилу. Демонстранты скандировали «Трамп, убирайся», осуждая политику Вашингтона и войну против Ирана.",
+      "category": "conflicts",
+      "region": "Филиппины",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/11/17/780953/philippine-police-arrest-nearly-300-as-thousands-protest-trumps-visit-to-mania"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-22",
+      "id": "5eed9c2449da"
+    },
+    {
+      "title_ru": "Власти Бахрейна усиливают репрессии против шиитских священнослужителей",
+      "title_en": "Leader’s advisor: Repression of Shia clerics will widen rift between Bahraini regime and people",
+      "date": "2026-11-22",
+      "summary": "Советник лидера Исламской революции Ирана заявил, что подавление шиитских священнослужителей расширит разрыв между режимом Бахрейна и народом. Режим Аль Халифа недавно ужесточил репрессии против шиитов и приговорил нескольких священнослужителей к пожизненному заключению.",
+      "category": "conflicts",
+      "region": "Бахрейн",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/11/20/781171/leaders-advisor-suppression-of-shia-clerics-will-deepen-rift-between-bahrain-regime-nation"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-22",
+      "id": "b5d57360f05c"
+    },
+    {
+      "title_ru": "Совет НАТО обсудит инцидент с упавшими в Польше ракетами 23 ноября",
+      "title_en": "NATO Council to discuss incident with missiles fallen in Poland on November 23",
+      "date": "2026-11-22",
+      "summary": "23 ноября в штаб-квартире НАТО состоится внеплановое заседание Совета НАТО для обсуждения инцидента с падением ракет на территории Польши. Польша рассматривает возможность воспользоваться статьей 4 Североатлантического договора для официальных консультаций.",
+      "category": "svo",
+      "region": "Польша",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9127330"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-22",
+      "id": "e3571fb08907"
+    },
+    {
+      "title_ru": "Генсек НАТО Рютте пообещал защищать «каждый дюйм» территории Польши после инцидента с ракетами",
+      "title_en": "NATO will defend 'every inch' of Polish territory after missile incident",
+      "date": "2026-11-21",
+      "summary": "Генеральный секретарь НАТО Марк Рютте заявил, что альянс будет защищать «каждый дюйм» территории Польши после обнаружения обломков двух ракет на польской территории. Он обсудил нарушения воздушного пространства с премьер-министром Польши Дональдом Туском.",
+      "category": "svo",
+      "region": "Польша",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9127196"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-21",
+      "id": "3789c5015928"
+    },
+    {
+      "title_ru": "Экспорт южнокорейского рамёна приблизится к 2 млрд долларов в этом году",
+      "title_en": "Ramyeon exports set to approach US$2 bln this year on global popularity",
+      "date": "2026-11-22",
+      "summary": "Экспорт южнокорейского рамёна (лапши быстрого приготовления) в этом году приблизится к 2 млрд долларов США. Рост обусловлен глобальной популярностью продукта.",
+      "category": "economy",
+      "region": "Южная Корея",
+      "sources": [
+        "en.yna.co.kr"
+      ],
+      "links": [
+        "https://en.yna.co.kr/view/AEN20261122001200320"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-22",
+      "id": "fa8acda39f3b"
+    },
+    {
+      "title_ru": "Перу выставило на аукцион девять нефтяных участков Petroperú на сумму 9,6 млн долларов",
+      "title_en": "Peru Offers Nine Oil Firm Plots at US$9.6M",
+      "date": "2026-11-22",
+      "summary": "Агентство ProInversión запустило третий аукцион девяти объектов Petroperú в Таларе на сумму около 9,6 млн долларов США. Общее предложение увеличилось до 19 участков.",
+      "category": "economy",
+      "region": "Перу",
+      "sources": [
+        "riotimesonline.com"
+      ],
+      "links": [
+        "https://www.riotimesonline.com/petroperu-third-auction-nine-talara-properties/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-22",
+      "id": "2d37c993eeaa"
+    },
+    {
+      "title_ru": "В ЮАР проходят похороны первой женщины-вице-президента Фумзиле Мламбо-Нгкуки",
+      "title_en": "Tributes pour in for Mlambo-Ngcuka",
+      "date": "2026-11-21",
+      "summary": "В ЮАР проходят похороны доктора Фумзиле Мламбо-Нгкуки, первой женщины-вице-президента страны и бывшего исполнительного директора структуры «ООН-женщины». Со всей страны и мира поступают соболезнования.",
+      "category": "politics",
+      "region": "ЮАР",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/news/south-africa/2026-11-21-tributes-pour-in-for-mlambo-ngcuka/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-21",
+      "id": "2a61c2af7a7d"
+    },
+    {
+      "title_ru": "Белорусские правоохранители заблокировали платежи по 30 иностранным реквизитам за сутки",
+      "title_en": "Law enforcement blocked payments on 30 foreign requisites in the past day",
+      "date": "2026-11-22",
+      "summary": "За минувшие сутки белорусские правоохранительные органы заблокировали платежи по 30 иностранным реквизитам. Зарегистрировано 18 преступлений, совершенных с использованием информационно-коммуникационных технологий.",
+      "category": "politics",
+      "region": "Беларусь",
+      "sources": [
+        "www.belta.by"
+      ],
+      "links": [
+        "https://belta.by/society/view/za-minuvshie-sutki-pravoohraniteli-zablokirovali-platezhi-po-30-inostrannym-rekvizitam-812032-2026/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-22",
+      "id": "c504baddb338"
+    },
+    {
+      "title_ru": "Дания выслала российского дипломата после обвинений в планировании убийства украинского рэпера",
+      "title_en": "Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit",
+      "date": "2026-11-20",
+      "summary": "Дания выслала российского дипломата после обвинений в том, что российские спецслужбы вербовали членов банды для попытки убийства украинского рэпера на концерте под Копенгагеном. Обвинения касаются планирования покушения.",
+      "category": "politics",
+      "region": "Дания",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-20",
+      "id": "0994b0f9b13f"
+    },
+    {
+      "title_ru": "Советник лидера Ирана: подавление шиитских священнослужителей расширит разрыв между режимом Бахрейна и народом",
+      "title_en": "Leader’s advisor: Repression of Shia clerics will widen rift between Bahraini regime and people",
+      "date": "2026-11-22",
+      "summary": "Старший советник лидера Исламской революции Ирана заявил, что подавление шиитских священнослужителей расширит разрыв между режимом Бахрейна и народом. Заявление сделано на фоне усиления репрессий против шиитов в Бахрейне.",
+      "category": "statement",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/11/20/781171/leaders-advisor-suppression-of-shia-clerics-will-deepen-rift-between-bahrain-regime-nation"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-22",
+      "id": "c816a93ef80d"
+    },
+    {
+      "title_ru": "Фотограф создал самодельную цифровую дальномерную камеру из двух старых Canon",
+      "title_en": "This Photographer Built a DIY Digital Rangefinder Using Two Old Canon Cameras",
+      "date": "2026-11-21",
+      "summary": "Фотограф и создатель Mr. 50mm построил самодельную цифровую дальномерную камеру, используя детали, спасенные от советского дальномера FED 5 и камеры Panasonic GF3 Micro Four Thirds. Проект демонстрирует возможности кастомной сборки фототехники.",
+      "category": "photo",
+      "region": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/11/21/this-photographer-built-a-diy-digital-rangefinder-using-two-old-canon-cameras/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-21",
+      "id": "f8cc61a963c5"
+    },
+    {
+      "title_ru": "Лесная служба США опубликовала отчеты о предполагаемых встречах со снежным человеком",
+      "title_en": "US Forest Service releases reports on alleged Bigfoot encounters",
+      "date": "2026-11-21",
+      "summary": "Лесная служба США обнародовала ранее засекреченные правительственные документы с отчетами о предполагаемых встречах со снежным человеком в американских лесах. Материалы содержат описания инцидентов и расследования.",
+      "category": "ecology",
+      "region": "США",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9126975"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-21",
+      "id": "f6bc07ade59f"
     }
   ],
   "_stats": {
-    "total_tokens": 1135212,
-    "total_cost": 72.03258
+    "total_tokens": 1153791,
+    "total_cost": 73.21419999999999
   }
 }
