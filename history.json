@@ -17,278 +17,6 @@
       "id": "6a433d7a6e57"
     },
     {
-      "title_ru": "ЮАР призывает к развитию собственных ИИ-инноваций",
-      "title_en": "Ramaphosa calls on SA to move beyond consuming technology and develop home-grown innovations",
-      "date": "2026-11-16",
-      "summary": "Президент ЮАР Сирил Рамафоса во время визита в Кремниевую долину призвал страну перейти от потребления технологий к разработке собственных ИИ-решений. Эксперты подчеркнули необходимость снижения зависимости от западных технологий.",
-      "category": "ai",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/tech/2026-11-16-ramaphosa-calls-on-sa-to-move-beyond-consuming-technology-and-develop-home-grown-innovations/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-16",
-      "id": "e439f128f64c"
-    },
-    {
-      "title_ru": "Cequence Security и KPMG выпустили отчет по управлению агентным ИИ",
-      "title_en": "Cequence Security and KPMG Collaborate on Joint Report Examining how Organisations can Govern and Secure Agentic AI",
-      "date": "2026-11-16",
-      "summary": "Компания Cequence Security совместно с KPMG опубликовала отчет об управлении и защите агентного искусственного интеллекта. Документ содержит рекомендации по обеспечению безопасности ИИ-систем.",
-      "category": "ai",
-      "region": "Мир",
-      "sources": [
-        "en.antaranews.com"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/442911/cequence-security-and-kpmg-collaborate-on-joint-report-examining-how-organisations-can-govern-and-secure-agentic-ai"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-16",
-      "id": "99a5615c2b7c"
-    },
-    {
-      "title_ru": "Эстония предлагает закрыть границу с Россией на неопределенный срок",
-      "title_en": "Estonia’s PM proposes closing border with Russia indefinitely — news website",
-      "date": "2026-11-16",
-      "summary": "Премьер-министр Эстонии Кристен Михаэль предложил закрыть границу с Россией на неопределенный срок. Пограничная служба готовится к возможному наплыву мигрантов в случае принятия такого решения.",
-      "category": "svo",
-      "region": "Эстония",
-      "sources": [
-        "tass.com"
-      ],
-      "links": [
-        "https://tass.com/world/2218645"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-16",
-      "id": "46378c6ed304"
-    },
-    {
-      "title_ru": "Южная Корея и Таиланд ускорят переговоры по экономическому партнерству",
-      "title_en": "S. Korea, Thailand agree to accelerate negotiations on economic partnership agreement",
-      "date": "2026-11-16",
-      "summary": "Южная Корея и Таиланд договорились ускорить переговоры по соглашению об экономическом партнерстве. Соглашение было достигнуто в ходе встречи президентов двух стран в Маниле.",
-      "category": "economy",
-      "region": "Южная Корея",
-      "sources": [
-        "en.yna.co.kr"
-      ],
-      "links": [
-        "https://en.yna.co.kr/view/AEN20261116008851315"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-16",
-      "id": "ef550f0b447e"
-    },
-    {
-      "title_ru": "Канада рассматривает сотрудничество с китайскими автопроизводителями",
-      "title_en": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
-      "date": "2026-11-16",
-      "summary": "Бывший глава Банка Англии Марк Карни заявил, что Канада может обратиться к китайским автопроизводителям в случае провала торговых переговоров с США. Это рассматривается как альтернатива для развития автомобильной промышленности.",
-      "category": "economy",
-      "region": "Канада",
-      "sources": [
-        "www.cbc.ca"
-      ],
-      "links": [
-        "https://www.cbc.ca/news/politics/canada-china-carney-auto-9.7423156?cmp=rss"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-16",
-      "id": "66f390270f91"
-    },
-    {
-      "title_ru": "Австралия откладывает законы о занижении цен на жилье",
-      "title_en": "Minns shelves underquoting laws amid housing slump and backlash from Sydney agents",
-      "date": "2026-11-16",
-      "summary": "Правительство штата Новый Южный Уэльс отложило введение законов о занижении цен на недвижимость. Решение принято из-за непредвиденного спада на рынке жилья и противодействия риэлторов Сиднея.",
-      "category": "life",
-      "region": "Австралия",
-      "sources": [
-        "www.smh.com.au"
-      ],
-      "links": [
-        "https://www.smh.com.au/national/nsw/minns-to-shelve-underquoting-laws-amid-unforeseen-housing-slump-backlash-from-sydney-agents-20261116-p61enz.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-16",
-      "id": "91758f039b7a"
-    },
-    {
-      "title_ru": "В Ленобласти обновили правила работы социального такси",
-      "title_en": "Leningrad region updates social taxi rules",
-      "date": "2026-11-16",
-      "summary": "Власти Ленинградской области обновили правила работы социального такси. Перечень социально значимых объектов разделен на основной и дополнительный для оптимизации маршрутов.",
-      "category": "life",
-      "region": "Россия",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/obschestvo/28321269"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-16",
-      "id": "3ed22df44001"
-    },
-    {
-      "title_ru": "Израиль расширяет операции на юге Ливана",
-      "title_en": "Northern Command expands southern Lebanon sweeps as Hezbollah tests Israel's border readiness",
-      "date": "2026-11-16",
-      "summary": "Армия обороны Израиля под командованием Северного округа расширяет операции на юге Ливана для контроля стратегических высот и основных транспортных артерий. Цель — усилить оборону границы.",
-      "category": "conflicts",
-      "region": "Израиль",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/israel-news/defense-news/article-915023"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-16",
-      "id": "b732493d6e78"
-    },
-    {
-      "title_ru": "Иран сообщает о провале блокады США",
-      "title_en": "News Review: Failed US blockade of Iran",
-      "date": "2026-11-16",
-      "summary": "Согласно отчету The New York Times, попытки США ужесточить блокаду Ирана путем закрытия его сухопутных маршрутов провалились. Иранские власти заявляют о сохранении транспортных коридоров.",
-      "category": "conflicts",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/11/12/780562/news-review-us-failed-blockade-of-iran"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-16",
-      "id": "4bfe592a9186"
-    },
-    {
-      "title_ru": "Бразилия рассматривает изменения в национальном экзамене для поступления в вузы",
-      "title_en": "Brazil Weighs Big Changes to College Exam",
-      "date": "2026-11-16",
-      "summary": "Министр образования Бразилии Леонардо Барчини заявил, что федеральное агентство Inep представит предложение по изменению национального экзамена Enem. Реформа направлена на модернизацию системы образования.",
-      "category": "politics",
-      "region": "Бразилия",
-      "sources": [
-        "riotimesonline.com"
-      ],
-      "links": [
-        "https://www.riotimesonline.com/brazil-enem-exam-changes-barchini-inep/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-16",
-      "id": "0867a5c03925"
-    },
-    {
-      "title_ru": "Индонезия подтверждает статус развивающегося рынка и продолжает реформы",
-      "title_en": "Reform push continues as Indonesia holds emerging market status: IDX",
-      "date": "2026-11-16",
-      "summary": "Индонезийская фондовая биржа подтвердила приверженность ускорению реформ на рынке капитала после сохранения страной статуса развивающегося рынка. Реформы направлены на повышение привлекательности для инвесторов.",
-      "category": "politics",
-      "region": "Индонезия",
-      "sources": [
-        "en.antaranews.com"
-      ],
-      "links": [
-        "https://en.antaranews.com/news/442975/reform-push-continues-as-indonesia-holds-emerging-market-status-idx"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-16",
-      "id": "ffb553d5fafc"
-    },
-    {
-      "title_ru": "Белоруссия обсудила свою роль в формировании ЕАО",
-      "title_en": "Belarus discusses its role in formation of EAO",
-      "date": "2026-11-16",
-      "summary": "На встрече у президента Беларуси Александра Лукашенко обсуждалась роль страны в формировании Евразийского объединения. Глава государства отметил серьезный вклад белорусов в создание этого края.",
-      "category": "politics",
-      "region": "Беларусь",
-      "sources": [
-        "www.belta.by"
-      ],
-      "links": [
-        "https://belta.by/president/view/kak-mladshaja-sestra-ili-doch-rol-belarusi-v-formirovanii-eao-stala-predmetom-obsuzhdenija-na-vstreche-811091-2026/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-16",
-      "id": "a963f3bc177f"
-    },
-    {
-      "title_ru": "Трамп обвиняет администрацию Байдена в ущербе гражданской авиации США",
-      "title_en": "Trump accuses Biden administration of damaging US civil aviation",
-      "date": "2026-11-16",
-      "summary": "Президент США Дональд Трамп заявил, что администрация его предшественника Джо Байдена ухудшила состояние гражданской авиации страны. По его словам, старая и сломанная система стала еще хуже.",
-      "category": "statement",
-      "region": "США",
-      "sources": [
-        "tass.com"
-      ],
-      "links": [
-        "https://tass.com/world/2218413"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-16",
-      "id": "a9b5aa3114e3"
-    },
-    {
-      "title_ru": "В Саудовской Аравии найдены следы древнейшего применения яда на охоте",
-      "title_en": "Traces of earliest poison use found in Saudi Arabia",
-      "date": "2026-11-16",
-      "summary": "Археологи обнаружили на берегу древнего озера Мундафан в Саудовской Аравии свидетельства использования яда древними людьми. Находка включает остатки растений, животных и тысячи каменных орудий.",
-      "category": "culture",
-      "region": "Саудовская Аравия",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/archeology/v-saudovskoi-nashli-sledy"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-16",
-      "id": "b4581a3d35f4"
-    },
-    {
-      "title_ru": "Авиаудары по Ирану могут пролить свет на целесообразность строительства плотин",
-      "title_en": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
-      "date": "2026-11-16",
-      "summary": "Авиаудары по иранским ракетным объектам могут помочь экологам понять причины строительства обширной сети водных проектов. Ранее экологи не находили очевидного обоснования для этих сооружений.",
-      "category": "ecology",
-      "region": "Иран",
-      "sources": [
-        "rss.nytimes.com"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/11/16/world/europe/iran-dams-missile-sites-environmentalists.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-16",
-      "id": "16897b8ca742"
-    },
-    {
-      "title_ru": "Биологи выяснили, почему кислый вкус перебивает все другие",
-      "title_en": "Biologists find out why sour taste overrides all others",
-      "date": "2026-11-16",
-      "summary": "Нейробиологи показали на мышах, что кислая еда подавляет сигналы от сладкого, соленого и горького до того, как они достигнут мозга. Рецепторы на языке работают как химический фильтр, самостоятельно блокируя передачу других вкусов.",
-      "category": "tech",
-      "region": "Россия",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/biology/kislyi-perebivaet-drugie"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-16",
-      "id": "ffc88414cb76"
-    },
-    {
       "title_ru": "Apple Watch Live Rewind может записывать и перематывать разговоры",
       "title_en": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
       "date": "2026-11-17",
@@ -304,23 +32,6 @@
       "is_development": false,
       "first_reported": "2026-11-17",
       "id": "dead23d391ea"
-    },
-    {
-      "title_ru": "EPA сокращает миссии самолета для обнаружения химикатов",
-      "title_en": "The EPA’s Chemical-Detecting Plane Isn’t Doing Its Job Anymore",
-      "date": "2026-11-16",
-      "summary": "Самолет Cessna Агентства по охране окружающей среды США летает реже и больше не может предоставлять данные в реальном времени для реагирования на чрезвычайные ситуации. Это происходит на фоне роста токсических инцидентов.",
-      "category": "tech",
-      "region": "США",
-      "sources": [
-        "www.wired.com"
-      ],
-      "links": [
-        "https://www.wired.com/story/epa-chemical-detecting-plane-isnt-doing-job/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-16",
-      "id": "506fdc8da893"
     },
     {
       "title_ru": "Южная Корея усиливает меры против списывания с помощью ИИ на экзаменах",
@@ -340,23 +51,6 @@
       "id": "37f3c94592e0"
     },
     {
-      "title_ru": "Apple внедряет новые меры безопасности для Mac на фоне рисков от ИИ-агентов",
-      "title_en": "Apple reveals new Mac security controls as AI agents raise privacy risks",
-      "date": "2026-11-16",
-      "summary": "Apple представила новые элементы управления разрешениями, предупреждения и функции прозрачности в macOS 27.3. Меры направлены на устранение рисков, связанных с ИИ-агентами и другими приложениями.",
-      "category": "ai",
-      "region": "США",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-16",
-      "id": "c741e0e99f61"
-    },
-    {
       "title_ru": "Восьмилетняя девочка создала три приложения на ИИ и обучила одноклассников",
       "title_en": "At 8, she built 3 AI apps and taught all 30 classmates to use the technology creatively; now wins STEM award as youngest finalist",
       "date": "2026-11-17",
@@ -372,23 +66,6 @@
       "is_development": false,
       "first_reported": "2026-11-17",
       "id": "a664d2cd741f"
-    },
-    {
-      "title_ru": "ЮАР не готовится к прогнозируемому рекордному Эль-Ниньо",
-      "title_en": "A forecast, an impending disaster. Why are South African decision makers waiting for El Niño?",
-      "date": "2026-11-16",
-      "summary": "Прогнозисты предупреждают о потенциально рекордном Эль-Ниньо, но правовые рамки и системы управления чрезвычайными ситуациями в ЮАР остаются реактивными, а не упреждающими. Это подвергает риску уязвимые сообщества.",
-      "category": "life",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/thought-leader/2026-11-16-a-forecast-an-impending-disaster-why-are-south-african-decision-makers-waiting-for-el-nino/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-16",
-      "id": "1df0854abdc8"
     },
     {
       "title_ru": "Индонезия призывает бесплатные столовые подавать рыбу дважды в неделю",
@@ -493,23 +170,6 @@
       "id": "0db4ef60cbf1"
     },
     {
-      "title_ru": "Министр диаспоры Израиля хочет лишить гражданства активиста за антиармейские посты",
-      "title_en": "Chikli seeks to revoke citizenship of Russian-born activist who shared anti-IDF social media posts",
-      "date": "2026-11-16",
-      "summary": "Министр диаспоры Израиля Амихай Чикли добивается лишения гражданства активиста Андрея Краснянского за посты в соцсетях, которые, по его словам, порочат Израиль и солдат ЦАХАЛа.",
-      "category": "politics",
-      "region": "Израиль",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/israel-news/article-915067"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-16",
-      "id": "e254484d4a2b"
-    },
-    {
       "title_ru": "Блок Эйзенкота исключил создание коалиционного кабинета с Нетаньяху",
       "title_en": "Eisenkot-led opposition bloc rules out coalition cabinet with Netanyahu: Report",
       "date": "2026-11-17",
@@ -612,23 +272,6 @@
       "id": "c37321c617f8"
     },
     {
-      "title_ru": "В ЮАР сообщили об угрозе взрыва в деловом центре Сандтон",
-      "title_en": "Bomb threat leads to road closures in Sandton CBD",
-      "date": "2026-11-16",
-      "summary": "Сообщение об угрозе взрыва возле Элис-Лейн и Сандтон-Драйв привело к закрытию дорог и проверкам полицейским саперным подразделением в деловом центре Сандтон.",
-      "category": "conflicts",
-      "region": "ЮАР",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/news/south-africa/2026-11-16-bomb-threat-leads-to-road-closures-in-sandton-cbd/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-16",
-      "id": "69b4590ad263"
-    },
-    {
       "title_ru": "ФСБ сообщила о предотвращении атак БПЛА на корабли и аэродромы на юге России",
       "title_en": "ФСБ сообщила о предотвращении атак БПЛА на корабли и аэродромы на юге России",
       "date": "2026-11-17",
@@ -695,23 +338,6 @@
       "is_development": false,
       "first_reported": "2026-11-17",
       "id": "368f318aec29"
-    },
-    {
-      "title_ru": "Иранский спикер парламента заявил, что регионального мира не будет без прекращения войны Израиля с Ливаном",
-      "title_en": "No regional peace without end to Israeli war on Lebanon: Ghalibaf",
-      "date": "2026-11-16",
-      "summary": "Спикер парламента Ирана Мохаммад Багер Галибаф заявил, что Тегеран придает особое значение вопросу Ливана в процессе переговоров с Вашингтоном. Он утверждает, что регионального мира не будет без прекращения войны Израиля с Ливаном.",
-      "category": "statement",
-      "region": "Иран",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/11/16/780895/no-regional-peace-without-end-to-israeli-war-on-lebanon-irans-qalibaf"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-16",
-      "id": "be2878299c7a"
     },
     {
       "title_ru": "Физики описали новый вид радиоактивности — одновременный α-β-распад",
@@ -2159,10 +1785,295 @@
       "is_development": false,
       "first_reported": "2026-11-23",
       "id": "6eb83806221f"
+    },
+    {
+      "title_ru": "Garmin запатентовала технологию солнечной зарядки для AMOLED-часов без ущерба для дисплея",
+      "title_en": "Garmin patent could bring solar charging to AMOLED watches without sacrificing display quality",
+      "date": "2026-11-23",
+      "summary": "Компания Garmin подала патент в мае 2025 года, опубликованный в ноябре 2026 года. Технология позволяет умным часам собирать окружающий свет и медленно подзаряжать аккумулятор на улице без отдельного сеанса зарядки.",
+      "category": "tech",
+      "region": "Дальний Восток",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "gizmochina.com"
+      ],
+      "links": [
+        "https://www.gizmochina.com/2026/11/23/garmin-patent-could-bring-solar-charging-to-amoled-watches-without-sacrificing-display-quality/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-23",
+      "id": "e18b17177b3f"
+    },
+    {
+      "title_ru": "Исследование на Тайване выявило четыре редких варианта ДНК, связанных с шизофренией",
+      "title_en": "Study finds 4 rare DNA variants tied to schizophrenia",
+      "date": "2026-11-24",
+      "summary": "На Тайване проведено исследование, которое выявило четыре редких генетических варианта, связанных с шизофренией. Результаты опубликованы в научной работе.",
+      "category": "tech",
+      "region": "Дальний Восток",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "taipeitimes.com"
+      ],
+      "links": [
+        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/24/2003868291"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-24",
+      "id": "de32397f60aa"
+    },
+    {
+      "title_ru": "В атмосфере экзопланеты впервые обнаружены европий и вольфрам",
+      "title_en": "В атмосфере экзопланеты впервые нашли европий и вольфрам",
+      "date": "2026-11-24",
+      "summary": "Астрономы впервые обнаружили следы европия и вольфрама в атмосфере ультрагорячего юпитера TOI-1518b. Атмосфера планеты настолько раскалена, что металлы могут существовать там в газообразном состоянии.",
+      "category": "tech",
+      "region": "Россия",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/astronomy/ekzoplanety-nashli-evropii-i-volfram"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-24",
+      "id": "5ae9d0d80bce"
+    },
+    {
+      "title_ru": "Россияне охотнее планируют ребенка, если мужчина больше помогает по дому",
+      "title_en": "Россияне охотнее планируют ребенка, если мужчина больше помогает по дому",
+      "date": "2026-11-24",
+      "summary": "Экономист НИУ ВШЭ выяснила, что россияне чаще собираются завести ребенка, если домашние обязанности распределены между супругами равномерно. Связь наиболее выражена у родителей одного ребенка.",
+      "category": "tech",
+      "region": "Россия",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/column/ohotnee-planiruyut-rebenka"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-24",
+      "id": "f37a9d6c6667"
+    },
+    {
+      "title_ru": "Украина использует ИИ для вмешательства в российские военные системы",
+      "title_en": "Ukraine uses AI to interfere with Russian military systems — Russian official",
+      "date": "2026-11-24",
+      "summary": "Заместитель министра обороны России Дмитрий Щербинин заявил, что Украина использует искусственный интеллект для вмешательства в российские военные системы. Он отметил, что следующей целью является масштабирование системы Свод.",
+      "category": "ai",
+      "region": "Ближний Восток",
+      "perspective": "Российская сторона обвиняет Украину в использовании ИИ для атак на военные системы.",
+      "perspective_type": "from_source",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/defense/2223915"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-24",
+      "id": "9c86d1008d0b"
+    },
+    {
+      "title_ru": "Израиль перевел палестинскую журналистку обратно в тюрьму Дамон после 80 дней в одиночке",
+      "title_en": "Israel moves Palestinian journalist back to Damon prison after 80 days in solitary confinement",
+      "date": "2026-11-24",
+      "summary": "Израильские власти перевели палестинскую журналистку обратно в тюрьму Дамон после 80 дней содержания в одиночной камере. Она сообщила адвокату, что не знала причин изоляции, даже после решения о ее продлении в начале ноября.",
+      "category": "life",
+      "region": "Ближний Восток",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/11/22/781314/palestinian-journalist-transferred-to-damon-prison-after-80-days-in-solitary-confinement"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-24",
+      "id": "587ec70b8bc1"
+    },
+    {
+      "title_ru": "Израиль выставил на продажу конфискованный палестинский дом за 20 миллионов долларов",
+      "title_en": "Israel lists stolen Palestinian home for sale for $20 million",
+      "date": "2026-11-24",
+      "summary": "Израиль выставил на продажу конфискованный палестинский дом за 20 миллионов долларов. Губернаторство Аль-Кудс предупредило, что перепродажа захваченных домов по завышенным ценам может ускорить расширение поселений.",
+      "category": "conflicts",
+      "region": "Ближний Восток",
+      "perspective": "Палестинская сторона рассматривает это как экспроприацию и стимулирование поселенческой деятельности.",
+      "perspective_type": "from_source",
+      "sources": [
+        "presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/11/23/781375/israel-puts-seized-palestinian-home-up-for-20-million"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-24",
+      "id": "aa313648f7d8"
+    },
+    {
+      "title_ru": "Израильские политики осудили «еврейский терроризм» после атак на Западном берегу",
+      "title_en": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
+      "date": "2026-11-23",
+      "summary": "Израильские политические лидеры осудили «еврейский терроризм» после серии насильственных рейдов экстремистских поселенцев в палестинских деревнях на Западном берегу. Противники правительства Нетаньяху потребовали решительного ответа.",
+      "category": "conflicts",
+      "region": "Ближний Восток",
+      "perspective": "Часть израильского политического истеблишмента осуждает действия поселенцев как терроризм.",
+      "perspective_type": "from_source",
+      "sources": [
+        "nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-23",
+      "id": "ee0af9c5f5e6"
+    },
+    {
+      "title_ru": "Верховный суд Дании поддержал жесткий закон об иммиграции «гетто»",
+      "title_en": "Denmark: Top court backs hardline immigration \"ghetto law\"",
+      "date": "2026-11-23",
+      "summary": "Верховный суд Дании постановил, что выселение жителей «незападного» происхождения не является дискриминацией. Правительство Копенгагена утверждает, что его «закон о гетто» способствует интеграции.",
+      "category": "politics",
+      "region": "Европа",
+      "perspective": "Суд и правительство считают меру законной и направленной на интеграцию, критики видят в ней дискриминацию.",
+      "perspective_type": "from_source",
+      "sources": [
+        "dw.com"
+      ],
+      "links": [
+        "https://www.dw.com/en/denmark-top-court-backs-hardline-immigration-ghetto-law/a-80026478?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-23",
+      "id": "3bb0419c3020"
+    },
+    {
+      "title_ru": "Индонезия и ЕС заключили торговую сделку, вызвавшую надежды и опасения",
+      "title_en": "Indonesia-EU trade deal sparks 'ambitious' hopes and transition concerns",
+      "date": "2026-11-24",
+      "summary": "Индонезия и Европейский союз заключили торговое соглашение. Сделка вызвала как «амбициозные» надежды, так и опасения по поводу перехода.",
+      "category": "economy",
+      "region": "Дальний Восток",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "asia.nikkei.com"
+      ],
+      "links": [
+        "https://asia.nikkei.com/economy/trade/indonesia-eu-trade-deal-sparks-ambitious-hopes-and-transition-concerns"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-24",
+      "id": "2ced33ecff1f"
+    },
+    {
+      "title_ru": "Индонезия добивается всеобъемлющей торговой сделки с Великобританией",
+      "title_en": "Indonesia pushes for comprehensive trade deal with UK",
+      "date": "2026-11-24",
+      "summary": "Индонезия настаивает на заключении всеобъемлющего двустороннего торгового соглашения с Великобританией. Цель — укрепить доступ на рынки и углубить экономическое партнерство.",
+      "category": "economy",
+      "region": "Дальний Восток",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "antaranews.com"
+      ],
+      "links": [
+        "https://en.antaranews.com/news/444939/indonesia-pushes-for-comprehensive-trade-deal-with-uk"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-24",
+      "id": "3b65ae843723"
+    },
+    {
+      "title_ru": "Африканский национальный конгресс отклонил предложение ActionSA о кресле советника",
+      "title_en": "ANC rejects ActionSA offer to accommodate regional chair Loyiso Masuku as PR councillor",
+      "date": "2026-11-23",
+      "summary": "Африканский национальный конгресс отклонил предложение партии ActionSA предоставить кресло советника по пропорциональному представительству своему региональному председателю Лойисо Масуку в городе Йоханнесбург. Обсуждения коалиции продолжаются.",
+      "category": "politics",
+      "region": "Африка",
+      "perspective": "ANC отказывается от политического предложения конкурента в ходе формирования коалиции.",
+      "perspective_type": "from_source",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/politics/2026-11-23-anc-rejects-actionsa-offer-to-accommodate-regional-chair-loyiso-masuku-as-pr-councillor/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-23",
+      "id": "3935207efb73"
+    },
+    {
+      "title_ru": "Судья отчитался о членах совета UCT по делу о доноре на 200 млн рандов",
+      "title_en": "Why Judge Navsa Report cleared UCT council members over R200m donor fallout",
+      "date": "2026-11-24",
+      "summary": "Отставной судья Махомед Навса оправдал членов совета Кейптаунского университета в деле о неправомерных действиях. Расследование последовало за спором о доноре на 200 млн рандов, вызванном резолюциями университета по Газу.",
+      "category": "politics",
+      "region": "Африка",
+      "perspective": "Судья снял обвинения с руководства университета после внутреннего расследования.",
+      "perspective_type": "from_source",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/thought-leader/2026-11-24-why-judge-navsa-report-cleared-uct-council-members-over-r200m-donor-fallout/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-24",
+      "id": "fafdd9949e8d"
+    },
+    {
+      "title_ru": "Правнучку Хрущева оштрафовали по статье о деятельности иноагента",
+      "title_en": "Правнучку Хрущева оштрафовали по статье о деятельности иноагента",
+      "date": "2026-11-24",
+      "summary": "Тверской районный суд Москвы оштрафовал на 50 тыс. рублей правнучку Никиты Хрущева — публицистку Нину Хрущеву, объявленную в России иноагентом. Ее привлекли к ответственности за нарушение порядка деятельности иноагента.",
+      "category": "politics",
+      "region": "Россия",
+      "perspective": "Суд применил административное наказание к лицу, признанному иностранным агентом, за нарушение установленных правил.",
+      "perspective_type": "from_source",
+      "sources": [
+        "kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9129315"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-24",
+      "id": "7975a1f468ee"
+    },
+    {
+      "title_ru": "Объявлен шорт-лист первой детской премии Booker",
+      "title_en": "First Children's Booker prize reveals shortlist - and its child judges",
+      "date": "2026-11-24",
+      "summary": "Объявлен шорт-лист первой детской премии Booker. В него вошли восемь книг, включая «Войну» автора «Артемиса Фаула» Эойна Колфера и Эндрю Донкина. В жюри премии входят дети.",
+      "category": "culture",
+      "region": "Европа",
+      "perspective": "",
+      "perspective_type": "",
+      "sources": [
+        "bbc.co.uk"
+      ],
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c65y18gl23gko?at_medium=RSS&at_campaign=rss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-24",
+      "id": "cace7ff8adf1"
     }
   ],
   "_stats": {
-    "total_tokens": 1172618,
-    "total_cost": 74.42031999999999
+    "total_tokens": 1193267,
+    "total_cost": 75.75921999999998
   }
 }
