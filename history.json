@@ -17,211 +17,6 @@
       "id": "6a433d7a6e57"
     },
     {
-      "title_ru": "Химики нашли способ очищать воду с помощью ржавых гвоздей и старых батареек",
-      "title_en": "Chemists find way to purify water using rusty nails and old batteries",
-      "date": "2026-11-20",
-      "summary": "Российские химики разработали метод очистки воды от красителей и других трудноудаляемых веществ с использованием отходов металлов. Технология позволяет связывать загрязнители химически, избегая дорогостоящего центрифугирования.",
-      "category": "tech",
-      "region": "Россия",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/chemistry/rusty-nails-batteries-adsorb"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-20",
-      "id": "2b275c8ca10a"
-    },
-    {
-      "title_ru": "Rayzher и Messer заключили соглашение о полупроводниковых газах",
-      "title_en": "Rayzher, Messer ink deal over semiconductor gases",
-      "date": "2026-11-20",
-      "summary": "Компании Rayzher и Messer заключили соглашение о поставках газов для полупроводниковой промышленности. Детали сделки не раскрываются.",
-      "category": "tech",
-      "region": "Дальний Восток",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "www.taipeitimes.com"
-      ],
-      "links": [
-        "https://www.taipeitimes.com/News/biz/archives/2026/11/20/2003868044"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-20",
-      "id": "2ae47df7dcd1"
-    },
-    {
-      "title_ru": "Ледяные кольца оказались в десятки раз ярче своих планет",
-      "title_en": "Icy rings are dozens of times brighter than their planets",
-      "date": "2026-11-20",
-      "summary": "Расчеты астрономов показали, что ледяные кольца газовых гигантов и их спутники для земных телескопов могут быть в десятки раз ярче самих планет. Это означает, что многие системы с такими кольцами будет легче обнаружить.",
-      "category": "tech",
-      "region": "Россия",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/astronomy/ledyanye-koltsa-okazalis-v-desyatki-raz-yarche-svoih-planet"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-20",
-      "id": "6354d97b4fe0"
-    },
-    {
-      "title_ru": "В Иркутске отменили решение о сносе самовольно построенного дома за счет собственников",
-      "title_en": "In Irkutsk, the decision to demolish an unauthorized building at the expense of the owners was canceled",
-      "date": "2026-11-20",
-      "summary": "В Иркутске отменено решение о сносе самовольно построенного дома за счет собственников. Решение о сносе здания осталось в силе, но порядок финансирования изменен.",
-      "category": "life",
-      "region": "Россия",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "tass.ru"
-      ],
-      "links": [
-        "https://tass.ru/obschestvo/28339751"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-20",
-      "id": "093e85e70516"
-    },
-    {
-      "title_ru": "В Италии началась всеобщая забастовка против роста стоимости жизни",
-      "title_en": "A general strike against the cost of living has begun in Italy",
-      "date": "2026-11-20",
-      "summary": "20 ноября в Италии работники всех секторов экономики участвуют в 24-часовой всеобщей забастовке против роста стоимости жизни. Акция уже вызвала перебои в работе ряда учреждений и общественного транспорта.",
-      "category": "life",
-      "region": "Европа",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "www.ukrinform.ua"
-      ],
-      "links": [
-        "https://www.ukrinform.ua/rubric-world/4186798-v-italii-rozpocavsa-zagalnij-strajk-proti-zrostanna-vartosti-zitta.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-20",
-      "id": "885802553b48"
-    },
-    {
-      "title_ru": "Ливанский телеведущий надел кипу из сериала 'Фауда' на политика, желающего стать послом в Израиле",
-      "title_en": "Lebanese TV host puts 'Fauda' kippah on politician who wants to be ambassador to Israel",
-      "date": "2026-11-20",
-      "summary": "Ливанский медиаперсонаж Чарльз Джаббур, известный критикой Хезболлы и поддержкой связей с Израилем, смеялся, когда телеведущий надел на его голову кипу с израильской тематикой. Джаббур выразил желание стать послом Ливана в Израиле.",
-      "category": "conflicts",
-      "region": "Ближний Восток",
-      "perspective": "Действие рассматривается как провокационное в контексте напряженных ливано-израильских отношений и позиции Хезболлы.",
-      "perspective_type": "assumed",
-      "sources": [
-        "www.jpost.com"
-      ],
-      "links": [
-        "https://www.jpost.com/middle-east/article-915568"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-20",
-      "id": "23ab290b88f9"
-    },
-    {
-      "title_ru": "Тегеранские журналисты осудили отчеты NYT и CNN как предлог для атак на гражданскую инфраструктуру",
-      "title_en": "Tehran journalists slam NYT, CNN reports as pretext for attacks on civilian infrastructure",
-      "date": "2026-11-20",
-      "summary": "Ассоциация журналистов Тегерана предупредила, что использование медиаинструментов для оправдания атак на территорию независимой страны и ее жизненно важную инфраструктуру не является профессиональной журналистикой.",
-      "category": "conflicts",
-      "region": "Ближний Восток",
-      "perspective": "Иранские журналисты рассматривают западные репортажи как подготовку информационного фона для военных действий. Западные СМИ и НПО могут считать такие заявления пропагандой.",
-      "perspective_type": "assumed",
-      "sources": [
-        "www.presstv.ir"
-      ],
-      "links": [
-        "https://presstv.co.uk/Detail/2026/11/18/781026/tehran-journalists-condemn-nyt-cnn-reports-as-pretext-for-attacks-on-civilian-infrastructure"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-20",
-      "id": "d07ba16b9e95"
-    },
-    {
-      "title_ru": "Квартальный ВВП стран ОЭСР замедлился в третьем квартале до средних 0,6%",
-      "title_en": "Quarterly GDP of OECD countries slowed to an average of 0.6% in the third quarter",
-      "date": "2026-11-20",
-      "summary": "Рост ВВП стран-участниц ОЭСР (38 экономик) замедлился в третьем квартале до средних 0,6% с 0,7% во втором квартале. Данные опубликованы 19 ноября.",
-      "category": "economy",
-      "region": "Мир",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9114228"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-20",
-      "id": "7d75662193cb"
-    },
-    {
-      "title_ru": "Элбанез защитил свой упрек Путину, заявив, что потребовал немедленно остановить войну",
-      "title_en": "Albanese defends Putin rebuke, says he told him to stop war now",
-      "date": "2026-11-20",
-      "summary": "Премьер-министр Австралии Энтони Элбанез заявил, что он «очень четко сказал президенту Путину вчера, что ему нужно остановить свою войну, и остановить ее сейчас». Заявление сделано на фоне визита Си Цзиньпина, который выразил желание укрепить связи с Австралией.",
-      "category": "statement",
-      "region": "Океания и Австралия",
-      "perspective": "",
-      "perspective_type": "",
-      "sources": [
-        "www.smh.com.au"
-      ],
-      "links": [
-        "https://www.smh.com.au/politics/federal/xi-wants-stronger-bonds-with-australia-as-albanese-defends-putin-rebuke-20261120-p61fto.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-20",
-      "id": "5436d681b5ae"
-    },
-    {
-      "title_ru": "Новые геотермальные стартапы предлагают решение энергетических проблем дата-центров",
-      "title_en": "Super-hot rock geothermal could end data center energy woes",
-      "date": "2026-11-20",
-      "summary": "Стартапы в области геотермальной энергетики разрабатывают технологии сверхгорячих пород для производства тераватт электроэнергии практически в любой точке мира. Эти проекты направлены на решение энергетических проблем дата-центров.",
-      "category": "tech",
-      "region": "США",
-      "sources": [
-        "techcrunch.com"
-      ],
-      "links": [
-        "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-20",
-      "id": "799618436039"
-    },
-    {
-      "title_ru": "Китайский зонд восстановил историю крупнейшего удара по Луне",
-      "title_en": "Историю крупнейшего удара по Луне восстановили по образцам «Чанъэ-6»",
-      "date": "2026-11-20",
-      "summary": "Китайский автоматический аппарат \"Чанъэ-6\" доставил образцы с южного полюса Луны, позволившие восстановить историю крупнейшего удара небесного тела в Солнечной системе. Диаметр образовавшейся впадины превышает две тысячи километров.",
-      "category": "tech",
-      "region": "Китай",
-      "sources": [
-        "naked-science.ru"
-      ],
-      "links": [
-        "https://naked-science.ru/article/astronomy/udara-po-lune-vosstanovili"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-20",
-      "id": "f99cea0a101c"
-    },
-    {
       "title_ru": "Студенты в Словакии протестуют против роста цен на жилье и военных расходов",
       "title_en": "Студенты в Словакии вышли на митинг против роста цен на жилье и военных расходов",
       "date": "2026-11-21",
@@ -279,23 +74,6 @@
       "id": "565b598bfaf8"
     },
     {
-      "title_ru": "Гвинея заблокировала вещание телеканала Буркина-Фасо из-за карикатур",
-      "title_en": "Guinée/Burkina Faso: tensions après la diffusion de caricatures de M. Doumbouya",
-      "date": "2026-11-20",
-      "summary": "Гвинея заблокировала вещание государственного телеканала Буркина-Фасо RTB после публикации критического редакционного материала с карикатурой на президента Гвинеи Мамади Думбуя. Это привело к росту напряженности между странами.",
-      "category": "conflicts",
-      "region": "Западная Африка",
-      "sources": [
-        "www.france24.com"
-      ],
-      "links": [
-        "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261120-guin%C3%A9e-burkina-faso-tensions-apr%C3%A8s-la-diffusion-de-caricatures-de-m-doumbouya"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-20",
-      "id": "085c041e2c25"
-    },
-    {
       "title_ru": "США требуют от Украины заключить мирное соглашение с Россией к январю",
       "title_en": "US pushing Ukraine to reach peace deal with Russia before Democrats take Congress - report",
       "date": "2026-11-21",
@@ -315,40 +93,6 @@
       "id": "29344847526f"
     },
     {
-      "title_ru": "Путин заявил, что поддержка Украины Западом обусловлена эгоистичными интересами",
-      "title_en": "Ukraine should understand fight against Russia not supported out of love for it — Putin",
-      "date": "2026-11-20",
-      "summary": "Президент России Владимир Путин заявил, что поддержка Украины Западом осуществляется по эгоистичным причинам, а не из любви к Украине. По его словам, цель Запада — ослабить и расчленить всех.",
-      "category": "svo",
-      "region": "Россия",
-      "sources": [
-        "tass.com"
-      ],
-      "links": [
-        "https://tass.com/politics/2222749"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-20",
-      "id": "d811af3aa7b5"
-    },
-    {
-      "title_ru": "Правительство России определило приоритеты надзорной деятельности на 2027 год",
-      "title_en": "В правительстве определили приоритеты надзорной деятельности в 2027 году",
-      "date": "2026-11-20",
-      "summary": "Вице-премьер и глава аппарата правительства Ирина Окладникова обозначила приоритеты контрольно-надзорной деятельности на 2027 год. Впервые определены ключевые направления проверочной работы.",
-      "category": "economy",
-      "region": "Россия",
-      "sources": [
-        "www.kommersant.ru"
-      ],
-      "links": [
-        "https://www.kommersant.ru/doc/9126480"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-20",
-      "id": "abac2e876b72"
-    },
-    {
       "title_ru": "Власти Замбии подвергли критике за нарушения прав человека",
       "title_en": "Zambia Church Council Voices Rights Concern",
       "date": "2026-11-21",
@@ -364,23 +108,6 @@
       "is_development": false,
       "first_reported": "2026-11-21",
       "id": "637c041c8374"
-    },
-    {
-      "title_ru": "Суд в Мозамбике рассматривает дело оппозиционного политика Мондлане",
-      "title_en": "Mozambique's Mondlane trial puts judicial independence and rule of law under scrutiny",
-      "date": "2026-11-20",
-      "summary": "Верховный суд Мозамбика рассматривает дело оппозиционного политика Венанио Мондлане. Судьи исследуют, привели ли его политические выступления к послевыборному насилию, что ставит под вопрос независимость судебной системы.",
-      "category": "politics",
-      "region": "Мозамбик",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/thought-leader/2026-11-20-mozambique-s-mondlane-trial-puts-judicial-independence-and-rule-of-law-under-scrutiny/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-20",
-      "id": "4fa60b9c5633"
     },
     {
       "title_ru": "Пакистан отправит первого астронавта на китайском космическом корабле",
@@ -415,23 +142,6 @@
       "is_development": false,
       "first_reported": "2026-11-21",
       "id": "dd7b5fff8976"
-    },
-    {
-      "title_ru": "Глобальный энергетический кризис усиливает стремление Африки к доступу к электричеству",
-      "title_en": "Global energy crisis sharpens Africa's push for electricity access",
-      "date": "2026-11-20",
-      "summary": "Глобальный энергетический кризис усилил переход к возобновляемым источникам энергии. Африка сталкивается с проблемами в преобразовании огромного солнечного потенциала в надежное электроснабжение и всеобщий доступ к электричеству.",
-      "category": "tech",
-      "region": "Африка",
-      "sources": [
-        "mg.co.za"
-      ],
-      "links": [
-        "https://mg.co.za/the-green-guardian/2026-11-20-global-energy-crisis-sharpens-africa-s-push-for-electricity-access/"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-20",
-      "id": "63eb034d25c6"
     },
     {
       "title_ru": "Китай тайно скупает ИИ-чипы, обходя ограничения США",
@@ -585,23 +295,6 @@
       "is_development": false,
       "first_reported": "2026-11-22",
       "id": "c504baddb338"
-    },
-    {
-      "title_ru": "Дания выслала российского дипломата после обвинений в планировании убийства украинского рэпера",
-      "title_en": "Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit",
-      "date": "2026-11-20",
-      "summary": "Дания выслала российского дипломата после обвинений в том, что российские спецслужбы вербовали членов банды для попытки убийства украинского рэпера на концерте под Копенгагеном. Обвинения касаются планирования покушения.",
-      "category": "politics",
-      "region": "Дания",
-      "sources": [
-        "rss.nytimes.com"
-      ],
-      "links": [
-        "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html"
-      ],
-      "is_development": false,
-      "first_reported": "2026-11-20",
-      "id": "0994b0f9b13f"
     },
     {
       "title_ru": "Советник лидера Ирана: подавление шиитских священнослужителей расширит разрыв между режимом Бахрейна и народом",
@@ -2111,10 +1804,282 @@
       "is_development": false,
       "first_reported": "2026-11-26",
       "id": "d37093ff023f"
+    },
+    {
+      "title_ru": "«Росатом» завершил изготовление парогенераторов для исследовательской ядерной установки МБИР",
+      "title_en": "Rosatom completes manufacturing of steam generators for MBIR research nuclear facility",
+      "date": "2026-11-27",
+      "summary": "Госкорпорация «Росатом» завершила изготовление второго парогенератора для исследовательской ядерной установки «Многоцелевой быстрый исследовательский реактор» (МБИР). Парогенератор был изготовлен на заводе «ЗиО-Подольск».",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/column/parogenerator-dlya-mbir"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-27",
+      "id": "666473aa35f5"
+    },
+    {
+      "title_ru": "Российские физики синтезировали ферромагнетик с рекордной для силицидов температурой Кюри",
+      "title_en": "Russian physicists synthesize ferromagnet with record Curie temperature for silicides",
+      "date": "2026-11-27",
+      "summary": "Команда российских физиков под руководством профессора МИЭМ ВШЭ Сергея Демишева синтезировала новый материал из группы силицидов. Материал остается ферромагнетиком при рекордной температуре 397 °C.",
+      "category": "tech",
+      "region": "Россия",
+      "sources": [
+        "naked-science.ru"
+      ],
+      "links": [
+        "https://naked-science.ru/article/column/ferromagnetik-s-rekord-temp"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-27",
+      "id": "c2b6358f45fe"
+    },
+    {
+      "title_ru": "Toyota начинает кампанию по возвращению на китайский рынок с электромобилем с увеличенным запасом хода",
+      "title_en": "Toyota starts China comeback bid with extended-range EV",
+      "date": "2026-11-28",
+      "summary": "Японская компания Toyota начала кампанию по возвращению на китайский рынок с электромобилем с увеличенным запасом хода. Регион: Дальний Восток.",
+      "category": "tech",
+      "region": "Китай",
+      "sources": [
+        "asia.nikkei.com"
+      ],
+      "links": [
+        "https://asia.nikkei.com/spotlight/electric-cars-in-china/toyota-starts-china-comeback-bid-with-extended-range-ev"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-28",
+      "id": "a4c178a1dd5f"
+    },
+    {
+      "title_ru": "В Санкт-Петербурге выявили третий за сутки случай заражения оспой обезьян",
+      "title_en": "Third monkeypox case detected in St. Petersburg in a day",
+      "date": "2026-11-27",
+      "summary": "В Санкт-Петербурге за последние сутки выявили третий случай заражения оспой обезьян. Заболевший вернулся из поездки в Таиланд.",
+      "category": "life",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9144623"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-27",
+      "id": "16ab8a1a8a89"
+    },
+    {
+      "title_ru": "Власти Малави сталкиваются с критическим испытанием в борьбе с торговлей людьми",
+      "title_en": "Malawi’s trafficking fight needs results, not more promises",
+      "date": "2026-11-28",
+      "summary": "Власти Малави сталкиваются с критическим испытанием в борьбе с торговлей людьми. Соглашения и публичные кампании не могут защитить уязвимых мигрантов сами по себе.",
+      "category": "life",
+      "region": "Малави",
+      "sources": [
+        "mg.co.za"
+      ],
+      "links": [
+        "https://mg.co.za/thought-leader/2026-11-27-malawi-s-trafficking-fight-needs-results-not-more-promises/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-28",
+      "id": "5cb7fff99096"
+    },
+    {
+      "title_ru": "Турецкие и израильские болельщики столкнулись в аэропорту Грузии после беспорядков на футбольном матче",
+      "title_en": "Israeli, Turkish fans clash at Georgia airport following riot during Hapoel Beersheba soccer match",
+      "date": "2026-11-28",
+      "summary": "Турецкие и израильские футбольные болельщики столкнулись в аэропорту Грузии после беспорядков на матче между турецким «Бешикташем» и израильским «Хапоэль Беэр-Шева». Турецкие болельщики скандировали антиизраильские лозунги.",
+      "category": "conflicts",
+      "region": "Грузия",
+      "sources": [
+        "www.jpost.com"
+      ],
+      "links": [
+        "https://www.jpost.com/israel-news/sports/article-916377"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-28",
+      "id": "1267fb747a28"
+    },
+    {
+      "title_ru": "Турция вызвала посла Грузии после столкновений полиции с турецкими болельщиками на матче против израильского клуба",
+      "title_en": "Turkey summons Georgia’s ambassador over clashes at match against Israeli club",
+      "date": "2026-11-27",
+      "summary": "Турция вызвала посла Грузии после того, как полиция столкнулась с турецкими болельщиками во время матча Лиги Европы между стамбульским «Бешикташем» и израильским «Хапоэль Беэр-Шева» в грузинском городе Батуми.",
+      "category": "conflicts",
+      "region": "Турция",
+      "sources": [
+        "www.turkishminute.com"
+      ],
+      "links": [
+        "https://www.turkishminute.com/2026/11/27/turkey-summons-georgias-ambassador-over-clashes-at-match-against-israeli-club/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-27",
+      "id": "d3151e4399cb"
+    },
+    {
+      "title_ru": "НПЗ «Славянск-Эко» загорелся после удара БПЛА в Краснодарском крае",
+      "title_en": "Slavyansk-Eco oil refinery catches fire after UAV strike in Krasnodar Krai",
+      "date": "2026-11-26",
+      "summary": "Нефтеперерабатывающий завод «Славянск-Эко» в Краснодарском крае был атакован украинскими беспилотниками. Объект загорелся.",
+      "category": "svo",
+      "region": "Россия",
+      "sources": [
+        "www.kommersant.ru"
+      ],
+      "links": [
+        "https://www.kommersant.ru/doc/9131521"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-26",
+      "id": "c45d96bf9c0b"
+    },
+    {
+      "title_ru": "ЛНР увеличивает количество мобильных огневых групп на фоне роста украинских ударов",
+      "title_en": "LPR increases number of mobile fire groups amid growth in Ukrainian strikes",
+      "date": "2026-11-27",
+      "summary": "Глава ЛНР Леонид Пасечник заявил об увеличении количества мобильных огневых групп. Он отметил недавнюю эскалацию украинских атак, нацеленных на гражданскую инфраструктуру.",
+      "category": "svo",
+      "region": "ЛНР",
+      "sources": [
+        "tass.com"
+      ],
+      "links": [
+        "https://tass.com/politics/2226023"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-27",
+      "id": "82bfcf9a20af"
+    },
+    {
+      "title_ru": "Крупнейшие налогоплательщики Словакии сталкиваются с растущим сжатием маржи",
+      "title_en": "Slovakia’s biggest taxpayers face a growing margin squeeze",
+      "date": "2026-11-26",
+      "summary": "Крупнейшие налогоплательщики Словакии сталкиваются с растущим сжатием маржи. Немецкие предприятия предупреждают о росте затрат на рабочую силу и сохраняют осторожность в отношении инвестиций.",
+      "category": "economy",
+      "region": "Словакия",
+      "sources": [
+        "spectator.sme.sk"
+      ],
+      "links": [
+        "https://spectator.sme.sk/business/c/slovakia-s-biggest-taxpayers-face-a-growing-margin-squeeze?utm_source=rss&utm_medium=feed&utm_campaign=spectator-rss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-26",
+      "id": "7c7126e63bd0"
+    },
+    {
+      "title_ru": "В Австралии партия «Одна нация» набирает голоса в сельских округах в ущерб Лейбористской партии и Националам",
+      "title_en": "Labor, Nationals suffer backlash in the bush as One Nation vote soars",
+      "date": "2026-11-28",
+      "summary": "В Австралии партия «Одна нация» набирает голоса в сельских округах в ущерб Лейбористской партии и Националам. Предварительные опросы показали рост поддержки «Одной нации» в традиционных оплотах Националов.",
+      "category": "politics",
+      "region": "Австралия",
+      "sources": [
+        "www.smh.com.au"
+      ],
+      "links": [
+        "https://www.smh.com.au/politics/victoria/labor-nationals-suffer-backlash-in-the-bush-as-one-nation-vote-soars-20261128-p61hho.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-28",
+      "id": "bb1daa284efd"
+    },
+    {
+      "title_ru": "В Сербии арестован владелец телеканала Informer TV",
+      "title_en": "Informer TV owner Vucicevic arrested: Has the reckoning with Serbia's pro-Vucic media machine begun?",
+      "date": "2026-11-27",
+      "summary": "В Сербии арестован владелец медиахолдинга Dragan J. Vucicevic, владелец телеканала Informer TV. Арест поднимает вопросы о том, начинается ли в стране расправа над проправительственными медиа.",
+      "category": "politics",
+      "region": "Сербия",
+      "sources": [
+        "rss.dw.com"
+      ],
+      "links": [
+        "https://www.dw.com/en/informer-tv-owner-vucicevic-arrested-has-the-reckoning-with-serbia-s-pro-vucic-media-machine-begun/a-80074650?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-27",
+      "id": "238de1f38205"
+    },
+    {
+      "title_ru": "Командующий КСИР предупредил «интервенционистские державы» о сильном ответе на любую агрессию",
+      "title_en": "Iranian naval forces ready to powerfully respond to any aggression: IRGC chief",
+      "date": "2026-11-28",
+      "summary": "Командующий Корпусом стражей исламской революции предупредил «интервенционистские державы» о сильном ответе в случае любого акта агрессии.",
+      "category": "statement",
+      "region": "Иран",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/11/28/781797/iran-navy-ready-powerfully-respond-irgc-chief"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-28",
+      "id": "08c4543bc62e"
+    },
+    {
+      "title_ru": "Палестинцы провели акцию протеста у штаб-квартиры БАПОР в Бейруте в День солидарности",
+      "title_en": "Palestinians rally outside UNRWA headquarters in Beirut on solidarity day",
+      "date": "2026-11-27",
+      "summary": "Палестинцы провели демонстрацию в Бейруте, призывая к большей поддержке беженцев в Международный день солидарности с палестинским народом.",
+      "category": "culture",
+      "region": "Ливан",
+      "sources": [
+        "www.presstv.ir"
+      ],
+      "links": [
+        "https://presstv.co.uk/Detail/2026/11/27/781725/palestinians-demonstrate-outside-unrwa-office-in-beirut-on-solidarity-day"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-27",
+      "id": "ef093d16bf45"
+    },
+    {
+      "title_ru": "Arkivism — это поисковый архив из более чем четырех миллионов бесплатных изображений общественного достояния",
+      "title_en": "Arkivism Is a Searchable Archive of More Than Four Million Free Public Domain Images",
+      "date": "2026-11-27",
+      "summary": "Новый веб-сайт Arkivism объединяет более четырех миллионов изображений и видео, находящихся в общественном достоянии, в одном месте для облегчения поиска исторических изображений.",
+      "category": "photo",
+      "region": "Мир",
+      "sources": [
+        "petapixel.com"
+      ],
+      "links": [
+        "https://petapixel.com/2026/11/27/arkivism-is-a-searchable-archive-of-more-than-four-million-free-public-domain-images/"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-27",
+      "id": "b98818d255fe"
+    },
+    {
+      "title_ru": "13 человек погибли и 13 считаются заблокированными в индонезийской шахте после сильных дождей",
+      "title_en": "13 Dead and 13 Thought Trapped in Indonesian Mine After Heavy Rain",
+      "date": "2026-11-26",
+      "summary": "13 человек погибли и 13 считаются заблокированными в нелегальной золотой шахте в Индонезии после сильных дождей. Десятки рабочих оказались заблокированы внутри с понедельника после затопления узких штолен.",
+      "category": "ecology",
+      "region": "Индонезия",
+      "sources": [
+        "rss.nytimes.com"
+      ],
+      "links": [
+        "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html"
+      ],
+      "is_development": false,
+      "first_reported": "2026-11-26",
+      "id": "8622328326bf"
     }
   ],
   "_stats": {
-    "total_tokens": 1252384,
-    "total_cost": 79.54153999999998
+    "total_tokens": 1271649,
+    "total_cost": 80.76989999999998
   }
 }
